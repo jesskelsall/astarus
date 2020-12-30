@@ -2,17 +2,17 @@
 
 | []() | |
 | --- | --- |
-| Capital City | Newhaven |
-| Official Languages | Common |
-| Ethnic Groups | Human<br />Halfling<br /> |
-| Religion | The Order of the Diamond |
-| Demonyms | Astorian |
-| Government | Militocracy |
-| Leader | Corville Thornox<br />*General Supreme* |
-| Territories | South-East Kardan<br />Kardanis |
-| Founded | *0 PA* |
-| Neighbours | Dardenn Kingdom (north)<br />Syntenne Republic (south) |
-| Wars | Astor-Syntenne War (*88 PA* - current) |
+| **Capital City** | Newhaven |
+| **Official Languages** | Common |
+| **Ethnic Groups** | Human<br />Halfling<br /> |
+| **Religion** | The Order of the Diamond |
+| **Demonyms** | Astorian |
+| **Government** | Militocracy |
+| **Leader** | Corville Thornox<br />*General Supreme* |
+| **Territories** | South-East Kardan<br />Kardanis |
+| **Founded** | *0 PA* |
+| **Neighbours** | Dardenn Kingdom (north)<br />Syntenne Republic (south) |
+| **Wars** | Astor-Syntenne War (*88 PA* - current) |
 
 ## Summary
 

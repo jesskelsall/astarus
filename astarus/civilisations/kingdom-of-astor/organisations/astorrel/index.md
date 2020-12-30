@@ -4,9 +4,9 @@
 
 | []() | |
 | --- | --- |
-| Superior Officer | Unknown General<br />*General* |
-| Leader | Unknown Commandant<br />*Commandant* |
-| Patron God | [Kirrel](../../../gods/gods/kirrel.md) |
+| **Superior Officer** | Unknown General<br />*General* |
+| **Leader** | Unknown Commandant<br />*Commandant* |
+| **Patron God** | [Kirrel](../../../gods/gods/kirrel.md) |
 
 ## Summary
 

@@ -4,15 +4,15 @@
 
 | []() | |
 | --- | --- |
-| Name | Levelle Tristwix |
-| Race | Halfling |
-| Gender | Variant |
-| Age | 57 |
-| Class | Druid |
-| Alignment | Lawful Good |
-| Affiliation | Astorrel, Commandant |
-| Worship | Kirrel |
-| Relations | |
+| **Name** | Levelle Tristwix |
+| **Race** | Halfling |
+| **Gender** | Variant |
+| **Age** | 57 |
+| **Class** | Druid |
+| **Alignment** | Lawful Good |
+| **Affiliation** | Astorrel, Commandant |
+| **Worship** | Kirrel |
+| **Relations** | |
 
 ## Summary
 

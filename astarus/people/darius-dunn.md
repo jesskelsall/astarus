@@ -4,15 +4,15 @@
 
 | []() | |
 | --- | --- |
-| Name | Darius Dunn |
-| Race | Genasi |
-| Gender | Male |
-| Age | 17 |
-| Class | Cleric |
-| Alignment | Lawful Good |
-| Affiliation | Astorrel<br />Squad Hand: Ruby Squad |
-| Worship | Valnos |
-| Relations | |
+| **Name** | Darius Dunn |
+| **Race** | Genasi |
+| **Gender** | Male |
+| **Age** | 17 |
+| **Class** | Cleric |
+| **Alignment** | Lawful Good |
+| **Affiliation** | Astorrel<br />Squad Hand: Ruby Squad |
+| **Worship** | Valnos |
+| **Relations** | |
 
 ## Summary
 

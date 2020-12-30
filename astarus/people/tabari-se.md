@@ -4,15 +4,15 @@
 
 | []() | |
 | --- | --- |
-| Name | Tabari Se |
-| Race | Halfling |
-| Gender | Male |
-| Age | 41 |
-| Class | Monk / Sorcerer |
-| Alignment | Lawful Neutral |
-| Affiliation | Astorrel<br />Squad Hand: Ruby Squad |
-| Worship | Kirrel |
-| Relations | |
+| **Name** | Tabari Se |
+| **Race** | Halfling |
+| **Gender** | Male |
+| **Age** | 41 |
+| **Class** | Monk / Sorcerer |
+| **Alignment** | Lawful Neutral |
+| **Affiliation** | Astorrel<br />Squad Hand: Ruby Squad |
+| **Worship** | Kirrel |
+| **Relations** | |
 
 ## Summary
 

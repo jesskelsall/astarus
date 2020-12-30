@@ -4,6 +4,6 @@
 
 | []() | |
 | --- | --- |
-| Superior Officer | Unknown General<br />*General* |
-| Leader | Unknown Commandant<br />*Commandant* |
-| Patron God | [Valnos](../../../gods/gods/valnos.md) |
+| **Superior Officer** | Unknown General<br />*General* |
+| **Leader** | Unknown Commandant<br />*Commandant* |
+| **Patron God** | [Valnos](../../../gods/gods/valnos.md) |

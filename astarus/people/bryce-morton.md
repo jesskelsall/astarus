@@ -4,15 +4,15 @@
 
 | []() | |
 | --- | --- |
-| Name | Bryce Morton |
-| Race | Human |
-| Gender | Male |
-| Age | 44 |
-| Class | Fighter |
-| Alignment | Lawful Neutral |
-| Affiliation | Astorrel, Squad Sergeant |
-| Worship | Kirrel |
-| Relations | Commanding Officer:<br />[Players] |
+| **Name** | Bryce Morton |
+| **Race** | Human |
+| **Gender** | Male |
+| **Age** | 44 |
+| **Class** | Fighter |
+| **Alignment** | Lawful Neutral |
+| **Affiliation** | Astorrel, Squad Sergeant |
+| **Worship** | Kirrel |
+| **Relations** | Commanding Officer:<br />[Players] |
 
 ## Summary
 

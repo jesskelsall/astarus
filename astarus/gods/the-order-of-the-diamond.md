@@ -4,9 +4,9 @@
 
 | []() | |
 | --- | --- |
-| Gods | [Bhygar](gods/bhygar.md), [Valnos](gods/valnos.md), [Kirrel](gods/kirrel.md), [Gormox](gods/gormox.md) |
-| Codified by | Kingdom of Astor |
-| Worshipping Organisations | Astornar, Astornox, Astorrel, Astornos |
+| **Gods** | [Bhygar](gods/bhygar.md), [Valnos](gods/valnos.md), [Kirrel](gods/kirrel.md), [Gormox](gods/gormox.md) |
+| **Codified by** | Kingdom of Astor |
+| **Worshipping Organisations** | Astornar, Astornox, Astorrel, Astornos |
 
 ## Beliefs
 

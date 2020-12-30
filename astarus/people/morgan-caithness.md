@@ -4,15 +4,15 @@
 
 | []() | |
 | --- | --- |
-| Name | Morgan Caithness |
-| Race | Human |
-| Gender | Female |
-| Age | 29 |
-| Class | Fighter |
-| Alignment | True Neutral |
-| Affiliation | Astorrel<br />Squad Hand: Ruby Squad |
-| Worship | Gormox |
-| Relations | |
+| **Name** | Morgan Caithness |
+| **Race** | Human |
+| **Gender** | Female |
+| **Age** | 29 |
+| **Class** | Fighter |
+| **Alignment** | True Neutral |
+| **Affiliation** | Astorrel<br />Squad Hand: Ruby Squad |
+| **Worship** | Gormox |
+| **Relations** | |
 
 ## Summary
 

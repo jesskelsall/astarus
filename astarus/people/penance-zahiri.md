@@ -4,15 +4,15 @@
 
 | []() | |
 | --- | --- |
-| Name | Penance Zahiri |
-| Race | Tiefling |
-| Gender | Variant |
-| Age | 23 |
-| Class | Paladin |
-| Alignment | Chaotic Good |
-| Affiliation | Astorrel<br />Squad Hand: Ruby Squad |
-| Worship | Bhygar |
-| Relations | |
+| **Name** | Penance Zahiri |
+| **Race** | Tiefling |
+| **Gender** | Variant |
+| **Age** | 23 |
+| **Class** | Paladin |
+| **Alignment** | Chaotic Good |
+| **Affiliation** | Astorrel<br />Squad Hand: Ruby Squad |
+| **Worship** | Bhygar |
+| **Relations** | |
 
 ## Summary
 
