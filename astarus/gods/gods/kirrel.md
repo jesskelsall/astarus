@@ -2,7 +2,7 @@
 
 > All that we are and can be comes from the ground. Kirrel’s gifts allow us to prosper.
 
-<img src="../../../images/kirrel.png" height="200" />
+<img src="../../../images/gods/kirrel.png" height="200" />
 
 | []() | |
 | --- | --- |

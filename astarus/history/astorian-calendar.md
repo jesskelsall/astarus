@@ -17,14 +17,14 @@ The first day of the year does not belong to any month.
 
 | # | Month | Equivalent Months | Associated God |
 | --- | --- | --- | --- |
-| 1 | Balghast | Jan / Feb | [Bhygar](../gods/bhygar.md) |
-| 2 | Melnish | Feb / Mar | [Bhygar](../gods/bhygar.md) |
-| 3 | Nosgorat | Apr / May | [Valnos](../gods/valnos.md) |
-| 4 | Vishantu | May / Jun | [Valnos](../gods/valnos.md) |
-| 5 | Finsbock | Jul / Aug | [Kirrel](../gods/kirrel.md) |
-| 6 | Taledus | Aug / Sep | [Kirrel](../gods/kirrel.md) |
-| 7 | Shavdor | Oct / Nov | [Gormox](../gods/gormox.md) |
-| 8 | Ultux | Nov / Dec | [Gormox](../gods/gormox.md) |
+| 1 | Balghast | Jan / Feb | [Bhygar](../gods/gods/bhygar.md) |
+| 2 | Melnish | Feb / Mar | [Bhygar](../gods/gods/bhygar.md) |
+| 3 | Nosgorat | Apr / May | [Valnos](../gods/gods/valnos.md) |
+| 4 | Vishantu | May / Jun | [Valnos](../gods/gods/valnos.md) |
+| 5 | Finsbock | Jul / Aug | [Kirrel](../gods/gods/kirrel.md) |
+| 6 | Taledus | Aug / Sep | [Kirrel](../gods/gods/kirrel.md) |
+| 7 | Shavdor | Oct / Nov | [Gormox](../gods/gods/gormox.md) |
+| 8 | Ultux | Nov / Dec | [Gormox](../gods/gods/gormox.md) |
 
 ## Days
 
@@ -32,13 +32,13 @@ Each week has 7 days.
 
 | # | Day | Equivalent Day | Religious Day |
 | --- | --- | --- | --- |
-| 1 | Bhydag | Monday | [Bhygar](../gods/bhygar.md) |
+| 1 | Bhydag | Monday | [Bhygar](../gods/gods/bhygar.md) |
 | 2 | Mishdag | Tuesday | |
-| 3 | Valdag | Wednesday | [Valnos](../gods/valnos.md) |
-| 4 | Kirdag | Thursday | [Kirrel](../gods/kirrel.md) |
+| 3 | Valdag | Wednesday | [Valnos](../gods/gods/valnos.md) |
+| 4 | Kirdag | Thursday | [Kirrel](../gods/gods/kirrel.md) |
 | 5 | Nurdag | Friday | |
 | 6 | Faldag | Saturday | |
-| 7 | Gordag | Sunday | [Gormox](../gods/gormox.md) |
+| 7 | Gordag | Sunday | [Gormox](../gods/gods/gormox.md) |
 
 ### Diamodeus
 

@@ -1,0 +1,11 @@
+# Ruby Squad
+
+| []() | |
+| --- | --- |
+| Squad Sergeant | [Bryce Morton](../../../../../people/bryce-morton.md) |
+| Squad Lead | TBD |
+| Squad Hands | [Darius Dunn](../../../../../people/darius-dunn.md)<br />[Morgan Caithness](../../../../../people/morgan-caithness.md)<br />[Penance Zahiri](../../../../../people/penance-zahiri.md)<br />[Tabari Se](../../../../../people/tabari-se.md)
+
+## Summary
+
+Ruby Squad is the other Astorrel squad that Bryce Morton is Squad Sergeant to. They are set up as the rivals to [Players Squad](players.md).

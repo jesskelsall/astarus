@@ -2,7 +2,7 @@
 
 > Everyday is a struggle to survive. Only the strongest do, and they do so by any means possible. Kaldoon gives them the strength to prevail.
 
-<img src="../../../images/kaldoon.png" height="200" />
+<img src="../../../images/gods/kaldoon.png" height="200" />
 
 | []() | |
 | --- | --- |

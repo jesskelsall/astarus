@@ -2,7 +2,7 @@
 
 > We are better than our ancestors. Valnos will show us the way.
 
-<img src="../../../images/valnos.png" height="200" />
+<img src="../../../images/gods/valnos.png" height="200" />
 
 | []() | |
 | --- | --- |

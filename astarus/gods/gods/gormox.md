@@ -2,7 +2,7 @@
 
 > Intelligent creatures are destined to do each other harm. Gormox decides who does it best.
 
-<img src="../../../images/gormox.png" height="200" />
+<img src="../../../images/gods/gormox.png" height="200" />
 
 | []() | |
 | --- | --- |

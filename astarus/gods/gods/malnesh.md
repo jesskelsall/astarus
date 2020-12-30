@@ -2,7 +2,7 @@
 
 > Only in death do our legacies endure, our deeds tallied and judged. To face death is to live.
 
-<img src="../../../images/malnesh.png" height="200" />
+<img src="../../../images/gods/malnesh.png" height="200" />
 
 | []() | |
 | --- | --- |

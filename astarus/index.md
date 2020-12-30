@@ -33,6 +33,8 @@ In lesser numbers there are also the following known races, in descending order 
 
 ## Magic
 
+*See also: [Magicborn](civilisations/kingdom-of-astor/magicborn.md)*
+
 There is magic in this world, though it is uncommon. Most people have never seen magic in practice before.
 
 Those who wield magic are born with an innate ability to wield it. It is not hereditary and there is often no rhyme or reason to who has magical abilities. As a result, magic users are in high demand or are able to exert their power to command others.

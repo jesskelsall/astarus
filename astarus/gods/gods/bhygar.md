@@ -2,7 +2,7 @@
 
 > All stories begin with life and end with death. It’s what we do in the middle that counts.
 
-<img src="../../../images/bhygar.png" height="200" />
+<img src="../../../images/gods/bhygar.png" height="200" />
 
 | []() | |
 | --- | --- |
