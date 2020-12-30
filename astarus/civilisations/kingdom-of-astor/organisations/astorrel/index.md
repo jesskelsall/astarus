@@ -6,7 +6,7 @@
 | --- | --- |
 | **Superior Officer** | Unknown General<br />*General* |
 | **Leader** | Unknown Commandant<br />*Commandant* |
-| **Patron God** | [Kirrel](../../../gods/gods/kirrel.md) |
+| **Patron God** | [Kirrel](../../../../gods/gods/kirrel.md) |
 
 ## Summary
 
@@ -109,7 +109,7 @@ The Astorrel is always looking for new potential recruits. Each year they aim to
 
 ### Finding Recruits
 
-*See also: [Magicborn](../magicborn.md)*
+*See also: [Magicborn](../../magicborn.md)*
 
 Astorrel officers look for potential recruits in all sorts of places. Anyone who shows potential may be asked if they wish to join their ranks. An accomplished brawler, seasoned adventurer, gifted magicborn, or repentant prisoner are all welcome.
 
@@ -127,7 +127,7 @@ Astorrel recruits train in Kilflynn, and do not typically travel to Newhaven pri
 
 ### Graduation
 
-*See also: [Astorian Calendar](../../../history/astorian-calendar.md)*
+*See also: [Astorian Calendar](../../../../history/astorian-calendar.md)*
 
 Each year the recruits that are ready to graduate travel to Newhaven for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the Kirrel months).
 
