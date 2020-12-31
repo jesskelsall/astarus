@@ -9,16 +9,16 @@
 | **Demonyms** | Astorian |
 | **Government** | Militocracy |
 | **Leader** | Corville Thornox<br />*General Supreme* |
-| **Territories** | South East [Kardan](../../geography/kardan/index.md)<br />[Kardanis](../../geography/kardanis.md) |
+| **Territories** | South East [Kardan](../../geography/kardan/README.md)<br />[Kardanis](../../geography/kardanis.md) |
 | **Founded** | *0 PA* |
 | **Neighbours** | Dardenn Kingdom (north)<br />Syntenne Republic (south) |
 | **Wars** | Astor-Syntenne War (*88 PA* - current) |
 
 ## Summary
 
-The Kingdom of Astor (shortened: *Astor*) is a militocracy located in south east [Kardan](../../geography/kardan/index.md). It borders the Syntenne Republic to its south and the Dardenn Kingdom to its north.
+The Kingdom of Astor (shortened: *Astor*) is a militocracy located in south east [Kardan](../../geography/kardan/README.md). It borders the Syntenne Republic to its south and the Dardenn Kingdom to its north.
 
-It is the primary setting for [campaigns](../../../campaigns/index.md) set in [Astarus](../../index.md).
+It is the primary setting for [campaigns](../../../campaigns/README.md) set in [Astarus](../../README.md).
 
 ## Imagery
 
@@ -40,7 +40,7 @@ Those who are part of one of these organisations are considered to be part of As
 
 - [Astornar](organisations/astornar.md): ruling generals in charge of the kingdom and other organisations.
 - [Astornox](organisations/astornox.md): army, war efforts, local government, guards, protection of the citizens.
-- [Astorrel](organisations/astorrel/index.md): upholders of the balance between civilisation and nature.
+- [Astorrel](organisations/astorrel/README.md): upholders of the balance between civilisation and nature.
 - [Astornos](organisations/astornos.md): researchers of the meteoric threat.
 
 ## Politics
@@ -111,7 +111,7 @@ The Kingdom of Astor was established over 300 years ago. Within around 50 years 
 
 ### War with the Syntenne Republic
 
-As Astor grew, it expanded south along the coast and quickly came into conflict with the Syntenne Republic. War broke out over this region, eventually engulfing the entirety of south [Kardan](../../geography/kardan/index.md).
+As Astor grew, it expanded south along the coast and quickly came into conflict with the Syntenne Republic. War broke out over this region, eventually engulfing the entirety of south [Kardan](../../geography/kardan/README.md).
 
 Astor was outmatched by Syntenne due to their lower numbers. Despite this, Astor soldiers fought valiantly, with Syntenne fearing their tenacity and unwillingness to surrender or retreat.
 

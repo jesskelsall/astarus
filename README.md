@@ -6,5 +6,5 @@ Here you will find all of my notes on Astarus, its people and places, and events
 
 ## Contents
 
-- [Astarus](astarus/index.md): the world itself.
-- [Campaigns](campaigns/index.md): D&D campaigns set in Astarus.
+- [Astarus](astarus/README.md): the world itself.
+- [Campaigns](campaigns/README.md): D&D campaigns set in Astarus.

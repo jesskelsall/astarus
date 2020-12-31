@@ -2,7 +2,7 @@
 
 ## Years
 
-The epoch of the date system is the day that the [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md) was formed.
+The epoch of the date system is the day that the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) was formed.
 
 - Dates before this are **A.A.** (*ante Astor*).
 - Dates after this are **P.A.** (*post Astor*).

@@ -10,13 +10,13 @@
 | **Age** | 44 |
 | **Class** | Fighter |
 | **Alignment** | Lawful Neutral |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md), Squad Sergeant |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), Squad Sergeant |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | Commanding Officer:<br />[Players] |
 
 ## Summary
 
-Bryce Morton is the Squad Sergeant in charge of the [Astorrel Agents](../../campaigns/astorrel-agents/index.md) player's party, as well as their rival party.
+Bryce Morton is the Squad Sergeant in charge of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) player's party, as well as their rival party.
 
 ## Characteristics
 
@@ -25,15 +25,15 @@ Bryce Morton is the Squad Sergeant in charge of the [Astorrel Agents](../../camp
 | Face | Dark skin, chiseled jaw, stern prominent eyebrows. |
 | Hair | Brown, greying slightly. Short sides and combed flick over. |
 | Body | 5'11", somewhat muscly. Good posture. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md) officer's uniform. |
+| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) officer's uniform. |
 | Equipment | Ceremonial sword. |
 | Mannerisms | Either stands to attention, or leans forward on his desk with his elbows. |
 
 | Personality | Description |
 | --- | --- |
 | Voice | Deep, somewhat stern. |
-| Quirks | He is a motivated [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md) with career aspirations, but wants those he commands to complete their missions with as little of his input as possible. |
-| Knowledge | Knows the inner workings of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md) well. |
+| Quirks | He is a motivated [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) with career aspirations, but wants those he commands to complete their missions with as little of his input as possible. |
+| Knowledge | Knows the inner workings of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) well. |
 | Values | Loyalty, commitment to the cause, trouble-free mission successes. |
 | Ambitions | Wishes to be promoted to Lieutenant before retiring. |
 | Dislikes | Complications, leaving his office/residence, exerting himself. |

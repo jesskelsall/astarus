@@ -1,6 +1,6 @@
 # Magicborn
 
-Those who are born with a magical affinity are referred to by the [Kingdom of Astor](index.md) as *Magicborn*.
+Those who are born with a magical affinity are referred to by the [Kingdom of Astor](README.md) as *Magicborn*.
 
 ## Origin
 
@@ -8,7 +8,7 @@ A small percentage (5%) of all people are born with magical power. Typically the
 
 There is no correlation between race, gender, genetic background or bloodline between those born with magic and those born without. It appears to be random.
 
-## Within the [Kingdom of Astor](index.md)
+## Within the [Kingdom of Astor](README.md)
 
 ### Conscription
 
@@ -44,7 +44,7 @@ This harsh punishment helps deter people from accusing their neighbours and riva
 
 ### Living as a Magicborn
 
-For those that exhibit magical power, the simplest and easiest life is to join the military. Military members are not subject to conscription (as they are already part of the military). Despite the reputation of magicborn, both the [Astornox](organisations/astornox.md) and [Astorrel](organisations/astorrel/index.md) openly recruit magicborn into their ranks. Exceptional magicborn that obey their orders are likely to rise up the ranks faster than non-magic members.
+For those that exhibit magical power, the simplest and easiest life is to join the military. Military members are not subject to conscription (as they are already part of the military). Despite the reputation of magicborn, both the [Astornox](organisations/astornox.md) and [Astorrel](organisations/astorrel/README.md) openly recruit magicborn into their ranks. Exceptional magicborn that obey their orders are likely to rise up the ranks faster than non-magic members.
 
 Many magicborn are able to keep their powers a secret. They may choose to simply live a normal life, and hide this side of themselves from the [Astornox](organisations/astornox.md).
 

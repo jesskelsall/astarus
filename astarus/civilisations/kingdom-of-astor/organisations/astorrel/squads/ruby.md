@@ -8,4 +8,4 @@
 
 ## Summary
 
-Ruby Squad is the other [Astorrel](../index.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) is Squad Sergeant to. They are set up as the rivals to [Players Squad](players.md).
+Ruby Squad is the other [Astorrel](../README.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) is Squad Sergeant to. They are set up as the rivals to [Players Squad](players.md).

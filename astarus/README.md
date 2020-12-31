@@ -6,14 +6,14 @@ Astarus is the name given to the plane of existence that the campaign is set in.
 
 On Astarus the influence of the gods is minimal. Most people believe that they exist, but there is very rarely any indication of this outside of their belief.
 
-- [Gods](gods/index.md)
+- [Gods](gods/README.md)
 - [The Order of the Diamond](gods/the-order-of-the-diamond.md): the Astor state religion.
 
 ## Mortals
 
 Astarus is populated by a typical mix of D&D races.
 
-[Kardan](geography/kardan/index.md) is predominately populated with the following races:
+[Kardan](geography/kardan/README.md) is predominately populated with the following races:
 
 - [Human](https://www.dndbeyond.com/races/human)
 - [Halfling](https://www.dndbeyond.com/races/halfling)
@@ -56,6 +56,6 @@ Astarus was formed in *176 AA* (488 years ago) by the insider gods. This was wit
 
 ## Geography
 
-- [Kardan](geography/kardan/index.md)
+- [Kardan](geography/kardan/README.md)
 - [Kardanis](geography/kardanis.md)
 - [Sea of Songs](geography/sea-of-songs.md)

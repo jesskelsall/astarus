@@ -10,7 +10,7 @@
 
 ## Summary
 
-The Astorrel is a military organisation of the [Kingdom of Astor](../../index.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the second largest organisation in Astor behind the [Astornox](../astornox.md), though it is tiny by comparison.
+The Astorrel is a military organisation of the [Kingdom of Astor](../../README.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the second largest organisation in Astor behind the [Astornox](../astornox.md), though it is tiny by comparison.
 
 Its name is a combination of Astor and [Kirrel](../../../../gods/gods/kirrel.md), its patron god.
 
@@ -34,7 +34,7 @@ Higher ranking Astorrel wear a more militaristic uniform during ceremonies and w
 
 ## Mission
 
-The Astorrel are tasked with protecting the natural world from the [Kingdom of Astor](../../index.md) itself. Civilisation is constantly encroaching on nature, so they are tasked with managing the degree to which this happens in order to keep nature and civilisation in balance.
+The Astorrel are tasked with protecting the natural world from the [Kingdom of Astor](../../README.md) itself. Civilisation is constantly encroaching on nature, so they are tasked with managing the degree to which this happens in order to keep nature and civilisation in balance.
 
 Without the Astorrel, Astor would simply consume all of the resources around them to the point of exhaustion, which could spell the collapse of Astor itself. This mission is considered incredibly important by the [Astornar](../astornar.md) and Astorrel, but others (particularly the [Astornox](../astornox.md)) don't see its significance.
 
@@ -55,7 +55,7 @@ Typically speaking there is animosity between the [Astornox](../astornox.md) and
 
 ## Jurisdiction
 
-Like the [Astornox](../astornox.md), the Astorrel can pass judgement on any people in the [Kingdom of Astor](../../index.md) that are not serving military and are not caretakers of [The Order of the Diamond](../../../../gods/the-order-of-the-diamond.md).
+Like the [Astornox](../astornox.md), the Astorrel can pass judgement on any people in the [Kingdom of Astor](../../README.md) that are not serving military and are not caretakers of [The Order of the Diamond](../../../../gods/the-order-of-the-diamond.md).
 
 ### Punishment
 

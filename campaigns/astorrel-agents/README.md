@@ -1,1 +1,1 @@
-# [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/index.md) Agents
+# [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) Agents
