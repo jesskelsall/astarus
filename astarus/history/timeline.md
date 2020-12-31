@@ -1,4 +1,4 @@
-# Timeline of Events on Astarus
+# Timeline
 
 ## Beginning of the World
 

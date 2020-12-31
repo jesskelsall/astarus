@@ -29,12 +29,12 @@ Born into the family of a city captain, Darius' mother's fire elemental lineage 
 | Body | 5'8". Slim bean pole. |
 | Clothes | Key lime coloured robes with dusty orange trim, leather boots. |
 | Equipment | Wooden staff with a large topaz gem on its end. |
-| Mannerisms | |
+| Mannerisms | Stiff upright and rarely moving. Stares a lot. |
 
 | Personality | Description |
 | --- | --- |
 | Voice | Airy voice with a posh accent. |
-| Quirks | Very mature and knowledgeable for someone of their age. Rarely speaks. |
+| Quirks | Very mature and knowledgeable for someone of their age. Only speaks when spoken to. |
 | Knowledge | Well studied in academia and magic. |
 | Values | Compassion, logic, and negotiation. |
 | Ambitions | Wishes to usher in an age of peace in Astor. |
