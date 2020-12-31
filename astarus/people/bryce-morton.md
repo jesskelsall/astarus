@@ -10,9 +10,11 @@
 | **Age** | 44 |
 | **Class** | Fighter |
 | **Alignment** | Lawful Neutral |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), Squad Sergeant |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
-| **Relations** | Commanding Officer:<br />[Players] |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), Squad Sergeant |
+| **Commanding Officer** | |
+| **Subordinates** | [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br />[Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
+| **Relations** | |
 
 ## Summary
 

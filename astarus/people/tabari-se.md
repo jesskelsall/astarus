@@ -10,8 +10,9 @@
 | **Age** | 41 |
 | **Class** | Monk / Sorcerer |
 | **Alignment** | Lawful Neutral |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />Squad Hand: [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />Squad Hand: [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
+| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Relations** | |
 
 ## Summary

@@ -10,8 +10,10 @@
 | **Age** | 57 |
 | **Class** | Druid |
 | **Alignment** | Lawful Good |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), Commandant |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), Commandant |
+| **Commanding Officer** | |
+| **Subordinates** | |
 | **Relations** | |
 
 ## Summary
