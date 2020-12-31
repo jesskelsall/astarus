@@ -11,12 +11,12 @@
 | **Leader** | Corville Thornox<br />*General Supreme* |
 | **Territories** | South East [Kardan](../../geography/kardan/README.md)<br />[Kardanis](../../geography/kardanis.md) |
 | **Founded** | *0 PA* |
-| **Neighbours** | Dardenn Kingdom (north)<br />Syntenne Republic (south) |
+| **Neighbours** | Dardenn Kingdom (north)<br />[Syntenne Republic](../syntenne-republic/README.md) (south) |
 | **Wars** | Astor-Syntenne War (*88 PA* - current) |
 
 ## Summary
 
-The Kingdom of Astor (shortened: *Astor*) is a militocracy located in south east [Kardan](../../geography/kardan/README.md). It borders the Syntenne Republic to its south and the Dardenn Kingdom to its north.
+The Kingdom of Astor (shortened: *Astor*) is a militocracy located in south east [Kardan](../../geography/kardan/README.md). It borders the [Syntenne Republic](../syntenne-republic/README.md) to its south and the Dardenn Kingdom to its north.
 
 It is the primary setting for [campaigns](../../../campaigns/README.md) set in [Astarus](../../README.md).
 
@@ -95,7 +95,7 @@ The main injustices in the Kingdom of Astor is the rank based class structure an
 
 Despite this, Astor is incredibly tolerant of race, religion, and identity. It welcomes anyone who wishes to reside within its borders. There is no concept of “native races”, and those who move here are given equal chances to those born here.
 
-The glaring exception is elves and half-elves who are seen as untrustworthy and seditious, due to their association with the Syntenne Republic.
+The glaring exception is elves and half-elves who are seen as untrustworthy and seditious, due to their association with the [Syntenne Republic](../syntenne-republic/README.md).
 
 ### Education
 
@@ -109,9 +109,9 @@ Education is not a universal right. It is only available to those who can afford
 
 The Kingdom of Astor was established over 300 years ago. Within around 50 years it had codified its style of governance and the state religion, [The Order of the Diamond](../../gods/the-order-of-the-diamond.md).
 
-### War with the Syntenne Republic
+### War with the [Syntenne Republic](../syntenne-republic/README.md)
 
-As Astor grew, it expanded south along the coast and quickly came into conflict with the Syntenne Republic. War broke out over this region, eventually engulfing the entirety of south [Kardan](../../geography/kardan/README.md).
+As Astor grew, it expanded south along the coast and quickly came into conflict with the [Syntenne Republic](../syntenne-republic/README.md). War broke out over this region, eventually engulfing the entirety of south [Kardan](../../geography/kardan/README.md).
 
 Astor was outmatched by Syntenne due to their lower numbers. Despite this, Astor soldiers fought valiantly, with Syntenne fearing their tenacity and unwillingness to surrender or retreat.
 

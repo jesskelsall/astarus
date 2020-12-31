@@ -28,7 +28,7 @@ Astor formalises its governance system, setting up a militocracy, with absolute 
 
 #### 85 PA
 
-The [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) first encounters the Syntenne Republic to its south.
+The [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) first encounters the [Syntenne Republic](../civilisations/syntenne-republic/README.md) to its south.
 
 #### 87 PA
 
@@ -36,7 +36,7 @@ Tensions between both kingdoms grow as the first military engagement between the
 
 #### 88 PA
 
-The Syntenne Republic declares war on the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md).
+The [Syntenne Republic](../civilisations/syntenne-republic/README.md) declares war on the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md).
 
 #### 247 PA
 
@@ -48,7 +48,7 @@ Astor's general supreme issues an order to all [Astornox](../civilisations/kingd
 
 *197 years of war, 28 years ago.*
 
-The Syntenne Republic agrees to an armistice with the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md).
+The [Syntenne Republic](../civilisations/syntenne-republic/README.md) agrees to an armistice with the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md).
 
 ## Modern Times
 
