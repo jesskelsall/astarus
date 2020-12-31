@@ -4,8 +4,8 @@
 
 | []() | |
 | --- | --- |
-| **Superior Officer** | Unknown General<br />*General* |
-| **Leader** | Unknown Commandant<br />*Commandant* |
+| **Presiding General** | |
+| **Commandant** | [Levelle Tristwix](../../../../people/levelle-tristwix.md) |
 | **Patron God** | [Kirrel](../../../../gods/gods/kirrel.md) |
 
 ## Summary
@@ -123,17 +123,17 @@ Recruits are trained by the Astorrel for between two and four years, depending o
 
 They learn combat training, wilderness survival, how to read and write, the history of the world, and all manner of things relating to nature and the delicate balance Astor keeps with it through the Astorrel.
 
-Astorrel recruits train in Kilflynn, and do not typically travel to Newhaven prior to their graduation.
+Astorrel recruits train in Dunmore, and do not typically travel to [Northhaven](../../settlements/northhaven/README.md) prior to their graduation.
 
 ### Graduation
 
 *See also: [Astorian Calendar](../../../../history/astorian-calendar.md)*
 
-Each year the recruits that are ready to graduate travel to Newhaven for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../../../gods/gods/kirrel.md) months).
+Each year the recruits that are ready to graduate travel to [Northhaven](../../settlements/northhaven/README.md) for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../../../gods/gods/kirrel.md) months).
 
 Prior to the ceremony, the Astorrel officers decide which rank each recruit will start at, and which existing officers will become their superior officers.
 
-The ceremony is witnessed by existing Astorrel members, including all of the officers present in Newhaven at the time. During the show of faith, [Astornox](../astornox.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
+The ceremony is witnessed by existing Astorrel members, including all of the officers present in [Northhaven](../../settlements/northhaven/README.md) at the time. During the show of faith, [Astornox](../astornox.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
 
 ### Pledge
 

@@ -19,7 +19,7 @@
 
 Penance Zahiri is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
-Penance grew up on the streets of Newhaven, stealing and starting fights. Eventually their reputation allowed them to take a position as a smuggler moving contraband in and out of the city - most notably [magicborn](../civilisations/kingdom-of-astor/magicborn.md) children. Penance claims that one night they were visited by [Bhygar](../gods/gods/bhygar.md) who gave them their powers and instructed them to live their life more fully, and inspire others to do the same. They changed their name and applied to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme at age 19, honing their paladin powers as they trained.
+Penance grew up on the streets of [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md), stealing and starting fights. Eventually their reputation allowed them to take a position as a smuggler moving contraband in and out of the city - most notably [magicborn](../civilisations/kingdom-of-astor/magicborn.md) children. Penance claims that one night they were visited by [Bhygar](../gods/gods/bhygar.md) who gave them their powers and instructed them to live their life more fully, and inspire others to do the same. They changed their name and applied to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme at age 19, honing their paladin powers as they trained.
 
 ## Characteristics
 

@@ -1,6 +1,6 @@
 # The Order of the Diamond
 
-<img src="../../images/the-order-of-the-diamond.png" height="200" />
+<img src="../../images/organisations/the-order-of-the-diamond.png" height="200" />
 
 | []() | |
 | --- | --- |

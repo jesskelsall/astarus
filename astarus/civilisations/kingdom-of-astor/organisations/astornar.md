@@ -4,6 +4,6 @@
 
 | []() | |
 | --- | --- |
-| **Superior Officer** | Corville Thornox<br />*General Supreme* |
-| **Leader** | Unknown Commandant<br />*Commandant* |
+| **Presiding General** | Corville Thornox |
+| **Commandant** | |
 | **Patron God** | [Bhygar](../../../gods/gods/bhygar.md) |

@@ -4,6 +4,6 @@
 
 | []() | |
 | --- | --- |
-| **Superior Officer** | Unknown General<br />*General* |
-| **Leader** | Unknown Commandant<br />*Commandant* |
+| **Presiding General** | |
+| **Commandant** | |
 | **Patron God** | [Gormox](../../../gods/gods/gormox.md) |

@@ -2,21 +2,21 @@
 
 | []() | |
 | --- | --- |
-| **Capital City** | Newhaven |
+| **Capital City** | [Northhaven](settlements/northhaven/README.md) |
 | **Official Languages** | Common |
 | **Ethnic Groups** | Human<br />Halfling<br /> |
 | **Religion** | [The Order of the Diamond](../../gods/the-order-of-the-diamond.md) |
 | **Demonyms** | Astorian |
 | **Government** | Militocracy |
 | **Leader** | Corville Thornox<br />*General Supreme* |
-| **Territories** | South East [Kardan](../../geography/kardan/README.md)<br />[Kardanis](../../geography/kardanis.md) |
+| **Territories** | [South East Kardan](../../geography/kardan/south-east-kardan.md)<br />Kardanis |
 | **Founded** | *0 PA* |
-| **Neighbours** | Dardenn Kingdom (north)<br />[Syntenne Republic](../syntenne-republic/README.md) (south) |
+| **Neighbours** | [Dardenn Kingdom](../dardenn-kingdom/README.md) (north)<br />[Syntenne Republic](../syntenne-republic/README.md) (south) |
 | **Wars** | Astor-Syntenne War (*88 PA* - current) |
 
 ## Summary
 
-The Kingdom of Astor (shortened: *Astor*) is a militocracy located in south east [Kardan](../../geography/kardan/README.md). It borders the [Syntenne Republic](../syntenne-republic/README.md) to its south and the Dardenn Kingdom to its north.
+The Kingdom of Astor (shortened: *Astor*) is a militocracy located in [south east Kardan](../../geography/kardan/south-east-kardan.md). It borders the [Syntenne Republic](../syntenne-republic/README.md) to its south and the [Dardenn Kingdom](../dardenn-kingdom/README.md) to its north.
 
 It is the primary setting for [campaigns](../../../campaigns/README.md) set in [Astarus](../../README.md).
 
@@ -115,9 +115,9 @@ As Astor grew, it expanded south along the coast and quickly came into conflict 
 
 Astor was outmatched by Syntenne due to their lower numbers. Despite this, Astor soldiers fought valiantly, with Syntenne fearing their tenacity and unwillingness to surrender or retreat.
 
-Eventually Syntenne began pushing Astor back up the western coast and towards the capital city of Northhaven, but were unable to push around Duskmere, the lake to its west.
+Eventually Syntenne began pushing Astor back up the western coast and towards the capital city of [Northhaven](settlements/northhaven/README.md), but were unable to push around Duskmere, the lake to its west.
 
-A surprise attack up the River Humar and into Duskmere by the Syntenne navy broke the stalemate and led to the siege of Northhaven.
+A surprise attack up the River Humar and into Duskmere by the Syntenne navy broke the stalemate and led to the siege of [Northhaven](settlements/northhaven/README.md).
 
 Astor held the line but losing the city seemed inevitable. The King of Astor, realising how critical magic users had been in the defense efforts so far, ordered a conscription of all magic users in the kingdom in order to bolster the military forces and attempt to break the siege.
 
