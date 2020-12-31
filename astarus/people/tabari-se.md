@@ -10,15 +10,15 @@
 | **Age** | 41 |
 | **Class** | Monk / Sorcerer |
 | **Alignment** | Lawful Neutral |
-| **Affiliation** | Astorrel<br />Squad Hand: Ruby Squad |
-| **Worship** | Kirrel |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md)<br />Squad Hand: [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
+| **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
 
 ## Summary
 
-Tabari Se is a new Squad Hand in the Astorrel, and is part of Ruby Squad.
+Tabari Se is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
-Hailing from Selos, a mysterious land west of The Kingdom of Astor, Tabari emigrated to Astor in search of new challenges and opponents to fight. After a year wandering South-East Kardan, he applied to join the Astorrel so that he could see more of what the area has to offer. He is particularly interested in the prospect of encountering unknown threats. If he is not sufficiently challenged, he'll gladly leave the Astorrel when his service is up.
+Hailing from Selos, a mysterious land west of the [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md), Tabari emigrated to Astor in search of new challenges and opponents to fight. After a year wandering south east [Kardan](../geography/kardan/index.md), he applied to join the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md) so that he could see more of what the area has to offer. He is particularly interested in the prospect of encountering unknown threats. If he is not sufficiently challenged, he'll gladly leave the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md) when his service is up.
 
 Tabari has been mute from a young age. Fortunately he's not big on communication. When he needs to get his point across and fighting won't do, he's able to communicate using the Message cantrip. He only uses this as a last resort though.
 

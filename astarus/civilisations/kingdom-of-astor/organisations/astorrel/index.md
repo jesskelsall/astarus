@@ -10,9 +10,9 @@
 
 ## Summary
 
-The Astorrel is a military organisation of the Kingdom of Astor. It is empowered to carry out its duties by the Astornar. It is the second largest organisation in Astor behind the Astornox, though it is tiny by comparison.
+The Astorrel is a military organisation of the [Kingdom of Astor](../../index.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the second largest organisation in Astor behind the [Astornox](../astornox.md), though it is tiny by comparison.
 
-Its name is a combination of Astor and Kirrel, its patron god.
+Its name is a combination of Astor and [Kirrel](../../../../gods/gods/kirrel.md), its patron god.
 
 ## Imagery
 
@@ -24,7 +24,7 @@ The Astorrel symbol is a grey square with the diamond shaped ruby of Astor embed
 
 Astorrel members have no formal uniform outside of ceremonies - they are allowed to wear what they wish when on missions.
 
-For ceremonies they wear robes in the colours of Kirrel - from top to bottom: green, mint green, turquoise, blue. During ceremonies they are not permitted to wear anything else or wield any possessions or weapons.
+For ceremonies they wear robes in the colours of [Kirrel](../../../../gods/gods/kirrel.md) - from top to bottom: green, mint green, turquoise, blue. During ceremonies they are not permitted to wear anything else or wield any possessions or weapons.
 
 Higher ranking Astorrel wear a more militaristic uniform during ceremonies and whilst within Astorrel strongholds inside of cities. This incorporates the same colours, but features pauldrons, leathers, and some plate elements.
 
@@ -34,28 +34,28 @@ Higher ranking Astorrel wear a more militaristic uniform during ceremonies and w
 
 ## Mission
 
-The Astorrel are tasked with protecting the natural world from The Kingdom of Astor itself. Civilisation is constantly encroaching on nature, so they are tasked with managing the degree to which this happens in order to keep nature and civilisation in balance.
+The Astorrel are tasked with protecting the natural world from the [Kingdom of Astor](../../index.md) itself. Civilisation is constantly encroaching on nature, so they are tasked with managing the degree to which this happens in order to keep nature and civilisation in balance.
 
-Without the Astorrel, Astor would simply consume all of the resources around them to the point of exhaustion, which could spell the collapse of Astor itself. This mission is considered incredibly important by the Astornar and Astorrel, but others (particularly the Astornox) don't see its significance.
+Without the Astorrel, Astor would simply consume all of the resources around them to the point of exhaustion, which could spell the collapse of Astor itself. This mission is considered incredibly important by the [Astornar](../astornar.md) and Astorrel, but others (particularly the [Astornox](../astornox.md)) don't see its significance.
 
 Additionally the Astorrel investigate natural phenomena that cannot be explained, attempting to provide the kingdom with tangible knowledge. This could empower Astor with new technology or power, or make them aware of eminent threats. In this sense, the Astorrel are also guardians against the unknown, and explorers of the fringes of the kingdom.
 
 ## Reputation
 
-Within the cities, Astorrel are highly regarded as peace keepers that preserve the natural order, free from the politics of the Astornox.
+Within the cities, Astorrel are highly regarded as peace keepers that preserve the natural order, free from the politics of the [Astornox](../astornox.md).
 
 Outside of the cities, many people don't know of the Astorrel or fully understand their mission. This leads to apprehension or apathy, with some Astorians not taking their authority seriously.
 
-### Astornox
+### [Astornox](../astornox.md)
 
-Typically speaking there is animosity between the Astornox and Astorrel. This is because they often disagree on each others' rulings, with conflicts being hard to settle.
+Typically speaking there is animosity between the [Astornox](../astornox.md) and Astorrel. This is because they often disagree on each others' rulings, with conflicts being hard to settle.
 
-- The Astornox regard the Astorrel as an unnecessary pain and meddling.
-- The Astorrel regard the Astornox as selfish and dangerous.
+- The [Astornox](../astornox.md) regard the Astorrel as an unnecessary pain and meddling.
+- The Astorrel regard the [Astornox](../astornox.md) as selfish and dangerous.
 
 ## Jurisdiction
 
-Like the Astornox, the Astorrel can pass judgement on any people in The Kingdom of Astor that are not serving military and are not caretakers of The Order of the Diamond.
+Like the [Astornox](../astornox.md), the Astorrel can pass judgement on any people in the [Kingdom of Astor](../../index.md) that are not serving military and are not caretakers of [The Order of the Diamond](../../../../gods/the-order-of-the-diamond.md).
 
 ### Punishment
 
@@ -111,11 +111,11 @@ The Astorrel is always looking for new potential recruits. Each year they aim to
 
 *See also: [Magicborn](../../magicborn.md)*
 
-Astorrel officers look for potential recruits in all sorts of places. Anyone who shows potential may be asked if they wish to join their ranks. An accomplished brawler, seasoned adventurer, gifted magicborn, or repentant prisoner are all welcome.
+Astorrel officers look for potential recruits in all sorts of places. Anyone who shows potential may be asked if they wish to join their ranks. An accomplished brawler, seasoned adventurer, gifted [magicborn](../../magicborn.md), or repentant prisoner are all welcome.
 
-Conscripted magicborn can be poached by Astorrel officers through a contested process that is adjudicated by the Astornar.
+Conscripted [magicborn](../../magicborn.md) can be poached by Astorrel officers through a contested process that is adjudicated by the [Astornar](../astornar.md).
 
-All potential Astorrel recruits must be willing to join their ranks - there is no forced service for anyone, including conscripted magicborn (though if they say no, they will join the Astornox instead).
+All potential Astorrel recruits must be willing to join their ranks - there is no forced service for anyone, including conscripted [magicborn](../../magicborn.md) (though if they say no, they will join the [Astornox](../astornox.md) instead).
 
 ### Training Recruits
 
@@ -129,19 +129,19 @@ Astorrel recruits train in Kilflynn, and do not typically travel to Newhaven pri
 
 *See also: [Astorian Calendar](../../../../history/astorian-calendar.md)*
 
-Each year the recruits that are ready to graduate travel to Newhaven for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the Kirrel months).
+Each year the recruits that are ready to graduate travel to Newhaven for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../../../gods/gods/kirrel.md) months).
 
 Prior to the ceremony, the Astorrel officers decide which rank each recruit will start at, and which existing officers will become their superior officers.
 
-The ceremony is witnessed by existing Astorrel members, including all of the officers present in Newhaven at the time. During the show of faith, Astornox and some Astornar witness them while they are in the Military District.
+The ceremony is witnessed by existing Astorrel members, including all of the officers present in Newhaven at the time. During the show of faith, [Astornox](../astornox.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
 
 ### Pledge
 
-At the start of the ceremony, all recruits are assembled in Kirrel Hall for the pledge. This is comprised of a speech from the Commandant followed by a pledge to the organisation, instilling a sense of duty and commitment.
+At the start of the ceremony, all recruits are assembled in [Kirrel](../../../../gods/gods/kirrel.md) Hall for the pledge. This is comprised of a speech from the Commandant followed by a pledge to the organisation, instilling a sense of duty and commitment.
 
 ### Show of Faith
 
-Following the pledge, the recruits have an hour to pledge themselves to an insider god in order to show their faith to The Order of the Diamond. Practicing this religion is a requirement to become a member, though this is realistically the only time when that faith is tested.
+Following the pledge, the recruits have an hour to pledge themselves to an insider god in order to show their faith to [The Order of the Diamond](../../../../gods/the-order-of-the-diamond.md). Practicing this religion is a requirement to become a member, though this is realistically the only time when that faith is tested.
 
 Members make their way out of the Astorrel District, through the Military District, and out to the Officer District to Diamond Prime, the main temple of the religion in all of Astor. Their route to and from the temple is lined with military members, citizens and drigg alike who witness their pledge.
 

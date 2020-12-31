@@ -6,15 +6,15 @@
 
 *488 years ago.*
 
-The plane of existence that is Astarus is created by the insider gods.
+The plane of existence that is [Astarus](../index.md) is created by the insider gods.
 
-They bring the greater and lesser races to Astarus (from unknown planes) so that they can settle this new land and coexist.
+They bring the greater and lesser races to [Astarus](../index.md) (from unknown planes) so that they can settle this new land and coexist.
 
-## Kingdom of Astor Rises
+## [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md) Rises
 
 #### 0 PA
 
-The Kingdom of Astor establishes itself, ruling over south eastern Kardan.
+The [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md) establishes itself, ruling over south eastern [Kardan](../geography/kardan/index.md).
 
 #### 38 PA
 
@@ -22,13 +22,13 @@ Astor formalises its governance system, setting up a militocracy, with absolute 
 
 #### 51 PA
 
-The Order of the Diamond is codified as Astor's state religion.
+[The Order of the Diamond](../gods/the-order-of-the-diamond.md) is codified as Astor's state religion.
 
 ## Astor and Syntenne at War
 
 #### 85 PA
 
-The Kingdom of Astor first encounters the Syntenne Republic to its south.
+The [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md) first encounters the Syntenne Republic to its south.
 
 #### 87 PA
 
@@ -36,19 +36,19 @@ Tensions between both kingdoms grow as the first military engagement between the
 
 #### 88 PA
 
-The Syntenne Republic declares war on the Kingdom of Astor.
+The Syntenne Republic declares war on the [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md).
 
 #### 247 PA
 
 *159 years of war, 69 years ago.*
 
-Astor's general supreme issues an order to all Astornox: conscript any and all magicborn.
+Astor's general supreme issues an order to all [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md): conscript any and all [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
 #### 284 PA
 
 *197 years of war, 28 years ago.*
 
-The Syntenne Republic agrees to an armistice with the Kingdom of Astor.
+The Syntenne Republic agrees to an armistice with the [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md).
 
 ## Modern Times
 

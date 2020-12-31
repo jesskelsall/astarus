@@ -13,7 +13,7 @@ On Astarus the influence of the gods is minimal. Most people believe that they e
 
 Astarus is populated by a typical mix of D&D races.
 
-Kardan is predominately populated with the following races:
+[Kardan](geography/kardan/index.md) is predominately populated with the following races:
 
 - [Human](https://www.dndbeyond.com/races/human)
 - [Halfling](https://www.dndbeyond.com/races/halfling)

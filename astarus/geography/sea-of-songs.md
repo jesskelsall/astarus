@@ -1,3 +1,3 @@
 # Sea of Songs
 
-The sea bordering Kardan is called the Sea of Songs, as it is known for its strong howling winds which keep sailors from exploring too far across it.
+The sea bordering [Kardan](kardan/index.md) is called the Sea of Songs, as it is known for its strong howling winds which keep sailors from exploring too far across it.

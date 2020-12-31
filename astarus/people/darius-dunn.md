@@ -10,15 +10,15 @@
 | **Age** | 17 |
 | **Class** | Cleric |
 | **Alignment** | Lawful Good |
-| **Affiliation** | Astorrel<br />Squad Hand: Ruby Squad |
-| **Worship** | Valnos |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md)<br />Squad Hand: [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
+| **Worship** | [Valnos](../gods/gods/valnos.md) |
 | **Relations** | |
 
 ## Summary
 
-Darius Dunn is a new Squad Hand in the Astorrel, and is part of Ruby Squad.
+Darius Dunn is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
-Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the Astorrel recruitment programme to escape his home life, graduating after only two years.
+Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md) recruitment programme to escape his home life, graduating after only two years.
 
 ## Characteristics
 

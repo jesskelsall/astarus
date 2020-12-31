@@ -1,30 +1,30 @@
-# The Kingdom of Astor
+# Kingdom of Astor
 
 | []() | |
 | --- | --- |
 | **Capital City** | Newhaven |
 | **Official Languages** | Common |
 | **Ethnic Groups** | Human<br />Halfling<br /> |
-| **Religion** | The Order of the Diamond |
+| **Religion** | [The Order of the Diamond](../../gods/the-order-of-the-diamond.md) |
 | **Demonyms** | Astorian |
 | **Government** | Militocracy |
 | **Leader** | Corville Thornox<br />*General Supreme* |
-| **Territories** | South-East Kardan<br />Kardanis |
+| **Territories** | South East [Kardan](../../geography/kardan/index.md)<br />[Kardanis](../../geography/kardanis.md) |
 | **Founded** | *0 PA* |
 | **Neighbours** | Dardenn Kingdom (north)<br />Syntenne Republic (south) |
 | **Wars** | Astor-Syntenne War (*88 PA* - current) |
 
 ## Summary
 
-The Kingdom of Astor (shortened: *Astor*) is a militocracy located in South-East Kardan. It borders the Syntenne Republic to its south and the Dardenn Kingdom to its north.
+The Kingdom of Astor (shortened: *Astor*) is a militocracy located in south east [Kardan](../../geography/kardan/index.md). It borders the Syntenne Republic to its south and the Dardenn Kingdom to its north.
 
-It is the primary setting for campaigns set in Astarus.
+It is the primary setting for [campaigns](../../../campaigns/index.md) set in [Astarus](../../index.md).
 
 ## Imagery
 
 ### Symbol
 
-Its symbol is a red ruby, a diamond looked at straight on but actually a square based pyramid. It resembles the symbol of The Order of the Diamond.
+Its symbol is a red ruby, a diamond looked at straight on but actually a square based pyramid. It resembles the symbol of [The Order of the Diamond](../../gods/the-order-of-the-diamond.md).
 
 ## Governance
 
@@ -32,7 +32,7 @@ The Kingdom of Astor is a militocracy. This means that the entire governance str
 
 All of Astor's decision making resides within these military ranks.
 
-Ultimate power resides with the *general supreme*, Corville Thornox. He is the superior officer of the generals of the Astornar, who in turn are superior officers to the other organisations of the kingdom.
+Ultimate power resides with the *general supreme*, Corville Thornox. He is the superior officer of the generals of the [Astornar](organisations/astornar.md), who in turn are superior officers to the other organisations of the kingdom.
 
 ## Organisations
 
@@ -91,7 +91,7 @@ Despite this, many drigg are happy with their role in life, happy to be contribu
 
 *See also: [Magicborn](magicborn.md)*
 
-The main injustices in the Kingdom of Astor is the rank based class structure and lack of basic rights for all residents. Magicborn are oppressed far greater than any other group.
+The main injustices in the Kingdom of Astor is the rank based class structure and lack of basic rights for all residents. [Magicborn](magicborn.md) are oppressed far greater than any other group.
 
 Despite this, Astor is incredibly tolerant of race, religion, and identity. It welcomes anyone who wishes to reside within its borders. There is no concept of “native races”, and those who move here are given equal chances to those born here.
 
@@ -107,11 +107,11 @@ Education is not a universal right. It is only available to those who can afford
 
 ### Formation
 
-The Kingdom of Astor was established over 300 years ago. Within around 50 years it had codified its style of governance and the state religion, The Order of the Diamond.
+The Kingdom of Astor was established over 300 years ago. Within around 50 years it had codified its style of governance and the state religion, [The Order of the Diamond](../../gods/the-order-of-the-diamond.md).
 
 ### War with the Syntenne Republic
 
-As Astor grew, it expanded south along the coast and quickly came into conflict with the Syntenne Republic. War broke out over this region, eventually engulfing the entirety of south Kardan.
+As Astor grew, it expanded south along the coast and quickly came into conflict with the Syntenne Republic. War broke out over this region, eventually engulfing the entirety of south [Kardan](../../geography/kardan/index.md).
 
 Astor was outmatched by Syntenne due to their lower numbers. Despite this, Astor soldiers fought valiantly, with Syntenne fearing their tenacity and unwillingness to surrender or retreat.
 

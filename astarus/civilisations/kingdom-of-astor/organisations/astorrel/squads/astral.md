@@ -8,4 +8,4 @@
 
 ## Summary
 
-Astral Squad is the Astorrel squad that Wrenn Piznarck belongs to.
+Astral Squad is the [Astorrel](../index.md) squad that Wrenn Piznarck belongs to.

@@ -5,14 +5,14 @@
 | []() | |
 | --- | --- |
 | **Gods** | [Bhygar](gods/bhygar.md), [Valnos](gods/valnos.md), [Kirrel](gods/kirrel.md), [Gormox](gods/gormox.md) |
-| **Codified by** | Kingdom of Astor |
-| **Worshipping Organisations** | Astornar, Astornox, Astorrel, Astornos |
+| **Codified by** | [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md) |
+| **Worshipping Organisations** | [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md), [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md), [Astornos](../civilisations/kingdom-of-astor/organisations/astornos.md) |
 
 ## Beliefs
 
-The Order of the Diamond believes in the four insider gods and their teachings. They work together to hold the world in balance. They are treated fairly equally, as four corners of a diamond, though Bhygar is given more emphasis as he is a greater deity and head of the pantheon.
+The Order of the Diamond believes in the four insider gods and their teachings. They work together to hold the world in balance. They are treated fairly equally, as four corners of a diamond, though [Bhygar](gods/bhygar.md) is given more emphasis as he is a greater deity and head of the pantheon.
 
-The gods created Astarus, prepared it, and brought the races to it so that they could settle and thrive. Now the gods take up more of a “caretaker” role, keeping the forces in balance and avoiding influencing mortal affairs.
+The gods created [Astarus](../index.md), prepared it, and brought the races to it so that they could settle and thrive. Now the gods take up more of a “caretaker” role, keeping the forces in balance and avoiding influencing mortal affairs.
 
 ## Imagery
 
@@ -42,14 +42,14 @@ The Order of the Diamond constructs temples to the simultaneous worship of all f
 
 - They are diamond shaped from a top-down perspective.
 - The entrance is on one of the points of the diamond.
-- The entrance has four doors, one for each god, with its symbol displayed above in the canonical order (Bhygar, Valnos, Kirrel, Gormox).
+- The entrance has four doors, one for each god, with its symbol displayed above in the canonical order ([Bhygar](gods/bhygar.md), [Valnos](gods/valnos.md), [Kirrel](gods/kirrel.md), [Gormox](gods/gormox.md)).
 - Above the doors is the symbol of the religion - a grey diamond with lines connecting each corner. On larger temples the symbol of each god is placed at one of the corners.
 - The interior has shrines to each god depicting their mortal form.
 - Shrines are positioned as follows:
-  - Center: Bhygar.
-  - Left corner: Valnos.
-  - Back corner: Kirrel.
-  - Right corner: Gormox.
+  - Center: [Bhygar](gods/bhygar.md).
+  - Left corner: [Valnos](gods/valnos.md).
+  - Back corner: [Kirrel](gods/kirrel.md).
+  - Right corner: [Gormox](gods/gormox.md).
 - Areas not intended for worshippers are placed on floors above or below the main chamber, accessed via staircases on the back walls.
 
 ### Doorways
@@ -86,12 +86,12 @@ Each temple and the land it is built upon is owned by The Order of the Diamond i
 
 ### Immunity
 
-The Astornox and Astorrel have powers that apply to most parts of the Kingdom of Astor. One glaring exception is that of temples. Astornox and Astorrel are not allowed to enter temples in a ranked capacity, meaning that they cannot exercise their power or rank inside of a temple.
+The [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) and [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md) have powers that apply to most parts of the [Kingdom of Astor](../civilisations/kingdom-of-astor/index.md). One glaring exception is that of temples. [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) and [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md) are not allowed to enter temples in a ranked capacity, meaning that they cannot exercise their power or rank inside of a temple.
 
 While inside, all people, citizens or otherwise, are simply worshippers.
 
 ### Sanctuary
 
-The Order of the Diamond can take people inside their temples who are wanted by the Astornox or Astorrel. The caretakers decide how long they may stay, and can forcibly eject anyone overstaying their welcome. It is up to the caretakers to determine how long they may stay.
+The Order of the Diamond can take people inside their temples who are wanted by the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) or [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/index.md). The caretakers decide how long they may stay, and can forcibly eject anyone overstaying their welcome. It is up to the caretakers to determine how long they may stay.
 
 While here, those seeking sanctuary partake of the food and drink left for the caretakers, and help them with their daily duties.
