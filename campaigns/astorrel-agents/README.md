@@ -23,6 +23,10 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 
 - [Astorrel Agents at D&D Beyond](https://www.dndbeyond.com/campaigns/1620558)
 
+## Sessions
+
+- [Session 0](sessions/0.md)
+
 ## Story
 
 *Nothing here yet!*
