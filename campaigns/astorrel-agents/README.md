@@ -4,7 +4,7 @@
 
 ## Premise
 
-The player characters are freshly graduated members of the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) who go on missions to maintain the balance of nature and the [Kingdom of Astor's](../../astarus/civilisations/kingdom-of-astor/README.md) prosperity.
+The player characters are freshly graduated members of the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) who go on missions to maintain the balance of nature and the [Kingdom of Astor](../../astarus/civilisations/kingdom-of-astor/README.md)'s prosperity.
 
 ## Players
 
@@ -25,8 +25,14 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 
 ## Sessions
 
-- [Session 0](sessions/0.md)
+| Session | Date |
+| --- | --- |
+| [Astorrel Agents Session 0](sessions/0.md) | 2021-01-02 |
+| [Astorrel Agents Session 1](sessions/1.md) | 2021-01-16 |
 
-## Story
+## Storylines
 
-*Nothing here yet!*
+- Becoming an [Astorrel Squad Hand](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md)
+- Who will be the Squad Lead?
+- The Rival Squad
+- [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) vs [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md)

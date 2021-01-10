@@ -16,7 +16,7 @@ Here you will find all of my notes on Astarus, its people and places, and events
 Automatically applying markdown links:
 
 ```bash
-alias ml="node ../../../Sandbox/markdownLinks.js
+alias ml="node ../../../Sandbox/markdownLinks.js"
 ```
 Cropping Hero Forge image exports:
 

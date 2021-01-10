@@ -29,14 +29,14 @@ Penance grew up on the streets of [Northhaven](../civilisations/kingdom-of-astor
 | Hair | Silvery-brown. Shaved sides, back knot. |
 | Body | 6'2". Muscular and lean. |
 | Clothes | Iron half-plate armour, white undergarments. |
-| Equipment | Longsword, shield bearing [Bhygar's](../gods/gods/bhygar.md) symbol. |
+| Equipment | Longsword, shield bearing [Bhygar](../gods/gods/bhygar.md)'s symbol. |
 | Mannerisms | |
 
 | Personality | Description |
 | --- | --- |
 | Voice | Energetic with snake-like elongated 's' sounds. |
 | Quirks | Incredibly devout paladin of [Bhygar](../gods/gods/bhygar.md), but a loose cannon. |
-| Knowledge | [Bhygar's](../gods/gods/bhygar.md) teachings, how to party. |
+| Knowledge | [Bhygar](../gods/gods/bhygar.md)'s teachings, how to party. |
 | Values | People who are willing to step up for others. |
 | Ambitions | Wishes to be a good paladin, and leave a varied & exciting life. |
 | Dislikes | Mundane tasks, chores. |
