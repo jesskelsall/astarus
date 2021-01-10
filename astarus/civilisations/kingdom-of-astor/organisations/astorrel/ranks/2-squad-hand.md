@@ -1,5 +1,7 @@
 # Astorrel Squad Hand
 
+<img src="../../../../../../images/ranks/astorrel-2-squad-hand.png" height="200" />
+
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |

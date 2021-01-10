@@ -4,7 +4,7 @@ Most military members are given a badge that identifies them as belonging to the
 
 | [Astornar](organisations/astornar.md) | [Astornox](organisations/astornox.md) | [Astorrel](organisations/astorrel/README.md) | [Astornos](organisations/astornos.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="../../../images/organisations/[astornar](organisations/astornar.md).png" height="100" /> | <img src="../../../images/organisations/[astornox](organisations/astornox.md).png" height="100" /> | <img src="../../../images/organisations/[astorrel](organisations/astorrel/README.md).png" height="100" /> | <img src="../../../images/organisations/[astornos](organisations/astornos.md).png" height="100" /> |
+| <img src="../../../images/organisations/astornar.png" height="100" /> | <img src="../../../images/organisations/astornox.png" height="100" /> | <img src="../../../images/organisations/astorrel.png" height="100" /> | <img src="../../../images/organisations/astornos.png" height="100" /> |
 
 ## Appearance
 

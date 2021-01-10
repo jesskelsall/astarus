@@ -1,10 +1,10 @@
-# Logan's Character
+# Redwyn Humpledopper
 
-<img src="../../images/people/logans-character.png" height="300" />
+<img src="../../images/people/redwyn-humpledopper.png" height="300" />
 
 | []() | |
 | --- | --- |
-| **Name** | Logan's Character |
+| **Name** | Redwyn Humpledopper |
 | **Race** | Dwarf |
 | **Gender** | |
 | **Age** | |
@@ -17,4 +17,4 @@
 
 ## Summary
 
-Logan's Character is a player character in the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) campaign, played by Logan.
+Redwyn Humpledopper is a player character in the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) campaign, played by Logan.

@@ -1,5 +1,7 @@
 # Kingdom of Astor
 
+<img src="../../../images/civilisations/kingdom-of-astor.png" height="200" />
+
 | []() | |
 | --- | --- |
 | **Capital City** | [Northhaven](settlements/northhaven/README.md) |

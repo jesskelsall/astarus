@@ -11,7 +11,7 @@
 | **Class** | Fighter |
 | **Alignment** | Lawful Neutral |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br /> [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br /> [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md)<br /><img src="../../images/ranks/astorrel-4-squad-sergeant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br />[Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
 | **Relations** | |
@@ -19,6 +19,8 @@
 ## Summary
 
 Bryce Morton is the Squad Sergeant in charge of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) player's party, as well as their rival party.
+
+While a Squad Lead, his squad was called **Summit Squad**.
 
 ## Characteristics
 

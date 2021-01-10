@@ -1,5 +1,7 @@
 # Astorrel Member
 
+<img src="../../../../../../images/ranks/astorrel-1-member.png" height="200" />
+
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |

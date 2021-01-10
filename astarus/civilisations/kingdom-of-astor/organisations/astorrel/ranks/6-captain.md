@@ -1,5 +1,7 @@
 # Astorrel Captain
 
+<img src="../../../../../../images/ranks/astorrel-6-captain.png" height="200" />
+
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |

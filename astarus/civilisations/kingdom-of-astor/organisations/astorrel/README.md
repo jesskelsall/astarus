@@ -149,6 +149,10 @@ Following this their superior officer finds them, introduces them to their team,
 | --- | --- | --- |
 | [Levelle Tristwix](../../../../people/levelle-tristwix.md) | Commandant | |
 | [Bryce Morton](../../../../people/bryce-morton.md) | Squad Sergeant | Sergeant to [Players Squad](squads/players.md) and [Ruby Squad](squads/ruby.md). |
+| [Ahsha Sallas](../../../../people/ahsha-sallas.md) | Squad Hand | [Players Squad](squads/players.md) |
+| [Ephaine Seren](../../../../people/ephaine-seren.md) | Squad Hand | [Players Squad](squads/players.md) |
+| [Redwyn Humpledopper](../../../../people/redywn-humpledopper.md) | Squad Hand | [Players Squad](squads/players.md) |
+| [Whisper on the Breeze](../../../../people/whisper-on-the-breeze.md) | Squad Hand | [Players Squad](squads/players.md) |
 | [Darius Dunn](../../../../people/darius-dunn.md) | Squad Hand | [Ruby Squad](squads/ruby.md) |
 | [Morgan Caithness](../../../../people/morgan-caithness.md) | Squad Hand | [Ruby Squad](squads/ruby.md) |
 | [Penance Zahiri](../../../../people/penance-zahiri.md) | Squad Hand | [Ruby Squad](squads/ruby.md) |

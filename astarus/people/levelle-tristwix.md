@@ -11,7 +11,7 @@
 | **Class** | Druid |
 | **Alignment** | Lawful Good |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />[Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md) |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />[Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md)<br /><img src="../../images/ranks/astorrel-7-commandant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Relations** | |

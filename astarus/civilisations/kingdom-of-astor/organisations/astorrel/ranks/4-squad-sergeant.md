@@ -1,5 +1,7 @@
 # Astorrel Squad Sergeant
 
+<img src="../../../../../../images/ranks/astorrel-4-squad-sergeant.png" height="200" />
+
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |

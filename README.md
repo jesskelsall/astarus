@@ -1,5 +1,7 @@
 # Dungeons & Dragons: Astarus Campaign Setting
 
+<img src="images/civilisations/kingdom-of-astor.png" height="100">
+
 Astarus is a homebrew D&D campaign setting created by me, Jessica Kelsall.
 
 Here you will find all of my notes on Astarus, its people and places, and events, past & present.

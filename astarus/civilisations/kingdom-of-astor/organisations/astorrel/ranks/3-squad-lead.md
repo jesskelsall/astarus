@@ -1,5 +1,7 @@
 # Astorrel Squad Lead
 
+<img src="../../../../../../images/ranks/astorrel-3-squad-lead.png" height="200" />
+
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |

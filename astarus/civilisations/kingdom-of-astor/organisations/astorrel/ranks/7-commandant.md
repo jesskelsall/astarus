@@ -1,5 +1,7 @@
 # Astorrel Commandant
 
+<img src="../../../../../../images/ranks/astorrel-7-commandant.png" height="200" />
+
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |

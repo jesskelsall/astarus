@@ -13,11 +13,11 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 | Billie | [Ahsha Sallas](../../astarus/people/ahsha-sallas.md) | `Billie#2623` | [billie_by_design](https://www.instagram.com/billie_by_design/) |
 | Brooke | [Whisper on the Breeze](../../astarus/people/whisper-on-the-breeze.md) | `Brookealeen#9511` | [foxy.gremlin](https://www.instagram.com/foxy.gremlin/) |
 | Lily | [Ephaine Seren](../../astarus/people/ephaine-seren.md) | `well_actulily#0391` | [well_actulily](https://www.instagram.com/well_actulily/) |
-| Logan | [Logan's Character](../../astarus/people/logans-character.md) | `Lo’#9831` | [definitely_lo](https://www.instagram.com/definitely_lo/) |
+| Logan | [Redwyn Humpledopper](../../astarus/people/redywn-humpledopper.md) | `Lo’#9831` | [definitely_lo](https://www.instagram.com/definitely_lo/) |
 
-| [Ahsha Sallas](../../astarus/people/ahsha-sallas.md) | [Whisper on the Breeze](../../astarus/people/whisper-on-the-breeze.md) | [Ephaine Seren](../../astarus/people/ephaine-seren.md) | [Logan's Character](../../astarus/people/logans-character.md) |
+| [Ahsha Sallas](../../astarus/people/ahsha-sallas.md) | [Whisper on the Breeze](../../astarus/people/whisper-on-the-breeze.md) | [Ephaine Seren](../../astarus/people/ephaine-seren.md) | [Redwyn Humpledopper](../../astarus/people/redywn-humpledopper.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="../../images/people/ahsha-sallas.png" height="300" /> | <img src="../../images/people/whisper-on-the-breeze.png" height="300" /> | <img src="../../images/people/ephaine-seren.png" height="300" /> | <img src="../../images/people/logans-character.png" height="300" /> |
+| <img src="../../images/people/ahsha-sallas.png" height="300" /> | <img src="../../images/people/whisper-on-the-breeze.png" height="300" /> | <img src="../../images/people/ephaine-seren.png" height="300" /> | <img src="../../images/people/redwyn-humpledopper.png" height="300" /> |
 
 ## Links
 

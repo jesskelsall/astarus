@@ -1,5 +1,7 @@
 # Astorrel Lieutenant
 
+<img src="../../../../../../images/ranks/astorrel-5-lieutenant.png" height="200" />
+
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |
