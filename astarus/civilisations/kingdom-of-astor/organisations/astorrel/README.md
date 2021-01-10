@@ -111,7 +111,7 @@ Recruits are trained by the Astorrel for between two and four years, depending o
 
 They learn combat training, wilderness survival, how to read and write, the history of the world, and all manner of things relating to nature and the delicate balance Astor keeps with it through the Astorrel.
 
-Astorrel recruits train in Dunmore, and do not typically travel to [Northhaven](../../settlements/northhaven/README.md) prior to their graduation.
+Astorrel recruits train in [Dunmore](../../settlements/dunmore.md), and do not typically travel to [Northhaven](../../settlements/northhaven/README.md) prior to their graduation.
 
 ### Graduation
 
@@ -145,15 +145,15 @@ Following this their superior officer finds them, introduces them to their team,
 
 ## People
 
-| Name | Rank | Significance |
-| --- | --- | --- |
-| [Levelle Tristwix](../../../../people/levelle-tristwix.md) | Commandant | |
-| [Bryce Morton](../../../../people/bryce-morton.md) | Squad Sergeant | Sergeant to [Players Squad](squads/players.md) and [Ruby Squad](squads/ruby.md). |
-| [Ahsha Sallas](../../../../people/ahsha-sallas.md) | Squad Hand | [Players Squad](squads/players.md) |
-| [Ephaine Seren](../../../../people/ephaine-seren.md) | Squad Hand | [Players Squad](squads/players.md) |
-| [Redwyn Humpledopper](../../../../people/redywn-humpledopper.md) | Squad Hand | [Players Squad](squads/players.md) |
-| [Whisper on the Breeze](../../../../people/whisper-on-the-breeze.md) | Squad Hand | [Players Squad](squads/players.md) |
-| [Darius Dunn](../../../../people/darius-dunn.md) | Squad Hand | [Ruby Squad](squads/ruby.md) |
-| [Morgan Caithness](../../../../people/morgan-caithness.md) | Squad Hand | [Ruby Squad](squads/ruby.md) |
-| [Penance Zahiri](../../../../people/penance-zahiri.md) | Squad Hand | [Ruby Squad](squads/ruby.md) |
-| [Tabari Se](../../../../people/tabari-se.md) | Squad Hand | [Ruby Squad](squads/ruby.md) |
+| Name | Rank |
+| --- | --- |
+| [Levelle Tristwix](../../../../people/levelle-tristwix.md) | [Astorrel Commandant](ranks/7-commandant.md) |
+| [Bryce Morton](../../../../people/bryce-morton.md) | [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md) |
+| [Ahsha Sallas](../../../../people/ahsha-sallas.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
+| [Ephaine Seren](../../../../people/ephaine-seren.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
+| [Redwyn Humpledopper](../../../../people/redywn-humpledopper.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
+| [Whisper on the Breeze](../../../../people/whisper-on-the-breeze.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
+| [Darius Dunn](../../../../people/darius-dunn.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
+| [Morgan Caithness](../../../../people/morgan-caithness.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
+| [Penance Zahiri](../../../../people/penance-zahiri.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
+| [Tabari Se](../../../../people/tabari-se.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |

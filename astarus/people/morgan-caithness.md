@@ -19,7 +19,7 @@
 
 Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
-Her family has lived for generations as loggers on the outskirts of Hawkswood near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at Eskrigg she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme on the promise of good pay for completing missions.
+Her family has lived for generations as loggers on the outskirts of Hawkswood near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../civilisations/kingdom-of-astor/settlements/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme on the promise of good pay for completing missions.
 
 ## Characteristics
 

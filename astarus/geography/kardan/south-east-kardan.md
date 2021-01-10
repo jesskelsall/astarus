@@ -17,7 +17,7 @@ The Great Astor Road cuts east to west connecting central Astor to both the east
 ### Places
 
 - Cities:
-  - Eskrigg
+  - [Eskrigg](../../civilisations/kingdom-of-astor/settlements/eskrigg.md)
   - [Northhaven](../../civilisations/kingdom-of-astor/settlements/northhaven/README.md) (capital)
 - Towns:
   - Eaglesfield
@@ -34,10 +34,10 @@ The Great Astor Road cuts east to west connecting central Astor to both the east
 
 ## Eastern Astor
 
-Astor's eastern coast is dominated by rough hills and steep cliffs, making travel off the Great Astor Road treacherous. What little usable land there is is squeezed between the [Sea of Songs](../sea-of-songs.md) and the Grise peaks. The fishing port of Dunmore dominates this region.
+Astor's eastern coast is dominated by rough hills and steep cliffs, making travel off the Great Astor Road treacherous. What little usable land there is is squeezed between the [Sea of Songs](../sea-of-songs.md) and the Grise peaks. The fishing port of [Dunmore](../../civilisations/kingdom-of-astor/settlements/dunmore.md) dominates this region.
 
 - Cities:
-  - Dunmore
+  - [Dunmore](../../civilisations/kingdom-of-astor/settlements/dunmore.md)
 - Towns:
   - Kilflynn
 - Roads:
