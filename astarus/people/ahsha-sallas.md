@@ -23,7 +23,7 @@ Ahsha Sallas is a player character in the [Astorrel Agents](../../campaigns/asto
 
 ## Backstory
 
-Ahsha Sallas was born in the village of [Mockerkin](../civilisations/kingdom-of-astor/settlements/mockerkin.md) to [Arsha Sallas](arsha-sallas.md) (orc father) and [Felina Sallas](felina-sallas.md) (human mother).
+Ahsha Sallas was born in the town of [Mockerkin](../civilisations/kingdom-of-astor/settlements/mockerkin.md) to [Arsha Sallas](arsha-sallas.md) (orc father) and [Felina Sallas](felina-sallas.md) (human mother).
 
 As a child she was aware of the differences in how people treated her drigg mother compared to her citizen (ex-[Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md)) father, which triggered a powerful instinct to protect her mother. As a result she got into a lot of fights at a young age. She would start a fight before talking it over, earning her a reputation as a hot-head.
 
@@ -39,6 +39,6 @@ In her spare time she likes to read the Dwarves at Sea novels and sing orcish ba
 
 ### Two Truths and a Lie
 
-- She got into a fight with one of her mentors. [true]
-- The mentors favoured her over the other students. [true]
-- She has a criminal past. [false]
+- She got into a fight with one of her mentors. [truth]
+- The mentors favoured her over the other students. [truth]
+- She has a criminal past. [lie]

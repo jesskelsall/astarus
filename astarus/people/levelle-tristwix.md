@@ -20,6 +20,8 @@
 
 Levelle Tristwix is the [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md) in charge of the organisation's day-to-day operations.
 
+She is a politically savvy commandant who is a big believer in the Astorrel. Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the Astornox.
+
 ## Characteristics
 
 | Appearance | Description |

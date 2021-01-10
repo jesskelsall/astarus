@@ -148,6 +148,7 @@ Following this their superior officer finds them, introduces them to their team,
 | Name | Rank |
 | --- | --- |
 | [Levelle Tristwix](../../../../people/levelle-tristwix.md) | [Astorrel Commandant](ranks/7-commandant.md) |
+| [Merkin Thorgus](../../../../people/merkin-thorgus.md) | [Astorrel Captain](ranks/6-captain.md) ([Northhaven](../../settlements/northhaven/README.md)) |
 | [Bryce Morton](../../../../people/bryce-morton.md) | [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md) |
 | [Ahsha Sallas](../../../../people/ahsha-sallas.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
 | [Ephaine Seren](../../../../people/ephaine-seren.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |

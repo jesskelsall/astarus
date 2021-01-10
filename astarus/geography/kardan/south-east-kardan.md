@@ -23,6 +23,7 @@ The Great Astor Road cuts east to west connecting central Astor to both the east
   - Eaglesfield
   - Foxhaven
   - Holmrook
+  - [Mockerkin](../../civilisations/kingdom-of-astor/settlements/mockerkin.md)
 - Villages:
   - Bootle
   - Eskside
