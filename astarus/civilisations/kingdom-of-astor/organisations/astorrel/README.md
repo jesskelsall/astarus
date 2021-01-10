@@ -22,7 +22,7 @@ The Astorrel symbol is a grey square with the diamond shaped ruby of Astor embed
 
 ### Uniform
 
-Astorrel members have no formal uniform outside of ceremonies - they are allowed to wear what they wish when on missions.
+[Astorrel members](ranks/1-member.md) have no formal uniform outside of ceremonies - they are allowed to wear what they wish when on missions.
 
 For ceremonies they wear robes in the colours of [Kirrel](../../../../gods/gods/kirrel.md) - from top to bottom: green, mint green, turquoise, blue. During ceremonies they are not permitted to wear anything else or wield any possessions or weapons.
 
@@ -82,26 +82,14 @@ While out on missions, they are completely autonomous and may not have any conta
 As part of the Astor military, Astorrel have a rank hierarchy that passes orders down from a single person to every Astorrel beneath them.
 
 - Officers:
-  - **Commandant:** Leader of the Astorrel.
-  - **Captain:** Leader of the Astorrel branch in a specific city.
-  - **Lieutenant:** Oversees the direction of multiple squad sergeants.
-  - **Squad Sergeant:** Coordinates the activities of multiple squads.
+  - [Astorrel Commandant](ranks/7-commandant.md): Leader of the Astorrel.
+  - [Astorrel Captain](ranks/6-captain.md): Leader of the Astorrel stronghold in a specific city.
+  - [Astorrel Lieutenant](ranks/5-lieutenant.md): Creates missions for multiple squad sergeants.
+  - [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md): Commands multiple squads to complete their missions.
 - Enlisted:
-  - **Squad Lead:** A Squad Hand with authority over their squad of four.
-  - **Squad Hand:** Members of a squad of four who complete field missions.
-  - **Recruit:** The lowest rank. Saved for those who do not partake in field missions.
-
-**Recruits** are any Astorrel that do not engage in missions. These are guards for Astorrel strongholds as well as other maintenance roles. They are paid a weekly wage for their services.
-
-**Squad Hands** complete missions with their squads of four. The majority of Astorrel members are of this rank, and many remain here for their entire career. It is the most dangerous, requiring extensive field work that is not for the faint hearted.
-
-**Squad Leads** are the leader of a squad. Their duties are the same as Squad Hands, but with extra responsibility. If a mission is unsuccessful, they are held accountable. As a result they are paid better. Achieving this rank is necessary for further advancement up the command chain.
-
-New squads do not have a Squad Lead. A trial period is used to determine which Squad Hand will take the position, wherein each Squad Hand plays the role of Squad Lead once before all four squad members make recommendations to their Squad Sergeant. They alone make the final decision.
-
-**Squad Sergeants** oversee the operation of one or more squads, passing missions down to them from command and assisting them in their endeavours. They have the ability to assign Squad Leads in their squads, and can shuffle their squads up if they feel a better composition would yield better results.
-
-The **Commandant** runs the day-to-day operations of the Astorrel, exercising the will of the general who oversees the organisation. They are also the figurehead of the Astorrel, and expected to take on a public facing role for the Astorrel.
+  - [Astorrel Squad Lead](ranks/3-squad-lead.md): An elevated Squad Hand with authority over their squad of four.
+  - [Astorrel Squad Hand](ranks/2-squad-hand.md): Members of a squad of four who complete field missions.
+  - [Astorrel Member](ranks/1-member.md): The lowest rank. Saved for those who do not partake in field missions.
 
 ## Recruitment
 
@@ -133,7 +121,7 @@ Each year the recruits that are ready to graduate travel to [Northhaven](../../s
 
 Prior to the ceremony, the Astorrel officers decide which rank each recruit will start at, and which existing officers will become their superior officers.
 
-The ceremony is witnessed by existing Astorrel members, including all of the officers present in [Northhaven](../../settlements/northhaven/README.md) at the time. During the show of faith, [Astornox](../astornox.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
+The ceremony is witnessed by existing [Astorrel members](ranks/1-member.md), including all of the officers present in [Northhaven](../../settlements/northhaven/README.md) at the time. During the show of faith, [Astornox](../astornox.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
 
 ### Pledge
 

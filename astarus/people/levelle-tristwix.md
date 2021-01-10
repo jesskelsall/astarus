@@ -11,14 +11,14 @@
 | **Class** | Druid |
 | **Alignment** | Lawful Good |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), Commandant |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />[Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Relations** | |
 
 ## Summary
 
-Levelle Tristwix is the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) Commandant in charge of the organisation's day-to-day operations.
+Levelle Tristwix is the [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md) in charge of the organisation's day-to-day operations.
 
 ## Characteristics
 

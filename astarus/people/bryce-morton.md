@@ -11,7 +11,7 @@
 | **Class** | Fighter |
 | **Alignment** | Lawful Neutral |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), Squad Sergeant |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br /> [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) |
 | **Commanding Officer** | |
 | **Subordinates** | [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br />[Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
 | **Relations** | |
