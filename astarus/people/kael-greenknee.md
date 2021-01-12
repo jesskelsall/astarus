@@ -9,10 +9,13 @@
 | **Class** | |
 | **Alignment** | |
 | **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) (mentor) |
+| **Commanding Officer** | |
+| **Subordinates** | |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
 | **Acquaintances** | [Ahsha Sallas](ahsha-sallas.md) ([Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruit) |
 | **From** | [Dunmore](../civilisations/kingdom-of-astor/settlements/dunmore.md) |
+| **Places** | |
 
 ## Summary
 

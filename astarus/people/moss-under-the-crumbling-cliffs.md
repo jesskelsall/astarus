@@ -1,27 +1,25 @@
-# Name
-
-<img src="../../images/people/name.png" height="300" />
+# Moss Under the Crumbling Cliffs
 
 | []() | |
 | --- | --- |
-| **Name** | |
-| **Race** | |
-| **Gender** | |
-| **Age** | |
+| **Name** | Moss Under the Crumbling Cliffs |
+| **Race** | Tabaxi |
+| **Gender** | Female |
+| **Age** | 38 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | |
-| **Commanding Officer** | | *Delete if not military*
-| **Subordinates** | | *Delete if not military*
+| **Affiliation** | Astorrel (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | |
+| **Places** | Adventures for Adventurers |
 
 ## Summary
 
 TODO
+
+Was an Astorrel member, didn't get to see the kingdom first-hand. Living through books and stories now.
 
 ## Characteristics
 

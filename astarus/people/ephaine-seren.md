@@ -10,10 +10,14 @@
 | **Age** | |
 | **Class** | Druid |
 | **Alignment** | |
-| **Worship** | |
 | **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />Squad Hand: [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md) |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
+| **Subordinates** | |
+| **Worship** | |
 | **Relations** | |
+| **Acquaintances** | |
+| **From** | |
+| **Places** | |
 
 ## Summary
 

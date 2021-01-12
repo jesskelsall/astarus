@@ -9,10 +9,13 @@
 | **Class** | |
 | **Alignment** | |
 | **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) |
+| **Commanding Officer** | |
+| **Subordinates** | |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Ahsha Sallas](ahsha-sallas.md) (scouted) |
 | **From** | [Eskrigg](../civilisations/kingdom-of-astor/settlements/eskrigg.md) |
+| **Places** | |
 
 ## Summary
 

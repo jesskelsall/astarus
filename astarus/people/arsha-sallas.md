@@ -13,6 +13,7 @@
 | **Relations** | [Felina Sallas](felina-sallas.md) (wife)<br />[Ahsha Sallas](ahsha-sallas.md) (daughter) |
 | **Acquaintances** | |
 | **From** | [Mockerkin](../civilisations/kingdom-of-astor/settlements/mockerkin.md) |
+| **Places** | |
 
 ## Summary
 

@@ -131,7 +131,7 @@ At the start of the ceremony, all recruits are assembled in [Kirrel](../../../..
 
 Following the pledge, the recruits have an hour to pledge themselves to an insider god in order to show their faith to [The Order of the Diamond](../../../../gods/the-order-of-the-diamond.md). Practicing this religion is a requirement to become a member, though this is realistically the only time when that faith is tested.
 
-Members make their way out of the Astorrel District, through the Military District, and out to the Officer District to Diamond Prime, the main temple of the religion in all of Astor. Their route to and from the temple is lined with military members, citizens and drigg alike who witness their pledge.
+Members make their way out of the Astorrel District, through the Military District, and out to the Officer District to [Diamond Prime](../../settlements/northhaven/places/diamond-prime.md), the main temple of the religion in all of Astor. Their route to and from the temple is lined with military members, citizens and drigg alike who witness their pledge.
 
 Once inside the temple, each member chooses their patron god. This decision is theirs alone and is not pre-registered prior to this ceremony. They approach the altar of their chosen god and pray to them however they wish.
 

@@ -10,15 +10,18 @@
 | **Age** | 87 |
 | **Class** | Wizard |
 | **Alignment** | Lawful Good |
-| **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />[Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md)<br /><img src="../../images/ranks/astorrel-6-captain.png" height="50" /> |
 | **Commanding Officer** | [Levelle Tristwix](levelle-tristwix.md) |
 | **Subordinates** | |
+| **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
+| **Acquaintances** | |
+| **From** | |
+| **Places** | |
 
 ## Summary
 
-Merkin Thorgus is the [Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) in charge of the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md).
+Merkin Thorgus is the [Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) in charge of the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md).
 
 He is an old man with a beard that really ought to have retired already, but nobody dares tell him. Still, he stubbornly continues on diligently with his duties.
 

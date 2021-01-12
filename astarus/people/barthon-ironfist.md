@@ -13,6 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | [Ahsha Sallas](ahsha-sallas.md) (pit fighter) |
 | **From** | [Eskrigg](../civilisations/kingdom-of-astor/settlements/eskrigg.md) |
+| **Places** | |
 
 ## Summary
 

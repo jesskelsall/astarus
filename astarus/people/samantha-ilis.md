@@ -9,10 +9,13 @@
 | **Class** | |
 | **Alignment** | Lawful Good |
 | **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />[Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) |
-| **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Commanding Officer** | |
 | **Subordinates** | [Bryce Morton](bryce-morton.md) |
+| **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
+| **Acquaintances** | |
+| **From** | |
+| **Places** | |
 
 ## Summary
 

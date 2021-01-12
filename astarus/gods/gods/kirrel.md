@@ -10,7 +10,7 @@
 | **Religion** | [The Order of the Diamond](../the-order-of-the-diamond.md) |
 | **Deity** | Lesser |
 | **Domains** | Nature, Tempest |
-| **Gender** | Variant |
+| **Gender** | Non-binary |
 | **Nickname** | *The Generous* |
 | **Associations** | Health, Generosity, Fortune |
 

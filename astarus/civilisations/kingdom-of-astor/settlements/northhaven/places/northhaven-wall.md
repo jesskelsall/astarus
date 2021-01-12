@@ -5,13 +5,14 @@
 | **Name** | Northhaven Wall |
 | **Type** | City architecture |
 | **Location** | [Northhaven](../README.md) |
-| **Nearby Places** | Sunrise District<br />Sunset District |
+| **Nearby Places** | [Sunrise District](sunrise-district.md)<br />[Sunset District](sunset-district.md) |
+| **People** | |
 
 ## Summary
 
 The city wall was built during the Astor-Syntenne War to prevent a land-based invasion of the city. It is 10ft thick, on average 35ft tall, and made of stone from the slopes of Walna Pike nearby.
 
-These days it demarcates the inner Sunset District, which is for military members only, from the outer Sunrise District, which is for everyone else.
+These days it demarcates the inner [Sunset District](sunset-district.md), which is for military members only, from the outer [Sunrise District](sunrise-district.md), which is for everyone else.
 
 | Sensation | Description |
 | ---- | --- |
@@ -27,7 +28,7 @@ There are three gate houses that permit military members inside of the wall. The
 
 Each gate house has towers on either side which are always manned, checking for disturbances on the outer side.
 
-The gate house itself has thicker walls and is manned by four [Northhaven](../README.md) [Astornox](../../../organisations/astornox.md) at all times. It has a large wrought iron portcullis that can be lowered to close access to the Sunset District.
+The gate house itself has thicker walls and is manned by four [Northhaven](../README.md) [Astornox](../../../organisations/astornox.md) at all times. It has a large wrought iron portcullis that can be lowered to close access to the [Sunset District](sunset-district.md).
 
 There is an anti-magic field present in and around the gate house, making it difficult for magical attacks on the gate house, or for people to slip inside disguised.
 
@@ -43,7 +44,7 @@ There is an anti-magic field present in and around the gate house, making it dif
 
 *See also: [Military Badges](../../../military-badges.md)*
 
-Only military members may enter the Sunset District of [Northhaven](../README.md). In order to do so they must produce a military badge that belongs to them. It is a punishable crime to use a badge belonging to someone else in order to enter.
+Only military members may enter the [Sunset District](sunset-district.md) of [Northhaven](../README.md). In order to do so they must produce a military badge that belongs to them. It is a punishable crime to use a badge belonging to someone else in order to enter.
 
 There is a degree of trust put in the individuals attempting to enter - if they look the part and wield a military badge confidently enough, and can answer some questions about themselves and their business, they will likely be granted access.
 

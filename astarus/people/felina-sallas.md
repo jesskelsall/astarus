@@ -13,6 +13,7 @@
 | **Relations** | [Arsha Sallas](arsha-sallas.md) (husband)<br />[Ahsha Sallas](ahsha-sallas.md) (daughter) |
 | **Acquaintances** | |
 | **From** | [Mockerkin](../civilisations/kingdom-of-astor/settlements/mockerkin.md) |
+| **Places** | |
 
 ## Summary
 

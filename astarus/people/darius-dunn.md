@@ -10,10 +10,14 @@
 | **Age** | 17 |
 | **Class** | Cleric |
 | **Alignment** | Lawful Good |
-| **Worship** | [Valnos](../gods/gods/valnos.md) |
 | **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />Squad Hand: [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
+| **Subordinates** | |
+| **Worship** | [Valnos](../gods/gods/valnos.md) |
 | **Relations** | |
+| **Acquaintances** | |
+| **From** | |
+| **Places** | |
 
 ## Summary
 
