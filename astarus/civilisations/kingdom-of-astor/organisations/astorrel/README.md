@@ -125,7 +125,7 @@ The ceremony is witnessed by existing [Astorrel members](ranks/1-member.md), inc
 
 ### Pledge
 
-At the start of the ceremony, all recruits are assembled in [Kirrel](../../../../gods/gods/kirrel.md) Hall for the pledge. This is comprised of a speech from the Commandant followed by a pledge to the organisation, instilling a sense of duty and commitment.
+At the start of the ceremony, all recruits are assembled in [Kirrel Hall](../../settlements/northhaven/places/kirrel-hall.md) for the pledge. This is comprised of a speech from the Commandant followed by a pledge to the organisation, instilling a sense of duty and commitment.
 
 ### Show of Faith
 

@@ -48,9 +48,7 @@ A main street, [Kirrel](../../../../../gods/gods/kirrel.md) Way, leads through t
 
 ## Places
 
-TODO:
-
-- Meeting hall
-- Administrative building
-- Offices
-- Hostel-like accommodation incl. ground floor tavern.
+- [Auric Rise](auric-rise.md) (officer homes and offices)
+- [Kirrel Hall](kirrel-hall.md) (meeting and banquet hall)
+- [The Mission's End](the-missions-end.md) (tavern / hostel)
+- [Zenith Tower](zenith-tower.md) (administrative)
