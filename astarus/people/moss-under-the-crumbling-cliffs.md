@@ -8,18 +8,18 @@
 | **Age** | 38 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | Astorrel (retired) |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | Adventures for Adventurers |
+| **Places** | [Adventures for Adventurers](../civilisations/kingdom-of-astor/settlements/northhaven/places/adventures-for-adventurers.md) |
 
 ## Summary
 
 TODO
 
-Was an Astorrel member, didn't get to see the kingdom first-hand. Living through books and stories now.
+Was an [Astorrel member](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/1-member.md), didn't get to see the kingdom first-hand. Living through books and stories now.
 
 ## Characteristics
 

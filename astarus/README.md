@@ -31,6 +31,12 @@ In lesser numbers there are also the following known races, in descending order 
 - [Genasi](https://www.dndbeyond.com/races/genasi)
 - [Aasimar](https://www.dndbeyond.com/races/aasimar)
 
+From these peoples, the following civilisations have emerged:
+
+- [Kingdom of Astor](civilisations/kingdom-of-astor/README.md) (human, halfling, gnome).
+- [Syntenne Republic](civilisations/syntenne-republic/README.md) (elf, half-elf).
+- [Dardenn Kingdom](civilisations/dardenn-kingdom/README.md) (dwarf).
+
 ## Magic
 
 *See also: [Magicborn](civilisations/kingdom-of-astor/magicborn.md)*

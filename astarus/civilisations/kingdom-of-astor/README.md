@@ -6,7 +6,7 @@
 | --- | --- |
 | **Capital City** | [Northhaven](settlements/northhaven/README.md) |
 | **Official Languages** | Common |
-| **Ethnic Groups** | Human<br />Halfling<br /> |
+| **Ethnic Groups** | Human<br />Halfling<br />Gnome |
 | **Religion** | [The Order of the Diamond](../../gods/the-order-of-the-diamond.md) |
 | **Demonyms** | Astorian |
 | **Government** | Militocracy |

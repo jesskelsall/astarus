@@ -48,8 +48,8 @@ Tarsha Nulas is secretly a member of the [Astornar](../civilisations/kingdom-of-
 
 ## Planning
 
-### Astorrel Agents
+### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
 
 On graduation day, Tarsha Nulas is present at her shop counter constantly. She answers questions calmly but evasively, giving very little hard details about what services cost or what items might be available.
 
-Any magicborn when asked would know that she is typically distrustful of those who have not proven themselves. She becomes much less opaque when sold a magical item.
+Any [magicborn](../civilisations/kingdom-of-astor/magicborn.md) when asked would know that she is typically distrustful of those who have not proven themselves. She becomes much less opaque when sold a magical item.
