@@ -15,3 +15,15 @@ The entire south east is controlled by the [Kingdom of Astor](../../civilisation
 The south of Kardan is a semi-arid region with sharp mountains, lush river valleys, and desert terrain. Life here is concentrated around the sea and rivers due to the harsh conditions.
 
 The entire south is controlled by the [Syntenne Republic](../../civilisations/syntenne-republic/README.md).
+
+## North East Kardan
+
+The north east of Kardan is mountainous and perpetually snowy. Large animals with fur and thick skin survive well here, but most peoples do not. Only the Dwarves were hardy enough to settle this region.
+
+The entire north is controlled by the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/README.md).
+
+## East Kardan
+
+East Kardan is a mix of disparate biomes. Just likes the land, its peoples are varied. The area is home to larger populations of Tieflings, Tabaxi, Kenku, Dragonborn, and Orcs.
+
+Civilisation in this region is divided up into city states which have formed the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/README.md).

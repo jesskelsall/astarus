@@ -2,7 +2,7 @@
 
 The south east of [Kardan](README.md) is a temperate region that lends itself well to farming, with snow-capped mountains to its north and dense forests typically at their base. Between here and the sea lie fertile plains that are kept wet by the 4 rivers coming off the mountains, and the rain that falls when the clouds hit the mountains.
 
-To its south west is the [Sea of Songs](../sea-of-songs.md), which contains the island of Kardanis.
+To its south east is the [Sea of Songs](../sea-of-songs.md), which contains the island of Kardanis.
 
 The entire south east is controlled by the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md).
 
@@ -13,6 +13,8 @@ Central Astor is the heartland of the [Kingdom of Astor](../../civilisations/kin
 The land is only broken up by Duskmere, the large lake that [Northhaven](../../civilisations/kingdom-of-astor/settlements/northhaven/README.md) is built next to, the river Humar estuary, Walna Pike, and Walna Forest. These make journeys to the coast or into western Astor less direct.
 
 The Great Astor Road cuts east to west connecting central Astor to both the east and west edges of the kingdom. From Eaglesfield the Northern Road takes travelers into northern Astor and beyond to the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/README.md).
+
+To the kingdom's western most reaches is territory that is still classified as part of central Astor. This includes the Albulain Valley, where the [Cepine](../../civilisations/kingdom-of-astor/ethnicities/cepine.md) people reside. It borders the Neum Flats, a desolate tract of wastes that precedes the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/README.md) to the far west.
 
 ### Places
 
@@ -47,8 +49,6 @@ Astor's eastern coast is dominated by rough hills and steep cliffs, making trave
 ## Northern Astor
 
 ## North Western Astor
-
-## Western Astor
 
 ## Southern Astor
 
