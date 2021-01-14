@@ -10,7 +10,7 @@
 | **Age** | 17 |
 | **Class** | Druid |
 | **Alignment** | Chaotic Good |
-| **Affiliation** | [Cepine](../civilisations/kingdom-of-astor/ethnicities/cepine.md)<br />[Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />Squad Hand: [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md) |
+| **Affiliation** | [Cepine](../civilisations/kingdom-of-astor/ethnicities/cepine.md)<br />[Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | |
@@ -49,6 +49,6 @@ Reaching [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/R
 
 ### Two Truths and a Lie
 
-- She used to sleep in the sheep pens as a child. [truth]
-- She once attacked another student for implying that she got her family killed for her crimes. [truth]
-- She wilfully murdered an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) commander and his vanguard. [lie]
+- They used to sleep in the sheep pens as a child. [truth]
+- They once attacked another student for implying that they got her family killed for their crimes. [truth]
+- They wilfully murdered an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) commander and their vanguard. [lie]

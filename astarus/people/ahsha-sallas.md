@@ -10,7 +10,7 @@
 | **Age** | 26 |
 | **Class** | Fighter |
 | **Alignment** | Neutral Good |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />[Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | |
@@ -41,6 +41,6 @@ In her spare time she likes to read the Dwarves at Sea novels and sing orcish ba
 
 ### Two Truths and a Lie
 
-- She got into a fight with one of her mentors. [truth]
-- The mentors favoured her over the other students. [truth]
-- She has a criminal past. [lie]
+- They got into a fight with one of their mentors. [truth]
+- The mentors favoured them over the other students. [truth]
+- They has a criminal past. [lie]

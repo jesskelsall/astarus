@@ -8,7 +8,7 @@
 | **Age** | 99 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) (mentor) |
+| **Affiliation** | [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) (mentor)<br /><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |

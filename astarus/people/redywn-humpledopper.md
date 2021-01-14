@@ -10,7 +10,7 @@
 | **Age** | |
 | **Class** | Bard |
 | **Alignment** | |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md)<br />Squad Hand: [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md) |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | |
