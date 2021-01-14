@@ -44,4 +44,6 @@ He is not much of a people person, typically ignoring most people until they wan
 
 ## Planning
 
-### Campaign Name
+### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+
+During session 1, Rhotrukk Bone Bleeder is working at his forge as he always does. On graduation day he pays no mind to the extra influx of customers in his shop.

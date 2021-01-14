@@ -21,3 +21,9 @@ It is a square made mostly of stone, with some iron and wood benches for seating
 | Smells | Pleasant flower scents drifting on the wind. |
 | People | Citizens, respectable [Astornox](../../../organisations/astornox.md) presence. |
 | Intrigue | This looks just like a marketplace in any UK town centre. There is a lot of open space here in stark contrast to the claustrophobic buildings of the [Sunrise District](sunrise-district.md). |
+
+## Planning
+
+### [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md)
+
+- [Gwinthel's Potion Tombola](../events/gwinthels-potion-tombola.md)

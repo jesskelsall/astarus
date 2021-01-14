@@ -46,8 +46,8 @@ A cellist and violinist play gentle notes on the middle floor, entertaining the 
 
 | Item | Price | Sensation |
 |---|---|---|
-| Tea, 1 cup | 10g | Sweet, floral notes. Pleasantly warm and soothing. |
-| *"Flower of Syntenne"*<br />special reserve tea, 1 cup | 50g | Smooth, bright and refreshing. Good mouthfeel. Deeply aromatic with developing flavours. |
-| Raspberry cheesecake | 2g | Light and delicate with a crumbly biscuit base. Fresh raspberries inject tart flavours. |
-| Cannelé | 3g | Small caramelised pudding shaped pastry. Fluffy with a soft interior. Vanilla and liqueur taste. |
-| High tea for 2<br />*Pot of tea, cakes, scones, jam, clotted cream.* | 40g | Standard tea. Metal three-tiered tray containing small cakes and currant filled scones. Buttery and dense pastries. Served with redcurrant jam and clotted cream. |
+| Tea, 1 cup | 10 gp | Sweet, floral notes. Pleasantly warm and soothing. |
+| *"Flower of Syntenne"*<br />special reserve tea, 1 cup | 50 gp | Smooth, bright and refreshing. Good mouthfeel. Deeply aromatic with developing flavours. |
+| Raspberry cheesecake | 2 gp | Light and delicate with a crumbly biscuit base. Fresh raspberries inject tart flavours. |
+| Cannelé | 3 gp | Small caramelised pudding shaped pastry. Fluffy with a soft interior. Vanilla and liqueur taste. |
+| High tea for 2<br />*Pot of tea, cakes, scones, jam, clotted cream.* | 40 gp | Standard tea. Metal three-tiered tray containing small cakes and currant filled scones. Buttery and dense pastries. Served with redcurrant jam and clotted cream. |
