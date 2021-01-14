@@ -15,9 +15,9 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 | Lily | [Ephaine Seren](../../astarus/people/ephaine-seren.md) | `well_actulily#0391` | [well_actulily](https://www.instagram.com/well_actulily/) |
 | Logan | [Redwyn Humpledopper](../../astarus/people/redywn-humpledopper.md) | `Lo’#9831` | [definitely_lo](https://www.instagram.com/definitely_lo/) |
 
-| [Ahsha Sallas](../../astarus/people/ahsha-sallas.md) | [Whisper on the Breeze](../../astarus/people/whisper-on-the-breeze.md) | [Ephaine Seren](../../astarus/people/ephaine-seren.md) | [Redwyn Humpledopper](../../astarus/people/redywn-humpledopper.md) |
+| [Ahsha Sallas](../../astarus/people/ahsha-sallas.md) | [Ephaine Seren](../../astarus/people/ephaine-seren.md) | [Redwyn Humpledopper](../../astarus/people/redywn-humpledopper.md) |[Whisper on the Breeze](../../astarus/people/whisper-on-the-breeze.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="../../images/people/ahsha-sallas.png" height="300" /> | <img src="../../images/people/whisper-on-the-breeze.png" height="300" /> | <img src="../../images/people/ephaine-seren.png" height="300" /> | <img src="../../images/people/redwyn-humpledopper.png" height="300" /> |
+| <img src="../../images/people/ahsha-sallas.png" height="300" /> | <img src="../../images/people/ephaine-seren.png" height="300" /> | <img src="../../images/people/redwyn-humpledopper.png" height="300" /> | <img src="../../images/people/whisper-on-the-breeze.png" height="300" /> |
 
 ## Links
 
