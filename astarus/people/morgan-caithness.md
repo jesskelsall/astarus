@@ -17,7 +17,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | Kilflynn |
-| **Places** | Northhaven Astorrel Stronghold |
+| **Places** | [Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 
@@ -49,7 +49,7 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-
 
 Her family has lived for generations as loggers on the outskirts of Hawkswood near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../civilisations/kingdom-of-astor/settlements/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme on the promise of good pay for completing missions.
 
-### Two Truths and a Lie
+### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
 - Their family lives in abject poverty. [truth]
 - They don't believe in any of the four gods and will pledge themselves to one in bad faith. [truth]

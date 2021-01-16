@@ -35,7 +35,7 @@ Once in Astor they settled in the town of Hyceodd, their clan began settling in 
 
 With this, the Clan on the Breeze could take it no longer, and abandoned Whisper in the wilderness, leaving them to fend for themselves. They began to live off the land, traveling east through Astor. Along the way they found imbalances in power and did their bit to restore the balance, the only way they knew how - stealing from the privileged.
 
-### Two Truths and a Lie
+### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
 - They are originally from outside of the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md). [truth]
 - Their father is an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). [truth]

@@ -39,7 +39,7 @@ During her [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/R
 
 In her spare time she likes to read the Dwarves at Sea novels and sing orcish battle shanties.
 
-### Two Truths and a Lie
+### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
 - They got into a fight with one of their mentors. [truth]
 - The mentors favoured them over the other students. [truth]

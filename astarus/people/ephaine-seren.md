@@ -47,7 +47,7 @@ Ephaine sought the [Astorrel](../civilisations/kingdom-of-astor/organisations/as
 
 Reaching [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md), she sought sanctuary and was subsequently accepted to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) training programme, placing her outside of the jurisdiction of the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md).
 
-### Two Truths and a Lie
+### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
 - They used to sleep in the sheep pens as a child. [truth]
 - They once attacked another student for implying that they got her family killed for their crimes. [truth]

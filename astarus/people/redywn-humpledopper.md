@@ -33,7 +33,7 @@ One day Redwyn returned from foraging to find their family's tavern ransacked an
 
 With little tying them to Carnmere anymore, Redwyn ventured out to attempt to join the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) so that she could explore unseen lands and hopefully find a new purpose protecting her corner of the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) from those who would do it harm.
 
-### Two Truths and a Lie
+### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
 - They started a fight with one of their fellow trainees. [truth]
 - They don't believe in any of the four gods and will pledge themselves to one of them in bad faith. [truth]

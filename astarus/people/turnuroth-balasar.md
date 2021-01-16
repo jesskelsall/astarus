@@ -15,11 +15,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | Northhaven Astorrel Stronghold |
+| **Places** | [Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 
-Turnuroth Balasar is an Astorrel Squad Sergeant based out of the Northhaven Astorrel Stronghold.
+Turnuroth Balasar is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) based out of the [Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md).
 
 ## Characteristics
 
@@ -42,11 +42,11 @@ Turnuroth Balasar is an Astorrel Squad Sergeant based out of the Northhaven Asto
 
 ## History
 
-### Two Truths and a Lie
+### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
 - They are favoured by the mentors and given special treatment. [truth]
-- They believe so strongly in the Astorrel that they don't suffer well those who don't. [truth]
-- Their parents are high ranking Astornox. [lie]
+- They believe so strongly in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) that they don't suffer well those who don't. [truth]
+- Their parents are high ranking [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). [lie]
 
 ## Planning
 
