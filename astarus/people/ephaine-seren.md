@@ -15,7 +15,7 @@
 | **Subordinates** | |
 | **Worship** | |
 | **Relations** | [Schaef Seren](schaef-seren.md) (father)<br />[Adalie Seren](adalie-seren.md) (mother)<br />[Tamman Seren](tamman-seren.md) (older brother)<br />Besar Seren (younger brother)<br />Irla Seren (younger sister) |
-| **Acquaintances** | |
+| **Acquaintances** | [Ludolf Hornwallis](ludolf-hornwallis.md) ([Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) mentor) |
 | **From** | Filisur |
 | **Places** | |
 
