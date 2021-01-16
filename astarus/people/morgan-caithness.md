@@ -16,14 +16,12 @@
 | **Worship** | [Gormox](../gods/gods/gormox.md) |
 | **Relations** | |
 | **Acquaintances** | |
-| **From** | |
-| **Places** | |
+| **From** | Kilflynn |
+| **Places** | Northhaven Astorrel Stronghold |
 
 ## Summary
 
 Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
-
-Her family has lived for generations as loggers on the outskirts of Hawkswood near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../civilisations/kingdom-of-astor/settlements/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme on the promise of good pay for completing missions.
 
 ## Characteristics
 
@@ -44,3 +42,15 @@ Her family has lived for generations as loggers on the outskirts of Hawkswood ne
 | Values | Money, safety, family. |
 | Ambitions | Wants to provide a better life for her lumber working family. |
 | Dislikes | [Magicborn](../civilisations/kingdom-of-astor/magicborn.md), those who talk but do not act. |
+
+## History
+
+### Backstory
+
+Her family has lived for generations as loggers on the outskirts of Hawkswood near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../civilisations/kingdom-of-astor/settlements/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme on the promise of good pay for completing missions.
+
+### Two Truths and a Lie
+
+- Their family lives in abject poverty. [truth]
+- They don't believe in any of the four gods and will pledge themselves to one in bad faith. [truth]
+- They have been training for a lot longer than everyone else in our cohort. [lie]

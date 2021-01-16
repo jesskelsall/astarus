@@ -13,7 +13,7 @@
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
-| **Acquaintances** | [Ahsha Sallas](ahsha-sallas.md) ([Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruit) |
+| **Acquaintances** | [Ahsha Sallas](ahsha-sallas.md) (student) |
 | **From** | [Dunmore](../civilisations/kingdom-of-astor/settlements/dunmore.md) |
 | **Places** | |
 

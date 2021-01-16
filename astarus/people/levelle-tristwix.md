@@ -12,12 +12,12 @@
 | **Alignment** | Lawful Good |
 | **Affiliation** | [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md)<br /><img src="../../images/ranks/astorrel-7-commandant.png" height="50" /> |
 | **Commanding Officer** | |
-| **Subordinates** | |
+| **Subordinates** | [Merkin Thorgus](merkin-thorgus.md) ([Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md)) |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
-| **Acquaintances** | |
+| **Acquaintances** | [Grant Thackeray](grant-thackeray.md) (old squad-mate, friend) |
 | **From** | |
-| **Places** | |
+| **Places** | Zenith Spire<br />[Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 
@@ -44,3 +44,7 @@ She is a politically savvy commandant who is a big believer in the [Astorrel](..
 | Values | Duty to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), nature. |
 | Ambitions | Less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). |
 | Dislikes | Time wasters. |
+
+## History
+
+While a Squad Lead, her squad was called **Acre Squad**. [Grant Thackeray](grant-thackeray.md) was a Squad Hand in this squad.

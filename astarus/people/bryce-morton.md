@@ -11,7 +11,7 @@
 | **Class** | Fighter |
 | **Alignment** | Lawful Neutral |
 | **Affiliation** | [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md)<br /><img src="../../images/ranks/astorrel-4-squad-sergeant.png" height="50" /> |
-| **Commanding Officer** | |
+| **Commanding Officer** | [Samantha Ilis](samantha-ilis.md) |
 | **Subordinates** | [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br />[Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
@@ -26,8 +26,6 @@ Bryce Morton is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/o
 He is a career [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), looking for promotion. Despite this his methods are very hands-off, preferring to let his squads get on with their missions alone, and getting irritated when his assistance is called upon. His preference would be to stay inside of the [Northhaven Astorrel stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md).
 
 He is a straightforward person with a military personality. He stands to attention and talks straightforwardly. In his quarters he can also be stern or pensive.
-
-While a Squad Lead, his squad was called **Summit Squad**.
 
 ## Characteristics
 
@@ -48,3 +46,7 @@ While a Squad Lead, his squad was called **Summit Squad**.
 | Values | Loyalty, commitment to the cause, trouble-free mission successes. |
 | Ambitions | Wishes to be promoted to Lieutenant before retiring. |
 | Dislikes | Complications, leaving his office/residence, exerting himself. |
+
+## History
+
+While a Squad Lead, his squad was called **Summit Squad**.

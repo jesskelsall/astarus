@@ -12,4 +12,8 @@
 
 ## Summary
 
-TODO
+Players Squad is the [Astorrel](../README.md) squad that the party members of the [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md) campaign belong to.
+
+| Name | Status |
+| --- | --- |
+| [Check Logging in Arnaside](../missions/check-logging-in-arnaside.md) | Not Started |

@@ -17,7 +17,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | |
+| **Places** | Zenith Spire<br />[Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 

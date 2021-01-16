@@ -12,4 +12,10 @@
 
 ## Summary
 
-Ruby Squad is the other [Astorrel](../README.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) is Squad Sergeant to. They are set up as the rivals to [Players Squad](players.md).
+Ruby Squad is the other [Astorrel](../README.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) commands. They are set up as the rivals to [Players Squad](players.md).
+
+## Missions
+
+| Name | Status |
+| --- | --- |
+| [Investigate Bear Attacks in Hartsgarth](../missions/investigate-bear-attacks-in-hartsgarth.md) | Not Started |
