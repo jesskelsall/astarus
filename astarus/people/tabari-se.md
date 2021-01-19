@@ -10,7 +10,7 @@
 | **Age** | 41 |
 | **Class** | Monk / Sorcerer |
 | **Alignment** | Lawful Neutral |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Tabari Se is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Tabari Se is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md).
 
 ## Characteristics
 

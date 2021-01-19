@@ -10,7 +10,7 @@
 | **Age** | 26 |
 | **Class** | Fighter |
 | **Alignment** | Neutral Good |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Players Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/players.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | |

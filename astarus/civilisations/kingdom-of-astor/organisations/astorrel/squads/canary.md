@@ -1,4 +1,4 @@
-# Players Squad
+# Canary Squad
 
 | []() | |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Summary
 
-Players Squad is the [Astorrel](../README.md) squad that the party members of the [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md) campaign belong to.
+Canary Squad is the [Astorrel](../README.md) squad that the party members of the [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md) campaign belong to.
 
 | Name | Status |
 | --- | --- |

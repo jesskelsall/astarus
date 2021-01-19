@@ -74,8 +74,8 @@ While out on missions, they are completely autonomous and may not have any conta
 ### Known Squads
 
 - [Astral Squad](squads/astral.md)
-- [Players Squad](squads/players.md)
-- [Ruby Squad](squads/ruby.md)
+- [Canary Squad](squads/canary.md)
+- [Crimson Squad](squads/crimson.md)
 
 ## Ranks
 

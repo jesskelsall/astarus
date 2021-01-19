@@ -1,4 +1,4 @@
-# Ruby Squad
+# Crimson Squad
 
 | []() | |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Summary
 
-Ruby Squad is the other [Astorrel](../README.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) commands. They are set up as the rivals to [Players Squad](players.md).
+Crimson Squad is the other [Astorrel](../README.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) commands. They are set up as the rivals to [Canary Squad](canary.md).
 
 ## Missions
 
