@@ -33,6 +33,8 @@ TODO
 - [Arnaside](../../../astarus/civilisations/kingdom-of-astor/settlements/arnaside/README.md) is built as a logging and small scale farming town. 
 - Mostly self sufficient, but uses logging money to buy things it can't make.
 - People set up the town to get away from all the problems the kingdom brings.
+- They worship Malnesh at their shrine.
+- No inn, only a tavern. Ran by a dragonborn. Party can sleep in the inn overnight, as there's not really anywhere else to stay.
 - Poor logging output since the spring.
 - Traps left in the forest, several injuries. At least one each: amputation, death.
 - [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) rarely visit and are happy to leave them alone.
