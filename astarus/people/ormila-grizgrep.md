@@ -42,6 +42,10 @@ She is a friendly and excitable gnome that takes pleasure in meeting new [magicb
 
 ## History
 
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [Grizgrep Reagents & Magical Curios](../civilisations/kingdom-of-astor/settlements/northhaven/places/grizgrep-reagents-and-magical-curios.md). Ormila tried her best to be friendly and welcoming to [Ephaine Seren](ephaine-seren.md), a [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
+
 ## Planning
 
 ### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)

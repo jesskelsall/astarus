@@ -10,7 +10,7 @@
 | **Age** | 41 |
 | **Class** | Monk / Sorcerer |
 | **Alignment** | Lawful Neutral |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Tabari Se is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md).
+Tabari Se is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 ## Characteristics
 
@@ -56,3 +56,7 @@ Tabari has been mute from a young age. Fortunately he's not big on communication
 - They are mute. [truth]
 - They are originally from outside of the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md). [truth]
 - They are trouble to anyone that tries to befriend them. [lie]
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Tabari in [Bryce Morton's Office](../civilisations/kingdom-of-astor/settlements/northhaven/places/bryce-mortons-office.md) when he was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.

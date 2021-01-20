@@ -10,7 +10,7 @@
 | **Age** | 17 |
 | **Class** | Cleric |
 | **Alignment** | Lawful Good |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | [Valnos](../gods/gods/valnos.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Darius Dunn is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md).
+Darius Dunn is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 ## Characteristics
 
@@ -54,3 +54,9 @@ Born into the family of a city captain, Darius' mother's fire elemental lineage 
 - Their parents are high ranking [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). [truth]
 - They are a pacifist. [truth]
 - They were abandoned by their parents. [lie]
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party found Darius following the [Astorrel graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/gods/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
+
+The party has seen Darius in [Bryce Morton's Office](../civilisations/kingdom-of-astor/settlements/northhaven/places/bryce-mortons-office.md) when he was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

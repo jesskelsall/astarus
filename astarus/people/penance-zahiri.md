@@ -10,7 +10,7 @@
 | **Age** | 23 |
 | **Class** | Paladin |
 | **Alignment** | Chaotic Good |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | [Bhygar](../gods/gods/bhygar.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Penance Zahiri is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md).
+Penance Zahiri is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 ## Characteristics
 
@@ -54,3 +54,7 @@ Penance grew up on the streets of [Northhaven](../civilisations/kingdom-of-astor
 - They were a criminal prior to training as an [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). [truth]
 - Penance hasn't always been their name. [truth]
 - They are originally from outside the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md). [lie]
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Penance in [Bryce Morton's Office](../civilisations/kingdom-of-astor/settlements/northhaven/places/bryce-mortons-office.md) when they were placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, they failed to get [Tabari Se](tabari-se.md) to say something.

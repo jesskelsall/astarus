@@ -1,8 +1,8 @@
-# Zenith Tower
+# Zenith Spire
 
 | []() | |
 | --- | --- |
-| **Name** | Zenith Tower |
+| **Name** | Zenith Spire |
 | **Type** | Building |
 | **Location** | [Northhaven Astorrel Stronghold](northhaven-astorrel-stronghold.md)<br />[Sunset District](sunset-district.md)<br />[Northhaven](../README.md) |
 | **Nearby Places** | [Auric Rise](auric-rise.md)<br />[Kirrel Hall](kirrel-hall.md)<br />[The Mission's End](the-missions-end.md) |
@@ -10,7 +10,7 @@
 
 ## Summary
 
-Zenith Tower is the administrative building in the [Northhaven Astorrel Stronghold](northhaven-astorrel-stronghold.md) in [Northhaven](../README.md). It is the seat of power for not only the [Northhaven](../README.md) [Astorrel](../../../organisations/astorrel/README.md), but also the [Astorrel](../../../organisations/astorrel/README.md) as a whole.
+Zenith Spire is the administrative building in the [Northhaven Astorrel Stronghold](northhaven-astorrel-stronghold.md) in [Northhaven](../README.md). It is the seat of power for not only the [Northhaven](../README.md) [Astorrel](../../../organisations/astorrel/README.md), but also the [Astorrel](../../../organisations/astorrel/README.md) as a whole.
 
 [Levelle Tristwix](../../../../../people/levelle-tristwix.md), the [Astorrel Commandant](../../../organisations/astorrel/ranks/7-commandant.md), lives and works here. Other [Astorrel](../../../organisations/astorrel/README.md) involved directly in management of the organisation work here. The building therefore has its own security. Anyone not known to work within is not allowed inside without specific business and an invite.
 

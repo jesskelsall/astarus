@@ -10,7 +10,7 @@
 
 ## Summary
 
-Friend of the Magicborn is a magical item shop on [Crafters Course](crafters-course.md) in the [Sunset District](sunset-district.md) of [Northhaven](../README.md). It is owned by [Tarsha Nulas](../../../../../people/tarsha-nulas.md).
+Friend of the Magicborn is a magical item shop on [Crafters Course](crafters-course.md) in the [Sunset District](sunset-district.md) of [Northhaven](../README.md). It is owned by [Moss Under the Crumbling Cliffs](../../../../../people/moss-under-the-crumbling-cliffs.md).
 
 A wooden storefront facade, intricately carved to provide reliefs of trees either side of the windows. Vines grow up the woodwork from planters below, White and pink flowers adorn the vines.
 
@@ -25,6 +25,8 @@ Inside the nature theme continues. A small area before a long natural looking wo
 | Intrigue | An incredibly natural looking shop that is curious and inviting, yet has no visible stock and is secretive. |
 
 ## Vendor
+
+[Moss Under the Crumbling Cliffs](../../../../../people/moss-under-the-crumbling-cliffs.md) will not provide any services to those who cannot prove that they are [magicborn](../../../magicborn.md) and are worthy. This can be done by bringing a magical item to her. 
 
 Friend of the Magicborn offers the following services:
 
@@ -42,4 +44,4 @@ Magical items will be periodically available depending on the players' progress.
 
 ### [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md)
 
-During session 1, [Moss Under the Crumbling Cliffs](../../../../../people/moss-under-the-crumbling-cliffs.md) can be found standing behind the counter, ever-present. Nobody else will enter the store. She will be vague about the services she provides.
+[Moss Under the Crumbling Cliffs](../../../../../people/moss-under-the-crumbling-cliffs.md) can be found standing behind the counter, ever-present. Nobody else will enter the store. She will be vague about the services she provides.

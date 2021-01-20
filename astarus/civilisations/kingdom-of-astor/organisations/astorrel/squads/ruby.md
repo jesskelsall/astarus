@@ -18,4 +18,4 @@ Crimson Squad is the other [Astorrel](../README.md) squad that [Bryce Morton](..
 
 | Name | Status |
 | --- | --- |
-| [Investigate Bear Attacks in Hartsgarth](../missions/investigate-bear-attacks-in-hartsgarth.md) | Not Started |
+| [Investigate Bear Attacks in Hartsgarth](../../../../../../campaigns/astorrel-agents/storylines/investigate-bear-attacks-in-hartsgarth.md) | Not Started |

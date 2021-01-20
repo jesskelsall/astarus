@@ -10,7 +10,7 @@
 | **Age** | 29 |
 | **Class** | Fighter |
 | **Alignment** | True Neutral |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | [Gormox](../gods/gods/gormox.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md).
+Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 ## Characteristics
 
@@ -54,3 +54,7 @@ Her family has lived for generations as loggers on the outskirts of Hawkswood ne
 - Their family lives in abject poverty. [truth]
 - They don't believe in any of the four gods and will pledge themselves to one in bad faith. [truth]
 - They have been training for a lot longer than everyone else in our cohort. [lie]
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Morgan in [Bryce Morton's Office](../civilisations/kingdom-of-astor/settlements/northhaven/places/bryce-mortons-office.md) when she was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

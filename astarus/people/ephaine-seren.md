@@ -52,3 +52,7 @@ Reaching [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/R
 - They used to sleep in the sheep pens as a child. [truth]
 - They once attacked another student for implying that they got her family killed for their crimes. [truth]
 - They wilfully murdered an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) commander and their vanguard. [lie]
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+Ephaine graduated into the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) as an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party before meeting him for the first time. She joined [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

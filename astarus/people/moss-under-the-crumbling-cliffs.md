@@ -6,41 +6,45 @@
 | **Race** | Tabaxi |
 | **Gender** | Female |
 | **Age** | 38 |
-| **Class** | |
+| **Class** | Wizard / Druid |
 | **Alignment** | |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) (retired) |
-| **Worship** | |
+| **Affiliation** | [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md) |
+| **Commanding Officer** | |
+| **Subordinates** | |
+| **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Adventures for Adventurers](../civilisations/kingdom-of-astor/settlements/northhaven/places/adventures-for-adventurers.md) |
+| **Places** | [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) |
 
 ## Summary
 
-TODO
+Moss Under the Crumbling Cliffs is the owner of the magic shop [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) in [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md).
 
-Was an [Astorrel member](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/1-member.md), didn't get to see the kingdom first-hand. Living through books and stories now.
+She is a confident, stern and mysterious woman that speaks evasively and condescendingly to those she doesn't know. Her instinct is to trust no-one, and so she judges harshly and watches carefully. She never leaves the counter while someone is in her store.
 
 ## Characteristics
 
 | Appearance | Description |
 | --- | --- |
-| Face | |
-| Hair | |
-| Body | |
-| Clothes | |
-| Mannerisms | |
+| Face | Ginger fur, green eyes. Stern look. |
+| Hair | Just fur. |
+| Body | 5'11". Lithe. |
+| Clothes | Fine white button-up shirt, buttoned all the way to the collar. Poofy sleeves that come to a tight cuff. Fine black leather pants, barefoot. |
+| Mannerisms | Keeps her hands under the counter at all times. Unmoving, as if not to give anything away. Evasive and willing to offend. Playfully foreboding. |
 
 | Personality | Description |
 | --- | --- |
-| Voice | |
-| Quirks | |
-| Knowledge | |
-| Values | |
-| Ambitions | |
-| Dislikes | |
+| Voice | Low female register. Suspicious inflection. |
+| Quirks | Incredibly difficult to earn her trust. Doesn't seem like a shopkeeper. |
+| Knowledge | Arcana, magical enchantments and items. |
+| Values | Discretion, secrets, knowing who to trust. |
+| Ambitions | Wishes to learn more about magical items and those who use it. |
+| Dislikes | Strangers, non-[magicborn](../civilisations/kingdom-of-astor/magicborn.md). |
 
 ## History
+
+Moss is secretly a member of the [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), tasked by the generals with running the [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) store. The purpose of the store is to provide a check on the magical items coming through [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) and in circulation in the kingdom as a whole.
 
 ## Planning
 

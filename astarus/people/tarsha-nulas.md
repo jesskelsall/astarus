@@ -8,16 +8,18 @@
 | **Age** | 27 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md) |
-| **Commanding Officer** | |
-| **Subordinates** | |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) |
+| **Places** | [Adventures for Adventurers](../civilisations/kingdom-of-astor/settlements/northhaven/places/adventures-for-adventurers.md) |
 
 ## Summary
+
+TODO
+
+Was an [Astorrel member](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/1-member.md), didn't get to see the kingdom first-hand. Living through books and stories now.
 
 Tarsha Nulas is the owner of the [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) magical items shop.
 

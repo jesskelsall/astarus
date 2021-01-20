@@ -32,7 +32,11 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 
 ## Storylines
 
-- Becoming an [Astorrel Squad Hand](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md)
-- Who will be the Squad Lead?
-- The Rival Squad
-- [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) vs [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md)
+| Name | Started | Ended |
+| --- | --- | --- |
+
+
+- [Astorrel Graduation](storylines/astorrel-graduation.md)
+- Who Will Become Squad Lead?
+- [The Rival Squad](storylines/the-rival-squad.md)
+- [Astorrel vs Astornox](storylines/astorrel-vs-astornox.md)

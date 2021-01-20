@@ -5,7 +5,7 @@
 | **Name** | The Mission's End |
 | **Type** | Inn |
 | **Location** | [Northhaven Astorrel Stronghold](northhaven-astorrel-stronghold.md)<br />[Sunset District](sunset-district.md)<br />[Northhaven](../README.md) |
-| **Nearby Places** | [Auric Rise](auric-rise.md)<br />[Kirrel Hall](kirrel-hall.md)<br />Zenith Spire |
+| **Nearby Places** | [Auric Rise](auric-rise.md)<br />[Kirrel Hall](kirrel-hall.md)<br />[Zenith Spire](zenith-spire.md) |
 | **People** | |
 
 ## Summary
@@ -22,7 +22,7 @@ Payment is taken at the doorway and a room key is given. This is then presented 
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Large stone square donut shaped building. Marble columns border it, holding up the sloped roof. Square center courtyard bordered by corridors. Canteen room inside of entrance. Contains food hatch, benches and tables. Payment counter at entrance. |
+| Sights | Large three storey stone square donut shaped building. Marble columns border it, holding up the sloped roof. Square center courtyard bordered by corridors. Canteen room inside of entrance. Contains food hatch, benches and tables. Payment counter at entrance. |
 | Sounds | Chatter, eating, clang and clink of plates, cutlery & mugs. |
 | Smells | Roasted meat, other food, ale, sweat. |
 | People | [Astorrel](../../../organisations/astorrel/README.md), more capable looking. |
@@ -41,6 +41,6 @@ Payment is taken at the doorway and a room key is given. This is then presented 
 
 ### [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md)
 
-Prior to session 1, the party has (individually) been staying in The Mission's End since arriving in [Northhaven](../README.md) 1d4 days ago. They have not been allowed to leave the building until the graduation ceremonies began.
+Prior to session 1, the party has (individually) been staying in The Mission's End since arriving in [Northhaven](../README.md) 1-4 days ago. They have not been allowed to leave the building until the graduation ceremonies began.
 
 Following graduation, the party will need to pay again to reenter the building and use its premises.

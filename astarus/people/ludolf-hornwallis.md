@@ -48,6 +48,4 @@ He was the mentor of [Ephaine Seren](ephaine-seren.md).
 
 ### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
 
-Ludolf Hornwallis has [Ephaine Seren](ephaine-seren.md)'s star map, agreeing to hold onto it for her while she graduates. He traveled to [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) so that he could meet her after graduation and give it to her.
-
-He is staying at [Valley Under the Stars](../civilisations/kingdom-of-astor/settlements/northhaven/places/valley-under-the-stars.md). He didn't have the courage to make it to graduation, and is instead found drinking himself under the table in the bar area.
+*See: [Retrieving Ephaine's Star Map](../../campaigns/astorrel-agents/storylines/retrieving-ephaines-star-map.md)*

@@ -5,7 +5,7 @@
 | **Name** | Kirrel Hall |
 | **Type** | Building |
 | **Location** | [Northhaven Astorrel Stronghold](northhaven-astorrel-stronghold.md)<br />[Sunset District](sunset-district.md)<br />[Northhaven](../README.md) |
-| **Nearby Places** | [Auric Rise](auric-rise.md)<br />[The Mission's End](the-missions-end.md)<br />[Zenith Tower](zenith-tower.md) |
+| **Nearby Places** | [Auric Rise](auric-rise.md)<br />[The Mission's End](the-missions-end.md)<br />[Zenith Spire](zenith-spire.md) |
 | **People** | |
 
 ## Summary
@@ -32,20 +32,4 @@ The entrance is on its side near the end. When entering, the room opens out to t
 
 ### [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md)
 
-On graduation day, this is the venue used for graduation ceremonies. The inside of the hall is decked out in banners featuring the [Astorrel](../../../organisations/astorrel/README.md) and [Kirrel](../../../../../gods/gods/kirrel.md) symbols. A stage is set up on the far end.
-
-#### Graduation Speeches
-
-Those speaking are present on the stage while all of the graduates stand lined up in the center of the hall. Other [Astorrel](../../../organisations/astorrel/README.md) who are observing watch from the sides. This is demarcated by the pillars.
-
-#### Graduation Presentation
-
-Those making the presentations stand on stage and call each person up, alphabetically. Steps at each side of the stage allow graduates to approach from stage left and exit via stage right.
-
-#### Command Assignments
-
-Once the graduation presentation is over, a board is revealed near the entrance, on the far side of the room. This contains each person's assignment.
-
-#### Following Graduation
-
-The building is closed while the graduation setup is torn down. It remains closed for all of session 1.
+The building is closed while the graduation setup is torn down. It remains closed for the rest of the party's time in [Northhaven](../README.md) before setting off on their first mission.

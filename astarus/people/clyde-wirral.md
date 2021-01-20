@@ -42,6 +42,10 @@ He expects to be taking over the family business soon, allowing his father to re
 
 ## History
 
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [S.Q. Wirral & Son](../civilisations/kingdom-of-astor/settlements/northhaven/places/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) received her chain mail armour from Clyde when returning at sunset.
+
 ## Planning
 
 ### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)

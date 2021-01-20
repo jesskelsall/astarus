@@ -37,9 +37,3 @@ Blair Tawnsey is the head waiter of [The Alley](../civilisations/kingdom-of-asto
 | Values | Quiet, good smells and tastes. |
 | Ambitions | Wants to help [The Alley](../civilisations/kingdom-of-astor/settlements/northhaven/places/the-alley.md) succeed to increase his personal wealth. |
 | Dislikes | Drigg, shouting. |
-
-## History
-
-## Planning
-
-### Campaign Name

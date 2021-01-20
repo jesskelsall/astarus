@@ -17,7 +17,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | Zenith Spire<br />[Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
+| **Places** | [Zenith Spire](../civilisations/kingdom-of-astor/settlements/northhaven/places/zenith-spire.md)<br />[Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 
@@ -44,3 +44,9 @@ He is an old man with a beard that really ought to have retired already, but nob
 | Values | Good conversation, a patient listener. |
 | Ambitions | Continue to lead the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) for as long as he can. |
 | Dislikes | Dishonesty, people who can't hold a conversation. |
+
+## History
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+Merkin Thorgus conducted the graduation of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party, alongside [Levelle Tristwix](levelle-tristwix.md). He gave each party member their graduation purse and bowed.

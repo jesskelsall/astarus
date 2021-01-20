@@ -12,7 +12,7 @@
 | **Alignment** | Lawful Neutral |
 | **Affiliation** | [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md)<br /><img src="../../images/ranks/astorrel-4-squad-sergeant.png" height="50" /> |
 | **Commanding Officer** | [Samantha Ilis](samantha-ilis.md) |
-| **Subordinates** | [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md)<br />[Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md) |
+| **Subordinates** | [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md)<br />[Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
 | **Acquaintances** | |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Bryce Morton is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) working for the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). He provides missions to [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) and [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md).
+Bryce Morton is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) working for the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). He provides missions to [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) and [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 He is a career [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), looking for promotion. Despite this his methods are very hands-off, preferring to let his squads get on with their missions alone, and getting irritated when his assistance is called upon. His preference would be to stay inside of the [Northhaven Astorrel stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md).
 
@@ -32,7 +32,7 @@ He is a straightforward person with a military personality. He stands to attenti
 | Appearance | Description |
 | --- | --- |
 | Face | Dark skin, chiseled jaw, stern prominent eyebrows. |
-| Hair | Brown, greying slightly. Short sides and combed flick over. |
+| Hair | Brown, greying slightly, particularly on sides. Short sides and combed flick over. |
 | Body | 5'11", somewhat muscly. Good posture. |
 | Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) officer's uniform. |
 | Equipment | Ceremonial sword. |
@@ -50,3 +50,7 @@ He is a straightforward person with a military personality. He stands to attenti
 ## History
 
 While a Squad Lead, his squad was called **Summit Squad**.
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party goes to [Bryce Morton's Office](../civilisations/kingdom-of-astor/settlements/northhaven/places/bryce-mortons-office.md) to meet their new superior officer. Under his direction, they become [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md), alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

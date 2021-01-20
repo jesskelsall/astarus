@@ -40,3 +40,7 @@ With this, the Clan on the Breeze could take it no longer, and abandoned Whisper
 - They are originally from outside of the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md). [truth]
 - Their father is an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). [truth]
 - They believe very strongly in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) cause. [lie]
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+Whisper graduated into the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) as an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md). Their superior officer is [Bryce Morton](bryce-morton.md). They met up with the rest of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party before meeting him for the first time. They joined [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

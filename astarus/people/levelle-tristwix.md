@@ -17,7 +17,7 @@
 | **Relations** | |
 | **Acquaintances** | [Grant Thackeray](grant-thackeray.md) (old squad-mate, friend) |
 | **From** | |
-| **Places** | Zenith Spire<br />[Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
+| **Places** | [Zenith Spire](../civilisations/kingdom-of-astor/settlements/northhaven/places/zenith-spire.md)<br />[Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 
@@ -47,4 +47,10 @@ She is a politically savvy commandant who is a big believer in the [Astorrel](..
 
 ## History
 
-While a Squad Lead, her squad was called **Acre Squad**. [Grant Thackeray](grant-thackeray.md) was a Squad Hand in this squad.
+While a Squad Lead, her squad was called **Acre Squad**. [Grant Thackeray](grant-thackeray.md) was a Squad Hand in this squad. They remain old friends to this day.
+
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+Levelle Tristwix conducted the graduation of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party, alongside [Merkin Thorgus](merkin-thorgus.md). They pinned each [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md) badge on the party members, and shook their hand.
+
+After the graduation presentation, Levelle caught up with [Grant Thackeray](grant-thackeray.md). Together they said hi to [Redwyn Humpledopper](redywn-humpledopper.md), who ignored Levelle.

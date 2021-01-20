@@ -42,6 +42,10 @@ He is not much of a people person, typically ignoring most people until they wan
 
 ## History
 
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [Rhotrukk Wepons](../civilisations/kingdom-of-astor/settlements/northhaven/places/rhotrukk-wepons.md).
+
 ## Planning
 
 ### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)

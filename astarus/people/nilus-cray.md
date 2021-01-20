@@ -44,6 +44,10 @@ Nilus is willing to help when asked, but shows no additional enthusiasm when doi
 
 ## History
 
+### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [Everything Else](../civilisations/kingdom-of-astor/settlements/northhaven/places/everything-else.md). [Whisper on the Breeze](whisper-on-the-breeze.md) bought lockpicking tools discretely from them.  
+
 ## Planning
 
 ### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
