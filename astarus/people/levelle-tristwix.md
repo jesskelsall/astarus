@@ -10,7 +10,7 @@
 | **Age** | 57 |
 | **Class** | Druid |
 | **Alignment** | Lawful Good |
-| **Affiliation** | [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md)<br /><img src="../../images/ranks/astorrel-7-commandant.png" height="50" /> |
+| **Affiliation** | [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md)<br /><img src="../../images/ranks/astorrel-8-commandant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | [Merkin Thorgus](merkin-thorgus.md) ([Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md)) |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
