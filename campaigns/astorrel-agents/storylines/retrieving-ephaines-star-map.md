@@ -4,7 +4,7 @@
 | --- | --- |
 | Campaign(s) | [Astorrel Agents](../README.md) |
 | Session Started | [AA1](../sessions/1.md) |
-| Session Ended | |
+| Session Ended | [AA2](../sessions/2.md) |
 
 ## Summary
 
