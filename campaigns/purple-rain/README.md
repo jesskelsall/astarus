@@ -4,7 +4,7 @@
 
 ## Premise
 
-The player characters meet in Goldreach following the crash landing of a meteor nearby several days ago. On investigation, the meteor is a bad omen of things to come...
+The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) following the crash landing of a meteor nearby several days ago. On investigation, the meteor is a bad omen of things to come...
 
 ## Players
 

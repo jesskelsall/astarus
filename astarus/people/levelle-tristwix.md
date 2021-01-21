@@ -10,7 +10,7 @@
 | **Age** | 57 |
 | **Class** | Druid |
 | **Alignment** | Lawful Good |
-| **Affiliation** | [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md)<br /><img src="../../images/ranks/astorrel-8-commandant.png" height="50" /> |
+| **Affiliation** | [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/8-commandant.md)<br /><img src="../../images/ranks/astorrel-8-commandant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | [Merkin Thorgus](merkin-thorgus.md) ([Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md)) |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Levelle Tristwix is the [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/7-commandant.md) in charge of the organisation's day-to-day operations.
+Levelle Tristwix is the [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/8-commandant.md) in charge of the organisation's day-to-day operations.
 
 She is a politically savvy commandant who is a big believer in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md).
 

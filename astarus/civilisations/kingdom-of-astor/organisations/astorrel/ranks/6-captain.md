@@ -7,7 +7,7 @@
 | Civilisation | [Kingdom of Astor](../../../README.md) |
 | Organisation | [Astorrel](../README.md) |
 | Officer? | Yes |
-| Commanding Officers | [Astorrel Commandant](7-commandant.md) |
+| Commanding Officers | [Astorrel Commandant](8-commandant.md) |
 | Subordinates | [Astorrel Lieutenants](5-lieutenant.md) |
 
 # Military Badge

@@ -10,7 +10,7 @@
 
 ## Summary
 
-The Northhaven Astorrel Stronghold is the home of the [Astorrel](../../../organisations/astorrel/README.md) in [Northhaven](../README.md). Aside from its normal duties as a home for the [Astorrel](../../../organisations/astorrel/README.md) in this region, and from which they operate out into central and western Astor, [Levelle Tristwix](../../../../../people/levelle-tristwix.md), the [Astorrel Commandant](../../../organisations/astorrel/ranks/7-commandant.md), resides here.
+The Northhaven Astorrel Stronghold is the home of the [Astorrel](../../../organisations/astorrel/README.md) in [Northhaven](../README.md). Aside from its normal duties as a home for the [Astorrel](../../../organisations/astorrel/README.md) in this region, and from which they operate out into central and western Astor, [Levelle Tristwix](../../../../../people/levelle-tristwix.md), the [Astorrel Commandant](../../../organisations/astorrel/ranks/8-commandant.md), resides here.
 
 This is the biggest [Astorrel](../../../organisations/astorrel/README.md) stronghold in the kingdom, and by far the richest. Like much of the [Sunset District](sunset-district.md) surrounding it, it is constructed of the finest marble and stone available, and the [Astorrel members](../../../organisations/astorrel/ranks/1-member.md) that call it home are amongst some of the most privileged people in all of the land.
 

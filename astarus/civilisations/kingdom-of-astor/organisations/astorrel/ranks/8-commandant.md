@@ -8,7 +8,7 @@
 | Organisation | [Astorrel](../README.md) |
 | Officer? | Yes |
 | Commanding Officers | [Astornar](../../astornar.md) General |
-| Subordinates | [Astorrel Captains](6-captain.md)<br />Astorrel Majors |
+| Subordinates | [Astorrel Captains](6-captain.md)<br />[Astorrel Majors](7-major.md) |
 
 # Military Badge
 

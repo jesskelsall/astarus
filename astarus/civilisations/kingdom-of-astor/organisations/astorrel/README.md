@@ -82,7 +82,7 @@ While out on missions, they are completely autonomous and may not have any conta
 As part of the Astor military, Astorrel have a rank hierarchy that passes orders down from a single person to every Astorrel beneath them.
 
 - Officers:
-  - [Astorrel Commandant](ranks/7-commandant.md): Leader of the Astorrel.
+  - [Astorrel Commandant](ranks/8-commandant.md): Leader of the Astorrel.
   - [Astorrel Captain](ranks/6-captain.md): Leader of the Astorrel stronghold in a specific city.
   - [Astorrel Lieutenant](ranks/5-lieutenant.md): Creates missions for multiple squad sergeants.
   - [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md): Commands multiple squads to complete their missions.
@@ -147,7 +147,7 @@ Following this their superior officer finds them, introduces them to their team,
 
 | Name | Rank |
 | --- | --- |
-| [Levelle Tristwix](../../../../people/levelle-tristwix.md) | [Astorrel Commandant](ranks/7-commandant.md) |
+| [Levelle Tristwix](../../../../people/levelle-tristwix.md) | [Astorrel Commandant](ranks/8-commandant.md) |
 | [Merkin Thorgus](../../../../people/merkin-thorgus.md) | [Astorrel Captain](ranks/6-captain.md) ([Northhaven](../../settlements/northhaven/README.md)) |
 | [Bryce Morton](../../../../people/bryce-morton.md) | [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md) |
 | [Ahsha Sallas](../../../../people/ahsha-sallas.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
