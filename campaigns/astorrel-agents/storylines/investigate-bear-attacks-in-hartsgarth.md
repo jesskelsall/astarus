@@ -24,7 +24,7 @@ The mission is straightforward for [Ruby Squad](../../../astarus/civilisations/k
 
 ## History
 
-## Planning
+## Planning
 
 [Ruby Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/crimson.md) sets off for their mission in earnest.
 

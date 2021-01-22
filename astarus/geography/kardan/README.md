@@ -16,7 +16,7 @@ The south of Kardan is a semi-arid region with sharp mountains, lush river valle
 
 The entire south is controlled by the [Syntenne Republic](../../civilisations/syntenne-republic/README.md).
 
-## North East Kardan
+## North East Kardan
 
 The north east of Kardan is mountainous and perpetually snowy. Large animals with fur and thick skin survive well here, but most peoples do not. Only the Dwarves were hardy enough to settle this region.
 
