@@ -23,7 +23,7 @@
 
 Levelle Tristwix is the [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/8-commandant.md) in charge of the organisation's day-to-day operations.
 
-She is a politically savvy commandant who is a big believer in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md).
+She is a politically savvy commandant who is a big believer in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md).
 
 ## Characteristics
 
@@ -42,7 +42,7 @@ She is a politically savvy commandant who is a big believer in the [Astorrel](..
 | Quirks | Easily commands a room despite her size and slow speech. |
 | Knowledge | The natural world, political savvy. |
 | Values | Duty to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), nature. |
-| Ambitions | Less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). |
+| Ambitions | Less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md). |
 | Dislikes | Time wasters. |
 
 ## History

@@ -46,7 +46,7 @@ Turnuroth Balasar is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-as
 
 - They are favoured by the mentors and given special treatment. [truth]
 - They believe so strongly in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) that they don't suffer well those who don't. [truth]
-- Their parents are high ranking [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). [lie]
+- Their parents are high ranking [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md). [lie]
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 

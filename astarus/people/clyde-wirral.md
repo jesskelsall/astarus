@@ -8,7 +8,7 @@
 | **Age** | 44 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) (retired) |
 | **Worship** | |
 | **Relations** | [Sandor Wirral](sandor-wirral.md) (father) |
 | **Acquaintances** | |

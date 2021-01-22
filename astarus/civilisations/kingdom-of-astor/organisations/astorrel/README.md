@@ -10,7 +10,7 @@
 
 ## Summary
 
-The Astorrel is a military organisation of the [Kingdom of Astor](../../README.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the second largest organisation in Astor behind the [Astornox](../astornox.md), though it is tiny by comparison.
+The Astorrel is a military organisation of the [Kingdom of Astor](../../README.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the second largest organisation in Astor behind the [Astornox](../astornox/README.md), though it is tiny by comparison.
 
 Its name is a combination of Astor and [Kirrel](../../../../gods/gods/kirrel.md), its patron god.
 
@@ -36,26 +36,26 @@ Higher ranking Astorrel wear a more militaristic uniform during ceremonies and w
 
 The Astorrel are tasked with protecting the natural world from the [Kingdom of Astor](../../README.md) itself. Civilisation is constantly encroaching on nature, so they are tasked with managing the degree to which this happens in order to keep nature and civilisation in balance.
 
-Without the Astorrel, Astor would simply consume all of the resources around them to the point of exhaustion, which could spell the collapse of Astor itself. This mission is considered incredibly important by the [Astornar](../astornar.md) and Astorrel, but others (particularly the [Astornox](../astornox.md)) don't see its significance.
+Without the Astorrel, Astor would simply consume all of the resources around them to the point of exhaustion, which could spell the collapse of Astor itself. This mission is considered incredibly important by the [Astornar](../astornar.md) and Astorrel, but others (particularly the [Astornox](../astornox/README.md)) don't see its significance.
 
 Additionally the Astorrel investigate natural phenomena that cannot be explained, attempting to provide the kingdom with tangible knowledge. This could empower Astor with new technology or power, or make them aware of eminent threats. In this sense, the Astorrel are also guardians against the unknown, and explorers of the fringes of the kingdom.
 
 ## Reputation
 
-Within the cities, Astorrel are highly regarded as peace keepers that preserve the natural order, free from the politics of the [Astornox](../astornox.md).
+Within the cities, Astorrel are highly regarded as peace keepers that preserve the natural order, free from the politics of the [Astornox](../astornox/README.md).
 
 Outside of the cities, many people don't know of the Astorrel or fully understand their mission. This leads to apprehension or apathy, with some Astorians not taking their authority seriously.
 
-### [Astornox](../astornox.md)
+### [Astornox](../astornox/README.md)
 
-Typically speaking there is animosity between the [Astornox](../astornox.md) and Astorrel. This is because they often disagree on each others' rulings, with conflicts being hard to settle.
+Typically speaking there is animosity between the [Astornox](../astornox/README.md) and Astorrel. This is because they often disagree on each others' rulings, with conflicts being hard to settle.
 
-- The [Astornox](../astornox.md) regard the Astorrel as an unnecessary pain and meddling.
-- The Astorrel regard the [Astornox](../astornox.md) as selfish and dangerous.
+- The [Astornox](../astornox/README.md) regard the Astorrel as an unnecessary pain and meddling.
+- The Astorrel regard the [Astornox](../astornox/README.md) as selfish and dangerous.
 
 ## Jurisdiction
 
-Like the [Astornox](../astornox.md), the Astorrel can pass judgement on any people in the [Kingdom of Astor](../../README.md) that are not serving military and are not caretakers of [The Order of the Diamond](../../../../gods/the-order-of-the-diamond.md).
+Like the [Astornox](../astornox/README.md), the Astorrel can pass judgement on any people in the [Kingdom of Astor](../../README.md) that are not serving military and are not caretakers of [The Order of the Diamond](../../../../gods/the-order-of-the-diamond.md).
 
 ### Punishment
 
@@ -103,7 +103,7 @@ Astorrel officers look for potential recruits in all sorts of places. Anyone who
 
 Conscripted [magicborn](../../magicborn.md) can be poached by Astorrel officers through a contested process that is adjudicated by the [Astornar](../astornar.md).
 
-All potential Astorrel recruits must be willing to join their ranks - there is no forced service for anyone, including conscripted [magicborn](../../magicborn.md) (though if they say no, they will join the [Astornox](../astornox.md) instead).
+All potential Astorrel recruits must be willing to join their ranks - there is no forced service for anyone, including conscripted [magicborn](../../magicborn.md) (though if they say no, they will join the [Astornox](../astornox/README.md) instead).
 
 ### Training Recruits
 
@@ -121,7 +121,7 @@ Each year the recruits that are ready to graduate travel to [Northhaven](../../s
 
 Prior to the ceremony, the Astorrel officers decide which rank each recruit will start at, and which existing officers will become their superior officers.
 
-The ceremony is witnessed by existing [Astorrel members](ranks/1-member.md), including all of the officers present in [Northhaven](../../settlements/northhaven/README.md) at the time. During the show of faith, [Astornox](../astornox.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
+The ceremony is witnessed by existing [Astorrel members](ranks/1-member.md), including all of the officers present in [Northhaven](../../settlements/northhaven/README.md) at the time. During the show of faith, [Astornox](../astornox/README.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
 
 ### Pledge
 

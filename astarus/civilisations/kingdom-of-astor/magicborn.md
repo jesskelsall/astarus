@@ -12,23 +12,23 @@ There is no correlation between race, gender, genetic background or bloodline be
 
 ### Conscription
 
-The [Astornox](organisations/astornox.md) have standing orders to apprehend any magicborn they find, and to bring them to the nearest city for processing.
+The [Astornox](organisations/astornox/README.md) have standing orders to apprehend any magicborn they find, and to bring them to the nearest city for processing.
 
-This order is taken seriously by [Astornox](organisations/astornox.md) of every rank. Failure to apprehend a magicborn is grounds for severe punishment, up to and including death. As a result, when a magicborn is found, most [Astornox](organisations/astornox.md) will stop at nothing to capture them.
+This order is taken seriously by [Astornox](organisations/astornox/README.md) of every rank. Failure to apprehend a magicborn is grounds for severe punishment, up to and including death. As a result, when a magicborn is found, most [Astornox](organisations/astornox/README.md) will stop at nothing to capture them.
 
-Concealing magicborn or helping them escape the [Astornox](organisations/astornox.md) is also a serious crime that carries similarly harsh punishments.
+Concealing magicborn or helping them escape the [Astornox](organisations/astornox/README.md) is also a serious crime that carries similarly harsh punishments.
 
 #### Processing
 
-Captured magicborn are taken to a processing facility at the nearest city. Here they are subjected to questioning about their powers. The [Astornox](organisations/astornox.md) that watch over them demand that they exhibit their powers, or be executed.
+Captured magicborn are taken to a processing facility at the nearest city. Here they are subjected to questioning about their powers. The [Astornox](organisations/astornox/README.md) that watch over them demand that they exhibit their powers, or be executed.
 
 This inevitably leads to those who will not display their powers, are not able to at will, or have no powers in the first place. All of these people are condemned to death all the same.
 
 #### The Conscripted
 
-Those that have useful powers, particularly those who show a willingness to help, are conscripted into the [Astornox](organisations/astornox.md) for honourable duties such as army soldiers.
+Those that have useful powers, particularly those who show a willingness to help, are conscripted into the [Astornox](organisations/astornox/README.md) for honourable duties such as army soldiers.
 
-Those that are hesitant to cooperate or are not particularly useful are made to perform hard labour tasks for the rest of their lives, under the control of the [Astornox](organisations/astornox.md). It is thought that as magicborn possess power, it is better to keep them busy and within view than let them go.
+Those that are hesitant to cooperate or are not particularly useful are made to perform hard labour tasks for the rest of their lives, under the control of the [Astornox](organisations/astornox/README.md). It is thought that as magicborn possess power, it is better to keep them busy and within view than let them go.
 
 ### Public Perception
 
@@ -44,8 +44,8 @@ This harsh punishment helps deter people from accusing their neighbours and riva
 
 ### Living as a Magicborn
 
-For those that exhibit magical power, the simplest and easiest life is to join the military. Military members are not subject to conscription (as they are already part of the military). Despite the reputation of magicborn, both the [Astornox](organisations/astornox.md) and [Astorrel](organisations/astorrel/README.md) openly recruit magicborn into their ranks. Exceptional magicborn that obey their orders are likely to rise up the ranks faster than non-magic members.
+For those that exhibit magical power, the simplest and easiest life is to join the military. Military members are not subject to conscription (as they are already part of the military). Despite the reputation of magicborn, both the [Astornox](organisations/astornox/README.md) and [Astorrel](organisations/astorrel/README.md) openly recruit magicborn into their ranks. Exceptional magicborn that obey their orders are likely to rise up the ranks faster than non-magic members.
 
-Many magicborn are able to keep their powers a secret. They may choose to simply live a normal life, and hide this side of themselves from the [Astornox](organisations/astornox.md).
+Many magicborn are able to keep their powers a secret. They may choose to simply live a normal life, and hide this side of themselves from the [Astornox](organisations/astornox/README.md).
 
-Those who are seen by the [Astornox](organisations/astornox.md) are hunted. The [Astornox](organisations/astornox.md) will stop at nothing to conscript them, especially as they are punished if they fail. This pushes magicborn into lives outside of towns and cities, into the criminal underworld, or out of Astor entirely.
+Those who are seen by the [Astornox](organisations/astornox/README.md) are hunted. The [Astornox](organisations/astornox/README.md) will stop at nothing to conscript them, especially as they are punished if they fail. This pushes magicborn into lives outside of towns and cities, into the criminal underworld, or out of Astor entirely.

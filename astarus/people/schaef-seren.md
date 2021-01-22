@@ -21,9 +21,9 @@ Schaef Seren is [Ephaine Seren](ephaine-seren.md)'s father. He lives in the vill
 
 ## History
 
-When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) commander and his vanguard who came for his family's sheep in the night.
+When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) commander and his vanguard who came for his family's sheep in the night.
 
-Tamman was severely beaten for his insolence. As penance, Schaef Seren was forced to herd the best of his remaining livestock back to the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) garrison. While doing this, an avalanche caused by [Ephaine Seren](ephaine-seren.md) buried the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) still present near his family home. He returned with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) escort to his home.
+Tamman was severely beaten for his insolence. As penance, Schaef Seren was forced to herd the best of his remaining livestock back to the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) garrison. While doing this, an avalanche caused by [Ephaine Seren](ephaine-seren.md) buried the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) still present near his family home. He returned with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) escort to his home.
 
 By the time he arrived, Ephaine had fled, seeking the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) for sanctuary.
 

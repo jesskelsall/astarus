@@ -42,7 +42,7 @@ The [Syntenne Republic](../civilisations/syntenne-republic/README.md) declares w
 
 *159 years of war, 69 years ago.*
 
-Astor's general supreme issues an order to all [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md): conscript any and all [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
+Astor's general supreme issues an order to all [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md): conscript any and all [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
 #### 284 PA
 

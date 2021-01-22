@@ -21,11 +21,11 @@ Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She lives in the vil
 
 ## History
 
-When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) commander and his vanguard who came for his family's sheep in the night.
+When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) commander and his vanguard who came for his family's sheep in the night.
 
-Tamman was severely beaten for his insolence. During this developing situation, [Ephaine Seren](ephaine-seren.md) caused an avalanche that buried and killed the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) still present outside their home.
+Tamman was severely beaten for his insolence. During this developing situation, [Ephaine Seren](ephaine-seren.md) caused an avalanche that buried and killed the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) still present outside their home.
 
-In the following aftermath, Adalie helped quickly prepare provisions for Ephaine as she fled home, seeking the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) for sanctuary.
+In the following aftermath, Adalie helped quickly prepare provisions for Ephaine as she fled home, seeking the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) for sanctuary.
 
 ## Planning
 

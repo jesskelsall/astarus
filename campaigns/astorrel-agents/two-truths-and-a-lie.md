@@ -16,7 +16,7 @@
 *Human*
 - They used to sleep in the sheep pens as a child.
 - They once attacked another student for implying that they got her family killed for their crimes.
-- They wilfully murdered an [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) commander and their vanguard.
+- They wilfully murdered an [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) commander and their vanguard.
 
 **[Morgan Caithness](../../astarus/people/morgan-caithness.md)**  
 *Human*
@@ -46,10 +46,10 @@
 *Dragonborn*
 - They believe so strongly in the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) that they don't suffer well those who don't.
 - They are favoured by the mentors and given special treatment.
-- Their parents are high ranking [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md).
+- Their parents are high ranking [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md).
 
 **[Whisper on the Breeze](../../astarus/people/whisper-on-the-breeze.md)**  
 *Tabaxi*
 - They are originally from outside of the [Kingdom of Astor](../../astarus/civilisations/kingdom-of-astor/README.md).
-- Their father is an [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md).
+- Their father is an [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md).
 - They believe very strongly in the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) cause.

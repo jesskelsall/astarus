@@ -6,7 +6,7 @@
 | --- | --- |
 | **Gods** | [Bhygar](gods/bhygar.md), [Valnos](gods/valnos.md), [Kirrel](gods/kirrel.md), [Gormox](gods/gormox.md) |
 | **Codified by** | [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) |
-| **Worshipping Organisations** | [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md), [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), [Astornos](../civilisations/kingdom-of-astor/organisations/astornos.md) |
+| **Worshipping Organisations** | [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md), [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), [Astornos](../civilisations/kingdom-of-astor/organisations/astornos.md) |
 
 ## Beliefs
 
@@ -86,12 +86,12 @@ Each temple and the land it is built upon is owned by The Order of the Diamond i
 
 ### Immunity
 
-The [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) and [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) have powers that apply to most parts of the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md). One glaring exception is that of temples. [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) and [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) are not allowed to enter temples in a ranked capacity, meaning that they cannot exercise their power or rank inside of a temple.
+The [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) and [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) have powers that apply to most parts of the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md). One glaring exception is that of temples. [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) and [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) are not allowed to enter temples in a ranked capacity, meaning that they cannot exercise their power or rank inside of a temple.
 
 While inside, all people, citizens or otherwise, are simply worshippers.
 
 ### Sanctuary
 
-The Order of the Diamond can take people inside their temples who are wanted by the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) or [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). The caretakers decide how long they may stay, and can forcibly eject anyone overstaying their welcome. It is up to the caretakers to determine how long they may stay.
+The Order of the Diamond can take people inside their temples who are wanted by the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) or [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). The caretakers decide how long they may stay, and can forcibly eject anyone overstaying their welcome. It is up to the caretakers to determine how long they may stay.
 
 While here, those seeking sanctuary partake of the food and drink left for the caretakers, and help them with their daily duties.

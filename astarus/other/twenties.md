@@ -34,7 +34,7 @@ The winner is determined by the following ordered criteria:
 
 Twenties is typically played with money to provide interesting stakes.
 
-All players agree on how much each player will stake (typically 1 silver or 1 gold). Coins are placed on the table before the game begins. The winning player takes the pot.
+All players agree on how much each player will stake (typically 1 sp or 1 gp). Coins are placed on the table before the game begins. The winning player takes the pot.
 
 In the event of a draw, each player adds the same amount to the pot again or forfeits. Another game is then played.
 
