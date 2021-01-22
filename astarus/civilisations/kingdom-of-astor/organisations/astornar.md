@@ -1,6 +1,6 @@
 # Astornar
 
-<img src="../../../../images/astornar.png" height="200" />
+<img src="../../../../images/organisations/astornar.png" height="200" />
 
 | []() | |
 | --- | --- |

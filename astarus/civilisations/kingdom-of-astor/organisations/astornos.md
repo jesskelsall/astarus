@@ -1,6 +1,6 @@
 # Astornos
 
-<img src="../../../../images/astornos.png" height="200" />
+<img src="../../../../images/organisations/astornos.png" height="200" />
 
 | []() | |
 | --- | --- |
