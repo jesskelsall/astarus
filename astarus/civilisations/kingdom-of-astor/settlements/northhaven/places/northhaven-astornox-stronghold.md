@@ -1,1 +1,0 @@
-# Northhaven Astornox Stronghold

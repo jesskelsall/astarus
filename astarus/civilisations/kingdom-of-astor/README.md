@@ -103,6 +103,19 @@ The glaring exception is elves and half-elves who are seen as untrustworthy and 
 
 Education is not a universal right. It is only available to those who can afford it, or as part of certain levels of military training.
 
+## Places
+
+| Type | Central Astor | Eastern Astor | Northern Astor | Western Astor | Southern Astor | Kardanis |
+| --- | --- | --- | --- | --- | --- | --- |
+| City | Eskrigg<br />Northhaven | Dunmore | | | Yeatscale | |
+| Town | Eaglesfield<br />Foxhaven<br />Holmrook<br />Mockerkin | Kilflynn | Beckermet<br />Goldreach<br />Hawksglass<br />Iredale | Carnmere<br />Hyceodd | Blittergate | Baldrine<br />Port Soderick |
+| Village | Allonby<br />Arnaside<br />Bootle<br />Grasthwaite<br />Humouth<br />Ulburn | Adrigole<br />Glengariff | Frizthwaite<br />Howbridge<br />Langtock | Filisur<br />Hartsgarth<br />Picdale | Mossband<br />Silethwaite<br />Wolsty | Ballabeg<br />Braddan<br />Maughold |
+| Fort | Fort Eldrick<br />Fort Knowe | | | Fort Maloja | Fort Girvan<br />Fort Maidens<br />Fort Pinmore<br />Fort Polbae<br />Fort Siloth | |
+| Road | Coastal Trail<br />Eskside Byway<br />Grasthwaite Bend<br />Great Astor Road<br />Humar Cut<br />Northern Road<br />The Fox's Tail | Dunmore Coast Road<br />Great Astor Road | Grasthwaite Bend<br />Ire Trail<br />Northern Road | Carn Path<br />Great Astor Road<br />Tresenda Pass | Great Astor Road<br />Kas'ran Run<br />Southern Fort Way<br />Western Reach | Kardanis Road<br />Karmox Trail |
+| Forest | Hawkswood<br />Humar Estuary<br />Mocker Swamp<br />Walna Forest<br />Winster Forest | Mocker Swamp<br />Tulligwood | Hawkswood<br />Winster Forest | Hawkswood | Great Sile Woods | |
+| Rivers & Lakes | Duskmere<br />Esk Delta<br />River Carn<br />River Esk<br />River Humar | River Esk | Ire Water<br />River Humar | Picdale Water<br />River Carn | Blittergate Lake<br />Pinmore Water<br />River Kasnar<br />Wolmere | |
+| Mountains | Knock Peaks<br />Walna Pike | Bere Gable<br />Knock Peaks | Foss Peaks<br />Iremara | Foss Peaks | | Karmox |
+
 ## History
 
 *See also: [Timeline](../../history/timeline.md)*

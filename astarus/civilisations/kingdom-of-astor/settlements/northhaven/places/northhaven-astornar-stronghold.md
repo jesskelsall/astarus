@@ -1,1 +1,0 @@
-# Northhaven Astornar Stronghold
