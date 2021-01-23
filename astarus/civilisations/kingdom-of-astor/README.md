@@ -4,21 +4,21 @@
 
 | []() | |
 | --- | --- |
-| **Capital City** | [Northhaven](settlements/northhaven/README.md) |
+| **Capital City** | [Northhaven](../../places/cities/northhaven.md) |
 | **Official Languages** | Common |
-| **Ethnic Groups** | Human<br />Halfling<br />Gnome<br />[Cepine](ethnicities/cepine.md) (human) |
+| **Ethnic Groups** | Human<br />Halfling<br />Gnome<br />[Cepine](../../ethnicities/cepine.md) (human) |
 | **Religion** | [The Order of the Diamond](../../gods/the-order-of-the-diamond.md) |
 | **Demonyms** | Astorian |
 | **Government** | Militocracy |
 | **Leader** | Corville Thornox<br />*General Supreme* |
-| **Territories** | [South East Kardan](../../geography/kardan/south-east-kardan.md)<br />Kardanis |
+| **Territories** | [South East Kardan](../../places/regions/south-east-kardan.md)<br />[Kardanis](../../places/regions/kardanis.md) |
 | **Founded** | *0 PA* |
 | **Neighbours** | [Syntenne Republic](../syntenne-republic/README.md) (south)<br />[Dardenn Kingdom](../dardenn-kingdom/README.md) (north)<br />[Nil'Savnic Alliance](../nilsavnic-alliance/README.md) (west) |
 | **Wars** | Astor-Syntenne War (*88 PA* - current) |
 
 ## Summary
 
-The Kingdom of Astor (shortened: *Astor*) is a militocracy located in [south east Kardan](../../geography/kardan/south-east-kardan.md). It borders the [Syntenne Republic](../syntenne-republic/README.md) to its south and the [Dardenn Kingdom](../dardenn-kingdom/README.md) to its north.
+The Kingdom of Astor (shortened: *Astor*) is a militocracy located in [south east Kardan](../../places/regions/south-east-kardan.md). It borders the [Syntenne Republic](../syntenne-republic/README.md) to its south and the [Dardenn Kingdom](../dardenn-kingdom/README.md) to its north.
 
 It is the primary setting for [campaigns](../../../campaigns/README.md) set in [Astarus](../../README.md).
 
@@ -105,16 +105,16 @@ Education is not a universal right. It is only available to those who can afford
 
 ## Places
 
-| Type | Central Astor | Eastern Astor | Northern Astor | Western Astor | Southern Astor | Kardanis |
+| Type | [Central Astor](../../places/regions/central-astor.md) | [Eastern Astor](../../places/regions/eastern-astor.md) | [Northern Astor](../../places/regions/northern-astor.md) | [Western Astor](../../places/regions/western-astor.md) | [Southern Astor](../../places/regions/southern-astor.md) | [Kardanis](../../places/regions/kardanis.md) |
 | --- | --- | --- | --- | --- | --- | --- |
-| City | Eskrigg<br />Northhaven | Dunmore | | | Yeatscale | |
-| Town | Eaglesfield<br />Foxhaven<br />Holmrook<br />Mockerkin | Kilflynn | Beckermet<br />Goldreach<br />Hawksglass<br />Iredale | Carnmere<br />Hyceodd | Blittergate | Baldrine<br />Port Soderick |
-| Village | Allonby<br />Arnaside<br />Bootle<br />Grasthwaite<br />Humouth<br />Ulburn | Adrigole<br />Glengariff | Frizthwaite<br />Howbridge<br />Langtock | Filisur<br />Hartsgarth<br />Picdale | Mossband<br />Silethwaite<br />Wolsty | Ballabeg<br />Braddan<br />Maughold |
+| City | [Eskrigg](../../places/cities/eskrigg.md)<br />[Northhaven](../../places/cities/northhaven.md) | [Dunmore](../../places/cities/dunmore.md) | | | [Yeatscale](../../places/cities/yeatscale.md) | |
+| Town | Eaglesfield<br />Foxhaven<br />Holmrook<br />[Mockerkin](../../places/towns/mockerkin.md) | Kilflynn | Beckermet<br />[Goldreach](settlements/goldreach/README.md)<br />Hawksglass<br />Iredale | Carnmere<br />Hyceodd | Blittergate | Baldrine<br />Port Soderick |
+| Village | Allonby<br />[Arnaside](../../places/villages/arnaside.md)<br />Bootle<br />Grasthwaite<br />Humouth<br />Ulburn | Adrigole<br />Glengariff | Frizthwaite<br />Howbridge<br />Langtock | Filisur<br />Hartsgarth<br />Picdale | Mossband<br />Silethwaite<br />Wolsty | Ballabeg<br />Braddan<br />Maughold |
 | Fort | Fort Eldrick<br />Fort Knowe | | | Fort Maloja | Fort Girvan<br />Fort Maidens<br />Fort Pinmore<br />Fort Polbae<br />Fort Siloth | |
-| Road | Coastal Trail<br />Eskside Byway<br />Grasthwaite Bend<br />Great Astor Road<br />Humar Cut<br />Northern Road<br />The Fox's Tail | Dunmore Coast Road<br />Great Astor Road | Grasthwaite Bend<br />Ire Trail<br />Northern Road | Carn Path<br />Great Astor Road<br />Tresenda Pass | Great Astor Road<br />Kas'ran Run<br />Southern Fort Way<br />Western Reach | Kardanis Road<br />Karmox Trail |
-| Forest | Hawkswood<br />Humar Estuary<br />Mocker Swamp<br />Walna Forest<br />Winster Forest | Mocker Swamp<br />Tulligwood | Hawkswood<br />Winster Forest | Hawkswood | Great Sile Woods | |
-| Rivers & Lakes | Duskmere<br />Esk Delta<br />River Carn<br />River Esk<br />River Humar | River Esk | Ire Water<br />River Humar | Picdale Water<br />River Carn | Blittergate Lake<br />Pinmore Water<br />River Kasnar<br />Wolmere | |
-| Mountains | Knock Peaks<br />Walna Pike | Bere Gable<br />Knock Peaks | Foss Peaks<br />Iremara | Foss Peaks | | Karmox |
+| Road | [Coastal Trail](../../places/roads/coastal-trail.md)<br />[Eskside Byway](../../places/roads/eskside-byway.md)<br />[Grasthwaite Bend](../../places/roads/grasthwaite-bend.md)<br />[Great Astor Road](../../places/roads/great-astor-road.md)<br />[Humar Cut](../../places/roads/humar-cut.md)<br />[Northern Road](../../places/roads/northern-road.md)<br />[The Fox's Tail](../../places/roads/the-foxs-tail.md) | [Dunmore Coast Road](../../places/roads/dunmore-coast-road.md)<br />[Great Astor Road](../../places/roads/great-astor-road.md) | [Grasthwaite Bend](../../places/roads/grasthwaite-bend.md)<br />[Ire Trail](../../places/roads/ire-trail.md)<br />[Northern Road](../../places/roads/northern-road.md) | [Carn Path](../../places/roads/carn-path.md)<br />[Great Astor Road](../../places/roads/great-astor-road.md)<br />[Tresenda Pass](../../places/roads/tresenda-pass.md) | [Great Astor Road](../../places/roads/great-astor-road.md)<br />[Kas'ran Run](../../places/roads/kasran-run.md)<br />[Southern Fort Way](../../places/roads/southern-fort-way.md)<br />Western Reach | [Kardanis Road](../../places/roads/kardanis-road.md)<br />[Karmox Trail](../../places/roads/karmox-trail.md) |
+| Forest | [Hawkswood](../../places/forests/hawkswood.md)<br />Humar Estuary<br />[Mocker Swamp](../../places/forests/mocker-swamp.md)<br />[Walna Forest](../../places/forests/walna-forest.md)<br />[Winster Forest](../../places/forests/winster-forest.md) | [Mocker Swamp](../../places/forests/mocker-swamp.md)<br />[Tulligwood](../../places/forests/tulligwood.md) | [Hawkswood](../../places/forests/hawkswood.md)<br />[Winster Forest](../../places/forests/winster-forest.md) | [Hawkswood](../../places/forests/hawkswood.md) | [Great Sile Woods](../../places/forests/great-sile-woods.md) | |
+| Rivers & Lakes | [Duskmere](../../places/rivers-lakes/duskmere.md)<br />[Esk Delta](../../places/rivers-lakes/esk-delta.md)<br />[River Carn](../../places/rivers-lakes/river-carn.md)<br />[River Esk](../../places/rivers-lakes/river-esk.md)<br />[River Humar](../../places/rivers-lakes/river-humar.md) | [River Esk](../../places/rivers-lakes/river-esk.md) | [Ire Water](../../places/rivers-lakes/ire-water.md)<br />[River Humar](../../places/rivers-lakes/river-humar.md) | [Picdale Water](../../places/rivers-lakes/picdale-water.md)<br />[River Carn](../../places/rivers-lakes/river-carn.md) | [Blittergate Lake](../../places/rivers-lakes/blittergate-lake.md)<br />[Pinmore Water](../../places/rivers-lakes/pinmore-water.md)<br />[River Kasnar](../../places/rivers-lakes/river-kasnar.md)<br />[Wolmere](../../places/rivers-lakes/wolmere.md) | |
+| Mountains | [Knock Peaks](../../places/mountains/knock-peaks.md)<br />[Walna Pike](../../places/mountains/walna-pike.md) | [Bere Gable](../../places/mountains/bere-gable.md)<br />[Knock Peaks](../../places/mountains/knock-peaks.md) | [Foss Peaks](../../places/mountains/foss-peaks.md)<br />[Iremara](../../places/mountains/iremara.md) | [Foss Peaks](../../places/mountains/foss-peaks.md) | | [Karmox](../../places/mountains/karmox.md) |
 
 ## History
 
@@ -126,13 +126,13 @@ The Kingdom of Astor was established over 300 years ago. Within around 50 years 
 
 ### War with the [Syntenne Republic](../syntenne-republic/README.md)
 
-As Astor grew, it expanded south along the coast and quickly came into conflict with the [Syntenne Republic](../syntenne-republic/README.md). War broke out over this region, eventually engulfing the entirety of south [Kardan](../../geography/kardan/README.md).
+As Astor grew, it expanded south along the coast and quickly came into conflict with the [Syntenne Republic](../syntenne-republic/README.md). War broke out over this region, eventually engulfing the entirety of south [Kardan](../../places/continents/kardan.md).
 
 Astor was outmatched by Syntenne due to their lower numbers. Despite this, Astor soldiers fought valiantly, with Syntenne fearing their tenacity and unwillingness to surrender or retreat.
 
-Eventually Syntenne began pushing Astor back up the western coast and towards the capital city of [Northhaven](settlements/northhaven/README.md), but were unable to push around Duskmere, the lake to its west.
+Eventually Syntenne began pushing Astor back up the western coast and towards the capital city of [Northhaven](../../places/cities/northhaven.md), but were unable to push around [Duskmere](../../places/rivers-lakes/duskmere.md), the lake to its west.
 
-A surprise attack up the River Humar and into Duskmere by the Syntenne navy broke the stalemate and led to the siege of [Northhaven](settlements/northhaven/README.md).
+A surprise attack up the [River Humar](../../places/rivers-lakes/river-humar.md) and into [Duskmere](../../places/rivers-lakes/duskmere.md) by the Syntenne navy broke the stalemate and led to the siege of [Northhaven](../../places/cities/northhaven.md).
 
 Astor held the line but losing the city seemed inevitable. The King of Astor, realising how critical magic users had been in the defense efforts so far, ordered a conscription of all magic users in the kingdom in order to bolster the military forces and attempt to break the siege.
 

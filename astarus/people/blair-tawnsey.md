@@ -13,11 +13,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [The Alley](../civilisations/kingdom-of-astor/settlements/northhaven/places/the-alley.md) |
+| **Places** | [The Alley](../places/buildings/shops/the-alley.md) |
 
 ## Summary
 
-Blair Tawnsey is the head waiter of [The Alley](../civilisations/kingdom-of-astor/settlements/northhaven/places/the-alley.md) in [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md).
+Blair Tawnsey is the head waiter of [The Alley](../places/buildings/shops/the-alley.md) in [Northhaven](../places/cities/northhaven.md).
 
 ## Characteristics
 
@@ -35,5 +35,5 @@ Blair Tawnsey is the head waiter of [The Alley](../civilisations/kingdom-of-asto
 | Quirks | Well built for someone so posh and pretentious. |
 | Knowledge | Tea, entertainment, weightlifting. |
 | Values | Quiet, good smells and tastes. |
-| Ambitions | Wants to help [The Alley](../civilisations/kingdom-of-astor/settlements/northhaven/places/the-alley.md) succeed to increase his personal wealth. |
+| Ambitions | Wants to help [The Alley](../places/buildings/shops/the-alley.md) succeed to increase his personal wealth. |
 | Dislikes | Drigg, shouting. |

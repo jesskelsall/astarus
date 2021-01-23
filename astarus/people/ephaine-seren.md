@@ -10,7 +10,7 @@
 | **Age** | 17 |
 | **Class** | Druid |
 | **Alignment** | Chaotic Good |
-| **Affiliation** | [Cepine](../civilisations/kingdom-of-astor/ethnicities/cepine.md)<br />[Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Cepine](../ethnicities/cepine.md)<br />[Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | |
@@ -25,11 +25,11 @@ Ephaine Seren is a player character in the [Astorrel Agents](../../campaigns/ast
 
 ## Backstory
 
-Ephaine Seren was born in the village of Filisur to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../civilisations/kingdom-of-astor/ethnicities/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
+Ephaine Seren was born in the village of Filisur to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../ethnicities/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
 
 She grew up in the cycle of Filisur, set in the Albulain Valley: during the spring the families here raised sheep while an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) garrison watched the border region. By autumn the sheep were sheared, the grasses cut & baled, and the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) garrison moved back into the kingdom's interior to avoid the winter snows.
 
-At an early age, through the old [Cepine](../civilisations/kingdom-of-astor/ethnicities/cepine.md) customs, Seren was brought to the shepherd's mountain shrine where the stars are worshipped. Here she heard her first whispers from the heavens who had favoured her. She would be a blessing to her little valley, if she could stay hidden.
+At an early age, through the old [Cepine](../ethnicities/cepine.md) customs, Seren was brought to the shepherd's mountain shrine where the stars are worshipped. Here she heard her first whispers from the heavens who had favoured her. She would be a blessing to her little valley, if she could stay hidden.
 
 At 15 years old, the winter snows arrived early and completely overnight, trapping the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) garrison in the valley. Over the course of their winter trapped there, they began forcefully taking stored food and grain to feed themselves. They did not do so tactically - rationing would have provided enough food for everyone to see through the winter, but instead they took as they pleased. During this time the Cepina suffered one of their worst winters in living memory.
 
@@ -43,9 +43,9 @@ The [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.m
 
 [Adalie Seren](adalie-seren.md) rushed to her children, helping to get Tamman inside the house. The torches showing the flock of sheep being lead away had stopped and turned about, returning to their home. It was only a matter of time until the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) commander arrived and discovered what had happened. Ephaine had to leave, but there was little time to prepare. Her mother hastily prepared her with meager provisions before she set off.
 
-Ephaine sought the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), knowing that they would be able to offer her sanctuary from the wrath of the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md). If anyone knew she was [magicborn](../civilisations/kingdom-of-astor/magicborn.md), she would be hunted relentlessly and conscripted. Only the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) could save her now. Due to the harsh winter conditions the journey to the nearest [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) stronghold in [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) took the best part of two weeks. While traveling the treacherous Tresenda Pass, she discovered more of her magical ability, drawing upon it to keep her alive.
+Ephaine sought the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), knowing that they would be able to offer her sanctuary from the wrath of the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md). If anyone knew she was [magicborn](../civilisations/kingdom-of-astor/magicborn.md), she would be hunted relentlessly and conscripted. Only the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) could save her now. Due to the harsh winter conditions the journey to the nearest [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) stronghold in [Northhaven](../places/cities/northhaven.md) took the best part of two weeks. While traveling the treacherous [Tresenda Pass](../places/roads/tresenda-pass.md), she discovered more of her magical ability, drawing upon it to keep her alive.
 
-Reaching [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md), she sought sanctuary and was subsequently accepted to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) training programme, placing her outside of the jurisdiction of the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md).
+Reaching [Northhaven](../places/cities/northhaven.md), she sought sanctuary and was subsequently accepted to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) training programme, placing her outside of the jurisdiction of the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md).
 
 ### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 

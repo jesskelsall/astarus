@@ -4,17 +4,17 @@
 | --- | --- |
 | **Name** | Northhaven |
 | **Type** | City (capital) |
-| **Location** | Central Astor<br />South East Kardan<br />Kardan |
-| **Civilisation** | [Kingdom of Astor](../README.md) |
+| **Location** | [Central Astor](../regions/central-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
+| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) |
 | **Population** | 19,000 |
-| **Nearby Places** | Coastal Trail<br />Great Astor Road<br />Humar Cut<br />Ulburn |
+| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br />[Great Astor Road](../roads/great-astor-road.md)<br />[Humar Cut](../roads/humar-cut.md)<br />Ulburn |
 | **People** | |
 
 ## Summary
 
-Northhaven is the capital city of the [Kingdom of Astor](../../README.md) and its largest city. It is located on the eastern shore of Duskmere in Central Astor.
+Northhaven is the capital city of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) and its largest city. It is located on the eastern shore of [Duskmere](../rivers-lakes/duskmere.md) in [Central Astor](../regions/central-astor.md).
 
-Located on flat plains on the shore of Duskmere, Northhaven can be seen from far away, dominating the landscape. The city core is surrounded by a crescent of large stone walls which stretch around the city and touch the lake at both ends.
+Located on flat plains on the shore of [Duskmere](../rivers-lakes/duskmere.md), Northhaven can be seen from far away, dominating the landscape. The city core is surrounded by a crescent of large stone walls which stretch around the city and touch the lake at both ends.
 
 Only military members are allowed within the walls, where marble and stone architecture is commonplace and the wealth of the kingdom is most on show. From here the military might of the kingdom is wielded.
 
@@ -26,10 +26,10 @@ Outside of the walls is a comparably sized urban sprawl, where the drigg of the 
 | Sounds | The hustle-bustle of a city. People, children, carts, horses, bells on ships. |
 | Smells | Musky smells of many people living in one place, human excrement, but also fresh baked bread, fish. |
 | People | A cosmopolitan mix of people from all rungs of the social ladder. |
-| Intrigue | The largest city in the [Kingdom of Astor](../../README.md). Its picturesque location and shining [Sunset District](places/sunset-district.md) are in stark contrast to the poverty present in the [Sunrise District](places/sunrise-district.md). |
+| Intrigue | The largest city in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md). Its picturesque location and shining [Sunset District](../districts/sunset-district.md) are in stark contrast to the poverty present in the [Sunrise District](../districts/sunrise-district.md). |
 
 ## Places
 
-- [Northhaven Wall](places/northhaven-wall.md)
-- [Sunrise District](places/sunrise-district.md)
-- [Sunset District](places/sunset-district.md)
+- [Northhaven Wall](../structures/northhaven-wall.md)
+- [Sunrise District](../districts/sunrise-district.md)
+- [Sunset District](../districts/sunset-district.md)

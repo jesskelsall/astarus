@@ -14,7 +14,7 @@ For unknown reasons, [Valnos](../../../astarus/gods/gods/valnos.md) has chosen t
 
 ### [AA1](../sessions/1.md)
 
-As part of the [Astorrel Graduation](astorrel-graduation.md), [Whisper on the Breeze](../../../astarus/people/whisper-on-the-breeze.md) pledged themselves to [Valnos](../../../astarus/gods/gods/valnos.md) at [Diamond Prime](../../../astarus/civilisations/kingdom-of-astor/settlements/northhaven/places/diamond-prime.md). This was done to prove that they practiced [The Order of the Diamond](../../../astarus/gods/the-order-of-the-diamond.md).
+As part of the [Astorrel Graduation](astorrel-graduation.md), [Whisper on the Breeze](../../../astarus/people/whisper-on-the-breeze.md) pledged themselves to [Valnos](../../../astarus/gods/gods/valnos.md) at [Diamond Prime](../../../astarus/places/buildings/temples/diamond-prime.md). This was done to prove that they practiced [The Order of the Diamond](../../../astarus/gods/the-order-of-the-diamond.md).
 
 While praying in front of the statue of [Valnos](../../../astarus/gods/gods/valnos.md) (in mortal form as a hawk), Whisper noticed the statue grow brighter to the point of hurting their eyes. The female voice of [Valnos](../../../astarus/gods/gods/valnos.md) echoed throughout the temple.
 

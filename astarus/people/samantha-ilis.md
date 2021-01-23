@@ -19,9 +19,9 @@
 
 ## Summary
 
-Samantha Ilis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) working for the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). She provides missions for [Bryce Morton](bryce-morton.md).
+Samantha Ilis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) working for the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). She provides missions for [Bryce Morton](bryce-morton.md).
 
-She has a positive demeanour, bringing a smile to those she talks to. She wants to make sure that central Astor is a safe and prosperous place.
+She has a positive demeanour, bringing a smile to those she talks to. She wants to make sure that [central Astor](../places/regions/central-astor.md) is a safe and prosperous place.
 
 ## Characteristics
 
@@ -37,9 +37,9 @@ She has a positive demeanour, bringing a smile to those she talks to. She wants 
 | --- | --- |
 | Voice | Regular female, smile in her voice. |
 | Quirks | It is a wonder that none of this positivity rubbed off onto [Bryce Morton](bryce-morton.md). |
-| Knowledge | The needs of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) in central Astor. |
+| Knowledge | The needs of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) in [central Astor](../places/regions/central-astor.md). |
 | Values | Positivity, teamwork, mission successes. |
-| Ambitions | Wants central Astor to be safe from threats. |
+| Ambitions | Wants [central Astor](../places/regions/central-astor.md) to be safe from threats. |
 | Dislikes | Arguing, politics. |
 
 ## History

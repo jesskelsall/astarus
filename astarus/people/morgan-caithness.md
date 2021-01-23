@@ -17,7 +17,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | Kilflynn |
-| **Places** | [Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
+| **Places** | [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 
@@ -47,7 +47,7 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-
 
 ### Backstory
 
-Her family has lived for generations as loggers on the outskirts of Hawkswood near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../civilisations/kingdom-of-astor/settlements/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme on the promise of good pay for completing missions.
+Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/cities/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme on the promise of good pay for completing missions.
 
 ### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
@@ -57,4 +57,4 @@ Her family has lived for generations as loggers on the outskirts of Hawkswood ne
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Morgan in [Bryce Morton's Office](../civilisations/kingdom-of-astor/settlements/northhaven/places/bryce-mortons-office.md) when she was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Morgan in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when she was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

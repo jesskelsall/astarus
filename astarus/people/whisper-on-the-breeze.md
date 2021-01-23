@@ -29,7 +29,7 @@ Whisper on the Breeze was born in the town of Kuv'narash ([Syntenne Republic](..
 
 Their clan has always been moving, struggling to settle and integrate into the cultures they encountered. The clan's journey has taken the from their homelands in the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/README.md), through the [Syntenne Republic](../civilisations/syntenne-republic/README.md), and finally up into the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md).
 
-Once in Astor, Whisper's father abandoned the clan to join the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) in the city of Yeatscale. Due to this the clan fell on harder times, causing Whisper to turn to stealing to make ends meet. This brought constant trouble to the clan, usually getting them kicked out of the towns they settled in.
+Once in Astor, Whisper's father abandoned the clan to join the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) in the city of [Yeatscale](../places/cities/yeatscale.md). Due to this the clan fell on harder times, causing Whisper to turn to stealing to make ends meet. This brought constant trouble to the clan, usually getting them kicked out of the towns they settled in.
 
 Once in Astor they settled in the town of Hyceodd, their clan began settling in and had some luck getting ingrained into society. Whisper's stealing once again got them kicked out of town.
 

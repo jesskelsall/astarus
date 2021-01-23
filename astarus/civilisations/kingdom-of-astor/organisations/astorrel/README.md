@@ -111,27 +111,27 @@ Recruits are trained by the Astorrel for between two and four years, depending o
 
 They learn combat training, wilderness survival, how to read and write, the history of the world, and all manner of things relating to nature and the delicate balance Astor keeps with it through the Astorrel.
 
-Astorrel recruits train in [Dunmore](../../settlements/dunmore.md), and do not typically travel to [Northhaven](../../settlements/northhaven/README.md) prior to their graduation.
+Astorrel recruits train in [Dunmore](../../../../places/cities/dunmore.md), and do not typically travel to [Northhaven](../../../../places/cities/northhaven.md) prior to their graduation.
 
 ### Graduation
 
 *See also: [Astorian Calendar](../../../../history/astorian-calendar.md)*
 
-Each year the recruits that are ready to graduate travel to [Northhaven](../../settlements/northhaven/README.md) for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../../../gods/gods/kirrel.md) months).
+Each year the recruits that are ready to graduate travel to [Northhaven](../../../../places/cities/northhaven.md) for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../../../gods/gods/kirrel.md) months).
 
 Prior to the ceremony, the Astorrel officers decide which rank each recruit will start at, and which existing officers will become their superior officers.
 
-The ceremony is witnessed by existing [Astorrel members](ranks/1-member.md), including all of the officers present in [Northhaven](../../settlements/northhaven/README.md) at the time. During the show of faith, [Astornox](../astornox/README.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
+The ceremony is witnessed by existing [Astorrel members](ranks/1-member.md), including all of the officers present in [Northhaven](../../../../places/cities/northhaven.md) at the time. During the show of faith, [Astornox](../astornox/README.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
 
 ### Pledge
 
-At the start of the ceremony, all recruits are assembled in [Kirrel Hall](../../settlements/northhaven/places/kirrel-hall.md) for the pledge. This is comprised of a speech from the Commandant followed by a pledge to the organisation, instilling a sense of duty and commitment.
+At the start of the ceremony, all recruits are assembled in [Kirrel Hall](../../../../places/buildings/kirrel-hall.md) for the pledge. This is comprised of a speech from the Commandant followed by a pledge to the organisation, instilling a sense of duty and commitment.
 
 ### Show of Faith
 
 Following the pledge, the recruits have an hour to pledge themselves to an insider god in order to show their faith to [The Order of the Diamond](../../../../gods/the-order-of-the-diamond.md). Practicing this religion is a requirement to become a member, though this is realistically the only time when that faith is tested.
 
-Members make their way out of the Astorrel District, through the Military District, and out to the Officer District to [Diamond Prime](../../settlements/northhaven/places/diamond-prime.md), the main temple of the religion in all of Astor. Their route to and from the temple is lined with military members, citizens and drigg alike who witness their pledge.
+Members make their way out of the Astorrel District, through the Military District, and out to the Officer District to [Diamond Prime](../../../../places/buildings/temples/diamond-prime.md), the main temple of the religion in all of Astor. Their route to and from the temple is lined with military members, citizens and drigg alike who witness their pledge.
 
 Once inside the temple, each member chooses their patron god. This decision is theirs alone and is not pre-registered prior to this ceremony. They approach the altar of their chosen god and pray to them however they wish.
 
@@ -148,7 +148,7 @@ Following this their superior officer finds them, introduces them to their team,
 | Name | Rank |
 | --- | --- |
 | [Levelle Tristwix](../../../../people/levelle-tristwix.md) | [Astorrel Commandant](ranks/8-commandant.md) |
-| [Merkin Thorgus](../../../../people/merkin-thorgus.md) | [Astorrel Captain](ranks/6-captain.md) ([Northhaven](../../settlements/northhaven/README.md)) |
+| [Merkin Thorgus](../../../../people/merkin-thorgus.md) | [Astorrel Captain](ranks/6-captain.md) ([Northhaven](../../../../places/cities/northhaven.md)) |
 | [Bryce Morton](../../../../people/bryce-morton.md) | [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md) |
 | [Ahsha Sallas](../../../../people/ahsha-sallas.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
 | [Ephaine Seren](../../../../people/ephaine-seren.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |

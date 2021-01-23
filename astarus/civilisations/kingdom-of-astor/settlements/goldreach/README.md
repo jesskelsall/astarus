@@ -6,17 +6,17 @@
 | **Size** | Town |
 | **Population** | |
 | **Civilisation** | [Kingdom of Astor](../../README.md) |
-| **Administrative Region** | Northern Astor |
-| **Region** | [South East Kardan](../../../../geography/kardan/south-east-kardan.md) |
-| **Continent** | [Kardan](../../../../geography/kardan/README.md) |
-| **Travel Connections** | Northern Road<br />Hawksway<br />Grasthwaite Bend |
+| **Administrative Region** | [Northern Astor](../../../../places/regions/northern-astor.md) |
+| **Region** | [South East Kardan](../../../../places/regions/south-east-kardan.md) |
+| **Continent** | [Kardan](../../../../places/continents/kardan.md) |
+| **Travel Connections** | [Northern Road](../../../../places/roads/northern-road.md)<br />Hawksway<br />[Grasthwaite Bend](../../../../places/roads/grasthwaite-bend.md) |
 | **Neighbouring Settlements** | Beckermet<br />Hawksglass<br />Langtock |
 
 ## Summary
 
-Goldreach is a town in northern Astor. It is the northernmost settlement along the Northern Road, and the last before entering the [Dardenn Kingdom](../../../dardenn-kingdom/README.md).
+Goldreach is a town in [northern Astor](../../../../places/regions/northern-astor.md). It is the northernmost settlement along the [Northern Road](../../../../places/roads/northern-road.md), and the last before entering the [Dardenn Kingdom](../../../dardenn-kingdom/README.md).
 
-The quaint rural town is set amongst expansive grassy plains, penned in by the Hawkswood to the west and the Winster Forest to the east, with views of the mountains to the north providing a dramatic backdrop.
+The quaint rural town is set amongst expansive grassy plains, penned in by the [Hawkswood](../../../../places/forests/hawkswood.md) to the west and the [Winster Forest](../../../../places/forests/winster-forest.md) to the east, with views of the mountains to the north providing a dramatic backdrop.
 
 Built on a natural spring in the plains, Goldreach is not walled and rarely in any danger due to the amicable relationship with the [Dardenn Kingdom](../../../dardenn-kingdom/README.md) to the north. It is built around a Marketplace and features an Order of the Diamond temple, an [Astornox](../../organisations/astornox/README.md) stronghold with an outer wall, lively shops and a few notable inns.
 

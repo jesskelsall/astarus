@@ -22,7 +22,7 @@ For the last 6 months, a meteor has fallen roughly once a month.
 
 One member of [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md) is a seer who has been able to predict when and where several of the meteors will land. This leads [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) to set off for [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) 5 days before the meteor lands, arriving only 2 days after it does.
 
-Wrenn intends to find the meteorite and return it to [Northhaven](../../../astarus/civilisations/kingdom-of-astor/settlements/northhaven/README.md) so that they may investigate its properties and nature, furthering their independent research.
+Wrenn intends to find the meteorite and return it to [Northhaven](../../../astarus/places/cities/northhaven.md) so that they may investigate its properties and nature, furthering their independent research.
 
 ### [PR1](../sessions.md/1.md)
 

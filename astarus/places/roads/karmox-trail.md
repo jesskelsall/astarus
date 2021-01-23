@@ -4,6 +4,6 @@
 | --- | --- |
 | **Name** | Karmox Trail |
 | **Type** | Road |
-| **Location** | Kardanis |
-| **Nearby Places** | Ballabeg<br />Braddan<br />Kardanis Road<br />Karmox<br />Maughold |
+| **Location** | [Kardanis](../regions/kardanis.md) |
+| **Nearby Places** | Ballabeg<br />Braddan<br />[Kardanis Road](kardanis-road.md)<br />[Karmox](../mountains/karmox.md)<br />Maughold |
 | **People** | |

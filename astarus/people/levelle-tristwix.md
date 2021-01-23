@@ -12,12 +12,12 @@
 | **Alignment** | Lawful Good |
 | **Affiliation** | [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/8-commandant.md)<br /><img src="../../images/ranks/astorrel-8-commandant.png" height="50" /> |
 | **Commanding Officer** | |
-| **Subordinates** | [Merkin Thorgus](merkin-thorgus.md) ([Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md)) |
+| **Subordinates** | [Merkin Thorgus](merkin-thorgus.md) ([Northhaven](../places/cities/northhaven.md)) |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
 | **Acquaintances** | [Grant Thackeray](grant-thackeray.md) (old squad-mate, friend) |
 | **From** | |
-| **Places** | [Zenith Spire](../civilisations/kingdom-of-astor/settlements/northhaven/places/zenith-spire.md)<br />[Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
+| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br />[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 

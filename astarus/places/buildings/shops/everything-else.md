@@ -4,19 +4,19 @@
 | --- | --- |
 | **Name** | Everything Else |
 | **Type** | Shop |
-| **Location** | [Crafters Course](crafters-course.md)<br />[Sunset District](sunset-district.md)<br />[Northhaven](../README.md) |
+| **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Friend of the Magicborn](friend-of-the-magicborn.md)<br />[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br />[Rhotrukk Wepons](rhotrukk-wepons.md)<br />[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Nilus Cray](../../../../../people/nilus-cray.md) |
+| **People** | [Nilus Cray](../../../people/nilus-cray.md) |
 
 ## Summary
 
-Everything Else is a general store on [Crafters Course](crafters-course.md) in the [Sunset District](sunset-district.md) of [Northhaven](../README.md).
+Everything Else is a general store on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md).
 
 It caters to those who need standard survival equipment and provisions. If you can't find it somewhere else, this is the next place to try.
 
 The store has a standard appearance with a simple swinging sign outside and two large windows either side of the door. The store is laid out with shelves, barrels and buckets of products, neatly stacked and sensibly arranged.
 
-By the entrance is a counter area from which [Nilus Cray](../../../../../people/nilus-cray.md) watches people enter and leave, as well as people watch through the window.
+By the entrance is a counter area from which [Nilus Cray](../../../people/nilus-cray.md) watches people enter and leave, as well as people watch through the window.
 
 | Sensation | Description |
 | ---- | --- |
@@ -36,6 +36,6 @@ By the entrance is a counter area from which [Nilus Cray](../../../../../people/
 
 ## Planning
 
-### [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../../campaigns/astorrel-agents/README.md)
 
-On graduation day the store is busier than usual, but [Nilus Cray](../../../../../people/nilus-cray.md) has stocked well and isn't worried. His monotone speech and demeanour brings calm to an otherwise hectic day.
+On graduation day the store is busier than usual, but [Nilus Cray](../../../people/nilus-cray.md) has stocked well and isn't worried. His monotone speech and demeanour brings calm to an otherwise hectic day.

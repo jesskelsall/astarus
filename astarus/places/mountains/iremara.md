@@ -4,6 +4,6 @@
 | --- | --- |
 | **Name** | Iremara |
 | **Type** | Mountain |
-| **Location** | Northern Astor |
-| **Nearby Places** | River Humar |
+| **Location** | [Northern Astor](../regions/northern-astor.md) |
+| **Nearby Places** | [River Humar](../rivers-lakes/river-humar.md) |
 | **People** | |

@@ -4,17 +4,17 @@
 | --- | --- |
 | **Name** | The Alley |
 | **Type** | Shop |
-| **Location** | [Sunset District](sunset-district.md)<br />[Northhaven](../README.md) |
-| **Nearby Places** | [Astor Square](astor-square.md)<br />[Diamond Prime](diamond-prime.md) |
-| **People** | [Blair Tawnsey](../../../../../people/blair-tawnsey.md) (head waiter) |
+| **Location** | [Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
+| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br />[Diamond Prime](../temples/diamond-prime.md) |
+| **People** | [Blair Tawnsey](../../../people/blair-tawnsey.md) (head waiter) |
 
 ## Summary
 
-The Alley is a tea shop located around the edge of [Astor Square](astor-square.md), in [Northhaven](../README.md)'s [Sunset District](sunset-district.md). It is an upmarket tea shop that specialises in brewing tea for customers.
+The Alley is a tea shop located around the edge of [Astor Square](../../structures/astor-square.md), in [Northhaven](../../cities/northhaven.md)'s [Sunset District](../../districts/sunset-district.md). It is an upmarket tea shop that specialises in brewing tea for customers.
 
-Though tea shops are common in the real world, tea itself is rather new to the [Kingdom of Astor](../../../README.md). It originates from the warmer climates of South [Kardan](../../../../../geography/kardan/README.md), where the [Syntenne Republic](../../../../syntenne-republic/README.md) is based. Here tea is enjoyed more widely. The dried leaves started initially being sold as enemy contraband before it became accepted in [Northhaven](../README.md).
+Though tea shops are common in the real world, tea itself is rather new to the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/README.md). It originates from the warmer climates of South [Kardan](../../continents/kardan.md), where the [Syntenne Republic](../../../civilisations/syntenne-republic/README.md) is based. Here tea is enjoyed more widely. The dried leaves started initially being sold as enemy contraband before it became accepted in [Northhaven](../../cities/northhaven.md).
 
-The name "The Alley" is a reference to the contraband roots of tea in [Northhaven](../README.md). The tea shop is extremely fancy, cultivating an atmosphere of luxury and calmness for its patrons. This is the place to be if you can afford it.
+The name "The Alley" is a reference to the contraband roots of tea in [Northhaven](../../cities/northhaven.md). The tea shop is extremely fancy, cultivating an atmosphere of luxury and calmness for its patrons. This is the place to be if you can afford it.
 
 ### Exterior
 
@@ -25,7 +25,7 @@ The building appears quaint from the outside, using marble and polished stone to
 | Sights | Three storey townhouse with segmented windows. Flower planters below each window. Marble and polished stone, with detailed carvings and decorations adorning the facade. Beautiful wooden door with interleaved metals. Wood and iron swinging sign with the business name in cursive. Either a line of wealthy citizens waiting to get in, or less wealthy citizens looking through the windows curiously from a distance. |
 | Sounds | Quiet chatter. Cello and violin from inside. |
 | Smells | Sweet floral fragrances, pastries and cakes. Flowers from the window planters and from within. |
-| People | The wealthiest citizens in [Northhaven](../README.md), dressed in their finest clothes. |
+| People | The wealthiest citizens in [Northhaven](../../cities/northhaven.md), dressed in their finest clothes. |
 | Intrigue | This place is incredibly posh. A rare foreign delicacy being enjoyed by those who can afford it. |
 
 ### Interior

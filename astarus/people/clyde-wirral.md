@@ -13,11 +13,11 @@
 | **Relations** | [Sandor Wirral](sandor-wirral.md) (father) |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [S.Q. Wirral & Son](../civilisations/kingdom-of-astor/settlements/northhaven/places/sq-wirral-and-son.md) |
+| **Places** | [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md) |
 
 ## Summary
 
-Clyde Wirral is the son of [Sandor Wirral](sandor-wirral.md). He works with his father at the family business, [S.Q. Wirral & Son](../civilisations/kingdom-of-astor/settlements/northhaven/places/sq-wirral-and-son.md).
+Clyde Wirral is the son of [Sandor Wirral](sandor-wirral.md). He works with his father at the family business, [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md).
 
 He expects to be taking over the family business soon, allowing his father to retire. He works diligently in the back preparing orders while his father remains the face of the business.
 
@@ -44,7 +44,7 @@ He expects to be taking over the family business soon, allowing his father to re
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [S.Q. Wirral & Son](../civilisations/kingdom-of-astor/settlements/northhaven/places/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) received her chain mail armour from Clyde when returning at sunset.
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) received her chain mail armour from Clyde when returning at sunset.
 
 ## Planning
 

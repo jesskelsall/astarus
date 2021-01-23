@@ -14,16 +14,16 @@
 
 ### Pre-Campaign
 
-Before setting off from [Dunmore](../../../astarus/civilisations/kingdom-of-astor/settlements/dunmore.md) to graduate, [Ephaine Seren](../../../astarus/people/ephaine-seren.md) entrusted [Ludolf Hornwallis](../../../astarus/people/ludolf-hornwallis.md) with her star map. He agreed to return it to her straight after her graduation.
+Before setting off from [Dunmore](../../../astarus/places/cities/dunmore.md) to graduate, [Ephaine Seren](../../../astarus/people/ephaine-seren.md) entrusted [Ludolf Hornwallis](../../../astarus/people/ludolf-hornwallis.md) with her star map. He agreed to return it to her straight after her graduation.
 
 ### [AA1](../sessions/1.md)
 
-Immediately after her graduation, Ephaine looked around [Kirrel Hall](../../../astarus/civilisations/kingdom-of-astor/settlements/northhaven/places/kirrel-hall.md) for Ludolf, but couldn't see him.
+Immediately after her graduation, Ephaine looked around [Kirrel Hall](../../../astarus/places/buildings/kirrel-hall.md) for Ludolf, but couldn't see him.
 
 ## Planning
 
-On asking at [Auric Rise](../../../astarus/civilisations/kingdom-of-astor/settlements/northhaven/places/auric-rise.md), he is staying at [Valley Under the Stars](../../../astarus/civilisations/kingdom-of-astor/settlements/northhaven/places/valley-under-the-stars.md), but hasn't been seen around today.
+On asking at [Auric Rise](../../../astarus/places/buildings/auric-rise.md), he is staying at [Valley Under the Stars](../../../astarus/places/buildings/inns-taverns/valley-under-the-stars.md), but hasn't been seen around today.
 
-In [Valley Under the Stars](../../../astarus/civilisations/kingdom-of-astor/settlements/northhaven/places/valley-under-the-stars.md), Ludolf can be found drinking in the bar area, heavily intoxicated. He is drowning his sorrows over his creeping age and the likelihood that he's never going to get promoted beyond [Astorrel Lieutenant](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md).
+In [Valley Under the Stars](../../../astarus/places/buildings/inns-taverns/valley-under-the-stars.md), Ludolf can be found drinking in the bar area, heavily intoxicated. He is drowning his sorrows over his creeping age and the likelihood that he's never going to get promoted beyond [Astorrel Lieutenant](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md).
 
 Ludolf gives Ephaine her star map before retiring to his room.

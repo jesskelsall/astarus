@@ -8,7 +8,7 @@
 | **Age** | 19 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Cepine](../civilisations/kingdom-of-astor/ethnicities/cepine.md) |
+| **Affiliation** | [Cepine](../ethnicities/cepine.md) |
 | **Worship** | |
 | **Relations** | [Schaef Seren](schaef-seren.md) (father)<br />[Adalie Seren](adalie-seren.md) (mother)<br />[Ephaine Seren](ephaine-seren.md) (younger sister)<br />Besar Seren (younger brother)<br />Irla Seren (younger sister) |
 | **Acquaintances** | |

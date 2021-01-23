@@ -13,7 +13,7 @@ On Astarus the influence of the gods is minimal. Most people believe that they e
 
 Astarus is populated by a typical mix of D&D races.
 
-[Kardan](geography/kardan/README.md) is predominately populated with the following races:
+[Kardan](places/continents/kardan.md) is predominately populated with the following races:
 
 - [Human](https://www.dndbeyond.com/races/human)
 - [Halfling](https://www.dndbeyond.com/races/halfling)
@@ -62,5 +62,5 @@ Astarus was formed in *176 AA* (488 years ago) by the insider gods. This was wit
 
 ## Geography
 
-- [Kardan](geography/kardan/README.md)
-- [Sea of Songs](geography/sea-of-songs.md)
+- [Kardan](places/continents/kardan.md)
+- [Sea of Songs](places/seas/sea-of-songs.md)

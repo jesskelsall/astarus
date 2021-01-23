@@ -13,11 +13,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Everything Else](../civilisations/kingdom-of-astor/settlements/northhaven/places/everything-else.md) |
+| **Places** | [Everything Else](../places/buildings/shops/everything-else.md) |
 
 ## Summary
 
-Nilus Cray is the owner of [Everything Else](../civilisations/kingdom-of-astor/settlements/northhaven/places/everything-else.md), a general goods store on [Crafters Course](../civilisations/kingdom-of-astor/settlements/northhaven/places/crafters-course.md).
+Nilus Cray is the owner of [Everything Else](../places/buildings/shops/everything-else.md), a general goods store on [Crafters Course](../places/streets/crafters-course.md).
 
 They are very straightforward and show little emotion or care for the world around them. They enjoy staring out of the window and people watching.
 
@@ -46,7 +46,7 @@ Nilus is willing to help when asked, but shows no additional enthusiasm when doi
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [Everything Else](../civilisations/kingdom-of-astor/settlements/northhaven/places/everything-else.md). [Whisper on the Breeze](whisper-on-the-breeze.md) bought lockpicking tools discretely from them.  
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [Everything Else](../places/buildings/shops/everything-else.md). [Whisper on the Breeze](whisper-on-the-breeze.md) bought lockpicking tools discretely from them.  
 
 ## Planning
 

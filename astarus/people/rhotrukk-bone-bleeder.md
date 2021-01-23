@@ -13,11 +13,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Rhotrukk Wepons](../civilisations/kingdom-of-astor/settlements/northhaven/places/rhotrukk-wepons.md) |
+| **Places** | [Rhotrukk Wepons](../places/buildings/shops/rhotrukk-wepons.md) |
 
 ## Summary
 
-Rhotrukk Bone Bleeder the weaponsmith that owns [Rhotrukk Wepons](../civilisations/kingdom-of-astor/settlements/northhaven/places/rhotrukk-wepons.md). He loves to craft weapons of all types and designs, and sits at his forge all day churning out whatever takes his fancy.
+Rhotrukk Bone Bleeder the weaponsmith that owns [Rhotrukk Wepons](../places/buildings/shops/rhotrukk-wepons.md). He loves to craft weapons of all types and designs, and sits at his forge all day churning out whatever takes his fancy.
 
 He is not much of a people person, typically ignoring most people until they want to buy something specific. It takes some effort to get him to do something other than whatever he currently feels like, but his arm can be bent.
 
@@ -44,7 +44,7 @@ He is not much of a people person, typically ignoring most people until they wan
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [Rhotrukk Wepons](../civilisations/kingdom-of-astor/settlements/northhaven/places/rhotrukk-wepons.md).
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [Rhotrukk Wepons](../places/buildings/shops/rhotrukk-wepons.md).
 
 ## Planning
 

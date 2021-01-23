@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Adventures for Adventurers](../civilisations/kingdom-of-astor/settlements/northhaven/places/adventures-for-adventurers.md) |
+| **Places** | [Adventures for Adventurers](../places/buildings/shops/adventures-for-adventurers.md) |
 
 ## Summary
 
@@ -21,7 +21,7 @@ TODO
 
 Was an [Astorrel member](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/1-member.md), didn't get to see the kingdom first-hand. Living through books and stories now.
 
-Tarsha Nulas is the owner of the [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) magical items shop.
+Tarsha Nulas is the owner of the [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) magical items shop.
 
 She is a confident, stern and mysterious woman that speaks somewhat evasively. Her instinct is to trust no-one, and so she judges harshly and watches carefully. She never leaves the counter while someone is in her store.
 
@@ -46,7 +46,7 @@ She is a confident, stern and mysterious woman that speaks somewhat evasively. H
 
 ## History
 
-Tarsha Nulas is secretly a member of the [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), tasked by the generals with running the [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) store. The purpose of the store is to provide a check on the magical items coming through [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) and in circulation in the kingdom as a whole.
+Tarsha Nulas is secretly a member of the [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), tasked by the generals with running the [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) store. The purpose of the store is to provide a check on the magical items coming through [Northhaven](../places/cities/northhaven.md) and in circulation in the kingdom as a whole.
 
 ## Planning
 

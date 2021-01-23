@@ -15,11 +15,11 @@
 | **Relations** | |
 | **Acquaintances** | [Ephaine Seren](ephaine-seren.md) (student) |
 | **From** | |
-| **Places** | [Dunmore](../civilisations/kingdom-of-astor/settlements/dunmore.md) |
+| **Places** | [Dunmore](../places/cities/dunmore.md) |
 
 ## Summary
 
-Ludolf Hornwallis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) working for the [Dunmore](../civilisations/kingdom-of-astor/settlements/dunmore.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). He is a mentor in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme, tasked with training recruits and teaching them various useful skills.
+Ludolf Hornwallis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) working for the [Dunmore](../places/cities/dunmore.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). He is a mentor in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme, tasked with training recruits and teaching them various useful skills.
 
 He was the mentor of [Ephaine Seren](ephaine-seren.md).
 

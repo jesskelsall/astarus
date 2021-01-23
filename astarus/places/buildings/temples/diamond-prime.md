@@ -4,15 +4,15 @@
 | --- | --- |
 | **Name** | Diamond Prime |
 | **Type** | Temple |
-| **Location** | [Sunset District](sunset-district.md)<br />[Northhaven](../README.md) |
-| **Nearby Places** | [Astor Square](astor-square.md) |
+| **Location** | [Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
+| **Nearby Places** | [Astor Square](../../structures/astor-square.md) |
 | **People** | |
 
 ## Summary
 
-*See also: [The Order of the Diamond](../../../../../gods/the-order-of-the-diamond.md)*
+*See also: [The Order of the Diamond](../../../gods/the-order-of-the-diamond.md)*
 
-Diamond Prime is the main temple of [The Order of the Diamond](../../../../../gods/the-order-of-the-diamond.md) in the [Kingdom of Astor](../../../README.md). It is located within the [Sunset District](sunset-district.md) of [Northhaven](../README.md), and is the most prominent building bordering the [Astor Square](astor-square.md).
+Diamond Prime is the main temple of [The Order of the Diamond](../../../gods/the-order-of-the-diamond.md) in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/README.md). It is located within the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md), and is the most prominent building bordering the [Astor Square](../../structures/astor-square.md).
 
 It is by far the biggest temple in the kingdom, a shining beacon to the power of the gods and their subjects devotion to them. It is the tallest building in the surrounding area.
 
@@ -20,7 +20,7 @@ The building is far taller than it needs to be at about 3 storeys tall. It tower
 
 ### Exterior
 
-From the outside the building looms large over [Astor Square](astor-square.md). Its imposing height and design gives it an air of importance. The pillars split an entryway to the inside, creating four distinct passages that have caretakers posted at each.
+From the outside the building looms large over [Astor Square](../../structures/astor-square.md). Its imposing height and design gives it an air of importance. The pillars split an entryway to the inside, creating four distinct passages that have caretakers posted at each.
 
 | Sensation | Description |
 | ---- | --- |
@@ -28,16 +28,16 @@ From the outside the building looms large over [Astor Square](astor-square.md). 
 | Sounds | Birds, echoing footsteps. Few sounds of people. |
 | Smells | Incense and candle wax. |
 | People | Citizens dressed in robes, caretakers. One posted at each door. |
-| Intrigue | The most impressively built building in [Northhaven](../README.md), it is as huge as it is plain. The quality of the marble and geometry is striking. |
+| Intrigue | The most impressively built building in [Northhaven](../../cities/northhaven.md), it is as huge as it is plain. The quality of the marble and geometry is striking. |
 
 ### Interior
 
-The inside resembles the Pantheon in Rome in architecture. The entire interior is marbled, with white, grey, and red marble decorating the walls and floor. More pillars around the walls, particularly by the points of the diamond, help hold up the pyramid-shaped roof. A diamond-shaped glass peak to the roof shines light into the chamber, illuminating [Bhygar](../../../../../gods/gods/bhygar.md)'s shrine below.
+The inside resembles the Pantheon in Rome in architecture. The entire interior is marbled, with white, grey, and red marble decorating the walls and floor. More pillars around the walls, particularly by the points of the diamond, help hold up the pyramid-shaped roof. A diamond-shaped glass peak to the roof shines light into the chamber, illuminating [Bhygar](../../../gods/gods/bhygar.md)'s shrine below.
 
 | Sensation | Description |
 | ---- | --- |
 | Sights | Marble interior with pillars around the edges. Larger pillars at the points of the diamond. Stairs going up on the back left wall, down on the back right. Shrines to the gods in the corners and center. Vast open space in between. |
 | Sounds | Predominant silence. Loud echoing footsteps. Coughing. Occasional loud prayer. |
 | Smells | Incense, candles, cloth, the musk of aged books. |
-| People | Caretakers, worshippers. No [Astornox](../../../organisations/astornox/README.md), nobody with a weapon. |
+| People | Caretakers, worshippers. No [Astornox](../../../civilisations/kingdom-of-astor/organisations/astornox/README.md), nobody with a weapon. |
 | Intrigue | A delicately decorated interior but for the most part an empty chamber. The design is as minimalist as the shell of the building is grand. |

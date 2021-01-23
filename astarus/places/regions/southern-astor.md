@@ -4,18 +4,18 @@
 | --- | --- |
 | **Name** | Southern Astor |
 | **Type** | Region |
-| **Location** | South East Kardan<br />Kardan |
-| **Nearby Places** | Western Astor<br />Kas'ran Desert |
+| **Location** | [South East Kardan](south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
+| **Nearby Places** | [Western Astor](western-astor.md)<br />Kas'ran Desert |
 | **People** | |
 
 ## Summary
 
-Overshadowed by the Astor-Syntenne War, Southern Astor was a battleground until the armistice was signed. With the boundary between the Kingdom of Astor and the Syntenne Republic set at the River Yeat, Astor has expanded southwards, establishing new settlements and fortifications in case war resumes.
+Overshadowed by the Astor-Syntenne War, Southern Astor was a battleground until the armistice was signed. With the boundary between the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) and the [Syntenne Republic](../../civilisations/syntenne-republic/README.md) set at the River Yeat, Astor has expanded southwards, establishing new settlements and fortifications in case war resumes.
 
 ## Places
 
 - Cities:
-  - Yeatscale
+  - [Yeatscale](../cities/yeatscale.md)
 - Towns:
   - Blittergate
 - Villages:
@@ -29,14 +29,14 @@ Overshadowed by the Astor-Syntenne War, Southern Astor was a battleground until 
   - Fort Polbae
   - Fort Siloth
 - Roads:
-  - Great Astor Road
-  - Kas'ran Run
-  - Southern Fort Way
+  - [Great Astor Road](../roads/great-astor-road.md)
+  - [Kas'ran Run](../roads/kasran-run.md)
+  - [Southern Fort Way](../roads/southern-fort-way.md)
   - Western Reach
 - Forests:
-  - Great Sile Woods
+  - [Great Sile Woods](../forests/great-sile-woods.md)
 - Rivers / Lakes:
-  - Blittergate Lake
-  - Pinmore Water
-  - River Kasnar
-  - Wolmere
+  - [Blittergate Lake](../rivers-lakes/blittergate-lake.md)
+  - [Pinmore Water](../rivers-lakes/pinmore-water.md)
+  - [River Kasnar](../rivers-lakes/river-kasnar.md)
+  - [Wolmere](../rivers-lakes/wolmere.md)

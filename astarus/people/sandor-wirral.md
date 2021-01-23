@@ -16,7 +16,7 @@ Human male
 | **Relations** | [Clyde Wirral](clyde-wirral.md) (son) |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [S.Q. Wirral & Son](../civilisations/kingdom-of-astor/settlements/northhaven/places/sq-wirral-and-son.md) |
+| **Places** | [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md) |
 
 ## Summary
 
@@ -45,7 +45,7 @@ Sandor is a proud armoursmith, happy to sell the armour that the family produces
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [S.Q. Wirral & Son](../civilisations/kingdom-of-astor/settlements/northhaven/places/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) and Whisper of the Wind both bought armour from him.
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) and Whisper of the Wind both bought armour from him.
 
 ## Planning
 

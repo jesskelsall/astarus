@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Kardan |
 | **Type** | Continent |
-| **Location** | Astarus |
-| **Nearby Places** | Sea of Songs |
+| **Location** | [Astarus](../../README.md) |
+| **Nearby Places** | [Sea of Songs](../seas/sea-of-songs.md) |
 | **People** | |
 
 ## Summary
@@ -14,11 +14,11 @@ Kardan is the name given to the main continent on which all [Astarus](../../READ
 
 ## Places
 
-### [South East Kardan](south-east-kardan.md)
+### [South East Kardan](../regions/south-east-kardan.md)
 
 The south east of Kardan is a temperate region that lends itself well to farming, with snow-capped mountains to its north and dense forests typically at their base. Between here and the sea lie fertile plains that are kept wet by the 4 rivers coming off the mountains, and the rain that falls when the clouds hit the mountains.
 
-To its south west is the [Sea of Songs](../sea-of-songs.md), which contains the island of Kardanis.
+To its south west is the [Sea of Songs](../seas/sea-of-songs.md), which contains the island of [Kardanis](../regions/kardanis.md).
 
 The entire south east is controlled by the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md).
 

@@ -4,6 +4,6 @@
 | --- | --- |
 | **Name** | |
 | **Type** | Road |
-| **Location** | Kardanis |
-| **Nearby Places** | Baldrine<br />Karmox Trail<br />Port Soderick |
+| **Location** | [Kardanis](../regions/kardanis.md) |
+| **Nearby Places** | Baldrine<br />[Karmox Trail](karmox-trail.md)<br />Port Soderick |
 | **People** | |

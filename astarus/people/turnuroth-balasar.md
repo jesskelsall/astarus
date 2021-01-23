@@ -15,11 +15,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
+| **Places** | [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 
-Turnuroth Balasar is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) based out of the [Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md).
+Turnuroth Balasar is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) based out of the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
 
 ## Characteristics
 

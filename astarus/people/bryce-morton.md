@@ -21,9 +21,9 @@
 
 ## Summary
 
-Bryce Morton is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) working for the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). He provides missions to [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) and [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Bryce Morton is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) working for the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). He provides missions to [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) and [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
-He is a career [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), looking for promotion. Despite this his methods are very hands-off, preferring to let his squads get on with their missions alone, and getting irritated when his assistance is called upon. His preference would be to stay inside of the [Northhaven Astorrel stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md).
+He is a career [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), looking for promotion. Despite this his methods are very hands-off, preferring to let his squads get on with their missions alone, and getting irritated when his assistance is called upon. His preference would be to stay inside of the [Northhaven Astorrel stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
 
 He is a straightforward person with a military personality. He stands to attention and talks straightforwardly. In his quarters he can also be stern or pensive.
 
@@ -53,4 +53,4 @@ While a Squad Lead, his squad was called **Summit Squad**.
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party goes to [Bryce Morton's Office](../civilisations/kingdom-of-astor/settlements/northhaven/places/bryce-mortons-office.md) to meet their new superior officer. Under his direction, they become [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md), alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party goes to [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) to meet their new superior officer. Under his direction, they become [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md), alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

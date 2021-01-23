@@ -17,7 +17,7 @@
 
 ## Summary
 
-Gwinthel Greenhand is a potion brewer who is about to open their own shop on Crafter Course: "Glug by Gwinthel". They are running [Gwinthel's Potion Tombola](../civilisations/kingdom-of-astor/settlements/northhaven/events/gwinthels-potion-tombola.md) to advertise their soon to open business.
+Gwinthel Greenhand is a potion brewer who is about to open their own shop on Crafter Course: "Glug by Gwinthel". They are running [Gwinthel's Potion Tombola](../../campaigns/astorrel-agents/events/gwinthels-potion-tombola.md) to advertise their soon to open business.
 
 ## Characteristics
 
@@ -40,10 +40,10 @@ Gwinthel Greenhand is a potion brewer who is about to open their own shop on Cra
 
 ## History
 
-Gwinthel Greenhand has bought a store on [Crafters Course](../civilisations/kingdom-of-astor/settlements/northhaven/places/crafters-course.md) after the previous owner died. She is planning on opening an alchemical shop there, "Glug by Gwinthel".
+Gwinthel Greenhand has bought a store on [Crafters Course](../places/streets/crafters-course.md) after the previous owner died. She is planning on opening an alchemical shop there, "Glug by Gwinthel".
 
 ## Planning
 
 ### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
 
-On graduation day, following the graduation ceremony, Gwinthel can be found in [Astor Square](../civilisations/kingdom-of-astor/settlements/northhaven/places/astor-square.md) running her tombola. She does not return the following day, having sold all of her tickets.
+On graduation day, following the graduation ceremony, Gwinthel can be found in [Astor Square](../places/structures/astor-square.md) running her tombola. She does not return the following day, having sold all of her tickets.

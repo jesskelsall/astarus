@@ -13,11 +13,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [The Rose Buckler](../civilisations/kingdom-of-astor/settlements/northhaven/places/the-rose-buckler.md) |
+| **Places** | [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) |
 
 ## Summary
 
-Tydrus Tinshield is the owner and innkeeper of [The Rose Buckler](../civilisations/kingdom-of-astor/settlements/northhaven/places/the-rose-buckler.md) in [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md).
+Tydrus Tinshield is the owner and innkeeper of [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) in [Northhaven](../places/cities/northhaven.md).
 
 He is a jovial dwarf, happy to serve his customers and share in the revelry when his tavern is having a good time. Rarely unhappy, he speaks straight but in a charming way.
 

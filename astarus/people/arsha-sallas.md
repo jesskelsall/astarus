@@ -12,11 +12,11 @@
 | **Worship** | |
 | **Relations** | [Felina Sallas](felina-sallas.md) (wife)<br />[Ahsha Sallas](ahsha-sallas.md) (daughter) |
 | **Acquaintances** | |
-| **From** | [Mockerkin](../civilisations/kingdom-of-astor/settlements/mockerkin.md) |
+| **From** | [Mockerkin](../places/towns/mockerkin.md) |
 | **Places** | |
 
 ## Summary
 
-Arsha Sallas is [Ahsha Sallas](ahsha-sallas.md)' father. He lives in [Mockerkin](../civilisations/kingdom-of-astor/settlements/mockerkin.md) with his wife, [Felina Sallas](felina-sallas.md).
+Arsha Sallas is [Ahsha Sallas](ahsha-sallas.md)' father. He lives in [Mockerkin](../places/towns/mockerkin.md) with his wife, [Felina Sallas](felina-sallas.md).
 
 Prior to Ahsha's birth, he served in the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) before retiring. He served in the army during the end of the Astor-Syntenne War.

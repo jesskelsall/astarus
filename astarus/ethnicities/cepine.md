@@ -11,9 +11,9 @@
 
 The Cepine are an ethnic people native to the Albulain Valley. They are predominantly mountain shepherds that form permanent settlements.
 
-They worship the stars, a practice that predates [The Order of the Diamond](../../../gods/the-order-of-the-diamond.md).
+They worship the stars, a practice that predates [The Order of the Diamond](../gods/the-order-of-the-diamond.md).
 
-Their territory is within the borders of the Kingdom of Astor.
+Their territory is within the borders of the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md).
 
 ## Places
 
@@ -22,9 +22,9 @@ Their territory is within the borders of the Kingdom of Astor.
 
 ## People
 
-- [Adalie Seren](../../../people/adalie-seren.md)
+- [Adalie Seren](../people/adalie-seren.md)
 - Besar Seren
-- [Ephaine Seren](../../../people/ephaine-seren.md)
+- [Ephaine Seren](../people/ephaine-seren.md)
 - Irla Seren
-- [Schaef Seren](../../../people/schaef-seren.md)
-- [Tamman Seren](../../../people/tamman-seren.md)
+- [Schaef Seren](../people/schaef-seren.md)
+- [Tamman Seren](../people/tamman-seren.md)

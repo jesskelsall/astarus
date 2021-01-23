@@ -4,6 +4,6 @@
 | --- | --- |
 | **Name** | Northern Road |
 | **Type** | Road |
-| **Location** | Central Astor / Northern Astor |
-| **Nearby Places** | Beckermet<br />Dardenn Kingdom<br />Eaglesfield<br />Goldreach<br />Grasthwaite Bend<br />Great Astor Road<br />Humar Cut<br />Ire Trail |
+| **Location** | [Central Astor](../regions/central-astor.md) / [Northern Astor](../regions/northern-astor.md) |
+| **Nearby Places** | Beckermet<br />[Dardenn Kingdom](../../civilisations/dardenn-kingdom/README.md)<br />Eaglesfield<br />[Goldreach](../../civilisations/kingdom-of-astor/settlements/goldreach/README.md)<br />[Grasthwaite Bend](grasthwaite-bend.md)<br />[Great Astor Road](great-astor-road.md)<br />[Humar Cut](humar-cut.md)<br />[Ire Trail](ire-trail.md) |
 | **People** | |

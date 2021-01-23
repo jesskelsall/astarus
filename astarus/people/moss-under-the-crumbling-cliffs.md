@@ -15,11 +15,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) |
+| **Places** | [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) |
 
 ## Summary
 
-Moss Under the Crumbling Cliffs is the owner of the magic shop [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) in [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md).
+Moss Under the Crumbling Cliffs is the owner of the magic shop [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) in [Northhaven](../places/cities/northhaven.md).
 
 She is a confident, stern and mysterious woman that speaks evasively and condescendingly to those she doesn't know. Her instinct is to trust no-one, and so she judges harshly and watches carefully. She never leaves the counter while someone is in her store.
 
@@ -44,7 +44,7 @@ She is a confident, stern and mysterious woman that speaks evasively and condesc
 
 ## History
 
-Moss is secretly a member of the [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), tasked by the generals with running the [Friend of the Magicborn](../civilisations/kingdom-of-astor/settlements/northhaven/places/friend-of-the-magicborn.md) store. The purpose of the store is to provide a check on the magical items coming through [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) and in circulation in the kingdom as a whole.
+Moss is secretly a member of the [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), tasked by the generals with running the [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) store. The purpose of the store is to provide a check on the magical items coming through [Northhaven](../places/cities/northhaven.md) and in circulation in the kingdom as a whole.
 
 ## Planning
 

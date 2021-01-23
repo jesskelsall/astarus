@@ -4,15 +4,15 @@
 | --- | --- |
 | **Name** | Rhotrukk Wepons |
 | **Type** | Shop |
-| **Location** | [Crafters Course](crafters-course.md)<br />[Sunset District](sunset-district.md)<br />[Northhaven](../README.md) |
+| **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Everything Else](everything-else.md)<br />[Friend of the Magicborn](friend-of-the-magicborn.md)<br />[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br />[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Rhotrukk Bone Bleeder](../../../../../people/rhotrukk-bone-bleeder.md) |
+| **People** | [Rhotrukk Bone Bleeder](../../../people/rhotrukk-bone-bleeder.md) |
 
 ## Summary
 
-Rhotrukk Wepons (sic) is a weaponsmith on [Crafters Course](crafters-course.md) in the [Sunset District](sunset-district.md) of [Northhaven](../README.md).
+Rhotrukk Wepons (sic) is a weaponsmith on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md).
 
-It is ran by [Rhotrukk Bone Bleeder](../../../../../people/rhotrukk-bone-bleeder.md). He works all day churning out weapons as he pleases, and offers them for sale at whatever he considers a fair price at a glance.
+It is ran by [Rhotrukk Bone Bleeder](../../../people/rhotrukk-bone-bleeder.md). He works all day churning out weapons as he pleases, and offers them for sale at whatever he considers a fair price at a glance.
 
 On the outside, the sign is a large and long plank of wood that has been crudely painted with red paint and is misspelled. Nobody comments on it. There are small windows with iron bars on them.
 
@@ -45,6 +45,6 @@ Rhotrukk can also be requested to make a standard weapon on a DC 15 persuasion c
 
 ## Planning
 
-### [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../../campaigns/astorrel-agents/README.md)
 
 Rhotrukk is working away at his forge as usual, unaware or unbothered by the increasing interest in his wares today.

@@ -8,7 +8,7 @@
 | **Age** | 46 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Cepine](../civilisations/kingdom-of-astor/ethnicities/cepine.md) |
+| **Affiliation** | [Cepine](../ethnicities/cepine.md) |
 | **Worship** | |
 | **Relations** | [Schaef Seren](schaef-seren.md) (husband)<br />[Tamman Seren](tamman-seren.md) (son)<br />[Ephaine Seren](ephaine-seren.md) (daughter)<br />Besar Seren (son)<br />Irla Seren (daughter) |
 | **Acquaintances** | |

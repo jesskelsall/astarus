@@ -10,7 +10,7 @@
 
 [Wizira](../../../astarus/people/wizira.md) returns from a trip to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) to her house ([Wizira's House](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/wiziras-house.md)) to find her father ([Wizira](../../../astarus/people/wizira.md)'s Father) missing. Where has he gone?
 
-Having been captured by the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) for being a [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md), he is shipped to [Northhaven](../../../astarus/civilisations/kingdom-of-astor/settlements/northhaven/README.md) where he will be conscripted. It is up to the party to stop this and return him home.
+Having been captured by the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) for being a [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md), he is shipped to [Northhaven](../../../astarus/places/cities/northhaven.md) where he will be conscripted. It is up to the party to stop this and return him home.
 
 ## History
 

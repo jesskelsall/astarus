@@ -17,11 +17,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Zenith Spire](../civilisations/kingdom-of-astor/settlements/northhaven/places/zenith-spire.md)<br />[Northhaven Astorrel Stronghold](../civilisations/kingdom-of-astor/settlements/northhaven/places/northhaven-astorrel-stronghold.md) |
+| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br />[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 
 ## Summary
 
-Merkin Thorgus is the [Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) in charge of the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md).
+Merkin Thorgus is the [Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) in charge of the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md).
 
 He is an old man with a beard that really ought to have retired already, but nobody dares tell him. Still, he stubbornly continues on diligently with his duties.
 
@@ -42,7 +42,7 @@ He is an old man with a beard that really ought to have retired already, but nob
 | Quirks | Probably the oldest person you've ever seen. |
 | Knowledge | History, the natural world. Can struggle to recall knowledge. |
 | Values | Good conversation, a patient listener. |
-| Ambitions | Continue to lead the [Northhaven](../civilisations/kingdom-of-astor/settlements/northhaven/README.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) for as long as he can. |
+| Ambitions | Continue to lead the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) for as long as he can. |
 | Dislikes | Dishonesty, people who can't hold a conversation. |
 
 ## History

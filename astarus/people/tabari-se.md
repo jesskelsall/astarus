@@ -47,7 +47,7 @@ Tabari Se is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-asto
 
 ### Backstory
 
-Hailing from Selos, a city in the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/README.md), Tabari emigrated to Astor in search of new challenges and opponents to fight. After a year wandering [south east Kardan](../geography/kardan/south-east-kardan.md), he applied to join the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) so that he could see more of what the area has to offer. He is particularly interested in the prospect of encountering unknown threats. If he is not sufficiently challenged, he'll gladly leave the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) when his service is up.
+Hailing from Selos, a city in the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/README.md), Tabari emigrated to Astor in search of new challenges and opponents to fight. After a year wandering [south east Kardan](../places/regions/south-east-kardan.md), he applied to join the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) so that he could see more of what the area has to offer. He is particularly interested in the prospect of encountering unknown threats. If he is not sufficiently challenged, he'll gladly leave the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) when his service is up.
 
 Tabari has been mute from a young age. Fortunately he's not big on communication. When he needs to get his point across and fighting won't do, he's able to communicate using the Message cantrip. He only uses this as a last resort though.
 
@@ -59,4 +59,4 @@ Tabari has been mute from a young age. Fortunately he's not big on communication
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Tabari in [Bryce Morton's Office](../civilisations/kingdom-of-astor/settlements/northhaven/places/bryce-mortons-office.md) when he was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.
+The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Tabari in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.

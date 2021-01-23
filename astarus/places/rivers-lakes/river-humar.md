@@ -4,6 +4,6 @@
 | --- | --- |
 | **Name** | River Humar |
 | **Type** | River |
-| **Location** | Central Astor / Northern Astor |
-| **Nearby Places** | Beckermet<br />Duskmere<br />Fort Knowe<br />Foss Peaks<br />Frizthwaite<br />Great Astor Road<br />Hawksglass<br />Hawkswood<br />Howbridge<br />Humar Cut<br />Humar Estuary<br />Humouth<br />Ire Trail<br />Ire Water<br />Iredale<br />Iremara<br />Northhaven<br />Sea of Songs<br />Ulburn |
+| **Location** | [Central Astor](../regions/central-astor.md) / [Northern Astor](../regions/northern-astor.md) |
+| **Nearby Places** | Beckermet<br />[Duskmere](duskmere.md)<br />Fort Knowe<br />[Foss Peaks](../mountains/foss-peaks.md)<br />Frizthwaite<br />[Great Astor Road](../roads/great-astor-road.md)<br />Hawksglass<br />[Hawkswood](../forests/hawkswood.md)<br />Howbridge<br />[Humar Cut](../roads/humar-cut.md)<br />Humar Estuary<br />Humouth<br />[Ire Trail](../roads/ire-trail.md)<br />[Ire Water](ire-water.md)<br />Iredale<br />[Iremara](../mountains/iremara.md)<br />[Northhaven](../cities/northhaven.md)<br />[Sea of Songs](../seas/sea-of-songs.md)<br />Ulburn |
 | **People** | |

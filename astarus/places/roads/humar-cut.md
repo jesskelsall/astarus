@@ -4,6 +4,6 @@
 | --- | --- |
 | **Name** | Humar Cut |
 | **Type** | Road |
-| **Location** | Central Astor / Northern Astor |
-| **Nearby Places** | Beckermet<br />Fort Eldrick<br />Great Astor Road<br />Howbridge<br />Northern Road<br />River Humar |
+| **Location** | [Central Astor](../regions/central-astor.md) / [Northern Astor](../regions/northern-astor.md) |
+| **Nearby Places** | Beckermet<br />Fort Eldrick<br />[Great Astor Road](great-astor-road.md)<br />Howbridge<br />[Northern Road](northern-road.md)<br />[River Humar](../rivers-lakes/river-humar.md) |
 | **People** | |

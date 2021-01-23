@@ -14,7 +14,7 @@ They bring the greater and lesser races to [Astarus](../README.md) (from unknown
 
 #### 0 PA
 
-The [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) establishes itself, ruling over south eastern [Kardan](../geography/kardan/README.md).
+The [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) establishes itself, ruling over south eastern [Kardan](../places/continents/kardan.md).
 
 #### 38 PA
 

@@ -23,7 +23,7 @@ Shout on the Breeze is the father of [Whisper on the Breeze](whisper-on-the-bree
 
 ## History
 
-Once Clan on the Breeze emigrated from the [Syntenne Republic](../civilisations/syntenne-republic/README.md) to the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md), the clan spent some time in the under construction city of Yeatscale. It was here that Shout joined the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) and abandoned his clan. As a result of this, the clan skipped town, heading further north along the Great Astor Road to Hyceodd.
+Once Clan on the Breeze emigrated from the [Syntenne Republic](../civilisations/syntenne-republic/README.md) to the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md), the clan spent some time in the under construction city of [Yeatscale](../places/cities/yeatscale.md). It was here that Shout joined the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md) and abandoned his clan. As a result of this, the clan skipped town, heading further north along the [Great Astor Road](../places/roads/great-astor-road.md) to Hyceodd.
 
 ## Planning
 

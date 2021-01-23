@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Kirrel Hall |
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](northhaven-astorrel-stronghold.md)<br />[Sunset District](sunset-district.md)<br />[Northhaven](../README.md) |
-| **Nearby Places** | [Auric Rise](auric-rise.md)<br />[The Mission's End](the-missions-end.md)<br />[Zenith Spire](zenith-spire.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br />[Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
+| **Nearby Places** | [Auric Rise](auric-rise.md)<br />[The Mission's End](inns-taverns/the-missions-end.md)<br />[Zenith Spire](zenith-spire.md) |
 | **People** | |
 
 ## Summary
 
-Kirrel Hall is a banquet hall in the [Northhaven Astorrel Stronghold](northhaven-astorrel-stronghold.md) in [Northhaven](../README.md).
+Kirrel Hall is a banquet hall in the [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) in [Northhaven](../cities/northhaven.md).
 
 It is a general meeting place used for ceremonies, hosting distinguished guests, feasts and celebrations, and general socialising. In the summer months it sees little use outside of ceremonies and festivals, but in the winter months it is transformed into a warm communal gathering place.
 
@@ -23,13 +23,13 @@ The entrance is on its side near the end. When entering, the room opens out to t
 | Sights | Stone church-like exterior with stained glass windows, sloped roof, and decorative embellishments. Inside is decorated in white marble. Large pillars run the length of the hall, holding the vaulted roof up. Polished stone floor. Marble decoration. |
 | Sounds | Echoing footsteps. |
 | Smells | Candle wax, dust. |
-| People | [Astorrel Members](../../../organisations/astorrel/ranks/1-member.md) preparing the hall for its next use, or cleaning up. |
-| Intrigue | The hall shows a strong sense of community within the [Astorrel](../../../organisations/astorrel/README.md), and almost appears to be a form of self-worship. |
+| People | [Astorrel Members](../../civilisations/kingdom-of-astor/organisations/astorrel/ranks/1-member.md) preparing the hall for its next use, or cleaning up. |
+| Intrigue | The hall shows a strong sense of community within the [Astorrel](../../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and almost appears to be a form of self-worship. |
 
 ## History
 
 ## Planning
 
-### [Astorrel Agents](../../../../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/README.md)
 
-The building is closed while the graduation setup is torn down. It remains closed for the rest of the party's time in [Northhaven](../README.md) before setting off on their first mission.
+The building is closed while the graduation setup is torn down. It remains closed for the rest of the party's time in [Northhaven](../cities/northhaven.md) before setting off on their first mission.
