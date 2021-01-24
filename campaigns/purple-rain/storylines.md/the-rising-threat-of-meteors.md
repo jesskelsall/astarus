@@ -27,3 +27,15 @@ Wrenn intends to find the meteorite and return it to [Northhaven](../../../astar
 ### [PR1](../sessions.md/1.md)
 
 [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) meets the [Purple Rain](../README.md) party, offering them up to 50 gp if they are able to bring him evidence of the meteorite - ideally the meteorite itself.
+
+### [PR6](../sessions.md/6.md)
+
+In [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md), the party discover that half of the wolf pack had been slaughtered by something deeper within, a forboding omen.
+
+Delving deeper into the cave, they find the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, emitting bright white light, and a Meteoric Watcher, searching through the bodies of its victims. When the party is in the line of sight of the meteorite, it turns purple, alerting the watcher to their presence.
+
+### [PR7](../sessions.md/7.md)
+
+The party fights two Meteoric Watchers who are seemingly protecting the meteorite, though in reality they are testing the party's combat prowess like those that came before.
+
+Their grey formless face and body, with its weird 6 limb arrangement is foreign to the party. They are a force to be reckoned with, but eventually the party dispatches them, turning them to grey dust with their final blows.

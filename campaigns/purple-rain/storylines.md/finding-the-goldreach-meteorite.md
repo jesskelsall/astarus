@@ -35,3 +35,33 @@ He tells them what he has found out so far - that it appeared to come down to th
 The party begins searching the plains and farmland north west of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) ([Goldreach North West Plains](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-north-west-plains.md)) in search of the meteor.
 
 At [Nightcrest Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/nightcrest-farm.md), Arneg Tanagark recounts being woken up in the night by the thud of the meteor hitting the ground, but he has no idea from which direction the sound came.
+
+### [PR5](../sessions.md/5.md)
+
+Heading further north west from [Nightcrest Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/nightcrest-farm.md), the party investigates [Ray Lake](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/ray-lake.md) for any signs that the meteor may have landed there. They catch the attention of Nelson Cadash and Beltari Yoradoris who are fishing on the lake. They inform the party that they believe the meteor crash landed north of their settlement on the other side of the lake. Additionally, one of their own, Jacob, went in search of the meteorite several days ago and hasn't returned since.
+
+Asking for more information at the settlement, the settlers corroborated this story. Jacob left the night after the meteor fell, determined to find it himself despite his father forbidding him to do so.
+
+Traveling onwards, the party came to [Hurley Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hurley-farm.md). Janus Hurley tells the party that he was awake that night due to his dog Patch barking at what he presumes was wolves. He recalls the sound of the meteor impacting north west of his farm, and that it sounded close.
+
+### [PR6](../sessions.md/6.md)
+
+The party followed the wolf tracks into [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md), finding numerous slaughtered wolves. They followed the cave deeper, looking for a sign of what may have killed them, fearing the presence of a greater danger.
+
+In the cave's largest chamber the party came face to face with a Meteoric Watcher for the first time. It was investigating bodies near to the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, which was glowing a bright white. As it sighted the party, it shifted quickly to a purple glow, alerting the watcher to their presence.
+
+### [PR7](../sessions.md/7.md)
+
+In [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md), the party fought two of the three Meteoric Watchers present, while the third stayed hidden on the ceiling, watching them.
+
+During the fight, [Saoirse](../../../astarus/people/saoirse.md) jumped onto the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite to cover its purple glow. She was rendered unconscious, while the meteorite immediately stopped glowing, fading to a dull grey.
+
+The watchers tried a variety of strategies against the party, seeing how they would react to their blink ability, one person ([Thanea](../../../astarus/people/thanea.md)) being focused, blink-in ambushes, and ranged combat in rough terrain.
+
+Ultimately the party destroyed both watchers while the third silently fled the chamber through the hole in the roof. [Saoirse](../../../astarus/people/saoirse.md) inspects the meteorite, seeing it is cracked, and pockets some of the Meteoric Dust contained within.
+
+### [PR8](../sessions.md/8.md)
+
+[Thanea](../../../astarus/people/thanea.md) clumsily scoops up some of the Meteoric Dust mixed in with the meteor crater gravel. [Saoirse](../../../astarus/people/saoirse.md) keeps hold of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, wrapping it in a cloth and attaching it to the side of her belt.
+
+The party begins to make their way out of [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md) and back towards [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) with the intention of reporting back to [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) with their findings.

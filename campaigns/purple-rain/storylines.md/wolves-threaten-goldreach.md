@@ -4,7 +4,7 @@
 | --- | --- |
 | Campaign(s) | [Purple Rain](../README.md) |
 | Session Started | [PR2](../sessions.md/2.md) |
-| Session Ended | [PR3](../sessions.md/3.md) |
+| Session Ended | [PR8](../sessions.md/8.md) |
 
 ## Summary
 
@@ -35,3 +35,21 @@ The wolf back descends upon the north western edge of [Goldreach](../../../astar
 The [Purple Rain](../README.md) party, arriving from behind, fights and kills the wolves near the inn, while down the street [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) and his morning patrol of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) engage the dire wolf and her guard, killing them all.
 
 This puts an end to the wolves threatening [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md).
+
+### [PR4](../sessions.md/4.md)
+
+Heading north west out of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) in search of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, the party soon find wolf tracks, with some blood spots amongst the dirt and grass. They track this north towards [Nightcrest Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/nightcrest-farm.md) before choosing to check at the farm for information about the meteorite.
+
+### [PR5](../sessions.md/5.md)
+
+The party fights with several wolves on their way to [Ray Lake](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/ray-lake.md). They emerge from the nearby forest line. These are stragglers that didn't follow the rest of the pack into [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md).
+
+### [PR6](../sessions.md/6.md)
+
+The party finds [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md) by following the increasingly prominent tracks that the wolf pack left as it exited the cave and the forest. Copious blood around and inside the cave where the wolves were living suggested that something attacked them viciously, slaughtering many of them where they lived, while the rest fled in terror.
+
+The party correctly deduce that the wolves that fled were the ones that attacked [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md).
+
+### [PR8](../sessions.md/8.md)
+
+The party puts together the final piece of the puzzle: the wolves in [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md) were killed by the Meteoric Watchers following the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite's crash landing, and their subsequent hatching. The attack was brutal and devastating, forcing the rest out of the cave in a panic.
