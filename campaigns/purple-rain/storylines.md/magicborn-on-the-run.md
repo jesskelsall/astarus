@@ -35,3 +35,17 @@ The commander, unfazed by [Wizira](../../../astarus/people/wizira.md)'s firbolg 
 While crossing the bridge south of [Nightcrest Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/nightcrest-farm.md), two meteor adventurers hired by [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) ask the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) commander where [Hurley Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hurley-farm.md) is. The guard is courteous and points them up the road. While this happens, Wrenn's crow familiar swoops down and begins pecking and scratching his face.
 
 The adventurers circle back, one drop-kicking the commander while the other warns the party that Wrenn is in danger, they must get back to him, and not to get caught.
+
+### PR9
+
+As the party make their way through the streets of Goldreach, Wrenn Piznarck continues to summon and dismiss Dancing Lights to distract the guards while he moves.
+
+Wizira, disguised as an Astornox Guard, comes across other Astornox who are searching for him, heading towards the Goldreach Marketplace. It is clear that lots of guards are searching for him in a coordinated way.
+
+Wrenn talks to Wizira using Message, explaining that things are not going to plan, and asking the party to meet him in the Heather & Horticulture secret garden, which they do.
+
+Here, Wrenn and Heather explain that Wrenn managed to find out about Wizira's Father being captured by the Astornox, but in doing so was caught. Now they need to leave town, or as Wrenn alludes to, he will likely end up dead.
+
+With a need to flee, Wrenn suggests that they can find sanctuary at either the Northhaven Astorrel Stronghold (having revealed he is Astorrel, not Astornox), or at the Goldreach Temple. Either would be temporary fixes. The party chooses the former.
+
+While leaving the shop, Wizira, still disguised, gets roped into the search effort by another group of guards and their Astornox Commander, while the rest of the party prepares to skip town.

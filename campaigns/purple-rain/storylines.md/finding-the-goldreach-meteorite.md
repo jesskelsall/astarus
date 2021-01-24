@@ -65,3 +65,11 @@ Ultimately the party destroyed both watchers while the third silently fled the c
 [Thanea](../../../astarus/people/thanea.md) clumsily scoops up some of the Meteoric Dust mixed in with the meteor crater gravel. [Saoirse](../../../astarus/people/saoirse.md) keeps hold of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, wrapping it in a cloth and attaching it to the side of her belt.
 
 The party begins to make their way out of [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md) and back towards [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) with the intention of reporting back to [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) with their findings.
+
+### PR9
+
+After finding Wrenn Piznarck in the Heather & Horticulture secret garden, there is a brief moment amongst the panic where Wrenn asks what the party found out about the Goldreach Meteor.
+
+Saoirse shows Wrenn the Meteoric Dust that she collected. Wrenn is excited to see it and attempts to taste a small amount of it, but Saoirse stops him, explaining that it had previously been glowing purple.
+
+Torbra and Wizira talk briefly of a grey dog-like creature with blade arms that they defeated, to which Wrenn congratulates them, but while also trying to hide the colour draining wave of shock that overtakes him.

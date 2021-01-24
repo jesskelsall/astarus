@@ -41,3 +41,11 @@ Returning to [Heather & Horticulture](../../../astarus/civilisations/kingdom-of-
 [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md), fearing that [Wizira](../../../astarus/people/wizira.md)'s Father may have been captured by the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md), goes to the [Goldreach Astornox Stronghold](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) to search for evidence to support his theory.
 
 Before being caught, he finds records indicating that a firbolg was captured around the time that the meteor fell. He was shipped off for conscription on a cart headed for [Northhaven](../../../astarus/places/cities/northhaven.md).
+
+### PR9
+
+After meeting Wrenn Piznarck in Heather & Horticulture's secret garden, Wrenn informs Wizira the sad news that her father was captured by the Astornox on the day of his disappearance. Heather Pentz explains that he is a suspected magicborn, and is being shipped off to Northhaven for conscription. He left on a cart with others yesterday.
+
+Wizira laments that if the cart reaches the gates of Northhaven, her father will likely be lost to her forever. She encourages the party to travel to Northhaven, where serendipitously they are able to seek sanctuary at the Northhaven Astorrel Stronghold.
+
+They begin their efforts to leave Goldreach for Northhaven.
