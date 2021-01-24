@@ -42,10 +42,14 @@ Returning to [Heather & Horticulture](../../../astarus/civilisations/kingdom-of-
 
 Before being caught, he finds records indicating that a firbolg was captured around the time that the meteor fell. He was shipped off for conscription on a cart headed for [Northhaven](../../../astarus/places/cities/northhaven.md).
 
-### PR9
+### [PR9](../sessions.md/9.md)
 
-After meeting Wrenn Piznarck in Heather & Horticulture's secret garden, Wrenn informs Wizira the sad news that her father was captured by the Astornox on the day of his disappearance. Heather Pentz explains that he is a suspected magicborn, and is being shipped off to Northhaven for conscription. He left on a cart with others yesterday.
+After meeting [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) in [Heather & Horticulture](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/heather-and-horticulture.md)'s secret garden, Wrenn informs [Wizira](../../../astarus/people/wizira.md) the sad news that her father was captured by the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) on the day of his disappearance. Heather Pentz explains that he is a suspected [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md), and is being shipped off to [Northhaven](../../../astarus/places/cities/northhaven.md) for conscription. He left on a cart with others yesterday.
 
-Wizira laments that if the cart reaches the gates of Northhaven, her father will likely be lost to her forever. She encourages the party to travel to Northhaven, where serendipitously they are able to seek sanctuary at the Northhaven Astorrel Stronghold.
+[Wizira](../../../astarus/people/wizira.md) laments that if the cart reaches the gates of [Northhaven](../../../astarus/places/cities/northhaven.md), her father will likely be lost to her forever. She encourages the party to travel to [Northhaven](../../../astarus/places/cities/northhaven.md), where serendipitously they are able to seek sanctuary at the [Northhaven Astorrel Stronghold](../../../astarus/places/strongholds/northhaven-astorrel-stronghold.md).
 
-They begin their efforts to leave Goldreach for Northhaven.
+They begin their efforts to leave [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) for [Northhaven](../../../astarus/places/cities/northhaven.md).
+
+### [PR10](../sessions.md/10.md)
+
+The party leaves [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) for [Northhaven](../../../astarus/places/cities/northhaven.md), where [Wizira](../../../astarus/people/wizira.md)'s Father is being taken.

@@ -17,7 +17,7 @@ All four characters are present in [Goldreach](../../../astarus/civilisations/ki
 | Character | Reason |
 | --- | --- |
 | [Saoirse](../../../astarus/people/saoirse.md) | Came in search of the meteor after hearing about it. |
-| [Thanea](../../../astarus/people/thanea.md) | Her Deva dream showed a meteor over [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md). |
+| [Thanea](../../../astarus/people/thanea.md) | Her deva dream showed a meteor over [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md). |
 | [Torbra](../../../astarus/people/torbra.md) | Heading to the closest city to seek answers about their unknown race (Genasi). |
 | [Wizira](../../../astarus/people/wizira.md) | Searching for her missing father. |
 
