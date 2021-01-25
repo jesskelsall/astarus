@@ -69,3 +69,13 @@ Now clear of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlem
 [Torbra](../../../astarus/people/torbra.md) suggests that the party makes their way to Frizthwaite before either traveling down the [River Humar](../../../astarus/places/rivers-lakes/river-humar.md), or along the [Humar Cut](../../../astarus/places/roads/humar-cut.md), keeping off the [Northern Road](../../../astarus/places/roads/northern-road.md).
 
 Near the beginning of Grasthwaite Cut, the party sees 2 [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) on horseback riding towards them.
+
+### [PR11](../sessions.md/11.md)
+
+The party pass 2 [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) on horseback without any incident. The guards had no idea of their notoriety and passed by completely unaware.
+
+[Torbra](../../../astarus/people/torbra.md) took the horse and cart off road in the direction of Frizthwaite to the south west. Stopping for a food break and to discuss their plan of action, the whole party agreed that they should take a less traveled route, first heading to Frizthwaite and then either down the [River Humar](../../../astarus/places/rivers-lakes/river-humar.md) or along the [Humar Cut](../../../astarus/places/roads/humar-cut.md).
+
+[Torbra](../../../astarus/people/torbra.md) finally got a chance to sleep while [Wizira](../../../astarus/people/wizira.md) rode the horse and cart. This meant that everyone has had a long rest since leaving [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md).
+
+With Frizthwaite in view on the horizon, 3 horses each with 2 riders approached from behind. Neither [Thanea](../../../astarus/people/thanea.md) who spotted them or [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) who used his crow familiar to observe them could tell if they are [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) or not.

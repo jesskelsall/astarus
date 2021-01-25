@@ -46,6 +46,12 @@ The watcher recoils at the sight of them before lunging at her. [Saoirse](../../
 
 The dream ends. [Saoirse](../../../astarus/people/saoirse.md) rests peacefully and feels a positive energy upon waking.
 
+### [PR11](../sessions.md/11.md)
+
+[Saoirse](../../../astarus/people/saoirse.md) is distant at various times, contemplating the dream the night before. At one point when they need to keep moving, [Torbra](../../../astarus/people/torbra.md) attempts to lift her up so she can be placed back into the cart, but resists, snapping back to her senses. She chastises [Torbra](../../../astarus/people/torbra.md) for trying something so drastic.
+
+Later, [Thanea](../../../astarus/people/thanea.md) reads [Saoirse](../../../astarus/people/saoirse.md)'s thoughts using the Detect Thoughts spell. She hears [Saoirse](../../../astarus/people/saoirse.md) lamenting her dream.
+
 ## Planning
 
 [Saoirse](../../../astarus/people/saoirse.md) will continue having deva dreams depicting altered past events that she has already experienced, with Mykiel present. He will test her devotion and resolve. If she pleases him, he will continue to help her.

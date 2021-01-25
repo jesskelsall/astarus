@@ -73,3 +73,22 @@ After finding [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) in the
 [Saoirse](../../../astarus/people/saoirse.md) shows Wrenn the Meteoric Dust that she collected. Wrenn is excited to see it and attempts to taste a small amount of it, but [Saoirse](../../../astarus/people/saoirse.md) stops him, explaining that it had previously been glowing purple.
 
 [Torbra](../../../astarus/people/torbra.md) and [Wizira](../../../astarus/people/wizira.md) talk briefly of a grey dog-like creature with blade arms that they defeated, to which Wrenn congratulates them, but while also trying to hide the colour draining wave of shock that overtakes him.
+
+### [PR11](../sessions.md/11.md)
+
+While on the run from [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), the party gets a chance to tell [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) of the ordeals they faced in the [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md). They tell him more or less everything:
+
+- Meteorite
+  - Found in a crater inside a cave.
+  - Glowed white until they saw it directly, then purple.
+  - [Saoirse](../../../astarus/people/saoirse.md) passed out and it stopped glowing when she threw herself on top of it.
+  - Cracked, with Meteoric Dust inside, which [Saoirse](../../../astarus/people/saoirse.md) collected.
+- Meteoric Watchers
+  - Grey, dog-like creatures with blade arms.
+  - Could teleport.
+  - Likely that they fought 2.
+  - Collapsed into Meteoric Dust when killed.
+    - [Saoirse](../../../astarus/people/saoirse.md)'s Eldritch Blast.
+    - [Torbra](../../../astarus/people/torbra.md)'s halberd swing. Scraping sound, dulled the blade.
+
+[Saoirse](../../../astarus/people/saoirse.md) shows Wrenn the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite. He declares it an excellent specimen, the finest he's seen, and commends them for their work. He tries to take it from [Saoirse](../../../astarus/people/saoirse.md) but she is reluctant to give it up. Wrenn tells her that he'll give it back to her once he's examined it first hand, and does.

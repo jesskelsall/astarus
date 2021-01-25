@@ -33,3 +33,11 @@ The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [findin
 ### [PR10](../sessions.md/10.md)
 
 After leaving [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) by horse and cart, [Thanea](../../../astarus/people/thanea.md) laments at how her prophetic dreams always end with her in trouble.
+
+### [PR11](../sessions.md/11.md)
+
+[Saoirse](../../../astarus/people/saoirse.md) remarks that [Thanea](../../../astarus/people/thanea.md) is supposed to be "the crazy one" due to her dreams.
+
+[Thanea](../../../astarus/people/thanea.md) tells [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) that her prophetic dream of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite helped lead the party to its location in [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md). She asks Wrenn if he is aware of anyone else that has such dreams, but he is not.
+
+He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they are in has passed, he would like to introduce her to someone that has visions of the future, though they have them while awake. He references an old word for the phenomenon: seer.

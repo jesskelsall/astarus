@@ -39,3 +39,13 @@ Delving deeper into the cave, they find the [Goldreach](../../../astarus/civilis
 The party fights two Meteoric Watchers who are seemingly protecting the meteorite, though in reality they are testing the party's combat prowess like those that came before.
 
 Their grey formless face and body, with its weird 6 limb arrangement is foreign to the party. They are a force to be reckoned with, but eventually the party dispatches them, turning them to grey dust with their final blows.
+
+### [PR11](../sessions.md/11.md)
+
+While examining the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor and hearing the party's stories of how they triumphed in the [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md), [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) uses language such as "I've never seen a specimen like this", alluding to other meteors. [Thanea](../../../astarus/people/thanea.md) attempts to question him on this, but Wrenn diverts the conversation, pressing them for further details instead.
+
+When [Wizira](../../../astarus/people/wizira.md) asks Wrenn if it would be possible to join the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) due to the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite find, Wrenn starts a sentence about his colleagues in the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) and the work they are doing to learn about the Meteoric Threat, he stops himself before he can reveal anything, telling the group that he can't say anymore. He falls silent, ending the conversation immediately.
+
+In reaction to this, [Thanea](../../../astarus/people/thanea.md) casts Detect Thoughts to read Wrenn's current thoughts. She learns that he is conflicted - [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md) needs help with their work, but he fears how Tyburn Dalvos and Elysia Vanderboss would react if he involved others without their consent.
+
+This provides [Thanea](../../../astarus/people/thanea.md) with a cryptic window into why Wrenn was interested in the meteorite in the first place. She chooses not to react and keeps the information to herself.
