@@ -19,7 +19,7 @@
 
 ## Summary
 
-Ludolf Hornwallis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) working for the [Dunmore](../places/cities/dunmore.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). He is a mentor in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme, tasked with training recruits and teaching them various useful skills.
+Ludolf Hornwallis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) working for the [Dunmore](../places/cities/dunmore.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). He is a mentor in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) recruitment programme, tasked with training recruits and teaching them various useful skills.
 
 He was the mentor of [Ephaine Seren](ephaine-seren.md).
 
@@ -30,7 +30,7 @@ He was the mentor of [Ephaine Seren](ephaine-seren.md).
 | Face | Furrowed brow, forehead wrinkles. Amber eyes. |
 | Hair | Receding hairline. Dark brown short cut hair, thin scraggly moustache. |
 | Body | 5'9". Thin. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) officer's uniform. |
+| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) officer's uniform. |
 | Mannerisms | Perpetually distant. Little eye contact. |
 
 | Personality | Description |

@@ -8,13 +8,13 @@
 
 ## Summary
 
-Every year the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) graduate a cohort of new members in [Northhaven](../../../astarus/places/cities/northhaven.md). In the year 312 PA, the [Astorrel Agents](../README.md) party graduate as [Astorrel Squad Hands](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md), and are assigned to [Canary Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) together.
+Every year the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) graduate a cohort of new members in [Northhaven](../../../astarus/places/cities/northhaven.md). In the year 312 PA, the [Astorrel Agents](../README.md) party graduate as [Astorrel Squad Hands](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md), and are assigned to [Canary Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) together.
 
 ## History
 
 ### Traveling to Graduation
 
-The graduates-to-be all made their way from [Dunmore](../../../astarus/places/cities/dunmore.md) (where the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) training programme is based) to [Northhaven](../../../astarus/places/cities/northhaven.md) over 8 days. They all traveled separately and arrived at different times.
+The graduates-to-be all made their way from [Dunmore](../../../astarus/places/cities/dunmore.md) (where the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) training programme is based) to [Northhaven](../../../astarus/places/cities/northhaven.md) over 8 days. They all traveled separately and arrived at different times.
 
 Prior to graduation day, the graduates were laid up in [The Mission's End](../../../astarus/places/buildings/inns-taverns/the-missions-end.md), unable to leave. They stayed here socialising, eating and drinking, while waiting for graduation.
 
@@ -24,7 +24,7 @@ The graduates assembled with the rest of their graduate cohort of 100 in [Kirrel
 
 [Merkin Thorgus](../../../astarus/people/merkin-thorgus.md), as [Astorrel Captain](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) of [Northhaven](../../../astarus/places/cities/northhaven.md), welcomed everyone to the city.
 
-[Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) delivered the graduation ceremony speech in which they waxed lyrical about the ideals of the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md).
+[Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) delivered the graduation ceremony speech in which they waxed lyrical about the ideals of the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md).
 
 ### Graduation Pledge
 
@@ -63,7 +63,7 @@ Once on stage, [Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) a
 
 #### Exceptional Trainee Bonus
 
-The top 5 graduates received an extra 10 pp in their graduation purse. They had been identified by the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) training programme (through the [Dunmore](../../../astarus/places/cities/dunmore.md) mentors) as having exceptional potential.
+The top 5 graduates received an extra 10 pp in their graduation purse. They had been identified by the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) training programme (through the [Dunmore](../../../astarus/places/cities/dunmore.md) mentors) as having exceptional potential.
 
 This extra coin was added to their purse without fanfare, making it unclear why it was there. The recipients would become aware of this bonus through their superior officer.
 
@@ -71,7 +71,7 @@ This extra coin was added to their purse without fanfare, making it unclear why 
 
 Once the graduate presentation ended, the graduates made their way to the opposite end of [Kirrel Hall](../../../astarus/places/buildings/kirrel-hall.md) to read from a board who their new superior officer is.
 
-Graduates were assigned to the three [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) strongholds in [Northhaven](../../../astarus/places/cities/northhaven.md), [Eskrigg](../../../astarus/places/cities/eskrigg.md), and [Dunmore](../../../astarus/places/cities/dunmore.md).
+Graduates were assigned to the three [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) strongholds in [Northhaven](../../../astarus/places/cities/northhaven.md), [Eskrigg](../../../astarus/places/cities/eskrigg.md), and [Dunmore](../../../astarus/places/cities/dunmore.md).
 
 Those assigned to superior officers in [Northhaven](../../../astarus/places/cities/northhaven.md) were expected to meet with them immediately.
 

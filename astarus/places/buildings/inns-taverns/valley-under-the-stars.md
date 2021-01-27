@@ -14,14 +14,14 @@ The Valley Under the Stars is an inn in the [Sunset District](../../districts/su
 
 It follows the building style of the [Sunset District](../../districts/sunset-district.md), with a marble exterior and interior elements, with cushioned seating. The ground floor is divided into a bar with seating, and a restaurant where food is served. Greater attention is paid to customers needs here.
 
-Due to its upmarket nature, as well as the owner and staff being retired [Astorrel](../../../civilisations/kingdom-of-astor/organisations/astorrel/README.md), it is popular with the organisation. [Astorrel](../../../civilisations/kingdom-of-astor/organisations/astorrel/README.md) with the disposable income and a wish for a more pleasant stay frequent here when back from missions, or when visiting [Northhaven](../../cities/northhaven.md) from a different [Astorrel](../../../civilisations/kingdom-of-astor/organisations/astorrel/README.md) stronghold.
+Due to its upmarket nature, as well as the owner and staff being retired [Astorrel](../../../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), it is popular with the organisation. [Astorrel](../../../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) with the disposable income and a wish for a more pleasant stay frequent here when back from missions, or when visiting [Northhaven](../../cities/northhaven.md) from a different [Astorrel](../../../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) stronghold.
 
 | Sensation | Description |
 | ---- | --- |
 | Sights | Usual marble and polished stone exterior with detailed relief shiny metal swinging sign. Inside is similarly decorated. Open fire, carpet, cushioned chairs, fine wooden tables. Bar with seating area, separate restaurant with dining tables. Decorative plants.  |
 | Sounds | Respectful chatter. Clinking of crockery and utensils. |
 | Smells | Cooked meat, candle wax, wine and ale. Flowers. |
-| People | [Astorrel](../../../civilisations/kingdom-of-astor/organisations/astorrel/README.md) citizens, other well to do citizens. |
+| People | [Astorrel](../../../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) citizens, other well to do citizens. |
 | Intrigue | More upmarket inn but affordable, this is a much nicer place to spend your evenings in the city. |
 
 ## Vendor

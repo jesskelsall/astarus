@@ -21,7 +21,7 @@
 
 ## Summary
 
-Merkin Thorgus is the [Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) in charge of the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md).
+Merkin Thorgus is the [Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) in charge of the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md).
 
 He is an old man with a beard that really ought to have retired already, but nobody dares tell him. Still, he stubbornly continues on diligently with his duties.
 
@@ -32,7 +32,7 @@ He is an old man with a beard that really ought to have retired already, but nob
 | Face | Countless wrinkles, sagging eye bags, sunken blue eyes. |
 | Hair | Long and grey knotted at its end. Receding hairline. |
 | Body | 5'10". Withered and frail. Bad posture. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) ceremonial, mostly due to weight and comfort. Gold coloured edges instead of black. |
+| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) ceremonial, mostly due to weight and comfort. Gold coloured edges instead of black. |
 | Equipment | Large wooden staff that doubles as a walking stick. |
 | Mannerisms | Slow and purposeful. Understated. |
 
@@ -42,7 +42,7 @@ He is an old man with a beard that really ought to have retired already, but nob
 | Quirks | Probably the oldest person you've ever seen. |
 | Knowledge | History, the natural world. Can struggle to recall knowledge. |
 | Values | Good conversation, a patient listener. |
-| Ambitions | Continue to lead the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) for as long as he can. |
+| Ambitions | Continue to lead the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) for as long as he can. |
 | Dislikes | Dishonesty, people who can't hold a conversation. |
 
 ## History

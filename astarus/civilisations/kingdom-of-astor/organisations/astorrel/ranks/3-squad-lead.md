@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |
-| Organisation | [Astorrel](../README.md) |
+| Organisation | [Astorrel](../astorrel.md) |
 | Officer? | No |
 | Commanding Officers | [Astorrel Squad Sergeants](4-squad-sergeant.md) |
 | Subordinates | None |
@@ -14,7 +14,7 @@
 
 *See also: [Military badges](../../../military-badges.md)*
 
-Astorrel Squad Lead badges look like plain [Astorrel](../README.md) [military badges](../../../military-badges.md), but with a strip of silver inlaid inside its top and bottom edges. The top strip distinguishes it from the badge of an [Astorrel Squad Hand](2-squad-hand.md).
+Astorrel Squad Lead badges look like plain [Astorrel](../astorrel.md) [military badges](../../../military-badges.md), but with a strip of silver inlaid inside its top and bottom edges. The top strip distinguishes it from the badge of an [Astorrel Squad Hand](2-squad-hand.md).
 
 # Duties
 
@@ -34,6 +34,6 @@ As their Squad Sergeant determines how much of the mission bounty to give to the
 
 # Promotion
 
-Squad Leads can be promoted to [Astorrel Squad Sergeants](4-squad-sergeant.md) when the need arises for a new one to command over new squads. This can happen when the [Astorrel](../README.md) bolsters its numbers, or when another Squad Sergeant is promoted or retires.
+Squad Leads can be promoted to [Astorrel Squad Sergeants](4-squad-sergeant.md) when the need arises for a new one to command over new squads. This can happen when the [Astorrel](../astorrel.md) bolsters its numbers, or when another Squad Sergeant is promoted or retires.
 
 Particularly successful squads are most likely to have their Squad Lead promoted, though specialised squads may be left alone if officers believe that their missions would suffer drastically as a result of promotion. This can cause over-performing to backfire.

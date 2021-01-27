@@ -28,7 +28,7 @@ Turnuroth Balasar is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-as
 | Face | Bronze scaly skin, blue eyes, pointed nose. Two short horns swept back and slightly curled. Ear frills. |
 | Hair | None |
 | Body | 6'6". Fairly lean. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) ceremonial robes. |
+| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) ceremonial robes. |
 | Mannerisms | Moves somewhat sheepishly. |
 
 | Personality | Description |
@@ -37,7 +37,7 @@ Turnuroth Balasar is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-as
 | Quirks | Very timid for a dragonborn. |
 | Knowledge | |
 | Values | Loyalty, those they are close to. |
-| Ambitions | To be a high ranking [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) officer. |
+| Ambitions | To be a high ranking [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) officer. |
 | Dislikes | People who judge them for their race. |
 
 ## History
@@ -45,8 +45,8 @@ Turnuroth Balasar is an [Astorrel Squad Sergeant](../civilisations/kingdom-of-as
 ### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
 - They are favoured by the mentors and given special treatment. [truth]
-- They believe so strongly in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) that they don't suffer well those who don't. [truth]
-- Their parents are high ranking [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md). [lie]
+- They believe so strongly in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) that they don't suffer well those who don't. [truth]
+- Their parents are high ranking [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). [lie]
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 

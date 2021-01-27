@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |
-| Organisation | [Astorrel](../README.md) |
+| Organisation | [Astorrel](../astorrel.md) |
 | Officer? | No |
 | Commanding Officers | [Astorrel Squad Sergeants](4-squad-sergeant.md) |
 | Subordinates | None |
@@ -14,11 +14,11 @@
 
 *See also: [Military badges](../../../military-badges.md)*
 
-Astorrel Squad Hand badges look like plain [Astorrel](../README.md) [military badges](../../../military-badges.md), but with a strip of silver inlaid inside its bottom edge.
+Astorrel Squad Hand badges look like plain [Astorrel](../astorrel.md) [military badges](../../../military-badges.md), but with a strip of silver inlaid inside its bottom edge.
 
 # Duties
 
-Astorrel Squad Hands make up 3 of the 4 members of a mission squad, the fourth being [Astorrel](../README.md) Squad Leader.
+Astorrel Squad Hands make up 3 of the 4 members of a mission squad, the fourth being [Astorrel](../astorrel.md) Squad Leader.
 
 Their duties are to complete missions given to them by their Squad Sergeant, and lead by their Squad Lead. This sees them traveling to locations within the [Kingdom of Astor](../../../README.md), talking with locals, seeing the state of the land, and taking action on their Squad Lead's behalf.
 

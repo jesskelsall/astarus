@@ -23,7 +23,7 @@
 
 Levelle Tristwix is the [Astorrel Commandant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/8-commandant.md) in charge of the organisation's day-to-day operations.
 
-She is a politically savvy commandant who is a big believer in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md).
+She is a politically savvy commandant who is a big believer in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md).
 
 ## Characteristics
 
@@ -32,7 +32,7 @@ She is a politically savvy commandant who is a big believer in the [Astorrel](..
 | Face | Pointed features, focused eyes, eye wrinkles. |
 | Hair | Fair blonde, topknot. |
 | Body | 3'3" (tall for a halfling), medium build. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) officer's uniform. |
+| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) officer's uniform. |
 | Equipment | Ceremonial rapier. |
 | Mannerisms | Slow and purposeful. Understated. |
 
@@ -41,8 +41,8 @@ She is a politically savvy commandant who is a big believer in the [Astorrel](..
 | Voice | Posh and slow. |
 | Quirks | Easily commands a room despite her size and slow speech. |
 | Knowledge | The natural world, political savvy. |
-| Values | Duty to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), nature. |
-| Ambitions | Less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/README.md). |
+| Values | Duty to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), nature. |
+| Ambitions | Less conflict with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). |
 | Dislikes | Time wasters. |
 
 ## History

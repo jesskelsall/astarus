@@ -24,7 +24,7 @@ The entrance is on its side near the end. When entering, the room opens out to t
 | Sounds | Echoing footsteps. |
 | Smells | Candle wax, dust. |
 | People | [Astorrel Members](../../civilisations/kingdom-of-astor/organisations/astorrel/ranks/1-member.md) preparing the hall for its next use, or cleaning up. |
-| Intrigue | The hall shows a strong sense of community within the [Astorrel](../../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and almost appears to be a form of self-worship. |
+| Intrigue | The hall shows a strong sense of community within the [Astorrel](../../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and almost appears to be a form of self-worship. |
 
 ## History
 

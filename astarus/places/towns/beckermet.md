@@ -1,0 +1,29 @@
+# Beckermet
+
+| []() | |
+| --- | --- |
+| **Name** | Beckermet |
+| **Type** | Town |
+| **Location** | [Northern Astor](../regions/northern-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md) |
+| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) |
+| **Population** | 4,300 |
+| **Nearby Places** | [Frizthwaite](../villages/frizthwaite.md)<br />[Humar Cut](../roads/humar-cut.md)<br />[Northern Road](../roads/northern-road.md)<br />[River Humar](../rivers-lakes/river-humar.md) |
+| **People** | |
+
+## Summary
+
+Beckermet is a medium sized town in [Northern Astor](../regions/northern-astor.md). It lies on the [Northern Road](../roads/northern-road.md) between Eaglesfield and [Goldreach](../../civilisations/kingdom-of-astor/settlements/goldreach/README.md).
+
+The town is situated next to the [River Humar](../rivers-lakes/river-humar.md), where the [Northern Road](../roads/northern-road.md) is closest to the river. Between the road and here, the town popped up, now sprawling down to the water's edge. There are some docks here to support river trade, though most people and products reach Beckermet by horse and cart.
+
+Beckermet is known as a farming town, using the vast plans in all directions to provide a notable amount of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md)'s food. This production has made the land owners wealthy, bringing prosperity to the town. Natural warm hot springs power the famous bath houses which bring visitors from the larger cities.
+
+### From the [River Humar](../rivers-lakes/river-humar.md)
+
+| Sensation | Description |
+| ---- | --- |
+| Sights | Sprawling village that extends right to the river's edge. Small docks and watchtowers along its banks. |
+| Sounds | Small bells ringing. Oars in the water. Villagers chatting in the busier streets further in. |
+| Smells | |
+| People | [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox.md) guards up the watchtowers. Fishermen and some traders on the docks. |
+| Intrigue | |

@@ -8,7 +8,7 @@
 | **Age** | 27 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) (retired) |
+| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |

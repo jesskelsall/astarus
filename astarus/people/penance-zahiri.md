@@ -21,7 +21,7 @@
 
 ## Summary
 
-Penance Zahiri is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Penance Zahiri is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 ## Characteristics
 
@@ -47,11 +47,11 @@ Penance Zahiri is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of
 
 ### Backstory
 
-Penance grew up on the streets of [Northhaven](../places/cities/northhaven.md), stealing and starting fights. Eventually their reputation allowed them to take a position as a smuggler moving contraband in and out of the city - most notably [magicborn](../civilisations/kingdom-of-astor/magicborn.md) children. Penance claims that one night they were visited by [Bhygar](../gods/gods/bhygar.md) who gave them their powers and instructed them to live their life more fully, and inspire others to do the same. They changed their name and applied to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme at age 19, honing their paladin powers as they trained.
+Penance grew up on the streets of [Northhaven](../places/cities/northhaven.md), stealing and starting fights. Eventually their reputation allowed them to take a position as a smuggler moving contraband in and out of the city - most notably [magicborn](../civilisations/kingdom-of-astor/magicborn.md) children. Penance claims that one night they were visited by [Bhygar](../gods/gods/bhygar.md) who gave them their powers and instructed them to live their life more fully, and inspire others to do the same. They changed their name and applied to the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) recruitment programme at age 19, honing their paladin powers as they trained.
 
 ### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
-- They were a criminal prior to training as an [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). [truth]
+- They were a criminal prior to training as an [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). [truth]
 - Penance hasn't always been their name. [truth]
 - They are originally from outside the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md). [lie]
 

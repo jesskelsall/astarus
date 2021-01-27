@@ -4,7 +4,7 @@
 
 ## Premise
 
-The player characters are freshly graduated members of the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/README.md) who go on missions to maintain the balance of nature and the [Kingdom of Astor](../../astarus/civilisations/kingdom-of-astor/README.md)'s prosperity.
+The player characters are freshly graduated members of the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) who go on missions to maintain the balance of nature and the [Kingdom of Astor](../../astarus/civilisations/kingdom-of-astor/README.md)'s prosperity.
 
 ## Players
 

@@ -21,7 +21,7 @@
 
 ## Summary
 
-Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 ## Characteristics
 
@@ -47,7 +47,7 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-
 
 ### Backstory
 
-Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/cities/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) recruitment programme on the promise of good pay for completing missions.
+Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/cities/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) recruitment programme on the promise of good pay for completing missions.
 
 ### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 

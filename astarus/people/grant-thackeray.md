@@ -17,7 +17,7 @@
 
 ## Summary
 
-Grant Thackeray was [Redwyn Humpledopper](redywn-humpledopper.md)'s mentor while in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) training programme.
+Grant Thackeray was [Redwyn Humpledopper](redywn-humpledopper.md)'s mentor while in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) training programme.
 
 ## Characteristics
 
@@ -26,7 +26,7 @@ Grant Thackeray was [Redwyn Humpledopper](redywn-humpledopper.md)'s mentor while
 | Face | Tanned skin, brown eyes, wrinkled forehead. Scar on left side of chin. Smiley. |
 | Hair | Almost bald, some thinning grey hair on sides. Brown eyebrows. |
 | Body | 5'8". Thin but muscly. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) officer's uniform. |
+| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) officer's uniform. |
 | Mannerisms | Stiff yet energetic. |
 
 | Personality | Description |
@@ -35,7 +35,7 @@ Grant Thackeray was [Redwyn Humpledopper](redywn-humpledopper.md)'s mentor while
 | Quirks | Clearly aging but appears fit and active. |
 | Knowledge | Weapon fighting. |
 | Values | Resourcefulness, perseverance. |
-| Ambitions | Train as many [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) as he can before he retires. |
+| Ambitions | Train as many [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) as he can before he retires. |
 | Dislikes | Laziness. |
 
 ## History

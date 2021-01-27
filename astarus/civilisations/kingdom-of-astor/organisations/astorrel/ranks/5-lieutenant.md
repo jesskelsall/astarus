@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |
-| Organisation | [Astorrel](../README.md) |
+| Organisation | [Astorrel](../astorrel.md) |
 | Officer? | Yes |
 | Commanding Officers | [Astorrel Captains](6-captain.md) |
 | Subordinates | [Astorrel Squad Sergeants](4-squad-sergeant.md) |
@@ -14,7 +14,7 @@
 
 *See also: [Military badges](../../../military-badges.md)*
 
-Astorrel Lieutenant badges look like plain [Astorrel](../README.md) [military badges](../../../military-badges.md), but with a strip of gold inlaid inside its bottom edge, and a strip of silver inlaid inside its top edge. The use of gold denotes an officer rank.
+Astorrel Lieutenant badges look like plain [Astorrel](../astorrel.md) [military badges](../../../military-badges.md), but with a strip of gold inlaid inside its bottom edge, and a strip of silver inlaid inside its top edge. The use of gold denotes an officer rank.
 
 # Duties
 

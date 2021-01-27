@@ -4,8 +4,10 @@
 
 | []() | |
 | --- | --- |
-| **Presiding General** | Corville Thornox |
-| **Commandant** | |
+| **Name** | [Astorrel](astorrel/astorrel.md) |
+| **Civilisation** | [Kingdom of Astor](../README.md) |
+| **Officially Sanctioned?** | Yes |
+| **Leader** | Corville Thornox (General Supreme) |
 | **Patron God** | [Bhygar](../../../gods/gods/bhygar.md) |
 
 TODO:

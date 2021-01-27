@@ -19,7 +19,7 @@
 
 ## Summary
 
-Samantha Ilis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) working for the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md). She provides missions for [Bryce Morton](bryce-morton.md).
+Samantha Ilis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) working for the [Northhaven](../places/cities/northhaven.md) [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). She provides missions for [Bryce Morton](bryce-morton.md).
 
 She has a positive demeanour, bringing a smile to those she talks to. She wants to make sure that [central Astor](../places/regions/central-astor.md) is a safe and prosperous place.
 
@@ -30,14 +30,14 @@ She has a positive demeanour, bringing a smile to those she talks to. She wants 
 | Face | Fair skin, round face, thin eyebrows. Big closed mouth smile. |
 | Hair | Ginger, shoulder length. |
 | Body | 5'8", overweight. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) officer's uniform. |
+| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) officer's uniform. |
 | Mannerisms | Casual and slightly energetic. Often smiles with a closed mouth. |
 
 | Personality | Description |
 | --- | --- |
 | Voice | Regular female, smile in her voice. |
 | Quirks | It is a wonder that none of this positivity rubbed off onto [Bryce Morton](bryce-morton.md). |
-| Knowledge | The needs of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/README.md) in [central Astor](../places/regions/central-astor.md). |
+| Knowledge | The needs of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) in [central Astor](../places/regions/central-astor.md). |
 | Values | Positivity, teamwork, mission successes. |
 | Ambitions | Wants [central Astor](../places/regions/central-astor.md) to be safe from threats. |
 | Dislikes | Arguing, politics. |

@@ -28,7 +28,7 @@ When [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) asks [Torbra](.
 
 ### [PR11](../sessions.md/11.md)
 
-While everyone is chatting and eating during the rest stop on the way towards Frizthwaite, [Torbra](../../../astarus/people/torbra.md) starts hearing voices in her right ear. They are low pitched and guttural, chanting in a language that she cannot comprehend.
+While everyone is chatting and eating during the rest stop on the way towards [Frizthwaite](../../../astarus/places/villages/frizthwaite.md), [Torbra](../../../astarus/people/torbra.md) starts hearing voices in her right ear. They are low pitched and guttural, chanting in a language that she cannot comprehend.
 
 The appearance of these voices cause her to look around for their source, but she finds nothing.
 

@@ -12,7 +12,7 @@
 
 ## Summary
 
-Crimson Squad is the other [Astorrel](../README.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) commands. They are set up as the rivals to [Canary Squad](canary.md).
+Crimson Squad is the other [Astorrel](../astorrel.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) commands. They are set up as the rivals to [Canary Squad](canary.md).
 
 ## Missions
 

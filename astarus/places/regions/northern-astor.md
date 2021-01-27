@@ -15,13 +15,13 @@ Northern Astor is much like [Central Astor](central-astor.md) - full of grassy p
 ## Places
 
 - Towns:
-  - Beckermet
+  - [Beckermet](../towns/beckermet.md)
   - [Goldreach](../../civilisations/kingdom-of-astor/settlements/goldreach/README.md)
   - Hawksglass
   - Iredale
 - Villages:
-  - Frizthwaite
-  - Howbridge
+  - [Frizthwaite](../villages/frizthwaite.md)
+  - [Howbridge](../towns/howbridge.md)
   - Langtock
 - Roads:
   - [Grasthwaite Bend](../roads/grasthwaite-bend.md)

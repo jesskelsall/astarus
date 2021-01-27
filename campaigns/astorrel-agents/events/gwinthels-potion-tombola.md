@@ -13,7 +13,7 @@ Their prize potions are stored in a medium sized wood and metal trunk underneath
 | Sights | A small crowd gathered near a wall. A table covered in a floor-length alpine green cloth. Wooden tombola machine with turning handle and hinged door. Small rolled up parchments bound in string inside. |
 | Sounds | Gwinthel shouting. Crowd chatter. Wooden clacking sound as the tombola drum turns. |
 | Smells | |
-| People | Crowd of citizens, including parents with children. Two [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/README.md) guards stand next to the table, keeping watch. |
+| People | Crowd of citizens, including parents with children. Two [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) guards stand next to the table, keeping watch. |
 | Intrigue | A high stakes gamble with a chance of winning some exceptionally useful potions. |
 
 > Come one, come all, and try your hand at winning a spectacular potion to take home with you! Do you wish to befriend animals, climb walls with ease, make yourself much larger, protect yourself from the elements, or even breath fire? Of course you do! Come and try your luck! There are also 15 potions of healing to win!

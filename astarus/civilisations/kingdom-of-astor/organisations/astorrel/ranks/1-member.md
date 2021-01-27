@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |
-| Organisation | [Astorrel](../README.md) |
+| Organisation | [Astorrel](../astorrel.md) |
 | Officer? | No |
 | Commanding Officers | [Astorrel Lieutenants](5-lieutenant.md) |
 | Subordinates | None |
@@ -14,13 +14,13 @@
 
 *See also: [Military badges](../../../military-badges.md)*
 
-Astorrel Member badges are the plain [Astorrel](../README.md) military badge, with no lines denoting rank. It is understood that a plain badge means the lowest rank.
+Astorrel Member badges are the plain [Astorrel](../astorrel.md) military badge, with no lines denoting rank. It is understood that a plain badge means the lowest rank.
 
 # Duties
 
-Astorrel Members are any [Astorrel](../README.md) that are not skilled enough to engage in missions.
+Astorrel Members are any [Astorrel](../astorrel.md) that are not skilled enough to engage in missions.
 
-They perform duties within [Astorrel](../README.md) strongholds exclusively. This can include guard duty, tidying and cleaning, inventory and bookkeeping.
+They perform duties within [Astorrel](../astorrel.md) strongholds exclusively. This can include guard duty, tidying and cleaning, inventory and bookkeeping.
 
 # Pay
 

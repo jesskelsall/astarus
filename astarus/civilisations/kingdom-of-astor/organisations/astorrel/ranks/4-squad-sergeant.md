@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | Civilisation | [Kingdom of Astor](../../../README.md) |
-| Organisation | [Astorrel](../README.md) |
+| Organisation | [Astorrel](../astorrel.md) |
 | Officer? | Yes |
 | Commanding Officers | [Astorrel Lieutenants](5-lieutenant.md) |
 | Subordinates | [Astorrel Squad Leads](3-squad-lead.md)<br />[Astorrel Squad Hands](2-squad-hand.md) |
@@ -14,11 +14,11 @@
 
 *See also: [Military badges](../../../military-badges.md)*
 
-Astorrel Squad Sergeant badges look like plain [Astorrel](../README.md) [military badges](../../../military-badges.md), but with a strip of gold inlaid inside its bottom edge. The use of gold denotes an officer rank.
+Astorrel Squad Sergeant badges look like plain [Astorrel](../astorrel.md) [military badges](../../../military-badges.md), but with a strip of gold inlaid inside its bottom edge. The use of gold denotes an officer rank.
 
 # Duties
 
-Astorrel Squad Sergeants are tasked with running one or more [Astorrel](../README.md) squads.
+Astorrel Squad Sergeants are tasked with running one or more [Astorrel](../astorrel.md) squads.
 
 Each Squad Sergeant is provided multiples of four Squad Hands that they organise into squads of four. They have the ability to change who is in which squad as they see fit, providing the Squad Hands and Squad Leads are their subordinates.
 
