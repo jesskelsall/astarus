@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Astorrel Agents](../README.md) |
-| Session Started | [AA2](../sessions/2.md) |
+| Session Started | [AA02](../sessions/AA02.md) |
 | Session Ended | |
 
 ## Summary
@@ -21,16 +21,14 @@ In reality, the people of [Arnaside](../../../astarus/places/villages/arnaside.m
 | **Assigned Squad** | [Canary Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) |
 | **Goal** | Ensure logging operations in [Arnaside](../../../astarus/places/villages/arnaside.md) are proceeding as normal, and no over-logging is occurring. |
 | **Evidence Required** | Written report, names of any responsible for over-logging. |
-| **Time Limit** | 10 days |
+| **Time Limit** | 14 days |
 | **Bounty** | Squad Hand: 20 gp |
 
 ## History
 
 ## Planning
 
-TODO
-
-- [Arnaside](../../../astarus/places/villages/arnaside.md) is built as a logging and small scale farming town. 
+- [Arnaside](../../../astarus/places/villages/arnaside.md) is built as a logging and small scale farming town.
 - Mostly self sufficient, but uses logging money to buy things it can't make.
 - People set up the town to get away from all the problems the kingdom brings.
 - They worship [Malnesh](../../../astarus/gods/gods/malnesh.md) at their shrine.

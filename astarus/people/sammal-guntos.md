@@ -40,6 +40,6 @@ Sammal Guntos is the innkeeper of [The Slippery Weasel](../civilisations/kingdom
 
 ## History
 
-### [PR1](../../campaigns/purple-rain/sessions.md/1.md)
+### [PR01](../../campaigns/purple-rain/sessions.md/PR01.md)
 
 The [Purple Rain](../../campaigns/purple-rain/README.md) party met Sammal while they were in [The Slippery Weasel](../civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) during their initial meeting.

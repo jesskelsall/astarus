@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Astor Square |
-| **Type** | City area |
+| **Type** | Structure |
 | **Location** | [Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
 | **Nearby Places** | [Diamond Prime](../buildings/temples/diamond-prime.md)<br />[The Alley](../buildings/shops/the-alley.md)<br />[Northhaven Astornar Stronghold](../strongholds/northhaven-astornar-stronghold.md)<br />[Northhaven Astornox Stronghold](../strongholds/northhaven-astornox-stronghold.md)<br />[Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) |
 | **People** | |

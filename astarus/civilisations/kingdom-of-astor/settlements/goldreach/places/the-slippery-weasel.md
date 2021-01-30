@@ -44,7 +44,7 @@ The Slippery Weasel is the main inn in [Goldreach](../README.md), situated on th
 
 ## History
 
-### [PR1](../../../../../../campaigns/purple-rain/sessions.md/1.md)
+### [PR01](../../../../../../campaigns/purple-rain/sessions.md/PR01.md)
 
 *See: [Crossing Paths in Goldreach](../../../../../../campaigns/purple-rain/storylines.md/crossing-paths-in-goldreach.md)*
 

@@ -22,7 +22,7 @@
 
 ## History
 
-### [PR2](../../../../../../campaigns/purple-rain/sessions.md/2.md) / [PR3](../../../../../../campaigns/purple-rain/sessions.md/3.md)
+### [PR02](../../../../../../campaigns/purple-rain/sessions.md/PR02.md) / [PR03](../../../../../../campaigns/purple-rain/sessions.md/PR03.md)
 
 *See: [Finding the Goldreach Meteorite](../../../../../../campaigns/purple-rain/storylines.md/finding-the-goldreach-meteorite.md)*
 

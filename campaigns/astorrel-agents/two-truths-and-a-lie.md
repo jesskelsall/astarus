@@ -1,7 +1,7 @@
 # Two Truths and a Lie
 
 **[Ahsha Sallas](../../astarus/people/ahsha-sallas.md)**  
-*Half-Orc*
+*Half-orc*
 - They got into a fight with one of their mentors.
 - They has a criminal past.
 - The mentors favoured them over the other students.

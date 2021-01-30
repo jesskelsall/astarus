@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Astorrel Agents](../README.md) |
-| Session Started | [AA1](../sessions/1.md) |
+| Session Started | [AA01](../sessions/AA01.md) |
 | Session Ended | |
 
 ## Summary
@@ -14,7 +14,7 @@ The newly formed [Canary Squad](../../../astarus/civilisations/kingdom-of-astor/
 
 ## History
 
-### [AA1](../sessions/1.md)
+### [AA01](../sessions/AA01.md)
 
 When the party met their new superior officer, [Bryce Morton](../../../astarus/people/bryce-morton.md) placed them in a squad together which they eventually named [Canary Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md).
 

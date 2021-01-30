@@ -58,7 +58,7 @@ Following the impact of the [Goldreach](../civilisations/kingdom-of-astor/settle
 
 Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the town from [Northhaven](../places/cities/northhaven.md) to investigate the meteorite. He agreed to host him in his home while he had business in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md).
 
-### [PR1](../../campaigns/purple-rain/sessions.md/1.md)
+### [PR01](../../campaigns/purple-rain/sessions.md/PR01.md)
 
 *See: [Finding the Goldreach Meteorite](../../campaigns/purple-rain/storylines.md/finding-the-goldreach-meteorite.md)*
 
@@ -66,7 +66,7 @@ Alistair entered [The Slippery Weasel](../civilisations/kingdom-of-astor/settlem
 
 Following [Wrenn Piznarck](wrenn-piznarck.md)'s conversation with the party here, Wrenn pointed to the table to show Alistair the group that had agreed to work with him, before they left the inn together.
 
-### [PR3](../../campaigns/purple-rain/sessions.md/3.md)
+### [PR03](../../campaigns/purple-rain/sessions.md/PR03.md)
 
 *See: [Wolves Threaten Goldreach](../../campaigns/purple-rain/storylines.md/wolves-threaten-goldreach.md)*
 
@@ -76,13 +76,13 @@ In the aftermath, he thanks for the party for their hard work and offers to rewa
 
 The party never took him up on this offer due to the following events that transpired.
 
-### [PR6](../../campaigns/purple-rain/sessions.md/6.md)
+### [PR06](../../campaigns/purple-rain/sessions.md/PR06.md)
 
 Around the time of this [Purple Rain](../../campaigns/purple-rain/README.md) session, [Wrenn Piznarck](wrenn-piznarck.md) was caught looking through the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) for [Wizira](wizira.md)'s Father, or any evidence that he was once here. When confronted by Alistair, Wrenn accidentally admitted to knowing [Wizira](wizira.md), effectively admitting to harbouring [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
 Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their return or face serious punishment (likely death). He agreed, but later reneged, recruiting meteorite adventurers to find the party with the help of his crow familiar, and went into hiding in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md).
 
-### [PR9](../../campaigns/purple-rain/sessions.md/9.md)
+### [PR09](../../campaigns/purple-rain/sessions.md/PR09.md)
 
 TODO confirm session number
 

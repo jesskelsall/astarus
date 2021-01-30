@@ -18,7 +18,7 @@
 
 At a young age, Effie Silttooth, a hag, offered her power in exchange for knowledge of the world. She accepted, a deal which would see her become a warlock. In doing so, she also became a fallen aasimar.
 
-### [PR10](../sessions.md/10.md)
+### [PR10](../sessions.md/PR10.md)
 
 While escape in the cart escaping [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), [Saoirse](../../../astarus/people/saoirse.md) has a deva dream. She is back in the [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md), paralysed on the floor, only able to look on as 3 Meteoric Watchers attack and exhaust the rest of the party, who are looking close to death.
 
@@ -46,7 +46,7 @@ The watcher recoils at the sight of them before lunging at her. [Saoirse](../../
 
 The dream ends. [Saoirse](../../../astarus/people/saoirse.md) rests peacefully and feels a positive energy upon waking.
 
-### [PR11](../sessions.md/11.md)
+### [PR11](../sessions.md/PR11.md)
 
 [Saoirse](../../../astarus/people/saoirse.md) is distant at various times, contemplating the dream the night before. At one point when they need to keep moving, [Torbra](../../../astarus/people/torbra.md) attempts to lift her up so she can be placed back into the cart, but resists, snapping back to her senses. She chastises [Torbra](../../../astarus/people/torbra.md) for trying something so drastic.
 

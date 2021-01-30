@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Purple Rain](../README.md) |
-| Session Started | [PR1](../sessions.md/1.md) |
+| Session Started | [PR01](../sessions.md/PR01.md) |
 | Session Ended | |
 
 ## Summary
@@ -24,23 +24,23 @@ One member of [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/org
 
 Wrenn intends to find the meteorite and return it to [Northhaven](../../../astarus/places/cities/northhaven.md) so that they may investigate its properties and nature, furthering their independent research.
 
-### [PR1](../sessions.md/1.md)
+### [PR01](../sessions.md/PR01.md)
 
 [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) meets the [Purple Rain](../README.md) party, offering them up to 50 gp if they are able to bring him evidence of the meteorite - ideally the meteorite itself.
 
-### [PR6](../sessions.md/6.md)
+### [PR06](../sessions.md/PR06.md)
 
 In [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md), the party discover that half of the wolf pack had been slaughtered by something deeper within, a forboding omen.
 
 Delving deeper into the cave, they find the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, emitting bright white light, and a Meteoric Watcher, searching through the bodies of its victims. When the party is in the line of sight of the meteorite, it turns purple, alerting the watcher to their presence.
 
-### [PR7](../sessions.md/7.md)
+### [PR07](../sessions.md/PR07.md)
 
 The party fights two Meteoric Watchers who are seemingly protecting the meteorite, though in reality they are testing the party's combat prowess like those that came before.
 
 Their grey formless face and body, with its weird 6 limb arrangement is foreign to the party. They are a force to be reckoned with, but eventually the party dispatches them, turning them to grey dust with their final blows.
 
-### [PR11](../sessions.md/11.md)
+### [PR11](../sessions.md/PR11.md)
 
 While examining the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor and hearing the party's stories of how they triumphed in the [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md), [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) uses language such as "I've never seen a specimen like this", alluding to other meteors. [Thanea](../../../astarus/people/thanea.md) attempts to question him on this, but Wrenn diverts the conversation, pressing them for further details instead.
 

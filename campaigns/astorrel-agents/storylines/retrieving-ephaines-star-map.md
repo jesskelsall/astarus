@@ -3,8 +3,8 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Astorrel Agents](../README.md) |
-| Session Started | [AA1](../sessions/1.md) |
-| Session Ended | [AA2](../sessions/2.md) |
+| Session Started | [AA01](../sessions/AA01.md) |
+| Session Ended | [AA02](../sessions/AA02.md) |
 
 ## Summary
 
@@ -16,7 +16,7 @@
 
 Before setting off from [Dunmore](../../../astarus/places/cities/dunmore.md) to graduate, [Ephaine Seren](../../../astarus/people/ephaine-seren.md) entrusted [Ludolf Hornwallis](../../../astarus/people/ludolf-hornwallis.md) with her star map. He agreed to return it to her straight after her graduation.
 
-### [AA1](../sessions/1.md)
+### [AA01](../sessions/AA01.md)
 
 Immediately after her graduation, Ephaine looked around [Kirrel Hall](../../../astarus/places/buildings/kirrel-hall.md) for Ludolf, but couldn't see him.
 

@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Astorrel Agents](../README.md) |
-| Session Started | [AA1](../sessions/1.md) |
+| Session Started | [AA01](../sessions/AA01.md) |
 | Session Ended | |
 
 ## Summary
@@ -12,7 +12,7 @@ For unknown reasons, [Valnos](../../../astarus/gods/gods/valnos.md) has chosen t
 
 ## History
 
-### [AA1](../sessions/1.md)
+### [AA01](../sessions/AA01.md)
 
 As part of the [Astorrel Graduation](astorrel-graduation.md), [Whisper on the Breeze](../../../astarus/people/whisper-on-the-breeze.md) pledged themselves to [Valnos](../../../astarus/gods/gods/valnos.md) at [Diamond Prime](../../../astarus/places/buildings/temples/diamond-prime.md). This was done to prove that they practiced [The Order of the Diamond](../../../astarus/gods/the-order-of-the-diamond.md).
 

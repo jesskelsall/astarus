@@ -26,7 +26,7 @@ Flute Street is where the wealthier citizens of [Goldreach](../README.md) live, 
 
 ## History
 
-### [PR3](../../../../../../campaigns/purple-rain/sessions.md/3.md) / [PR4](../../../../../../campaigns/purple-rain/sessions.md/4.md)
+### [PR03](../../../../../../campaigns/purple-rain/sessions.md/PR03.md) / [PR04](../../../../../../campaigns/purple-rain/sessions.md/PR04.md)
 
 *See: [Finding the Goldreach Meteorite](../../../../../../campaigns/purple-rain/storylines.md/finding-the-goldreach-meteorite.md)*
 

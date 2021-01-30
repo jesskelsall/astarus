@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Purple Rain](../README.md) |
-| Session Started | [PR1](../sessions.md/1.md) |
+| Session Started | [PR01](../sessions.md/PR01.md) |
 | Session Ended | |
 
 ## Summary
@@ -22,7 +22,7 @@ Their house's door had been kicked in and there were signs of a struggle, but no
 
 After searching their part of the Hawkwswood around their house, [Wizira](../../../astarus/people/wizira.md) returned home and passed out from panic. Waking up the next day, she headed into [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) to investigate further. Finding the town still busy, and unable to find Heather in her shop, she eventually took a seat in the shop's secret garden between the buildings, lamenting on the events of the past few days.
 
-### [PR1](../sessions.md/1.md)
+### [PR01](../sessions.md/PR01.md)
 
 When Heather Pentz finds [Wizira](../../../astarus/people/wizira.md) in her secret garden, [Wizira](../../../astarus/people/wizira.md) tells her of what happened. Unsure what she can do to help, Heather offers to search for any information she can, before giving [Wizira](../../../astarus/people/wizira.md) 1 gp to spend to take her mind off things.
 
@@ -30,7 +30,7 @@ Later, after meeting the rest of the [Purple Rain](../README.md) party in [The S
 
 Wrenn suggests that he may be able to help her locate her father if she is cooperative.
 
-### [PR4](../sessions.md/4.md)
+### [PR04](../sessions.md/PR04.md)
 
 When the party meet [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) at [Alistair Hawthorn's House](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/alistair-hawthorns-house.md) to accept his offer of [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) for him, Wrenn reiterates his previous comment that he will help her find her father. He commits to finding out what he can about him while they are away.
 
@@ -42,7 +42,7 @@ Returning to [Heather & Horticulture](../../../astarus/civilisations/kingdom-of-
 
 Before being caught, he finds records indicating that a firbolg was captured around the time that the meteor fell. He was shipped off for conscription on a cart headed for [Northhaven](../../../astarus/places/cities/northhaven.md).
 
-### [PR9](../sessions.md/9.md)
+### [PR09](../sessions.md/PR09.md)
 
 After meeting [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) in [Heather & Horticulture](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/heather-and-horticulture.md)'s secret garden, Wrenn informs [Wizira](../../../astarus/people/wizira.md) the sad news that her father was captured by the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) on the day of his disappearance. Heather Pentz explains that he is a suspected [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md), and is being shipped off to [Northhaven](../../../astarus/places/cities/northhaven.md) for conscription. He left on a cart with others yesterday.
 
@@ -50,6 +50,6 @@ After meeting [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) in [He
 
 They begin their efforts to leave [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) for [Northhaven](../../../astarus/places/cities/northhaven.md).
 
-### [PR10](../sessions.md/10.md)
+### [PR10](../sessions.md/PR10.md)
 
 The party leaves [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) for [Northhaven](../../../astarus/places/cities/northhaven.md), where [Wizira](../../../astarus/people/wizira.md)'s Father is being taken.

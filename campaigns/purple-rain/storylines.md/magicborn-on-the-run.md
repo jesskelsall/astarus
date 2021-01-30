@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Purple Rain](../README.md) |
-| Session Started | [PR8](../sessions.md/8.md) |
+| Session Started | [PR08](../sessions.md/PR08.md) |
 | Session Ended | |
 
 ## Summary
@@ -24,7 +24,7 @@ Thinking about his next move, Wrenn decides to hire some meteor adventurers to f
 
 This sends [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) into a rage. He sends guards north west after the party, apprehending Arneg Tanagark as a [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md) harborer along the way. When he is returned to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), Alistair sends his [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) through [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) in the night to search for Wrenn.
 
-### [PR8](../sessions.md/8.md)
+### [PR08](../sessions.md/PR08.md)
 
 On the way back to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) with the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, the [Purple Rain](../README.md) party attempts to stop in at [Nightcrest Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/nightcrest-farm.md), seeking the hospitality of Arneg Tanagark for an overnight stay. They find his door open, a disturbance inside, and a small blood splatter in the courtyard.
 
@@ -36,7 +36,7 @@ While crossing the bridge south of [Nightcrest Farm](../../../astarus/civilisati
 
 The adventurers circle back, one drop-kicking the commander while the other warns the party that Wrenn is in danger, they must get back to him, and not to get caught.
 
-### [PR9](../sessions.md/9.md)
+### [PR09](../sessions.md/PR09.md)
 
 As the party make their way through the streets of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) continues to summon and dismiss Dancing Lights to distract the guards while he moves.
 
@@ -50,7 +50,7 @@ With a need to flee, Wrenn suggests that they can find sanctuary at either the [
 
 While leaving the shop, [Wizira](../../../astarus/people/wizira.md), still disguised, gets roped into the search effort by another group of guards and their [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) Commander, while the rest of the party prepares to skip town.
 
-### [PR10](../sessions.md/10.md)
+### [PR10](../sessions.md/PR10.md)
 
 The party begins to leave [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md).
 
@@ -70,7 +70,7 @@ Now clear of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlem
 
 Near the beginning of Grasthwaite Cut, the party sees 2 [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) on horseback riding towards them.
 
-### [PR11](../sessions.md/11.md)
+### [PR11](../sessions.md/PR11.md)
 
 The party pass 2 [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) on horseback without any incident. The guards had no idea of their notoriety and passed by completely unaware.
 

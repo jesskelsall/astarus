@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Purple Rain](../README.md) |
-| Session Started | [PR1](../sessions.md/1.md) |
+| Session Started | [PR01](../sessions.md/PR01.md) |
 | Session Ended | |
 
 ## Summary
@@ -18,15 +18,15 @@
 
 At the age of five her skin started to turn more grey, and rocky protrusions started to grow on her back. With nobody to help her understand these changes, she has set out into the world to learn more about who and what she is.
 
-### [PR1](../sessions.md/1.md)
+### [PR01](../sessions.md/PR01.md)
 
 In [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) inn, [Torbra](../../../astarus/people/torbra.md) tells [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) that she is passing through town on her way to meet a wise sage. When [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) offers the [Purple Rain](../README.md) party work finding the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor for him, she asks for knowledge as payment - Wrenn will gain her access to a library in [Northhaven](../../../astarus/places/cities/northhaven.md) where she might research her skin pigmentation and rocky back.
 
-### [PR10](../sessions.md/10.md)
+### [PR10](../sessions.md/PR10.md)
 
 When [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) asks [Torbra](../../../astarus/people/torbra.md) if she is [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md), [Torbra](../../../astarus/people/torbra.md) answers that she's not sure what she is.
 
-### [PR11](../sessions.md/11.md)
+### [PR11](../sessions.md/PR11.md)
 
 While everyone is chatting and eating during the rest stop on the way towards [Frizthwaite](../../../astarus/places/villages/frizthwaite.md), [Torbra](../../../astarus/people/torbra.md) starts hearing voices in her right ear. They are low pitched and guttural, chanting in a language that she cannot comprehend.
 

@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Ahsha Sallas |
-| **Race** | Half-Orc |
+| **Race** | Half-orc |
 | **Gender** | Female |
 | **Age** | 26 |
 | **Class** | Fighter |

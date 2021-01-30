@@ -29,11 +29,11 @@ To the kingdom's western most reaches is territory that is still classified as p
   - Holmrook
   - [Mockerkin](../towns/mockerkin.md)
 - Villages:
-  - Allonby
+  - [Allonby](../villages/allonby.md)
   - [Arnaside](../villages/arnaside.md)
   - Bootle
   - Grasthwaite
-  - Humouth
+  - [Humouth](../villages/humouth.md)
   - Ulburn
 - Forts:
   - Fort Eldrick

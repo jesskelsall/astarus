@@ -3,8 +3,8 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Purple Rain](../README.md) |
-| Session Started | [PR1](../sessions.md/1.md) |
-| Session Ended | [PR2](../sessions.md/2.md) |
+| Session Started | [PR01](../sessions.md/PR01.md) |
+| Session Ended | [PR02](../sessions.md/PR02.md) |
 
 ## Summary
 
@@ -21,7 +21,7 @@ All four characters are present in [Goldreach](../../../astarus/civilisations/ki
 | [Torbra](../../../astarus/people/torbra.md) | Heading to the closest city to seek answers about their unknown race (Genasi). |
 | [Wizira](../../../astarus/people/wizira.md) | Searching for her missing father. |
 
-### [PR1](../sessions.md/1.md)
+### [PR01](../sessions.md/PR01.md)
 
 [Saoirse](../../../astarus/people/saoirse.md) and [Thanea](../../../astarus/people/thanea.md) shared a cart to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) from the village of Grasthwaite for about 2 days, though they didn't talk during the journey. They both arrive in [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) at the [Goldreach Stables](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-stables.md) before heading deeper into town.
 
@@ -29,7 +29,7 @@ All four characters are present in [Goldreach](../../../astarus/civilisations/ki
 
 [Torbra](../../../astarus/people/torbra.md) is entering [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) ahead of the rest of the party. They all sit at the same table, largely ignoring each other, until [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) paces the room, followed by [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) asking them about the meteor.
 
-### [PR2](../sessions.md/2.md)
+### [PR02](../sessions.md/PR02.md)
 
 Following a night where [Wizira](../../../astarus/people/wizira.md) returns to her home while the rest of the party sleep at [Holyrook Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/holyrook-farm.md) (and fight off wolves in the night), the party meets back up so they may return to [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) to help him search for the meteorite.
 

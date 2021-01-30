@@ -42,7 +42,7 @@ He is a jovial dwarf, happy to serve his customers and share in the revelry when
 
 ## History
 
-Tydrus meets the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party in [AA1](../../campaigns/astorrel-agents/sessions/1.md), continuing into [AA2](../../campaigns/astorrel-agents/sessions/2.md).
+Tydrus meets the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party in [AA01](../../campaigns/astorrel-agents/sessions/AA01.md), continuing into [AA02](../../campaigns/astorrel-agents/sessions/AA02.md).
 
 ## Planning
 

@@ -3,8 +3,8 @@
 | []() | |
 | --- | --- |
 | Campaign(s) | [Astorrel Agents](../README.md) |
-| Session Started | [AA1](../sessions/1.md) |
-| Session Ended | [AA1](../sessions/1.md) |
+| Session Started | [AA01](../sessions/AA01.md) |
+| Session Ended | [AA01](../sessions/AA01.md) |
 
 ## Summary
 
