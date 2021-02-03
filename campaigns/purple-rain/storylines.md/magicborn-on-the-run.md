@@ -79,3 +79,32 @@ The party pass 2 [Astornox](../../../astarus/civilisations/kingdom-of-astor/orga
 [Torbra](../../../astarus/people/torbra.md) finally got a chance to sleep while [Wizira](../../../astarus/people/wizira.md) rode the horse and cart. This meant that everyone has had a long rest since leaving [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md).
 
 With [Frizthwaite](../../../astarus/places/villages/frizthwaite.md) in view on the horizon, 3 horses each with 2 riders approached from behind. Neither [Thanea](../../../astarus/people/thanea.md) who spotted them or [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) who used his crow familiar to observe them could tell if they are [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) or not.
+
+### [PR12](../sessions.md/PR12.md)
+
+The bandits tailing the party as they ride towards [Frizthwaite](../../../astarus/places/villages/frizthwaite.md) begin their attack after seeing the cart take a sharp right turn, forcing their hand. Before long they are on top of the fleeing party. They are led by [Morog Whiteknuckle](../../../astarus/people/morog-whiteknuckle.md).
+
+Sensing an imminent battle, the party stops the carts, unhitches the draft horse for [Torbra](../../../astarus/people/torbra.md) to ride into battle, and turns the cart on its side to act as cover for the rest of the group.
+
+A mounted battle breaks out, with several of the bandits trying to capture [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) while others take shots with crossbows from horseback.
+
+Eventually the battle culminates with:
+
+- [Saoirse](../../../astarus/people/saoirse.md) getting knocked unconscious, barely clinging onto life, having been clubbed by two thugs.
+- [Wizira](../../../astarus/people/wizira.md) overwhelmed by a battle on two fronts, attempting to save Wrenn from the bandits.
+- [Thanea](../../../astarus/people/thanea.md) fleeing from [Morog Whiteknuckle](../../../astarus/people/morog-whiteknuckle.md) who has been slashing at her repeatedly, heavily injuring her.
+- [Torbra](../../../astarus/people/torbra.md) falling off her horse, unable to respond to the threats around her before surrender is the party's only option.
+
+Morog orders the party to surrender, which they reluctantly do. He reveals himself to be part of [The Crimson Blades](../../../astarus/civilisations/kingdom-of-astor/organisations/the-crimson-blades.md), and that Wrenn owes them money. He makes the point that they're here for him only, which is why they're lucky to be alive.
+
+With no response to the bandits, Morog leaves with the unconscious [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) successfully captured - the party's best chance of seeking sanctuary in [Northhaven](../../../astarus/places/cities/northhaven.md) taken from them.
+
+### Between Sessions
+
+Not long after being captured, Wrenn is woken up by the movement of the horse he is draped over. Keeping his composure, he manages to cast Sending with the copper wire coiled around his wrist, contacting [Darjonkaargeac Hidaar](../../../astarus/people/darjonkaargeac-hidaar.md) ([Goshawk squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md) lead) to explain his capture and the danger the party is in:
+
+> Help! Captured by bandits. Please help my friends! Hunted by [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md). They know information that will save Astor. Get them to Elysia!
+
+> Captured near [Frizthwaite](../../../astarus/places/villages/frizthwaite.md). Heading to [Northhaven](../../../astarus/places/cities/northhaven.md) by boat or road. Blue firbolg, grey human--
+
+Shortly thereafter Morog notices that Wrenn is muttering to himself and confiscates his copper wire before restraining him more thoroughly.

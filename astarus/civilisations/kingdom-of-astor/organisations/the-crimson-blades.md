@@ -10,7 +10,7 @@
 
 ## Summary
 
-The Crimson Blades is a mercenary organisation based out of [TODO]. Their leader is simply known as [Stalker](../../../people/stalker.md).
+The Crimson Blades is a mercenary organisation based out of Carnmere. Their leader is simply known as [Stalker](../../../people/stalker.md).
 
 ## People
 

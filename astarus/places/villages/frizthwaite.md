@@ -30,7 +30,7 @@ The village itself is tightly packed against the river's edge, with many piers a
 
 ## Places
 
-- The Greedy Trout (inn)
+- [The Greedy Trout](../buildings/inns-taverns/the-greedy-trout.md) (inn)
 - Frizthwaite General (general store)
 
 ## Planning
