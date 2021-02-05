@@ -2,7 +2,7 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR07](../sessions.md/PR07.md) |
 | Session Ended | |
 

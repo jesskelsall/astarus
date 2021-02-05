@@ -27,6 +27,6 @@ Once Clan on the Breeze emigrated from the [Syntenne Republic](../civilisations/
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 [Whisper on the Breeze](whisper-on-the-breeze.md) has not seen Shout on the Breeze since they left the clan to join the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). Whisper doesn't know their location or even if they're alive.

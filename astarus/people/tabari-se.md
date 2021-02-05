@@ -59,4 +59,4 @@ Tabari has been mute from a young age. Fortunately he's not big on communication
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Tabari in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.
+The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party has seen Tabari in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.

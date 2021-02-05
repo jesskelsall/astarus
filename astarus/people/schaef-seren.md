@@ -29,6 +29,6 @@ By the time he arrived, Ephaine had fled, seeking the [Astorrel](../civilisation
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 [Ephaine Seren](ephaine-seren.md) has had no contact with her father since she left. She doesn't know if he is still alive.

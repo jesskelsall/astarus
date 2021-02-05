@@ -57,6 +57,6 @@ Born into the family of a city captain, Darius' mother's fire elemental lineage 
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party found Darius following the [Astorrel graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/gods/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
+The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party found Darius following the [Astorrel graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/gods/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
 
 The party has seen Darius in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

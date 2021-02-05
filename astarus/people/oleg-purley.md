@@ -40,6 +40,6 @@ Oleg Purley is a dock worker in [Frizthwaite](../places/villages/frizthwaite.md)
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain/README.md)
+### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
 
 The party will find Oleg by the riverside in [Frizthwaite](../places/villages/frizthwaite.md). He can help them procure a boat from his dock.

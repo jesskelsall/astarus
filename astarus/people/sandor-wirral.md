@@ -45,10 +45,10 @@ Sandor is a proud armoursmith, happy to sell the armour that the family produces
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party shopped in [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) and Whisper of the Wind both bought armour from him.
+On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party shopped in [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) and Whisper of the Wind both bought armour from him.
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day, Sandor Wirral is calm in the face of lots of new customers. He is just happy that they've chosen his business.

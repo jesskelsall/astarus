@@ -30,14 +30,14 @@ Inside there is a blacksmith's forge where Rhotrukk can be found working. The re
 
 - Armor (PHB p149).
 
-Players must roll to see if they can find the weapon(s) they want:
+[Players](../../../../players/logan.md) must roll to see if they can find the weapon(s) they want:
 
 | DC | Result |
 |:---:| --- |
 | 1-5 | That item isn't in stock. |
 | 6-10 | Found after 10 minutes of searching. |
 | 11-19 | Found after a few moments. |
-| 20 | Found instantly, alongside another player's item. |
+| 20 | Found instantly, alongside another [player](../../../../players/logan.md)'s item. |
 
 Alternatively Rhotrukk can be convinced to stop working to help search through his madness on a DC 12 persuasion check.
 
@@ -45,6 +45,6 @@ Rhotrukk can also be requested to make a standard weapon on a DC 15 persuasion c
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 Rhotrukk is working away at his forge as usual, unaware or unbothered by the increasing interest in his wares today.

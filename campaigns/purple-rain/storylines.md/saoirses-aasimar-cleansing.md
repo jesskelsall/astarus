@@ -2,8 +2,8 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
-| Session Started | TODO |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
+| Session Started | [PR10](../sessions.md/PR10.md) |
 | Session Ended | |
 
 ## Summary
@@ -12,7 +12,7 @@
 
 ## History
 
-### [Purple Rain](../README.md) Prelude
+### [Purple Rain](../purple-rain.md) Prelude
 
 [Saoirse](../../../astarus/people/saoirse.md)'s father is Mykiel, a deva. As a result of her mother being human and her father being celestial, she was born an aasimar.
 
@@ -58,4 +58,4 @@ Later, [Thanea](../../../astarus/people/thanea.md) reads [Saoirse](../../../asta
 
 In the long term, [Saoirse](../../../astarus/people/saoirse.md) will get the opportunity to kill Effie Silttooth. Doing so will be the final piece of the puzzle that converts her from a fallen aasimar to a protector aasimar.
 
-Prior to that, with Robin's blessing, [Saoirse](../../../astarus/people/saoirse.md) will trade in warlock levels at key points and replace them with multi-classed levels in cleric or paladin (her choice). The less warlock she is, the closer to being saved she is.
+Prior to that, with [Robin](../../../players/robin.md)'s blessing, [Saoirse](../../../astarus/people/saoirse.md) will trade in warlock levels at key points and replace them with multi-classed levels in cleric or paladin (her choice). The less warlock she is, the closer to being saved she is.

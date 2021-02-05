@@ -26,4 +26,4 @@
 
 *See: [Finding the Goldreach Meteorite](../../../../../../campaigns/purple-rain/storylines.md/finding-the-goldreach-meteorite.md)*
 
-The [Purple Rain](../../../../../../campaigns/purple-rain/README.md) party met [Wrenn Piznarck](../../../../../people/wrenn-piznarck.md) in Alistair Hawthorn's House to discuss their plan of attack for finding the meteorite that crash landed several days before. They then headed out to find it.
+The [Purple Rain](../../../../../../campaigns/purple-rain/purple-rain.md) party met [Wrenn Piznarck](../../../../../people/wrenn-piznarck.md) in Alistair Hawthorn's House to discuss their plan of attack for finding the meteorite that crash landed several days before. They then headed out to find it.

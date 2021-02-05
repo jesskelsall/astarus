@@ -24,6 +24,6 @@ It is a square made mostly of stone, with some iron and wood benches for seating
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 - [Gwinthel's Potion Tombola](../../../campaigns/astorrel-agents/events/gwinthels-potion-tombola.md)

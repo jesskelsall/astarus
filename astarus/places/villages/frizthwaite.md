@@ -35,7 +35,7 @@ The village itself is tightly packed against the river's edge, with many piers a
 
 ## Planning
 
-### [Purple Rain](../../../campaigns/purple-rain/README.md)
+### [Purple Rain](../../../campaigns/purple-rain/purple-rain.md)
 
 The village is going about their usual business, blissfully unaware of the party on the run from the [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox.md). [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox.md) visit the town every few days from [Beckermet](../towns/beckermet.md). Today they're not here, having visited yesterday.
 

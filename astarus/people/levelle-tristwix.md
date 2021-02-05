@@ -51,6 +51,6 @@ While a Squad Lead, her squad was called **Acre Squad**. [Grant Thackeray](grant
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-Levelle Tristwix conducted the graduation of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party, alongside [Merkin Thorgus](merkin-thorgus.md). They pinned each [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md) badge on the party members, and shook their hand.
+Levelle Tristwix conducted the graduation of the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party, alongside [Merkin Thorgus](merkin-thorgus.md). They pinned each [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md) badge on the party members, and shook their hand.
 
 After the graduation presentation, Levelle caught up with [Grant Thackeray](grant-thackeray.md). Together they said hi to [Redwyn Humpledopper](redywn-humpledopper.md), who ignored Levelle.

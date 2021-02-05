@@ -2,7 +2,7 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR00](../sessions.md/PR00.md) |
 | Session Ended | |
 
@@ -24,7 +24,7 @@
 
 [Thanea](../../../astarus/people/thanea.md) once again dreams of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor on its way to impact north west of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md). Looking closer she sees a glowing figure with bright glowing wings (her deva, Seraphina) attempting fruitlessly to stop the meteor, latched to its front, flapping their wings and attempting to slow its fall. The meteor impacts all the same.
 
-The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) in a crater in the forest, before the forest around it begins burning purple flames. She witnesses [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md)'s interior on fire, as well as the barn at [Hurley Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hurley-farm.md) on fire, with the burning bodies of the rest of the [Purple Rain](../README.md) party within.
+The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) in a crater in the forest, before the forest around it begins burning purple flames. She witnesses [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md)'s interior on fire, as well as the barn at [Hurley Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hurley-farm.md) on fire, with the burning bodies of the rest of the [Purple Rain](../purple-rain.md) party within.
 
 #### [PR07](../sessions.md/PR07.md)
 

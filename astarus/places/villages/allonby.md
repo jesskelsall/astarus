@@ -34,9 +34,9 @@ Above the cliffs, cattle graze on the grass when the weather allows it. Farmers 
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
-The players may pass through here during either heavy wind or calmer times.
+The [players](../../../players/logan.md) may pass through here during either heavy wind or calmer times.
 
 Allonby is very welcoming and curious about the party, offering them food. There is no inn, but a building can be cleared to host them overnight.
 

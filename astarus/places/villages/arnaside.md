@@ -47,6 +47,6 @@ Since then, the village has steadily grown as other worshippers come to settle h
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 *See: [Check Logging in Arnaside](../../../campaigns/astorrel-agents/storylines/check-logging-in-arnaside.md)*

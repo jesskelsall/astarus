@@ -1,6 +1,6 @@
 # Astarus
 
-Astarus is the name given to the plane of existence that the campaign is set in. It is the world that the players inhabit.
+Astarus is the name given to the plane of existence that the campaign is set in. It is the world that the [players](../players/logan.md) inhabit.
 
 ## Gods
 

@@ -2,7 +2,7 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR01](../sessions.md/PR01.md) |
 | Session Ended | |
 
@@ -12,7 +12,7 @@
 
 ## History
 
-### [Purple Rain](../README.md) Prelude
+### [Purple Rain](../purple-rain.md) Prelude
 
 [Torbra](../../../astarus/people/torbra.md) was abandoned as a baby in the Irewood on the opposite side of the [River Humar](../../../astarus/places/rivers-lakes/river-humar.md) from Iredale. Here she was found and adopted by her adoptive parents. Her real parents are unknown.
 
@@ -20,7 +20,7 @@ At the age of five her skin started to turn more grey, and rocky protrusions sta
 
 ### [PR01](../sessions.md/PR01.md)
 
-In [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) inn, [Torbra](../../../astarus/people/torbra.md) tells [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) that she is passing through town on her way to meet a wise sage. When [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) offers the [Purple Rain](../README.md) party work finding the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor for him, she asks for knowledge as payment - Wrenn will gain her access to a library in [Northhaven](../../../astarus/places/cities/northhaven.md) where she might research her skin pigmentation and rocky back.
+In [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) inn, [Torbra](../../../astarus/people/torbra.md) tells [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) that she is passing through town on her way to meet a wise sage. When [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) offers the [Purple Rain](../purple-rain.md) party work finding the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor for him, she asks for knowledge as payment - Wrenn will gain her access to a library in [Northhaven](../../../astarus/places/cities/northhaven.md) where she might research her skin pigmentation and rocky back.
 
 ### [PR10](../sessions.md/PR10.md)
 

@@ -42,6 +42,6 @@ Morog Whiteknuckle is a commander in [The Crimson Blades](../civilisations/kingd
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain/README.md)
+### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
 
 Morog has been sent by [Stalker](stalker.md) to capture [Wrenn Piznarck](wrenn-piznarck.md) for double-crossing [The Crimson Blades](../civilisations/kingdom-of-astor/organisations/the-crimson-blades.md) in Carnmere. He rides with 5 other members of the mercenary group, intent on completing their mission.

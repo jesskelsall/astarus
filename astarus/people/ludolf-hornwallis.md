@@ -46,6 +46,6 @@ He was the mentor of [Ephaine Seren](ephaine-seren.md).
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 *See: [Retrieving Ephaine's Star Map](../../campaigns/astorrel-agents/storylines/retrieving-ephaines-star-map.md)*

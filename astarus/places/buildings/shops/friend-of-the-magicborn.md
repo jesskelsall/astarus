@@ -36,12 +36,12 @@ Friend of the Magicborn offers the following services:
 | Identification | 10-20 gp |
 | Enchantment transfer | 30-50 gp |
 
-Magical items will be periodically available depending on the players' progress. Magical items are in short supply, with some created in the city and sold here. Others are sold by others that have no use for them, before they are put up for resale.
+Magical items will be periodically available depending on the [players](../../../../players/logan.md)' progress. Magical items are in short supply, with some created in the city and sold here. Others are sold by others that have no use for them, before they are put up for resale.
 
 ## History
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 [Moss Under the Crumbling Cliffs](../../../people/moss-under-the-crumbling-cliffs.md) can be found standing behind the counter, ever-present. Nobody else will enter the store. She will be vague about the services she provides.

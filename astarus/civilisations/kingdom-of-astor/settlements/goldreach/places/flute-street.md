@@ -30,4 +30,4 @@ Flute Street is where the wealthier citizens of [Goldreach](../README.md) live, 
 
 *See: [Finding the Goldreach Meteorite](../../../../../../campaigns/purple-rain/storylines.md/finding-the-goldreach-meteorite.md)*
 
-The [Purple Rain](../../../../../../campaigns/purple-rain/README.md) party had agreed to meet [Wrenn Piznarck](../../../../../people/wrenn-piznarck.md) at 12 Flute Street in order to help him locate the [Goldreach](../README.md) Meteorite. They found the house with the help of an [Astornox](../../../organisations/astornox.md) guard, who they provided a code word to courtesy of Wrenn.
+The [Purple Rain](../../../../../../campaigns/purple-rain/purple-rain.md) party had agreed to meet [Wrenn Piznarck](../../../../../people/wrenn-piznarck.md) at 12 Flute Street in order to help him locate the [Goldreach](../README.md) Meteorite. They found the house with the help of an [Astornox](../../../organisations/astornox.md) guard, who they provided a code word to courtesy of Wrenn.

@@ -57,4 +57,4 @@ Penance grew up on the streets of [Northhaven](../places/cities/northhaven.md), 
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Penance in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when they were placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, they failed to get [Tabari Se](tabari-se.md) to say something.
+The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party has seen Penance in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when they were placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, they failed to get [Tabari Se](tabari-se.md) to say something.

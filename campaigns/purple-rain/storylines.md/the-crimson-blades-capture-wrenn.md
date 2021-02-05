@@ -2,7 +2,7 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR12](../sessions.md/PR12.md) |
 | Session Ended | |
 
@@ -12,7 +12,7 @@ While the party are on the run from the [Astornox](../../../astarus/civilisation
 
 ## History
 
-### [Purple Rain](../README.md) Prelude
+### [Purple Rain](../purple-rain.md) Prelude
 
 Prior to [PR12](../sessions.md/PR12.md), [Stalker](../../../astarus/people/stalker.md) sends [Morog Whiteknuckle](../../../astarus/people/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md). They trailed him to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) while staying at [Alistair Hawthorn's House](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/alistair-hawthorns-house.md).
 

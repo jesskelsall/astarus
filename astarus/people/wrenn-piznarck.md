@@ -46,7 +46,7 @@ TODO
 
 ## History
 
-### [Purple Rain](../../campaigns/purple-rain/README.md) Prelude
+### [Purple Rain](../../campaigns/purple-rain/purple-rain.md) Prelude
 
 #### The Carnmere Meteorite
 

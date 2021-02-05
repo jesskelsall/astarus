@@ -1,10 +1,10 @@
 # Astornox
 
-<img src="../../../../../images/organisations/astornox.png" height="200" />
+<img src="../../../../images/organisations/astornox.png" height="200" />
 
 | []() | |
 | --- | --- |
-| **Name** | [Astorrel](astorrel/astorrel.md) |
+| **Name** | Astornox |
 | **Civilisation** | [Kingdom of Astor](../README.md) |
 | **Officially Sanctioned?** | Yes |
 | **Leader** | |

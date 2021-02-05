@@ -2,13 +2,13 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR01](../sessions.md/PR01.md) |
 | Session Ended | [PR02](../sessions.md/PR02.md) |
 
 ## Summary
 
-The [Purple Rain](../README.md) party members all cross paths in [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), centered around the appearance of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite.
+The [Purple Rain](../purple-rain.md) party members all cross paths in [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), centered around the appearance of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite.
 
 ## History
 

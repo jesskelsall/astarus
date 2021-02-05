@@ -4,7 +4,7 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR01](../sessions.md/PR01.md) |
 | Session Ended | |
 
@@ -14,9 +14,9 @@ Strange meteors are bringing unknown and dangerous creatures to Astor. Their dan
 
 ## History
 
-### [Purple Rain](../README.md) Prelude
+### [Purple Rain](../purple-rain.md) Prelude
 
-6 months prior to the start of the [Purple Rain](../README.md) campaign, [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../../../astarus/civilisations/kingdom-of-astor/README.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) mission duties.
+6 months prior to the start of the [Purple Rain](../purple-rain.md) campaign, [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../../../astarus/civilisations/kingdom-of-astor/README.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) mission duties.
 
 For the last 6 months, a meteor has fallen roughly once a month.
 
@@ -26,7 +26,7 @@ Wrenn intends to find the meteorite and return it to [Northhaven](../../../astar
 
 ### [PR01](../sessions.md/PR01.md)
 
-[Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) meets the [Purple Rain](../README.md) party, offering them up to 50 gp if they are able to bring him evidence of the meteorite - ideally the meteorite itself.
+[Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) meets the [Purple Rain](../purple-rain.md) party, offering them up to 50 gp if they are able to bring him evidence of the meteorite - ideally the meteorite itself.
 
 ### [PR06](../sessions.md/PR06.md)
 

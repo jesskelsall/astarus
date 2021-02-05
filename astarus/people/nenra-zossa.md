@@ -52,7 +52,7 @@ After he died of old age 4 years ago, she has been running [Arnaside](../places/
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 Nenra Zossa is in [the Malneshitas](../places/buildings/temples/the-malneshitas.md) when the party arrives in [Arnaside](../places/villages/arnaside.md).
 

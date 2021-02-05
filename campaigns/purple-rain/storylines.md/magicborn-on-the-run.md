@@ -2,13 +2,13 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR08](../sessions.md/PR08.md) |
 | Session Ended | |
 
 ## Summary
 
-After [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) accidentally tells [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) that he knows [Wizira](../../../astarus/people/wizira.md), Wrenn and the [Purple Rain](../README.md) party flee [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) as fugitives, hoping for sanctuary at the [Northhaven Astorrel Stronghold](../../../astarus/places/strongholds/northhaven-astorrel-stronghold.md).
+After [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) accidentally tells [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) that he knows [Wizira](../../../astarus/people/wizira.md), Wrenn and the [Purple Rain](../purple-rain.md) party flee [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) as fugitives, hoping for sanctuary at the [Northhaven Astorrel Stronghold](../../../astarus/places/strongholds/northhaven-astorrel-stronghold.md).
 
 ## History
 
@@ -26,7 +26,7 @@ This sends [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) int
 
 ### [PR08](../sessions.md/PR08.md)
 
-On the way back to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) with the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, the [Purple Rain](../README.md) party attempts to stop in at [Nightcrest Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/nightcrest-farm.md), seeking the hospitality of Arneg Tanagark for an overnight stay. They find his door open, a disturbance inside, and a small blood splatter in the courtyard.
+On the way back to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) with the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, the [Purple Rain](../purple-rain.md) party attempts to stop in at [Nightcrest Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/nightcrest-farm.md), seeking the hospitality of Arneg Tanagark for an overnight stay. They find his door open, a disturbance inside, and a small blood splatter in the courtyard.
 
 The party is approached by an [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) Commander and an [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) Guard who inform them that the farm is off limits after Arneg was taken into custody as a suspected [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md) harborer.
 

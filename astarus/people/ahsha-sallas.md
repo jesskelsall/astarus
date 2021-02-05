@@ -21,7 +21,7 @@
 
 ## Summary
 
-Ahsha Sallas is a player character in the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) campaign, played by Billie.
+Ahsha Sallas is a [player](../../players/logan.md) character in the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by [Billie](../../players/billie.md).
 
 ## Backstory
 
@@ -47,4 +47,4 @@ In her spare time she likes to read the Dwarves at Sea novels and sing orcish ba
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-Ahsha graduated into the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party before meeting him for the first time. She joined [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Ahsha graduated into the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party before meeting him for the first time. She joined [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

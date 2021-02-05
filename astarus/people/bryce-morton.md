@@ -53,4 +53,4 @@ While a Squad Lead, his squad was called **Summit Squad**.
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party goes to [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) to meet their new superior officer. Under his direction, they become [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md), alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party goes to [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) to meet their new superior officer. Under his direction, they become [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md), alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

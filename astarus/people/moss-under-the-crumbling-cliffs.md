@@ -48,4 +48,4 @@ Moss is secretly a member of the [Astornar](../civilisations/kingdom-of-astor/or
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)

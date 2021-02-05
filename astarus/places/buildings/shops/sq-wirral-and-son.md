@@ -30,6 +30,6 @@ The store proudly displays some of their finest work on full sized mannequins in
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day there is a line inside the store for orders. Standard requests will be fulfilled by sundown, so those purchasing must come back later to collect.

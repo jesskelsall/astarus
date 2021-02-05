@@ -2,7 +2,7 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Purple Rain](../README.md) |
+| Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR01](../sessions.md/PR01.md) |
 | Session Ended | |
 
@@ -14,9 +14,9 @@ Having been captured by the [Goldreach](../../../astarus/civilisations/kingdom-o
 
 ## History
 
-### [Purple Rain](../README.md) Prelude
+### [Purple Rain](../purple-rain.md) Prelude
 
-Nearly two days prior to the start of the [Purple Rain](../README.md) campaign and the day after the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite crashed down near the town of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), [Wizira](../../../astarus/people/wizira.md) returned home from  a bustling [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) to find her father missing.
+Nearly two days prior to the start of the [Purple Rain](../purple-rain.md) campaign and the day after the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite crashed down near the town of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), [Wizira](../../../astarus/people/wizira.md) returned home from  a bustling [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) to find her father missing.
 
 Their house's door had been kicked in and there were signs of a struggle, but no evidence of where her father was.
 
@@ -26,7 +26,7 @@ After searching their part of the Hawkwswood around their house, [Wizira](../../
 
 When Heather Pentz finds [Wizira](../../../astarus/people/wizira.md) in her secret garden, [Wizira](../../../astarus/people/wizira.md) tells her of what happened. Unsure what she can do to help, Heather offers to search for any information she can, before giving [Wizira](../../../astarus/people/wizira.md) 1 gp to spend to take her mind off things.
 
-Later, after meeting the rest of the [Purple Rain](../README.md) party in [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md), [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) sees through [Wizira](../../../astarus/people/wizira.md)'s *Disguise Self* spell and blackmails her into helping him, or be reported to the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) for being a [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md).
+Later, after meeting the rest of the [Purple Rain](../purple-rain.md) party in [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md), [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) sees through [Wizira](../../../astarus/people/wizira.md)'s *Disguise Self* spell and blackmails her into helping him, or be reported to the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) for being a [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md).
 
 Wrenn suggests that he may be able to help her locate her father if she is cooperative.
 

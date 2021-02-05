@@ -2,13 +2,13 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Astorrel Agents](../README.md) |
+| Campaign(s) | [Astorrel Agents](../astorrel-agents.md) |
 | Session Started | [AA01](../sessions/AA01.md) |
 | Session Ended | [AA01](../sessions/AA01.md) |
 
 ## Summary
 
-Every year the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) graduate a cohort of new members in [Northhaven](../../../astarus/places/cities/northhaven.md). In the year 312 PA, the [Astorrel Agents](../README.md) party graduate as [Astorrel Squad Hands](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md), and are assigned to [Canary Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) together.
+Every year the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) graduate a cohort of new members in [Northhaven](../../../astarus/places/cities/northhaven.md). In the year 312 PA, the [Astorrel Agents](../astorrel-agents.md) party graduate as [Astorrel Squad Hands](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md), and are assigned to [Canary Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) together.
 
 ## History
 

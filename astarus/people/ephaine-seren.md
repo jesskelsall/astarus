@@ -21,7 +21,7 @@
 
 ## Summary
 
-Ephaine Seren is a player character in the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) campaign, played by Lily.
+Ephaine Seren is a [player](../../players/logan.md) character in the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by [Lily](../../players/lily.md).
 
 ## Backstory
 
@@ -55,4 +55,4 @@ Reaching [Northhaven](../places/cities/northhaven.md), she sought sanctuary and 
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-Ephaine graduated into the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party before meeting him for the first time. She joined [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Ephaine graduated into the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party before meeting him for the first time. She joined [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) alongside [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).

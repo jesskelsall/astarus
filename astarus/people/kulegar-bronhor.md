@@ -46,7 +46,7 @@ Since moving to [Arnaside](../places/villages/arnaside.md), Kulegar has been wor
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 Kulegar is helping the other loggers tidy up the kobolds' mess when the party arrives. He is determining that a broken wheel on the logging cart that was attacked cannot be repaired.
 

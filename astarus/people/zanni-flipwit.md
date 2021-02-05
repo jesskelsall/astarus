@@ -42,7 +42,7 @@ Zanni Flipwit is a Malneshi resident of the village of [Arnaside](../places/vill
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 Zanni's house was attacked last week by the kobolds while she was inside. She is able to tell the party the following information:
 

@@ -30,6 +30,6 @@ It is a white marble spire-shaped building, rising 5 storeys above the city, mak
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
-In session 1, the players have no business in this building, and will be refused access.
+In session 1, the [players](../../../players/logan.md) have no business in this building, and will be refused access.

@@ -22,11 +22,11 @@ The Arnaside Logging Camp is where the village of [Arnaside](../villages/arnasid
 
 ## History
 
-The night before the [Astorrel Agents](../../../campaigns/astorrel-agents/README.md) party arrives, the [Walna Forest](../forests/walna-forest.md) kobolds attack the logging camp under the cover of dark and wind. They destroy one of the logging carts and steal some woodworking tools.
+The night before the [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md) party arrives, the [Walna Forest](../forests/walna-forest.md) kobolds attack the logging camp under the cover of dark and wind. They destroy one of the logging carts and steal some woodworking tools.
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 When the party first arrives at the logging camp, several loggers are cleaning up after the chaos of the kobold attack the night before.
 

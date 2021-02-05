@@ -49,4 +49,4 @@ He is an old man with a beard that really ought to have retired already, but nob
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-Merkin Thorgus conducted the graduation of the [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party, alongside [Levelle Tristwix](levelle-tristwix.md). He gave each party member their graduation purse and bowed.
+Merkin Thorgus conducted the graduation of the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party, alongside [Levelle Tristwix](levelle-tristwix.md). He gave each party member their graduation purse and bowed.

@@ -50,7 +50,7 @@ Tarsha Nulas is secretly a member of the [Astornar](../civilisations/kingdom-of-
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day, Tarsha Nulas is present at her shop counter constantly. She answers questions calmly but evasively, giving very little hard details about what services cost or what items might be available.
 

@@ -2,7 +2,7 @@
 
 | []() | |
 | --- | --- |
-| Campaign(s) | [Astorrel Agents](../README.md) |
+| Campaign(s) | [Astorrel Agents](../astorrel-agents.md) |
 | Session Started | [AA01](../sessions/AA01.md) |
 | Session Ended | |
 
@@ -24,7 +24,7 @@ While praying in front of the statue of [Valnos](../../../astarus/gods/gods/valn
 
 ## Planning
 
-### [Astorrel Agents](../README.md)
+### [Astorrel Agents](../astorrel-agents.md)
 
 [Valnos](../../../astarus/gods/gods/valnos.md) will communicate more with Whisper as time goes on. How Whisper reacts to this and chooses to engage with it will largely determine the content, means, and circumstances.
 

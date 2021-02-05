@@ -50,6 +50,6 @@ Due to its proximity to the [Northhaven Astornox Stronghold](../../strongholds/n
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/README.md)
+### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 During graduation day the inn is busier than usual due to [The Mission's End](the-missions-end.md) being packed with graduates. By that evening, it is back to its normal level.

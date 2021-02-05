@@ -57,4 +57,4 @@ Her family has lived for generations as loggers on the outskirts of [Hawkswood](
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/README.md) party has seen Morgan in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when she was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party has seen Morgan in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when she was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
