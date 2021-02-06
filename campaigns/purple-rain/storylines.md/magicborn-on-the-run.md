@@ -108,3 +108,19 @@ Not long after being captured, Wrenn is woken up by the movement of the horse he
 > Captured near [Frizthwaite](../../../astarus/places/villages/frizthwaite.md). Heading to [Northhaven](../../../astarus/places/cities/northhaven.md) by boat or road. Blue firbolg, grey human--
 
 Shortly thereafter Morog notices that Wrenn is muttering to himself and confiscates his copper wire before restraining him more thoroughly.
+
+## [PR13](../sessions.md/PR13.md)
+
+The party enters the village of [Frizthwaite](../../../astarus/places/villages/frizthwaite.md) to try and get a boat so they can proceed downstream to [Northhaven](../../../astarus/places/cities/northhaven.md), avoiding the roads. [Wizira](../../../astarus/people/wizira.md) does not disguise herself while in the village.
+
+Inquiring at the docks, they find they can either buy a boat for 50 gp or rent one for no more than a week.
+
+When the party enters [The Greedy Trout](../../../astarus/places/buildings/inns-taverns/the-greedy-trout.md) for a drink before deciding what to do, they come across 2 [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) guards who are at the bar conversing with the innkeeper. [Wizira](../../../astarus/people/wizira.md) heads down the street, leaving the village outskirts as a means of putting distance between herself and the guards. As she goes she attracts the attention of people on the street who have already seen the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) who are looking for her.
+
+At the bar [Saoirse](../../../astarus/people/saoirse.md) learns from the innkeeper that the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) are looking for someone "tall and blue" ([Wizira](../../../astarus/people/wizira.md)), and someone with "grey skin" ([Torbra](../../../astarus/people/torbra.md)). She joins [Thanea](../../../astarus/people/thanea.md) and [Torbra](../../../astarus/people/torbra.md) at their table where she tells them of the former. The group agrees that they'd best leave [Frizthwaite](../../../astarus/places/villages/frizthwaite.md) quickly.
+
+A villager who saw [Wizira](../../../astarus/people/wizira.md) bursts into the inn, shouting that she's seen her. The [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) rush downstairs to meet her, insisting she shows them where she saw her. They leave in a hurry.
+
+A race to find [Wizira](../../../astarus/people/wizira.md) before the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) do develops. The party fans out before [Thanea](../../../astarus/people/thanea.md) finds [Wizira](../../../astarus/people/wizira.md) making a flower crown. She disguises herself as an old man and the party reconvenes.
+
+The party convinces [Torbra](../../../astarus/people/torbra.md) to head downstream now, so as to avoid being seen. The rest of the party head back to the docks where [Saoirse](../../../astarus/people/saoirse.md) buys the boat. Picking [Torbra](../../../astarus/people/torbra.md) up on the way, they make their way down the [River Humar](../../../astarus/places/rivers-lakes/river-humar.md) towards [Northhaven](../../../astarus/places/cities/northhaven.md), successfully dodging the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) in [Frizthwaite](../../../astarus/places/villages/frizthwaite.md).

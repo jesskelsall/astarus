@@ -42,6 +42,12 @@ Not long after being captured, Wrenn is woken up by the movement of the horse he
 
 Shortly thereafter Morog notices that Wrenn is muttering to himself and confiscates his copper wire before restraining him more thoroughly.
 
+### [PR13](../sessions.md/PR13.md)
+
+Without Wrenn, the party reflects on what to do next. [Thanea](../../../astarus/people/thanea.md) points out that she read his mind and knows the names of the people he wanted to take them too, suggesting that they don't need him any more.
+
+The group decides to press on to [Northhaven](../../../astarus/places/cities/northhaven.md) without him.
+
 ## Planning
 
 [Morog Whiteknuckle](../../../astarus/people/morog-whiteknuckle.md) and his entourage take [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) back to Carnmere as instructed by [Stalker](../../../astarus/people/stalker.md), their leader.
