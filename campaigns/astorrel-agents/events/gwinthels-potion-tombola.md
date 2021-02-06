@@ -16,7 +16,7 @@ Their prize potions are stored in a medium sized wood and metal trunk underneath
 | People | Crowd of citizens, including parents with children. Two [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) guards stand next to the table, keeping watch. |
 | Intrigue | A high stakes gamble with a chance of winning some exceptionally useful potions. |
 
-> Come one, come all, and try your hand at winning a spectacular potion to take home with you! Do you wish to befriend animals, climb walls with ease, make yourself much larger, protect yourself from the elements, or even breath fire? Of course you do! Come and try your luck! There are also 15 potions of healing to win!
+> Come one, come all, and try your hand at winning a spectacular potion to take home with you! Do you wish to befriend animals, climb walls with ease, make yourself much larger, protect yourself from the elements, or even breathe fire? Of course you do! Come and try your luck! There are also 15 potions of healing to win!
 
 > I'm doing this here today at no profit to myself in order to promote "Glug by Gwinthel", my new potion shop that will be opening soon on [Crafters Course](../../../astarus/places/streets/crafters-course.md). If you win today and enjoy what you drink, make sure to pay "Glug by Gwinthel" a visit!
 

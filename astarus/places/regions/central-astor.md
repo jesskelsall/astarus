@@ -34,7 +34,7 @@ To the kingdom's western most reaches is territory that is still classified as p
   - Bootle
   - Grasthwaite
   - [Humouth](../villages/humouth.md)
-  - Ulburn
+  - [Ulburn](../villages/ulburn.md)
 - Forts:
   - Fort Eldrick
   - Fort Knowe

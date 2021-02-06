@@ -1,24 +1,22 @@
 # Wrenn Piznarck
 
-TODO
-
 <img src="../../images/people/wrenn-piznarck.png" height="300" />
 
 | []() | |
 | --- | --- |
-| **Name** | |
-| **Race** | |
-| **Gender** | |
-| **Age** | |
-| **Class** | |
-| **Alignment** | |
-| **Affiliation** | |
-| **Commanding Officer** | | *Delete if not military*
-| **Subordinates** | | *Delete if not military*
-| **Worship** | |
+| **Name** | Wrenn Piznarck |
+| **Race** | Gnome |
+| **Gender** | Male |
+| **Age** | 53 |
+| **Class** | Wizard (School of Conjuration) |
+| **Alignment** | Chaotic Neutral |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Astral Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
+| **Subordinates** | |
+| **Worship** | [Valnos](../gods/gods/valnos.md) |
 | **Relations** | |
-| **Acquaintances** | |
-| **From** | |
+| **Acquaintances** | [Alistair Hawthorn](alistair-hawthorn.md) (ex-friend)<br />[Darjonkaargeac Hidaar](darjonkaargeac-hidaar.md) (friend) |
+| **From** | [Northhaven](../places/cities/northhaven.md) |
 | **Places** | |
 
 ## Summary

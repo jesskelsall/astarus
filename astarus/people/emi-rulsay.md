@@ -8,7 +8,7 @@
 | **Age** | 24 |
 | **Class** | Bard |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): New Squad<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Worship** | [Bhygar](../gods/gods/bhygar.md) |
 | **Relations** | |
 | **Acquaintances** | |
@@ -17,23 +17,23 @@
 
 ## Summary
 
-Emi Rulsay is an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md) in New Squad.
+Emi Rulsay is an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md) in [Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md).
+
+She plays the flute.
 
 ## Characteristics
 
-TODO
-
 | Appearance | Description |
 | --- | --- |
-| Face | |
-| Hair | |
-| Body | |
-| Clothes | |
-| Mannerisms | |
+| Face | Pale skin, rosy cheeks, blue eyes. Warm smile. |
+| Hair | Waist length blonde hair. |
+| Body | 5'8" / 172cm |
+| Clothes | Green dyed leathers, white collared shirt underneath. Brown leather trousers. |
+| Mannerisms | Kind and somewhat shy around people. Fast and purposeful under order. |
 
 | Personality | Description |
 | --- | --- |
-| Voice | |
+| Voice | Female register, smiley/cute. |
 | Quirks | |
 | Knowledge | |
 | Values | |

@@ -14,3 +14,9 @@
 | --- | --- |
 | Zach Semlin | Gill Watney |
 | | Lottie Dalgove |
+
+## Dwarf
+
+| Male | Female |
+| --- | --- |
+| Huldrus Strongarm | |
