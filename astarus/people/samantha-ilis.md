@@ -46,4 +46,4 @@ She has a positive demeanour, bringing a smile to those she talks to. She wants 
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-On graduation day, [Bryce Morton](bryce-morton.md) introduced Samantha to his new subordinates, [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) and [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). She greeted them all in her usual smiley manner before swiftly departing so that Bryce could continue.
+On graduation day, [Bryce Morton](bryce-morton.md) introduced Samantha to his new subordinates, [Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) and [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). She greeted them all in her usual smiley manner before swiftly departing so that Bryce could continue.

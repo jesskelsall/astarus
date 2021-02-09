@@ -1,4 +1,4 @@
-# Crimson Squad
+# Ruby Squad
 
 | []() | |
 | --- | --- |
@@ -12,10 +12,10 @@
 
 ## Summary
 
-Crimson Squad is the other [Astorrel](../astorrel.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) commands. They are set up as the rivals to [Canary Squad](canary.md).
+Ruby Squad is the other [Astorrel](../astorrel.md) squad that [Bryce Morton](../../../../../people/bryce-morton.md) commands. They are set up as the rivals to [Canary Squad](canary.md).
 
 ## Missions
 
 | Name | Status |
 | --- | --- |
-| [Investigate Bear Attacks in Hartsgarth](../../../../../../campaigns/astorrel-agents/storylines/investigate-bear-attacks-in-hartsgarth.md) | Not Started |
+| [Investigate Bear Attacks in Hartsgarth](../../../../../../campaigns/astorrel-agents/storylines/investigate-bear-attacks-in-hartsgarth.md) | Started |

@@ -10,7 +10,7 @@
 | **Age** | 23 |
 | **Class** | Paladin |
 | **Alignment** | Chaotic Good |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | [Bhygar](../gods/gods/bhygar.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Penance Zahiri is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Penance Zahiri is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 ## Characteristics
 
@@ -57,4 +57,4 @@ Penance grew up on the streets of [Northhaven](../places/cities/northhaven.md), 
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party has seen Penance in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when they were placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, they failed to get [Tabari Se](tabari-se.md) to say something.
+The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party has seen Penance in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when they were placed in [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, they failed to get [Tabari Se](tabari-se.md) to say something.

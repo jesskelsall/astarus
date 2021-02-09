@@ -77,7 +77,7 @@ While out on missions, they are completely autonomous and may not have any conta
 
 - [Astral Squad](squads/astral.md)
 - [Canary Squad](squads/canary.md)
-- [Crimson Squad](squads/ruby.md)
+- [Ruby Squad](squads/ruby.md)
 - [Goshawk Squad](squads/goshawk.md)
 
 ## Ranks

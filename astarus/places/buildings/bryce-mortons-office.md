@@ -10,7 +10,7 @@
 
 ## Summary
 
-The office of [Bryce Morton](../../people/bryce-morton.md) in [Auric Rise](auric-rise.md). From here Bryce conducts his duties as [Astorrel Squad Sergeant](../../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) for [Canary Squad](../../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) and [Crimson Squad](../../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+The office of [Bryce Morton](../../people/bryce-morton.md) in [Auric Rise](auric-rise.md). From here Bryce conducts his duties as [Astorrel Squad Sergeant](../../civilisations/kingdom-of-astor/organisations/astorrel/ranks/4-squad-sergeant.md) for [Canary Squad](../../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) and [Ruby Squad](../../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 tastefully decorated, predominantly dark wood paneled room, some marble columns decoratively
 decently long (30ft) by 20ft. carpet.
@@ -31,6 +31,6 @@ back wall is big bookcase covered in books. door in middle of bookcase.
 
 ### [Astorrel Graduation](../../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md) party came here to meet [Bryce Morton](../../people/bryce-morton.md), their new superior officer. Here they became [Canary Squad](../../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md), alongside [Crimson Squad](../../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+The [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md) party came here to meet [Bryce Morton](../../people/bryce-morton.md), their new superior officer. Here they became [Canary Squad](../../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md), alongside [Ruby Squad](../../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 From here on out, the party must return here to complete their missions and be given new ones.

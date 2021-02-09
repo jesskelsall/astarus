@@ -16,4 +16,4 @@ Canary Squad is the [Astorrel](../astorrel.md) squad that the party members of t
 
 | Name | Status |
 | --- | --- |
-| [Check Logging in Arnaside](../../../../../../campaigns/astorrel-agents/storylines/check-logging-in-arnaside.md) | Not Started |
+| [Check Logging in Arnaside](../../../../../../campaigns/astorrel-agents/storylines/check-logging-in-arnaside.md) | Started |

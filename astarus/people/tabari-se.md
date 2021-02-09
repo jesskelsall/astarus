@@ -10,7 +10,7 @@
 | **Age** | 41 |
 | **Class** | Monk / Sorcerer |
 | **Alignment** | Lawful Neutral |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Tabari Se is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and is part of [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Tabari Se is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
 
 ## Characteristics
 
@@ -59,4 +59,4 @@ Tabari has been mute from a young age. Fortunately he's not big on communication
 
 ### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party has seen Tabari in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Crimson Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.
+The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party has seen Tabari in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.
