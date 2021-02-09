@@ -24,9 +24,9 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 
 ## Sessions
 
-- [AA00](sessions/AA00.md)
-- [AA01](sessions/AA01.md)
-- [AA02](sessions/AA02.md)
+| [AA00](sessions/AA00.md) | | | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [AA01](sessions/AA01.md) | [AA02](sessions/AA02.md) | *AA03* |
 
 ## Storylines
 

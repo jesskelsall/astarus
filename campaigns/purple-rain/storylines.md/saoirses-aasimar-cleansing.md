@@ -48,7 +48,7 @@ The dream ends. [Saoirse](../../../astarus/people/saoirse.md) rests peacefully a
 
 ### [PR11](../sessions.md/PR11.md)
 
-[Saoirse](../../../astarus/people/saoirse.md) is distant at various times, contemplating the dream the night before. At one point when they need to keep moving, [Torbra](../../../astarus/people/torbra.md) attempts to lift her up so she can be placed back into the cart, but resists, snapping back to her senses. She chastises [Torbra](../../../astarus/people/torbra.md) for trying something so drastic.
+[Saoirse](../../../astarus/people/saoirse.md) is distant at various times, contemplating the dream the night before. At one point when they need to keep moving, [Torbra Tauff](../../../astarus/people/torbra-tauff.md) attempts to lift her up so she can be placed back into the cart, but resists, snapping back to her senses. She chastises Torbra for trying something so drastic.
 
 Later, [Thanea](../../../astarus/people/thanea.md) reads [Saoirse](../../../astarus/people/saoirse.md)'s thoughts using the Detect Thoughts spell. She hears [Saoirse](../../../astarus/people/saoirse.md) lamenting her dream.
 

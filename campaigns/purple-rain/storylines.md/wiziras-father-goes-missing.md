@@ -8,7 +8,7 @@
 
 ## Summary
 
-[Wizira](../../../astarus/people/wizira.md) returns from a trip to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) to her house ([Wizira's House](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/wiziras-house.md)) to find her father ([Wizira](../../../astarus/people/wizira.md)'s Father) missing. Where has he gone?
+[Wizira](../../../astarus/people/wizira.md) returns from a trip to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) to her house ([Wizira's House](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/wiziras-house.md)) to find her father ([Wizira's Father](../../../astarus/people/wiziras-father.md)) missing. Where has he gone?
 
 Having been captured by the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) for being a [magicborn](../../../astarus/civilisations/kingdom-of-astor/magicborn.md), he is shipped to [Northhaven](../../../astarus/places/cities/northhaven.md) where he will be conscripted. It is up to the party to stop this and return him home.
 
@@ -38,7 +38,7 @@ Returning to [Heather & Horticulture](../../../astarus/civilisations/kingdom-of-
 
 ### Between Sessions
 
-[Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md), fearing that [Wizira](../../../astarus/people/wizira.md)'s Father may have been captured by the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md), goes to the [Goldreach Astornox Stronghold](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) to search for evidence to support his theory.
+[Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md), fearing that [Wizira's Father](../../../astarus/people/wiziras-father.md) may have been captured by the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md), goes to the [Goldreach Astornox Stronghold](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) to search for evidence to support his theory.
 
 Before being caught, he finds records indicating that a firbolg was captured around the time that the meteor fell. He was shipped off for conscription on a cart headed for [Northhaven](../../../astarus/places/cities/northhaven.md).
 
@@ -52,4 +52,4 @@ They begin their efforts to leave [Goldreach](../../../astarus/civilisations/kin
 
 ### [PR10](../sessions.md/PR10.md)
 
-The party leaves [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) for [Northhaven](../../../astarus/places/cities/northhaven.md), where [Wizira](../../../astarus/people/wizira.md)'s Father is being taken.
+The party leaves [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) for [Northhaven](../../../astarus/places/cities/northhaven.md), where [Wizira's Father](../../../astarus/people/wiziras-father.md) is being taken.

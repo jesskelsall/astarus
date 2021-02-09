@@ -18,7 +18,7 @@ All four characters are present in [Goldreach](../../../astarus/civilisations/ki
 | --- | --- |
 | [Saoirse](../../../astarus/people/saoirse.md) | Came in search of the meteor after hearing about it. |
 | [Thanea](../../../astarus/people/thanea.md) | Her deva dream showed a meteor over [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md). |
-| [Torbra](../../../astarus/people/torbra.md) | Heading to the closest city to seek answers about their unknown race (Genasi). |
+| [Torbra Tauff](../../../astarus/people/torbra-tauff.md) | Heading to the closest city to seek answers about their unknown race (Genasi). |
 | [Wizira](../../../astarus/people/wizira.md) | Searching for her missing father. |
 
 ### [PR01](../sessions.md/PR01.md)
@@ -27,7 +27,7 @@ All four characters are present in [Goldreach](../../../astarus/civilisations/ki
 
 [Wizira](../../../astarus/people/wizira.md) is reflecting on her missing father in [Heather & Horticulture](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/heather-and-horticulture.md)'s secret garden when Heather Pentz finds her. She gives [Wizira](../../../astarus/people/wizira.md) 1 gp and instructs her to buy something from the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Market that might cheer her up. Here she bumps into [Saoirse](../../../astarus/people/saoirse.md).
 
-[Torbra](../../../astarus/people/torbra.md) is entering [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) ahead of the rest of the party. They all sit at the same table, largely ignoring each other, until [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) paces the room, followed by [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) asking them about the meteor.
+Torbra is entering [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) ahead of the rest of the party. They all sit at the same table, largely ignoring each other, until [Alistair Hawthorn](../../../astarus/people/alistair-hawthorn.md) paces the room, followed by [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) asking them about the meteor.
 
 ### [PR02](../sessions.md/PR02.md)
 

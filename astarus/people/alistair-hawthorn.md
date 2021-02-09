@@ -10,7 +10,7 @@
 | **Age** | 46 |
 | **Class** | Fighter |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) Captain<br /><img src="../../images/ranks/astornox-0-captain.png" height="50" /> |
+| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) Captain: [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md)<br /><img src="../../images/ranks/astornox-0-captain.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | [Gormox](../gods/gods/gormox.md) |
@@ -78,7 +78,7 @@ The party never took him up on this offer due to the following events that trans
 
 ### [PR06](../../campaigns/purple-rain/sessions.md/PR06.md)
 
-Around the time of this [Purple Rain](../../campaigns/purple-rain/purple-rain.md) session, [Wrenn Piznarck](wrenn-piznarck.md) was caught looking through the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) for [Wizira](wizira.md)'s Father, or any evidence that he was once here. When confronted by Alistair, Wrenn accidentally admitted to knowing [Wizira](wizira.md), effectively admitting to harbouring [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
+Around the time of this [Purple Rain](../../campaigns/purple-rain/purple-rain.md) session, [Wrenn Piznarck](wrenn-piznarck.md) was caught looking through the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) for [Wizira's Father](wiziras-father.md), or any evidence that he was once here. When confronted by Alistair, Wrenn accidentally admitted to knowing [Wizira](wizira.md), effectively admitting to harbouring [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
 Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their return or face serious punishment (likely death). He agreed, but later reneged, recruiting meteorite adventurers to find the party with the help of his crow familiar, and went into hiding in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md).
 

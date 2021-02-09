@@ -10,7 +10,7 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 
 | [Hannah](../../players/hannah.md) | [Robin](../../players/robin.md) | [Sam](../../players/sam.md) | [Sheycara](../../players/sheycara.md) |
 |:---:|:---:|:---:|:---:|
-| [Thanea](../../astarus/people/thanea.md) | [Saoirse](../../astarus/people/saoirse.md) | [Torbra](../../astarus/people/torbra.md) | [Wizira](../../astarus/people/wizira.md) |
+| [Thanea](../../astarus/people/thanea.md) | [Saoirse](../../astarus/people/saoirse.md) | [Torbra Tauff](../../astarus/people/torbra-tauff.md) | [Wizira](../../astarus/people/wizira.md) |
 | <img src="../../images/people/thanea.png" height="300" /> | <img src="../../images/people/saoirse.png" height="300" /> | <img src="../../images/people/torbra.png" height="300" /> | <img src="../../images/people/wizira.png" height="300" /> |
 
 ## Guests
@@ -25,21 +25,10 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 
 ## Sessions
 
-- [PR00](sessions.md/PR00.md)
-- [PR01](sessions.md/PR01.md)
-- [PR02](sessions.md/PR02.md)
-- [PR03](sessions.md/PR03.md)
-- [PR04](sessions.md/PR04.md)
-- [PR05](sessions.md/PR05.md)
-- [PR06](sessions.md/PR06.md)
-- [PR07](sessions.md/PR07.md)
-- [PR08](sessions.md/PR08.md)
-- [PR09](sessions.md/PR09.md)
-- [PR10](sessions.md/PR10.md)
-- [PR11](sessions.md/PR11.md)
-- [PR12](sessions.md/PR12.md)
-- [PR13](sessions.md/PR13.md)
-- [PR14](sessions.md/PR14.md)
+| [PR00](sessions.md/PR00.md) | | | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [PR01](sessions.md/PR01.md) | [PR02](sessions.md/PR02.md) | [PR03](sessions.md/PR03.md) | [PR04](sessions.md/PR04.md) | [PR05](sessions.md/PR05.md) | [PR06](sessions.md/PR06.md) | [PR07](sessions.md/PR07.md) | [PR08](sessions.md/PR08.md) | [PR09](sessions.md/PR09.md) | [PR10](sessions.md/PR10.md) |
+| [PR11](sessions.md/PR11.md) | [PR12](sessions.md/PR12.md) | [PR13](sessions.md/PR13.md) | [PR14](sessions.md/PR14.md) | *PR15* |
 
 ## Storylines
 
