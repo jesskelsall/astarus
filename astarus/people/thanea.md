@@ -4,6 +4,13 @@ TODO
 
 <img src="../../images/people/thanea.png" height="300" />
 
+<details>
+  <summary>
+    <a href="https://www.dndbeyond.com/races/aasimar#ProtectorAasimar">Radiant Soul</a>
+  </summary>
+  <img src="../../images/people/thanea-radiant-soul.png" height="300" />
+</details>
+
 | []() | |
 | --- | --- |
 | **Name** | |

@@ -2,6 +2,13 @@
 
 <img src="../../images/people/ephaine-seren.png" height="300" />
 
+<details>
+  <summary>
+    <a href="https://www.dndbeyond.com/classes/druid#CircleofStars">Starry Form</a>
+  </summary>
+  <img src="../../images/people/ephaine-seren-starry-form.png" height="300" />
+</details>
+
 | []() | |
 | --- | --- |
 | **Name** | Ephaine Seren |
