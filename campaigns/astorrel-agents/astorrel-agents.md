@@ -21,6 +21,8 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 ## Links
 
 - [Astorrel Agents at D&D Beyond](https://www.dndbeyond.com/campaigns/1620558)
+- [Astorrel Agents Days](days.md)
+- [Two Truths and a Lie](two-truths-and-a-lie.md)
 
 ## Sessions
 

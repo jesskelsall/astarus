@@ -4,9 +4,9 @@
 
 ## Premise
 
-The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) following the crash landing of a meteor nearby several days ago. On investigation, the meteor is a bad omen of things to come...
+The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) following the crash landing of a meteor nearby several days ago. On investigation, the meteor is more than they bargained for...
 
-## [Players](../../players/logan.md)
+## Party Members
 
 | [Hannah](../../players/hannah.md) | [Robin](../../players/robin.md) | [Sam](../../players/sam.md) | [Sheycara](../../players/sheycara.md) |
 |:---:|:---:|:---:|:---:|
@@ -22,6 +22,8 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 ## Links
 
 - [Purple Rain at D&D Beyond](https://www.dndbeyond.com/campaigns/1397675)
+- [Purple Rain Days](days.md)
+- [Purple Rain Items](items.md)
 
 ## Sessions
 
