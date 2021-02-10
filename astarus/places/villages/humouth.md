@@ -28,7 +28,7 @@ The village itself is tightly clustered around the seafront, set atop a small cl
 
 ## Places
 
-- The Keeper's Reprise (inn)
+- [The Keeper's Reprise](../buildings/inns-taverns/the-keepers-reprise.md) (inn)
 - [Humouth Lighthouse](../buildings/humouth-lighthouse.md)
 - Humouth General (general store)
 

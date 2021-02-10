@@ -52,7 +52,7 @@ His horse is called Secret.
 
 When bandits ambushed the coach by placing a dead horse in the road, Clay was sliced at by a bandit that jumped on the front of the cart, rendering him unconscious. [Ephaine Seren](ephaine-seren.md) managed to stabilise him with Healing Word.
 
-Following the fight, he was in too bad a condition to drive and was placed in the back of the coach to rest. The party opted to stop overnight in [Humouth](../places/villages/humouth.md) so that he could rest in The Keeper's Reprise (inn).
+Following the fight, he was in too bad a condition to drive and was placed in the back of the coach to rest. The party opted to stop overnight in [Humouth](../places/villages/humouth.md) so that he could rest in [The Keeper's Reprise](../places/buildings/inns-taverns/the-keepers-reprise.md) (inn).
 
 ## Planning
 

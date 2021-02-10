@@ -39,7 +39,7 @@ Setting off, they spend 2 days making their way to [Humouth](../../../astarus/pl
 
 During the fight, Clay is hit by a bandit, rendering him unconscious. For the remainder of the day he rests in the back of the coach while [Ephaine Seren](../../../astarus/people/ephaine-seren.md) drives and [Ahsha Sallas](../../../astarus/people/ahsha-sallas.md) navigates.
 
-Upon arrival at [Howbridge](../../../astarus/places/towns/howbridge.md), the party rents rooms at The Keeper's Reprise for the night, stabling the horse and coach, and ensuring that Clay is put to bed where he can rest.
+Upon arrival at [Howbridge](../../../astarus/places/towns/howbridge.md), the party rents rooms at [The Keeper's Reprise](../../../astarus/places/buildings/inns-taverns/the-keepers-reprise.md) for the night, stabling the horse and coach, and ensuring that Clay is put to bed where he can rest.
 
 ## Planning
 

@@ -48,6 +48,15 @@ Due to its proximity to the [Northhaven Astornox Stronghold](../../strongholds/n
 
 ## History
 
+### [AA01](../../../../campaigns/astorrel-agents/sessions/AA01.md) / [AA02](../../../../campaigns/astorrel-agents/sessions/AA02.md)
+
+The [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md) party stayed at The Rose Buckler after graduation day.
+
+| Character | Activity |
+| --- | --- |
+| [Ahsha Sallas](../../../people/ahsha-sallas.md) | Drank a lot. |
+| [Redwyn Humpledopper](../../../people/redywn-humpledopper.md) | Haggled aggressively with [Tydrus Tinshield](../../../people/tydrus-tinshield.md) in dwarvish.<br />Won 1 round of [Twenties](../../../other/twenties.md) (1 gp) against [Jaxon Ultari](../../../people/jaxon-ultari.md) |
+
 ## Planning
 
 ### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
