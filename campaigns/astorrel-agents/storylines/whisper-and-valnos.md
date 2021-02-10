@@ -22,12 +22,27 @@ While praying in front of the statue of [Valnos](../../../astarus/gods/gods/valn
 
 > No need to be so glum.
 
+### [AA02](../sessions/AA02.md)
+
+On the night of graduation day, [Whisper on the Breeze](../../../astarus/people/whisper-on-the-breeze.md) returns to [Diamond Prime](../../../astarus/places/buildings/temples/diamond-prime.md) while the rest of the party either goes to bed or handles other business. She intentionally waits until her journey there is not observed.
+
+Praying once again at the shrine to [Valnos](../../../astarus/gods/gods/valnos.md), she grows impatient for another sign, before the statue begins to glow and the female voice of [Valnos](../../../astarus/gods/gods/valnos.md) is heard again.
+
+*[Valnos](../../../astarus/gods/gods/valnos.md):*
+> What is it that you seek?
+
+*[Whisper on the Breeze](../../../astarus/people/whisper-on-the-breeze.md):*
+> Closure.
+
+*[Valnos](../../../astarus/gods/gods/valnos.md):*
+> If that's what you wish.
+
 ## Planning
 
 ### [Astorrel Agents](../astorrel-agents.md)
 
 [Valnos](../../../astarus/gods/gods/valnos.md) will communicate more with Whisper as time goes on. How Whisper reacts to this and chooses to engage with it will largely determine the content, means, and circumstances.
 
-The first time Whisper willingly reaches out for [Valnos](../../../astarus/gods/gods/valnos.md), they will answer.
+Next time Whisper tries to contact [Valnos](../../../astarus/gods/gods/valnos.md), there will be no response. Divine intervention is not on a mortal schedule.
 
 [Valnos](../../../astarus/gods/gods/valnos.md) will provide Whisper with dreams where they are flying alongside [Valnos](../../../astarus/gods/gods/valnos.md). Together they will visit places and moments from Whisper's past. Eventually these will start to show future places and events of significance.

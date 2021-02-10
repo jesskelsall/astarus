@@ -26,6 +26,17 @@ He explained to them that he would be picking one of them to be promoted from [A
 
 Until he has made his decision, Bryce will be making one squad member per mission "acting Squad Lead" so that they may prove themselves.
 
+### [AA02](../sessions/AA02.md)
+
+[Bryce Morton](../../../astarus/people/bryce-morton.md) gives both of his squads their first missions and names the first acting squad leads, picking both Ahsha and Darius for having received the Exceptional Trainee Bonus.
+
+| Squad | Acting Lead | Mission | Bounty | Time Limit |
+| --- | --- | --- | --- | --- |
+| [Ruby Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md) | [Darius Dunn](../../../astarus/people/darius-dunn.md) | [Investigate Bear Attacks in Hartsgarth](investigate-bear-attacks-in-hartsgarth.md) | 30 gp | 10 days |
+| [Canary Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) | [Ahsha Sallas](../../../astarus/people/ahsha-sallas.md) | [Check Logging in Arnaside](check-logging-in-arnaside.md) | 20 gp | 14 days |
+
+The party begins their journey to [Arnaside](../../../astarus/places/villages/arnaside.md) so that they can complete their mission in good time and return as soon as possible. Ahsha takes charge of deciding how the group will get there (hired coach), and converses with [Clay Mullen](../../../astarus/people/clay-mullen.md) to hire his services to this end.
+
 ## Planning
 
 *See: [Astorrel Graduation](astorrel-graduation.md)*  
