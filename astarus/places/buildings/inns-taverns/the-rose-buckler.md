@@ -6,7 +6,7 @@
 | **Type** | Inn |
 | **Location** | [Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br />[Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md) |
-| **People** | [Tydrus Tinshield](../../../people/tydrus-tinshield.md) (owner, innkeeper) |
+| **People** | [Tydrus Tinshield](../../../people/tydrus-tinshield.md) (owner, innkeeper)<br />[Jaxon Ultari](../../../people/jaxon-ultari.md) (patron, gambler) |
 
 ## Summary
 
