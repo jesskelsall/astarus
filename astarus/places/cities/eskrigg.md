@@ -8,7 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) |
 | **Population** | 12,000 |
 | **Nearby Places** | [Eskside Byway](../roads/eskside-byway.md)<br />[Grasthwaite Bend](../roads/grasthwaite-bend.md)<br />[Great Astor Road](../roads/great-astor-road.md) |
-| **People** | |
+| **People** | [Legacy Aranius](../../people/legacy-aranius.md) ([Astornox Major](../../civilisations/kingdom-of-astor/organisations/astornox/ranks/6-major.md) of Eskrigg) |
 
 ## Summary
 
