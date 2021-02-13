@@ -30,7 +30,7 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 | [PR00](sessions.md/PR00.md) | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [PR01](sessions.md/PR01.md) | [PR02](sessions.md/PR02.md) | [PR03](sessions.md/PR03.md) | [PR04](sessions.md/PR04.md) | [PR05](sessions.md/PR05.md) | [PR06](sessions.md/PR06.md) | [PR07](sessions.md/PR07.md) | [PR08](sessions.md/PR08.md) | [PR09](sessions.md/PR09.md) | [PR10](sessions.md/PR10.md) |
-| [PR11](sessions.md/PR11.md) | [PR12](sessions.md/PR12.md) | [PR13](sessions.md/PR13.md) | [PR14](sessions.md/PR14.md) | *PR15* |
+| [PR11](sessions.md/PR11.md) | [PR12](sessions.md/PR12.md) | [PR13](sessions.md/PR13.md) | [PR14](sessions.md/PR14.md) | *[PR15](sessions.md/PR15.md)* |
 
 ## Storylines
 
