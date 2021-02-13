@@ -18,7 +18,7 @@ Goldreach is a town in [northern Astor](../../../../places/regions/northern-asto
 
 The quaint rural town is set amongst expansive grassy plains, penned in by the [Hawkswood](../../../../places/forests/hawkswood.md) to the west and the [Winster Forest](../../../../places/forests/winster-forest.md) to the east, with views of the mountains to the north providing a dramatic backdrop.
 
-Built on a natural spring in the plains, Goldreach is not walled and rarely in any danger due to the amicable relationship with the [Dardenn Kingdom](../../../dardenn-kingdom/README.md) to the north. It is built around a Marketplace and features an Order of the Diamond temple, an [Astornox](../../organisations/astornox.md) stronghold with an outer wall, lively shops and a few notable inns.
+Built on a natural spring in the plains, Goldreach is not walled and rarely in any danger due to the amicable relationship with the [Dardenn Kingdom](../../../dardenn-kingdom/README.md) to the north. It is built around a Marketplace and features an Order of the Diamond temple, an [Astornox](../../organisations/astornox/astornox.md) stronghold with an outer wall, lively shops and a few notable inns.
 
 It is known for its cosmopolitan residents, bustling trade, and general good hospitality, making it a favourite rest stop for frequent travelers. There are many farms in the vicinity, so it is an agricultural hub with much food and animals passing through it.
 
@@ -27,7 +27,7 @@ It is known for its cosmopolitan residents, bustling trade, and general good hos
 | Sights | Medium sized rural town set amongst the plains, with forests to the east and west, and mountains visible on the north horizon. Cobbled stone and wooden buildings, wide dirt track streets, and a paved marketplace. A mix of simple drigg dwellings, 2-3 storey townhouses, and fancier citizen dwellings with gardens. |
 | Sounds | Chatter from locals. Horses and carts. Children playing in the streets. Market trade. |
 | Smells | Mud, horse manure, livestock, ale. |
-| People | Cosmopolitan mix of people of all races and levels of the social order. [Astornox](../../organisations/astornox.md) stronghold, well off citizens. |
+| People | Cosmopolitan mix of people of all races and levels of the social order. [Astornox](../../organisations/astornox/astornox.md) stronghold, well off citizens. |
 | Intrigue | A bustling and peaceful town along a busy trade route. |
 
 ## Places

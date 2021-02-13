@@ -8,7 +8,7 @@
 | **Age** | 74|
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |

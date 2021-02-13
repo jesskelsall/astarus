@@ -8,13 +8,13 @@
 
 ## Summary
 
-While the party are on the run from the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) with [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md), [The Crimson Blades](../../../astarus/civilisations/kingdom-of-astor/organisations/the-crimson-blades.md) catch up with Wrenn, capturing him so that he can pay his debt to them, one way or another.
+While the party are on the run from the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) with [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md), [The Crimson Blades](../../../astarus/civilisations/kingdom-of-astor/organisations/the-crimson-blades.md) catch up with Wrenn, capturing him so that he can pay his debt to them, one way or another.
 
 ## History
 
 ### [Purple Rain](../purple-rain.md) Prelude
 
-Prior to [PR12](../sessions.md/PR12.md), [Stalker](../../../astarus/people/stalker.md) sends [Morog Whiteknuckle](../../../astarus/people/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md). They trailed him to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) while staying at [Alistair Hawthorn's House](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/alistair-hawthorns-house.md).
+Prior to [PR12](../sessions.md/PR12.md), [Stalker](../../../astarus/people/stalker.md) sends [Morog Whiteknuckle](../../../astarus/people/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md). They trailed him to [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) while staying at [Alistair Hawthorn's House](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/alistair-hawthorns-house.md).
 
 When the party fled [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) to seek sanctuary at the [Northhaven Astorrel Stronghold](../../../astarus/places/strongholds/northhaven-astorrel-stronghold.md), Morog sensed an opportunity and went in pursuit of Wrenn.
 
@@ -36,7 +36,7 @@ Morog and his entourage then took the 2 still alive horses and left to the south
 
 Not long after being captured, Wrenn is woken up by the movement of the horse he is draped over. Keeping his composure, he manages to cast Sending with the copper wire coiled around his wrist, contacting [Darjonkaargeac Hidaar](../../../astarus/people/darjonkaargeac-hidaar.md) ([Goshawk squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md) lead) to explain his capture and the danger the party is in:
 
-> Help! Captured by bandits. Please help my friends! Hunted by [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md). They know information that will save Astor. Get them to Elysia!
+> Help! Captured by bandits. Please help my friends! Hunted by [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md). They know information that will save Astor. Get them to Elysia!
 
 > Captured near [Frizthwaite](../../../astarus/places/villages/frizthwaite.md). Heading to [Northhaven](../../../astarus/places/cities/northhaven.md) by boat or road. Blue firbolg, grey human--
 

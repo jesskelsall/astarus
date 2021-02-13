@@ -14,10 +14,10 @@ Flute Street is where the wealthier citizens of [Goldreach](../README.md) live, 
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Two storey cottage houses with well maintained gardens including flowers and hedges. Quaint country vibes. Clean cobbled street. [Astornox](../../../organisations/astornox.md) fort wall on the opposite side of the street. Guard towers keeping a keen eye on trouble. |
+| Sights | Two storey cottage houses with well maintained gardens including flowers and hedges. Quaint country vibes. Clean cobbled street. [Astornox](../../../organisations/astornox/astornox.md) fort wall on the opposite side of the street. Guard towers keeping a keen eye on trouble. |
 | Sounds | Birds chirping. |
 | Smells | Floral smells from the flowers. Lack of typical town smells. |
-| People | Quiet except for guarding [Astornox](../../../organisations/astornox.md). |
+| People | Quiet except for guarding [Astornox](../../../organisations/astornox/astornox.md). |
 | Intrigue | An especially well maintained street that exudes wealth, despite its view of the town wall. |
 
 ## Places
@@ -30,4 +30,4 @@ Flute Street is where the wealthier citizens of [Goldreach](../README.md) live, 
 
 *See: [Finding the Goldreach Meteorite](../../../../../../campaigns/purple-rain/storylines.md/finding-the-goldreach-meteorite.md)*
 
-The [Purple Rain](../../../../../../campaigns/purple-rain/purple-rain.md) party had agreed to meet [Wrenn Piznarck](../../../../../people/wrenn-piznarck.md) at 12 Flute Street in order to help him locate the [Goldreach](../README.md) Meteorite. They found the house with the help of an [Astornox](../../../organisations/astornox.md) guard, who they provided a code word to courtesy of Wrenn.
+The [Purple Rain](../../../../../../campaigns/purple-rain/purple-rain.md) party had agreed to meet [Wrenn Piznarck](../../../../../people/wrenn-piznarck.md) at 12 Flute Street in order to help him locate the [Goldreach](../README.md) Meteorite. They found the house with the help of an [Astornox guard](../../../organisations/astornox/ranks/1-guard.md), who they provided a code word to courtesy of Wrenn.

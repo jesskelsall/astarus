@@ -10,7 +10,7 @@
 | **Age** | 46 |
 | **Class** | Fighter |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) Captain: [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md)<br /><img src="../../images/ranks/astornox-0-captain.png" height="50" /> |
+| **Affiliation** | [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md): [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md)<br /><img src="../../images/ranks/astornox-0-captain.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | [Gormox](../gods/gods/gormox.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Alistair Hawthorn is the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) Captain of [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md). He is the commanding officer there, overseeing the protection of the town and the use of its standing military presence.
+Alistair Hawthorn is the [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md) of [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md). He is the commanding officer there, overseeing the protection of the town and the use of its standing military presence.
 
 His job is to make sure that nothing bad happens in the town, so his role is varied and includes keeping the peace, dealing with local wildlife, and looking out for [magicborn](../civilisations/kingdom-of-astor/magicborn.md) that can be sent off to [Northhaven](../places/cities/northhaven.md) for processing.
 
@@ -34,13 +34,13 @@ He comes from a prestigious family and is the embodiment of the upper class in [
 | Face | Stern face, chiseled jaw. Brown eyes. |
 | Hair | Bald head, clean shaven. |
 | Body | Well built, average height. |
-| Clothes | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) Captain's uniform. |
+| Clothes | [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md)'s uniform. |
 | Mannerisms | Upright, chest puffed out. Stiff military movements, uses his posture to show dominance. |
 
 | Personality | Description |
 | --- | --- |
 | Voice | Loud and commanding. |
-| Quirks | Despite the temptations of his position and status, he cares deeply about [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) and recognises any non-[Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) people that keep the peace. |
+| Quirks | Despite the temptations of his position and status, he cares deeply about [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) and recognises any non-[Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) people that keep the peace. |
 | Knowledge | Enjoys dueling and getting his hands dirty if needed. Good general knowledge due to his position. |
 | Values | |
 | Ambitions | |
@@ -70,7 +70,7 @@ Following [Wrenn Piznarck](wrenn-piznarck.md)'s conversation with the party here
 
 *See: [Wolves Threaten Goldreach](../../campaigns/purple-rain/storylines.md/wolves-threaten-goldreach.md)*
 
-When the remains of the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) wolf pack charge into town in the early morning out of fear, Alistair is on patrol with some [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) guards. He is able to defeat part of the pack and their dire wolf leader while the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party fights and kills other wolves further up the street.
+When the remains of the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) wolf pack charge into town in the early morning out of fear, Alistair is on patrol with some [Astornox guards](../civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md). He is able to defeat part of the pack and their dire wolf leader while the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party fights and kills other wolves further up the street.
 
 In the aftermath, he thanks for the party for their hard work and offers to reward them if they visit him at the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) the following day, giving him enough time to help clean up the mess and see that the wounded are taken care of.
 
@@ -86,4 +86,4 @@ Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their ret
 
 TODO confirm session number
 
-While the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party was escaping [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) with [Wrenn Piznarck](wrenn-piznarck.md), Alistair Hawthorn was personally commanding the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md)'s search efforts for him throughout town, despite it being the middle of the night. He was furious at his former friend's betrayal, and insisted they try harder to find Wrenn before raising the alarm to the Eaglesfield and [Beckermet](../places/towns/beckermet.md) [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md).
+While the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party was escaping [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) with [Wrenn Piznarck](wrenn-piznarck.md), Alistair Hawthorn was personally commanding the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md)'s search efforts for him throughout town, despite it being the middle of the night. He was furious at his former friend's betrayal, and insisted they try harder to find Wrenn before raising the alarm to the Eaglesfield and [Beckermet](../places/towns/beckermet.md) [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md).

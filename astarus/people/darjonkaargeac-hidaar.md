@@ -50,7 +50,7 @@ Hidaar and [Wrenn Piznarck](wrenn-piznarck.md) have known each other for years. 
 
 Hidaar sent his squad out in search of a blue firbolg and a grey skinned human after receiving two messages from [Wrenn Piznarck](wrenn-piznarck.md) using Sending:
 
-> Help! Captured by bandits. Please help my friends! Hunted by [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). They know information that will save Astor. Get them to Elysia!
+> Help! Captured by bandits. Please help my friends! Hunted by [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md). They know information that will save Astor. Get them to Elysia!
 
 > Captured near [Frizthwaite](../places/villages/frizthwaite.md). Heading to [Northhaven](../places/cities/northhaven.md) by boat or road. Blue firbolg, grey human--
 
@@ -78,6 +78,6 @@ Once his squad reassembles, he issues the following orders:
 
 | Character | Order |
 | --- | --- |
-| [Emi Rulsay](emi-rulsay.md) | Stay here with him to run interference on the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md). |
+| [Emi Rulsay](emi-rulsay.md) | Stay here with him to run interference on the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md). |
 | Sarleen | Attempt to contact [Levelle Tristwix](levelle-tristwix.md). |
 | [Sparrow on the Autumn Pine](sparrow-on-the-autumn-pine.md) | Accompany the party into [Northhaven](../places/cities/northhaven.md). |

@@ -21,7 +21,7 @@ The street slopes down away from [Astor Square](../structures/astor-square.md), 
 | Sights | Fine selection of businesses and their shop fronts on the ground floor of 2 and 3 storey buildings. Stone paved sloping road with only enough room for 4 people wide. Dark and cool. Periodic lampposts light the street even in the day. |
 | Sounds | People talking and walking. Some vendors shouting to entice customers inside. |
 | Smells | A variety of wares. Standard affluent city smell. |
-| People | All sorts of citizens looking to browse and buy. Shopkeepers looking on keenly. Permanent [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox.md) presence. |
+| People | All sorts of citizens looking to browse and buy. Shopkeepers looking on keenly. Permanent [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) presence. |
 | Intrigue | A tightly packed street littered with interesting shops. An unlikely location for so much commerce. |
 
 ## Places

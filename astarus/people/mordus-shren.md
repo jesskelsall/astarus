@@ -8,7 +8,7 @@
 | **Age** | 60 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
@@ -46,6 +46,6 @@ Mordus Shren is the owner and innkeeper of [The Greedy Trout](../places/building
 
 Mordus Shren will be behind the bar when the party enters, happy to see new faces in their small town. He hopes they'll stay a while.
 
-The following morning, when the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) come looking for the party, Mordus can be seen looking glum as the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) state who they're looking for. He is visibly deflated by the realisation that he welcomed known criminals into his inn.
+The following morning, when the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) come looking for the party, Mordus can be seen looking glum as the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) state who they're looking for. He is visibly deflated by the realisation that he welcomed known criminals into his inn.
 
-Mordus tells the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) guards that they checked in last night and they may still be here.
+Mordus tells the [Astornox guards](../civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md) that they checked in last night and they may still be here.

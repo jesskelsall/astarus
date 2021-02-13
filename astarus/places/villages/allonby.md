@@ -40,4 +40,4 @@ The [players](../../../players/logan.md) may pass through here during either hea
 
 Allonby is very welcoming and curious about the party, offering them food. There is no inn, but a building can be cleared to host them overnight.
 
-Two [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox.md) guards are currently in Allonby on village patrol. They will be helping out here for at least 3 more days before heading back to [Northhaven](../cities/northhaven.md).
+Two [Astornox guards](../../civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md) are currently in Allonby on village patrol. They will be helping out here for at least 3 more days before heading back to [Northhaven](../cities/northhaven.md).

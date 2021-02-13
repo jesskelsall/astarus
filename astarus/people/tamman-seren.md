@@ -21,9 +21,9 @@ Tamman Seren is [Ephaine Seren](ephaine-seren.md)'s older brother. He lives in t
 
 ## History
 
-When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, he stood up to an [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) commander and his vanguard who came for his family's sheep in the night.
+When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, he stood up to an [Astornox Lieutenant](../civilisations/kingdom-of-astor/organisations/astornox/ranks/4-lieutenant.md) and his vanguard who came for his family's sheep in the night.
 
-He was severely beaten for his insolence before Ephaine healed him with her druidic magic. This act caught the attention of the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox.md) present. Ephaine then buried and killed them in an avalanche of her causing.
+He was severely beaten for his insolence before Ephaine healed him with her druidic magic. This act caught the attention of the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) present. Ephaine then buried and killed them in an avalanche of her causing.
 
 After this, Tamman watched on as his sister quickly departed to seek the sanctuary of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). He hasn't seen her since.
 

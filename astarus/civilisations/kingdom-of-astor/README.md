@@ -41,7 +41,7 @@ Ultimate power resides with the *general supreme*, Corville Thornox. He is the s
 Those who are part of one of these organisations are considered to be part of Astor's military, due to their subservience to their superior officer. They can generically describe themselves as a *military member*.
 
 - [Astornar](organisations/astornar.md): ruling generals in charge of the kingdom and other organisations.
-- [Astornox](organisations/astornox.md): army, war efforts, local government, guards, protection of the citizens.
+- [Astornox](organisations/astornox/astornox.md): army, war efforts, local government, guards, protection of the citizens.
 - [Astorrel](organisations/astorrel/astorrel.md): upholders of the balance between civilisation and nature.
 - [Astornos](organisations/astornos.md): researchers of the meteoric threat.
 

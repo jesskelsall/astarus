@@ -37,7 +37,7 @@ The village itself is tightly packed against the river's edge, with many piers a
 
 ### [Purple Rain](../../../campaigns/purple-rain/purple-rain.md)
 
-The village is going about their usual business, blissfully unaware of the party on the run from the [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox.md). [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox.md) visit the town every few days from [Beckermet](../towns/beckermet.md). Today they're not here, having visited yesterday.
+The village is going about their usual business, blissfully unaware of the party on the run from the [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md). [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) visit the town every few days from [Beckermet](../towns/beckermet.md). Today they're not here, having visited yesterday.
 
 [Oleg Purley](../../people/oleg-purley.md) is standing around by the riverside and is able to help the party procure a boat.
 

@@ -35,4 +35,4 @@ The village is tightly packed, using all of the available space in the river's b
 
 ### [Purple Rain](../../../campaigns/purple-rain/purple-rain.md)
 
-There is a threat of [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox.md) guards being present here, particularly inside the inn.
+There is a threat of [Astornox guards](../../civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md) being present here, particularly inside the inn.

@@ -50,7 +50,7 @@ Upon arrival at [Howbridge](../../../astarus/places/towns/howbridge.md), the par
 - No inn, only a tavern. Ran by a dragonborn. Party can sleep in the inn overnight, as there's not really anywhere else to stay.
 - Poor logging output since the spring.
 - Traps left in the forest, several injuries. At least one each: amputation, death.
-- [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox.md) rarely visit and are happy to leave them alone.
+- [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) rarely visit and are happy to leave them alone.
 - Precious supplies going missing in the night.
 - Sound of creatures descending on the town. Too scared to act.
 - Missing supplies hard to replace due to no wood money. Vicious cycle.
