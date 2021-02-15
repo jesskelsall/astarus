@@ -16,6 +16,6 @@ Ruby Squad is the other [Astorrel](../astorrel.md) squad that [Bryce Morton](../
 
 ## Missions
 
-| Name | Status |
+| Mission | Status |
 | --- | --- |
 | [Investigate Bear Attacks in Hartsgarth](../../../../../../campaigns/astorrel-agents/storylines/investigate-bear-attacks-in-hartsgarth.md) | Started |

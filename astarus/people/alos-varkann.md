@@ -6,7 +6,7 @@
 | **Race** | Human |
 | **Gender** | Non-binary |
 | **Age** | |
-| **Class** | |
+| **Class** | Barbarian |
 | **Alignment** | |
 | **Affiliation** | |
 | **Commanding Officer** | | *Delete if not military*
