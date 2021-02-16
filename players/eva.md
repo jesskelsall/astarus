@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| Sarleen | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Guest |
+| [Sarleen Truestriker](../astarus/people/sarleen-truestriker.md) | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Guest |

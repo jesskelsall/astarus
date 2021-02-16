@@ -59,7 +59,7 @@ He ordered his squad hands as follows:
 | Character | Order |
 | --- | --- |
 | [Emi Rulsay](emi-rulsay.md) | Direct to [Beckermet](../places/towns/beckermet.md) via the plains. |
-| Sarleen | Along the [River Humar](../places/rivers-lakes/river-humar.md) to [Frizthwaite](../places/villages/frizthwaite.md). |
+| [Sarleen Truestriker](sarleen-truestriker.md) | Along the [River Humar](../places/rivers-lakes/river-humar.md) to [Frizthwaite](../places/villages/frizthwaite.md). |
 | [Sparrow on the Autumn Pine](sparrow-on-the-autumn-pine.md) | Up the [Humar Cut](../places/roads/humar-cut.md) to [Howbridge](../places/towns/howbridge.md). |
 
 If they didn't find anything, they were to meet him back at [Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md) House in [Ulburn](../places/villages/ulburn.md).
@@ -79,5 +79,5 @@ Once his squad reassembles, he issues the following orders:
 | Character | Order |
 | --- | --- |
 | [Emi Rulsay](emi-rulsay.md) | Stay here with him to run interference on the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md). |
-| Sarleen | Attempt to contact [Levelle Tristwix](levelle-tristwix.md). |
+| [Sarleen Truestriker](sarleen-truestriker.md) | Attempt to contact [Levelle Tristwix](levelle-tristwix.md). |
 | [Sparrow on the Autumn Pine](sparrow-on-the-autumn-pine.md) | Accompany the party into [Northhaven](../places/cities/northhaven.md). |

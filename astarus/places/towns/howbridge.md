@@ -18,7 +18,7 @@ Howbridge is a logging village situated on a bend of the [River Humar](../rivers
 
 Despite the logging industry here, the village is predominantly made of stone shipped down from Iredale, the village instead choosing to sell their logs rather than use them. Wooden decorative flourishes can be found everywhere, demonstrating the fine craftsmanship appearing in the village.
 
-The town is centered around the [Humar Cut](../roads/humar-cut.md) and the bridge, forming the main street through town. This slows down those aiming to pass through, giving the locals a chance to catch their eye with wooden wares and other local produce.
+The town is centred around the [Humar Cut](../roads/humar-cut.md) and the bridge, forming the main street through town. This slows down those aiming to pass through, giving the locals a chance to catch their eye with wooden wares and other local produce.
 
 ### From the [River Humar](../rivers-lakes/river-humar.md)
 

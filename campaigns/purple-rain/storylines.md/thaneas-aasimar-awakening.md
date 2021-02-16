@@ -41,3 +41,15 @@ After leaving [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settle
 [Thanea](../../../astarus/people/thanea.md) tells [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) that her prophetic dream of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite helped lead the party to its location in [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md). She asks Wrenn if he is aware of anyone else that has such dreams, but he is not.
 
 He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they are in has passed, he would like to introduce her to someone that has visions of the future, though they have them while awake. He references an old word for the phenomenon: seer.
+
+### Deva Dream 3
+
+#### [PR14](../sessions.md/PR14.md)
+
+While sleeping along the bank of the [River Humar](../../../astarus/places/rivers-lakes/river-humar.md) while running from the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md), [Thanea](../../../astarus/people/thanea.md) dreams of being in [Eskrigg](../../../astarus/places/cities/eskrigg.md), witnessing 2 smaller meteors being intercepted by deva who attempt to slow them down by physically pushing against them and flapping their glowing wings.
+
+A third larger meteor comes into view, heading directly towards her. Its white glow turns to a purple fiery aura. As the crowded city street turns to panic, she attempts to run with them, falling and getting trampled. As she cowers, Seraphina appears to her, offering her a hand. As she accepts, she is rocketed into the air at sudden and remarkable speed, Seraphina's wings propelling them. As she looks down at [Eskrigg](../../../astarus/places/cities/eskrigg.md) below, she notices an identical pair of glowing wings on her back. She is flying too.
+
+Seraphina lets go of her hand, making it clear that they are both flying together. As [Thanea](../../../astarus/people/thanea.md) looks up at the meteor, closer than ever. As she struggles to control her flight, the dream ends.
+
+She wakes up comfortably the following morning.
