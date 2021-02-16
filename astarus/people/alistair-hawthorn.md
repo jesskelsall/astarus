@@ -10,7 +10,7 @@
 | **Age** | 46 |
 | **Class** | Fighter |
 | **Alignment** | |
-| **Affiliation** | [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md): [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md)<br /><img src="../../images/ranks/astornox-0-captain.png" height="50" /> |
+| **Affiliation** | [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md)<br />[Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md)<br /><img src="../../images/ranks/astornox-0-captain.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | [Gormox](../gods/gods/gormox.md) |

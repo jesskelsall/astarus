@@ -8,7 +8,7 @@
 | **Age** | 44 |
 | **Class** | Paladin |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Squad Lead](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/3-squad-lead.md): [Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md)<br /><img src="../../images/ranks/astorrel-3-squad-lead.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Lead](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/3-squad-lead.md)<br />[Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md)<br /><img src="../../images/ranks/astorrel-3-squad-lead.png" height="50" /> |
 | **Worship** | [Valnos](../gods/gods/valnos.md) |
 | **Relations** | |
 | **Acquaintances** | |

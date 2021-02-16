@@ -10,7 +10,7 @@
 | **Age** | 29 |
 | **Class** | Fighter |
 | **Alignment** | True Neutral |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md): [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md)<br />[Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 | **Worship** | [Gormox](../gods/gods/gormox.md) |
