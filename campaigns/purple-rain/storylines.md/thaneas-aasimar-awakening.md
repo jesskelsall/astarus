@@ -12,21 +12,21 @@
 
 ## History
 
-### Deva Dream 1
+### [PR00](../sessions.md/PR00.md)
 
-#### [PR00](../sessions.md/PR00.md)
+#### Deva Dream 1
 
 [Thanea](../../../astarus/people/thanea.md) had a dream of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor impacting north west of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md). This drove her to leave Grasthwaite for [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) and investigate.
 
-### Deva Dream 2
+### [PR06](../sessions.md/PR06.md)
 
-#### [PR06](../sessions.md/PR06.md)
+#### Deva Dream 2
 
 [Thanea](../../../astarus/people/thanea.md) once again dreams of the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor on its way to impact north west of [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md). Looking closer she sees a glowing figure with bright glowing wings (her deva, Seraphina) attempting fruitlessly to stop the meteor, latched to its front, flapping their wings and attempting to slow its fall. The meteor impacts all the same.
 
 The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) in a crater in the forest, before the forest around it begins burning purple flames. She witnesses [The Slippery Weasel](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md)'s interior on fire, as well as the barn at [Hurley Farm](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hurley-farm.md) on fire, with the burning bodies of the rest of the [Purple Rain](../purple-rain.md) party within.
 
-#### [PR07](../sessions.md/PR07.md)
+### [PR07](../sessions.md/PR07.md)
 
 [Thanea](../../../astarus/people/thanea.md)'s dream and her conviction that it is prophetic leads the party to find [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md), where they find a meteorite crater containing the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor. When the party observes, its glow changes from bright white to purple, much like the flames of the forest did in her dream.
 
@@ -42,9 +42,9 @@ After leaving [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settle
 
 He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they are in has passed, he would like to introduce her to someone that has visions of the future, though they have them while awake. He references an old word for the phenomenon: seer.
 
-### Deva Dream 3
+### [PR14](../sessions.md/PR14.md)
 
-#### [PR14](../sessions.md/PR14.md)
+#### Deva Dream 3
 
 While sleeping along the bank of the [River Humar](../../../astarus/places/rivers-lakes/river-humar.md) while running from the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md), [Thanea](../../../astarus/people/thanea.md) dreams of being in [Eskrigg](../../../astarus/places/cities/eskrigg.md), witnessing 2 smaller meteors being intercepted by deva who attempt to slow them down by physically pushing against them and flapping their glowing wings.
 
@@ -53,3 +53,7 @@ A third larger meteor comes into view, heading directly towards her. Its white g
 Seraphina lets go of her hand, making it clear that they are both flying together. As [Thanea](../../../astarus/people/thanea.md) looks up at the meteor, closer than ever. As she struggles to control her flight, the dream ends.
 
 She wakes up comfortably the following morning.
+
+### [PR15](../sessions.md/PR15.md)
+
+In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hidaar](../../../astarus/people/darjonkaargeac-hidaar.md) if they know anything about dreams that become reality. They don't, but mention that Wrenn's squad, [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md), contains someone with similar sounding experiences.

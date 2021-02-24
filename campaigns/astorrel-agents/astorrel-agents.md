@@ -28,17 +28,17 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 
 | [AA00](sessions/AA00.md) | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [AA01](sessions/AA01.md) | [AA02](sessions/AA02.md) | *[AA03](sessions/AA03.md)* |
+| [AA01](sessions/AA01.md) | [AA02](sessions/AA02.md) | [AA03](sessions/AA03.md) | *AA04*
 
 ## Storylines
 
 | Name | Started | Ended |
 | --- | --- | --- |
 | [Astorrel Graduation](storylines/astorrel-graduation.md) | [AA01](sessions/AA01.md) | [AA01](sessions/AA01.md) |
-| [Retrieving Ephaine's Star Map](storylines/retrieving-ephaines-star-map.md) | [AA01](sessions/AA01.md) | [AA02](sessions/AA02.md) |
 | [Astorrel vs Astornox](storylines/astorrel-vs-astornox.md) | [AA01](sessions/AA01.md) | |
-| [Canary Squad Lead](storylines/canary-squad-lead.md) | [AA01](sessions/AA01.md) | |
-| [The Rival Squad](storylines/the-rival-squad.md) | [AA01](sessions/AA01.md) | |
 | [Whisper and Valnos](storylines/whisper-and-valnos.md) | [AA01](sessions/AA01.md) | |
+| [Retrieving Ephaine's Star Map](storylines/retrieving-ephaines-star-map.md) | [AA01](sessions/AA01.md) | [AA02](sessions/AA02.md) |
+| [The Rival Squad](storylines/the-rival-squad.md) | [AA01](sessions/AA01.md) | |
+| [Canary Squad Lead](storylines/canary-squad-lead.md) | [AA01](sessions/AA01.md) | |
 | [Check Logging in Arnaside](storylines/check-logging-in-arnaside.md) | [AA02](sessions/AA02.md) | |
 | [Investigate Bear Attacks in Hartsgarth](storylines/investigate-bear-attacks-in-hartsgarth.md) | [AA02](sessions/AA02.md) | |

@@ -52,6 +52,10 @@ The group decides to press on to [Northhaven](../../../astarus/places/cities/nor
 
 [Sarleen Truestriker](../../../astarus/people/sarleen-truestriker.md) reveals to the party that [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) contacted [Darjonkaargeac Hidaar](../../../astarus/people/darjonkaargeac-hidaar.md) after he was captured by [The Crimson Blades](../../../astarus/civilisations/kingdom-of-astor/organisations/the-crimson-blades.md), imploring him to help the party reach [Northhaven](../../../astarus/places/cities/northhaven.md) without him.
 
+### [PR15](../sessions.md/PR15.md)
+
+[Darjonkaargeac Hidaar](../../../astarus/people/darjonkaargeac-hidaar.md) informs the party of the full details of the message they received from [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md), including the part about the information they know saving Astor. The party has no idea what Wrenn is referring to.
+
 ## Planning
 
 [Morog Whiteknuckle](../../../astarus/people/morog-whiteknuckle.md) and his entourage take [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) back to Carnmere as instructed by [Stalker](../../../astarus/people/stalker.md), their leader.

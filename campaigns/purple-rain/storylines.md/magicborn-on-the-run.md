@@ -109,7 +109,7 @@ Not long after being captured, Wrenn is woken up by the movement of the horse he
 
 Shortly thereafter Morog notices that Wrenn is muttering to himself and confiscates his copper wire before restraining him more thoroughly.
 
-## [PR13](../sessions.md/PR13.md)
+### [PR13](../sessions.md/PR13.md)
 
 The party enters the village of [Frizthwaite](../../../astarus/places/villages/frizthwaite.md) to try and get a boat so they can proceed downstream to [Northhaven](../../../astarus/places/cities/northhaven.md), avoiding the roads. [Wizira](../../../astarus/people/wizira.md) does not disguise herself while in the village.
 
@@ -125,7 +125,7 @@ A race to find [Wizira](../../../astarus/people/wizira.md) before the [Astornox]
 
 The party convinces Torbra to head downstream now, so as to avoid being seen. The rest of the party head back to the docks where [Saoirse](../../../astarus/people/saoirse.md) buys the boat. Picking Torbra up on the way, they make their way down the [River Humar](../../../astarus/places/rivers-lakes/river-humar.md) towards [Northhaven](../../../astarus/places/cities/northhaven.md), successfully dodging the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) in [Frizthwaite](../../../astarus/places/villages/frizthwaite.md).
 
-## [PR14](../sessions.md/PR14.md)
+### [PR14](../sessions.md/PR14.md)
 
 Continuing downstream, the party comes across the town of [Beckermet](../../../astarus/places/towns/beckermet.md), seeing where the edge of the town meets the river's edge. With guard towers along the edge of town, they seek to hide themselves as they row past. They are able to hide themselves under their hooded robes enough that they aren't spotted.
 
@@ -136,3 +136,19 @@ In the morning, [Sarleen Truestriker](../../../astarus/people/sarleen-truestrike
 Revealing that Hidaar was contacted by [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) after he was captured by [The Crimson Blades](../../../astarus/civilisations/kingdom-of-astor/organisations/the-crimson-blades.md), the party begins to trust Sarleen. They agree to be escorted by her to [Ulburn](../../../astarus/places/villages/ulburn.md) where they can meet Hidaar, who Sarleen informs them will help them seek sanctuary in [Northhaven](../../../astarus/places/cities/northhaven.md).
 
 Travelling along the east bank of the river for the entire day, the party makes camp for the night between the river and some cliffs. In the night they are attacked by gnolls, but they dispatch them without issue.
+
+### [PR15](../sessions.md/PR15.md)
+
+The following day [Sarleen Truestriker](../../../astarus/people/sarleen-truestriker.md) continues to lead the party towards [Ulburn](../../../astarus/places/villages/ulburn.md). Several hours from [Ulburn](../../../astarus/places/villages/ulburn.md) the party, having walked for 8 hours, decides to camp for the night along the riverside rather than push on and risk exhaustion.
+
+First thing in the morning they set off again. Sarleen escorts the party into [Ulburn](../../../astarus/places/villages/ulburn.md), leading them through a side street to avoid [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) outside of Humar's Knee on the main street. They emerge further down the street on the other side of the [Ulburn Astorrel House](../../../astarus/places/buildings/ulburn-astorrel-house.md) and make their way inside.
+
+Here Sarleen introduces them to [Darjonkaargeac Hidaar](../../../astarus/people/darjonkaargeac-hidaar.md), the [Goshawk Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md) lead. Sarleen helps to cut through some of the party's attempted lies about who they are or what they've been through.
+
+Hidaar attempts to understand why [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) felt the party was so important, particularly why he thought the party was important to the fate of Astor. They aren't sure themselves, but they allude to the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, which [Saoirse](../../../astarus/people/saoirse.md) chooses to keep to herself.
+
+When [Wizira](../../../astarus/people/wizira.md) drops her disguise and reveals herself to be the blue firbolg that Wrenn mentioned, Hidaar suspects the story of what happened to [Wizira's father](../../../astarus/people/wiziras-father.md) has important implications for [the firbolg controversy](the-firbolg-controversy.md), and offers to help them in any way that they can. When another member of [Goshawk Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md) returns, they'll order them to escort the party to the relative safety of the [Northhaven Astorrel Stronghold](../../../astarus/places/strongholds/northhaven-astorrel-stronghold.md).
+
+Hidaar orders Sarleen to go on ahead to inform [Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) in the [Zenith Spire](../../../astarus/places/buildings/zenith-spire.md) of what's going on, handing her his [Astorrel Squad Lead](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/3-squad-lead.md) badge.
+
+When [Sparrow on the Autumn Pine](../../../astarus/people/sparrow-on-the-autumn-pine.md) returns from searching for the party, Hidaar introduces them. They order Sparrow to escort them into [Northhaven](../../../astarus/places/cities/northhaven.md), suggesting they plan their approach after eating. Sparrow reveals their wasps, asks the party about their stealth capabilities, and implores Torbra to leave their armour behind to help their chances at remaining unnoticed.

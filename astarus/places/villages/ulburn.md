@@ -27,7 +27,7 @@ The village is tightly packed, using all of the available space in the river's b
 ## Places
 
 - Humar's Knee (inn)
-- [Ulburn Astorrel House](../buildings/goshawk-squad-house.md)
+- [Ulburn Astorrel House](../buildings/ulburn-astorrel-house.md)
 
 ## History
 

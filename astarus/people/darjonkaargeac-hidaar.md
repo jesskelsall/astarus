@@ -9,6 +9,8 @@
 | **Class** | Paladin |
 | **Alignment** | |
 | **Affiliation** | [Astorrel Squad Lead](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/3-squad-lead.md)<br />[Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md)<br /><img src="../../images/ranks/astorrel-3-squad-lead.png" height="50" /> |
+| **Commanding Officer** | |
+| **Subordinates** | Louise Perkins |
 | **Worship** | [Valnos](../gods/gods/valnos.md) |
 | **Relations** | |
 | **Acquaintances** | |

@@ -10,7 +10,7 @@
 | **Age** | 87 |
 | **Class** | Wizard |
 | **Alignment** | Lawful Good |
-| **Affiliation** | [Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md)<br /><img src="../../images/ranks/astorrel-6-captain.png" height="50" /> |
+| **Affiliation** | [Astorrel Captain](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md): [Northhaven](../places/cities/northhaven.md)<br /><img src="../../images/ranks/astorrel-6-captain.png" height="50" /> |
 | **Commanding Officer** | [Levelle Tristwix](levelle-tristwix.md) |
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
