@@ -39,7 +39,31 @@ Setting off, they spend 2 days making their way to [Humouth](../../../astarus/pl
 
 During the fight, Clay is hit by a bandit, rendering him unconscious. For the remainder of the day he rests in the back of the coach while [Ephaine Seren](../../../astarus/people/ephaine-seren.md) drives and [Ahsha Sallas](../../../astarus/people/ahsha-sallas.md) navigates.
 
-Upon arrival at [Howbridge](../../../astarus/places/towns/howbridge.md), the party rents rooms at [The Keeper's Reprise](../../../astarus/places/buildings/inns-taverns/the-keepers-reprise.md) for the night, stabling the horse and coach, and ensuring that Clay is put to bed where he can rest.
+Upon arrival at [Humouth](../../../astarus/places/villages/humouth.md), the party rents rooms at [The Keeper's Reprise](../../../astarus/places/buildings/inns-taverns/the-keepers-reprise.md) for the night, stabling the horse and coach, and ensuring that Clay is put to bed where he can rest.
+
+### [AA03](../sessions/AA03.md)
+
+The following morning, Clay expresses a desire to return to [Northhaven](../../../astarus/places/cities/northhaven.md) and recover from his injuries. The party convinces him to keep going, paying him extra for the trouble.
+
+They return to the road, Clay riding all day to [Allonby](../../../astarus/places/villages/allonby.md). Here the party speak to the [Astornox guards](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md) present, particularly [Roygol Mortisen](../../../astarus/people/roygol-mortisen.md), who informs them that they don't patrol as far as [Arnaside](../../../astarus/places/villages/arnaside.md) as the locals refuse their help. The [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) are happy to hear that the party dealt with the bandits, but don't find their presence along the [Coastal Trail](../../../astarus/places/roads/coastal-trail.md) too surprising.
+
+After another night's sleep, once again the party rides until mid afternoon when they reach [Arnaside](../../../astarus/places/villages/arnaside.md). They begin by visiting [the Malneshitas](../../../astarus/places/buildings/temples/the-malneshitas.md), the only remarkable building visible.
+
+Here they meet [Nenra Zossa](../../../astarus/people/nenra-zossa.md) who has no concept of the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). Despite a clear bias against the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) and a want of self reliance, she reluctantly accepts the party due to the issues they've been having with creatures attacking the [Arnaside Logging Camp](../../../astarus/places/structures/arnaside-logging-camp.md) and the village itself. They come from the forest and have injured several of the loggers. She suggests the group speak to [Kulegar Bronhor](../../../astarus/people/kulegar-bronhor.md) at the logging camp.
+
+After confirming that Clay will stay the night here for them, they make their way up to the [Arnaside Logging Camp](../../../astarus/places/structures/arnaside-logging-camp.md), meeting [Kulegar Bronhor](../../../astarus/people/kulegar-bronhor.md) as he repairs a damaged timber cart axel from a kobold attack the night before. Ephaine helps fix it with Mending.
+
+Kulegar explains that the creatures lay traps for the loggers and raid to steal their supplies, to the point where they have to lock up or hide their equipment. He also mentions that they "come on the wind". He offers to show the party some of the traps the following morning. He lets the party stay in the camp's log cabin overnight.
+
+After an uneventful night, Kulegar returns in the morning. He takes the party to the logging line, showing them an old pitfall trap and a tension spikes trap that killed a logger a while ago. Proceeding further into the forest Ahsha notices an active net trap which Kulegar confirms wasn't there the day before. After disarming it on top of herself, the party decides to try and use it to ambush the creatures.
+
+Ahsha lies in wait under the weakened net, shouting for help as bait. The rest of the party spreads out onto vantage points and into cover, Kulegar hiding in a bush. When 4 kobolds including 1 kobold dragonshield enter the area, they open fire, beginning the ambush.
+
+Ahsha breaks free and tries to grab the kobold dragonshield but it is killed before she can restrain it. Ephaine splits a kobold in half. The last remaining kobold is captured and restrained with ropes.
+
+Kulegar is shocked at the sight of the surviving kobold. On sight of the kobold split in half he flees back to the logging camp in terror. As the kobold only speaks draconic, they're unable to speak to it, and it is angry. Ahsha knocks it out and carries it underarm.
+
+The party heads deeper into the forest, following the kobold tracks. They avoid another tension spikes trap before coming across the mouth of a cave.
 
 ## Planning
 

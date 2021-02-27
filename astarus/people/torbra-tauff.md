@@ -7,7 +7,7 @@ TODO
 | []() | |
 | --- | --- |
 | **Name** | |
-| **Race** | |
+| **Race** | Genasi (earth) |
 | **Gender** | |
 | **Age** | |
 | **Class** | |

@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Darius Dunn |
-| **Race** | Genasi |
+| **Race** | Genasi (fire) |
 | **Gender** | Male |
 | **Age** | 17 |
 | **Class** | Cleric |

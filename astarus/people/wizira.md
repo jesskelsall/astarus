@@ -6,8 +6,8 @@ TODO
 
 | []() | |
 | --- | --- |
-| **Name** | |
-| **Race** | |
+| **Name** | Wizira |
+| **Race** | Firbolg |
 | **Gender** | |
 | **Age** | |
 | **Class** | |

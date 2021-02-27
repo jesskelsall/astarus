@@ -14,7 +14,7 @@ TODO
 | []() | |
 | --- | --- |
 | **Name** | |
-| **Race** | |
+| **Race** | Aasimar |
 | **Gender** | |
 | **Age** | |
 | **Class** | |
