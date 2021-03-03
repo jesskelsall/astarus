@@ -30,7 +30,7 @@ He was the mentor of [Ephaine Seren](ephaine-seren.md).
 | Face | Furrowed brow, forehead wrinkles. Amber eyes. |
 | Hair | Receding hairline. Dark brown short cut hair, thin scraggly moustache. |
 | Body | 5'9". Thin. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) officer's uniform. |
+| Clothes | [Astorrel officer's uniform](../civilisations/kingdom-of-astor/organisations/astorrel/uniforms/astorrel-officers-uniform.md). |
 | Mannerisms | Perpetually distant. Little eye contact. |
 
 | Personality | Description |

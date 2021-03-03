@@ -9,7 +9,7 @@
 | **Class** | |
 | **Alignment** | Lawful Good |
 | **Affiliation** | [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md)<br />[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md)<br /><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
-| **Commanding Officer** | [Merkin Thorgus](merkin-thorgus.md) |
+| **Commanding Officer** | [Mergin Thorgus](mergin-thorgus.md) |
 | **Subordinates** | [Bryce Morton](bryce-morton.md) |
 | **Worship** | [Kirrel](../gods/gods/kirrel.md) |
 | **Relations** | |
@@ -19,7 +19,9 @@
 
 ## Summary
 
-Samantha Ilis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) attached to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md). She works for Captain [Merkin Thorgus](merkin-thorgus.md), creating [Northhaven](../places/cities/northhaven.md) specific or generic [Central Astor](../places/regions/central-astor.md) missions for her sergeants, including [Bryce Morton](bryce-morton.md).
+Samantha Ilis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) 
+
+Samantha Ilis is an [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) attached to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md). She works for Captain [Mergin Thorgus](mergin-thorgus.md), creating [Northhaven](../places/cities/northhaven.md) specific or generic [Central Astor](../places/regions/central-astor.md) missions for her sergeants, including [Bryce Morton](bryce-morton.md).
 
 She has a positive demeanour, bringing a smile to those she talks to. She wants to make sure that [central Astor](../places/regions/central-astor.md) is a safe and prosperous place.
 
@@ -30,7 +32,7 @@ She has a positive demeanour, bringing a smile to those she talks to. She wants 
 | Face | Fair skin, round face, thin eyebrows. Big closed mouth smile. |
 | Hair | Ginger, shoulder length. |
 | Body | 5'8", overweight. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) officer's uniform. |
+| Clothes | [Astorrel officer's uniform](../civilisations/kingdom-of-astor/organisations/astorrel/uniforms/astorrel-officers-uniform.md). |
 | Mannerisms | Casual and slightly energetic. Often smiles with a closed mouth. |
 
 | Personality | Description |

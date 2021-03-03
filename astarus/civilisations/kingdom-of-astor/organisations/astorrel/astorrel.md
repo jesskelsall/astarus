@@ -24,15 +24,17 @@ The Astorrel symbol is a grey square with the diamond shaped ruby of Astor embed
 
 ### Uniform
 
-[Astorrel members](ranks/1-member.md) have no formal uniform outside of ceremonies - they are allowed to wear what they wish when on missions.
+Astorrel are provided with ceremonial uniforms appropriate for their rank: either [Astorrel Robes](uniforms/astorrel-robes.md) for enlistees, or [Astorrel Officer's Uniform](uniforms/astorrel-officers-uniform.md), though variations and exceptions are available.
 
-For ceremonies they wear robes in the colours of [Kirrel](../../../../gods/gods/kirrel.md) - from top to bottom: green, mint green, turquoise, blue. During ceremonies they are not permitted to wear anything else or wield any possessions or weapons.
+These uniforms only *need* to be worn during formal ceremonies. Otherwise there is no dress code. Astorrel that embark on missions or other business outside of the cities typically wear travelling or adventuring clothes.
 
-Higher ranking Astorrel wear a more militaristic uniform during ceremonies and whilst within Astorrel strongholds inside of cities. This incorporates the same colours, but features pauldrons, leathers, and some plate elements.
+Within cities, particularly within their Astorrel strongholds, wearing your uniform is common. Not only does it garner respect and status from advertising your affiliation with the Astorrel, it is also considered to be respectful when in the presence of superiors. Many Astorrel choose to wear their uniform out of pride.
 
-| Ceremonial Robes | Officer's Uniform |
-|:---:|:---:|
-| <img src="../../../../../images/uniforms/astorrel-robes.png" height="300" /> | <img src="../../../../../images/uniforms/astorrel-officer.png" height="300" /> |
+[Astorrel Members](ranks/1-member.md) are often expected to wear their [Astorrel Robes](uniforms/astorrel-robes.md), particularly when working in positions where other Astorrel see them regularly.
+
+| [Astorrel Robes](uniforms/astorrel-robes.md) | [Astorrel Officer's Uniform](uniforms/astorrel-officers-uniform.md) | Astorrel Guard's Uniform | Astorrel Guard Sergeant's Uniform |
+|:---:|:---:|:---:|:---:|
+| <img src="../../../../../images/uniforms/astorrel-robes.png" height="300" /> | <img src="../../../../../images/uniforms/astorrel-officer.png" height="300" /> | <img src="../../../../../images/uniforms/astorrel-guard.png" height="300" /> | <img src="../../../../../images/uniforms/astorrel-guard-sergeant.png" height="300" />
 
 ## Mission
 
@@ -84,16 +86,19 @@ While out on missions, they are completely autonomous and may not have any conta
 
 As part of the Astor military, Astorrel have a rank hierarchy that passes orders down from a single person to every Astorrel beneath them.
 
-- Officers:
-  - [Astorrel Commandant](ranks/8-commandant.md): Leader of the Astorrel.
-  - [Astorrel Major](ranks/7-major.md): Leader of multiple Lieutenants, with a specific area of responsibility.
-  - [Astorrel Captain](ranks/6-captain.md): Leader of the Astorrel stronghold in a specific city.
-  - [Astorrel Lieutenant](ranks/5-lieutenant.md): Creates missions for multiple squad sergeants.
-  - [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md): Commands multiple squads to complete their missions.
-- Enlisted:
-  - [Astorrel Squad Lead](ranks/3-squad-lead.md): An elevated Squad Hand with authority over their squad of four.
-  - [Astorrel Squad Hand](ranks/2-squad-hand.md): Members of a squad of four who complete field missions.
-  - [Astorrel Member](ranks/1-member.md): The lowest rank. Saved for those who do not partake in field missions.
+| Military badge | Rank | Officer? | Summary |
+|:---:| --- |:---:| --- |
+| <img src="../../../../../images/ranks/astorrel-8-commandant.png" height="50" /> | [Astorrel Commandant](ranks/8-commandant.md) | Yes | Leader of the Astorrel. |
+| <img src="../../../../../images/ranks/astorrel-7-major.png" height="50" /> | [Astorrel Major](ranks/7-major.md) | Yes | Leader of multiple Lieutenants, with a specific area of responsibility. |
+| <img src="../../../../../images/ranks/astorrel-6-captain.png" height="50" /> | [Astorrel Captain](ranks/6-captain.md) | Yes | Leader of the Astorrel stronghold in a specific city. |
+| <img src="../../../../../images/ranks/astorrel-5-lieutenant.png" height="50" /> | [Astorrel Lieutenant](ranks/5-lieutenant.md) | Yes | Creates missions for multiple squad sergeants. |
+| <img src="../../../../../images/ranks/astorrel-4-sergeant.png" height="50" /> | [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md) | Yes | Commands multiple squads to complete their missions. |
+| <img src="../../../../../images/ranks/astorrel-3-corporal.png" height="50" /> | [Astorrel Squad Lead](ranks/3-squad-lead.md) | No | An elevated Squad Hand with authority over their squad of four. |
+| <img src="../../../../../images/ranks/astorrel-2-private.png" height="50" /> | [Astorrel Squad Hand](ranks/2-squad-hand.md) | No | Members of a squad of four who complete field missions. |
+| <img src="../../../../../images/ranks/astorrel-1-recruit.png" height="50" /> | [Astorrel Member](ranks/1-member.md) | No | The lowest rank. Saved for those who do not partake in field missions. |
+|  | *Guards* |
+| <img src="../../../../../images/ranks/astorrel-4-sergeant.png" height="50" /> | Astorrel Guard Sergeant | Yes | Leader of the guards guarding the Astorrel Stronghold. Can offer [sanctuary](sanctuary.md). |
+| <img src="../../../../../images/ranks/astorrel-2-private.png" height="50" /> | Astorrel Guard | No | Guards an Astorrel stronghold. |
 
 ## Recruitment
 
@@ -152,7 +157,7 @@ Following this their superior officer finds them, introduces them to their team,
 | Name | Rank |
 | --- | --- |
 | [Levelle Tristwix](../../../../people/levelle-tristwix.md) | [Astorrel Commandant](ranks/8-commandant.md) |
-| [Merkin Thorgus](../../../../people/merkin-thorgus.md) | [Astorrel Captain](ranks/6-captain.md) ([Northhaven](../../../../places/cities/northhaven.md)) |
+| [Mergin Thorgus](../../../../people/mergin-thorgus.md) | [Astorrel Captain](ranks/6-captain.md) ([Northhaven](../../../../places/cities/northhaven.md)) |
 | [Bryce Morton](../../../../people/bryce-morton.md) | [Astorrel Squad Sergeant](ranks/4-squad-sergeant.md) |
 | [Ahsha Sallas](../../../../people/ahsha-sallas.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |
 | [Ephaine Seren](../../../../people/ephaine-seren.md) | [Astorrel Squad Hand](ranks/2-squad-hand.md) |

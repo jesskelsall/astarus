@@ -72,7 +72,7 @@ He is very glad to see the party and is very accommodating. He is forthright wit
 
 He can tell the party about:
 - [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md)
-- Sanctuary
+- [Sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md)
 - [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md) trial (light on specifics)
 - Firbolg controversy
 

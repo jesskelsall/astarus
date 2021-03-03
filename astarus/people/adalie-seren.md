@@ -25,7 +25,7 @@ When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winte
 
 Tamman was severely beaten for his insolence. During this developing situation, [Ephaine Seren](ephaine-seren.md) caused an avalanche that buried and killed the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) still present outside their home.
 
-In the following aftermath, Adalie helped quickly prepare provisions for Ephaine as she fled home, seeking the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) for sanctuary.
+In the following aftermath, Adalie helped quickly prepare provisions for Ephaine as she fled home, seeking the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) for [sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md).
 
 ## Planning
 

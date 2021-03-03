@@ -22,7 +22,7 @@ Prior to graduation day, the graduates were laid up in [The Mission's End](../..
 
 The graduates assembled with the rest of their graduate cohort of 100 in [Kirrel Hall](../../../astarus/places/buildings/kirrel-hall.md), before a stage set up specifically for graduation.
 
-[Merkin Thorgus](../../../astarus/people/merkin-thorgus.md), as [Astorrel Captain](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) of [Northhaven](../../../astarus/places/cities/northhaven.md), welcomed everyone to the city.
+[Mergin Thorgus](../../../astarus/people/mergin-thorgus.md), as [Astorrel Captain](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/6-captain.md) of [Northhaven](../../../astarus/places/cities/northhaven.md), welcomed everyone to the city.
 
 [Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) delivered the graduation ceremony speech in which they waxed lyrical about the ideals of the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md).
 
@@ -49,7 +49,7 @@ Once done, the graduates made their way back to [Kirrel Hall](../../../astarus/p
 
 Back in [Kirrel Hall](../../../astarus/places/buildings/kirrel-hall.md), each graduate was presented with their military badge, rank, and graduation purse (70 gp). One by one each graduate was called to the stage, in alphabetical order, and proceeded by their rank, which they did not know before this point.
 
-Once on stage, [Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) affixed the military badge to their robes and gave them a handshake. [Merkin Thorgus](../../../astarus/people/merkin-thorgus.md) then gave them their graduation purse and bowed to them.
+Once on stage, [Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) affixed the military badge to their robes and gave them a handshake. [Mergin Thorgus](../../../astarus/people/mergin-thorgus.md) then gave them their graduation purse and bowed to them.
 
 | Named Graduate | Rank |
 | --- | --- | --- |

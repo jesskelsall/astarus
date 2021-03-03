@@ -1,6 +1,6 @@
 # Sanctuary
 
-Sanctuary is a mechanism by which the Astorrel protect one or more people for a limited period, shielding them physically and legally, notably from the Astornox.
+Sanctuary is a mechanism by which the [Astorrel](astorrel.md) protect one or more people for a limited period, shielding them physically and legally, notably from the [Astornox](../astornox/astornox.md).
 
 It is theoretically available to anyone, regardless of citizenship status, affiliation, or other quality.
 
@@ -8,23 +8,23 @@ It is theoretically available to anyone, regardless of citizenship status, affil
 
 ## Locations
 
-Sanctuary is available at all Astorrel strongholds. Each stronghold has a building that acts as one or more sanctuaries.
+Sanctuary is available at all [Astorrel](astorrel.md) strongholds. Each stronghold has a building that acts as one or more sanctuaries.
 
 | City | Stronghold | Sanctuary |
 | --- | --- | --- |
-| Northhaven | Northhaven Astorrel Stronghold | The Sanctum |
+| [Northhaven](../../../../places/cities/northhaven.md) | [Northhaven Astorrel Stronghold](../../../../places/strongholds/northhaven-astorrel-stronghold.md) | [The Sanctum](../../../../places/buildings/the-sanctum.md) |
 
-In order to receive sanctuary, those seeking it must travel themselves to an Astorrel stronghold. At its gatehouse the Astorrel Guard Sergeant on duty is able to offer sanctuary.
+In order to receive sanctuary, those seeking it must travel themselves to an [Astorrel](astorrel.md) stronghold. At its gatehouse the [Astorrel](astorrel.md) Guard Sergeant on duty is able to offer sanctuary.
 
-Many who wish to seek sanctuary are unable or struggle due to the need to travel, especially if they are being pursued by the Astornox. There may also be other barriers to reaching an Astorrel stronghold such as the Northhaven Wall.
+Many who wish to seek sanctuary are unable or struggle due to the need to travel, especially if they are being pursued by the [Astornox](../astornox/astornox.md). There may also be other barriers to reaching an [Astorrel](astorrel.md) stronghold such as the [Northhaven Wall](../../../../places/structures/northhaven-wall.md).
 
 ## Process
 
 ### Seeking Sanctuary
 
-Those seeking sanctuary must first make their way to an Astorrel stronghold.
+Those seeking sanctuary must first make their way to an [Astorrel](astorrel.md) stronghold.
 
-Once there, they seek sanctuary from the Astorrel Guard Sergeant on duty. While their duty is primarily to guard the stronghold from non-Astorrel, they are also tasked with facilitating sanctuary.
+Once there, they seek sanctuary from the [Astorrel](astorrel.md) Guard Sergeant on duty. While their duty is primarily to guard the stronghold from non-[Astorrel](astorrel.md), they are also tasked with facilitating sanctuary.
 
 Their case should be made to the guard sergeant as to why they should be offered sanctuary.
 
@@ -40,7 +40,7 @@ If however they do decide to offer sanctuary, they must explain the following:
 - A comprehensive overview of how to leave sanctuary and how offering sanctuary is rescinded.
 - Explanation of the sanctuary itself and its logistics.
 
-The explanation is important as many within the Kingdom of Astor that have heard of sanctuary do not know how it works. This gives those seeking an informed view of what sanctuary is, allowing them to make a decision.
+The explanation is important as many within the [Kingdom of Astor](../../README.md) that have heard of sanctuary do not know how it works. This gives those seeking an informed view of what sanctuary is, allowing them to make a decision.
 
 ### Accepting Sanctuary
 
@@ -48,13 +48,13 @@ If those seeking sanctuary are happy with the terms, they then verbally accept t
 
 #### Declaring the Offer
 
-As the guard sergeant now has to deal with beginning their offer of sanctuary, coupled with a potentially hostile pursuit into the stronghold for those seeking sanctuary, there is an immediate need to bolster the Astorrel presence at the sanctuary's gatehouse.
+As the guard sergeant now has to deal with beginning their offer of sanctuary, coupled with a potentially hostile pursuit into the stronghold for those seeking sanctuary, there is an immediate need to bolster the [Astorrel](astorrel.md) presence at the sanctuary's gatehouse.
 
 One of the guard sergeant's guards is tasked with **'declaring the offer'**.
 
-They are given powers to compel *any* Astorrel within the stronghold to guard the gatehouse for as long as it takes for them to be relieved by the next shift's Astorrel Guard Sergeant and their guards. They must protect the gatehouse with their life if need be. Failure to rise to this call is a serious offence.
+They are given powers to compel *any* [Astorrel](astorrel.md) within the stronghold to guard the gatehouse for as long as it takes for them to be relieved by the next shift's [Astorrel](astorrel.md) Guard Sergeant and their guards. They must protect the gatehouse with their life if need be. Failure to rise to this call is a serious offence.
 
-Once the guard has compelled as many Astorrel as they deem necessary, they proceed to the Astorrel Captain of the stronghold and declare that sanctuary has been offered.
+Once the guard has compelled as many [Astorrel](astorrel.md) as they deem necessary, they proceed to the [Astorrel Captain](ranks/6-captain.md) of the stronghold and declare that sanctuary has been offered.
 
 Finally they find the next shift's guard sergeant, make them aware of the situation, and instruct them to begin their shift immediately. Once that happens, the subordinate guards of the guard sergeant offering sanctuary are dismissed from the gatehouse.
 
@@ -68,7 +68,7 @@ Depending on the setup of the sanctuary, it may feel like a house or a prison ce
 
 The guard sergeant offering sanctuary sets the rules of the sanctuary that those seeking it agree to. They have total authority to choose rules as they see fit, and it does not have to be consistent from one offered sanctuary to the next. This allows the terms of sanctuary to be tailored to the person/group and their circumstances.
 
-As the guard sergeant has total authority, they can set rules which go against the wishes of Astorrel within the stronghold, including superior officers. This only extends to the sanctuary itself however - the guard sergeant can provide those receiving sanctuary possessions or information (e.g. local news), but cannot reveal privileged information or bestow Astorrel ranks, for example.
+As the guard sergeant has total authority, they can set rules which go against the wishes of [Astorrel](astorrel.md) within the stronghold, including superior officers. This only extends to the sanctuary itself however - the guard sergeant can provide those receiving sanctuary possessions or information (e.g. local news), but cannot reveal privileged information or bestow [Astorrel](astorrel.md) ranks, for example.
 
 | Possible Rule | Reason |
 | --- | --- |
@@ -76,7 +76,7 @@ As the guard sergeant has total authority, they can set rules which go against t
 | Confiscated items | Wariness of unknown capabilities. |
 | Confiscated clothes | Hygiene, symbolism of protection. |
 | Meal service | Providing food regardless of means. |
-| No visitors | Offer of sanctuary does not concern the Astorrel directly. |
+| No visitors | Offer of sanctuary does not concern the [Astorrel](astorrel.md) directly. |
 | Private identity | Knowing who they are would bias discussions. |
 | Confined | Preserves the security inside the stronghold. |
 
@@ -92,15 +92,15 @@ While this is happening, the guard sergeant's guards are not part of the gatehou
 
 Sanctuary is a temporary arrangement, so those receiving it are aware of their limited time before they must leave. Depending on the person and circumstance, this colours how they spend their time here.
 
-- Living in ignorant bliss of the Astornox's judgement.
-- Formulating a plan for escaping the Astornox.
-- Applying for the Astorrel training programme.
+- Living in ignorant bliss of the [Astornox](../astornox/astornox.md)'s judgement.
+- Formulating a plan for escaping the [Astornox](../astornox/astornox.md).
+- Applying for the [Astorrel](astorrel.md) training programme.
 
 ### Ending Sanctuary
 
 When sanctuary ends, in most circumstances those receiving sanctuary are cast back out beyond the stronghold's gatehouse to meet their fate.
 
-If those they are hiding from (e.g. the Astornox) are particularly keen on getting their hands on them, they may well be waiting for their sanctuary to end. In this case, seeking sanctuary was just a delay tactic.
+If those they are hiding from (e.g. the [Astornox](../astornox/astornox.md)) are particularly keen on getting their hands on them, they may well be waiting for their sanctuary to end. In this case, seeking sanctuary was just a delay tactic.
 
 ### Leaving
 

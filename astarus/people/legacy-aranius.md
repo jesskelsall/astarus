@@ -19,7 +19,7 @@
 
 ## Summary
 
-Legacy Aranius is the [Astornox Major](../civilisations/kingdom-of-astor/organisations/astornox/ranks/6-major.md) of [Eskrigg](../places/cities/eskrigg.md).
+Legacy Aranius is the [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md) of [Eskrigg](../places/cities/eskrigg.md).
 
 ## Characteristics
 

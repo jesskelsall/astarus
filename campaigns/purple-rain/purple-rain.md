@@ -17,7 +17,7 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 
 | Player | Character | Session(s) |
 | --- | --- | --- |
-| [EvA](../../players/eva.md) | [Sarleen Truestriker](../../astarus/people/sarleen-truestriker.md) | [PR14](sessions.md/PR14.md) - [PR15](sessions.md/PR15.md) |
+| [EvA](../../players/eva.md) | [Sarleen Truestriker](../../astarus/people/sarleen-truestriker.md) | [PR14](sessions/PR14.md) - [PR15](sessions/PR15.md) |
 
 ## Links
 
@@ -27,24 +27,24 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 
 ## Sessions
 
-| [PR00](sessions.md/PR00.md) | | | | | | | | | |
+| [PR00](sessions/PR00.md) | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [PR01](sessions.md/PR01.md) | [PR02](sessions.md/PR02.md) | [PR03](sessions.md/PR03.md) | [PR04](sessions.md/PR04.md) | [PR05](sessions.md/PR05.md) | [PR06](sessions.md/PR06.md) | [PR07](sessions.md/PR07.md) | [PR08](sessions.md/PR08.md) | [PR09](sessions.md/PR09.md) | [PR10](sessions.md/PR10.md) |
-| [PR11](sessions.md/PR11.md) | [PR12](sessions.md/PR12.md) | [PR13](sessions.md/PR13.md) | [PR14](sessions.md/PR14.md) | [PR15](sessions.md/PR15.md) | [PR16](sessions.md/PR16.md) | *[PR17](sessions.md/PR17.md)*
+| [PR01](sessions/PR01.md) | [PR02](sessions/PR02.md) | [PR03](sessions/PR03.md) | [PR04](sessions/PR04.md) | [PR05](sessions/PR05.md) | [PR06](sessions/PR06.md) | [PR07](sessions/PR07.md) | [PR08](sessions/PR08.md) | [PR09](sessions/PR09.md) | [PR10](sessions/PR10.md) |
+| [PR11](sessions/PR11.md) | [PR12](sessions/PR12.md) | [PR13](sessions/PR13.md) | [PR14](sessions/PR14.md) | [PR15](sessions/PR15.md) | [PR16](sessions/PR16.md) | *[PR17](sessions/PR17.md)*
 
 ## Storylines
 
 | Name | Started | Ended |
 | --- | --- | --- |
-| [Thanea's Aasimar Awakening](storylines.md/thaneas-aasimar-awakening.md) | [PR00](sessions.md/PR00.md) | |
-| [Wizira's Father Goes Missing](storylines.md/wiziras-father-goes-missing.md) | [PR01](sessions.md/PR01.md) | |
-| [Crossing Paths in Goldreach](storylines.md/crossing-paths-in-goldreach.md) | [PR01](sessions.md/PR01.md) | [PR02](sessions.md/PR02.md) |
-| [Finding the Goldreach Meteorite](storylines.md/finding-the-goldreach-meteorite.md) | [PR01](sessions.md/PR01.md) | |
-| [The Rising Threat of Meteors](storylines.md/the-rising-threat-of-meteors.md) | [PR01](sessions.md/PR01.md) | |
-| [Torbra's Giant Lineage](storylines.md/torbras-giant-lineage.md) | [PR01](sessions.md/PR01.md) | |
-| [Wolves Threaten Goldreach](storylines.md/wolves-threaten-goldreach.md) | [PR02](sessions.md/PR02.md) | [PR08](sessions.md/PR08.md) |
-| [Saoirse Contracts Meteoridis](storylines.md/saoirse-contracts-meteoridis.md) | [PR07](sessions.md/PR07.md) | |
-| [Magicborn on the Run](storylines.md/magicborn-on-the-run.md) | [PR08](sessions.md/PR08.md) | |
-| [Saoirse's Aasimar Cleansing](storylines.md/saoirses-aasimar-cleansing.md) | [PR10](sessions.md/PR10.md) | |
-| [The Crimson Blades Capture Wrenn](storylines.md/the-crimson-blades-capture-wrenn.md) | [PR12](sessions.md/PR12.md) | |
-| [Escorted by Sarleen](storylines.md/escorted-by-sarleen.md) | [PR14](sessions.md/PR14.md) | [PR15](sessions.md/PR15.md) |
+| [Thanea's Aasimar Awakening](storylines/thaneas-aasimar-awakening.md) | [PR00](sessions/PR00.md) | |
+| [Wizira's Father Goes Missing](storylines/wiziras-father-goes-missing.md) | [PR01](sessions/PR01.md) | |
+| [Crossing Paths in Goldreach](storylines/crossing-paths-in-goldreach.md) | [PR01](sessions/PR01.md) | [PR02](sessions/PR02.md) |
+| [Finding the Goldreach Meteorite](storylines/finding-the-goldreach-meteorite.md) | [PR01](sessions/PR01.md) | |
+| [The Rising Threat of Meteors](storylines/the-rising-threat-of-meteors.md) | [PR01](sessions/PR01.md) | |
+| [Torbra's Giant Lineage](storylines/torbras-giant-lineage.md) | [PR01](sessions/PR01.md) | |
+| [Wolves Threaten Goldreach](storylines/wolves-threaten-goldreach.md) | [PR02](sessions/PR02.md) | [PR08](sessions/PR08.md) |
+| [Saoirse Contracts Meteoridis](storylines/saoirse-contracts-meteoridis.md) | [PR07](sessions/PR07.md) | |
+| [Magicborn on the Run](storylines/magicborn-on-the-run.md) | [PR08](sessions/PR08.md) | |
+| [Saoirse's Aasimar Cleansing](storylines/saoirses-aasimar-cleansing.md) | [PR10](sessions/PR10.md) | |
+| [The Crimson Blades Capture Wrenn](storylines/the-crimson-blades-capture-wrenn.md) | [PR12](sessions/PR12.md) | |
+| [Escorted by Sarleen](storylines/escorted-by-sarleen.md) | [PR14](sessions/PR14.md) | [PR15](sessions/PR15.md) |

@@ -25,7 +25,7 @@ When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winte
 
 He was severely beaten for his insolence before Ephaine healed him with her druidic magic. This act caught the attention of the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) present. Ephaine then buried and killed them in an avalanche of her causing.
 
-After this, Tamman watched on as his sister quickly departed to seek the sanctuary of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). He hasn't seen her since.
+After this, Tamman watched on as his sister quickly departed to seek the [sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md) of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). He hasn't seen her since.
 
 ## Planning
 

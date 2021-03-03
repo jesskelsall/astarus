@@ -1,6 +1,6 @@
 # Vilnia Kovas
 
-<img src="../../images/people/vilnia-kovas.png" height="300" />
+<img src="../../images/people/vilnia-kovas.png" height="400" />
 
 | []() | |
 | --- | --- |

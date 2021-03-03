@@ -94,8 +94,8 @@ The [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox
 
 While inside, all people, citizens or otherwise, are simply worshippers.
 
-### Sanctuary
+### [Sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md)
 
 The Order of the Diamond can take people inside their temples who are wanted by the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) or [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). The caretakers decide how long they may stay, and can forcibly eject anyone overstaying their welcome. It is up to the caretakers to determine how long they may stay.
 
-While here, those seeking sanctuary partake of the food and drink left for the caretakers, and help them with their daily duties.
+While here, those seeking [sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md) partake of the food and drink left for the caretakers, and help them with their daily duties.

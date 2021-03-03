@@ -1,6 +1,6 @@
 # Sparrow on the Autumn Pine
 
-<img src="../../images/people/sparrow-on-the-autumn-pine.png" height="300" />
+<img src="../../images/people/sparrow-on-the-autumn-pine.png" height="400" />
 
 | []() | |
 | --- | --- |

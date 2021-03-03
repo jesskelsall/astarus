@@ -50,5 +50,6 @@ A main street, [Kirrel](../../gods/gods/kirrel.md) Way, leads through the strong
 
 - [Auric Rise](../buildings/auric-rise.md) (officer homes and offices)
 - [Kirrel Hall](../buildings/kirrel-hall.md) (meeting and banquet hall)
+- [The Sanctum](../buildings/the-sanctum.md) (sanctuaries building)
 - [The Mission's End](../buildings/inns-taverns/the-missions-end.md) (tavern / hostel)
 - [Zenith Spire](../buildings/zenith-spire.md) (administrative)

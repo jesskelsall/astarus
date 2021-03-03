@@ -44,9 +44,9 @@ The Slippery Weasel is the main inn in [Goldreach](../README.md), situated on th
 
 ## History
 
-### [PR01](../../../../../../campaigns/purple-rain/sessions.md/PR01.md)
+### [PR01](../../../../../../campaigns/purple-rain/sessions/PR01.md)
 
-*See: [Crossing Paths in Goldreach](../../../../../../campaigns/purple-rain/storylines.md/crossing-paths-in-goldreach.md)*
+*See: [Crossing Paths in Goldreach](../../../../../../campaigns/purple-rain/storylines/crossing-paths-in-goldreach.md)*
 
 During the commotion following the landing of the [Goldreach](../README.md) Meteorite, The Slippery Weasel was very crowded, and so extra hands were brought in as temporary barmaids. They were inexperienced and easily startled by so many loud people.
 

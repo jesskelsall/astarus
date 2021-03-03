@@ -26,7 +26,7 @@ Grant Thackeray was [Redwyn Humpledopper](redywn-humpledopper.md)'s mentor while
 | Face | Tanned skin, brown eyes, wrinkled forehead. Scar on left side of chin. Smiley. |
 | Hair | Almost bald, some thinning grey hair on sides. Brown eyebrows. |
 | Body | 5'8". Thin but muscly. |
-| Clothes | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) officer's uniform. |
+| Clothes | [Astorrel officer's uniform](../civilisations/kingdom-of-astor/organisations/astorrel/uniforms/astorrel-officers-uniform.md). |
 | Mannerisms | Stiff yet energetic. |
 
 | Personality | Description |

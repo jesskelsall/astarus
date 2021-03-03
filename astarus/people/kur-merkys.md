@@ -1,6 +1,6 @@
 # Kur Merkys
 
-<img src="../../images/people/kur-merkys.png" height="300" />
+<img src="../../images/people/kur-merkys.png" height="400" />
 
 | []() | |
 | --- | --- |

@@ -25,7 +25,7 @@ When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winte
 
 Tamman was severely beaten for his insolence. As penance, Schaef Seren was forced to herd the best of his remaining livestock back to the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) garrison. While doing this, an avalanche caused by [Ephaine Seren](ephaine-seren.md) buried the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) still present near his family home. He returned with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) escort to his home.
 
-By the time he arrived, Ephaine had fled, seeking the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) for sanctuary.
+By the time he arrived, Ephaine had fled, seeking the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) for [sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md).
 
 ## Planning
 

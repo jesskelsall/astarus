@@ -52,23 +52,23 @@ When he was younger, Alistair was stationed in Kilflynn with [Wrenn Piznarck](wr
 
 ### [Purple Rain](../../campaigns/purple-rain/purple-rain.md) Prelude
 
-*See: [Finding the Goldreach Meteorite](../../campaigns/purple-rain/storylines.md/finding-the-goldreach-meteorite.md)*
+*See: [Finding the Goldreach Meteorite](../../campaigns/purple-rain/storylines/finding-the-goldreach-meteorite.md)*
 
 Following the impact of the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, Alistair saw an influx of people into [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md). This put him on edge as more people typically means more trouble.
 
 Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the town from [Northhaven](../places/cities/northhaven.md) to investigate the meteorite. He agreed to host him in his home while he had business in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md).
 
-### [PR01](../../campaigns/purple-rain/sessions.md/PR01.md)
+### [PR01](../../campaigns/purple-rain/sessions/PR01.md)
 
-*See: [Finding the Goldreach Meteorite](../../campaigns/purple-rain/storylines.md/finding-the-goldreach-meteorite.md)*
+*See: [Finding the Goldreach Meteorite](../../campaigns/purple-rain/storylines/finding-the-goldreach-meteorite.md)*
 
 Alistair entered [The Slippery Weasel](../civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) and gave a speech to the room, making it clear that the presence of [magicborn](../civilisations/kingdom-of-astor/magicborn.md) would not be tolerated, and they would be found. After this he went table to table asking people about their business. This included the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party. Alistair was satisfied with their answers and left them alone.
 
 Following [Wrenn Piznarck](wrenn-piznarck.md)'s conversation with the party here, Wrenn pointed to the table to show Alistair the group that had agreed to work with him, before they left the inn together.
 
-### [PR03](../../campaigns/purple-rain/sessions.md/PR03.md)
+### [PR03](../../campaigns/purple-rain/sessions/PR03.md)
 
-*See: [Wolves Threaten Goldreach](../../campaigns/purple-rain/storylines.md/wolves-threaten-goldreach.md)*
+*See: [Wolves Threaten Goldreach](../../campaigns/purple-rain/storylines/wolves-threaten-goldreach.md)*
 
 When the remains of the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) wolf pack charge into town in the early morning out of fear, Alistair is on patrol with some [Astornox guards](../civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md). He is able to defeat part of the pack and their dire wolf leader while the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party fights and kills other wolves further up the street.
 
@@ -76,13 +76,13 @@ In the aftermath, he thanks for the party for their hard work and offers to rewa
 
 The party never took him up on this offer due to the following events that transpired.
 
-### [PR06](../../campaigns/purple-rain/sessions.md/PR06.md)
+### [PR06](../../campaigns/purple-rain/sessions/PR06.md)
 
 Around the time of this [Purple Rain](../../campaigns/purple-rain/purple-rain.md) session, [Wrenn Piznarck](wrenn-piznarck.md) was caught looking through the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) for [Wizira's Father](wiziras-father.md), or any evidence that he was once here. When confronted by Alistair, Wrenn accidentally admitted to knowing [Wizira](wizira.md), effectively admitting to harbouring [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
 Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their return or face serious punishment (likely death). He agreed, but later reneged, recruiting meteorite adventurers to find the party with the help of his crow familiar, and went into hiding in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md).
 
-### [PR09](../../campaigns/purple-rain/sessions.md/PR09.md)
+### [PR09](../../campaigns/purple-rain/sessions/PR09.md)
 
 TODO confirm session number
 
