@@ -68,7 +68,7 @@ Depending on the setup of the sanctuary, it may feel like a house or a prison ce
 
 The guard sergeant offering sanctuary sets the rules of the sanctuary that those seeking it agree to. They have total authority to choose rules as they see fit, and it does not have to be consistent from one offered sanctuary to the next. This allows the terms of sanctuary to be tailored to the person/group and their circumstances.
 
-As the guard sergeant has total authority, they can set rules which go against the wishes of [Astorrel](astorrel.md) within the stronghold, including superior officers. This only extends to the sanctuary itself however - the guard sergeant can provide those receiving sanctuary possessions or information (e.g. local news), but cannot reveal privileged information or bestow [Astorrel](astorrel.md) ranks, for example.
+As the guard sergeant has total authority, they can set rules which go against the wishes of [Astorrel](astorrel.md) within the stronghold, including superior officers. This only extends to the sanctuary itself however - the guard sergeant can provide those [receiving sanctuary](../../../../../campaigns/purple-rain/storylines/receiving-sanctuary.md) possessions or information (e.g. local news), but cannot reveal privileged information or bestow [Astorrel](astorrel.md) ranks, for example.
 
 | Possible Rule | Reason |
 | --- | --- |
@@ -82,7 +82,7 @@ As the guard sergeant has total authority, they can set rules which go against t
 
 ### The Guard Sergeant's Duties
 
-While the guard sergeant is offering sanctuary, they must remain in or just outside of the sanctuary at all times. This includes going to the toilet or sleeping. The idea is that the guard sergeant is the personal protector of those receiving sanctuary, and as such cannot protect them if they are not there.
+While the guard sergeant is offering sanctuary, they must remain in or just outside of the sanctuary at all times. This includes going to the toilet or sleeping. The idea is that the guard sergeant is the personal protector of those [receiving sanctuary](../../../../../campaigns/purple-rain/storylines/receiving-sanctuary.md), and as such cannot protect them if they are not there.
 
 This makes continuing to offer sanctuary an uncomfortable and often boring task, which helps to bring the offer to an end eventually.
 
@@ -98,13 +98,13 @@ Sanctuary is a temporary arrangement, so those receiving it are aware of their l
 
 ### Ending Sanctuary
 
-When sanctuary ends, in most circumstances those receiving sanctuary are cast back out beyond the stronghold's gatehouse to meet their fate.
+When sanctuary ends, in most circumstances those [receiving sanctuary](../../../../../campaigns/purple-rain/storylines/receiving-sanctuary.md) are cast back out beyond the stronghold's gatehouse to meet their fate.
 
 If those they are hiding from (e.g. the [Astornox](../astornox/astornox.md)) are particularly keen on getting their hands on them, they may well be waiting for their sanctuary to end. In this case, seeking sanctuary was just a delay tactic.
 
 ### Leaving
 
-Those receiving sanctuary have a right to leave any time they wish. If they are confined there may be a slight delay, but ultimately the guard sergeant must honour their wishes as soon as possible.
+Those [receiving sanctuary](../../../../../campaigns/purple-rain/storylines/receiving-sanctuary.md) have a right to leave any time they wish. If they are confined there may be a slight delay, but ultimately the guard sergeant must honour their wishes as soon as possible.
 
 ### Rescinding
 

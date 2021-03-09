@@ -6,7 +6,7 @@
 | --- | --- |
 | **Name** | Sparrow on the Autumn Pine |
 | **Race** | Tabaxi |
-| **Gender** | Non-binary |
+| **Gender** | Non-binary | TODO Male
 | **Age** | 30 |
 | **Class** | Ranger (Swarmkeeper) |
 | **Alignment** | |
