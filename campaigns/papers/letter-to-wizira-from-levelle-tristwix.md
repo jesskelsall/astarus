@@ -1,8 +1,8 @@
 # Letter to Wizira from Levelle Tristwix
 
-> From the office of the [Astorrel Commandant](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/8-commandant.md)
-> [Zenith Spire](../../astarus/places/buildings/zenith-spire.md)
-> [Northhaven Astorrel Stronghold](../../astarus/places/strongholds/northhaven-astorrel-stronghold.md)
+> From the office of the [Astorrel Commandant](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/8-commandant.md)  
+> [Zenith Spire](../../astarus/places/buildings/zenith-spire.md)  
+> [Northhaven Astorrel Stronghold](../../astarus/places/strongholds/northhaven-astorrel-stronghold.md)  
 > [Kingdom of Astor](../../astarus/civilisations/kingdom-of-astor/README.md)
 >
 > Bhydag, 8th of Taledus, 312 P.A.
@@ -23,7 +23,7 @@
 >
 > Sincerely,
 >
-> [Levelle Tristwix](../../astarus/people/levelle-tristwix.md)
+> [Levelle Tristwix](../../astarus/people/levelle-tristwix.md)  
 > [Astorrel Commandant](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/8-commandant.md)
 
 <img src="../../images/papers/letter-to-wizira-from-levelle-tristwix.png" width="80%" />
