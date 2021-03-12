@@ -2,7 +2,7 @@
 
 | | |
 | --- | --- | 
-| **Name** | [Astorrel](../../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) Adept | feat.1
+| **Name** | [Astorrel Adept](https://www.dndbeyond.com/feats/549812-astorrel-adept) | feat.1
 | **Requirements** | *None* |
 
 ## Description
