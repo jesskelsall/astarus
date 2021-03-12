@@ -53,4 +53,4 @@ Mergin Thorgus conducted the graduation of the [Astorrel Agents](../../campaigns
 
 Mergin visits the party in [sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md) to introduce themselves as the face of the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md). They are curious and wish to know who the party are for their own satisfaction.
 
-Mergin brings that day's town crier script ([Northhaven Town Crier Script 312-5-06](../../campaigns/papers/northhaven-town-crier-script-312-5-06.md)) with them, noting their notoriety. This gives the party an insight into what others are hearing about them.
+Mergin brings that day's town crier script ([Northhaven Town Crier Script 312-5-06](../../campaigns/purple-rain/papers/northhaven-town-crier-script-312-5-06.md)) with them, noting their notoriety. This gives the party an insight into what others are hearing about them.
