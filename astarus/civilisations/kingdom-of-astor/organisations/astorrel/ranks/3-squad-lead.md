@@ -20,7 +20,7 @@ Astorrel Squad Lead badges look like plain [Astorrel](../astorrel.md) [military 
 
 Astorrel Squad Leads are the fourth member of a mission squad, alongside 3 [Astorrel Squad Hands](2-squad-hand.md).
 
-Their duties are to complete missions given to them by their Squad Sergeant, and lead their Squad Hands. This sees them traveling to locations within the [Kingdom of Astor](../../../README.md), talking with locals, seeing the state of the land, and taking action on their Squad Lead's behalf.
+Their duties are to complete missions given to them by their Squad Sergeant, and lead their Squad Hands. This sees them travelling to locations within the [Kingdom of Astor](../../../README.md), talking with locals, seeing the state of the land, and taking action on their Squad Lead's behalf.
 
 Squads are based out of the city that their Squad Sergeant resides in, and so it is typical that they complete missions in the surrounding area.
 
