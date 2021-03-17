@@ -22,6 +22,6 @@ Cropping Hero Forge image exports:
 
 ```bash
 function hfc() {
-  convert $1 -crop 600x1024+200+0 $1
+  convert $1 -crop 1200x2048+400+0 $1
 }
 ```
