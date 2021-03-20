@@ -4,7 +4,7 @@
 | --- | --- |
 | Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR08](../sessions/PR08.md) |
-| Session Ended | [PR17](../sessions/PR17.md) |
+| Session Ended | [PR20](../sessions/PR20.md) |
 
 ## Summary
 
@@ -195,11 +195,17 @@ The party make their way along the street, Torbra trying her best to dodge incom
 
 At this point the party seeks [sanctuary](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md) within the stronghold, preventing the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) from pursuing them any further.
 
-### Final Report
+### [PR18](../sessions/PR18.md)
+
+Upon reaching the [Northhaven Astorrel Stronghold](../../../astarus/places/strongholds/northhaven-astorrel-stronghold.md), [Garrick Rose](../../../astarus/people/garrick-rose.md) offers the party [sanctuary](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md) in [The Sanctum](../../../astarus/places/buildings/the-sanctum.md), permitting them to enter the stronghold and stay out of the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md)'s jurisdiction.
+
+It is made clear to the party that if the offer is rescinded or they choose to leave of their own volition, they will be returned to the [Sunset District](../../../astarus/places/districts/sunset-district.md) where the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) will once again be able to capture them. [Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) suggests that due to the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) the party has killed in [Northhaven](../../../astarus/places/cities/northhaven.md), this may now result in their deaths rather than capture.
+
+[Garrick Rose](../../../astarus/people/garrick-rose.md) explains that if the party doesn't find a way to resolve their situation while they are in [sanctuary](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md), it is only a matter of time until he grows tired and rescinds his offer of [sanctuary](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md).
+
+## Final Report
 
 This is a summary of all the run-ins the party had with the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) during this storyline.
-
-### Events
 
 TODO complete before trial.
 

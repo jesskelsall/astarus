@@ -56,6 +56,10 @@ The group decides to press on to [Northhaven](../../../astarus/places/cities/nor
 
 [Darjonkaargeac Hidaar](../../../astarus/people/darjonkaargeac-hidaar.md) informs the party of the full details of the message they received from [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md), including the part about the information they know saving Astor. The party has no idea what Wrenn is referring to.
 
+### [PR18](../sessions/PR18.md)
+
+While in [sanctuary](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md), the party briefly mentions to both [Elysia Vanderboss](../../../astarus/people/elysia-vanderboss.md) and [Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) that [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) was captured by bandits.
+
 ## Planning
 
 [Morog Whiteknuckle](../../../astarus/people/morog-whiteknuckle.md) and his entourage take [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) back to Carnmere as instructed by [Stalker](../../../astarus/people/stalker.md), their leader.

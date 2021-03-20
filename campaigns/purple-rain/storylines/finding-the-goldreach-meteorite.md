@@ -4,7 +4,7 @@
 | --- | --- |
 | Campaign(s) | [Purple Rain](../purple-rain.md) |
 | Session Started | [PR01](../sessions/PR01.md) |
-| Session Ended | TODO |
+| Session Ended | [PR11](../sessions/PR11.md) |
 
 ## Summary
 

@@ -39,3 +39,9 @@ As he is being brought to consciousness by an [Astornox Guard Corporal](../../..
 ### Between Sessions
 
 In the immediate aftermath of the fight, Kur does not remember waking up the first time. He does however remember seeing Vilnia go down at the hands of [Thanea](../../../astarus/people/thanea.md). Finding her dead, his emotions quickly shift from shock and sorrow to blind rage. He swears to himself that he will kill [Thanea](../../../astarus/people/thanea.md) as revenge for taking his partner's life, no matter what it takes.
+
+### [PR18](../sessions/PR18.md)
+
+When [Levelle Tristwix](../../../astarus/people/levelle-tristwix.md) visits the party in [sanctuary](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md) in [The Sanctum](../../../astarus/places/buildings/the-sanctum.md), they explain that due to the [Astornox](../../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md) killed on their way through [Northhaven](../../../astarus/places/cities/northhaven.md), if they were to leave the [Northhaven Astorrel Stronghold](../../../astarus/places/strongholds/northhaven-astorrel-stronghold.md), they would likely be killed.
+
+This is in reference to [Vilnia Kovas](../../../astarus/people/vilnia-kovas.md)' death specifically, though Levelle isn't aware of Kur's quest for revenge.

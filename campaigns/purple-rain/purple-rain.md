@@ -30,7 +30,7 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 | [PR00](sessions/PR00.md) | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [PR01](sessions/PR01.md) | [PR02](sessions/PR02.md) | [PR03](sessions/PR03.md) | [PR04](sessions/PR04.md) | [PR05](sessions/PR05.md) | [PR06](sessions/PR06.md) | [PR07](sessions/PR07.md) | [PR08](sessions/PR08.md) | [PR09](sessions/PR09.md) | [PR10](sessions/PR10.md) |
-| [PR11](sessions/PR11.md) | [PR12](sessions/PR12.md) | [PR13](sessions/PR13.md) | [PR14](sessions/PR14.md) | [PR15](sessions/PR15.md) | [PR16](sessions/PR16.md) | [PR17](sessions/PR17.md) | [PR18](sessions/PR18.md) | *[PR19](sessions/PR19.md)*
+| [PR11](sessions/PR11.md) | [PR12](sessions/PR12.md) | [PR13](sessions/PR13.md) | [PR14](sessions/PR14.md) | [PR15](sessions/PR15.md) | [PR16](sessions/PR16.md) | [PR17](sessions/PR17.md) | [PR18](sessions/PR18.md) | [PR19](sessions/PR19.md) | *[PR20](sessions/PR20.md)*
 
 ## Storylines
 
@@ -39,7 +39,7 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 | [Thanea's Aasimar Awakening](storylines/thaneas-aasimar-awakening.md) | [PR00](sessions/PR00.md) |
 | [Wizira's Father Goes Missing](storylines/wiziras-father-goes-missing.md) | [PR01](sessions/PR01.md) |
 | [Crossing Paths in Goldreach](storylines/crossing-paths-in-goldreach.md) | [PR01](sessions/PR01.md) | [PR02](sessions/PR02.md) |
-| [Finding the Goldreach Meteorite](storylines/finding-the-goldreach-meteorite.md) | [PR01](sessions/PR01.md) |
+| [Finding the Goldreach Meteorite](storylines/finding-the-goldreach-meteorite.md) | [PR01](sessions/PR01.md) | [PR11](sessions/PR11.md)
 | [The Rising Threat of Meteors](storylines/the-rising-threat-of-meteors.md) | [PR01](sessions/PR01.md) |
 | [Torbra's Giant Lineage](storylines/torbras-giant-lineage.md) | [PR01](sessions/PR01.md) |
 | [Wolves Threaten Goldreach](storylines/wolves-threaten-goldreach.md) | [PR02](sessions/PR02.md) | [PR08](sessions/PR08.md) |
@@ -48,5 +48,6 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 | [Saoirse's Aasimar Cleansing](storylines/saoirses-aasimar-cleansing.md) | [PR10](sessions/PR10.md) |
 | [The Crimson Blades Capture Wrenn](storylines/the-crimson-blades-capture-wrenn.md) | [PR12](sessions/PR12.md) |
 | [Escorted by Sarleen](storylines/escorted-by-sarleen.md) | [PR14](sessions/PR14.md) | [PR15](sessions/PR15.md) |
+| [The Firbolg Controversy](storylines/the-firbolg-controversy.md) | [PR15](sessions/PR15.md)
 | [Revenge of the Magicborn Hunters](storylines/revenge-of-the-magicborn-hunters.md) | [PR17](sessions/PR17.md)
 | [Receiving Sanctuary](storylines/receiving-sanctuary.md) | [PR18](sessions/PR18.md)

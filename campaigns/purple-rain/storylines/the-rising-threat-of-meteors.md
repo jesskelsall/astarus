@@ -49,3 +49,15 @@ When [Wizira](../../../astarus/people/wizira.md) asks Wrenn if it would be possi
 In reaction to this, [Thanea](../../../astarus/people/thanea.md) casts Detect Thoughts to read Wrenn's current thoughts. She learns that he is conflicted - [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md) needs help with their work, but he fears how [Tyburn Dalvos](../../../astarus/people/tyburn-dalvos.md) and [Elysia Vanderboss](../../../astarus/people/elysia-vanderboss.md) would react if he involved others without their consent.
 
 This provides [Thanea](../../../astarus/people/thanea.md) with a cryptic window into why Wrenn was interested in the meteorite in the first place. She chooses not to react and keeps the information to herself.
+
+### [PR18](../sessions/PR18.md)
+
+While in [sanctuary](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md) in [The Sanctum](../../../astarus/places/buildings/the-sanctum.md), the party is visited by [Elysia Vanderboss](../../../astarus/people/elysia-vanderboss.md), [Astorrel Squad Lead](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/ranks/3-squad-lead.md) of [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md), which [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) belongs to. She sees [Saoirse](../../../astarus/people/saoirse.md) holding the [Goldreach](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteor and is shocked, immediately demanding to know how the party came to possess it.
+
+The party explains that they got it from the [Hawkswood Wolf Cave](../../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/places/hawkswood-wolf-cave.md) after fighting 2 Meteoric Watchers which they killed, turning them to dust. [Wrenn Piznarck](../../../astarus/people/wrenn-piznarck.md) put them onto the search for the meteorite, and then fled with him from the town.
+
+Elysia is impressed both by their strength and that they possess a meteorite in such good condition. She explains that [Astral Squad](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md) have been searching for other meteorites, having gathered limited information so far. She is scared shitless by the prospect of the meteorites potentially being a concerted effort, and speculates that they may be a form of magic being employed by the [Syntenne Republic](../../../astarus/civilisations/syntenne-republic/README.md). This would break the Astor-Syntenne War's armistice, leading back to open confrontation.
+
+With this in mind, she cautions the party to keep the meteorite hidden and not speak of this to anyone else, as if word gets out, there may be a mass panic. She wants to gather more evidence before taking the matter higher up the [Astorrel](../../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md)'s chain of command.
+
+The party agrees to do so, finding her trustworthy.
