@@ -13,7 +13,7 @@
 | **Leader** | |
 | **Territories** | East [Kardan](../../places/continents/kardan.md) |
 | **Founded** | |
-| **Neighbours** | [Kingdom of Astor](../kingdom-of-astor/README.md) (east)<br />[Syntenne Republic](../syntenne-republic/README.md) (south east) |
+| **Neighbours** | [Kingdom of Astor](../kingdom-of-astor/kingdom-of-astor.md) (east)<br />[Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south east) |
 | **Wars** | |
 
 ## Summary

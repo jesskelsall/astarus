@@ -8,7 +8,7 @@
 | **Age** | 25 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Member](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/1-member.md) |
+| **Affiliation** | [Astorrel Member](../organisations/astorrel/ranks/astorrel-member.md) |
 | **Commanding Officer** | [Darjonkaargeac Hidaar](darjonkaargeac-hidaar.md) |
 | **Subordinates** | |
 | **Worship** | |
@@ -19,7 +19,7 @@
 
 ## Summary
 
-Louise Perkins is an [Astorrel Member](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/1-member.md) assigned to take care of the [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md). They are currently under the command of the [Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md) and [Spoor Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/spoor.md) leads.
+Louise Perkins is an [Astorrel Member](../organisations/astorrel/ranks/astorrel-member.md) assigned to take care of the [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md). They are currently under the command of the [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) and [Spoor Squad](../organisations/astorrel/squads/spoor-squad.md) leads.
 
 ## Characteristics
 

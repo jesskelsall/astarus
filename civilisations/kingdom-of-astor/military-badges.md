@@ -2,7 +2,7 @@
 
 Most military members are given a badge that identifies them as belonging to their organisation. This is used as a form of identification.
 
-| [Astornar](organisations/astornar.md) | [Astornox](organisations/astornox/astornox.md) | [Astorrel](organisations/astorrel/astorrel.md) | [Astornos](organisations/astornos.md) |
+| [Astornar](../../organisations/astornar.md) | [Astornox](../../organisations/astornox/astornox.md) | [Astorrel](../../organisations/astorrel/astorrel.md) | [Astornos](../../organisations/astornos.md) |
 |:---:|:---:|:---:|:---:|
 | <img src="../../../images/organisations/astornar.png" height="100" /> | <img src="../../../images/organisations/astornox.png" height="100" /> | <img src="../../../images/organisations/astorrel.png" height="100" /> | <img src="../../../images/organisations/astornos.png" height="100" /> |
 
@@ -10,12 +10,12 @@ Most military members are given a badge that identifies them as belonging to the
 
 Each badge is made of a thin slate-like stone that is filed to be flat and smooth on both sides. It is cut to the shape of the organisation to which it belongs:
 
-- [Astornar](organisations/astornar.md): circle.
-- [Astornox](organisations/astornox/astornox.md): triangle.
-- [Astorrel](organisations/astorrel/astorrel.md): square.
-- [Astornos](organisations/astornos.md): eye shaped.
+- [Astornar](../../organisations/astornar.md): circle.
+- [Astornox](../../organisations/astornox/astornox.md): triangle.
+- [Astorrel](../../organisations/astorrel/astorrel.md): square.
+- [Astornos](../../organisations/astornos.md): eye shaped.
 
-Each badge is inlaid with a ruby that is cut into the shape of a square based pyramid, resembling the symbol of the [Kingdom of Astor](README.md).
+Each badge is inlaid with a ruby that is cut into the shape of a square based pyramid, resembling the symbol of the [Kingdom of Astor](kingdom-of-astor.md).
 
 ## Enchantment
 
@@ -27,7 +27,7 @@ A homebrew spell can be used to read military badges. It functions similar to [D
 
 Military badges are given to military members when they attain their rank. They are reissued when they are promoted, with the new badge containing an enchantment for their new rank details.
 
-Not all military members are given a military badge. Due to the size of the [Astornox](organisations/astornox/astornox.md), only officers are given badges. All [Astorrel](organisations/astorrel/astorrel.md) of rank Squad Hand and above are issued one, and all [Astornar](organisations/astornar.md) members are too.
+Not all military members are given a military badge. Due to the size of the [Astornox](../../organisations/astornox/astornox.md), only officers are given badges. All [Astorrel](../../organisations/astorrel/astorrel.md) of rank Squad Hand and above are issued one, and all [Astornar](../../organisations/astornar.md) members are too.
 
 Not having a military badge or not having it to hand when it is needed can make it difficult to be accepted or access areas restricted to military members only.
 
@@ -39,7 +39,7 @@ Military only areas may accept retired citizens or not depending on their use.
 
 ## Usage
 
-First and foremost, military badges give a visual impression of the organisation that the member belongs to. This can be useful when convincing someone of your trustworthiness or inclusion into the organisation, or exclusion from jurisdiction (e.g. [Astornox](organisations/astornox/astornox.md) cannot punish [Astorrel](organisations/astorrel/astorrel.md)).
+First and foremost, military badges give a visual impression of the organisation that the member belongs to. This can be useful when convincing someone of your trustworthiness or inclusion into the organisation, or exclusion from jurisdiction (e.g. [Astornox](../../organisations/astornox/astornox.md) cannot punish [Astorrel](../../organisations/astorrel/astorrel.md)).
 
 Certain areas in towns and cities exist that only permit access to military members, or members of a specific organisation. Access is only permitted by presenting a military badge at the point of entry.
 

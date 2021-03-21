@@ -5,7 +5,7 @@
 | **Name** | Allonby |
 | **Type** | Village |
 | **Location** | [Central Astor](../regions/central-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md) |
-| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) |
+| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 320 |
 | **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br />[Sea of Songs](../seas/sea-of-songs.md) |
 | **People** | |
@@ -34,10 +34,10 @@ Above the cliffs, cattle graze on the grass when the weather allows it. Farmers 
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 The [players](../../../players/logan.md) may pass through here during either heavy wind or calmer times.
 
 Allonby is very welcoming and curious about the party, offering them food. There is no inn, but a building can be cleared to host them overnight.
 
-Two [Astornox guards](../../civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md) are currently in Allonby on village patrol. They will be helping out here for at least 3 more days before heading back to [Northhaven](../cities/northhaven.md).
+Two [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) are currently in Allonby on village patrol. They will be helping out here for at least 3 more days before heading back to [Northhaven](../cities/northhaven.md).

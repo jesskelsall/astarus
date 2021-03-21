@@ -5,10 +5,10 @@
 | **Name** | Frizthwaite |
 | **Type** | Village |
 | **Location** | [Northern Astor](../regions/northern-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md) |
-| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) |
+| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 800 |
 | **Nearby Places** | [Beckermet](../towns/beckermet.md)<br />[Hawkswood](../forests/hawkswood.md)<br />[Howbridge](../towns/howbridge.md)<br />[River Humar](../rivers-lakes/river-humar.md) |
-| **People** | [Oleg Purley](../../people/oleg-purley.md) |
+| **People** | [Oleg Purley](../../characters/oleg-purley.md) |
 
 ## Summary
 
@@ -35,11 +35,11 @@ The village itself is tightly packed against the river's edge, with many piers a
 
 ## Planning
 
-### [Purple Rain](../../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
 
-The village is going about their usual business, blissfully unaware of the party on the run from the [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md). [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) visit the town every few days from [Beckermet](../towns/beckermet.md). Today they're not here, having visited yesterday.
+The village is going about their usual business, blissfully unaware of the party on the run from the [Astornox](../../organisations/astornox/astornox.md). [Astornox](../../organisations/astornox/astornox.md) visit the town every few days from [Beckermet](../towns/beckermet.md). Today they're not here, having visited yesterday.
 
-[Oleg Purley](../../people/oleg-purley.md) is standing around by the riverside and is able to help the party procure a boat.
+[Oleg Purley](../../characters/oleg-purley.md) is standing around by the riverside and is able to help the party procure a boat.
 
 | Item | Price |
 | --- | --- |

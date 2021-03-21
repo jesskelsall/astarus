@@ -10,13 +10,13 @@
 
 ## Summary
 
-Central Astor is the heartland of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md). It is where the majority of the kingdom's population lives, largely due to its flat plains and fertile rivers. Between the settlements are countless fields producing an abundance of food for the populace.
+Central Astor is the heartland of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is where the majority of the kingdom's population lives, largely due to its flat plains and fertile rivers. Between the settlements are countless fields producing an abundance of food for the populace.
 
 The land is only broken up by [Duskmere](../rivers-lakes/duskmere.md), the large lake that [Northhaven](../cities/northhaven.md) is built next to, the [river Humar](../rivers-lakes/river-humar.md) estuary, [Walna Pike](../mountains/walna-pike.md), and [Walna Forest](../forests/walna-forest.md). These make journeys to the coast or into [western Astor](western-astor.md) less direct.
 
-The [Great Astor Road](../roads/great-astor-road.md) cuts east to west connecting central Astor to both the east and west edges of the kingdom. From Eaglesfield the [Northern Road](../roads/northern-road.md) takes travelers into [northern Astor](northern-astor.md) and beyond to the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/README.md).
+The [Great Astor Road](../roads/great-astor-road.md) cuts east to west connecting central Astor to both the east and west edges of the kingdom. From Eaglesfield the [Northern Road](../roads/northern-road.md) takes travelers into [northern Astor](northern-astor.md) and beyond to the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/dardenn-kingdom.md).
 
-To the kingdom's western most reaches is territory that is still classified as part of central Astor. This includes the Albulain Valley, where the [Cepine](../../ethnicities/cepine.md) people reside. It borders the Neum Flats, a desolate tract of wastes that precedes the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/README.md) to the far west.
+To the kingdom's western most reaches is territory that is still classified as part of central Astor. This includes the Albulain Valley, where the [Cepine](../../ethnicities/cepine.md) people reside. It borders the Neum Flats, a desolate tract of wastes that precedes the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) to the far west.
 
 ## Places
 

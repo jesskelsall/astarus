@@ -8,8 +8,8 @@
 | **Age** | 24 |
 | **Class** | Bard |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md)<br />[Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
-| **Worship** | [Bhygar](../gods/gods/bhygar.md) |
+| **Affiliation** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md)<br />[Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Worship** | [Bhygar](../gods/deities/bhygar.md) |
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
@@ -17,7 +17,7 @@
 
 ## Summary
 
-Emi Rulsay is an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md) in [Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md).
+Emi Rulsay is an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) in [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md).
 
 She plays the flute.
 

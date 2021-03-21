@@ -1,55 +1,55 @@
 # Two Truths and a Lie
 
-**[Ahsha Sallas](../../astarus/people/ahsha-sallas.md)**  
+**[Ahsha Sallas](../../characters/ahsha-sallas.md)**  
 *Half-orc*
 - They got into a fight with one of their mentors.
 - They has a criminal past.
 - The mentors favoured them over the other students.
 
-**[Darius Dunn](../../astarus/people/darius-dunn.md)**  
+**[Darius Dunn](../../characters/darius-dunn.md)**  
 *Human*
 - They were abandoned by their parents.
 - They are a pacifist.
-- Their parents are high ranking [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md).
+- Their parents are high ranking [Astorrel](../../organisations/astorrel/astorrel.md).
 
-**[Ephaine Seren](../../astarus/people/ephaine-seren.md)**  
+**[Ephaine Seren](../../characters/ephaine-seren.md)**  
 *Human*
 - They used to sleep in the sheep pens as a child.
 - They once attacked another student for implying that they got her family killed for their crimes.
-- They wilfully murdered an [Astornox Lieutenant](../../astarus/civilisations/kingdom-of-astor/organisations/astornox/ranks/4-lieutenant.md) and their vanguard.
+- They wilfully murdered an [Astornox Lieutenant](../../organisations/astornox/ranks/astornox-lieutenant.md) and their vanguard.
 
-**[Morgan Caithness](../../astarus/people/morgan-caithness.md)**  
+**[Morgan Caithness](../../characters/morgan-caithness.md)**  
 *Human*
-- They don't believe in any of the four gods and will pledge themselves to one in bad faith.
+- They don't believe in any of the four [gods](../../gods/gods.md) and will pledge themselves to one in bad faith.
 - Their family lives in abject poverty.
 - They have been training for a lot longer than everyone else in our cohort.
 
-**[Penance Zahiri](../../astarus/people/penance-zahiri.md)**  
+**[Penance Zahiri](../../characters/penance-zahiri.md)**  
 *Tiefling*
-- They were a criminal prior to training as an [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md).
+- They were a criminal prior to training as an [Astorrel](../../organisations/astorrel/astorrel.md).
 - Penance hasn't always been their name.
-- They are originally from outside the [Kingdom of Astor](../../astarus/civilisations/kingdom-of-astor/README.md).
+- They are originally from outside the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
-**[Redwyn Humpledopper](../../astarus/people/redywn-humpledopper.md)**  
+**[Redwyn Humpledopper](../../characters/redwyn-humpledopper.md)**  
 *Dwarf*
-- The only reason they joined the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) was for an opportunity at vengeance.
-- They don't believe in any of the four gods and will pledge themselves to one of them in bad faith.
+- The only reason they joined the [Astorrel](../../organisations/astorrel/astorrel.md) was for an opportunity at vengeance.
+- They don't believe in any of the four [gods](../../gods/gods.md) and will pledge themselves to one of them in bad faith.
 - They started a fight with one of their fellow trainees.
 
-**[Tabari Se](../../astarus/people/tabari-se.md)**  
+**[Tabari Se](../../characters/tabari-se.md)**  
 *Halfling*
 - They are mute.
-- They are originally from outside of the [Kingdom of Astor](../../astarus/civilisations/kingdom-of-astor/README.md).
+- They are originally from outside of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 - They are trouble to anyone that tries to befriend them.
 
-**[Turnuroth Balasar](../../astarus/people/turnuroth-balasar.md)**  
+**[Turnuroth Balasar](../../characters/turnuroth-balasar.md)**  
 *Dragonborn*
-- They believe so strongly in the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) that they don't suffer well those who don't.
+- They believe so strongly in the [Astorrel](../../organisations/astorrel/astorrel.md) that they don't suffer well those who don't.
 - They are favoured by the mentors and given special treatment.
-- Their parents are high ranking [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md).
+- Their parents are high ranking [Astornox](../../organisations/astornox/astornox.md).
 
-**[Whisper on the Breeze](../../astarus/people/whisper-on-the-breeze.md)**  
+**[Whisper on the Breeze](../../characters/whisper-on-the-breeze.md)**  
 *Tabaxi*
-- They are originally from outside of the [Kingdom of Astor](../../astarus/civilisations/kingdom-of-astor/README.md).
-- Their father is an [Astornox](../../astarus/civilisations/kingdom-of-astor/organisations/astornox/astornox.md).
-- They believe very strongly in the [Astorrel](../../astarus/civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) cause.
+- They are originally from outside of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+- Their father is an [Astornox](../../organisations/astornox/astornox.md).
+- They believe very strongly in the [Astorrel](../../organisations/astorrel/astorrel.md) cause.

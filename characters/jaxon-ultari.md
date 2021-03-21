@@ -8,7 +8,7 @@
 | **Age** | 28 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox Guard Sergeant](../civilisations/kingdom-of-astor/organisations/astornox/ranks/3-guard-sergeant.md)<br /><img src="../../images/ranks/astornox-3-guard-sergeant.png" height="50" /> |
+| **Affiliation** | [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md)<br /><img src="../../images/ranks/astornox-3-guard-sergeant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | |
@@ -19,9 +19,9 @@
 
 ## Summary
 
-Jaxon Ultari is an [Astornox Guard Sergeant](../civilisations/kingdom-of-astor/organisations/astornox/ranks/3-guard-sergeant.md) based out of [Northhaven](../places/cities/northhaven.md).
+Jaxon Ultari is an [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md) based out of [Northhaven](../places/cities/northhaven.md).
 
-He frequents [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) where he likes to gamble playing [Twenties](../other/twenties.md).
+He frequents [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) where he likes to gamble playing [Twenties](../mechanics/roleplay/twenties.md).
 
 ## Characteristics
 
@@ -30,7 +30,7 @@ He frequents [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckle
 | Face | Fair skin, chiselled jaw. Prominent cheek bones, cocky smirk. |
 | Hair | Dirty blonde shoulder length. |
 | Body | 6'0" / 183cm. Lithe. |
-| Clothes | [Astornox Guard Sergeant](../civilisations/kingdom-of-astor/organisations/astornox/ranks/3-guard-sergeant.md)'s uniform. |
+| Clothes | [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md)'s uniform. |
 | Mannerisms | Casual, cocky. Leans back in chair. |
 
 | Personality | Description |
@@ -44,14 +44,14 @@ He frequents [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckle
 
 ## History
 
-## [AA02](../../campaigns/astorrel-agents/sessions/AA02.md)
+## [AA02](../sessions/AA02.md)
 
-[Redwyn Humpledopper](redywn-humpledopper.md) plays [Twenties](../other/twenties.md) with Jaxon. She slams 5 gp on the table and plays one game at a buy-in of 1 gp against him. She wins and takes her winnings as well as the rest of her pot, quitting while she's ahead.
+[Redwyn Humpledopper](redwyn-humpledopper.md) plays [Twenties](../mechanics/roleplay/twenties.md) with Jaxon. She slams 5 gp on the table and plays one game at a buy-in of 1 gp against him. She wins and takes her winnings as well as the rest of her pot, quitting while she's ahead.
 
 Jaxon tries to convince her to stay but doesn't try too hard.
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
-If the party returns to [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md), Jaxon may be here again, looking to play [Twenties](../other/twenties.md).
+If the party returns to [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md), Jaxon may be here again, looking to play [Twenties](../mechanics/roleplay/twenties.md).

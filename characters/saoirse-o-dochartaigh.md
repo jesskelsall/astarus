@@ -18,7 +18,7 @@ TODO
 | **Citizenship** | |
 | **Organisation** | |
 |||
-| **Image ID** | `96456245c79828b5`<br />`9123d71815a8ce99` (sanctuary Astorrel robes) |
+| **Image ID** | `96456245c79828b5`<br />`9123d71815a8ce99` ([sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 

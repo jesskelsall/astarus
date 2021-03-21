@@ -4,18 +4,18 @@
 
 |||
 | --- | --- |
-| **Organisation** | Astorrel | rank.2
+| **Organisation** | [Astorrel](../astorrel.md) | rank.2
 | **Officer?** | Yes |
-| **Commanding Officers** | Astorrel Lieutenants |
-| **Subordinates** | Astorrel Squad Leads<br />Astorrel Squad Hands |
+| **Commanding Officers** | [Astorrel Lieutenants](astorrel-lieutenant.md) |
+| **Subordinates** | [Astorrel Squad Leads](astorrel-squad-lead.md)<br />[Astorrel Squad Hands](astorrel-squad-hand.md) |
 |||
 | **Image ID** | `08075aea46df2ace` |
 
 ## Military Badge
 
-*See also: [Military badges](../../../military-badges.md)*
+*See also: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
 
-Astorrel Squad Sergeant badges look like plain [Astorrel](../astorrel.md) [military badges](../../../military-badges.md), but with a strip of gold inlaid inside its bottom edge. The use of gold denotes an officer rank.
+Astorrel Squad Sergeant badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its bottom edge. The use of gold denotes an officer rank.
 
 # Duties
 
@@ -39,4 +39,4 @@ Other Squad Sergeants choose to distribute their mission bounties under other sy
 
 # People
 
-- [Bryce Morton](../../../../../people/bryce-morton.md)
+- [Bryce Morton](../../../characters/bryce-morton.md)

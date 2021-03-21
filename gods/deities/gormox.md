@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Religion** | [The Order of the Diamond](../the-order-of-the-diamond.md) |
+| **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 | **Deity** | Lesser |
 | **Domains** | War, Trickery |
 | **Gender** | Male |

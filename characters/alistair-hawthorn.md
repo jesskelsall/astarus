@@ -1,47 +1,50 @@
 # Alistair Hawthorn
 
-<img src="../../images/people/alistair-hawthorn.png" height="300" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/959053dd3eac1ae0.png" height="500" />
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Alistair Hawthorn |
+| **Name** | Alistair Hawthorn | character.3
 | **Race** | Human |
-| **Gender** | Male |
+| **Pronouns** | he/him |
 | **Age** | 46 |
 | **Class** | Fighter |
-| **Alignment** | |
-| **Affiliation** | [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md)<br />[Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md)<br /><img src="../../images/ranks/astornox-0-captain.png" height="50" /> |
+| **Worship** | [Gormox](../gods/deities/gormox.md) |
+| **Relations** | [Wrenn Piznarck](wrenn-piznarck.md) (former friend) |
+| **Places** | [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) |
+|||
+| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
+| **Rank** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) |
+| **Role** | Settlement / [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
-| **Worship** | [Gormox](../gods/gods/gormox.md) |
-| **Relations** | |
-| **Acquaintances** | [Wrenn Piznarck](wrenn-piznarck.md) (former friend) |
-| **From** | |
-| **Places** | [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md)<br />[Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md)<br />[Alistair Hawthorn's House](../civilisations/kingdom-of-astor/settlements/goldreach/places/alistair-hawthorns-house.md) |
+|||
+| **Image ID** | `959053dd3eac1ae0` |
 
 ## Summary
 
-Alistair Hawthorn is the [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md) of [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md). He is the commanding officer there, overseeing the protection of the town and the use of its standing military presence.
+Alistair Hawthorn is the [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). He is the commanding officer there, overseeing the protection of the town and the use of its standing military presence.
 
 His job is to make sure that nothing bad happens in the town, so his role is varied and includes keeping the peace, dealing with local wildlife, and looking out for [magicborn](../civilisations/kingdom-of-astor/magicborn.md) that can be sent off to [Northhaven](../places/cities/northhaven.md) for processing.
 
-He comes from a prestigious family and is the embodiment of the upper class in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md), ruling through rank and reputation alike.
+He comes from a prestigious family and is the embodiment of the upper class in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), ruling through rank and reputation alike.
 
 ## Characteristics
 
 | Appearance | Description |
 | --- | --- |
-| Face | Stern face, chiseled jaw. Brown eyes. |
+| Face | Stern face, chiselled jaw. Brown eyes. |
 | Hair | Bald head, clean shaven. |
 | Body | Well built, average height. |
-| Clothes | [Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md)'s uniform. |
+| Clothes | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md)'s uniform. |
 | Mannerisms | Upright, chest puffed out. Stiff military movements, uses his posture to show dominance. |
 
 | Personality | Description |
 | --- | --- |
 | Voice | Loud and commanding. |
-| Quirks | Despite the temptations of his position and status, he cares deeply about [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) and recognises any non-[Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) people that keep the peace. |
-| Knowledge | Enjoys dueling and getting his hands dirty if needed. Good general knowledge due to his position. |
+| Quirks | Despite the temptations of his position and status, he cares deeply about [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and recognises any non-[Astornox](../organisations/astornox/astornox.md) people that keep the peace. |
+| Knowledge | Enjoys duelling and getting his hands dirty if needed. Good general knowledge due to his position. |
 | Values | |
 | Ambitions | |
 | Dislikes | |
@@ -50,40 +53,40 @@ He comes from a prestigious family and is the embodiment of the upper class in [
 
 When he was younger, Alistair was stationed in Kilflynn with [Wrenn Piznarck](wrenn-piznarck.md). It was here that they became good friends.
 
-### [Purple Rain](../../campaigns/purple-rain/purple-rain.md) Prelude
+### [Purple Rain](../campaigns/purple-rain/purple-rain.md) Prelude
 
-*See: [Finding the Goldreach Meteorite](../../campaigns/purple-rain/storylines/finding-the-goldreach-meteorite.md)*
+*See: [Finding the Goldreach Meteorite](../storylines/finding-the-goldreach-meteorite.md)*
 
-Following the impact of the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) Meteorite, Alistair saw an influx of people into [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md). This put him on edge as more people typically means more trouble.
+Following the impact of the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md), Alistair saw an influx of people into [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). This put him on edge as more people typically means more trouble.
 
-Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the town from [Northhaven](../places/cities/northhaven.md) to investigate the meteorite. He agreed to host him in his home while he had business in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md).
+Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the town from [Northhaven](../places/cities/northhaven.md) to investigate the meteorite. He agreed to host him in his home while he had business in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
 
-### [PR01](../../campaigns/purple-rain/sessions/PR01.md)
+### [PR01](../sessions/PR01.md)
 
-*See: [Finding the Goldreach Meteorite](../../campaigns/purple-rain/storylines/finding-the-goldreach-meteorite.md)*
+*See: [Finding the Goldreach Meteorite](../storylines/finding-the-goldreach-meteorite.md)*
 
-Alistair entered [The Slippery Weasel](../civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) and gave a speech to the room, making it clear that the presence of [magicborn](../civilisations/kingdom-of-astor/magicborn.md) would not be tolerated, and they would be found. After this he went table to table asking people about their business. This included the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party. Alistair was satisfied with their answers and left them alone.
+Alistair entered [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) and gave a speech to the room, making it clear that the presence of [magicborn](../civilisations/kingdom-of-astor/magicborn.md) would not be tolerated, and they would be found. After this he went table to table asking people about their business. This included the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party. Alistair was satisfied with their answers and left them alone.
 
 Following [Wrenn Piznarck](wrenn-piznarck.md)'s conversation with the party here, Wrenn pointed to the table to show Alistair the group that had agreed to work with him, before they left the inn together.
 
-### [PR03](../../campaigns/purple-rain/sessions/PR03.md)
+### [PR03](../sessions/PR03.md)
 
-*See: [Wolves Threaten Goldreach](../../campaigns/purple-rain/storylines/wolves-threaten-goldreach.md)*
+*See: [Wolves Threaten Goldreach](../storylines/wolves-threaten-goldreach.md)*
 
-When the remains of the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) wolf pack charge into town in the early morning out of fear, Alistair is on patrol with some [Astornox guards](../civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md). He is able to defeat part of the pack and their dire wolf leader while the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party fights and kills other wolves further up the street.
+When the remains of the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) wolf pack charge into town in the early morning out of fear, Alistair is on patrol with some [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). He is able to defeat part of the pack and their dire wolf leader while the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party fights and kills other wolves further up the street.
 
-In the aftermath, he thanks for the party for their hard work and offers to reward them if they visit him at the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) the following day, giving him enough time to help clean up the mess and see that the wounded are taken care of.
+In the aftermath, he thanks for the party for their hard work and offers to reward them if they visit him at the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/goldreach-astornox-stronghold.md) the following day, giving him enough time to help clean up the mess and see that the wounded are taken care of.
 
 The party never took him up on this offer due to the following events that transpired.
 
-### [PR06](../../campaigns/purple-rain/sessions/PR06.md)
+### [PR06](../sessions/PR06.md)
 
-Around the time of this [Purple Rain](../../campaigns/purple-rain/purple-rain.md) session, [Wrenn Piznarck](wrenn-piznarck.md) was caught looking through the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/settlements/goldreach/places/goldreach-astornox-stronghold.md) for [Wizira's Father](wiziras-father.md), or any evidence that he was once here. When confronted by Alistair, Wrenn accidentally admitted to knowing [Wizira](wizira.md), effectively admitting to harbouring [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
+Around the time of this [Purple Rain](../campaigns/purple-rain/purple-rain.md) session, [Wrenn Piznarck](wrenn-piznarck.md) was caught looking through the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/goldreach-astornox-stronghold.md) for [Wizira's Father](wiziras-father.md), or any evidence that he was once here. When confronted by Alistair, Wrenn accidentally admitted to knowing [Wizira](wizira.md), effectively admitting to harbouring [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
-Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their return or face serious punishment (likely death). He agreed, but later reneged, recruiting meteorite adventurers to find the party with the help of his crow familiar, and went into hiding in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md).
+Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their return or face serious punishment (likely death). He agreed, but later reneged, recruiting meteorite adventurers to find the party with the help of his crow familiar, and went into hiding in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
 
-### [PR09](../../campaigns/purple-rain/sessions/PR09.md)
+### [PR09](../sessions/PR09.md)
 
 TODO confirm session number
 
-While the [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party was escaping [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) with [Wrenn Piznarck](wrenn-piznarck.md), Alistair Hawthorn was personally commanding the [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md) [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md)'s search efforts for him throughout town, despite it being the middle of the night. He was furious at his former friend's betrayal, and insisted they try harder to find Wrenn before raising the alarm to the Eaglesfield and [Beckermet](../places/towns/beckermet.md) [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md).
+While the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party was escaping [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with [Wrenn Piznarck](wrenn-piznarck.md), Alistair Hawthorn was personally commanding the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../organisations/astornox/astornox.md)'s search efforts for him throughout town, despite it being the middle of the night. He was furious at his former friend's betrayal, and insisted they try harder to find Wrenn before raising the alarm to the Eaglesfield and [Beckermet](../places/towns/beckermet.md) [Astornox](../organisations/astornox/astornox.md).

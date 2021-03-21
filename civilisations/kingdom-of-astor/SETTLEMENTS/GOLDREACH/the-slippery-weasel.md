@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | The Slippery Weasel |
 | **Type** | Inn |
-| **Location** | [Goldreach](../README.md) |
-| **Nearby Places** | [Goldreach Marketplace](goldreach-marketplace.md)<br />[Goldreach](../README.md) Temple<br />[Goldreach Astornox Stronghold](goldreach-astornox-stronghold.md) |
-| **People** | [Sammal Guntos](../../../../../people/sammal-guntos.md) (innkeeper)<br />[Viv Dalnick](../../../../../people/viv-dalnick.md) (barmaid) |
+| **Location** | [Goldreach](README.md) |
+| **Nearby Places** | [Goldreach Marketplace](goldreach-marketplace.md)<br />[Goldreach](README.md) Temple<br />[Goldreach Astornox Stronghold](goldreach-astornox-stronghold.md) |
+| **People** | [Sammal Guntos](../../../../characters/sammal-guntos.md) (innkeeper)<br />[Viv Dalnick](../../../../characters/viv-dalnick.md) (barmaid) |
 
 ## Summary
 
-The Slippery Weasel is the main inn in [Goldreach](../README.md), situated on the north side of the [Goldreach Marketplace](goldreach-marketplace.md). It is easy to find and is often busy with local drinkers and guests alike.
+The Slippery Weasel is the main inn in [Goldreach](README.md), situated on the north side of the [Goldreach Marketplace](goldreach-marketplace.md). It is easy to find and is often busy with local drinkers and guests alike.
 
 | Sensation | Description |
 | ---- | --- |
@@ -44,10 +44,10 @@ The Slippery Weasel is the main inn in [Goldreach](../README.md), situated on th
 
 ## History
 
-### [PR01](../../../../../../campaigns/purple-rain/sessions/PR01.md)
+### [PR01](../../../../sessions/PR01.md)
 
-*See: [Crossing Paths in Goldreach](../../../../../../campaigns/purple-rain/storylines/crossing-paths-in-goldreach.md)*
+*See: [Crossing Paths in Goldreach](../../../../storylines/crossing-paths-in-goldreach.md)*
 
-During the commotion following the landing of the [Goldreach](../README.md) Meteorite, The Slippery Weasel was very crowded, and so extra hands were brought in as temporary barmaids. They were inexperienced and easily startled by so many loud people.
+During the commotion following the landing of the [Goldreach Meteorite](../../../../items/meteorites/goldreach-meteorite.md), The Slippery Weasel was very crowded, and so extra hands were brought in as temporary barmaids. They were inexperienced and easily startled by so many loud people.
 
-At this time, the [Purple Rain](../../../../../../campaigns/purple-rain/purple-rain.md) party had their initial meeting in The Slippery Weasel.
+At this time, the [Purple Rain](../../../../campaigns/purple-rain/purple-rain.md) party had their initial meeting in The Slippery Weasel.

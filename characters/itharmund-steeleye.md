@@ -11,9 +11,9 @@
 | **Relations** | |
 | **Places** | |
 | | |
-| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) |
-| **Organisation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Commandant](../civilisations/kingdom-of-astor/organisations/astornox/ranks/7-commandant.md)<br /><img src="../../images/ranks/astornox-7-commandant.png" height="50" /> |
+| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
+| **Rank** | [Astornox Commandant](../organisations/astornox/ranks/astornox-commandant.md)<br /><img src="../../images/ranks/astornox-7-commandant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 

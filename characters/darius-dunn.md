@@ -9,22 +9,22 @@
 | **Pronouns** | he/him |
 | **Age** | 17 |
 | **Class** | Cleric |
-| **Worship** | Valnos (Astorrel pledge) |
+| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | |
 | **Places** | Eaglesfield (birthplace) |
 |||
 | **Citizenship** | |
-| **Organisation** | Astorrel |
-| **Rank** | Astorrel Squad Hand |
-| **Role** | City / Northhaven / Ruby Squad |
-| **Commanding Officer** | Bryce Morton |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | City / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) |
+| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `94fe4e7c79cbcd9a` |
 
 ## Summary
 
-Darius Dunn is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/astorrel/astorrel.md), and is part of [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).
 
 ## Characteristics
 
@@ -50,16 +50,16 @@ Darius Dunn is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-as
 
 ### Backstory
 
-Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) recruitment programme to escape his home life, graduating after only two years.
+Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme to escape his home life, graduating after only two years.
 
-### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
-- Their parents are high ranking [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md). [truth]
+- Their parents are high ranking [Astorrel](../organisations/astorrel/astorrel.md). [truth]
 - They are a pacifist. [truth]
 - They were abandoned by their parents. [lie]
 
-### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party found Darius following the [Astorrel graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/gods/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
+The [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party found Darius following the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/deities/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
 
-The party has seen Darius in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+The party has seen Darius in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

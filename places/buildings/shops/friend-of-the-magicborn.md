@@ -6,11 +6,11 @@
 | **Type** | Shop |
 | **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Everything Else](everything-else.md)<br />[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br />[Rhotrukk Wepons](rhotrukk-wepons.md)<br />[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Moss Under the Crumbling Cliffs](../../../people/moss-under-the-crumbling-cliffs.md) |
+| **People** | [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md) |
 
 ## Summary
 
-Friend of the Magicborn is a magical item shop on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md). It is owned by [Moss Under the Crumbling Cliffs](../../../people/moss-under-the-crumbling-cliffs.md).
+Friend of the Magicborn is a magical item shop on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md). It is owned by [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md).
 
 A wooden storefront facade, intricately carved to provide reliefs of trees either side of the windows. Vines grow up the woodwork from planters below, White and pink flowers adorn the vines.
 
@@ -26,7 +26,7 @@ Inside the nature theme continues. A small area before a long natural looking wo
 
 ## Vendor
 
-[Moss Under the Crumbling Cliffs](../../../people/moss-under-the-crumbling-cliffs.md) will not provide any services to those who cannot prove that they are [magicborn](../../../civilisations/kingdom-of-astor/magicborn.md) and are worthy. This can be done by bringing a magical item to her. 
+[Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md) will not provide any services to those who cannot prove that they are [magicborn](../../../civilisations/kingdom-of-astor/magicborn.md) and are worthy. This can be done by bringing a magical item to her. 
 
 Friend of the Magicborn offers the following services:
 
@@ -42,6 +42,6 @@ Magical items will be periodically available depending on the [players](../../..
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
-[Moss Under the Crumbling Cliffs](../../../people/moss-under-the-crumbling-cliffs.md) can be found standing behind the counter, ever-present. Nobody else will enter the store. She will be vague about the services she provides.
+[Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md) can be found standing behind the counter, ever-present. Nobody else will enter the store. She will be vague about the services she provides.

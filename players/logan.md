@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| [Redwyn Humpledopper](../astarus/people/redywn-humpledopper.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) | Party Member |
+| [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) | Party Member |

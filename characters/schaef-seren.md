@@ -21,14 +21,14 @@ Schaef Seren is [Ephaine Seren](ephaine-seren.md)'s father. He lives in the vill
 
 ## History
 
-When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox Lieutenant](../civilisations/kingdom-of-astor/organisations/astornox/ranks/4-lieutenant.md) and his vanguard who came for his family's sheep in the night.
+When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../organisations/astornox/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox Lieutenant](../organisations/astornox/ranks/astornox-lieutenant.md) and his vanguard who came for his family's sheep in the night.
 
-Tamman was severely beaten for his insolence. As penance, Schaef Seren was forced to herd the best of his remaining livestock back to the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) garrison. While doing this, an avalanche caused by [Ephaine Seren](ephaine-seren.md) buried the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) still present near his family home. He returned with the [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) escort to his home.
+Tamman was severely beaten for his insolence. As penance, Schaef Seren was forced to herd the best of his remaining livestock back to the [Astornox](../organisations/astornox/astornox.md) garrison. While doing this, an avalanche caused by [Ephaine Seren](ephaine-seren.md) buried the [Astornox](../organisations/astornox/astornox.md) still present near his family home. He returned with the [Astornox](../organisations/astornox/astornox.md) escort to his home.
 
-By the time he arrived, Ephaine had fled, seeking the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) for [sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md).
+By the time he arrived, Ephaine had fled, seeking the [Astorrel](../organisations/astorrel/astorrel.md) for [sanctuary](../organisations/astorrel/sanctuary.md).
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 [Ephaine Seren](ephaine-seren.md) has had no contact with her father since she left. She doesn't know if he is still alive.

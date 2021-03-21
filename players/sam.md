@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| [Torbra Tauff](../astarus/people/torbra-tauff.md) | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |
+| [Torbra Tauff](../characters/torbra-tauff.md) | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |

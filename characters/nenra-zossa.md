@@ -9,7 +9,7 @@
 | **Class** | |
 | **Alignment** | |
 | **Affiliation** | Drigg |
-| **Worship** | [Malnesh](../gods/gods/malnesh.md) |
+| **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | Grice Zossa (husband, deceased) |
 | **Acquaintances** | [Kulegar Bronhor](kulegar-bronhor.md) (friend) |
 | **From** | |
@@ -19,7 +19,7 @@
 
 Nenra Zossa is the leader of the village of [Arnaside](../places/villages/arnaside.md), styled as the *[Arnaside](../places/villages/arnaside.md) daughter of the Judge Mother*. She can typically be found in [the Malneshitas](../places/buildings/temples/the-malneshitas.md).
 
-She is devout and wise, devoting her life to [Malnesh](../gods/gods/malnesh.md). Her late husband, Grice Zossa, had the idea of forming [Arnaside](../places/villages/arnaside.md) 15 years ago. She looks after it as both its spiritual and civic leader.
+She is devout and wise, devoting her life to [Malnesh](../gods/deities/malnesh.md). Her late husband, Grice Zossa, had the idea of forming [Arnaside](../places/villages/arnaside.md) 15 years ago. She looks after it as both its spiritual and civic leader.
 
 ## Characteristics
 
@@ -35,28 +35,28 @@ She is devout and wise, devoting her life to [Malnesh](../gods/gods/malnesh.md).
 | --- | --- |
 | Voice | Low female register. Foreign eastern European accent. |
 | Quirks | Always talks like she's giving a sermon. |
-| Knowledge | [Malnesh](../gods/gods/malnesh.md) |
+| Knowledge | [Malnesh](../gods/deities/malnesh.md) |
 | Values | |
 | Ambitions | |
 | Dislikes | |
 
 ## History
 
-Nenra lived most of her life in Eaglesfield. She spent a lot of time watching the Eaglesfield [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) training new soldiers for the war (Syntenne-Astor war) effort.
+Nenra lived most of her life in Eaglesfield. She spent a lot of time watching the Eaglesfield [Astornox](../organisations/astornox/astornox.md) training new soldiers for the war (Syntenne-Astor war) effort.
 
 Eventually she couldn't watch new hopeful recruits get churned up by the system anymore, and moved outside of the town.
 
-She claims that she and her husband were visited by [Malnesh](../gods/gods/malnesh.md) one starry night out on the plains, who instructed them on how to honour the dead. From that day they both devoted themselves to [Malnesh](../gods/gods/malnesh.md) fully.
+She claims that she and her husband were visited by [Malnesh](../gods/deities/malnesh.md) one starry night out on the plains, who instructed them on how to honour the dead. From that day they both devoted themselves to [Malnesh](../gods/deities/malnesh.md) fully.
 
 After he died of old age 4 years ago, she has been running [Arnaside](../places/villages/arnaside.md) by herself, though with the help of everyone around her.
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 Nenra Zossa is in [the Malneshitas](../places/buildings/temples/the-malneshitas.md) when the party arrives in [Arnaside](../places/villages/arnaside.md).
 
-When the party enters the temple, at first she assumes that they are here to join the village as Malneshi. She has no concept of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md).
+When the party enters the temple, at first she assumes that they are here to join the village as Malneshi. She has no concept of the [Astorrel](../organisations/astorrel/astorrel.md).
 
 She is acutely aware that creatures in the [Walna Forest](../places/forests/walna-forest.md) are disrupting the village's ability to log wood, but believes that her worship will help the village weather the situation.
 

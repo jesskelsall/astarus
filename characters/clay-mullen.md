@@ -47,9 +47,9 @@ His horse is called Secret.
 
 ## History
 
-### [AA02](../../campaigns/astorrel-agents/sessions/AA02.md)
+### [AA02](../sessions/AA02.md)
 
-[Canary Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/canary.md) hired Clay to drive them to [Arnaside](../places/villages/arnaside.md) for their mission (Investigate Logging in [Arnaside](../places/villages/arnaside.md)). After Ahsha haggled with him, he agreed to make the journey for 5 gp, and would offer the return journey at the same rate.
+[Canary Squad](../organisations/astorrel/squads/canary-squad.md) hired Clay to drive them to [Arnaside](../places/villages/arnaside.md) for their mission (Investigate Logging in [Arnaside](../places/villages/arnaside.md)). After Ahsha haggled with him, he agreed to make the journey for 5 gp, and would offer the return journey at the same rate.
 
 When bandits ambushed the coach by placing a dead horse in the road, Clay was sliced at by a bandit that jumped on the front of the cart, rendering him unconscious. [Ephaine Seren](ephaine-seren.md) managed to stabilise him with Healing Word.
 
@@ -57,7 +57,7 @@ Following the fight, he was in too bad a condition to drive and was placed in th
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 In the morning Clay will have second thoughts about agreeing to this journey, wishing to head back to [Northhaven](../places/cities/northhaven.md) where he can recover fully.
 

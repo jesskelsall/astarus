@@ -8,7 +8,7 @@
 | **Age** | 118 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
@@ -42,10 +42,10 @@ He is a jovial dwarf, happy to serve his customers and share in the revelry when
 
 ## History
 
-Tydrus meets the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party in [AA01](../../campaigns/astorrel-agents/sessions/AA01.md), continuing into [AA02](../../campaigns/astorrel-agents/sessions/AA02.md).
+Tydrus meets the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party in [AA01](../sessions/AA01.md), continuing into [AA02](../sessions/AA02.md).
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day, Tydrus Tinshield is having the time of his life, ecstatic of the extra customers he has had the past few days. He stokes the fire of the perpetual revelry inside his tavern.

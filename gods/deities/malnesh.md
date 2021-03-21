@@ -34,6 +34,6 @@ She is represented by a woman holding a sword aloft in one hand and a pair of sc
 
 ## Worship
 
-The worship of The Judge Mother is a fringe movement within the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md). Those who worship Malnesh exclusively call themselves *Malneshi*. They are typically tolerant of others' faith.
+The worship of The Judge Mother is a fringe movement within the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). Those who worship Malnesh exclusively call themselves *Malneshi*. They are typically tolerant of others' faith.
 
 Malneshi honour the dead by performing funeral rites, taking care of the remains of the deceased (preserving the bones), and honouring the memory of the deceased on the day of their death each year. Those who make a last wish before dying have it carried out fervently by those who are there to witness it.

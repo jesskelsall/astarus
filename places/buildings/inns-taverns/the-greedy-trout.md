@@ -6,11 +6,11 @@
 | **Type** | Inn |
 | **Location** | [Frizthwaite](../../villages/frizthwaite.md) |
 | **Nearby Places** | |
-| **People** | [Mordus Shren](../../../people/mordus-shren.md) (owner, innkeeper) |
+| **People** | [Mordus Shren](../../../characters/mordus-shren.md) (owner, innkeeper) |
 
 ## Summary
 
-The Greedy Trout is the only inn in [Frizthwaite](../../villages/frizthwaite.md). It is owned and ran by [Mordus Shren](../../../people/mordus-shren.md).
+The Greedy Trout is the only inn in [Frizthwaite](../../villages/frizthwaite.md). It is owned and ran by [Mordus Shren](../../../characters/mordus-shren.md).
 
 ### Exterior
 
@@ -34,8 +34,8 @@ Further along the corridor are the rooms for rent.
 
 ## Planning
 
-### [Purple Rain](../../../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../../../campaigns/purple-rain/purple-rain.md)
 
-If the party decides to stay here overnight following their battle with [The Crimson Blades](../../../civilisations/kingdom-of-astor/organisations/the-crimson-blades.md), they will encounter no notoriety.
+If the party decides to stay here overnight following their battle with [The Crimson Blades](../../../organisations/the-crimson-blades.md), they will encounter no notoriety.
 
-However, in the morning the [Astornox](../../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) from [Beckermet](../../towns/beckermet.md) will arrive and insist on searching the inn for them.
+However, in the morning the [Astornox](../../../organisations/astornox/astornox.md) from [Beckermet](../../towns/beckermet.md) will arrive and insist on searching the inn for them.

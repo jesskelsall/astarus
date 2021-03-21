@@ -8,7 +8,7 @@
 | **Age** | |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
@@ -17,4 +17,4 @@
 
 ## Summary
 
-Stalker is the enigmatic leader of [The Crimson Blades](../civilisations/kingdom-of-astor/organisations/the-crimson-blades.md).
+Stalker is the enigmatic leader of [The Crimson Blades](../organisations/the-crimson-blades.md).

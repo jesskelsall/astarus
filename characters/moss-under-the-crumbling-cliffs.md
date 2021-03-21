@@ -8,10 +8,10 @@
 | **Age** | 38 |
 | **Class** | Wizard / Druid |
 | **Alignment** | |
-| **Affiliation** | [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md) |
+| **Affiliation** | [Astornar](../organisations/astornar.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
-| **Worship** | [Kirrel](../gods/gods/kirrel.md) |
+| **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
@@ -44,8 +44,8 @@ She is a confident, stern and mysterious woman that speaks evasively and condesc
 
 ## History
 
-Moss is secretly a member of the [Astornar](../civilisations/kingdom-of-astor/organisations/astornar.md), tasked by the generals with running the [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) store. The purpose of the store is to provide a check on the magical items coming through [Northhaven](../places/cities/northhaven.md) and in circulation in the kingdom as a whole.
+Moss is secretly a member of the [Astornar](../organisations/astornar.md), tasked by the generals with running the [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) store. The purpose of the store is to provide a check on the magical items coming through [Northhaven](../places/cities/northhaven.md) and in circulation in the kingdom as a whole.
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)

@@ -8,7 +8,7 @@
 | **Age** | 74|
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
@@ -17,7 +17,7 @@
 
 ## Summary
 
-Gwinthel Greenhand is a potion brewer who is about to open their own shop on Crafter Course: "Glug by Gwinthel". They are running [Gwinthel's Potion Tombola](../../campaigns/astorrel-agents/events/gwinthels-potion-tombola.md) to advertise their soon to open business.
+Gwinthel Greenhand is a potion brewer who is about to open their own shop on Crafter Course: "Glug by Gwinthel". They are running [Gwinthel's Potion Tombola](../mechanics/roleplay/gwinthels-potion-tombola.md) to advertise their soon to open business.
 
 ## Characteristics
 
@@ -44,6 +44,6 @@ Gwinthel Greenhand has bought a store on [Crafters Course](../places/streets/cra
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day, following the graduation ceremony, Gwinthel can be found in [Astor Square](../places/structures/astor-square.md) running her tombola. She does not return the following day, having sold all of her tickets.

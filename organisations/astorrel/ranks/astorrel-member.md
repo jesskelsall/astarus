@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Organisation** | Astorrel | rank.2
+| **Organisation** | [Astorrel](../astorrel.md) | rank.2
 | **Officer?** | No |
 | **Commanding Officers** | Any other rank. |
 | **Subordinates** | None |
@@ -13,7 +13,7 @@
 
 ## Military Badge
 
-*See also: [Military badges](../../../military-badges.md)*
+*See also: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
 
 Astorrel Member badges are the plain [Astorrel](../astorrel.md) military badge, with no lines denoting rank. It is understood that a plain badge means the lowest rank.
 
@@ -31,4 +31,4 @@ Astorrel Members are paid a weekly salary.
 
 Typically speaking, members are never promoted. This is because they haven't proven themselves to be capable of completing missions, and mission completing ranks are needed to progress further up the chain of command.
 
-It is rare, but occasionally members that improve their skills on their own time can be promoted to [Astorrel Squad Hand](2-squad-hand.md).
+It is rare, but occasionally members that improve their skills on their own time can be promoted to [Astorrel Squad Hand](astorrel-squad-hand.md).

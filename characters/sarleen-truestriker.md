@@ -10,7 +10,7 @@
 | **Age** | |
 | **Class** | Monk |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md)<br />[Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md)<br />[Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Sarleen Truestriker is an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md) in [Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md). She is played by [EvA](../../players/eva.md).
+Sarleen Truestriker is an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) in [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md). She is played by [EvA](../players/eva.md).
 
 ## Characteristics
 

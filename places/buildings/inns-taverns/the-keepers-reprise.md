@@ -6,11 +6,11 @@
 | **Type** | Inn |
 | **Location** | [Humouth](../../villages/humouth.md) |
 | **Nearby Places** | |
-| **People** | [Rysa Ornoll](../../../people/rysa-ornoll.md) (owner, innkeeper)<br />[Bill Sprig](../../../people/bill-sprig.md) (hostler) |
+| **People** | [Rysa Ornoll](../../../characters/rysa-ornoll.md) (owner, innkeeper)<br />[Bill Sprig](../../../characters/bill-sprig.md) (hostler) |
 
 ## Summary
 
-The Keeper's Reprise is an inn in the village of [Humouth](../../villages/humouth.md). It is owned and ran by [Rysa Ornoll](../../../people/rysa-ornoll.md), with the help of [Bill Sprig](../../../people/bill-sprig.md), the inn's hostler.
+The Keeper's Reprise is an inn in the village of [Humouth](../../villages/humouth.md). It is owned and ran by [Rysa Ornoll](../../../characters/rysa-ornoll.md), with the help of [Bill Sprig](../../../characters/bill-sprig.md), the inn's hostler.
 
 ### Exterior
 
@@ -54,9 +54,9 @@ The Keeper's Reprise can be seen from the [Humouth](../../villages/humouth.md) m
 
 ## History
 
-### [AA02](../../../../campaigns/astorrel-agents/sessions/AA02.md)
+### [AA02](../../../sessions/AA02.md)
 
-The [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md) party stopped here with [Clay Mullen](../../../people/clay-mullen.md) on their way to [Arnaside](../../villages/arnaside.md), particularly as Clay was injured by bandits on the road and needed to rest overnight.
+The [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md) party stopped here with [Clay Mullen](../../../characters/clay-mullen.md) on their way to [Arnaside](../../villages/arnaside.md), particularly as Clay was injured by bandits on the road and needed to rest overnight.
 
 ## Planning
 

@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| [Ahsha Sallas](../astarus/people/ahsha-sallas.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) | Party Member |
+| [Ahsha Sallas](../characters/ahsha-sallas.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) | Party Member |

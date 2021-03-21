@@ -2,7 +2,7 @@
 
 ## Years
 
-The epoch of the date system is the day that the [Kingdom of Astor](../civilisations/kingdom-of-astor/README.md) was formed.
+The epoch of the date system is the day that the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) was formed.
 
 - Dates before this are **A.A.** (*ante Astor*).
 - Dates after this are **P.A.** (*post Astor*).
@@ -17,14 +17,14 @@ The first day of the year does not belong to any month.
 
 | # | Month | Equivalent Months | Associated God |
 | --- | --- | --- | --- |
-| 1 | Balghast | Jan / Feb | [Bhygar](../gods/gods/bhygar.md) |
-| 2 | Melnish | Feb / Mar | [Bhygar](../gods/gods/bhygar.md) |
-| 3 | Nosgorat | Apr / May | [Valnos](../gods/gods/valnos.md) |
-| 4 | Vishantu | May / Jun | [Valnos](../gods/gods/valnos.md) |
-| 5 | Finsbock | Jul / Aug | [Kirrel](../gods/gods/kirrel.md) |
-| 6 | Taledus | Aug / Sep | [Kirrel](../gods/gods/kirrel.md) |
-| 7 | Shavdor | Oct / Nov | [Gormox](../gods/gods/gormox.md) |
-| 8 | Ultux | Nov / Dec | [Gormox](../gods/gods/gormox.md) |
+| 1 | Balghast | Jan / Feb | [Bhygar](../gods/deities/bhygar.md) |
+| 2 | Melnish | Feb / Mar | [Bhygar](../gods/deities/bhygar.md) |
+| 3 | Nosgorat | Apr / May | [Valnos](../gods/deities/valnos.md) |
+| 4 | Vishantu | May / Jun | [Valnos](../gods/deities/valnos.md) |
+| 5 | Finsbock | Jul / Aug | [Kirrel](../gods/deities/kirrel.md) |
+| 6 | Taledus | Aug / Sep | [Kirrel](../gods/deities/kirrel.md) |
+| 7 | Shavdor | Oct / Nov | [Gormox](../gods/deities/gormox.md) |
+| 8 | Ultux | Nov / Dec | [Gormox](../gods/deities/gormox.md) |
 
 ## Days
 
@@ -32,13 +32,13 @@ Each week has 7 days.
 
 | # | Day | Equivalent Day | Religious Day |
 | --- | --- | --- | --- |
-| 1 | Bhydag | Monday | [Bhygar](../gods/gods/bhygar.md) |
+| 1 | Bhydag | Monday | [Bhygar](../gods/deities/bhygar.md) |
 | 2 | Mishdag | Tuesday | |
-| 3 | Valdag | Wednesday | [Valnos](../gods/gods/valnos.md) |
-| 4 | Kirdag | Thursday | [Kirrel](../gods/gods/kirrel.md) |
+| 3 | Valdag | Wednesday | [Valnos](../gods/deities/valnos.md) |
+| 4 | Kirdag | Thursday | [Kirrel](../gods/deities/kirrel.md) |
 | 5 | Nurdag | Friday | |
 | 6 | Faldag | Saturday | |
-| 7 | Gordag | Sunday | [Gormox](../gods/gods/gormox.md) |
+| 7 | Gordag | Sunday | [Gormox](../gods/deities/gormox.md) |
 
 ### Diamodeus
 

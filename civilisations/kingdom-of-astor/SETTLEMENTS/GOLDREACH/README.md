@@ -5,7 +5,7 @@
 | **Name** | Goldreach |
 | **Size** | Town |
 | **Population** | |
-| **Civilisation** | [Kingdom of Astor](../../README.md) |
+| **Civilisation** | [Kingdom of Astor](../../kingdom-of-astor.md) |
 | **Administrative Region** | [Northern Astor](../../../../places/regions/northern-astor.md) |
 | **Region** | [South East Kardan](../../../../places/regions/south-east-kardan.md) |
 | **Continent** | [Kardan](../../../../places/continents/kardan.md) |
@@ -14,11 +14,11 @@
 
 ## Summary
 
-Goldreach is a town in [northern Astor](../../../../places/regions/northern-astor.md). It is the northernmost settlement along the [Northern Road](../../../../places/roads/northern-road.md), and the last before entering the [Dardenn Kingdom](../../../dardenn-kingdom/README.md).
+Goldreach is a town in [northern Astor](../../../../places/regions/northern-astor.md). It is the northernmost settlement along the [Northern Road](../../../../places/roads/northern-road.md), and the last before entering the [Dardenn Kingdom](../../../dardenn-kingdom/dardenn-kingdom.md).
 
 The quaint rural town is set amongst expansive grassy plains, penned in by the [Hawkswood](../../../../places/forests/hawkswood.md) to the west and the [Winster Forest](../../../../places/forests/winster-forest.md) to the east, with views of the mountains to the north providing a dramatic backdrop.
 
-Built on a natural spring in the plains, Goldreach is not walled and rarely in any danger due to the amicable relationship with the [Dardenn Kingdom](../../../dardenn-kingdom/README.md) to the north. It is built around a Marketplace and features an Order of the Diamond temple, an [Astornox](../../organisations/astornox/astornox.md) stronghold with an outer wall, lively shops and a few notable inns.
+Built on a natural spring in the plains, Goldreach is not walled and rarely in any danger due to the amicable relationship with the [Dardenn Kingdom](../../../dardenn-kingdom/dardenn-kingdom.md) to the north. It is built around a Marketplace and features an Order of the Diamond temple, an [Astornox](../../../../organisations/astornox/astornox.md) stronghold with an outer wall, lively shops and a few notable inns.
 
 It is known for its cosmopolitan residents, bustling trade, and general good hospitality, making it a favourite rest stop for frequent travelers. There are many farms in the vicinity, so it is an agricultural hub with much food and animals passing through it.
 
@@ -27,30 +27,30 @@ It is known for its cosmopolitan residents, bustling trade, and general good hos
 | Sights | Medium sized rural town set amongst the plains, with forests to the east and west, and mountains visible on the north horizon. Cobbled stone and wooden buildings, wide dirt track streets, and a paved marketplace. A mix of simple drigg dwellings, 2-3 storey townhouses, and fancier citizen dwellings with gardens. |
 | Sounds | Chatter from locals. Horses and carts. Children playing in the streets. Market trade. |
 | Smells | Mud, horse manure, livestock, ale. |
-| People | Cosmopolitan mix of people of all races and levels of the social order. [Astornox](../../organisations/astornox/astornox.md) stronghold, well off citizens. |
+| People | Cosmopolitan mix of people of all races and levels of the social order. [Astornox](../../../../organisations/astornox/astornox.md) stronghold, well off citizens. |
 | Intrigue | A bustling and peaceful town along a busy trade route. |
 
 ## Places
 
 - Town centre:
-  - [Goldreach Marketplace](places/goldreach-marketplace.md)
-  - [Goldreach Astornox Stronghold](places/goldreach-astornox-stronghold.md)
+  - [Goldreach Marketplace](goldreach-marketplace.md)
+  - [Goldreach Astornox Stronghold](goldreach-astornox-stronghold.md)
   - Goldreach Temple
-  - [The Slippery Weasel](places/the-slippery-weasel.md) (inn)
+  - [The Slippery Weasel](the-slippery-weasel.md) (inn)
   - Goldreach General (general store)
 - Town suburbs:
-  - [Heather & Horticulture](places/heather-and-horticulture.md) (herbalist store)
-  - [Flute Street](places/flute-street.md)
-    - [Alistair Hawthorn's House](places/alistair-hawthorns-house.md)
+  - [Heather & Horticulture](heather-and-horticulture.md) (herbalist store)
+  - [Flute Street](flute-street.md)
+    - [Alistair Hawthorn's House](alistair-hawthorns-house.md)
 - Town outskirts:
-  - [Four Scythes Inn](places/four-scythes-inn.md) (inn)
-  - [Goldreach Stables](places/goldreach-stables.md)
+  - [Four Scythes Inn](four-scythes-inn.md) (inn)
+  - [Goldreach Stables](goldreach-stables.md)
 - North west of town:
-  - [Goldreach North West Plains](places/goldreach-north-west-plains.md):
-    - [Holyrook Farm](places/holyrook-farm.md)
-    - [Nightcrest Farm](places/nightcrest-farm.md)
-    - [Hurley Farm](places/hurley-farm.md)
-    - [Ray Lake](places/ray-lake.md)
-  - [Hawkswood North East](places/hawkswood-north-east.md):
-    - [Wizira's House](places/wiziras-house.md)
-    - [Hawkswood Wolf Cave](places/hawkswood-wolf-cave.md)
+  - [Goldreach North West Plains](goldreach-north-west-plains.md):
+    - [Holyrook Farm](holyrook-farm.md)
+    - [Nightcrest Farm](nightcrest-farm.md)
+    - [Hurley Farm](hurley-farm.md)
+    - [Ray Lake](ray-lake.md)
+  - [Hawkswood North East](hawkswood-north-east.md):
+    - [Wizira's House](wiziras-house.md)
+    - [Hawkswood Wolf Cave](hawkswood-wolf-cave.md)

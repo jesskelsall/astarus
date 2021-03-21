@@ -6,7 +6,7 @@
 | **Type** | Shop |
 | **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Everything Else](everything-else.md)<br />[Friend of the Magicborn](friend-of-the-magicborn.md)<br />[Rhotrukk Wepons](rhotrukk-wepons.md)<br />[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Ormila Grizgrep](../../../people/ormila-grizgrep.md) |
+| **People** | [Ormila Grizgrep](../../../characters/ormila-grizgrep.md) |
 
 ## Summary
 
@@ -36,8 +36,8 @@ Inside are large barrels of components, each containing ladles for measuring qua
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
-On graduation day, [Ormila Grizgrep](../../../people/ormila-grizgrep.md) is stood outside of her shop, enticing people into her shop with her voice.
+On graduation day, [Ormila Grizgrep](../../../characters/ormila-grizgrep.md) is stood outside of her shop, enticing people into her shop with her voice.
 
 > Are you [magicborn](../../../civilisations/kingdom-of-astor/magicborn.md)? Handy with a few spells? Well step right up, I've got what you need here! Grizgrep Reagents & Magical Curios! Everything you could need to summon fire, curry divine favour, defy gravity, and find what was lost! Come on in today!

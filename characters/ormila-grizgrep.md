@@ -8,7 +8,7 @@
 | **Age** | 92 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) (retired) |
+| **Affiliation** | [Astorrel](../organisations/astorrel/astorrel.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
@@ -42,13 +42,13 @@ She is a friendly and excitable gnome that takes pleasure in meeting new [magicb
 
 ## History
 
-### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party shopped in [Grizgrep Reagents & Magical Curios](../places/buildings/shops/grizgrep-reagents-and-magical-curios.md). Ormila tried her best to be friendly and welcoming to [Ephaine Seren](ephaine-seren.md), a [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
+On graduation day, the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party shopped in [Grizgrep Reagents & Magical Curios](../places/buildings/shops/grizgrep-reagents-and-magical-curios.md). Ormila tried her best to be friendly and welcoming to [Ephaine Seren](ephaine-seren.md), a [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day, Ormila Grizgrep spends the busiest part of the day stood outside of her store shouting into the street, trying to entice [magicborn](../civilisations/kingdom-of-astor/magicborn.md) into her store.
 

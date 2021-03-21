@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| Thanea Morlay | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |
+| [Thanea Morlay](../characters/thanea-morlay.md) | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |

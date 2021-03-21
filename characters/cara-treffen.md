@@ -8,7 +8,7 @@
 | **Age** | 51 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Cepine](../ethnicities/cepine.md)<br />[Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) (retired) |
+| **Affiliation** | [Cepine](../ethnicities/cepine.md)<br />[Astorrel](../organisations/astorrel/astorrel.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Zarrus Maleron](zarrus-maleron.md) (employee) |
@@ -42,6 +42,6 @@ Cara Treffen is the owner of the [Valley Under the Stars](../places/buildings/in
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 During session 1, Cara Treffen is not in [Northhaven](../places/cities/northhaven.md) as she has traveled to [Eskrigg](../places/cities/eskrigg.md) on business.

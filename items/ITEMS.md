@@ -46,4 +46,4 @@
 | **Weight** | <1 lb |
 | **Notes** | |
 
-> A smooth rounded stone that is flatter in one dimension - perfect for skimming on a still body of water. Collected from the eastern shore of the round lake northwest of [Goldreach](../../astarus/civilisations/kingdom-of-astor/settlements/goldreach/README.md).
+> A smooth rounded stone that is flatter in one dimension - perfect for skimming on a still body of water. Collected from the eastern shore of the round lake northwest of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).

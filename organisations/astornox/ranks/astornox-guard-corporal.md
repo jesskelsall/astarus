@@ -4,9 +4,9 @@
 
 |||
 | --- | --- |
-| **Organisation** | Astornox | rank.2
+| **Organisation** | [Astornox](../astornox.md) | rank.2
 | **Officer?** | No |
-| **Commanding Officers** | Astornox Guard Sergeants |
+| **Commanding Officers** | [Astornox Guard Sergeants](astornox-guard-sergeant.md) |
 | **Subordinates** | None |
 |||
 | **Image ID** | `c09b2d078dbb6f9e` |

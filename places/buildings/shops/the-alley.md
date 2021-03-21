@@ -6,13 +6,13 @@
 | **Type** | Shop |
 | **Location** | [Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br />[Diamond Prime](../temples/diamond-prime.md) |
-| **People** | [Blair Tawnsey](../../../people/blair-tawnsey.md) (head waiter) |
+| **People** | [Blair Tawnsey](../../../characters/blair-tawnsey.md) (head waiter) |
 
 ## Summary
 
 The Alley is a tea shop located around the edge of [Astor Square](../../structures/astor-square.md), in [Northhaven](../../cities/northhaven.md)'s [Sunset District](../../districts/sunset-district.md). It is an upmarket tea shop that specialises in brewing tea for customers.
 
-Though tea shops are common in the real world, tea itself is rather new to the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/README.md). It originates from the warmer climates of South [Kardan](../../continents/kardan.md), where the [Syntenne Republic](../../../civilisations/syntenne-republic/README.md) is based. Here tea is enjoyed more widely. The dried leaves started initially being sold as enemy contraband before it became accepted in [Northhaven](../../cities/northhaven.md).
+Though tea shops are common in the real world, tea itself is rather new to the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It originates from the warmer climates of South [Kardan](../../continents/kardan.md), where the [Syntenne Republic](../../../civilisations/syntenne-republic/syntenne-republic.md) is based. Here tea is enjoyed more widely. The dried leaves started initially being sold as enemy contraband before it became accepted in [Northhaven](../../cities/northhaven.md).
 
 The name "The Alley" is a reference to the contraband roots of tea in [Northhaven](../../cities/northhaven.md). The tea shop is extremely fancy, cultivating an atmosphere of luxury and calmness for its patrons. This is the place to be if you can afford it.
 

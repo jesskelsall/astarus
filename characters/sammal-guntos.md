@@ -13,11 +13,11 @@
 | **Relations** | |
 | **Acquaintances** | [Viv Dalnick](viv-dalnick.md) (barmaid) |
 | **From** | |
-| **Places** | [The Slippery Weasel](../civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) |
+| **Places** | [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) |
 
 ## Summary
 
-Sammal Guntos is the innkeeper of [The Slippery Weasel](../civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) in [Goldreach](../civilisations/kingdom-of-astor/settlements/goldreach/README.md). He works for the owner of the inn, with [Viv Dalnick](viv-dalnick.md) the barmaid, and lives in one of the rooms.
+Sammal Guntos is the innkeeper of [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). He works for the owner of the inn, with [Viv Dalnick](viv-dalnick.md) the barmaid, and lives in one of the rooms.
 
 ## Characteristics
 
@@ -40,6 +40,6 @@ Sammal Guntos is the innkeeper of [The Slippery Weasel](../civilisations/kingdom
 
 ## History
 
-### [PR01](../../campaigns/purple-rain/sessions/PR01.md)
+### [PR01](../sessions/PR01.md)
 
-The [Purple Rain](../../campaigns/purple-rain/purple-rain.md) party met Sammal while they were in [The Slippery Weasel](../civilisations/kingdom-of-astor/settlements/goldreach/places/the-slippery-weasel.md) during their initial meeting.
+The [Purple Rain](../campaigns/purple-rain/purple-rain.md) party met Sammal while they were in [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) during their initial meeting.

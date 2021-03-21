@@ -6,7 +6,7 @@
 | **Type** | Shop |
 | **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Friend of the Magicborn](friend-of-the-magicborn.md)<br />[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br />[Rhotrukk Wepons](rhotrukk-wepons.md)<br />[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Nilus Cray](../../../people/nilus-cray.md) |
+| **People** | [Nilus Cray](../../../characters/nilus-cray.md) |
 
 ## Summary
 
@@ -16,7 +16,7 @@ It caters to those who need standard survival equipment and provisions. If you c
 
 The store has a standard appearance with a simple swinging sign outside and two large windows either side of the door. The store is laid out with shelves, barrels and buckets of products, neatly stacked and sensibly arranged.
 
-By the entrance is a counter area from which [Nilus Cray](../../../people/nilus-cray.md) watches people enter and leave, as well as people watch through the window.
+By the entrance is a counter area from which [Nilus Cray](../../../characters/nilus-cray.md) watches people enter and leave, as well as people watch through the window.
 
 | Sensation | Description |
 | ---- | --- |
@@ -36,6 +36,6 @@ By the entrance is a counter area from which [Nilus Cray](../../../people/nilus-
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
-On graduation day the store is busier than usual, but [Nilus Cray](../../../people/nilus-cray.md) has stocked well and isn't worried. His monotone speech and demeanour brings calm to an otherwise hectic day.
+On graduation day the store is busier than usual, but [Nilus Cray](../../../characters/nilus-cray.md) has stocked well and isn't worried. His monotone speech and demeanour brings calm to an otherwise hectic day.

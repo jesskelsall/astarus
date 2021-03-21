@@ -5,7 +5,7 @@
 | **Name** | Ulburn |
 | **Type** | Village |
 | **Location** | |
-| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) |
+| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 1,100 |
 | **Nearby Places** | [Great Astor Road](../roads/great-astor-road.md)<br />[Northhaven](../cities/northhaven.md)<br />[River Humar](../rivers-lakes/river-humar.md) |
 | **People** | |
@@ -33,6 +33,6 @@ The village is tightly packed, using all of the available space in the river's b
 
 ## Planning
 
-### [Purple Rain](../../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
 
-There is a threat of [Astornox guards](../../civilisations/kingdom-of-astor/organisations/astornox/ranks/1-guard.md) being present here, particularly inside the inn.
+There is a threat of [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) being present here, particularly inside the inn.

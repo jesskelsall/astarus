@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| Saoirse ó Dochartaigh | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |
+| [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |

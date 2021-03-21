@@ -10,11 +10,11 @@
 
 ## Summary
 
-*See also: [The Order of the Diamond](../../../gods/the-order-of-the-diamond.md)*
+*See also: [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md)*
 
-Diamond Prime is the main temple of [The Order of the Diamond](../../../gods/the-order-of-the-diamond.md) in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/README.md). It is located within the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md), and is the most prominent building bordering the [Astor Square](../../structures/astor-square.md).
+Diamond Prime is the main temple of [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md) in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is located within the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md), and is the most prominent building bordering the [Astor Square](../../structures/astor-square.md).
 
-It is by far the biggest temple in the kingdom, a shining beacon to the power of the gods and their subjects devotion to them. It is the tallest building in the surrounding area.
+It is by far the biggest temple in the kingdom, a shining beacon to the power of the [gods](../../../gods/gods.md) and their subjects devotion to them. It is the tallest building in the surrounding area.
 
 The building is far taller than it needs to be at about 3 storeys tall. It towers over the nearby buildings which aren't allowed to be taller than it. Shining white polished marble decorates the entire building, which has very little decoration, instead using the power of the marble to dazzle, and the building's geometry and brutalism leaves a lasting impression.
 
@@ -32,12 +32,12 @@ From the outside the building looms large over [Astor Square](../../structures/a
 
 ### Interior
 
-The inside resembles the Pantheon in Rome in architecture. The entire interior is marbled, with white, grey, and red marble decorating the walls and floor. More pillars around the walls, particularly by the points of the diamond, help hold up the pyramid-shaped roof. A diamond-shaped glass peak to the roof shines light into the chamber, illuminating [Bhygar](../../../gods/gods/bhygar.md)'s shrine below.
+The inside resembles the Pantheon in Rome in architecture. The entire interior is marbled, with white, grey, and red marble decorating the walls and floor. More pillars around the walls, particularly by the points of the diamond, help hold up the pyramid-shaped roof. A diamond-shaped glass peak to the roof shines light into the chamber, illuminating [Bhygar](../../../gods/deities/bhygar.md)'s shrine below.
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Marble interior with pillars around the edges. Larger pillars at the points of the diamond. Stairs going up on the back left wall, down on the back right. Shrines to the gods in the corners and center. Vast open space in between. |
+| Sights | Marble interior with pillars around the edges. Larger pillars at the points of the diamond. Stairs going up on the back left wall, down on the back right. Shrines to the [gods](../../../gods/gods.md) in the corners and center. Vast open space in between. |
 | Sounds | Predominant silence. Loud echoing footsteps. Coughing. Occasional loud prayer. |
 | Smells | Incense, candles, cloth, the musk of aged books. |
-| People | Caretakers, worshippers. No [Astornox](../../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md), nobody with a weapon. |
+| People | Caretakers, worshippers. No [Astornox](../../../organisations/astornox/astornox.md), nobody with a weapon. |
 | Intrigue | A delicately decorated interior but for the most part an empty chamber. The design is as minimalist as the shell of the building is grand. |

@@ -8,8 +8,8 @@
 | **Age** | 33 |
 | **Class** | NPC: Berserker |
 | **Alignment** | Chaotic Evil |
-| **Affiliation** | [The Crimson Blades](../civilisations/kingdom-of-astor/organisations/the-crimson-blades.md) |
-| **Worship** | [Gormox](../gods/gods/gormox.md) |
+| **Affiliation** | [The Crimson Blades](../organisations/the-crimson-blades.md) |
+| **Worship** | [Gormox](../gods/deities/gormox.md) |
 | **Relations** | |
 | **Acquaintances** | [Stalker](stalker.md) (leader) |
 | **From** | |
@@ -17,7 +17,7 @@
 
 ## Summary
 
-Morog Whiteknuckle is a commander in [The Crimson Blades](../civilisations/kingdom-of-astor/organisations/the-crimson-blades.md). He works directly for [Stalker](stalker.md), carrying out his orders.
+Morog Whiteknuckle is a commander in [The Crimson Blades](../organisations/the-crimson-blades.md). He works directly for [Stalker](stalker.md), carrying out his orders.
 
 ## Characteristics
 
@@ -42,6 +42,6 @@ Morog Whiteknuckle is a commander in [The Crimson Blades](../civilisations/kingd
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
 
-Morog has been sent by [Stalker](stalker.md) to capture [Wrenn Piznarck](wrenn-piznarck.md) for double-crossing [The Crimson Blades](../civilisations/kingdom-of-astor/organisations/the-crimson-blades.md) in Carnmere. He rides with 5 other members of the mercenary group, intent on completing their mission.
+Morog has been sent by [Stalker](stalker.md) to capture [Wrenn Piznarck](wrenn-piznarck.md) for double-crossing [The Crimson Blades](../organisations/the-crimson-blades.md) in Carnmere. He rides with 5 other members of the mercenary group, intent on completing their mission.

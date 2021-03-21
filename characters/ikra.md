@@ -40,7 +40,7 @@ Ikra was given a [Blue Dragon Scale Necklace](../items/blue-dragon-scale-necklac
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 Ikra will address [Ahsha Sallas](ahsha-sallas.md) and [Sharakas](sharakas.md) as they're brought into the depths of [Blue Kobold Cave](../places/caves/blue-kobold-cave.md).
 

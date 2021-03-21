@@ -5,17 +5,17 @@
 |||
 | --- | --- |
 | **Name** | Astornox | organisation.2
-| **Civilisation** | Kingdom of Astor |
-| **Leader** | Itharmund Steeleye |
-| **Patron** | Gormox |
+| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Leader** | [Itharmund Steeleye](../../characters/itharmund-steeleye.md) |
+| **Patron** | [Gormox](../../gods/deities/gormox.md) |
 |||
 | **Image ID** | `a66efa0a8b232cdc` |
 
 ## Summary
 
-The Astornox is a military organisation of the [Kingdom of Astor](../../README.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the largest organisation in Astor, encompassing a variety of duties including: army and war efforts, guards and peacekeeping, protection from natural threats, local government, and punishment.
+The Astornox is a military organisation of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the largest organisation in Astor, encompassing a variety of duties including: army and war efforts, guards and peacekeeping, protection from natural threats, local government, and punishment.
 
-Its name is a combination of Astor and [Gormox](../../../../gods/gods/gormox.md), its patron god.
+Its name is a combination of Astor and [Gormox](../../gods/deities/gormox.md), its patron god.
 
 ## Imagery
 
@@ -29,25 +29,25 @@ There are a variety of Astornox uniforms which vary depending on both rank and r
 
 The most noticeable Astornox uniforms are that of the guards and their commanding officers. Leather armour is commonplace, with red dyed leather elements helping to create a distinct Astornox style.
 
-The higher the [Astornox guard](ranks/1-guard.md) rank, including into officer ranks, the more ornate the armour appears, with more protection and embellishments, featuring gold trim for officers.
+The higher the [Astornox guard](ranks/astornox-guard.md) rank, including into officer ranks, the more ornate the armour appears, with more protection and embellishments, featuring gold trim for officers.
 
-| Guard | Guard Sergeant | Captain |
-|:---:|:---:|:---:|
-| <img src="../../../../../images/uniforms/astornox-guard.png" height="300" /> | <img src="../../../../../images/uniforms/astornox-guard-sergeant.png" height="300" /> | <img src="../../../../../images/uniforms/astornox-captain.png" height="300" /> |
+| [Astornox Guard](ranks/astornox-guard.md) | [Astornox Guard Corporal](ranks/astornox-guard-corporal.md) | [Astornox Guard Sergeant](ranks/astornox-guard-sergeant.md) | [Astornox Captain](ranks/astornox-captain.md) |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/9c9f53d441e26444.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/a8d298f784897091.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c764616ac3a4a74f.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/49a0d0222fd95335.png" height="400" /> | 
 
 ## Ranks
 
 As part of the Astor military, Astornox have a rank hierarchy that passes orders down from a single person to every Astornox beneath them.
 
 - Officers:
-  - [Astornox Commandant](ranks/7-commandant.md): Leader of the Astornox.
-  - [Astornox Major](ranks/6-major.md): Leader of a city or large town.
-  - [Astornox Captain](ranks/5-captain.md): Leader of a small town, or an area of concern of a larger settlement.
-  - [Astornox Lieutenant](ranks/4-lieutenant.md): In charge of specific aspects of governance, likely including guard sergeants.
+  - [Astornox Commandant](ranks/astornox-commandant.md): Leader of the Astornox.
+  - [Astornox Major](ranks/astornox-major.md): Leader of a city or large town.
+  - [Astornox Captain](ranks/astornox-captain.md): Leader of a small town, or an area of concern of a larger settlement.
+  - [Astornox Lieutenant](ranks/astornox-lieutenant.md): In charge of specific aspects of governance, likely including guard sergeants.
 - Enlisted:
-  - [Astornox Guard Sergeant](ranks/3-guard-sergeant.md): In charge of a group of guards.
-  - [Astornox Guard Corporal](ranks/2-guard-corporal.md): Guard with extra tasks, responsibility, and autonomy.
-  - [Astornox Guard](ranks/1-guard.md): Basic guard with simple responsibilities.
+  - [Astornox Guard Sergeant](ranks/astornox-guard-sergeant.md): In charge of a group of guards.
+  - [Astornox Guard Corporal](ranks/astornox-guard-corporal.md): Guard with extra tasks, responsibility, and autonomy.
+  - [Astornox Guard](ranks/astornox-guard.md): Basic guard with simple responsibilities.
 
 ---
 
@@ -59,7 +59,7 @@ There is a rigid command structure, explicit orders given, and an expectation of
 
 The Astornox operate out of their own buildings, often in areas sectioned off from everyone else.
 
-The symbol of the Astornox is that of the [Kingdom of Astor](../../README.md), set inside a grey triangle, face up. Medium to high ranking members wear a pin just like the [Astornar](../astornar.md) do, but it is not typically seen on lower ranking members due to cost.
+The symbol of the Astornox is that of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md), set inside a grey triangle, face up. Medium to high ranking members wear a pin just like the [Astornar](../astornar.md) do, but it is not typically seen on lower ranking members due to cost.
 
 ## Imagery
 

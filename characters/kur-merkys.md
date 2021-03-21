@@ -9,13 +9,13 @@
 | **Pronouns** | he/him |
 | **Age** | 22 |
 | **Class** | Sorcerer (Draconic Bloodline) |
-| **Worship** | Gormox |
-| **Relations** | Vilnia Kovas (Astorrel Hunter) |
-| **Places** | Northhaven |
+| **Worship** | [Gormox](../gods/deities/gormox.md) |
+| **Relations** | [Vilnia Kovas](vilnia-kovas.md) ([Astorrel](../organisations/astorrel/astorrel.md) Hunter) |
+| **Places** | [Northhaven](../places/cities/northhaven.md) |
 |||
-| **Citizenship** | Kingdom of Astor |
-| **Organisation** | Astornox |
-| **Rank** | Astornox Magicborn Hunter |
+| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
+| **Rank** | [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) |
 | **Role** | Conscription |
 | **Commanding Officer** | |
 | **Subordinates** | |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Kur Merkys is an [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) Hunter based out of [Northhaven](../places/cities/northhaven.md).
+Kur Merkys is an [Astorrel](../organisations/astorrel/astorrel.md) Hunter based out of [Northhaven](../places/cities/northhaven.md).
 
 ## Characteristics
 
@@ -49,6 +49,6 @@ Kur Merkys is an [Astorrel](../civilisations/kingdom-of-astor/organisations/asto
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
 
 Just before reaching the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), the party will face Kur Merkys and [Vilnia Kovas](vilnia-kovas.md) as they ambush the party to apprehend them.

@@ -10,7 +10,7 @@
 
 ## Summary
 
-Overshadowed by the Astor-Syntenne War, Southern Astor was a battleground until the armistice was signed. With the boundary between the [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) and the [Syntenne Republic](../../civilisations/syntenne-republic/README.md) set at the River Yeat, Astor has expanded southwards, establishing new settlements and fortifications in case war resumes.
+Overshadowed by the Astor-Syntenne War, Southern Astor was a battleground until the armistice was signed. With the boundary between the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) and the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) set at the River Yeat, Astor has expanded southwards, establishing new settlements and fortifications in case war resumes.
 
 ## Places
 

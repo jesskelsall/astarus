@@ -2,18 +2,18 @@
 
 Astarus is the name given to the plane of existence that the campaign is set in. It is the world that the [players](../players/logan.md) inhabit.
 
-## Gods
+## [Gods](../gods/gods.md)
 
-On Astarus the influence of the gods is minimal. Most people believe that they exist, but there is very rarely any indication of this outside of their belief.
+On Astarus the influence of the [gods](../gods/gods.md) is minimal. Most people believe that they exist, but there is very rarely any indication of this outside of their belief.
 
-- [Gods](gods/README.md)
-- [The Order of the Diamond](gods/the-order-of-the-diamond.md): the Astor state religion.
+- [Gods](../gods/gods.md)
+- [The Order of the Diamond](../organisations/the-order-of-the-diamond.md): the Astor state religion.
 
 ## Mortals
 
 Astarus is populated by a typical mix of D&D races.
 
-[Kardan](places/continents/kardan.md) is predominately populated with the following races:
+[Kardan](../places/continents/kardan.md) is predominately populated with the following races:
 
 - [Human](https://www.dndbeyond.com/races/human)
 - [Halfling](https://www.dndbeyond.com/races/halfling)
@@ -33,13 +33,13 @@ In lesser numbers there are also the following known races, in descending order 
 
 From these peoples, the following civilisations have emerged:
 
-- [Kingdom of Astor](civilisations/kingdom-of-astor/README.md) (human, halfling, gnome).
-- [Syntenne Republic](civilisations/syntenne-republic/README.md) (elf, half-elf).
-- [Dardenn Kingdom](civilisations/dardenn-kingdom/README.md) (dwarf).
+- [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) (human, halfling, gnome).
+- [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) (elf, half-elf).
+- [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md) (dwarf).
 
 ## Magic
 
-*See also: [Magicborn](civilisations/kingdom-of-astor/magicborn.md)*
+*See also: [Magicborn](../civilisations/kingdom-of-astor/magicborn.md)*
 
 There is magic in this world, though it is uncommon. Most people have never seen magic in practice before.
 
@@ -53,14 +53,14 @@ Astarus is relatively new. This means that the land is largely unexplored, unset
 
 ### Date System
 
-- [Astorian Calendar](history/astorian-calendar.md)
-- [Timeline](history/timeline.md)
+- [Astorian Calendar](../history/astorian-calendar.md)
+- [Timeline](../history/timeline.md)
 
 ### Beginning of the World
 
-Astarus was formed in *176 AA* (488 years ago) by the insider gods. This was within two generations of history for some of the longer lived races.
+Astarus was formed in *176 AA* (488 years ago) by the insider [gods](../gods/gods.md). This was within two generations of history for some of the longer lived races.
 
 ## Geography
 
-- [Kardan](places/continents/kardan.md)
-- [Sea of Songs](places/seas/sea-of-songs.md)
+- [Kardan](../places/continents/kardan.md)
+- [Sea of Songs](../places/seas/sea-of-songs.md)

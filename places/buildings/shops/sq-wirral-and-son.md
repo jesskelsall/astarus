@@ -6,13 +6,13 @@
 | **Type** | Shop |
 | **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Everything Else](everything-else.md)<br />[Friend of the Magicborn](friend-of-the-magicborn.md)<br />[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br />[Rhotrukk Wepons](rhotrukk-wepons.md) |
-| **People** | [Sandor Wirral](../../../people/sandor-wirral.md) (owner)<br />[Clyde Wirral](../../../people/clyde-wirral.md) (apprentice) |
+| **People** | [Sandor Wirral](../../../characters/sandor-wirral.md) (owner)<br />[Clyde Wirral](../../../characters/clyde-wirral.md) (apprentice) |
 
 ## Summary
 
 S.Q. Wirral & Son is an armoursmith on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md).
 
-It is ran by [Sandor Wirral](../../../people/sandor-wirral.md) and his son, [Clyde Wirral](../../../people/clyde-wirral.md). The family have been in the armoursmithing business for three generations, soon to be four.
+It is ran by [Sandor Wirral](../../../characters/sandor-wirral.md) and his son, [Clyde Wirral](../../../characters/clyde-wirral.md). The family have been in the armoursmithing business for three generations, soon to be four.
 
 The store proudly displays some of their finest work on full sized mannequins in the space they have for customers. Most of their stock is in the back.
 
@@ -30,6 +30,6 @@ The store proudly displays some of their finest work on full sized mannequins in
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day there is a line inside the store for orders. Standard requests will be fulfilled by sundown, so those purchasing must come back later to collect.

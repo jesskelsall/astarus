@@ -7,27 +7,27 @@
 | **Capital City** | [Northhaven](../../places/cities/northhaven.md) |
 | **Official Languages** | Common |
 | **Ethnic Groups** | Human<br />Halfling<br />Gnome<br />[Cepine](../../ethnicities/cepine.md) (human) |
-| **Religion** | [The Order of the Diamond](../../gods/the-order-of-the-diamond.md) |
+| **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 | **Demonyms** | Astorian |
 | **Government** | Militocracy |
 | **Leader** | Corville Thornox<br />*General Supreme* |
 | **Territories** | [South East Kardan](../../places/regions/south-east-kardan.md)<br />[Kardanis](../../places/regions/kardanis.md) |
 | **Founded** | *0 PA* |
-| **Neighbours** | [Syntenne Republic](../syntenne-republic/README.md) (south)<br />[Dardenn Kingdom](../dardenn-kingdom/README.md) (north)<br />[Nil'Savnic Alliance](../nilsavnic-alliance/README.md) (west) |
+| **Neighbours** | [Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south)<br />[Dardenn Kingdom](../dardenn-kingdom/dardenn-kingdom.md) (north)<br />[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (west) |
 | **Wars** | Astor-Syntenne War (*88 PA* - current) |
 | **Image ID** | `556ce67a6c183e48` |
 
 ## Summary
 
-The Kingdom of Astor (shortened: *Astor*) is a militocracy located in [south east Kardan](../../places/regions/south-east-kardan.md). It borders the [Syntenne Republic](../syntenne-republic/README.md) to its south and the [Dardenn Kingdom](../dardenn-kingdom/README.md) to its north.
+The Kingdom of Astor (shortened: *Astor*) is a militocracy located in [south east Kardan](../../places/regions/south-east-kardan.md). It borders the [Syntenne Republic](../syntenne-republic/syntenne-republic.md) to its south and the [Dardenn Kingdom](../dardenn-kingdom/dardenn-kingdom.md) to its north.
 
-It is the primary setting for [campaigns](../../../campaigns/README.md) set in [Astarus](../../README.md).
+It is the primary setting for [campaigns](../../../campaigns/README.md) set in [Astarus](../../planes/astarus.md).
 
 ## Imagery
 
 ### Symbol
 
-Its symbol is a red ruby, a diamond looked at straight on but actually a square based pyramid. It resembles the symbol of [The Order of the Diamond](../../gods/the-order-of-the-diamond.md).
+Its symbol is a red ruby, a diamond looked at straight on but actually a square based pyramid. It resembles the symbol of [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md).
 
 ## Governance
 
@@ -35,16 +35,16 @@ The Kingdom of Astor is a militocracy. This means that the entire governance str
 
 All of Astor's decision making resides within these military ranks.
 
-Ultimate power resides with the *general supreme*, Corville Thornox. He is the superior officer of the generals of the [Astornar](organisations/astornar.md), who in turn are superior officers to the other organisations of the kingdom.
+Ultimate power resides with the *general supreme*, Corville Thornox. He is the superior officer of the generals of the [Astornar](../../organisations/astornar.md), who in turn are superior officers to the other organisations of the kingdom.
 
 ## Organisations
 
 Those who are part of one of these organisations are considered to be part of Astor's military, due to their subservience to their superior officer. They can generically describe themselves as a *military member*.
 
-- [Astornar](organisations/astornar.md): ruling generals in charge of the kingdom and other organisations.
-- [Astornox](organisations/astornox/astornox.md): army, war efforts, local government, guards, protection of the citizens.
-- [Astorrel](organisations/astorrel/astorrel.md): upholders of the balance between civilisation and nature.
-- [Astornos](organisations/astornos.md): researchers of the meteoric threat.
+- [Astornar](../../organisations/astornar.md): ruling generals in charge of the kingdom and other organisations.
+- [Astornox](../../organisations/astornox/astornox.md): army, war efforts, local government, guards, protection of the citizens.
+- [Astorrel](../../organisations/astorrel/astorrel.md): upholders of the balance between civilisation and nature.
+- [Astornos](../../organisations/astornos.md): researchers of the meteoric threat.
 
 ## Politics
 
@@ -98,7 +98,7 @@ The main injustices in the Kingdom of Astor is the rank based class structure an
 
 Despite this, Astor is incredibly tolerant of race, religion, and identity. It welcomes anyone who wishes to reside within its borders. There is no concept of “native races”, and those who move here are given equal chances to those born here.
 
-The glaring exception is elves and half-elves who are seen as untrustworthy and seditious, due to their association with the [Syntenne Republic](../syntenne-republic/README.md).
+The glaring exception is elves and half-elves who are seen as untrustworthy and seditious, due to their association with the [Syntenne Republic](../syntenne-republic/syntenne-republic.md).
 
 ### Education
 
@@ -109,7 +109,7 @@ Education is not a universal right. It is only available to those who can afford
 | Type | [Central Astor](../../places/regions/central-astor.md) | [Eastern Astor](../../places/regions/eastern-astor.md) | [Northern Astor](../../places/regions/northern-astor.md) | [Western Astor](../../places/regions/western-astor.md) | [Southern Astor](../../places/regions/southern-astor.md) | [Kardanis](../../places/regions/kardanis.md) |
 | --- | --- | --- | --- | --- | --- | --- |
 | City | [Eskrigg](../../places/cities/eskrigg.md)<br />[Northhaven](../../places/cities/northhaven.md) | [Dunmore](../../places/cities/dunmore.md) | | | [Yeatscale](../../places/cities/yeatscale.md) | |
-| Town | Eaglesfield<br />Foxhaven<br />Holmrook<br />[Mockerkin](../../places/towns/mockerkin.md) | Kilflynn | [Beckermet](../../places/towns/beckermet.md)<br />[Goldreach](settlements/goldreach/README.md)<br />Hawksglass<br />Iredale | Carnmere<br />Hyceodd | Blittergate | Baldrine<br />Port Soderick |
+| Town | Eaglesfield<br />Foxhaven<br />Holmrook<br />[Mockerkin](../../places/towns/mockerkin.md) | Kilflynn | [Beckermet](../../places/towns/beckermet.md)<br />[Goldreach](SETTLEMENTS/GOLDREACH/README.md)<br />Hawksglass<br />Iredale | Carnmere<br />Hyceodd | Blittergate | Baldrine<br />Port Soderick |
 | Village | [Allonby](../../places/villages/allonby.md)<br />[Arnaside](../../places/villages/arnaside.md)<br />Bootle<br />Grasthwaite<br />[Humouth](../../places/villages/humouth.md)<br />[Ulburn](../../places/villages/ulburn.md) | Adrigole<br />Glengariff | [Frizthwaite](../../places/villages/frizthwaite.md)<br />[Howbridge](../../places/towns/howbridge.md)<br />Langtock | Filisur<br />Hartsgarth<br />Picdale | Mossband<br />Silethwaite<br />Wolsty | Ballabeg<br />Braddan<br />Maughold |
 | Fort | Fort Eldrick<br />Fort Knowe | | | Fort Maloja | Fort Girvan<br />Fort Maidens<br />Fort Pinmore<br />Fort Polbae<br />Fort Siloth | |
 | Road | [Coastal Trail](../../places/roads/coastal-trail.md)<br />[Eskside Byway](../../places/roads/eskside-byway.md)<br />[Grasthwaite Bend](../../places/roads/grasthwaite-bend.md)<br />[Great Astor Road](../../places/roads/great-astor-road.md)<br />[Humar Cut](../../places/roads/humar-cut.md)<br />[Northern Road](../../places/roads/northern-road.md)<br />[The Fox's Tail](../../places/roads/the-foxs-tail.md) | [Dunmore Coast Road](../../places/roads/dunmore-coast-road.md)<br />[Great Astor Road](../../places/roads/great-astor-road.md) | [Grasthwaite Bend](../../places/roads/grasthwaite-bend.md)<br />[Ire Trail](../../places/roads/ire-trail.md)<br />[Northern Road](../../places/roads/northern-road.md) | [Carn Path](../../places/roads/carn-path.md)<br />[Great Astor Road](../../places/roads/great-astor-road.md)<br />[Tresenda Pass](../../places/roads/tresenda-pass.md) | [Great Astor Road](../../places/roads/great-astor-road.md)<br />[Kas'ran Run](../../places/roads/kasran-run.md)<br />[Southern Fort Way](../../places/roads/southern-fort-way.md)<br />Western Reach | [Kardanis Road](../../places/roads/kardanis-road.md)<br />[Karmox Trail](../../places/roads/karmox-trail.md) |
@@ -123,11 +123,11 @@ Education is not a universal right. It is only available to those who can afford
 
 ### Formation
 
-The Kingdom of Astor was established over 300 years ago. Within around 50 years it had codified its style of governance and the state religion, [The Order of the Diamond](../../gods/the-order-of-the-diamond.md).
+The Kingdom of Astor was established over 300 years ago. Within around 50 years it had codified its style of governance and the state religion, [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md).
 
-### War with the [Syntenne Republic](../syntenne-republic/README.md)
+### War with the [Syntenne Republic](../syntenne-republic/syntenne-republic.md)
 
-As Astor grew, it expanded south along the coast and quickly came into conflict with the [Syntenne Republic](../syntenne-republic/README.md). War broke out over this region, eventually engulfing the entirety of south [Kardan](../../places/continents/kardan.md).
+As Astor grew, it expanded south along the coast and quickly came into conflict with the [Syntenne Republic](../syntenne-republic/syntenne-republic.md). War broke out over this region, eventually engulfing the entirety of south [Kardan](../../places/continents/kardan.md).
 
 Astor was outmatched by Syntenne due to their lower numbers. Despite this, Astor soldiers fought valiantly, with Syntenne fearing their tenacity and unwillingness to surrender or retreat.
 

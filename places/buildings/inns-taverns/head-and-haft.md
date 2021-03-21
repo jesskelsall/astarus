@@ -6,7 +6,7 @@
 | **Type** | Tavern |
 | **Location** | [Arnaside](../../villages/arnaside.md) |
 | **Nearby Places** | [The Malneshitas](../temples/the-malneshitas.md) |
-| **People** | [Sharakas](../../../people/sharakas.md) |
+| **People** | [Sharakas](../../../characters/sharakas.md) |
 
 ## Summary
 
@@ -42,6 +42,6 @@ No beer is available. Sheep milk and water is however.
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
-The bar is empty due to dwindling supplies. [Sharakas](../../../people/sharakas.md) bemoans the current situation and a lack of anything for him to do.
+The bar is empty due to dwindling supplies. [Sharakas](../../../characters/sharakas.md) bemoans the current situation and a lack of anything for him to do.

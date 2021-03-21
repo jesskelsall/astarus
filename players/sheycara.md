@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| [Wizira](../astarus/people/wizira.md) | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |
+| [Wizira](../characters/wizira.md) | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |

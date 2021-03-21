@@ -8,7 +8,7 @@
 | **Age** | |
 | **Class** | |
 | **Worship** | |
-| **Relations** | Ikra (servant) |
+| **Relations** | [Ikra](ikra.md) (servant) |
 | **Places** | |
 |||
 | **Citizenship** | |

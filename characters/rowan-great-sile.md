@@ -11,13 +11,13 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | Northhaven Astorrel Stronghold<br />Great Sile Woods |
+| **Places** | [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md)<br />[Great Sile Woods](../places/forests/great-sile-woods.md) |
 |||
-| **Citizenship** | Kingdom of Astor |
-| **Organisation** | Astorrel |
-| **Rank** | Astorrel Lieutenant |
+| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) |
 | **Role** | Forest |
-| **Commanding Officer** | Mindira Flibfae |
+| **Commanding Officer** | [Mindira Flibfae](mindira-flibfae.md) |
 | **Subordinates** | Birch Squad |
 |||
 | **Image ID** | `3e22248438b88633` |
@@ -45,18 +45,18 @@ Rowan Great Sile is from the firbolg clan present in the [Great Sile Woods](../p
 
 ## History
 
-Rowan Great Sile was born to the firbolg clan in [Great Sile Woods](../places/forests/great-sile-woods.md). They lived here for 60 years as a patriarchal leader figure before the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) discovered their location.
+Rowan Great Sile was born to the firbolg clan in [Great Sile Woods](../places/forests/great-sile-woods.md). They lived here for 60 years as a patriarchal leader figure before the [Astorrel](../organisations/astorrel/astorrel.md) discovered their location.
 
-The clan wished to be left alone against the wishes of the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) who simply wanted to learn who they are, their ways, and their influence on the forest. Rowan bargained with them, agreeing to join them and tell them first-hand if they left the clan to exist undisturbed.
+The clan wished to be left alone against the wishes of the [Astorrel](../organisations/astorrel/astorrel.md) who simply wanted to learn who they are, their ways, and their influence on the forest. Rowan bargained with them, agreeing to join them and tell them first-hand if they left the clan to exist undisturbed.
 
-While working for the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), Rowan saw the good that the organisation was trying to do for nature and committed to helping them more fervently. His knowledge and drive propelled him up the ranks as far as [Astorrel Lieutenant](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/5-lieutenant.md) under the Major of Forests.
+While working for the [Astorrel](../organisations/astorrel/astorrel.md), Rowan saw the good that the organisation was trying to do for nature and committed to helping them more fervently. His knowledge and drive propelled him up the ranks as far as [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) under the Major of Forests.
 
 Currently Rowan works out of the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), helping to coordinate efforts to preserve the forests and their denizens. He still likes to get out into the forests himself wherever possible. This hands on approach makes him a more effective leader.
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
 
-Rowan Great Sile visits the party in [sanctuary](../civilisations/kingdom-of-astor/organisations/astorrel/sanctuary.md) after hearing that a firbolg ([Wizira](wizira.md)) is part of the group. He comes at a time he thinks will be quiet.
+Rowan Great Sile visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) after hearing that a firbolg ([Wizira](wizira.md)) is part of the group. He comes at a time he thinks will be quiet.
 
 He is interested to know where [Wizira](wizira.md)'s clan is from and why she is no longer with them. His goals are twofold: to learn about her to benefit their work, and out of racial solidarity / curiosity.

@@ -9,22 +9,22 @@
 | **Pronouns** | he/him |
 | **Age** | 30 |
 | **Class** | Ranger (Swarmkeeper) |
-| **Worship** | Kirrel |
+| **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
-| **Places** | Ulburn Astorrel House |
+| **Places** | [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md) |
 |||
 | **Citizenship** | |
-| **Organisation** | Astorrel |
-| **Rank** | Astorrel Squad Hand |
-| **Role** | Urban Expansion / Ulburn / Goshawk Squad |
-| **Commanding Officer** | Linton Harkness |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
+| **Commanding Officer** | [Linton Harkness](linton-harkness.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `41e0b0962f18eb6b` |
 
 ## Summary
 
-Sparrow on the Autumn Pine is an [Astorrel Squad Hand](../civilisations/kingdom-of-astor/organisations/astorrel/ranks/2-squad-hand.md) in [Goshawk Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/goshawk.md).
+Sparrow on the Autumn Pine is an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) in [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md).
 
 ## Characteristics
 

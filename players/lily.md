@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| [Ephaine Seren](../astarus/people/ephaine-seren.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) | Party Member |
+| [Ephaine Seren](../characters/ephaine-seren.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) | Party Member |

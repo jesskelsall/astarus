@@ -4,24 +4,24 @@
 
 |||
 | --- | --- |
-| **Organisation** | Astorrel | rank.2
+| **Organisation** | [Astorrel](../astorrel.md) | rank.2
 | **Officer?** | No |
-| **Commanding Officers** | Astorrel Squad Sergeants |
+| **Commanding Officers** | [Astorrel Squad Sergeants](astorrel-squad-sergeant.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `bda0851286f37b5a` |
 
 ## Military Badge
 
-*See also: [Military badges](../../../military-badges.md)*
+*See also: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
 
-Astorrel Squad Lead badges look like plain [Astorrel](../astorrel.md) [military badges](../../../military-badges.md), but with a strip of silver inlaid inside its top and bottom edges. The top strip distinguishes it from the badge of an [Astorrel Squad Hand](2-squad-hand.md).
+Astorrel Squad Lead badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of silver inlaid inside its top and bottom edges. The top strip distinguishes it from the badge of an [Astorrel Squad Hand](astorrel-squad-hand.md).
 
 # Duties
 
-Astorrel Squad Leads are the fourth member of a mission squad, alongside 3 [Astorrel Squad Hands](2-squad-hand.md).
+Astorrel Squad Leads are the fourth member of a mission squad, alongside 3 [Astorrel Squad Hands](astorrel-squad-hand.md).
 
-Their duties are to complete missions given to them by their Squad Sergeant, and lead their Squad Hands. This sees them travelling to locations within the [Kingdom of Astor](../../../README.md), talking with locals, seeing the state of the land, and taking action on their Squad Lead's behalf.
+Their duties are to complete missions given to them by their Squad Sergeant, and lead their Squad Hands. This sees them travelling to locations within the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md), talking with locals, seeing the state of the land, and taking action on their Squad Lead's behalf.
 
 Squads are based out of the city that their Squad Sergeant resides in, and so it is typical that they complete missions in the surrounding area.
 
@@ -35,6 +35,6 @@ As their Squad Sergeant determines how much of the mission bounty to give to the
 
 # Promotion
 
-Squad Leads can be promoted to [Astorrel Squad Sergeants](4-squad-sergeant.md) when the need arises for a new one to command over new squads. This can happen when the [Astorrel](../astorrel.md) bolsters its numbers, or when another Squad Sergeant is promoted or retires.
+Squad Leads can be promoted to [Astorrel Squad Sergeants](astorrel-squad-sergeant.md) when the need arises for a new one to command over new squads. This can happen when the [Astorrel](../astorrel.md) bolsters its numbers, or when another Squad Sergeant is promoted or retires.
 
 Particularly successful squads are most likely to have their Squad Lead promoted, though specialised squads may be left alone if officers believe that their missions would suffer drastically as a result of promotion. This can cause over-performing to backfire.

@@ -6,22 +6,22 @@
 | **Type** | Inn |
 | **Location** | [Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br />[Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md) |
-| **People** | [Tydrus Tinshield](../../../people/tydrus-tinshield.md) (owner, innkeeper)<br />[Jaxon Ultari](../../../people/jaxon-ultari.md) (patron, gambler) |
+| **People** | [Tydrus Tinshield](../../../characters/tydrus-tinshield.md) (owner, innkeeper)<br />[Jaxon Ultari](../../../characters/jaxon-ultari.md) (patron, gambler) |
 
 ## Summary
 
-The Rose Buckler is an inn in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md). It is ran by the innkeeper, [Tydrus Tinshield](../../../people/tydrus-tinshield.md).
+The Rose Buckler is an inn in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md). It is ran by the innkeeper, [Tydrus Tinshield](../../../characters/tydrus-tinshield.md).
 
 It styles itself as a traditional run-of-the-mill inn. Despite a predominantly stone exterior with many segmented windows, its swinging sign and interior resembles a standard cobble stone and wooden tavern. Despite the rustic aesthetic, the building quality is noticeably higher than most taverns, giving it the appearance of a strange knock-off.
 
-Due to its proximity to the [Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md), it is popular with [Astornox](../../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md), both active and retired. As a result it has a reputation for hard drinkers and unruly, if not friendly, behaviour by its patrons. It has one of the finest selection of ales in [Northhaven](../../cities/northhaven.md), and lodging is cheap and cheerful.
+Due to its proximity to the [Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md), it is popular with [Astornox](../../../organisations/astornox/astornox.md), both active and retired. As a result it has a reputation for hard drinkers and unruly, if not friendly, behaviour by its patrons. It has one of the finest selection of ales in [Northhaven](../../cities/northhaven.md), and lodging is cheap and cheerful.
 
 | Sensation | Description |
 | ---- | --- |
 | Sights | Plain stone exterior with many segmented windows. Four floors. Wood and wrought iron swinging sign. Inside is decorated like a typical cobble stone and wooden tavern. Building work is of higher quality, giving a somewhat fake vibe. |
 | Sounds | Loud chatter, wooden mugs being slammed and hit together. Periodic shouts and cheers. |
 | Smells | Strong smell of ale and body odour. Wet wood. Wet dog. |
-| People | [Astornox](../../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) citizens, other rough and tumble citizens. Plainer looking people. |
+| People | [Astornox](../../../organisations/astornox/astornox.md) citizens, other rough and tumble citizens. Plainer looking people. |
 | Intrigue | The [Sunset District](../../districts/sunset-district.md) is so affluent that a cheap and cheerful inn experience is a sought after curiosity. |
 
 ## Vendor
@@ -48,17 +48,17 @@ Due to its proximity to the [Northhaven Astornox Stronghold](../../strongholds/n
 
 ## History
 
-### [AA01](../../../../campaigns/astorrel-agents/sessions/AA01.md) / [AA02](../../../../campaigns/astorrel-agents/sessions/AA02.md)
+### [AA01](../../../sessions/AA01.md) / [AA02](../../../sessions/AA02.md)
 
-The [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md) party stayed at The Rose Buckler after graduation day.
+The [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md) party stayed at The Rose Buckler after graduation day.
 
 | Character | Activity |
 | --- | --- |
-| [Ahsha Sallas](../../../people/ahsha-sallas.md) | Drank a lot. |
-| [Redwyn Humpledopper](../../../people/redywn-humpledopper.md) | Haggled aggressively with [Tydrus Tinshield](../../../people/tydrus-tinshield.md) in dwarvish.<br />Won 1 round of [Twenties](../../../other/twenties.md) (1 gp) against [Jaxon Ultari](../../../people/jaxon-ultari.md) |
+| [Ahsha Sallas](../../../characters/ahsha-sallas.md) | Drank a lot. |
+| [Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md) | Haggled aggressively with [Tydrus Tinshield](../../../characters/tydrus-tinshield.md) in dwarvish.<br />Won 1 round of [Twenties](../../../mechanics/roleplay/twenties.md) (1 gp) against [Jaxon Ultari](../../../characters/jaxon-ultari.md) |
 
 ## Planning
 
-### [Astorrel Agents](../../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
 
 During graduation day the inn is busier than usual due to [The Mission's End](the-missions-end.md) being packed with graduates. By that evening, it is back to its normal level.

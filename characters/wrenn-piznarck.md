@@ -9,15 +9,15 @@
 | **Pronouns** | he/him |
 | **Age** | 53 |
 | **Class** | Wizard (School of Conjuration) |
-| **Worship** | Valnos |
+| **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | [Alistair Hawthorn](alistair-hawthorn.md) (former friend)<br />[Darjonkaargeac Hidaar](darjonkaargeac-hidaar.md) (friend) |
-| **Places** | Northhaven (birthplace) |
+| **Places** | [Northhaven](../places/cities/northhaven.md) (birthplace) |
 |||
 | **Citizenship** | |
-| **Organisation** | Astorrel |
-| **Rank** | Astorrel Squad Hand |
-| **Role** | City / Northhaven / Astral Squad |
-| **Commanding Officer** | Carras Southroot |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | City / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| **Commanding Officer** | [Carras Southroot](carras-southroot.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `90c164c51822cd1a` |
@@ -47,13 +47,13 @@ TODO
 
 ## History
 
-### [Purple Rain](../../campaigns/purple-rain/purple-rain.md) Prelude
+### [Purple Rain](../campaigns/purple-rain/purple-rain.md) Prelude
 
 #### The Carnmere Meteorite
 
-Prior to the campaign, Wrenn traveled to Carnmere to search for the Carnmere Meteorite. Here, without the knowledge of the rest of [Astral Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md), he hired [The Crimson Blades](../civilisations/kingdom-of-astor/organisations/the-crimson-blades.md) to retrieve the meteorite for him, offering to pay them more substantially when they returned with it.
+Prior to the campaign, Wrenn traveled to Carnmere to search for the Carnmere Meteorite. Here, without the knowledge of the rest of [Astral Squad](../organisations/astorrel/squads/astral-squad.md), he hired [The Crimson Blades](../organisations/the-crimson-blades.md) to retrieve the meteorite for him, offering to pay them more substantially when they returned with it.
 
-After not hearing from them for 3 days, Wrenn got cold feet and left Carnmere for [Northhaven](../places/cities/northhaven.md), believing that the mercenary group had simply pocketed his deposit and left. He returned to [Astral Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/astral.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) empty-handed.
+After not hearing from them for 3 days, Wrenn got cold feet and left Carnmere for [Northhaven](../places/cities/northhaven.md), believing that the mercenary group had simply pocketed his deposit and left. He returned to [Astral Squad](../organisations/astorrel/squads/astral-squad.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) empty-handed.
 
 ## Planning
 

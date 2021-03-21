@@ -5,7 +5,7 @@
 | **Name** | Howbridge |
 | **Type** | Village |
 | **Location** | [Northern Astor](../regions/northern-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md) |
-| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/README.md) |
+| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 700 |
 | **Nearby Places** | [Hawkswood](../forests/hawkswood.md)<br />[Humar Cut](../roads/humar-cut.md)<br />[River Humar](../rivers-lakes/river-humar.md) |
 | **People** | |

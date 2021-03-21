@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| [Whisper on the Breeze](../astarus/people/whisper-on-the-breeze.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) | Party Member |
+| [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) | Party Member |

@@ -4,9 +4,9 @@
 
 |||
 | --- | --- |
-| **Organisation** | Astornox | rank.2
+| **Organisation** | [Astornox](../astornox.md) | rank.2
 | **Officer?** | Yes |
-| **Commanding Officers** | Astornox Major of Conscription |
+| **Commanding Officers** | [Astornox Major](astornox-major.md) of Conscription |
 | **Subordinates** | None |
 |||
 | **Image ID** | |

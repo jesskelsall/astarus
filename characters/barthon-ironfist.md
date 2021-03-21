@@ -23,4 +23,4 @@ He found [Ahsha Sallas](ahsha-sallas.md) in [Mockerkin](../places/towns/mockerki
 
 Barthon spent several years training Ahsha in the ways of pit fighting, particularly fist fighting, his specialty.
 
-They parted ways when Ahsha decided to join the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) recruitment programme.
+They parted ways when Ahsha decided to join the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme.

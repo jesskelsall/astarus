@@ -4,18 +4,18 @@
 
 |||
 | --- | --- |
-| **Organisation** | Astorrel | rank.2
+| **Organisation** | [Astorrel](../astorrel.md) | rank.2
 | **Officer?** | Yes |
-| **Commanding Officers** | Astorrel Majors |
-| **Subordinates** | Astorrel Lieutenants |
+| **Commanding Officers** | [Astorrel Majors](astorrel-major.md) |
+| **Subordinates** | [Astorrel Lieutenants](astorrel-lieutenant.md) |
 |||
 | **Image ID** | `76e714cdfaeda22d` |
 
 ## Military Badge
 
-*See also: [Military badges](../../../military-badges.md)*
+*See also: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
 
-Astorrel Captain badges look like plain [Astorrel](../astorrel.md) [military badges](../../../military-badges.md), but with a strip of gold inlaid inside its top and bottom edges. The use of gold denotes an officer rank.
+Astorrel Captain badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its top and bottom edges. The use of gold denotes an officer rank.
 
 # Duties
 

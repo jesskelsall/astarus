@@ -8,7 +8,7 @@
 | **Age** | 31 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) (retired) |
+| **Affiliation** | [Astorrel](../organisations/astorrel/astorrel.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
@@ -44,12 +44,12 @@ Nilus is willing to help when asked, but shows no additional enthusiasm when doi
 
 ## History
 
-### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party shopped in [Everything Else](../places/buildings/shops/everything-else.md). [Whisper on the Breeze](whisper-on-the-breeze.md) bought lockpicking tools discretely from them.  
+On graduation day, the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party shopped in [Everything Else](../places/buildings/shops/everything-else.md). [Whisper on the Breeze](whisper-on-the-breeze.md) bought lockpicking tools discretely from them.  
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day, Nilus Cray is going about business as usual. This is partly down to his preparedness (a well stocked shop), but also because he is unfazed by most things. He is content to sit and people watch between serving customers and answering questions.

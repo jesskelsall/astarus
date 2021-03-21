@@ -19,11 +19,11 @@ It is a square made mostly of stone, with some iron and wood benches for seating
 | Sights | Stone slabbed square. Statues of people and animals. Central fountain with flowing marble sculpture. Benches, potted plants with flowers, lamps. Plenty of people but no horses or carts. |
 | Sounds | Chatter, birds flying, the water in the fountain. |
 | Smells | Pleasant flower scents drifting on the wind. |
-| People | Citizens, respectable [Astornox](../../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) presence. |
+| People | Citizens, respectable [Astornox](../../organisations/astornox/astornox.md) presence. |
 | Intrigue | This looks just like a marketplace in any UK town centre. There is a lot of open space here in stark contrast to the claustrophobic buildings of the [Sunrise District](../districts/sunrise-district.md). |
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
-- [Gwinthel's Potion Tombola](../../../campaigns/astorrel-agents/events/gwinthels-potion-tombola.md)
+- [Gwinthel's Potion Tombola](../../mechanics/roleplay/gwinthels-potion-tombola.md)

@@ -12,13 +12,13 @@ TODO
 | **Age** | |
 | **Class** | Fighter |
 | **Worship** | |
-| **Relations** | [Emelina Tauff](emelina-tauff.md) (adoptive mother)<br />[Ealo Tauff](ealo-tauff.md) (adoptive father)<br />[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Astornox Captain](../civilisations/kingdom-of-astor/organisations/astornox/ranks/5-captain.md): Iredale)<br />[Teresa Resk](teresa-resk.md) (Hjalmann's wife) |
+| **Relations** | [Emelina Tauff](emelina-tauff.md) (adoptive mother)<br />[Ealo Tauff](ealo-tauff.md) (adoptive father)<br />[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Astornox Captain](../organisations/astornox/ranks/astornox-captain.md): Iredale)<br />[Teresa Resk](teresa-resk.md) (Hjalmann's wife) |
 | **Places** | Iredale |
 |||
 | **Citizenship** | |
 | **Organisation** | |
 |||
-| **Image ID** | `c275fac3807fe83b`<br />`e7cc21ea436f896e` (sanctuary Astorrel robes) |
+| **Image ID** | `c275fac3807fe83b`<br />`e7cc21ea436f896e` ([sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 

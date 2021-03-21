@@ -8,7 +8,7 @@
 | **Age** | 26 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) (retired) |
+| **Affiliation** | [Astorrel](../organisations/astorrel/astorrel.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Cara Treffen](cara-treffen.md) (employer) |
@@ -46,7 +46,7 @@ Beyond his eccentricity he is an attentive host, going above and beyond to look 
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day, Zarrus Maleron is well composed despite the inn being completely full. This is putting a strain on his abilities to help others, but he soldiers on diligently in his usual eccentric manner.
 

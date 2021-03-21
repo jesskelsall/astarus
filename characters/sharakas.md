@@ -9,9 +9,9 @@
 | **Pronouns** | he/him |
 | **Age** | 37 |
 | **Class** | |
-| **Worship** | Malnesh |
+| **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | |
-| **Places** | Head & Haft<br />Arnaside |
+| **Places** | [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md)<br />[Arnaside](../places/villages/arnaside.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -22,7 +22,7 @@
 
 Sharakas is the innkeeper of the [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md) in [Arnaside](../places/villages/arnaside.md). He is a *Malneshi*.
 
-He is a bit of a coward, having previously chosen to run from his problems, renouncing his clan in the process of doing so. As a result he is conflicted about his choices, but hopes he can do [Malnesh](../gods/gods/malnesh.md) proud.
+He is a bit of a coward, having previously chosen to run from his problems, renouncing his clan in the process of doing so. As a result he is conflicted about his choices, but hopes he can do [Malnesh](../gods/deities/malnesh.md) proud.
 
 ## Characteristics
 
@@ -47,13 +47,13 @@ He is a bit of a coward, having previously chosen to run from his problems, reno
 
 Sharakas used to live in [Eskrigg](../places/cities/eskrigg.md) with other members of the Vilranthiath (vil-ranth-iath) clan. Many of them shared a claustrophobic house on the 3rd floor of a poor part of the city.
 
-He got disillusioned with all of the needless death from poverty around him, and couldn't understand why nobody cared. Eventually he came across someone preaching in the street about [Malnesh](../gods/gods/malnesh.md), and joined the faith.
+He got disillusioned with all of the needless death from poverty around him, and couldn't understand why nobody cared. Eventually he came across someone preaching in the street about [Malnesh](../gods/deities/malnesh.md), and joined the faith.
 
 Eventually he came to believe he had no opportunities in [Eskrigg](../places/cities/eskrigg.md) and his clan had accepted their lot in life. He decided to move to [Arnaside](../places/villages/arnaside.md) when word of the village reached the local Malneshi.
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 Sharakas is aware of the problems with the logging operation through what he's heard from his patrons. He does not know what exactly is causing the problems beyond "something in the forest".
 

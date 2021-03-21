@@ -9,22 +9,22 @@
 | **Pronouns** | she/her |
 | **Age** | 29 |
 | **Class** | Fighter |
-| **Worship** | Gormox (Astorrel pledge) |
+| **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | |
 | **Places** | Kilflynn (birthplace) |
 |||
 | **Citizenship** | |
-| **Organisation** | Astorrel |
-| **Rank** | Astorrel Squad Hand |
-| **Role** | City / Northhaven / Ruby Squad |
-| **Commanding Officer** | Bryce Morton |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | City / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) |
+| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `e7a36c7e28f97107` |
 
 ## Summary
 
-Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md), and is part of [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/astorrel/astorrel.md), and is part of [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).
 
 ## Characteristics
 
@@ -50,14 +50,14 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../civilisations/kingdom-
 
 ### Backstory
 
-Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/cities/eskrigg.md) she joined the [Astorrel](../civilisations/kingdom-of-astor/organisations/astorrel/astorrel.md) recruitment programme on the promise of good pay for completing missions.
+Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/cities/eskrigg.md) she joined the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme on the promise of good pay for completing missions.
 
-### [Two Truths and a Lie](../../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
 
 - Their family lives in abject poverty. [truth]
-- They don't believe in any of the four gods and will pledge themselves to one in bad faith. [truth]
+- They don't believe in any of the four [gods](../gods/gods.md) and will pledge themselves to one in bad faith. [truth]
 - They have been training for a lot longer than everyone else in our cohort. [lie]
 
-### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party has seen Morgan in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when she was placed in [Ruby Squad](../civilisations/kingdom-of-astor/organisations/astorrel/squads/ruby.md).
+The [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party has seen Morgan in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when she was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

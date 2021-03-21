@@ -5,18 +5,18 @@
 | **Name** | Northern Astor |
 | **Type** | Region |
 | **Location** | [South East Kardan](south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
-| **Nearby Places** | [Central Astor](central-astor.md)<br />[Dardenn Kingdom](../../civilisations/dardenn-kingdom/README.md) |
+| **Nearby Places** | [Central Astor](central-astor.md)<br />[Dardenn Kingdom](../../civilisations/dardenn-kingdom/dardenn-kingdom.md) |
 | **People** | |
 
 ## Summary
 
-Northern Astor is much like [Central Astor](central-astor.md) - full of grassy plains and flanked by the forests and mountains. The [Northern Road](../roads/northern-road.md) provides travelers and goods to and from the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/README.md) to the far north. Some of the best agriculture and industry can be found here, particularly around [Goldreach](../../civilisations/kingdom-of-astor/settlements/goldreach/README.md) and Iredale.
+Northern Astor is much like [Central Astor](central-astor.md) - full of grassy plains and flanked by the forests and mountains. The [Northern Road](../roads/northern-road.md) provides travelers and goods to and from the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/dardenn-kingdom.md) to the far north. Some of the best agriculture and industry can be found here, particularly around [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and Iredale.
 
 ## Places
 
 - Towns:
   - [Beckermet](../towns/beckermet.md)
-  - [Goldreach](../../civilisations/kingdom-of-astor/settlements/goldreach/README.md)
+  - [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md)
   - Hawksglass
   - Iredale
 - Villages:

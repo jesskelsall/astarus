@@ -11,7 +11,7 @@ Human male
 | **Age** | 64 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | [Clyde Wirral](clyde-wirral.md) (son) |
 | **Acquaintances** | |
@@ -43,12 +43,12 @@ Sandor is a proud armoursmith, happy to sell the armour that the family produces
 
 ## History
 
-### [Astorrel Graduation](../../campaigns/astorrel-agents/storylines/astorrel-graduation.md)
+### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party shopped in [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) and Whisper of the Wind both bought armour from him.
+On graduation day, the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party shopped in [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) and Whisper of the Wind both bought armour from him.
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
 
 On graduation day, Sandor Wirral is calm in the face of lots of new customers. He is just happy that they've chosen his business.

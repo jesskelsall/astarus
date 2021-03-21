@@ -8,7 +8,7 @@
 | **Age** | 40 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../civilisations/kingdom-of-astor/organisations/astornox/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Bill Sprig](bill-sprig.md) (employee, hostler) |
