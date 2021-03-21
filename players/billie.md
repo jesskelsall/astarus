@@ -1,8 +1,8 @@
 # Billie
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Billie |
+| **Name** | Billie | player.2
 | **Pronouns** | she/her |
 | **Country** | 🇨🇦 Canada |
 | **Discord** | `Billie#2623` |

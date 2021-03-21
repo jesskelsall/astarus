@@ -1,8 +1,8 @@
 # Sam
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Sam |
+| **Name** | Sam | player.2
 | **Pronouns** | they/them |
 | **Country** | 🇬🇧 United Kingdom |
 | **Discord** | `alifeofenby#5550` |

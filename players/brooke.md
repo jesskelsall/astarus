@@ -1,8 +1,8 @@
 # Brooke
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Brooke |
+| **Name** | Brooke | player.2
 | **Pronouns** | they/she |
 | **Country** | 🇺🇸 United States |
 | **Discord** | `Brookealeen#9511` |

@@ -1,1 +1,0 @@
-# Meteoric Map of Astor

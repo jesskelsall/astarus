@@ -1,8 +1,8 @@
 # Robin
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Robin |
+| **Name** | Robin | player.2
 | **Pronouns** | she/her |
 | **Country** | 🇧🇪 Belgium |
 | **Discord** | `TheRobinRose#2677` |
@@ -12,4 +12,4 @@
 
 | Character | Campaign | Role |
 | --- | --- | --- |
-| [Saoirse](../astarus/people/saoirse.md) | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |
+| Saoirse ó Dochartaigh | [Purple Rain](../campaigns/purple-rain/purple-rain.md) | Party Member |

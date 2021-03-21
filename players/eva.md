@@ -1,8 +1,8 @@
 # EvA
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Evan/EvA/Ana |
+| **Name** | Evan/EvA/Ana | player.2
 | **Pronouns** | he/she/they |
 | **Country** | 🇺🇸 United States |
 | **Discord** | `EvAnomaly#7668` |

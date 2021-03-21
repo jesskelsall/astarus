@@ -1,8 +1,8 @@
 # Logan
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Logan |
+| **Name** | Logan | player.2
 | **Pronouns** | she/her |
 | **Country** | 🇺🇸 United States |
 | **Discord** | `Lo’#9831` |

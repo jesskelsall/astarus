@@ -11,7 +11,7 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 | [Billie](../../players/billie.md) | [Brooke](../../players/brooke.md) | [Lily](../../players/lily.md) | [Logan](../../players/logan.md) |
 |:---:|:---:|:---:|:---:|
 | [Ahsha Sallas](../../astarus/people/ahsha-sallas.md) | [Whisper on the Breeze](../../astarus/people/whisper-on-the-breeze.md) | [Ephaine Seren](../../astarus/people/ephaine-seren.md) | [Redwyn Humpledopper](../../astarus/people/redywn-humpledopper.md) |
-| <img src="../../images/people/ahsha-sallas.png" height="300" /> | <img src="../../images/people/whisper-on-the-breeze.png" height="300" /> | <img src="../../images/people/ephaine-seren.png" height="300" /> | <img src="../../images/people/redwyn-humpledopper.png" height="300" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/63cc05f09a0e0c3b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3840bf1d6c005683.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/04a625d21baed3cb.png" height="400" /> |
 
 ## Guests
 
@@ -28,7 +28,7 @@ The player characters are freshly graduated members of the [Astorrel](../../asta
 
 | [AA00](sessions/AA00.md) | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [AA01](sessions/AA01.md) | [AA02](sessions/AA02.md) | [AA03](sessions/AA03.md) | [AA04](sessions/AA04.md) | *[AA05](sessions/AA05.md)*
+| [AA01](sessions/AA01.md) | [AA02](sessions/AA02.md) | [AA03](sessions/AA03.md) | [AA04](sessions/AA04.md) | [AA05](sessions/AA05.md) | *AA06*
 
 ## Storylines
 

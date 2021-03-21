@@ -1,8 +1,8 @@
 # Sheycara
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Sheycara |
+| **Name** | Sheycara | player.2
 | **Pronouns** | she/her |
 | **Country** | 🇳🇱 The Netherlands |
 | **Discord** | `Sheycara Mae#9567` |

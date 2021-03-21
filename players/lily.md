@@ -1,8 +1,8 @@
 # Lily
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Lily |
+| **Name** | Lily | player.2
 | **Pronouns** | she/her |
 | **Country** | 🇺🇸 United States |
 | **Discord** | `well_actulily#0391` |

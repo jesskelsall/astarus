@@ -11,7 +11,7 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 | [Hannah](../../players/hannah.md) | [Robin](../../players/robin.md) | [Sam](../../players/sam.md) | [Sheycara](../../players/sheycara.md) |
 |:---:|:---:|:---:|:---:|
 | [Thanea](../../astarus/people/thanea.md) | [Saoirse](../../astarus/people/saoirse.md) | [Torbra Tauff](../../astarus/people/torbra-tauff.md) | [Wizira](../../astarus/people/wizira.md) |
-| <img src="../../images/people/thanea.png" height="300" /> | <img src="../../images/people/saoirse.png" height="300" /> | <img src="../../images/people/torbra.png" height="300" /> | <img src="../../images/people/wizira.png" height="300" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b6ddf2e960574729.png" height="400" /> |
 
 ## Guests
 
@@ -44,10 +44,10 @@ The player characters meet in [Goldreach](../../astarus/civilisations/kingdom-of
 | [Torbra's Giant Lineage](storylines/torbras-giant-lineage.md) | [PR01](sessions/PR01.md) |
 | [Wolves Threaten Goldreach](storylines/wolves-threaten-goldreach.md) | [PR02](sessions/PR02.md) | [PR08](sessions/PR08.md) |
 | [Saoirse Contracts Meteoridis](storylines/saoirse-contracts-meteoridis.md) | [PR07](sessions/PR07.md) |
-| [Magicborn on the Run](storylines/magicborn-on-the-run.md) | [PR08](sessions/PR08.md) | [PR17](sessions/PR17.md)
+| [Magicborn on the Run](storylines/magicborn-on-the-run.md) | [PR08](sessions/PR08.md) | PR20
 | [Saoirse's Aasimar Cleansing](storylines/saoirses-aasimar-cleansing.md) | [PR10](sessions/PR10.md) |
 | [The Crimson Blades Capture Wrenn](storylines/the-crimson-blades-capture-wrenn.md) | [PR12](sessions/PR12.md) |
 | [Escorted by Sarleen](storylines/escorted-by-sarleen.md) | [PR14](sessions/PR14.md) | [PR15](sessions/PR15.md) |
 | [The Firbolg Controversy](storylines/the-firbolg-controversy.md) | [PR15](sessions/PR15.md)
 | [Revenge of the Magicborn Hunters](storylines/revenge-of-the-magicborn-hunters.md) | [PR17](sessions/PR17.md)
-| [Receiving Sanctuary](storylines/receiving-sanctuary.md) | [PR18](sessions/PR18.md)
+| [Receiving Sanctuary](storylines/receiving-sanctuary.md) | [PR18](sessions/PR18.md) | PR20
