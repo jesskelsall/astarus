@@ -24,3 +24,17 @@ Garrick makes it clear that the offer lasts as long as he is willing to guard th
 On the first evening the party is visited by [Elysia Vanderboss](../characters/elysia-vanderboss.md) who sees the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md) and inquires about the circumstances surrounding their acquisition of it. She implores them to keep it a secret and tell no-one.
 
 In the morning after breakfast the party is visited by [Levelle Tristwix](../characters/levelle-tristwix.md) who is concerned about the [Astornox](../organisations/astornox/astornox.md) the party has killed, and what brings them here. Levelle and [Wizira](../characters/wizira.md) talk about [Wizira's Father](../characters/wiziras-father.md) and how his plight fits into [the firbolg controversy](the-firbolg-controversy.md) as a whole.
+
+### [PR19](../sessions/PR19.md)
+
+The party remains in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md).
+
+They are visited by [Carras Southroot](../characters/carras-southroot.md) and [Norsha Costello](../characters/norsha-costello.md) who question them about [Wrenn Piznarck](../characters/wrenn-piznarck.md)'s last known whereabouts as well as what he was doing in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in the first place. They are honest in their answers.
+
+[Mergin Thorgus](../characters/mergin-thorgus.md) visits, providing the party with some writing supplies and [Twenties](../mechanics/roleplay/twenties.md) dice, as well as a copy of [Northhaven Town Crier Script 312-5-06](../papers/letters/northhaven-town-crier-script-312-5-06.md) which shows how the [Astornox](../organisations/astornox/astornox.md) are demanding the release of the party from [sanctuary](../organisations/astorrel/sanctuary.md).
+
+On hearing about another firbolg, [Rowan Great Sile](../characters/rowan-great-sile.md) visits to speak with [Wizira](../characters/wizira.md) about her clan and their location.
+
+[Wizira](../characters/wizira.md) receives a letter from [Levelle Tristwix](../characters/levelle-tristwix.md) ([Letter to Wizira from Levelle Tristwix](../papers/letters/letter-to-wizira-from-levelle-tristwix.md)) which details the efforts Levelle is going to trying to get [Wizira's Father](../characters/wiziras-father.md) from the [Astornox](../organisations/astornox/astornox.md) conscription process. Later they arrive with [Mindira Flibfae](../characters/mindira-flibfae.md) to inform the party of the [Astornar](../organisations/astornar.md) trial over [the firbolg controversy](the-firbolg-controversy.md).
+
+With the party offered as stakes in the trial, either outcome will see the party leaving [sanctuary](../organisations/astorrel/sanctuary.md) - either in custody of the [Astornox](../organisations/astornox/astornox.md) or [Astorrel](../organisations/astorrel/astorrel.md). Both Levelle and Mindira implore the party to aid their efforts to win the trial so that they don't fall to the custody of the [Astornox](../organisations/astornox/astornox.md).

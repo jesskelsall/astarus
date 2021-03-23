@@ -59,6 +59,12 @@ The group decides to press on to [Northhaven](../places/cities/northhaven.md) wi
 
 While in [sanctuary](../organisations/astorrel/sanctuary.md), the party briefly mentions to both [Elysia Vanderboss](../characters/elysia-vanderboss.md) and [Levelle Tristwix](../characters/levelle-tristwix.md) that [Wrenn Piznarck](../characters/wrenn-piznarck.md) was captured by bandits.
 
+### [PR19](../sessions/PR19.md)
+
+[Carras Southroot](../characters/carras-southroot.md) and [Norsha Costello](../characters/norsha-costello.md) visit the party in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md). They ask about the circumstances of [Wrenn Piznarck](../characters/wrenn-piznarck.md)'s disappearance. The party tell them that he was taken by [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) of [the Crimson Blades](../organisations/the-crimson-blades.md) east of [Frizthwaite](../places/villages/frizthwaite.md).
+
+Carras and Norsha confer to each other, Carras noting that [the Crimson Blades](../organisations/the-crimson-blades.md) are known to operate around Carnmere.
+
 ## Planning
 
 [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) and his entourage take [Wrenn Piznarck](../characters/wrenn-piznarck.md) back to Carnmere as instructed by [Stalker](../characters/stalker.md), their leader.

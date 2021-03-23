@@ -32,3 +32,9 @@ She insists that Wrenn gives her the pouch of dust back in exchange for the mete
 He complies. After looking at the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor, he hands it back to [Saoirse](../../../astarus/people/saoirse.md) for safe keeping.
 
 This is a clear manifestation of her compulsion to stay near to Meteoric Dust.
+
+### [PR19](../sessions/PR19.md)
+
+While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), Torbra questions Saoirse directly about why she carries the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor around everywhere she goes. She explains that she wants to protect it and probably likes it more than the rest of the party. Thanea defends her, noting that [Elysia Vanderboss](../characters/elysia-vanderboss.md) considers the meteorite and pouch of meteoric dust to be important.
+
+When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visits a second time she sees Saoirse in the bathroom clutching the meteorite, refusing to leave. When Elysia leaves she gives Saoirse a perplexed look.

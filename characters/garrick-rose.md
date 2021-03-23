@@ -18,7 +18,7 @@
 | **Rank** | [Astorrel Guard Sergeant](../organisations/astorrel/ranks/astorrel-guard-sergeant.md) |
 | **Role** | City / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
-| **Subordinates** | Graf Stozitsk<br />Sesen Nusk |
+| **Subordinates** | [Graf Stozitsk](graf-stozitsk.md)<br />[Sesen Nusk](sesen-nusk.md) |
 |||
 | **Image ID** | `a5254f08ec0a900f` |
 

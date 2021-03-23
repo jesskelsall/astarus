@@ -60,3 +60,9 @@ Elysia is impressed both by their strength and that they possess a meteorite in 
 With this in mind, she cautions the party to keep the meteorite hidden and not speak of this to anyone else, as if word gets out, there may be a mass panic. She wants to gather more evidence before taking the matter higher up the [Astorrel](../organisations/astorrel/astorrel.md)'s chain of command.
 
 The party agrees to do so, finding her trustworthy.
+
+### [PR19](../sessions/PR19.md)
+
+When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visited the party again in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), she made her intent clear. If the [Astorrel](../organisations/astorrel/astorrel.md) win the [Astornar](../organisations/astornar.md) trial over [the firbolg controversy](the-firbolg-controversy.md), she would use her remaining political influence to try and get the party instated as an [Astorrel](../organisations/astorrel/astorrel.md) squad and work alongside her squad on the meteoric threat.
+
+When she asks the party if they would be interested in doing so, they respond in a non-committal manner, not wishing at such an early stage.

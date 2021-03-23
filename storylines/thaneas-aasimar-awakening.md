@@ -51,6 +51,8 @@ A third larger meteor comes into view, heading directly towards her. Its white g
 
 Seraphina lets go of her hand, making it clear that they are both flying together. As [Thanea](../../../astarus/people/thanea.md) looks up at the meteor, closer than ever. As she struggles to control her flight, the dream ends.
 
+*[Thanea unlocks her Protector Aasimar abilities]*
+
 She wakes up comfortably the following morning.
 
 ### [PR15](../sessions/PR15.md)

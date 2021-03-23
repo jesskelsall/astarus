@@ -58,11 +58,18 @@ Torbra sees a glow from over the next hill, and as she approaches the voices gro
 
 After the voices stop and the glowing auras subside, [Saoirse](../../../astarus/people/saoirse.md) angrily asks what is going on, but Torbra isn't sure herself. She likens it to [Saoirse](../../../astarus/people/saoirse.md) collapsing unconscious after touching the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md).
 
-## Planning
+### [PR19](../sessions/PR19.md)
 
-Attempting to carve a rune:
-- Requires smith's tools.
-- 30 minutes per attempt.
-- Dexterity check.
-- DC for each rune starts at 20.
-- Reduced by 2 for each unsuccessful attempt.
+While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), Torbra is provided paper, ink, and a quill by [Garrick Rose](../characters/garrick-rose.md). She uses her time on [Rune Knight practice](../mechanics/roleplay/rune-knight-practice.md) for the Stone Rune, eventually succeeding in replicating it perfectly.
+
+| Stone Rune DC | Roll | Success? |
+|:---:|:---:|:---:|
+| 20 | 18 | No |
+| 18 | 1 | No |
+| 16 | 6 | No |
+| 14 | 2 | No |
+| 12 | 16 | Yes |
+
+As the rune's magic takes hold of the paper, Torbra sees the rune's lines sink into the page, exposing an orange-brown glow from between the paper and the lines. Suddenly the anti-magic field present around [The Sanctum](../places/buildings/the-sanctum.md) asserts itself, ending the visual effect, much to Torbra's frustration.
+
+*[Torbra Taff unlocks the ability to create the Stone Rune at will]*

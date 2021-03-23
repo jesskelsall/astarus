@@ -27,3 +27,7 @@ It is a square made mostly of stone, with some iron and wood benches for seating
 ### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
 
 - [Gwinthel's Potion Tombola](../../mechanics/roleplay/gwinthels-potion-tombola.md)
+
+### Town Crier
+
+> A new potion store is opening soon on [Crafters Course](../streets/crafters-course.md)! Glug by Gwinthel will be making available only the finest in alchemical imbibements, and at a generous price! Look out for Glug by Gwinthel, and [Gwinthel Greenhand](../../characters/gwinthel-greenhand.md), coming to a store near you!

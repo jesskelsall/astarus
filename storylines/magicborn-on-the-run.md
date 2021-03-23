@@ -202,6 +202,12 @@ It is made clear to the party that if the offer is rescinded or they choose to l
 
 [Garrick Rose](../characters/garrick-rose.md) explains that if the party doesn't find a way to resolve their situation while they are in [sanctuary](../organisations/astorrel/sanctuary.md), it is only a matter of time until he grows tired and rescinds his offer of [sanctuary](../organisations/astorrel/sanctuary.md).
 
+### [PR19](../sessions/PR19.md)
+
+The party continue to remain in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md). They are visited by [Levelle Tristwix](../characters/levelle-tristwix.md) and [Mindira Flibfae](../characters/mindira-flibfae.md) who explain that [the firbolg controversy](the-firbolg-controversy.md) is going to trial in front of the [Astornar](../organisations/astornar.md). As the party has been put up as stakes, terms that have been agreed with the [Astornox](../organisations/astornox/astornox.md), the winner of the trial will receive custody of the party.
+
+This means that if the [Astornox](../organisations/astornox/astornox.md) win the trial, the party will answer for their crimes as [Astornox](../organisations/astornox/astornox.md) murderers and as [magicborn](../civilisations/kingdom-of-astor/magicborn.md). If the [Astorrel](../organisations/astorrel/astorrel.md) win, there is potential to join the [Astorrel](../organisations/astorrel/astorrel.md) which will put them outside of the [Astornox](../organisations/astornox/astornox.md)'s jurisdiction.
+
 ## Final Report
 
 This is a summary of all the run-ins the party had with the [Astornox](../organisations/astornox/astornox.md) during this storyline.
