@@ -1,5 +1,7 @@
 # Astorrel Agents Days
 
+Sessions in *italics* indicate that the day was accelerated through as part of a time skip or as downtime, where no specific events happened on that day.
+
 | Day | Date | Session(s) | Place(s) | Initiative Order | Sleep Location | Player Character Visions |
 |:---:|---|:---:|---|---|---|---|
 | 1 | | [AA01](../../sessions/AA01.md) | [Northhaven](../../places/cities/northhaven.md) | | [Northhaven](../../places/cities/northhaven.md) | Whisper [Valnos](../../gods/deities/valnos.md) Chat 1
