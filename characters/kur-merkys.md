@@ -17,7 +17,7 @@
 | **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
 | **Rank** | [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) |
 | **Role** | Conscription |
-| **Commanding Officer** | |
+| **Commanding Officer** | [Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `b2aa89a6831d0359` |

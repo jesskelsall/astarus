@@ -10,7 +10,7 @@
 | **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 | **Demonyms** | Astorian |
 | **Government** | Militocracy |
-| **Leader** | Corville Thornox<br />*General Supreme* |
+| **Leader** | [Corville Thornox](../../characters/corville-thornox.md)<br />*General Supreme* |
 | **Territories** | [South East Kardan](../../places/regions/south-east-kardan.md)<br />[Kardanis](../../places/regions/kardanis.md) |
 | **Founded** | *0 PA* |
 | **Neighbours** | [Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south)<br />[Dardenn Kingdom](../dardenn-kingdom/dardenn-kingdom.md) (north)<br />[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (west) |
@@ -35,7 +35,7 @@ The Kingdom of Astor is a militocracy. This means that the entire governance str
 
 All of Astor's decision making resides within these military ranks.
 
-Ultimate power resides with the *general supreme*, Corville Thornox. He is the superior officer of the generals of the [Astornar](../../organisations/astornar.md), who in turn are superior officers to the other organisations of the kingdom.
+Ultimate power resides with the *general supreme*, [Corville Thornox](../../characters/corville-thornox.md). He is the superior officer of the generals of the [Astornar](../../organisations/astornar.md), who in turn are superior officers to the other organisations of the kingdom.
 
 ## Organisations
 

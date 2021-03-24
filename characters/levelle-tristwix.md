@@ -17,7 +17,7 @@
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Commandant](../organisations/astorrel/ranks/astorrel-commandant.md) |
 | **Role** | |
-| **Commanding Officer** | |
+| **Commanding Officer** | [Polgast Mouldylog](polgast-mouldylog.md) |
 | **Subordinates** | [Mindira Flibfae](mindira-flibfae.md) (Major of Forests) |
 |||
 | **Image ID** | `29b6e2129e252c9f` |

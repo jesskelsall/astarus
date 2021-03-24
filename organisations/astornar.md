@@ -6,7 +6,7 @@
 | --- | --- |
 | **Name** | Astornar | organisation.2
 | **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Leader** | Corville Thornox |
+| **Leader** | [Corville Thornox](../characters/corville-thornox.md) |
 | **Patron** | [Bhygar](../gods/deities/bhygar.md) |
 |||
 | **Image ID** | `eddb4bcb29ce3928` |

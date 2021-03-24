@@ -32,22 +32,20 @@ He comes from a prestigious family and is the embodiment of the upper class in [
 
 ## Characteristics
 
-| Appearance | Description |
+| | |
 | --- | --- |
-| Face | Stern face, chiselled jaw. Brown eyes. |
-| Hair | Bald head, clean shaven. |
-| Body | Well built, average height. |
-| Clothes | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md)'s uniform. |
-| Mannerisms | Upright, chest puffed out. Stiff military movements, uses his posture to show dominance. |
-
-| Personality | Description |
-| --- | --- |
-| Voice | Loud and commanding. |
-| Quirks | Despite the temptations of his position and status, he cares deeply about [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and recognises any non-[Astornox](../organisations/astornox/astornox.md) people that keep the peace. |
-| Knowledge | Enjoys duelling and getting his hands dirty if needed. Good general knowledge due to his position. |
-| Values | |
-| Ambitions | |
-| Dislikes | |
+| **Face** | Stern face, chiselled jaw. Brown eyes. | characteristics.2
+| **Hair** | Bald head, clean shaven. Dark brown eyebrows. |
+| **Body** | Well built, average height. |
+| **Clothes** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md)'s uniform. |
+| **Voice** | Loud and commanding. |
+| **Mannerisms** | Upright, chest puffed out. Stiff military movements, uses his posture to show dominance. |
+| | |
+| **Quirks** | Despite the temptations of his position and status, he cares deeply about [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and recognises any non-[Astornox](../organisations/astornox/astornox.md) people that keep the peace. |
+| **Knowledge** | Enjoys duelling and getting his hands dirty if needed. Good general knowledge due to his position. |
+| **Values** | |
+| **Ambitions** | |
+| **Dislikes** | |
 
 ## History
 
@@ -85,8 +83,6 @@ Around the time of this [Purple Rain](../campaigns/purple-rain/purple-rain.md) s
 
 Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their return or face serious punishment (likely death). He agreed, but later reneged, recruiting meteorite adventurers to find the party with the help of his crow familiar, and went into hiding in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
 
-### [PR09](../sessions/PR09.md)
-
-TODO confirm session number
+### [PR10](../sessions/PR10.md)
 
 While the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party was escaping [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with [Wrenn Piznarck](wrenn-piznarck.md), Alistair Hawthorn was personally commanding the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../organisations/astornox/astornox.md)'s search efforts for him throughout town, despite it being the middle of the night. He was furious at his former friend's betrayal, and insisted they try harder to find Wrenn before raising the alarm to the Eaglesfield and [Beckermet](../places/towns/beckermet.md) [Astornox](../organisations/astornox/astornox.md).

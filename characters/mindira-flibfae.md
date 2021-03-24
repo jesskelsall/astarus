@@ -1,5 +1,7 @@
 # Mindira Flibfae
 
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/81d804a87298f7b3.png" height="500" />
+
 | | |
 | --- | --- |
 | **Name** | Mindira Flibfae | character.3
@@ -18,7 +20,7 @@
 | **Commanding Officer** | [Levelle Tristwix](levelle-tristwix.md) |
 | **Subordinates** | [Rowan Great Sile](rowan-great-sile.md) |
 |||
-| **Image ID** | |
+| **Image ID** | `81d804a87298f7b3` |
 
 ## Summary
 
@@ -28,7 +30,7 @@ Mindira Flibfae is a large proponent of leaving firbolgs alone in their forest c
 
 | | |
 | --- | --- |
-| **Face** | Dark skin, perpetual smile. Brown eyes, prominent ears, brown eyes. | characteristics.2
+| **Face** | Dark skin, perpetual smile. Brown eyes, prominent ears. | characteristics.2
 | **Hair** | White shoulder length hair with lots of braids on each side. |
 | **Body** | 2'7" / 79cm. Podgy. |
 | **Clothes** | [Astorrel officer's uniform](../organisations/astorrel/uniforms/astorrel-officers-uniform.md). |
