@@ -1,39 +1,41 @@
-# Emi Rulsay
+# Trynelle Mildrabbit
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Emi Rulsay | character.3
-| **Race** | Human |
+| **Name** | Trynelle Mildrabbit | character.3
+| **Race** | Halfling |
 | **Pronouns** | she/her |
-| **Age** | 24 |
-| **Class** | Bard |
-| **Worship** | [Bhygar](../gods/deities/bhygar.md) |
+| **Age** | 30 |
+| **Class** | |
+| **Worship** | |
 | **Relations** | |
 | **Places** | [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
 | **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) |
 | **Commanding Officer** | [Linton Harkness](linton-harkness.md) |
-| **Subordinates** | |
+| **Subordinates** | Louise Perkins |
 |||
 | **Image ID** | |
 
 ## Summary
 
+TODO
+
 ## Characteristics
 
 | | |
 | --- | --- |
-| **Face** | Pale skin, rosy cheeks, blue eyes. Warm smile. | characteristics.2
-| **Hair** | Waist length blonde hair. |
-| **Body** | 5'8" / 172cm. Fair build. |
-| **Clothes** | Green dyed leathers, white collared shirt underneath. Brown leather trousers. |
-| **Voice** | Female register, smiley/cute. |
-| **Mannerisms** | Kind and somewhat shy around people. Fast and purposeful under order. |
+| **Face** | | characteristics.2
+| **Hair** | |
+| **Body** | |
+| **Clothes** | |
+| **Voice** | |
+| **Mannerisms** | |
 | | |
 | **Quirks** | |
 | **Knowledge** | |

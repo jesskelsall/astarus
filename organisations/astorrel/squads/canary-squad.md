@@ -2,6 +2,7 @@
 
 | []() | |
 | --- | --- |
+| **Squad Name** | Canary Squad | squad.2
 | **Squad Sergeant** | [Bryce Morton](../../../characters/bryce-morton.md) |
 | **Squad Lead** | TBD |
 | **Squad Hands** | [Ahsha Sallas](../../../characters/ahsha-sallas.md)<br />[Ephaine Seren](../../../characters/ephaine-seren.md)<br />[Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md)<br />[Whisper on the Breeze](../../../characters/whisper-on-the-breeze.md) |
@@ -18,4 +19,5 @@ Canary Squad is the [Astorrel](../astorrel.md) squad that the party members of t
 
 | Mission | Status |
 | --- | --- |
-| [Check Logging in Arnaside](../../../storylines/check-logging-in-arnaside.md) | Started |
+| [Check Logging in Arnaside](../../../storylines/check-logging-in-arnaside.md) | Completed |
+| [Independent Investigation of Ulburn](../../../storylines/independent-investigation-of-ulburn.md) | Not Started |

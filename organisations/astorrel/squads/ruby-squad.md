@@ -2,6 +2,7 @@
 
 | []() | |
 | --- | --- |
+| **Squad Name** | Ruby Squad | squad.2
 | **Squad Sergeant** | [Bryce Morton](../../../characters/bryce-morton.md) |
 | **Squad Lead** | TBD |
 | **Squad Hands** | [Darius Dunn](../../../characters/darius-dunn.md)<br />[Morgan Caithness](../../../characters/morgan-caithness.md)<br />[Penance Zahiri](../../../characters/penance-zahiri.md)<br />[Tabari Se](../../../characters/tabari-se.md)
@@ -18,4 +19,5 @@ Ruby Squad is the other [Astorrel](../astorrel.md) squad that [Bryce Morton](../
 
 | Mission | Status |
 | --- | --- |
-| [Investigate Bear Attacks in Hartsgarth](../../../storylines/investigate-bear-attacks-in-hartsgarth.md) | Started |
+| [Investigate Bear Attacks in Hartsgarth](../../../storylines/investigate-bear-attacks-in-hartsgarth.md) | Completed |
+| Check on Wildlife on Humar Estuary | Not Started |
