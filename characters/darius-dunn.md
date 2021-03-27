@@ -58,7 +58,7 @@ Born into the family of a city captain, Darius' mother's fire elemental lineage 
 - They are a pacifist. [truth]
 - They were abandoned by their parents. [lie]
 
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
+### [AA01](../sessions/AA01.md)
 
 The [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party found Darius following the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/deities/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
 

@@ -48,17 +48,15 @@ It is a festival day that celebrates the ending of one year and the beginning of
 
 ## Festivals
 
-### Seasonal
+There is a festival celebrating the border between months where the associated god changes. Each is themed based on the two [gods](../gods/gods.md) and the seasonal implications.
 
-There is a festival celebrating the border between months where the associated god changes:
-
-- 28th of Melnish to 1st of Nosgorat - spring.
-- 28th of Vishantu to 1st of Finsbock - summer.
-- 28th of Taledus to 1st of Shavdor - autumn.
-
-### Annual
-
-There is a larger celebration at the end of the year, focused around Diamodeus.
+| Start | End | Significance | Festival |
+| --- | --- | --- | --- |
+| Faldag, 27th of Melnish | Bhydag, 1st of Nosgorat | Spring | Flight of the Hawks |
+| Faldag, 27th of Vishantu | Bhydag, 1st of Finsbock | Summer | Snake Dance |
+| Faldag, 27th of Taledus | Bhydag, 1st of Shavdor | Autumn | [Blade's Rest](../festivals/blades-rest.md) |
+| Faldag, 27th of Ultux | Bhydag, 1st of Balghast | Winter | Scribestory |
+| Diamodeus | Diamodeus | Year's End | Diamodeus |
 
 ---
 

@@ -16,5 +16,5 @@ Sessions in *italics* indicate that the day was accelerated through as part of a
 | 9 | 312-5-06 | [PR18](../../sessions/PR18.md)<br />*[PR19](../../sessions/PR19.md)* | [Northhaven](../../places/cities/northhaven.md) | | [The Sanctum](../../places/buildings/the-sanctum.md) |
 | 10 | | [PR19](../../sessions/PR19.md) | [Northhaven](../../places/cities/northhaven.md) | | [The Sanctum](../../places/buildings/the-sanctum.md) |
 | 11 | 312-5-08 | [PR19](../../sessions/PR19.md)<br />[PR20](../../sessions/PR20.md) | [Northhaven](../../places/cities/northhaven.md) | | [The Sanctum](../../places/buildings/the-sanctum.md) |
-| 12-14 | | *PR20* | | | The Sanctum
-| 15 | 312-05-12 | PR20 | Northhaven |
+| 12-14 | | *[PR20](../../sessions/PR20.md)* | | | [The Sanctum](../../places/buildings/the-sanctum.md)
+| 15 | 312-05-12 | [PR20](../../sessions/PR20.md) | [Northhaven](../../places/cities/northhaven.md) |

@@ -1,6 +1,6 @@
 # Letter to Wizira from Levelle Tristwix
 
-<img src="../../images/papers/letters/letter-to-wizira-from-levelle-tristwix.png" width="80%" />
+<img src="../../images/papers/letters/letter-to-wizira-from-levelle-tristwix.png" width="600" />
 
 > From the office of the [Astorrel Commandant](../../organisations/astorrel/ranks/astorrel-commandant.md)  
 > [Zenith Spire](../../places/buildings/zenith-spire.md)  
