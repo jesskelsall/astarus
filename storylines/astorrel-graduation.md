@@ -51,7 +51,7 @@ Back in [Kirrel Hall](../places/buildings/kirrel-hall.md), each graduate was pre
 Once on stage, [Levelle Tristwix](../characters/levelle-tristwix.md) affixed the military badge to their robes and gave them a handshake. [Mergin Thorgus](../characters/mergin-thorgus.md) then gave them their graduation purse and bowed to them.
 
 | Named Graduate | Rank |
-| --- | --- | --- |
+| --- | --- |
 | Aaron Druum | [Astorrel Member](../organisations/astorrel/ranks/astorrel-member.md) |
 | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
 | [Darius Dunn](../characters/darius-dunn.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |

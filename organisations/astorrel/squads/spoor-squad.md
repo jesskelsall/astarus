@@ -3,7 +3,8 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Spoor Squad | squad.2
-| **Squad Sergeant** | [Linton Harkness](../../../characters/linton-harkness.md) |
+| **Role** | Urban Expansion / [Ulburn](../../../places/villages/ulburn.md) |
+| **Commanding Officer** | [Linton Harkness](../../../characters/linton-harkness.md) |
 | **Squad Lead** | [Trynelle Mildrabbit](../../../characters/trynelle-mildrabbit.md) |
 | **Squad Hands** | |
 

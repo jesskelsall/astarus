@@ -3,7 +3,8 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Astral Squad | squad.2
-| **Squad Sergeant** | [Carras Southroot](../../../characters/carras-southroot.md) |
+| **Role** | City / [Northhaven](../../../places/cities/northhaven.md) |
+| **Commanding Officer** | [Carras Southroot](../../../characters/carras-southroot.md) |
 | **Squad Lead** | [Elysia Vanderboss](../../../characters/elysia-vanderboss.md) |
 | **Squad Hands** | [Alos Varkann](../../../characters/alos-varkann.md)<br />[Tyburn Dalvos](../../../characters/tyburn-dalvos.md)<br />[Wrenn Piznarck](../../../characters/wrenn-piznarck.md) |
 

@@ -3,7 +3,8 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Canary Squad | squad.2
-| **Squad Sergeant** | [Bryce Morton](../../../characters/bryce-morton.md) |
+| **Role** | City / [Northhaven](../../../places/cities/northhaven.md) |
+| **Commanding Officer** | [Bryce Morton](../../../characters/bryce-morton.md) |
 | **Squad Lead** | TBD |
 | **Squad Hands** | [Ahsha Sallas](../../../characters/ahsha-sallas.md)<br />[Ephaine Seren](../../../characters/ephaine-seren.md)<br />[Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md)<br />[Whisper on the Breeze](../../../characters/whisper-on-the-breeze.md) |
 

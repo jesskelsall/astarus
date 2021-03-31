@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA06](../sessions/AA06.md) / PR21 | storyline.2
+| **Session Started** | [AA06](../sessions/AA06.md) / [PR21](../sessions/PR21.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
