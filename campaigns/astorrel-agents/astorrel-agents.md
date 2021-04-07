@@ -8,7 +8,7 @@ The player characters are freshly graduated members of the [Astorrel](../../orga
 
 ## Party Members
 
-| [Billie](../../players/billie.md) | [Brooke](../../players/brooke.md) | [Lily](../../players/lily.md) | [Logan](../../players/logan.md) |
+| Billie | Brooke | Lily | Logan |
 |:---:|:---:|:---:|:---:|
 | [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | [Ephaine Seren](../../characters/ephaine-seren.md) | [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/63cc05f09a0e0c3b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3840bf1d6c005683.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/04a625d21baed3cb.png" height="400" /> |

@@ -18,7 +18,7 @@
 | Derk | he/him | `NL 🇳🇱` | `dovertje#2838` | | Guest | Norma Collarbone |
 | Tiva | she/her/they/them | `NL 🇳🇱` | `tivaap#0891` | | Guest | Brian |
 ||||||||
-| Ian | he/him | `GB 🇬🇧` | `Ianoshorty#2662` | | Guest | |
-| Becca | she/her | `GB 🇬🇧` | `Bite Me#8600` | | Guest | |
-| Chloe | she/her | `GB 🇬🇧` | `Nilliski#2675` | | Guest | |
+| Ian | he/him | `GB 🇬🇧` | `Some random dude#2662` | | Guest | |
 | Charles | he/him | `GB 🇬🇧` | `charlesharries#1571` | | Guest | |
+| Chloe | she/her | `GB 🇬🇧` | `Nilliski#2675` | | Guest | |
+| Sophie | she/her | `GB 🇬🇧` | `sherring#0998` | | Guest | |

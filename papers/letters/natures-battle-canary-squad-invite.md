@@ -2,9 +2,9 @@
 
 <img src="../../images/papers/letters/natures-battle-canary-squad-invite.png" width="600" />
 
-> From the office of the General of Culture
-> Tower of Ast
-> [Northhaven Astornar Stronghold](../../places/strongholds/northhaven-astornar-stronghold.md)
+> From the office of the General of Culture  
+> Tower of Ast  
+> [Northhaven Astornar Stronghold](../../places/strongholds/northhaven-astornar-stronghold.md)  
 > [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md)
 >
 > Mishdag, 2nd of Taledus 312 P.A.
@@ -25,5 +25,5 @@
 >
 > Sincerely,
 >
-> [Liabella Peacock](../../characters/liabella-peacock.md)
+> [Liabella Peacock](../../characters/liabella-peacock.md)  
 > [Astornar](../../organisations/astornar.md) General of Culture

@@ -8,9 +8,9 @@ The player characters meet in [Goldreach](../../civilisations/kingdom-of-astor/S
 
 ## Party Members
 
-| [Hannah](../../players/hannah.md) | [Robin](../../players/robin.md) | [Sam](../../players/sam.md) | [Sheycara](../../players/sheycara.md) |
+| Hannah | Robin | Sam | Sheycara |
 |:---:|:---:|:---:|:---:|
-| [Thanea](../../astarus/people/thanea.md) | [Saoirse](../../astarus/people/saoirse.md) | [Torbra Tauff](../../characters/torbra-tauff.md) | [Wizira](../../characters/wizira.md) |
+| [Thanea Morlay](../../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../../characters/torbra-tauff.md) | [Wizira](../../characters/wizira.md) |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b6ddf2e960574729.png" height="400" /> |
 
 ## Guests
@@ -30,7 +30,8 @@ The player characters meet in [Goldreach](../../civilisations/kingdom-of-astor/S
 | [PR00](../../sessions/PR00.md) | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [PR01](../../sessions/PR01.md) | [PR02](../../sessions/PR02.md) | [PR03](../../sessions/PR03.md) | [PR04](../../sessions/PR04.md) | [PR05](../../sessions/PR05.md) | [PR06](../../sessions/PR06.md) | [PR07](../../sessions/PR07.md) | [PR08](../../sessions/PR08.md) | [PR09](../../sessions/PR09.md) | [PR10](../../sessions/PR10.md) |
-| [PR11](../../sessions/PR11.md) | [PR12](../../sessions/PR12.md) | [PR13](../../sessions/PR13.md) | [PR14](../../sessions/PR14.md) | [PR15](../../sessions/PR15.md) | [PR16](../../sessions/PR16.md) | [PR17](../../sessions/PR17.md) | [PR18](../../sessions/PR18.md) | [PR19](../../sessions/PR19.md) | *[PR20](../../sessions/PR20.md)*
+| [PR11](../../sessions/PR11.md) | [PR12](../../sessions/PR12.md) | [PR13](../../sessions/PR13.md) | [PR14](../../sessions/PR14.md) | [PR15](../../sessions/PR15.md) | [PR16](../../sessions/PR16.md) | [PR17](../../sessions/PR17.md) | [PR18](../../sessions/PR18.md) | [PR19](../../sessions/PR19.md) | [PR20](../../sessions/PR20.md) |
+| [PR21](../../sessions/PR21.md) | [PR22](../../sessions/PR22.md) |
 
 ## Storylines
 

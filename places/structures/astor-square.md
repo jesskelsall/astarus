@@ -5,7 +5,7 @@
 | **Name** | Astor Square |
 | **Type** | Structure |
 | **Location** | [Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
-| **Nearby Places** | [Diamond Prime](../buildings/temples/diamond-prime.md)<br />[The Alley](../buildings/shops/the-alley.md)<br />[Northhaven Astornar Stronghold](../strongholds/northhaven-astornar-stronghold.md)<br />[Northhaven Astornox Stronghold](../strongholds/northhaven-astornox-stronghold.md)<br />[Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) |
+| **Nearby Places** | Crafter's Course<br />[Northhaven Astornar Stronghold](../strongholds/northhaven-astornar-stronghold.md)<br />[Northhaven Astornox Stronghold](../strongholds/northhaven-astornox-stronghold.md)<br />[Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) |
 | **People** | |
 
 ## Summary
@@ -21,6 +21,12 @@ It is a square made mostly of stone, with some iron and wood benches for seating
 | Smells | Pleasant flower scents drifting on the wind. |
 | People | Citizens, respectable [Astornox](../../organisations/astornox/astornox.md) presence. |
 | Intrigue | This looks just like a marketplace in any UK town centre. There is a lot of open space here in stark contrast to the claustrophobic buildings of the [Sunrise District](../districts/sunrise-district.md). |
+
+## Places
+
+- [Diamond Prime](../buildings/temples/diamond-prime.md)
+- [Sunset Delivery](../../organisations/sunset-delivery.md) Astor Square
+- [The Alley](../buildings/shops/the-alley.md)
 
 ## Planning
 
