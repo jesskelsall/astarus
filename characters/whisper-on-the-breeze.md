@@ -16,8 +16,8 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | City / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
+| **Role** | City / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md)<br />Former:<br />City / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) |
+| **Commanding Officer** | [Emdar Silverstrike](emdar-silverstrike.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `63cc05f09a0e0c3b` |

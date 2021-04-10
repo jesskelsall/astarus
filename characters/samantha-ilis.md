@@ -10,7 +10,7 @@
 | **Alignment** | Lawful Good |
 | **Affiliation** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md)<br />[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md)<br /><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
 | **Commanding Officer** | [Mergin Thorgus](mergin-thorgus.md) |
-| **Subordinates** | [Bryce Morton](bryce-morton.md) |
+| **Subordinates** | [Bryce Morton](bryce-morton.md)<br />[Emdar Silverstrike](emdar-silverstrike.md) |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
 | **Acquaintances** | |
