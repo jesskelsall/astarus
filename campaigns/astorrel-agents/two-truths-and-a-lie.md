@@ -24,6 +24,12 @@
 - Their family lives in abject poverty.
 - They have been training for a lot longer than everyone else in our cohort.
 
+**[Noon Schiller](../../characters/noon-schiller.md)**  
+*Human*
+- Has a beautiful singing voice.
+- Trained outdoors heavily because of his love for nature.
+- He once collapsed a wall with his magic.
+
 **[Penance Zahiri](../../characters/penance-zahiri.md)**  
 *Tiefling*
 - They were a criminal prior to training as an [Astorrel](../../organisations/astorrel/astorrel.md).
