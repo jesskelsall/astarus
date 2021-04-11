@@ -77,4 +77,4 @@ Immediately the light comes back on and [Saoirse](../../../astarus/people/saoirs
 
 In the long term, [Saoirse](../../../astarus/people/saoirse.md) will get the opportunity to kill Effie Silttooth. Doing so will be the final piece of the puzzle that converts her from a fallen aasimar to a protector aasimar.
 
-Prior to that, with [Robin](../players/robin.md)'s blessing, [Saoirse](../../../astarus/people/saoirse.md) will trade in warlock levels at key points and replace them with multi-classed levels in cleric or paladin (her choice). The less warlock she is, the closer to being saved she is.
+Prior to that, with Robin's blessing, [Saoirse](../../../astarus/people/saoirse.md) will trade in warlock levels at key points and replace them with multi-classed levels in cleric or paladin (her choice). The less warlock she is, the closer to being saved she is.

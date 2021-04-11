@@ -24,7 +24,7 @@
 
 ## Summary
 
-Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by [Lily](../players/lily.md).
+Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Lily.
 
 ## Backstory
 
