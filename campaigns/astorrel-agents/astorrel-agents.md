@@ -8,15 +8,16 @@ The player characters are freshly graduated members of the [Astorrel](../../orga
 
 ## Party Members
 
-| Billie | Brooke | Lily | Logan |
+| Billie | Chloe | Lily | Logan |
 |:---:|:---:|:---:|:---:|
-| [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | [Ephaine Seren](../../characters/ephaine-seren.md) | [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) |
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/63cc05f09a0e0c3b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3840bf1d6c005683.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/04a625d21baed3cb.png" height="400" /> |
+| [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Noon Schiller](../../characters/noon-schiller.md) | [Ephaine Seren](../../characters/ephaine-seren.md) | [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/ec514d55f424de69.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3840bf1d6c005683.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/04a625d21baed3cb.png" height="400" /> |
 
-## Guests
+## Former Players & Guests
 
 | Player | Character | Session(s) |
 | --- | --- | --- |
+| Brooke | [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | [AA01](../../sessions/AA01.md) - [AA06](../../sessions/AA06.md) |
 
 ## Links
 
@@ -28,7 +29,7 @@ The player characters are freshly graduated members of the [Astorrel](../../orga
 
 | [AA00](../../sessions/AA00.md) | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [AA01](../../sessions/AA01.md) | [AA02](../../sessions/AA02.md) | [AA03](../../sessions/AA03.md) | [AA04](../../sessions/AA04.md) | [AA05](../../sessions/AA05.md) | *[AA06](../../sessions/AA06.md)*
+| [AA01](../../sessions/AA01.md) | [AA02](../../sessions/AA02.md) | [AA03](../../sessions/AA03.md) | [AA04](../../sessions/AA04.md) | [AA05](../../sessions/AA05.md) | [AA06](../../sessions/AA06.md) | [AA07](../../sessions/AA07.md) | [AA08](../../sessions/AA08.md) | [AA09](../../sessions/AA09.md)
 
 ## Storylines
 
