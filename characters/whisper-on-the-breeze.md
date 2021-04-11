@@ -26,6 +26,20 @@
 
 Whisper on the Breeze is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Brooke.
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 17 | 16 | 15 | 12 | 12 | 8 | 80 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d8 | 8 | 5 | 7 | 6 |
+
 ## Backstory
 
 Whisper on the Breeze was born in the town of Kuv'narash ([Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)) to [Shout on the Breeze](shout-on-the-breeze.md) (father) and their mother. They are the runt of a litter of 5 Tabaxi.

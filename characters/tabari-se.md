@@ -46,6 +46,20 @@ Tabari Se is a new Squad Hand in the [Astorrel](../organisations/astorrel/astorr
 | Ambitions | To hone his fighting style and challenge interesting opponents. |
 | Dislikes | Talk. |
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 17 | 17 | 16 | 13 | 12 | 11 | 86 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d8 | 8 | 2 | 8 | 6 |
+
 ## History
 
 ### Backstory

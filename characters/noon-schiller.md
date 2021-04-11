@@ -26,6 +26,20 @@
 
 Noon Schiller is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Chloe.
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 18 | 15 | 14 | 12 | 11 | 10 | 80 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d8 | 8 | 3 | 2 | 5 |
+
 ## Backstory
 
 TODO general backstory

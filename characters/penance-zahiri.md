@@ -46,6 +46,20 @@ Penance Zahiri is a new Squad Hand in the [Astorrel](../organisations/astorrel/a
 | Ambitions | Wishes to be a good paladin, and leave a varied & exciting life. |
 | Dislikes | Mundane tasks, chores. |
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 18 | 17 | 16 | 14 | 14 | 13 | 92 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d10 | 10 | 6 | 6 | 7 |
+
 ## History
 
 ### Backstory

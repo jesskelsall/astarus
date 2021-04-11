@@ -46,6 +46,20 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/astorrel
 | Ambitions | Wants to provide a better life for her lumber working family. |
 | Dislikes | [Magicborn](../civilisations/kingdom-of-astor/magicborn.md), those who talk but do not act. |
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 14 | 12 | 12 | 11 | 10 | 9 | 68 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d10 | 10 | 3 | 2 | 8 |
+
 ## History
 
 ### Backstory

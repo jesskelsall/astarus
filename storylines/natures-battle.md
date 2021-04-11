@@ -33,8 +33,8 @@ These 8 [Astorrel](../organisations/astorrel/astorrel.md) squads will be competi
 | **Quarter Finals**
 | [Birch Squad](../organisations/astorrel/squads/birch-squad.md)<br />[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | N/A |
 | [Freya's Squad](../organisations/astorrel/squads/freyas-squad.md)<br />[Horizon Squad](../organisations/astorrel/squads/horizon-squad.md) | [Freya's Squad](../organisations/astorrel/squads/freyas-squad.md) | N/A |
-| [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />[Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) | | [AA08](../sessions/AA08.md) |
-| [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | | [PR23](../sessions/PR23.md) |
+| [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />[Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | | [AA08](../sessions/AA08.md) |
+| [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | | [PR23](../sessions/PR23.md) |
 | **Semi Finals**
 | [Freya's Squad](../organisations/astorrel/squads/freyas-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | | [PR24](../sessions/PR24.md) |
 | [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | | [AA09](../sessions/AA09.md) |

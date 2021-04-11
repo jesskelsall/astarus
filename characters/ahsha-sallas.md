@@ -26,6 +26,20 @@
 
 Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Billie.
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Standard | 15 | 14 | 13 | 12 | 10 | 8 | 72 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d10 | 10 | 9 | 8 | 4 |
+
 ## Backstory
 
 Ahsha Sallas was born in the town of [Mockerkin](../places/towns/mockerkin.md) to [Arsha Sallas](arsha-sallas.md) (orc father) and [Felina Sallas](felina-sallas.md) (human mother).

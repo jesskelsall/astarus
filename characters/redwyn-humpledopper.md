@@ -26,6 +26,20 @@
 
 Redwyn Humpledopper is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Logan.
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Standard | 15 | 14 | 13 | 12 | 10 | 8 | 72 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d8 | 8 | 6 | 6 | 7 |
+
 ## Backstory
 
 Redwyn Humpledopper was born in the town of Carnmere. They have a brother.

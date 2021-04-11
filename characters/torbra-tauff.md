@@ -20,10 +20,24 @@
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
-| **Image ID** | `c275fac3807fe83b`<br />`e7cc21ea436f896e` ([sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
+| **Image ID** | `c275fac3807fe83b`<br />`e7cc21ea436f896e` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 
 TODO
+
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 16 | 12 | 12 | 10 | 10 | 8 | 68 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d10 | 10 | 9 | 5 | 9 |
 
 ## Backstory

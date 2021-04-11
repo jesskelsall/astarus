@@ -46,6 +46,20 @@ Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/astorrel/asto
 | Ambitions | Wishes to usher in an age of peace in Astor. |
 | Dislikes | Fighting. |
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 18 | 16 | 14 | 12 | 11 | 10 | 81 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d8 | 8 | 8 | 3 | 4 |
+
 ## History
 
 ### Backstory

@@ -26,6 +26,20 @@
 
 Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Lily.
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 17 | 16 | 15 | 12 | 12 | 8 | 80
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d8 | 8 | 6 | 4 | 7 |
+
 ## Backstory
 
 Ephaine Seren was born in the village of Filisur to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../ethnicities/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
