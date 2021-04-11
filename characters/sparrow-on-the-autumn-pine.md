@@ -11,20 +11,20 @@
 | **Class** | Ranger (Swarmkeeper) |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
-| **Places** | [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md) |
+| **Places** | [Northhaven](../places/cities/northhaven.md) (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
-| **Commanding Officer** | [Linton Harkness](linton-harkness.md) |
+| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br />*Former:*<br />Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
+| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `41e0b0962f18eb6b` |
 
 ## Summary
 
-Sparrow on the Autumn Pine is an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) in [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md).
+Sparrow on the Autumn Pine is a city-dwelling naturist with a penchant for wasps. He is very familiar with [Northhaven](../places/cities/northhaven.md) and sneaking around urban areas.
 
 ## Characteristics
 

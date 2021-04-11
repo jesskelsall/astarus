@@ -1,7 +1,5 @@
 # Torbra Tauff
 
-TODO
-
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c275fac3807fe83b.png" height="500" />
 
 |||
@@ -16,10 +14,16 @@ TODO
 | **Places** | Iredale |
 |||
 | **Citizenship** | |
-| **Organisation** | |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Phenomena / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
+| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
+| **Subordinates** | |
 |||
 | **Image ID** | `c275fac3807fe83b`<br />`e7cc21ea436f896e` ([sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
+
+TODO
 
 ## Backstory

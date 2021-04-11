@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Komodo Squad | squad.2
-| **Role** | TODO KOMODO |
+| **Role** | City / [Dunmore](../../../places/cities/dunmore.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | |
 | **Squad Hands** | [Faelon Fireburner](../../../characters/faelon-fireburner.md)<br />TODO KOMODO |

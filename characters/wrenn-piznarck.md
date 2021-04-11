@@ -16,8 +16,8 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | City / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
-| **Commanding Officer** | [Carras Southroot](carras-southroot.md) |
+| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br />*Former:*<br />City / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | `90c164c51822cd1a` |

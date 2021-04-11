@@ -16,13 +16,13 @@
 | **Rank** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) |
 | **Role** | City / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | [Norsha Costello](norsha-costello.md) |
-| **Subordinates** | [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| **Subordinates** | |
 |||
 | **Image ID** | |
 
 ## Summary
 
-He is a negligent squad sergeant that gives their squads too much lenience and self-direction. In particular the secret affairs of [Astral squad](../organisations/astorrel/squads/astral-squad.md) is a manifestation of this negligence.
+He is a negligent squad sergeant that gives their squads too much lenience and self-direction. In particular the secret affairs of [Astral squad](../organisations/astorrel/squads/astral-squad.md) is a manifestation of this negligence. As a result [Astral Squad](../organisations/astorrel/squads/astral-squad.md) was taken from his command.
 
 ## Characteristics
 

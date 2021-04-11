@@ -8,7 +8,7 @@
 | **Squad Lead** | [Darjonkaargeac Hidaar](../../../characters/darjonkaargeac-hidaar.md) |
 | **Squad Hands** | [Emi Rulsay](../../../characters/emi-rulsay.md)<br />[Sarleen Truestriker](../../../characters/sarleen-truestriker.md)<br />[Sparrow on the Autumn Pine](../../../characters/sparrow-on-the-autumn-pine.md) |
 
-| [Darjonkaargeac Hidaar](../../../characters/darjonkaargeac-hidaar.md) | [Emi Rulsay](../../../characters/emi-rulsay.md) | [Sarleen Truestriker](../../../characters/sarleen-truestriker.md) | [Sparrow on the Autumn Pine](../../../characters/sparrow-on-the-autumn-pine.md) |
+| [Darjonkaargeac Hidaar](../../../characters/darjonkaargeac-hidaar.md) | [Emi Rulsay](../../../characters/emi-rulsay.md) | [Sarleen Truestriker](../../../characters/sarleen-truestriker.md) | *Unknown* |
 |:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="400" /> | 
 

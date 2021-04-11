@@ -1,21 +1,26 @@
 # Tyburn Dalvos
 
-| []() | |
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="500" />
+
+|||
 | --- | --- |
-| **Name** | Tyburn Dalvos |
+| **Name** | Tyburn Dalvos | character.3
 | **Race** | Human |
-| **Gender** | Male |
+| **Pronouns** | he/him |
 | **Age** | 50 |
 | **Class** | Cleric (Knowledge Domain) |
-| **Alignment** | |
-| **Affiliation** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md)<br />[Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Worship** | [Malnesh](../gods/deities/malnesh.md) |
+| **Relations** | |
+| **Places** | |
+|||
+| **Citizenship** | |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
+| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br />*Former:*<br />City / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
-| **Worship** | |
-| **Relations** | |
-| **Acquaintances** | |
-| **From** | |
-| **Places** | |
+|||
+| **Image ID** | |
 
 ## Summary
 
@@ -23,22 +28,20 @@ TODO
 
 ## Characteristics
 
-| Appearance | Description |
+| | |
 | --- | --- |
-| Face | |
-| Hair | |
-| Body | |
-| Clothes | |
-| Mannerisms | |
-
-| Personality | Description |
-| --- | --- |
-| Voice | |
-| Quirks | |
-| Knowledge | |
-| Values | |
-| Ambitions | |
-| Dislikes | |
+| **Face** | | characteristics.2
+| **Hair** | |
+| **Body** | |
+| **Clothes** | |
+| **Voice** | |
+| **Mannerisms** | |
+| | |
+| **Quirks** | |
+| **Knowledge** | |
+| **Values** | |
+| **Ambitions** | |
+| **Dislikes** | |
 
 ## History
 

@@ -18,7 +18,7 @@
 | **Rank** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) |
 | **Role** | Forest |
 | **Commanding Officer** | [Mindira Flibfae](mindira-flibfae.md) |
-| **Subordinates** | Birch Squad |
+| **Subordinates** | [Birch Squad](../organisations/astorrel/squads/birch-squad.md) |
 |||
 | **Image ID** | `3e22248438b88633` |
 

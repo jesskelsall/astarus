@@ -1,7 +1,5 @@
 # Wizira
 
-TODO
-
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b6ddf2e960574729.png" height="500" />
 
 |||
@@ -16,10 +14,16 @@ TODO
 | **Places** | [Hawkswood](../places/forests/hawkswood.md) (birthplace) |
 |||
 | **Citizenship** | |
-| **Organisation** | |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Phenomena / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
+| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
+| **Subordinates** | |
 |||
 | **Image ID** | `b6ddf2e960574729`<br />`bb3dea6e19d5c6c0` ([sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
+
+TODO
 
 ## Backstory

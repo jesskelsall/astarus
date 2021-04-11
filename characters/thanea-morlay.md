@@ -1,7 +1,5 @@
 # Thanea Morlay
 
-TODO
-
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/db42750c63a0a387.png" height="500" />
 
 |||
@@ -16,10 +14,16 @@ TODO
 | **Places** | Bootle (birthplace) |
 |||
 | **Citizenship** | |
-| **Organisation** | |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Phenomena / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
+| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
+| **Subordinates** | |
 |||
 | **Image ID** | `db42750c63a0a387`<br />`d6b2165277f78c23` ([sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
+
+TODO
 
 ## Backstory
