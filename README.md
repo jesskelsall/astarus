@@ -10,18 +10,3 @@ Here you will find all of my notes on Astarus, its people, places, and events - 
 
 - [Astarus](astarus/README.md): the world itself.
 - [Campaigns](campaigns/README.md): D&D campaigns set in Astarus.
-
-## Commands
-
-Automatically applying markdown links:
-
-```bash
-alias ml="node ../../../Sandbox/markdownLinks.js"
-```
-Cropping Hero Forge image exports:
-
-```bash
-function hfc() {
-  convert $1 -crop 1200x2048+400+0 $1
-}
-```
