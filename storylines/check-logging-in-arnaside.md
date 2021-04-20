@@ -64,32 +64,14 @@ Kulegar is shocked at the sight of the surviving kobold. On sight of the kobold 
 
 The party heads deeper into the forest, following the kobold tracks. They avoid another tension spikes trap before coming across the mouth of a cave.
 
-## Planning
+### [AA04](../sessions/AA04.md)
 
-- [Arnaside](../places/villages/arnaside.md) is built as a logging and small scale farming town.
-- Mostly self sufficient, but uses logging money to buy things it can't make.
-- People set up the town to get away from all the problems the kingdom brings.
-- They worship [Malnesh](../gods/deities/malnesh.md) at their shrine.
-- No inn, only a tavern. Ran by a dragonborn. Party can sleep in the inn overnight, as there's not really anywhere else to stay.
-- Poor logging output since the spring.
-- Traps left in the forest, several injuries. At least one each: amputation, death.
-- [Astornox](../organisations/astornox/astornox.md) rarely visit and are happy to leave them alone.
-- Precious supplies going missing in the night.
-- Sound of creatures descending on the town. Too scared to act.
-- Missing supplies hard to replace due to no wood money. Vicious cycle.
-- House of a gnome has been vandalised several times. Gnome has seen them.
+At the mouth of the cave, the party sends [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) inside to try and negotiate with the kobolds. She soon realises that they don't speak common before getting frustrated and casting Vicious Mockery on one of them, provoking them into combat.
 
-Adventure:
+As she runs from the cave, the rest of the party moves in defensively while trying to diffuse the situation. Ahsha disarms one of their spear and breaks it. Ephaine drags the captive kobold into the cave and unties it with Ahsha's help. It darts into the cave before they can stop it. Ephaine mends the spear with Mending and hands it back. The encounter ends without further bloodshed.
 
-- Traps in the forest make finding the Kobolds a pain.
-- Delving too deep runs them into a poorly thought out forest ambush.
-- Waiting for night leads to a Kobold raid which can be ambushed.
-- Kobolds only speak draconic except for the more dangerous ones, which speak common.
-- Following them back at night leads to a better prepared and more deadly ambush.
-- Entering their burrows/caves is a constant escalating fight with money at the end.
+The party heads back to [Arnaside](../places/villages/arnaside.md) to tell [Nenra Zossa](../characters/nenra-zossa.md) of their findings. They speak with [Kulegar Bronhor](../characters/kulegar-bronhor.md), advising him to suspend logging operations for now. They meet [Sharakas](../characters/sharakas.md) who is a dragonborn that speaks draconic. They struggle to convince him to help, but after learning a few key draconic words from him, he agrees to join them, in part because of his infatuation with [Whisper on the Breeze](../characters/whisper-on-the-breeze.md).
 
-Outcomes:
+In the morning the party returns to the mouth of the cave with [Sharakas](../characters/sharakas.md). Here he manages to communicate them through the cave mouth. They agree to come out and meet with them. Six kobold dragonshields emerge, insisting that [Sharakas](../characters/sharakas.md) and one other go with them into the cave to meet their leader. [Ahsha Sallas](../characters/ahsha-sallas.md) agrees after negotiating that two dragonshields will remain behind as collateral.
 
-- Exterminate the Kobolds.
-- Ward the Kobolds off by thinning their ranks and/or creating traps for them.
-- Empower the townspeople by teaching them to fight or getting better guard presence for the town.
+Ahsha and [Sharakas](../characters/sharakas.md) are blindfolded with grain sacks and lead into the cave while the rest of the party and the dragonshields wait outside.

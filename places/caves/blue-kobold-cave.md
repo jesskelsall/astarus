@@ -23,4 +23,4 @@ The inner sanctum features 4 angled hexagonal pillars made of the same surroundi
 
 ## Map
 
-<img src="../../../images/battlemaps/blue-kobold-cave.png" width="80%" />
+<img src="../../images/battlemaps/blue-kobold-cave.png" width="80%" />
