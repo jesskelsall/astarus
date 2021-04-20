@@ -1,7 +1,5 @@
 # Tonnol Grisham
 
-# Character Template
-
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c764616ac3a4a74f.png" height="500" />
 
 |||
@@ -18,7 +16,7 @@
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
 | **Rank** | [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md) |
-| **Role** | Settlement / [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) |
+| **Role** | Settlements / [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||

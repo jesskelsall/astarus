@@ -6,7 +6,7 @@
 | --- | --- |
 | **Name** | Faelon Fireburner | character.3
 | **Race** | Human |
-| **Pronouns** | TODO KOMODO |
+| **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Fighter (Eldritch Knight) |
 | **Worship** | TODO KOMODO |
@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | TODO KOMODO / [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) Squad |
+| **Role** | TODO KOMODO / [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||

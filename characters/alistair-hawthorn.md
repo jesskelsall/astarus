@@ -16,7 +16,7 @@
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
 | **Rank** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) |
-| **Role** | Settlement / [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) |
+| **Role** | Settlements / [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
