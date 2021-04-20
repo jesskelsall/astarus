@@ -1,8 +1,8 @@
-# Freya's Squad
+# Gloom Squad
 
 | []() | |
 | --- | --- |
-| **Squad Name** | Freya's Squad | squad.2
+| **Squad Name** | Gloom Squad | squad.2
 | **Role** | |
 | **Commanding Officer** | |
 | **Squad Lead** | |
@@ -14,4 +14,4 @@
 
 ## Summary
 
-Freya's Squad is from the same [Astorrel](../astorrel.md) graduate cohort as [Canary Squad](canary-squad.md). They are participating in the [Nature's Battle](../../../storylines/natures-battle.md) tournament and are played by guests.
+Gloom Squad is from the same [Astorrel](../astorrel.md) graduate cohort as [Canary Squad](canary-squad.md). They are participating in the [Nature's Battle](../../../storylines/natures-battle.md) tournament and are played by guests.

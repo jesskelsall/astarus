@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Urban Expansion / [Freya's Squad](../organisations/astorrel/squads/freyas-squad.md) |
+| **Role** | Urban Expansion / [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
