@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [AA02](../sessions/AA02.md) | storyline.2
-| **Session Ended** | |
+| **Session Ended** | [AA05](../sessions/AA05.md) |
 
 ## Summary
 
@@ -23,6 +23,32 @@ In reality, the people of [Arnaside](../places/villages/arnaside.md) have not be
 | **Evidence Required** | Written report, names of any responsible for over-logging. |
 | **Time Limit** | 14 days |
 | **Bounty** | Squad Hand: 20 gp |
+
+## Mission Report
+
+### Mission Outcome
+
+| Detail | Skill Check | Roll |
+| --- |:---:|:---:|
+| Bandit attack on the [Coastal Trail](../places/roads/coastal-trail.md). | Persuasion | 0 |
+| [Arnaside](../places/villages/arnaside.md) were having trouble with unknown creatures. | Persuasion | 16 |
+| The creatures were kobolds. | Persuasion | 16 |
+| The squad ambushed some kobolds during the day, capturing one. | Persuasion | 16 |
+| They met a dragonborn named [Sharakas](../characters/sharakas.md) who spoke draconic. | Persuasion | 8 |
+| Ahsha and [Sharakas](../characters/sharakas.md) went into the [Blue Kobold Cave](../places/caves/blue-kobold-cave.md) and negotiated a peace treaty for [Arnaside](../places/villages/arnaside.md). | Persuasion | 16 |
+| Account of [Ikra](../characters/ikra.md), their leader: distrustful, aggressive, ready for violence. | Persuasion | 17 |
+| [Nenra Zossa](../characters/nenra-zossa.md) agreed to the peace treaty that was negotiated for them. | Persuasion | 16 |
+| The [Astorrel](../organisations/astorrel/astorrel.md) should help [Arnaside](../places/villages/arnaside.md) to log responsibly. | Persuasion | 11 |
+| [Arnaside](../places/villages/arnaside.md) is built around the worship of [Malnesh](../gods/deities/malnesh.md). | Persuasion | 7 |
+
+### Squad Performance
+
+| Dice | Character | Justification | Roll |
+|:---:| --- | --- |:---:|
+| d12 | [Ahsha Sallas](../characters/ahsha-sallas.md) | Was the negotiator, secured a peaceful resolution. | 6 |
+| d10 | [Ephaine Seren](../characters/ephaine-seren.md) | Good judgement, quick to act. Sometimes too quick. | 2 |
+| d8 | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) | Good all-rounder, fighting prowess, perceptive. | 1 |
+| d6 | [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) | Provoked combat in the cave, low combat contributions. | 5 |
 
 ## History
 
@@ -75,3 +101,19 @@ The party heads back to [Arnaside](../places/villages/arnaside.md) to tell [Nenr
 In the morning the party returns to the mouth of the cave with [Sharakas](../characters/sharakas.md). Here he manages to communicate them through the cave mouth. They agree to come out and meet with them. Six kobold dragonshields emerge, insisting that [Sharakas](../characters/sharakas.md) and one other go with them into the cave to meet their leader. [Ahsha Sallas](../characters/ahsha-sallas.md) agrees after negotiating that two dragonshields will remain behind as collateral.
 
 Ahsha and [Sharakas](../characters/sharakas.md) are blindfolded with grain sacks and lead into the cave while the rest of the party and the dragonshields wait outside.
+
+### [AA05](../sessions/AA05.md)
+
+[Ahsha Sallas](../characters/ahsha-sallas.md) and [Sharakas](../characters/sharakas.md) are lead into the cave, coming face to face with the blue kobold leader, [Ikra](../characters/ikra.md). When it becomes apparent that he speaks common, Ahsha is able to negotiate herself. She explains that she is here to help protect the forest and wishes to negotiate a peace treaty between the kobolds and the village of [Arnaside](../places/villages/arnaside.md).
+
+She struggles to explain currency and even trade to [Ikra](../characters/ikra.md), but pushes through the frustration and manages. [Ikra](../characters/ikra.md) offers first their large polished turquoise gemstone and then their [Blue Dragon Scale Necklace](../items/blue-dragon-scale-necklace.md) as payment to be left alone indefinitely, but Ahsha refuses, instead asking [Ikra](../characters/ikra.md) what the kobolds need. They need food and leather to survive.
+
+Ahsha manages to convince them that the villagers can provide them food and leather in exchange for staying away from their cave. [Ikra](../characters/ikra.md) provides a kobold dragonshield and two kobold inventors who will show Ahsha where the boundary will be, and will install a supplies cage (drop box) so the deal can be facilitated.
+
+Meanwhile outside the cave the rest of the party fight a pack of boars including a large boar who find [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) on the forest's edge and move to attack. The party fight alongside the kobold dragonshields who pick up their shields and spears when the fight begins. The party successfully kills them all, picking them off one by one. The kobolds are able to take the boars as food back into the cave.
+
+When Ahsha and [Sharakas](../characters/sharakas.md) return, they inform the party of the deal. They all make their way back to the logging line where the kobolds show of their territory's boundary. Ahsha gets them to mark the trees to make it clearer, and the cage is installed.
+
+The party head back into [Arnaside](../places/villages/arnaside.md) and tell [Nenra Zossa](../characters/nenra-zossa.md) and [Kulegar Bronhor](../characters/kulegar-bronhor.md) of the deal they've made on their behalf. Nenra is wary, but believes it may work, and is willing to give it a try for the sake of the village. In appreciation of their efforts, the village hold a feast that night for the party.
+
+By morning the party heads off for [Northhaven](../places/cities/northhaven.md), [Clay Mullen](../characters/clay-mullen.md) driving the coach they hired once again. It takes them 3 days to return to the city. On their return they spend the night in [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) before they report to [Bryce Morton](../characters/bryce-morton.md) in the morning. Ahsha works with Bryce to write her mission report before Bryce hands her the squad's earnings for her to pass out.

@@ -44,3 +44,9 @@ In the immediate aftermath of the fight, Kur does not remember waking up the fir
 When [Levelle Tristwix](../characters/levelle-tristwix.md) visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), they explain that due to the [Astornox](../organisations/astornox/astornox.md) killed on their way through [Northhaven](../places/cities/northhaven.md), if they were to leave the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), they would likely be killed.
 
 This is in reference to [Vilnia Kovas](../characters/vilnia-kovas.md)' death specifically, though Levelle isn't aware of Kur's quest for revenge.
+
+### [AA05](../sessions/AA05.md)
+
+On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../places/villages/arnaside.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party) from [sanctuary](../organisations/astorrel/sanctuary.md).
+
+[Ephaine Seren](../characters/ephaine-seren.md) sees [Kur Merkys](../characters/kur-merkys.md) watching the stronghold gatehouse from a nearby rooftop, lying down and presuming he is hidden.
