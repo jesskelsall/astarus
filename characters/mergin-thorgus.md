@@ -16,7 +16,7 @@
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Captain](../organisations/astorrel/ranks/astorrel-captain.md) |
-| **Role** | City / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
 | **Subordinates** | [Norsha Costello](norsha-costello.md) (Lieutenant)<br />[Samantha Ilis](samantha-ilis.md) (Lieutenant) |
 |||

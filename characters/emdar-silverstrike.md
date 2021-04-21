@@ -16,7 +16,7 @@
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) |
-| **Role** | City / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | [Samantha Ilis](samantha-ilis.md) |
 | **Subordinates** | [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) |
 |||

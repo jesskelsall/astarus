@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) |
-| **Role** | Phenomena<br />*Former:*<br />City / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) ([Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md)) |
+| **Role** | Phenomena<br />*Former:*<br />Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) ([Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md)) |
 | **Commanding Officer** | TODO [PURPLE RAIN](../campaigns/purple-rain/purple-rain.md) |
 | **Subordinates** | [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
 |||

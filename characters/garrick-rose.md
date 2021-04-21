@@ -16,7 +16,7 @@
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Guard Sergeant](../organisations/astorrel/ranks/astorrel-guard-sergeant.md) |
-| **Role** | City / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
 | **Subordinates** | [Graf Stozitsk](graf-stozitsk.md)<br />[Sesen Nusk](sesen-nusk.md) |
 |||

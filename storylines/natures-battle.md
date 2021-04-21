@@ -18,12 +18,12 @@ These 8 [Astorrel](../organisations/astorrel/astorrel.md) squads will be competi
 | Squad | Role | Players |
 | --- | --- | --- |
 | [Birch Squad](../organisations/astorrel/squads/birch-squad.md) | Forests | NPCs |
-| [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | City / [Northhaven](../places/cities/northhaven.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) |
+| [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | Cities / [Northhaven](../places/cities/northhaven.md) | [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) |
 | [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) | Urban Expansion | Guests |
 | [Horizon Squad](../organisations/astorrel/squads/horizon-squad.md) | Sea | NPCs |
-| [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | City / [Dunmore](../places/cities/dunmore.md) | Guests |
-| [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) | City / [Eskrigg](../places/cities/eskrigg.md) | NPCs |
-| [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | City / [Northhaven](../places/cities/northhaven.md) | NPCs |
+| [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | Cities / [Dunmore](../places/cities/dunmore.md) | Guests |
+| [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) | Cities / [Eskrigg](../places/cities/eskrigg.md) | NPCs |
+| [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | Cities / [Northhaven](../places/cities/northhaven.md) | NPCs |
 | [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | Phenomena | [Purple Rain](../campaigns/purple-rain/purple-rain.md) |
 
 ## Matches

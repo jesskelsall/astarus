@@ -14,7 +14,7 @@
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) |
-| **Role** | City / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | [Mergin Thorgus](mergin-thorgus.md) |
 | **Subordinates** | [Carras Southroot](carras-southroot.md) |
 |||
