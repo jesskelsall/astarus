@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Druid |
-| **Worship** | [Kirrel](../gods/deities/kirrel.md) |
+| **Worship** | [Kirrel](../gods/deities/kirrel.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Wizira's Father](wiziras-father.md) (father) |
 | **Places** | [Hawkswood](../places/forests/hawkswood.md) (birthplace) |
 |||

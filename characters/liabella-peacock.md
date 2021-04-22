@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | 42 |
 | **Class** | |
-| **Worship** | |
+| **Worship** | [Bhygar](../gods/deities/bhygar.md) |
 | **Relations** | |
 | **Places** | |
 |||

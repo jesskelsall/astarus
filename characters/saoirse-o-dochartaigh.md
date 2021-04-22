@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Warlock |
-| **Worship** | Effie Silttooth (patron) |
+| **Worship** | Effie Silttooth (patron)<br />[Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | |
 | **Places** | |
 |||

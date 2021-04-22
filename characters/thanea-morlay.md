@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Sorcerer |
-| **Worship** | |
+| **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | |
 | **Places** | Bootle (birthplace) |
 |||

@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Fighter |
-| **Worship** | |
+| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Emelina Tauff](emelina-tauff.md) (adoptive mother)<br />[Ealo Tauff](ealo-tauff.md) (adoptive father)<br />[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Astornox Captain](../organisations/astornox/ranks/astornox-captain.md): Iredale)<br />[Teresa Resk](teresa-resk.md) (Hjalmann's wife) |
 | **Places** | Iredale |
 |||
