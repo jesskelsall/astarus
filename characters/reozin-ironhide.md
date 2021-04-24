@@ -30,12 +30,12 @@ Reozin Ironhide is a [Mortar Squad](../organisations/astorrel/squads/mortar-squa
 
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
+| **Face** | Dark skin, bull's face with lighter nose. Large horns that curl into a second loop. | characteristics.2
+| **Hair** | Brown and shaggy down to collar bone. Fuzzy brown body hair. |
+| **Body** | 7'3" / 221cm. Wide muscular build. |
+| **Clothes** | Black diagonally wrapped cloth over torso, barely covering chest. Leather warrior's skirt with leather and metal embellishments. |
+| **Voice** | Super deep male voice. American accent. |
+| **Mannerisms** | Towers over everyone. Stands close and looks down to intimidate. Exudes confidence / bravado. |
 | | |
 | **Quirks** | |
 | **Knowledge** | |

@@ -31,13 +31,13 @@ These 8 [Astorrel](../organisations/astorrel/astorrel.md) squads will be competi
 | Squads | Winner | Session |
 | --- | --- |:---:|
 | **Quarter Finals**
-| [Birch Squad](../organisations/astorrel/squads/birch-squad.md)<br />[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | N/A |
-| [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md)<br />[Horizon Squad](../organisations/astorrel/squads/horizon-squad.md) | [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) | N/A |
 | [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />[Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | | [AA08](../sessions/AA08.md) |
+| [Birch Squad](../organisations/astorrel/squads/birch-squad.md)<br />[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | N/A |
 | [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | | [PR23](../sessions/PR23.md) |
+| [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md)<br />[Horizon Squad](../organisations/astorrel/squads/horizon-squad.md) | [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) | N/A |
 | **Semi Finals**
-| [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | | [PR24](../sessions/PR24.md) |
 | [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) | | [AA09](../sessions/AA09.md) |
+| [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | | [PR24](../sessions/PR24.md) |
 | **Final**
 | [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | | [AA09](../sessions/AA09.md) |
 
