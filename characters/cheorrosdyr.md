@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Cheorrosdyr | character.3
 | **Race** | Dragon |
-| **Pronouns** | |
+| **Pronouns** | she/her |
 | **Age** | |
 | **Class** | |
 | **Worship** | |

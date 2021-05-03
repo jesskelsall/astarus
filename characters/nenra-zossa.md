@@ -1,19 +1,22 @@
 # Nenra Zossa
 
-| []() | |
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/36713dc09e920e8d.png" height="500" />
+
+|||
 | --- | --- |
-| **Name** | Nenra Zossa |
+| **Name** | Nenra Zossa | character.3
 | **Race** | Human |
-| **Gender** | Female |
+| **Pronouns** | she/her |
 | **Age** | 62 |
 | **Class** | |
-| **Alignment** | |
-| **Affiliation** | Drigg |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
-| **Relations** | Grice Zossa (husband, deceased) |
-| **Acquaintances** | [Kulegar Bronhor](kulegar-bronhor.md) (friend) |
-| **From** | |
-| **Places** | [The Malneshitas](../places/buildings/temples/the-malneshitas.md) |
+| **Relations** | Grice Zossa (husband, deceased)<br />[Kulegar Bronhor](kulegar-bronhor.md) (friend) |
+| **Places** | Eaglesfield (birthplace)<br />[The Malneshitas](../places/buildings/temples/the-malneshitas.md) |
+|||
+| **Citizenship** | |
+| **Organisation** | |
+|||
+| **Image ID** | `36713dc09e920e8d` |
 
 ## Summary
 
@@ -23,22 +26,20 @@ She is devout and wise, devoting her life to [Malnesh](../gods/deities/malnesh.m
 
 ## Characteristics
 
-| Appearance | Description |
+| | |
 | --- | --- |
-| Face | Tanned skin. Missing left eye. Sagging and weathered. Permanent motherly smile. |
-| Hair | Dark grey shoulder length bob. |
-| Body | 5'8", normal build. |
-| Clothes | Black robe with hood, hood down. Left cuff is blue, right cuff is red. |
-| Mannerisms | Energetic for someone of her age. |
-
-| Personality | Description |
-| --- | --- |
-| Voice | Low female register. Foreign eastern European accent. |
-| Quirks | Always talks like she's giving a sermon. |
-| Knowledge | [Malnesh](../gods/deities/malnesh.md) |
-| Values | |
-| Ambitions | |
-| Dislikes | |
+| **Face** | Tanned skin. Missing left eye. Sagging and weathered. Permanent motherly smile. | characteristics.2
+| **Hair** | Dark grey shoulder length bob. |
+| **Body** | 5'8", normal build. |
+| **Clothes** | Black robe with hood, hood down. Left cuff is blue, right cuff is red. |
+| **Voice** | Low female register. Foreign eastern European accent. |
+| **Mannerisms** | Energetic for someone of her age. |
+| | |
+| **Quirks** | Always talks like she's giving a sermon. |
+| **Knowledge** | [Malnesh](../gods/deities/malnesh.md) |
+| **Values** | |
+| **Ambitions** | |
+| **Dislikes** | |
 
 ## History
 
@@ -52,11 +53,11 @@ After he died of old age 4 years ago, she has been running [Arnaside](../places/
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### Trouble in [Arnaside](../places/villages/arnaside.md)
 
 Nenra Zossa is in [the Malneshitas](../places/buildings/temples/the-malneshitas.md) when the party arrives in [Arnaside](../places/villages/arnaside.md).
 
-When the party enters the temple, at first she assumes that they are here to join the village as Malneshi. She has no concept of the [Astorrel](../organisations/astorrel/astorrel.md).
+When the party enters the temple, at first she assumes that they are here to join the village as Malneshi.
 
 She is acutely aware that creatures in the [Walna Forest](../places/forests/walna-forest.md) are disrupting the village's ability to log wood, but believes that her worship will help the village weather the situation.
 
