@@ -34,7 +34,7 @@ Vilnia Kovas is an [Astorrel](../organisations/astorrel/astorrel.md) Hunter base
 | Hair | Ash brown, neck length, braided at its ends and tied into a bun behind the neck. |
 | Body | 5'11" / 180cm, thin. |
 | Clothes | Ankle length trench coat with light tan panelling and brown details, delicate sky blue button up shirt, grey pants, gold bordered thigh pads, dark leather boots. |
-| Mannerisms | Calm and purposeful. Voice of reason. |
+| Mannerisms | Calm and purposeful. Authoritative speech. |
 
 | Personality | Description |
 | --- | --- |
@@ -45,10 +45,24 @@ Vilnia Kovas is an [Astorrel](../organisations/astorrel/astorrel.md) Hunter base
 | Ambitions | |
 | Dislikes | |
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 17 | 14 | 13 | 13 | 11 | 7 | 75 |
+
+### Hit Points
+
+| Hit Die | 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|:---:|
+| d6 | 6 | 6 | 2 | 3 |
+
 ## History
 
-## Planning
+### Backstory
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+Vilnia grew up in [Dunmore](../places/cities/dunmore.md) where she had a quiet and humble family upbringing. A social outcast that was instead fascinated with books and eager to read, she came across an arcane tome in a second-hand bookshop and was immediately taken by it. Soon she discovered that she was able to access its arcane knowledge, discovering that she is [magicborn](../civilisations/kingdom-of-astor/magicborn.md). In particular she was drawn to magic that she could use to converse with others.
 
-Just before reaching the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), the party will face Vilnia Kovas and [Kur Merkys](kur-merkys.md) as they ambush the party to apprehend them.
+Keen to learn more she joined the [Astornox](../organisations/astornox/astornox.md). Her magical prowess developed more towards ice magic as she climbed the ladder, eventually drawing the attention of the [Astornox magicborn hunters](../organisations/astornox/ranks/astornox-magicborn-hunter.md) who offered her a position. She has spent the last few years rounding up [magicborn on the run](../storylines/magicborn-on-the-run.md), feeling increasingly confident of her abilities, and keen to progress her [Astornox](../organisations/astornox/astornox.md) career further.
