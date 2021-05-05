@@ -1,7 +1,5 @@
 # Kulegar Bronhor
 
-# Character Template
-
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/95f1f0d3663cc695.png" height="500" />
 
 |||
