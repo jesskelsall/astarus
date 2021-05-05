@@ -5,11 +5,11 @@
 |||
 | --- | --- |
 | **Name** | Brian | character.3
-| **Race** | TODO FREYA |
-| **Pronouns** | TODO FREYA |
-| **Age** | |
-| **Class** | TODO FREYA |
-| **Worship** | TODO FREYA |
+| **Race** | Human |
+| **Pronouns** | he/him |
+| **Age** | 32 |
+| **Class** | Barbarian (Path of the Beast) |
+| **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
 | **Places** | |
 |||

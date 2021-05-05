@@ -9,7 +9,7 @@
 | **Pronouns** | they/he |
 | **Age** | |
 | **Class** | Ranger (Swarmkeeper) |
-| **Worship** | TODO FREYA |
+| **Worship** | [Gormox](../gods/deities/gormox.md) |
 | **Relations** | |
 | **Places** | |
 |||

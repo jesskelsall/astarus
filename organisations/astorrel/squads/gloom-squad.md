@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Gloom Squad | squad.2
-| **Role** | |
+| **Role** | Urban Expansion |
 | **Commanding Officer** | |
 | **Squad Lead** | |
 | **Squad Hands** | [Brian](../../../characters/brian.md)<br />[Moss Gloomhollow](../../../characters/moss-gloomhollow.md)<br />[Norma Collarbone](../../../characters/norma-collarbone.md)<br />[Ophelia Phantom](../../../characters/ophelia-phantom.md) |

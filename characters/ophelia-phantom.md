@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Cleric (Twilight Domain) |
-| **Worship** | TODO FREYA |
+| **Worship** | [Bhygar](../gods/deities/bhygar.md) |
 | **Relations** | |
 | **Places** | |
 |||

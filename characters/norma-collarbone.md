@@ -6,10 +6,10 @@
 | --- | --- |
 | **Name** | Norma Collarbone | character.3
 | **Race** | Human |
-| **Pronouns** | TODO FREYA |
+| **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Druid (Circle of the Shepherd) |
-| **Worship** | TODO FREYA |
+| **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | |
 | **Places** | |
 |||
