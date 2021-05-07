@@ -21,6 +21,6 @@
 | Derk | he/him | `NL 🇳🇱` | `dovertje#2838` | | Guest | [Norma Collarbone](../characters/norma-collarbone.md) |
 | Tiva | she/her/they/them | `NL 🇳🇱` | `tivaap#0891` | | Guest | [Brian](../characters/brian.md) |
 | Ian | he/him | `GB 🇬🇧` | `Ianoshorty#2662` | | Guest | [Faelon Fireburner](../characters/faelon-fireburner.md) |
-| Charles | he/him | `GB 🇬🇧` | `charlesharries#1571` | | Guest | |
-| Scott | he/him | `GB 🇬🇧` | `iScottJS#9320` | | Guest | |
 | Dan | he/him | `GB 🇬🇧` | `Fwack#8906` | | Guest | |
+| John | he/him | `GB 🇬🇧` | `Tankedturnip01#7349` | | Guest | |
+| Scott | he/him | `GB 🇬🇧` | `iScottJS#9320` | | Guest | |

@@ -1,15 +1,15 @@
-# Faelon Fireburner
+# Eremus Vitur
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/01303eea1b96f6a2.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/92627975e0570fb3.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Faelon Fireburner | character.3
-| **Race** | Human |
+| **Name** | Eremus Vitur | character.3
+| **Race** | Half-orc |
 | **Pronouns** | he/him |
 | **Age** | |
-| **Class** | Fighter (Eldritch Knight) |
-| **Worship** | [Bhygar](../gods/deities/bhygar.md) |
+| **Class** | Barbarian (Path of the Beast) |
+| **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
 | **Places** | |
 |||
@@ -20,8 +20,8 @@
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
-| **Image ID** | `01303eea1b96f6a2` |
+| **Image ID** | `92627975e0570fb3` |
 
 ## Summary
 
-Faelon Fireburner is a guest character for the [Nature's Battle](../storylines/natures-battle.md) tournament, played by Ian.
+Eremus Vitur is a guest character for the [Nature's Battle](../storylines/natures-battle.md) tournament, played by Dan.

@@ -1,14 +1,14 @@
-# Faelon Fireburner
+# Uther Wildfang
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/01303eea1b96f6a2.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/189764647c30271b.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Faelon Fireburner | character.3
-| **Race** | Human |
+| **Name** | Uther Wildfang | character.3
+| **Race** | Goliath |
 | **Pronouns** | he/him |
 | **Age** | |
-| **Class** | Fighter (Eldritch Knight) |
+| **Class** | Barbarian (Path of the Berserker) |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) |
 | **Relations** | |
 | **Places** | |
@@ -20,8 +20,8 @@
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
-| **Image ID** | `01303eea1b96f6a2` |
+| **Image ID** | `189764647c30271b` |
 
 ## Summary
 
-Faelon Fireburner is a guest character for the [Nature's Battle](../storylines/natures-battle.md) tournament, played by Ian.
+Uther Wildfang is a guest character for the [Nature's Battle](../storylines/natures-battle.md) tournament, played by John.
