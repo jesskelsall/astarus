@@ -42,6 +42,6 @@ Cara Treffen is the owner of the [Valley Under the Stars](../places/buildings/in
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)
 
 During session 1, Cara Treffen is not in [Northhaven](../places/cities/northhaven.md) as she has traveled to [Eskrigg](../places/cities/eskrigg.md) on business.

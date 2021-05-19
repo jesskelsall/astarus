@@ -45,7 +45,7 @@ Norsha is a stern lieutenant that believes in due process and accountability.
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Norsha visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) with [Carras Southroot](carras-southroot.md), who they force to come with them. They wish to confront Carras with the gravity of what their negligence has caused, and holds him responsible for retrieving [Wrenn Piznarck](wrenn-piznarck.md).
 

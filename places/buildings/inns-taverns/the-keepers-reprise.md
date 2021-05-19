@@ -56,7 +56,7 @@ The Keeper's Reprise can be seen from the [Humouth](../../villages/humouth.md) m
 
 ### [AA02](../../../sessions/AA02.md)
 
-The [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md) party stopped here with [Clay Mullen](../../../characters/clay-mullen.md) on their way to [Arnaside](../../villages/arnaside.md), particularly as Clay was injured by bandits on the road and needed to rest overnight.
+The [Astorrel Agents](../../../campaigns/astorrel-agents.md) party stopped here with [Clay Mullen](../../../characters/clay-mullen.md) on their way to [Arnaside](../../villages/arnaside.md), particularly as Clay was injured by bandits on the road and needed to rest overnight.
 
 ## Planning
 

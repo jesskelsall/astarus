@@ -44,10 +44,10 @@ He is not much of a people person, typically ignoring most people until they wan
 
 ### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-On graduation day, the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party shopped in [Rhotrukk Wepons](../places/buildings/shops/rhotrukk-wepons.md).
+On graduation day, the [Astorrel Agents](../campaigns/astorrel-agents.md) party shopped in [Rhotrukk Wepons](../places/buildings/shops/rhotrukk-wepons.md).
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)
 
 During session 1, Rhotrukk Bone Bleeder is working at his forge as he always does. On graduation day he pays no mind to the extra influx of customers in his shop.

@@ -68,7 +68,7 @@ Hailing from Selos, a city in the [Nil'Savnic Alliance](../civilisations/nilsavn
 
 Tabari has been mute from a young age. Fortunately he's not big on communication. When he needs to get his point across and fighting won't do, he's able to communicate using the Message cantrip. He only uses this as a last resort though.
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - They are mute. [truth]
 - They are originally from outside of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). [truth]
@@ -76,4 +76,4 @@ Tabari has been mute from a young age. Fortunately he's not big on communication
 
 ### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party has seen Tabari in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.
+The [Astorrel Agents](../campaigns/astorrel-agents.md) party has seen Tabari in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.

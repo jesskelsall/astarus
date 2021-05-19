@@ -30,6 +30,6 @@ The entrance is on its side near the end. When entering, the room opens out to t
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents.md)
 
 The building is closed while the graduation setup is torn down. It remains closed for the rest of the party's time in [Northhaven](../cities/northhaven.md) before setting off on their first mission.

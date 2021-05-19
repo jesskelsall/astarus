@@ -50,6 +50,6 @@ He also told Ahsha that the guards don't go as far as [Arnaside](../places/villa
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)
 
 Roygol Mortisen will either be in [Allonby](../places/villages/allonby.md) or [Humouth](../places/villages/humouth.md) with his 2 new [Astornox guards](../organisations/astornox/ranks/astornox-guard.md), depending on how long the party is in [Arnaside](../places/villages/arnaside.md).

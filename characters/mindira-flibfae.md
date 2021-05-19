@@ -49,7 +49,7 @@ Mindira Flibfae is a big supporter of leaving firbolgs alone in their forest cla
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Mindira meets the party in [sanctuary](../organisations/astorrel/sanctuary.md) along with [Levelle Tristwix](levelle-tristwix.md) on their second visit. She is brought to them to gather evidence and begin formulating a strategy for how to approach the trial. She is keen to talk to [Wizira](wizira.md) and any other useful party members about experiences that illustrate the firbolg plight and the severity of the [Astornox](../organisations/astornox/astornox.md).
 

@@ -48,7 +48,7 @@ Hidaar and [Wrenn Piznarck](wrenn-piznarck.md) have known each other for years. 
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Hidaar sent his squad out in search of a blue firbolg and a grey skinned human after receiving two messages from [Wrenn Piznarck](wrenn-piznarck.md) using Sending:
 
@@ -66,7 +66,7 @@ He ordered his squad hands as follows:
 
 If they didn't find anything, they were to meet him back at [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) House in [Ulburn](../places/villages/ulburn.md).
 
-Hidaar didn't tell his squad that Wrenn believes the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party have information that "will save Astor".
+Hidaar didn't tell his squad that Wrenn believes the [Purple Rain](../campaigns/purple-rain.md) party have information that "will save Astor".
 
 He is very glad to see the party and is very accommodating. He is forthright with what he knows and wants to know what information the party has so he can figure out how to proceed.
 

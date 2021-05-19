@@ -57,7 +57,7 @@ Following the fight, he was in too bad a condition to drive and was placed in th
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)
 
 In the morning Clay will have second thoughts about agreeing to this journey, wishing to head back to [Northhaven](../places/cities/northhaven.md) where he can recover fully.
 

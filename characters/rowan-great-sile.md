@@ -55,7 +55,7 @@ Currently Rowan works out of the [Northhaven Astorrel Stronghold](../places/stro
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Rowan Great Sile visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) after hearing that a firbolg ([Wizira](wizira.md)) is part of the group. He comes at a time he thinks will be quiet.
 

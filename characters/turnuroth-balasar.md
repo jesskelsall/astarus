@@ -42,7 +42,7 @@ Turnuroth Balasar is an [Astorrel Squad Sergeant](../organisations/astorrel/rank
 
 ## History
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - They are favoured by the mentors and given special treatment. [truth]
 - They believe so strongly in the [Astorrel](../organisations/astorrel/astorrel.md) that they don't suffer well those who don't. [truth]

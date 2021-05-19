@@ -11,7 +11,7 @@
 
 ## History
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md) Prelude
+### [Purple Rain](../campaigns/purple-rain.md) Prelude
 
 [Saoirse](../../../astarus/people/saoirse.md)'s father is Mykiel, a deva. As a result of her mother being human and her father being celestial, she was born an aasimar.
 

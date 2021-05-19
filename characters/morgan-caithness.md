@@ -66,7 +66,7 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/astorrel
 
 Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/cities/eskrigg.md) she joined the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme on the promise of good pay for completing missions.
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - Their family lives in abject poverty. [truth]
 - They don't believe in any of the four [gods](../gods/gods.md) and will pledge themselves to one in bad faith. [truth]
@@ -74,4 +74,4 @@ Her family has lived for generations as loggers on the outskirts of [Hawkswood](
 
 ### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-The [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party has seen Morgan in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when she was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).
+The [Astorrel Agents](../campaigns/astorrel-agents.md) party has seen Morgan in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when she was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

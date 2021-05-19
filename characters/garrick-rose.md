@@ -47,7 +47,7 @@ Garrick Rose is an [Astorrel Guard Sergeant](../organisations/astorrel/ranks/ast
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Garrick meets the party as they attempt to seek [sanctuary](../organisations/astorrel/sanctuary.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) with the help of [Sparrow on the Autumn Pine](sparrow-on-the-autumn-pine.md).
 

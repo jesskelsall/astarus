@@ -36,6 +36,6 @@ By the entrance is a counter area from which [Nilus Cray](../../../characters/ni
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
 
 On graduation day the store is busier than usual, but [Nilus Cray](../../../characters/nilus-cray.md) has stocked well and isn't worried. His monotone speech and demeanour brings calm to an otherwise hectic day.

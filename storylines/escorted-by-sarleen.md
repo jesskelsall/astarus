@@ -7,7 +7,7 @@
 
 ## Summary
 
-While the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party attempts to make their way to [Northhaven](../places/cities/northhaven.md) following the capture of [Wrenn Piznarck](../characters/wrenn-piznarck.md), [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) comes to their rescue.
+While the [Purple Rain](../campaigns/purple-rain.md) party attempts to make their way to [Northhaven](../places/cities/northhaven.md) following the capture of [Wrenn Piznarck](../characters/wrenn-piznarck.md), [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) comes to their rescue.
 
 [Sarleen Truestriker](../characters/sarleen-truestriker.md), an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) in [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md), finds the party along the [River Humar](../places/rivers-lakes/river-humar.md) and leads them back to her [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md), [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md).
 

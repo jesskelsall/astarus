@@ -51,13 +51,13 @@ While a Squad Lead, her squad was called **Acre Squad**. [Grant Thackeray](grant
 
 ### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-Levelle Tristwix conducted the graduation of the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party, alongside [Mergin Thorgus](mergin-thorgus.md). They pinned each [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) badge on the party members, and shook their hand.
+Levelle Tristwix conducted the graduation of the [Astorrel Agents](../campaigns/astorrel-agents.md) party, alongside [Mergin Thorgus](mergin-thorgus.md). They pinned each [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) badge on the party members, and shook their hand.
 
 After the graduation presentation, Levelle caught up with [Grant Thackeray](grant-thackeray.md). Together they said hi to [Redwyn Humpledopper](redwyn-humpledopper.md), who ignored Levelle.
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Levelle visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) early in the morning after they arrive in the night. They inform them that she has already heard from her [Astornox](../organisations/astornox/astornox.md) counterpart, TODO [ASTORNOX COMMANDANT](../organisations/astornox/ranks/astornox-commandant.md), that 2 guards and 1 [magicborn](../civilisations/kingdom-of-astor/magicborn.md) hunter ([Vilnia Kovas](vilnia-kovas.md)) were killed as they made their way through [Northhaven](../places/cities/northhaven.md).
 

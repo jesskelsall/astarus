@@ -8,5 +8,7 @@ Here you will find all of my notes on Astarus, its people, places, and events - 
 
 ## Contents
 
-- [Astarus](astarus/README.md): the world itself.
-- [Campaigns](campaigns/README.md): D&D campaigns set in Astarus.
+- [Astarus](planes/astarus.md) - the world itself.
+- Campaigns - D&D campaigns set in [Astarus](planes/astarus.md):
+  - [Purple Rain](campaigns/purple-rain.md)
+  - [Astorrel Agents](campaigns/astorrel-agents.md)

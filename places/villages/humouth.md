@@ -36,6 +36,6 @@ The village itself is tightly clustered around the seafront, set atop a small cl
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents.md)
 
 If the party passes through Humouth on their journey to [Arnaside](arnaside.md), they find the village hunkering down due to heavy winds that often blow through.

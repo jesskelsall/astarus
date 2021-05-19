@@ -42,6 +42,6 @@ Magical items will be periodically available depending on the [players](../../..
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
 
 [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md) can be found standing behind the counter, ever-present. Nobody else will enter the store. She will be vague about the services she provides.

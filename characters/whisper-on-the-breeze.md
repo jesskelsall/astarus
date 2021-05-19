@@ -24,7 +24,7 @@
 
 ## Summary
 
-Whisper on the Breeze is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Brooke.
+Whisper on the Breeze is a player character in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by Brooke.
 
 ## Character Rolls
 
@@ -52,7 +52,7 @@ Once in Astor they settled in the town of Hyceodd, their clan began settling in 
 
 With this, the Clan on the Breeze could take it no longer, and abandoned Whisper in the wilderness, leaving them to fend for themselves. They began to live off the land, travelling east through Astor. Along the way they found imbalances in power and did their bit to restore the balance, the only way they knew how - stealing from the privileged.
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - They are originally from outside of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). [truth]
 - Their father is an [Astornox](../organisations/astornox/astornox.md). [truth]
@@ -60,4 +60,4 @@ With this, the Clan on the Breeze could take it no longer, and abandoned Whisper
 
 ### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-Whisper graduated into the [Astorrel](../organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). Their superior officer is [Bryce Morton](bryce-morton.md). They met up with the rest of the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party before meeting him for the first time. They joined [Canary Squad](../organisations/astorrel/squads/canary-squad.md) alongside [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).
+Whisper graduated into the [Astorrel](../organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). Their superior officer is [Bryce Morton](bryce-morton.md). They met up with the rest of the [Astorrel Agents](../campaigns/astorrel-agents.md) party before meeting him for the first time. They joined [Canary Squad](../organisations/astorrel/squads/canary-squad.md) alongside [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

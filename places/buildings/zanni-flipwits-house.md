@@ -24,6 +24,6 @@ It looks like most of the buildings in [Arnaside](../villages/arnaside.md), exce
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents.md)
 
 [Zanni Flipwit](../../characters/zanni-flipwit.md) is at home when the party arrives.

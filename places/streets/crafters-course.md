@@ -35,7 +35,7 @@ The street slopes down away from [Astor Square](../structures/astor-square.md), 
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents.md)
 
 During graduation day, Crafters Course is packed with the newly graduated [Astorrel](../../organisations/astorrel/astorrel.md) looking to purchase their gear. There may be lines outside of some shops.
 

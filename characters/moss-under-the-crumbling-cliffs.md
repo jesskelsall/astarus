@@ -48,4 +48,4 @@ Moss is secretly a member of the [Astornar](../organisations/astornar.md), taske
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)

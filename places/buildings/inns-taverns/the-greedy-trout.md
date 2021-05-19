@@ -34,7 +34,7 @@ Further along the corridor are the rooms for rent.
 
 ## Planning
 
-### [Purple Rain](../../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../../../campaigns/purple-rain.md)
 
 If the party decides to stay here overnight following their battle with [The Crimson Blades](../../../organisations/the-crimson-blades.md), they will encounter no notoriety.
 

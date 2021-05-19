@@ -42,6 +42,6 @@ No beer is available. Sheep milk and water is however.
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
 
 The bar is empty due to dwindling supplies. [Sharakas](../../../characters/sharakas.md) bemoans the current situation and a lack of anything for him to do.

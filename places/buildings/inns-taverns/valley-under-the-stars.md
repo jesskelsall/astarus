@@ -49,6 +49,6 @@ Due to its upmarket nature, as well as the owner and staff being retired [Astorr
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
 
 During graduation day the inn is full due to [The Mission's End](the-missions-end.md) being packed with graduates. By that evening, it is no longer full but is still very busy.

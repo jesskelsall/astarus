@@ -24,7 +24,7 @@
 
 ## Summary
 
-Noon Schiller is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Chloe.
+Noon Schiller is a player character in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by Chloe.
 
 ## Character Rolls
 
@@ -68,7 +68,7 @@ During [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md)'s firs
 
 [Samantha Ilis](samantha-ilis.md) conferred with her squad sergeants. [Bryce Morton](bryce-morton.md) agreed to trade [Whisper on the Breeze](whisper-on-the-breeze.md) for Noon Schiller, Samantha feeling that there would be benefits to keeping two tabaxi together.
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - Has a beautiful singing voice [truth].
 - He once collapsed a wall with his magic [truth].

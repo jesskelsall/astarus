@@ -44,4 +44,4 @@ While a Squad Hand, Grant was in [Levelle Tristwix](levelle-tristwix.md)'s squad
 
 ### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-Following the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation, Grant caught up with [Levelle Tristwix](levelle-tristwix.md), who he introduced to [Redwyn Humpledopper](redwyn-humpledopper.md) and the rest of the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party. Redwyn made small talk with him.
+Following the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation, Grant caught up with [Levelle Tristwix](levelle-tristwix.md), who he introduced to [Redwyn Humpledopper](redwyn-humpledopper.md) and the rest of the [Astorrel Agents](../campaigns/astorrel-agents.md) party. Redwyn made small talk with him.

@@ -72,9 +72,9 @@ The dream ends. Whisper wakes up in the morning by the fire, feeling content and
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)
 
-As Brooke is no longer playing in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, this storyline has been shelved. These are my original plans in case she ever reprises [Whisper on the Breeze](../characters/whisper-on-the-breeze.md):
+As Brooke is no longer playing in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, this storyline has been shelved. These are my original plans in case she ever reprises [Whisper on the Breeze](../characters/whisper-on-the-breeze.md):
 
 [Valnos](../gods/deities/valnos.md) continues to give Whisper dreams of past events, taking them through events of their life from alternative perspectives. The idea is to provide more context on their upbringing and [Shout on the Breeze](../characters/shout-on-the-breeze.md)'s role in their life.
 

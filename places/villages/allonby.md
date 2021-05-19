@@ -34,7 +34,7 @@ Above the cliffs, cattle graze on the grass when the weather allows it. Farmers 
 
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents.md)
 
 The [players](../../../players/logan.md) may pass through here during either heavy wind or calmer times.
 

@@ -42,7 +42,7 @@ Mordus Shren is the owner and innkeeper of [The Greedy Trout](../places/building
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Mordus Shren will be behind the bar when the party enters, happy to see new faces in their small town. He hopes they'll stay a while.
 

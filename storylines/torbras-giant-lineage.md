@@ -13,7 +13,7 @@
 
 ### Before the Voices
 
-#### [Purple Rain](../campaigns/purple-rain/purple-rain.md) Prelude
+#### [Purple Rain](../campaigns/purple-rain.md) Prelude
 
 Torbra was abandoned as a baby in the Irewood on the opposite side of the [River Humar](../places/rivers-lakes/river-humar.md) from Iredale. Here she was found and adopted by her adoptive parents. Her real parents are unknown.
 
@@ -21,7 +21,7 @@ At the age of five her skin started to turn more grey, and rocky protrusions sta
 
 #### [PR01](../sessions/PR01.md)
 
-In [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) inn, Torbra tells [Alistair Hawthorn](../characters/alistair-hawthorn.md) that she is passing through town on her way to meet a wise sage. When [Wrenn Piznarck](../characters/wrenn-piznarck.md) offers the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party work finding the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor for him, she asks for knowledge as payment - Wrenn will gain her access to a library in [Northhaven](../places/cities/northhaven.md) where she might research her skin pigmentation and rocky back.
+In [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) inn, Torbra tells [Alistair Hawthorn](../characters/alistair-hawthorn.md) that she is passing through town on her way to meet a wise sage. When [Wrenn Piznarck](../characters/wrenn-piznarck.md) offers the [Purple Rain](../campaigns/purple-rain.md) party work finding the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor for him, she asks for knowledge as payment - Wrenn will gain her access to a library in [Northhaven](../places/cities/northhaven.md) where she might research her skin pigmentation and rocky back.
 
 #### [PR10](../sessions/PR10.md)
 

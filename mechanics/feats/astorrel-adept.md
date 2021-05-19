@@ -15,6 +15,6 @@
 
 ## History
 
-### [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../campaigns/astorrel-agents.md)
 
 This feat will be available for selection at level 8.

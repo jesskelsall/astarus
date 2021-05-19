@@ -45,7 +45,7 @@ He is a negligent squad sergeant that gives their squads too much lenience and s
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Carras will visit the party in [sanctuary](../organisations/astorrel/sanctuary.md) along with [Norsha Costello](norsha-costello.md), who will insist on accompanying them. Carras is clearly embarrassed by Norsha who is vocally critical of Carras' failure to keep tabs on [Astral Squad](../organisations/astorrel/squads/astral-squad.md) to the point where [Wrenn Piznarck](wrenn-piznarck.md) went off on their own and is subsequently missing.
 

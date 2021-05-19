@@ -42,10 +42,10 @@ He is a jovial dwarf, happy to serve his customers and share in the revelry when
 
 ## History
 
-Tydrus meets the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party in [AA01](../sessions/AA01.md), continuing into [AA02](../sessions/AA02.md).
+Tydrus meets the [Astorrel Agents](../campaigns/astorrel-agents.md) party in [AA01](../sessions/AA01.md), continuing into [AA02](../sessions/AA02.md).
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)
 
 On graduation day, Tydrus Tinshield is having the time of his life, ecstatic of the extra customers he has had the past few days. He stokes the fire of the perpetual revelry inside his tavern.

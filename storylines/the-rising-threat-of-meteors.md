@@ -13,9 +13,9 @@ Strange meteors are bringing unknown and dangerous creatures to Astor. Their dan
 
 ## History
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md) Prelude
+### [Purple Rain](../campaigns/purple-rain.md) Prelude
 
-6 months prior to the start of the [Purple Rain](../campaigns/purple-rain/purple-rain.md) campaign, [Astral Squad](../organisations/astorrel/squads/astral-squad.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../organisations/astorrel/astorrel.md) mission duties.
+6 months prior to the start of the [Purple Rain](../campaigns/purple-rain.md) campaign, [Astral Squad](../organisations/astorrel/squads/astral-squad.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../organisations/astorrel/astorrel.md) mission duties.
 
 For the last 6 months, a meteor has fallen roughly once a month.
 
@@ -25,7 +25,7 @@ Wrenn intends to find the meteorite and return it to [Northhaven](../places/citi
 
 ### [PR01](../sessions/PR01.md)
 
-[Wrenn Piznarck](../characters/wrenn-piznarck.md) meets the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party, offering them up to 50 gp if they are able to bring him evidence of the meteorite - ideally the meteorite itself.
+[Wrenn Piznarck](../characters/wrenn-piznarck.md) meets the [Purple Rain](../campaigns/purple-rain.md) party, offering them up to 50 gp if they are able to bring him evidence of the meteorite - ideally the meteorite itself.
 
 ### [PR06](../sessions/PR06.md)
 

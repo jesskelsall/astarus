@@ -17,7 +17,7 @@
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) |
 | **Role** | Phenomena<br />*Former:*<br />Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) ([Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md)) |
-| **Commanding Officer** | TODO [PURPLE RAIN](../campaigns/purple-rain/purple-rain.md) |
+| **Commanding Officer** | TODO [PURPLE RAIN](../campaigns/purple-rain.md) |
 | **Subordinates** | [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
 |||
 | **Image ID** | `81d3db8d3e3009cd` |
@@ -47,7 +47,7 @@ She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Elysia comes to see the party in [sanctuary](../organisations/astorrel/sanctuary.md) to find out what has happened to [Wrenn Piznarck](wrenn-piznarck.md), having heard rumours in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) of his disappearance.
 
@@ -63,9 +63,9 @@ She sent [Wrenn Piznarck](wrenn-piznarck.md) to [Goldreach](../civilisations/kin
 | Silethwaite Meteorite | 4mo ago | [Alos Varkann](alos-varkann.md) investigated alone. | Evidence of strange creatures causing havoc and their den. |
 | [Tresenda Pass](../places/roads/tresenda-pass.md) Meteorite | 3mo ago | Not yet investigated. | |
 | Carnmere Meteorite | 1mo ago | [Wrenn Piznarck](wrenn-piznarck.md) investigated alone. Secretly hired [the Crimson Blades](../organisations/the-crimson-blades.md) to help him. Fled. | No evidence found. |
-| [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md) | 1wk ago | [Wrenn Piznarck](wrenn-piznarck.md) investigated alone. | [Purple Rain](../campaigns/purple-rain/purple-rain.md) party found creatures and the meteorite. Wrenn captured by [the Crimson Blades](../organisations/the-crimson-blades.md). |
+| [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md) | 1wk ago | [Wrenn Piznarck](wrenn-piznarck.md) investigated alone. | [Purple Rain](../campaigns/purple-rain.md) party found creatures and the meteorite. Wrenn captured by [the Crimson Blades](../organisations/the-crimson-blades.md). |
 
-6 months prior to the start of the [Purple Rain](../campaigns/purple-rain/purple-rain.md) campaign, [Astral Squad](../organisations/astorrel/squads/astral-squad.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../organisations/astorrel/astorrel.md) mission duties.
+6 months prior to the start of the [Purple Rain](../campaigns/purple-rain.md) campaign, [Astral Squad](../organisations/astorrel/squads/astral-squad.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../organisations/astorrel/astorrel.md) mission duties.
 
 For the last 6 months, a meteor has fallen roughly once a month.
 

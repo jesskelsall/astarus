@@ -24,7 +24,7 @@
 
 ## Summary
 
-Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Billie.
+Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by Billie.
 
 ## Character Rolls
 
@@ -56,7 +56,7 @@ During her [Astorrel](../organisations/astorrel/astorrel.md) training in [Dunmor
 
 In her spare time she likes to read the Dwarves at Sea novels and sing orcish battle shanties.
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - They got into a fight with one of their mentors. [truth]
 - The mentors favoured them over the other students. [truth]
@@ -64,4 +64,4 @@ In her spare time she likes to read the Dwarves at Sea novels and sing orcish ba
 
 ### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-Ahsha graduated into the [Astorrel](../organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party before meeting him for the first time. She joined [Canary Squad](../organisations/astorrel/squads/canary-squad.md) alongside [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).
+Ahsha graduated into the [Astorrel](../organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../campaigns/astorrel-agents.md) party before meeting him for the first time. She joined [Canary Squad](../organisations/astorrel/squads/canary-squad.md) alongside [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

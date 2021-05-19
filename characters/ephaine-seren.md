@@ -24,7 +24,7 @@
 
 ## Summary
 
-Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) campaign, played by Lily.
+Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by Lily.
 
 ## Character Rolls
 
@@ -64,7 +64,7 @@ Ephaine sought the [Astorrel](../organisations/astorrel/astorrel.md), knowing th
 
 Reaching [Northhaven](../places/cities/northhaven.md), she sought [sanctuary](../organisations/astorrel/sanctuary.md) and was subsequently accepted to the [Astorrel](../organisations/astorrel/astorrel.md) training programme, placing her outside of the jurisdiction of the [Astornox](../organisations/astornox/astornox.md).
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - They used to sleep in the sheep pens as a child. [truth]
 - They once attacked another student for implying that they got her family killed for their crimes. [truth]
@@ -72,4 +72,4 @@ Reaching [Northhaven](../places/cities/northhaven.md), she sought [sanctuary](..
 
 ### [Astorrel Graduation](../storylines/astorrel-graduation.md)
 
-Ephaine graduated into the [Astorrel](../organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party before meeting him for the first time. She joined [Canary Squad](../organisations/astorrel/squads/canary-squad.md) alongside [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).
+Ephaine graduated into the [Astorrel](../organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../campaigns/astorrel-agents.md) party before meeting him for the first time. She joined [Canary Squad](../organisations/astorrel/squads/canary-squad.md) alongside [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

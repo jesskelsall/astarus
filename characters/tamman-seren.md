@@ -29,6 +29,6 @@ After this, Tamman watched on as his sister quickly departed to seek the [sanctu
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)
 
 [Ephaine Seren](ephaine-seren.md) has had no contact with her brother since she left. She doesn't know if he is still alive.

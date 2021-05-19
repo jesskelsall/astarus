@@ -23,7 +23,7 @@
 
 [Thanea](../../../astarus/people/thanea.md) once again dreams of the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor on its way to impact north west of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). Looking closer she sees a glowing figure with bright glowing wings (her deva, Seraphina) attempting fruitlessly to stop the meteor, latched to its front, flapping their wings and attempting to slow its fall. The meteor impacts all the same.
 
-The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) in a crater in the forest, before the forest around it begins burning purple flames. She witnesses [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md)'s interior on fire, as well as the barn at [Hurley Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hurley-farm.md) on fire, with the burning bodies of the rest of the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party within.
+The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) in a crater in the forest, before the forest around it begins burning purple flames. She witnesses [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md)'s interior on fire, as well as the barn at [Hurley Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hurley-farm.md) on fire, with the burning bodies of the rest of the [Purple Rain](../campaigns/purple-rain.md) party within.
 
 ### [PR07](../sessions/PR07.md)
 

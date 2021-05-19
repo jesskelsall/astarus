@@ -15,7 +15,7 @@
 
 ### [AA04](../../sessions/AA04.md)
 
-This skill was added to the [Astorrel Agents](../../campaigns/astorrel-agents/astorrel-agents.md) party's character sheets before [AA04](../../sessions/AA04.md). In addition to the INT modifier, a modifier was added that was determined by a d20 roll during [AA00](../../sessions/AA00.md). This was then converted using the Ability Scores and Modifiers table (PHB p173).
+This skill was added to the [Astorrel Agents](../../campaigns/astorrel-agents.md) party's character sheets before [AA04](../../sessions/AA04.md). In addition to the INT modifier, a modifier was added that was determined by a d20 roll during [AA00](../../sessions/AA00.md). This was then converted using the Ability Scores and Modifiers table (PHB p173).
 
 It was suggested that those with negative d20 modifiers in particular would improve their skill over time through application of study. This would be manually adjusted as part of the homebrew nature of this skill.
 

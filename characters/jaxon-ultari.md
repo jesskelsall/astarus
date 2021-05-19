@@ -52,6 +52,6 @@ Jaxon tries to convince her to stay but doesn't try too hard.
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/astorrel-agents.md)
 
 If the party returns to [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md), Jaxon may be here again, looking to play [Twenties](../mechanics/roleplay/twenties.md).

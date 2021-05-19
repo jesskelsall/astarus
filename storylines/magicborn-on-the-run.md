@@ -7,7 +7,7 @@
 
 ## Summary
 
-After [Wrenn Piznarck](../characters/wrenn-piznarck.md) accidentally tells [Alistair Hawthorn](../characters/alistair-hawthorn.md) that he knows [Wizira](../characters/wizira.md), Wrenn and the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party flee [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) as fugitives, hoping for [sanctuary](../organisations/astorrel/sanctuary.md) at the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
+After [Wrenn Piznarck](../characters/wrenn-piznarck.md) accidentally tells [Alistair Hawthorn](../characters/alistair-hawthorn.md) that he knows [Wizira](../characters/wizira.md), Wrenn and the [Purple Rain](../campaigns/purple-rain.md) party flee [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) as fugitives, hoping for [sanctuary](../organisations/astorrel/sanctuary.md) at the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
 
 ## History
 
@@ -25,7 +25,7 @@ This sends [Alistair Hawthorn](../characters/alistair-hawthorn.md) into a rage. 
 
 ### [PR08](../sessions/PR08.md)
 
-On the way back to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md), the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party attempts to stop in at [Nightcrest Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/nightcrest-farm.md), seeking the hospitality of Arneg Tanagark for an overnight stay. They find his door open, a disturbance inside, and a small blood splatter in the courtyard.
+On the way back to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md), the [Purple Rain](../campaigns/purple-rain.md) party attempts to stop in at [Nightcrest Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/nightcrest-farm.md), seeking the hospitality of Arneg Tanagark for an overnight stay. They find his door open, a disturbance inside, and a small blood splatter in the courtyard.
 
 The party is approached by an [Astornox Guard Corporal](../organisations/astornox/ranks/astornox-guard-corporal.md) and an [Astornox Guard](../organisations/astornox/ranks/astornox-guard.md) who inform them that the farm is off limits after Arneg was taken into custody as a suspected [magicborn](../civilisations/kingdom-of-astor/magicborn.md) harbourer.
 

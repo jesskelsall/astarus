@@ -69,7 +69,7 @@ Showing magical potential from a young age, his father saw to his private tutela
 
 His sister Aisling held this against their father, promising to Diarmuid that the pair of them would out-shine him in good time. Together they planned to join the [Astorrel](../organisations/astorrel/astorrel.md) to excel on their own terms. Here Diarmuid flourished out from under his father's heavy expectations, developing into a confident and capable wizard, ready to show his father just how wrong he was.
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - He is the twin brother of [Aisling Kavanagh](aisling-kavanagh.md). [true]
 - His parents nurtured his magical abilities before he joined the [Astorrel](../organisations/astorrel/astorrel.md). [truth]

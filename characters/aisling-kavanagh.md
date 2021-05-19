@@ -69,7 +69,7 @@ She was her father's favourite of his two twin children. Naturally gifted in fig
 
 Due to her witnessing her father looking down on her brother [Diarmuid Kavanagh](diarmuid-kavanagh.md), she has vowed to out-shine her father, driving her and her brother to join the [Astorrel](../organisations/astorrel/astorrel.md) rather than the [Astornox](../organisations/astornox/astornox.md). It is very important to her that she does it together with Diarmuid in order to prove to her father that he isn't as weak as he believes.
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - She is the twin sister of [Diarmuid Kavanagh](diarmuid-kavanagh.md). [truth]
 - She once killed someone to protect [Diarmuid Kavanagh](diarmuid-kavanagh.md). [truth]

@@ -7,7 +7,7 @@
 
 ## Summary
 
-As [magicborn on the run](magicborn-on-the-run.md), the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party seek [sanctuary](../organisations/astorrel/sanctuary.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md). They are offered it by [Garrick Rose](../characters/garrick-rose.md), [Astorrel Guard Sergeant](../organisations/astorrel/ranks/astorrel-guard-sergeant.md). While here they must find a way to resolve their conflict with the [Astornox](../organisations/astornox/astornox.md).
+As [magicborn on the run](magicborn-on-the-run.md), the [Purple Rain](../campaigns/purple-rain.md) party seek [sanctuary](../organisations/astorrel/sanctuary.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md). They are offered it by [Garrick Rose](../characters/garrick-rose.md), [Astorrel Guard Sergeant](../organisations/astorrel/ranks/astorrel-guard-sergeant.md). While here they must find a way to resolve their conflict with the [Astornox](../organisations/astornox/astornox.md).
 
 ## History
 
@@ -41,4 +41,4 @@ With the party offered as stakes in the trial, either outcome will see the party
 
 ### [AA05](../sessions/AA05.md)
 
-On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../places/villages/arnaside.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party) from [sanctuary](../organisations/astorrel/sanctuary.md).
+On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../places/villages/arnaside.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../campaigns/purple-rain.md) party) from [sanctuary](../organisations/astorrel/sanctuary.md).

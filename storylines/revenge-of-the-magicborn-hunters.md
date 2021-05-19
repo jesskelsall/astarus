@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Astornox magicborn hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) [Vilnia Kovas](../characters/vilnia-kovas.md) is killed by the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party as they defend themselves while seeking [sanctuary](../organisations/astorrel/sanctuary.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md). Her partner [Kur Merkys](../characters/kur-merkys.md) swears revenge at any cost.
+[Astornox magicborn hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) [Vilnia Kovas](../characters/vilnia-kovas.md) is killed by the [Purple Rain](../campaigns/purple-rain.md) party as they defend themselves while seeking [sanctuary](../organisations/astorrel/sanctuary.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md). Her partner [Kur Merkys](../characters/kur-merkys.md) swears revenge at any cost.
 
 ## History
 
@@ -47,6 +47,6 @@ This is in reference to [Vilnia Kovas](../characters/vilnia-kovas.md)' death spe
 
 ### [AA05](../sessions/AA05.md)
 
-On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../places/villages/arnaside.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../campaigns/purple-rain/purple-rain.md) party) from [sanctuary](../organisations/astorrel/sanctuary.md).
+On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../places/villages/arnaside.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../campaigns/purple-rain.md) party) from [sanctuary](../organisations/astorrel/sanctuary.md).
 
 [Ephaine Seren](../characters/ephaine-seren.md) sees [Kur Merkys](../characters/kur-merkys.md) watching the stronghold gatehouse from a nearby rooftop, lying down and presuming he is hidden.

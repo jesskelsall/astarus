@@ -39,7 +39,7 @@ Payment is taken at the doorway and a room key is given. This is then presented 
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
 
 Prior to session 1, the party has (individually) been staying in The Mission's End since arriving in [Northhaven](../../cities/northhaven.md) 1-4 days ago. They have not been allowed to leave the building until the graduation ceremonies began.
 

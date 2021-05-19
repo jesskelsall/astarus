@@ -47,7 +47,7 @@ Linton is a diligent squad sergeant with high expectations of her squads. She's 
 
 ## Planning
 
-### [Purple Rain](../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../campaigns/purple-rain.md)
 
 Linton Harkness visits the squad in [sanctuary](../organisations/astorrel/sanctuary.md) to apologise on behalf of [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md), taking it upon herself to do so. She hopes that [Darjonkaargeac Hidaar](darjonkaargeac-hidaar.md) and the rest of the squad treated them well and weren't a hindrance.
 

@@ -66,7 +66,7 @@ Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/astorrel/asto
 
 Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme to escape his home life, graduating after only two years.
 
-### [Two Truths and a Lie](../campaigns/astorrel-agents/two-truths-and-a-lie.md)
+### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - Their parents are high ranking [Astorrel](../organisations/astorrel/astorrel.md). [truth]
 - They are a pacifist. [truth]
@@ -74,6 +74,6 @@ Born into the family of a city captain, Darius' mother's fire elemental lineage 
 
 ### [AA01](../sessions/AA01.md)
 
-The [Astorrel Agents](../campaigns/astorrel-agents/astorrel-agents.md) party found Darius following the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/deities/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
+The [Astorrel Agents](../campaigns/astorrel-agents.md) party found Darius following the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/deities/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
 
 The party has seen Darius in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

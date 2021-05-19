@@ -48,6 +48,6 @@ The interior is mostly stone with wooden beams and a vaulted roof providing deco
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../../campaigns/purple-rain.md)
 
 When the party arrives at [Goshawk Squad](../../organisations/astorrel/squads/goshawk-squad.md) House, only [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md) and the [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) are here. [Spoor Squad](../../organisations/astorrel/squads/spoor-squad.md) are out on a mission.

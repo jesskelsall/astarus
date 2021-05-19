@@ -36,7 +36,7 @@ Inside are large barrels of components, each containing ladles for measuring qua
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
 
 On graduation day, [Ormila Grizgrep](../../../characters/ormila-grizgrep.md) is stood outside of her shop, enticing people into her shop with her voice.
 

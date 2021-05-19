@@ -48,7 +48,7 @@ The Sanctum is the building in the [Northhaven Astorrel Stronghold](../stronghol
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain/purple-rain.md)
+### [Purple Rain](../../campaigns/purple-rain.md)
 
 The Sanctum is completely empty when the party arrive. An [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) is fetched by [Garrick Rose](../../characters/garrick-rose.md)'s other guard to check the party in, recording their names in a large tome.
 
