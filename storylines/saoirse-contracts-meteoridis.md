@@ -38,3 +38,7 @@ This is a clear manifestation of her compulsion to stay near to Meteoric Dust.
 While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), Torbra questions Saoirse directly about why she carries the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor around everywhere she goes. She explains that she wants to protect it and probably likes it more than the rest of the party. Thanea defends her, noting that [Elysia Vanderboss](../characters/elysia-vanderboss.md) considers the meteorite and pouch of meteoric dust to be important.
 
 When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visits a second time she sees Saoirse in the bathroom clutching the meteorite, refusing to leave. When Elysia leaves she gives Saoirse a perplexed look.
+
+### [PR20](../sessions/PR20.md)
+
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) learns that there is something magical about the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md), but the anti-magic field present inside [The Sanctum](../places/buildings/the-sanctum.md) makes it impossible for her to learn any more than that.

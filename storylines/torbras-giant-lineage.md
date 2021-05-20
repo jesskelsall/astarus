@@ -73,3 +73,7 @@ While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](..
 As the rune's magic takes hold of the paper, Torbra sees the rune's lines sink into the page, exposing an orange-brown glow from between the paper and the lines. Suddenly the anti-magic field present around [The Sanctum](../places/buildings/the-sanctum.md) asserts itself, ending the visual effect, much to Torbra's frustration.
 
 *[Torbra Taff unlocks the ability to create the Stone Rune at will]*
+
+### [PR20](../sessions/PR20.md)
+
+During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md), the party is asked point-blank if they are [magicborn](../civilisations/kingdom-of-astor/magicborn.md). [Torbra Tauff](../characters/torbra-tauff.md) replies that she isn't sure.

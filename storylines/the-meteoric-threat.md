@@ -1,4 +1,4 @@
-# The Rising Threat of Meteors
+# The Meteoric Threat
 
 # Storyline
 
@@ -66,3 +66,7 @@ The party agrees to do so, finding her trustworthy.
 When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visited the party again in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), she made her intent clear. If the [Astorrel](../organisations/astorrel/astorrel.md) win the [Astornar](../organisations/astornar.md) trial over [the firbolg controversy](the-firbolg-controversy.md), she would use her remaining political influence to try and get the party instated as an [Astorrel](../organisations/astorrel/astorrel.md) squad and work alongside her squad on the meteoric threat.
 
 When she asks the party if they would be interested in doing so, they respond in a non-committal manner, not wishing at such an early stage.
+
+### [PR20](../sessions/PR20.md)
+
+Following the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md), [Levelle Tristwix](../characters/levelle-tristwix.md) makes the party an offer to join the [Astorrel](../organisations/astorrel/astorrel.md). As part of this they vaguely mention that [Elysia Vanderboss](../characters/elysia-vanderboss.md) has informed them of the work her squad has been doing, and that the [Purple Rain](../campaigns/purple-rain.md) party's help in continuing that work would be appreciated.

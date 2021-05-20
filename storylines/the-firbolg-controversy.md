@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [PR15](../sessions/PR15.md) | storyline.2
-| **Session Ended** | |
+| **Session Ended** | [PR20](../sessions/PR20.md) |
 
 ## Summary
 
@@ -47,6 +47,16 @@ While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](..
 
 [Elysia Vanderboss](../characters/elysia-vanderboss.md) hinted that an [Astornar](../organisations/astornar.md) trial between the [Astorrel](../organisations/astorrel/astorrel.md) and [Astornox](../organisations/astornox/astornox.md) over the firbolg controversy may be imminent. This was then confirmed when [Levelle Tristwix](../characters/levelle-tristwix.md) and [Carras Southroot](../characters/carras-southroot.md) came to visit. They explained what was at stake as part of the trial and encouraged the party to share any information they could to help the [Astorrel](../organisations/astorrel/astorrel.md) win.
 
-## Planning
+### [PR20](../sessions/PR20.md)
 
-### Campaign Name
+The [Astornar](../organisations/astornar.md) trial for the firbolg controversy takes place.
+
+Prior to the [Purple Rain](../campaigns/purple-rain.md) party's arrival for the witness phase, the debate phase takes place. The [Astorrel](../organisations/astorrel/astorrel.md)'s argument is lead by [Rowan Great Sile](../characters/rowan-great-sile.md).
+
+During the witness phase, [Wizira](../characters/wizira.md) is called as the [Astorrel](../organisations/astorrel/astorrel.md)'s primary witness of what happened to [Wizira's Father](../characters/wiziras-father.md), with the aim of painting their plight as sympathetic and indicative of the hardships faced by many firbolgs. [Wizira](../characters/wizira.md) gives an accurate testimony on the circumstances of her father's disappearance as well as the lengths the party and her have gone to while trying to get him back.
+
+[Alistair Hawthorn](../characters/alistair-hawthorn.md)'s testimony reveals that [Wizira's Father](../characters/wiziras-father.md) was apprehended for casting magic that was witnessed by the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../organisations/astornox/astornox.md), resulting in his capture for being [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
+
+The trial's verdict, delivered by [Corville Thornox](../characters/corville-thornox.md), ruled that firbolgs are people of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) like any other, meaning they are held accountable to its laws and customs. However firbolgs that remained in their clans away from civilisation would be under the protection of the [Astorrel](../organisations/astorrel/astorrel.md), with interference by the [Astornox](../organisations/astornox/astornox.md) forbidden. This verdict was a compromise of sorts.
+
+With that, the [Astornar](../organisations/astornar.md) had made their call, ending the controversy in its current form and making the rights of firbolgs explicit to both the [Astornox](../organisations/astornox/astornox.md) and the [Astorrel](../organisations/astorrel/astorrel.md).

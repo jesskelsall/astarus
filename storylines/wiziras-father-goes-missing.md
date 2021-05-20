@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [PR01](../sessions/PR01.md) | storyline.2
-| **Session Ended** | |
+| **Session Ended** | [PR20](../sessions/PR20.md) |
 
 ## Summary
 
@@ -72,3 +72,13 @@ The [Letter to Wizira from Levelle Tristwix](../papers/letters/letter-to-wizira-
 Later when [Levelle Tristwix](../characters/levelle-tristwix.md) and [Mindira Flibfae](../characters/mindira-flibfae.md) visit they reveal that there will be an [Astornar](../organisations/astornar.md) trial for [the firbolg controversy](the-firbolg-controversy.md). Both the party and [Wizira's Father](../characters/wiziras-father.md) have been put up as stakes, in joint agreement between the [Astornox](../organisations/astornox/astornox.md) and [Astorrel](../organisations/astorrel/astorrel.md). This means that whichever organisation wins the trial will take custody of them all.
 
 Torbra is shocked at this revelation. Levelle encourages the party to work with them both to help them win the trial. Their first hand experiences and character evidence may be the difference between success and failure.
+
+### [PR20](../sessions/PR20.md)
+
+The [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md) takes place, which will determine [Wizira's Father](../characters/wiziras-father.md)'s fate.
+
+[Wizira](../characters/wizira.md) provides testimony regarding her father's disappearance from [Wizira's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/wiziras-house.md) on the edge of the [Hawkswood](../places/forests/hawkswood.md). [Alistair Hawthorn](../characters/alistair-hawthorn.md)'s testimony reveals that some [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../organisations/astornox/astornox.md) on patrol witnessed him casting Produce Flame, and so apprehended him as a known [magicborn](../civilisations/kingdom-of-astor/magicborn.md), taking him into custody in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) before sending him onwards towards [Northhaven](../places/cities/northhaven.md).
+
+During the break while the [Astornar](../organisations/astornar.md) generals are deliberating their verdict, [Levelle Tristwix](../characters/levelle-tristwix.md) tells [Wizira](../characters/wizira.md) that they have learned that her father is still being held by the [Astornox](../organisations/astornox/astornox.md) in Eaglesfield as they refused to transport him to [Northhaven](../places/cities/northhaven.md) for the trial.
+
+[Corville Thornox](../characters/corville-thornox.md) gives the verdict of the trial. It includes the ruling that [Wizira's Father](../characters/wiziras-father.md) is to remain in the custody of the [Astornox](../organisations/astornox/astornox.md), who will continue to process him for conscription.

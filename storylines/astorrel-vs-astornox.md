@@ -34,3 +34,9 @@ While in [sanctuary](../organisations/astorrel/sanctuary.md) [Levelle Tristwix](
 ### [AA05](../sessions/AA05.md)
 
 On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../places/villages/arnaside.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../campaigns/purple-rain.md) party) from [sanctuary](../organisations/astorrel/sanctuary.md).
+
+### [PR20](../sessions/PR20.md)
+
+During the [Astornar](../organisations/astornar.md) trial for [the firbolg controversy](the-firbolg-controversy.md), [Levelle Tristwix](../characters/levelle-tristwix.md) tells [Corville Thornox](../characters/corville-thornox.md) that the [Astorrel](../organisations/astorrel/astorrel.md) will pay the [Purple Rain](../campaigns/purple-rain.md) party's fines of 8,000 gp as a gesture of good will towards the [Astornox](../organisations/astornox/astornox.md). Following the verdict, [Levelle Tristwix](../characters/levelle-tristwix.md) tells the party that relations between the two organisations have been strained, and they hope this will go some way towards healing that.
+
+When [Itharmund Steeleye](../characters/itharmund-steeleye.md) comes over to speak with Levelle, he is relaxed, congratulating Levelle on a hard fought trial, finding middle ground in the pair gaining at least something they wanted.
