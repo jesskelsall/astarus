@@ -29,7 +29,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 
 | [AA00](../sessions/AA00.md) | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [AA01](../sessions/AA01.md) | [AA02](../sessions/AA02.md) | [AA03](../sessions/AA03.md) | [AA04](../sessions/AA04.md) | [AA05](../sessions/AA05.md) | [AA06](../sessions/AA06.md) | [AA07](../sessions/AA07.md) | [AA08](../sessions/AA08.md) | [AA09](../sessions/AA09.md)
+| [AA01](../sessions/AA01.md) | [AA02](../sessions/AA02.md) | [AA03](../sessions/AA03.md) | [AA04](../sessions/AA04.md) | [AA05](../sessions/AA05.md) | [AA06](../sessions/AA06.md) | [AA07](../sessions/AA07.md) | [AA08](../sessions/AA08.md) | [AA09](../sessions/AA09.md) | [AA10](../sessions/AA10.md) |
 
 ## Storylines
 

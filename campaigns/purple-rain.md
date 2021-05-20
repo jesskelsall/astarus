@@ -31,7 +31,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [PR01](../sessions/PR01.md) | [PR02](../sessions/PR02.md) | [PR03](../sessions/PR03.md) | [PR04](../sessions/PR04.md) | [PR05](../sessions/PR05.md) | [PR06](../sessions/PR06.md) | [PR07](../sessions/PR07.md) | [PR08](../sessions/PR08.md) | [PR09](../sessions/PR09.md) | [PR10](../sessions/PR10.md) |
 | [PR11](../sessions/PR11.md) | [PR12](../sessions/PR12.md) | [PR13](../sessions/PR13.md) | [PR14](../sessions/PR14.md) | [PR15](../sessions/PR15.md) | [PR16](../sessions/PR16.md) | [PR17](../sessions/PR17.md) | [PR18](../sessions/PR18.md) | [PR19](../sessions/PR19.md) | [PR20](../sessions/PR20.md) |
-| [PR21](../sessions/PR21.md) | [PR22](../sessions/PR22.md) | [PR23](../sessions/PR23.md) | [PR24](../sessions/PR24.md)
+| [PR21](../sessions/PR21.md) | [PR22](../sessions/PR22.md) | [PR23](../sessions/PR23.md) | [PR24](../sessions/PR24.md) | [PR25](../sessions/PR25.md) | [PR26](../sessions/PR26.md) |
 
 ## Storylines
 
