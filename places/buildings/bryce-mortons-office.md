@@ -26,11 +26,3 @@ back wall is big bookcase covered in books. door in middle of bookcase.
 | Smells | Dark oak wood, books. |
 | People | |
 | Intrigue | A sumptuously decorated room that exudes both wealth and power. |
-
-## History
-
-### [Astorrel Graduation](../../storylines/astorrel-graduation.md)
-
-The [Astorrel Agents](../../campaigns/astorrel-agents.md) party came here to meet [Bryce Morton](../../characters/bryce-morton.md), their new superior officer. Here they became [Canary Squad](../../organisations/astorrel/squads/canary-squad.md), alongside [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md).
-
-From here on out, the party must return here to complete their missions and be given new ones.

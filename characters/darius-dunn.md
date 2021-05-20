@@ -71,9 +71,3 @@ Born into the family of a city captain, Darius' mother's fire elemental lineage 
 - Their parents are high ranking [Astorrel](../organisations/astorrel/astorrel.md). [truth]
 - They are a pacifist. [truth]
 - They were abandoned by their parents. [lie]
-
-### [AA01](../sessions/AA01.md)
-
-The [Astorrel Agents](../campaigns/astorrel-agents.md) party found Darius following the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation due to the yellow marking of [Valnos](../gods/deities/valnos.md) on his forehead. He stood mostly silently with the party until [Grant Thackeray](grant-thackeray.md) and [Levelle Tristwix](levelle-tristwix.md) came over to chat.
-
-The party has seen Darius in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

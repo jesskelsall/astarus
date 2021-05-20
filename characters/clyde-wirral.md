@@ -39,15 +39,3 @@ He expects to be taking over the family business soon, allowing his father to re
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-On graduation day, the [Astorrel Agents](../campaigns/astorrel-agents.md) party shopped in [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md). [Ahsha Sallas](ahsha-sallas.md) received her chain mail armour from Clyde when returning at sunset.
-
-## Planning
-
-### [Astorrel Agents](../campaigns/astorrel-agents.md)
-
-During graduation day, Clyde Wirral is perpetually in the back room preparing orders for people, until sundown when he and his father pass armour sets over the counter to those who have returned.

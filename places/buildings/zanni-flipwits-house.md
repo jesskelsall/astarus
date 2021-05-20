@@ -16,14 +16,8 @@ Zanni Flipwit's house is a house in the village of [Arnaside](../villages/arnasi
 
 It looks like most of the buildings in [Arnaside](../villages/arnaside.md), except that the grass roof has been mostly burned to death and has yet to recover.
 
-## Places
-
-## Vendor
-
-## History
-
 ## Planning
 
-### [Astorrel Agents](../../campaigns/astorrel-agents.md)
+### Trouble in [Arnaside](../villages/arnaside.md)
 
 [Zanni Flipwit](../../characters/zanni-flipwit.md) is at home when the party arrives.

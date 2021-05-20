@@ -52,11 +52,3 @@ The clan wished to be left alone against the wishes of the [Astorrel](../organis
 While working for the [Astorrel](../organisations/astorrel/astorrel.md), Rowan saw the good that the organisation was trying to do for nature and committed to helping them more fervently. His knowledge and drive propelled him up the ranks as far as [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) under the Major of Forests.
 
 Currently Rowan works out of the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), helping to coordinate efforts to preserve the forests and their denizens. He still likes to get out into the forests himself wherever possible. This hands on approach makes him a more effective leader.
-
-## Planning
-
-### [Purple Rain](../campaigns/purple-rain.md)
-
-Rowan Great Sile visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) after hearing that a firbolg ([Wizira](wizira.md)) is part of the group. He comes at a time he thinks will be quiet.
-
-He is interested to know where [Wizira](wizira.md)'s clan is from and why she is no longer with them. His goals are twofold: to learn about her to benefit their work, and out of racial solidarity / curiosity.

@@ -51,13 +51,3 @@ The Keeper's Reprise can be seen from the [Humouth](../../villages/humouth.md) m
 | --- | --- | --- |
 | Inn stay (modest), single room | 4 sp |
 | Inn stay (modest), double room | 6 sp | Two single beds |
-
-## History
-
-### [AA02](../../../sessions/AA02.md)
-
-The [Astorrel Agents](../../../campaigns/astorrel-agents.md) party stopped here with [Clay Mullen](../../../characters/clay-mullen.md) on their way to [Arnaside](../../villages/arnaside.md), particularly as Clay was injured by bandits on the road and needed to rest overnight.
-
-## Planning
-
-### Campaign Name

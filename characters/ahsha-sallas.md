@@ -61,7 +61,3 @@ In her spare time she likes to read the Dwarves at Sea novels and sing orcish ba
 - They got into a fight with one of their mentors. [truth]
 - The mentors favoured them over the other students. [truth]
 - They has a criminal past. [lie]
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-Ahsha graduated into the [Astorrel](../organisations/astorrel/astorrel.md) as an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). Her superior officer is [Bryce Morton](bryce-morton.md). She met up with the rest of the [Astorrel Agents](../campaigns/astorrel-agents.md) party before meeting him for the first time. She joined [Canary Squad](../organisations/astorrel/squads/canary-squad.md) alongside [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

@@ -41,11 +41,3 @@ He was the mentor of [Ephaine Seren](ephaine-seren.md).
 | Values | Rank, prestige. Academic knowledge. |
 | Ambitions | Desperately wants to be promoted to [Astorrel Captain](../organisations/astorrel/ranks/astorrel-captain.md) before retiring. |
 | Dislikes | Gut instinct. "Touchy-feely" people. |
-
-## History
-
-## Planning
-
-### [Astorrel Agents](../campaigns/astorrel-agents.md)
-
-*See: [Retrieving Ephaine's Star Map](../storylines/retrieving-ephaines-star-map.md)*

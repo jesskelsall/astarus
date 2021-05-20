@@ -73,7 +73,3 @@ Tabari has been mute from a young age. Fortunately he's not big on communication
 - They are mute. [truth]
 - They are originally from outside of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). [truth]
 - They are trouble to anyone that tries to befriend them. [lie]
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-The [Astorrel Agents](../campaigns/astorrel-agents.md) party has seen Tabari in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when he was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, Penance failed to get Tabari to say something.

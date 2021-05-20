@@ -71,7 +71,3 @@ Penance grew up on the streets of [Northhaven](../places/cities/northhaven.md), 
 - They were a criminal prior to training as an [Astorrel](../organisations/astorrel/astorrel.md). [truth]
 - Penance hasn't always been their name. [truth]
 - They are originally from outside the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). [lie]
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-The [Astorrel Agents](../campaigns/astorrel-agents.md) party has seen Penance in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when they were placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md). When [Bryce Morton](bryce-morton.md) left the room to retrieve the maps, they failed to get [Tabari Se](tabari-se.md) to say something.

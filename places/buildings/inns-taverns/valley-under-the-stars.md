@@ -44,11 +44,3 @@ Due to its upmarket nature, as well as the owner and staff being retired [Astorr
 | --- | --- | --- |
 | Inn stay (wealthy), single room | 2 gp |
 | Inn stay (wealthy), double room | 3 gp | Double bed |
-
-## History
-
-## Planning
-
-### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
-
-During graduation day the inn is full due to [The Mission's End](the-missions-end.md) being packed with graduates. By that evening, it is no longer full but is still very busy.

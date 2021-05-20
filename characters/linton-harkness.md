@@ -42,13 +42,3 @@ Linton is a diligent squad sergeant with high expectations of her squads. She's 
 | **Values** | |
 | **Ambitions** | |
 | **Dislikes** | |
-
-## History
-
-## Planning
-
-### [Purple Rain](../campaigns/purple-rain.md)
-
-Linton Harkness visits the squad in [sanctuary](../organisations/astorrel/sanctuary.md) to apologise on behalf of [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md), taking it upon herself to do so. She hopes that [Darjonkaargeac Hidaar](darjonkaargeac-hidaar.md) and the rest of the squad treated them well and weren't a hindrance.
-
-Her view is that [magicborn on the run](../storylines/magicborn-on-the-run.md) should be left alone so that they can seek [sanctuary](../organisations/astorrel/sanctuary.md) alone. She is worried about her and her squads' reputations due to their involvement.

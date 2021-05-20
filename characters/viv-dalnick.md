@@ -37,9 +37,3 @@ Viv Dalnick is a barmaid at [The Slippery Weasel](../civilisations/kingdom-of-as
 | Values | Likes to know her patrons. Always up for a laugh. |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-### [PR01](../sessions/PR01.md)
-
-The [Purple Rain](../campaigns/purple-rain.md) party were served by Viv Dalnick while they were in [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md).

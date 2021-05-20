@@ -43,9 +43,3 @@ She has a positive demeanour, bringing a smile to those she talks to. She wants 
 | Values | Positivity, teamwork, mission successes. |
 | Ambitions | Wants [central Astor](../places/regions/central-astor.md) to be safe from threats. |
 | Dislikes | Arguing, politics. |
-
-## History
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-On graduation day, [Bryce Morton](bryce-morton.md) introduced Samantha to his new subordinates, [Canary Squad](../organisations/astorrel/squads/canary-squad.md) and [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md). She greeted them all in her usual smiley manner before swiftly departing so that Bryce could continue.

@@ -37,11 +37,3 @@ Typically the bar has a few patrons. It closes once it gets dark.
 No beer is available. Sheep milk and water is however.
 
 [Arnaside](../../villages/arnaside.md) doesn't use coin, so offers to pay are seen as strange.
-
-## History
-
-## Planning
-
-### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
-
-The bar is empty due to dwindling supplies. [Sharakas](../../../characters/sharakas.md) bemoans the current situation and a lack of anything for him to do.

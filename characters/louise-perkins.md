@@ -39,9 +39,3 @@ Louise Perkins is an [Astorrel Member](../organisations/astorrel/ranks/astorrel-
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-## Planning
-
-### Campaign Name

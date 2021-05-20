@@ -41,9 +41,3 @@ Sarleen Truestriker is an [Astorrel Squad Hand](../organisations/astorrel/ranks/
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-## Planning
-
-### Campaign Name

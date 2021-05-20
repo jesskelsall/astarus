@@ -45,20 +45,3 @@ Due to its proximity to the [Northhaven Astornox Stronghold](../../strongholds/n
 | --- | --- | --- |
 | Inn stay (comfortable), single room | 5 sp |
 | Inn stay (comfortable), double room | 8 sp | Two single beds |
-
-## History
-
-### [AA01](../../../sessions/AA01.md) / [AA02](../../../sessions/AA02.md)
-
-The [Astorrel Agents](../../../campaigns/astorrel-agents.md) party stayed at The Rose Buckler after graduation day.
-
-| Character | Activity |
-| --- | --- |
-| [Ahsha Sallas](../../../characters/ahsha-sallas.md) | Drank a lot. |
-| [Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md) | Haggled aggressively with [Tydrus Tinshield](../../../characters/tydrus-tinshield.md) in dwarvish.<br />Won 1 round of [Twenties](../../../mechanics/roleplay/twenties.md) (1 gp) against [Jaxon Ultari](../../../characters/jaxon-ultari.md) |
-
-## Planning
-
-### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
-
-During graduation day the inn is busier than usual due to [The Mission's End](the-missions-end.md) being packed with graduates. By that evening, it is back to its normal level.

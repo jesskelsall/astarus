@@ -41,13 +41,3 @@ Beyond his eccentricity he is an attentive host, going above and beyond to look 
 | Values | Politeness, cleanliness. |
 | Ambitions | Wants to be liked by others. |
 | Dislikes | Shouting, rudeness. |
-
-## History
-
-## Planning
-
-### [Astorrel Agents](../campaigns/astorrel-agents.md)
-
-On graduation day, Zarrus Maleron is well composed despite the inn being completely full. This is putting a strain on his abilities to help others, but he soldiers on diligently in his usual eccentric manner.
-
-Beyond graduation day, Zarrus is back to his usual eccentric self.

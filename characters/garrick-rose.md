@@ -42,17 +42,3 @@ Garrick Rose is an [Astorrel Guard Sergeant](../organisations/astorrel/ranks/ast
 | **Values** | |
 | **Ambitions** | |
 | **Dislikes** | |
-
-## History
-
-## Planning
-
-### [Purple Rain](../campaigns/purple-rain.md)
-
-Garrick meets the party as they attempt to seek [sanctuary](../organisations/astorrel/sanctuary.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) with the help of [Sparrow on the Autumn Pine](sparrow-on-the-autumn-pine.md).
-
-He accepts their request for [sanctuary](../organisations/astorrel/sanctuary.md), briefly explaining the terms of [sanctuary](../organisations/astorrel/sanctuary.md) to the party before moving them into [The Sanctum](../places/buildings/the-sanctum.md).
-
-Following this he is posted outside of their quarters in the [sanctuary](../organisations/astorrel/sanctuary.md), unable to leave his post unless he rescinds the offer of [sanctuary](../organisations/astorrel/sanctuary.md). He checks on the party while bringing them their two daily meals. He also offers to help them within reason if they use the bells to contact him.
-
-Garrick largely allows everyone to visit him, but refuses access to [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) due to their closeness to the events leading up to [sanctuary](../organisations/astorrel/sanctuary.md).

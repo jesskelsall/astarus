@@ -19,11 +19,3 @@
 | Smells | Flowers, meaty and oat stew cooking in the kitchen. |
 | People | |
 | Intrigue | Possibly the nicest living conditions in all of [Goldreach](README.md). |
-
-## History
-
-### [PR02](../../../../sessions/PR02.md) / [PR03](../../../../sessions/PR03.md)
-
-*See: [Finding the Goldreach Meteorite](../../../../storylines/finding-the-goldreach-meteorite.md)*
-
-The [Purple Rain](../../../../campaigns/purple-rain.md) party met [Wrenn Piznarck](../../../../characters/wrenn-piznarck.md) in Alistair Hawthorn's House to discuss their plan of attack for finding the meteorite that crash landed several days before. They then headed out to find it.

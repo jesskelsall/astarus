@@ -41,7 +41,3 @@ Grant Thackeray was [Redwyn Humpledopper](redwyn-humpledopper.md)'s mentor while
 ## History
 
 While a Squad Hand, Grant was in [Levelle Tristwix](levelle-tristwix.md)'s squad, **Acre Squad**. The two remain old friends to this day.
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-Following the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation, Grant caught up with [Levelle Tristwix](levelle-tristwix.md), who he introduced to [Redwyn Humpledopper](redwyn-humpledopper.md) and the rest of the [Astorrel Agents](../campaigns/astorrel-agents.md) party. Redwyn made small talk with him.

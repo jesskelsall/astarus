@@ -37,9 +37,3 @@ Bill Sprig is the hostler at [The Keeper's Reprise](../places/buildings/inns-tav
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-## Planning
-
-### Campaign Name

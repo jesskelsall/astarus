@@ -48,7 +48,3 @@ He is a straightforward person with a military personality. He stands to attenti
 ## History
 
 While a Squad Lead, his squad was called **Summit Squad**.
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-The [Astorrel Agents](../campaigns/astorrel-agents.md) party goes to [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) to meet their new superior officer. Under his direction, they become [Canary Squad](../organisations/astorrel/squads/canary-squad.md), alongside [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

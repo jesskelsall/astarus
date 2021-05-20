@@ -23,11 +23,3 @@ Flute Street is where the wealthier citizens of [Goldreach](README.md) live, and
 ## Places
 
 - [Alistair Hawthorn's House](alistair-hawthorns-house.md) (#12)
-
-## History
-
-### [PR03](../../../../sessions/PR03.md) / [PR04](../../../../sessions/PR04.md)
-
-*See: [Finding the Goldreach Meteorite](../../../../storylines/finding-the-goldreach-meteorite.md)*
-
-The [Purple Rain](../../../../campaigns/purple-rain.md) party had agreed to meet [Wrenn Piznarck](../../../../characters/wrenn-piznarck.md) at 12 Flute Street in order to help him locate the [Goldreach Meteorite](../../../../items/meteorites/goldreach-meteorite.md). They found the house with the help of an [Astornox guard](../../../../organisations/astornox/ranks/astornox-guard.md), who they provided a code word to courtesy of Wrenn.

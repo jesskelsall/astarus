@@ -49,9 +49,3 @@ He frequents [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckle
 [Redwyn Humpledopper](redwyn-humpledopper.md) plays [Twenties](../mechanics/roleplay/twenties.md) with Jaxon. She slams 5 gp on the table and plays one game at a buy-in of 1 gp against him. She wins and takes her winnings as well as the rest of her pot, quitting while she's ahead.
 
 Jaxon tries to convince her to stay but doesn't try too hard.
-
-## Planning
-
-### [Astorrel Agents](../campaigns/astorrel-agents.md)
-
-If the party returns to [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md), Jaxon may be here again, looking to play [Twenties](../mechanics/roleplay/twenties.md).

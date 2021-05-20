@@ -33,13 +33,3 @@ Books and scrolls can be studied at one of the many tables on each floor. They a
 | Smells | |
 | People | |
 | Intrigue | |
-
-## Places
-
-## Vendor
-
-## History
-
-## Planning
-
-### Campaign Name

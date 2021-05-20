@@ -67,16 +67,6 @@ Alistair entered [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEM
 
 Following [Wrenn Piznarck](wrenn-piznarck.md)'s conversation with the party here, Wrenn pointed to the table to show Alistair the group that had agreed to work with him, before they left the inn together.
 
-### [PR03](../sessions/PR03.md)
-
-*See: [Wolves Threaten Goldreach](../storylines/wolves-threaten-goldreach.md)*
-
-When the remains of the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) wolf pack charge into town in the early morning out of fear, Alistair is on patrol with some [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). He is able to defeat part of the pack and their dire wolf leader while the [Purple Rain](../campaigns/purple-rain.md) party fights and kills other wolves further up the street.
-
-In the aftermath, he thanks for the party for their hard work and offers to reward them if they visit him at the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/goldreach-astornox-stronghold.md) the following day, giving him enough time to help clean up the mess and see that the wounded are taken care of.
-
-The party never took him up on this offer due to the following events that transpired.
-
 ### [PR06](../sessions/PR06.md)
 
 Around the time of this [Purple Rain](../campaigns/purple-rain.md) session, [Wrenn Piznarck](wrenn-piznarck.md) was caught looking through the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/goldreach-astornox-stronghold.md) for [Wizira's Father](wiziras-father.md), or any evidence that he was once here. When confronted by Alistair, Wrenn accidentally admitted to knowing [Wizira](wizira.md), effectively admitting to harbouring [magicborn](../civilisations/kingdom-of-astor/magicborn.md).

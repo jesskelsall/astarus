@@ -43,17 +43,3 @@ The Sanctum is the building in the [Northhaven Astorrel Stronghold](../stronghol
 | Smells | Body odour, clean water. That day's food. |
 | People | [Astorrel Guard Sergeant](../../organisations/astorrel/ranks/astorrel-guard-sergeant.md) and visitors only. |
 | Intrigue | Similar to a Japanese ryokan but without the freedom of movement. |
-
-## History
-
-## Planning
-
-### [Purple Rain](../../campaigns/purple-rain.md)
-
-The Sanctum is completely empty when the party arrive. An [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) is fetched by [Garrick Rose](../../characters/garrick-rose.md)'s other guard to check the party in, recording their names in a large tome.
-
-Date: Nurdag, 5th of Finsbock.
-
-The party is asked to place their belongings in the chests provided and go into the stalls to change into the robes provided. They may then pick one item each which [Garrick Rose](../../characters/garrick-rose.md) will inspect, potentially refusing. The party is then taken upstairs.
-
-[Garrick Rose](../../characters/garrick-rose.md) opens the doors while his guards keep watch. The bell system is explained and its usage, then the party enter one by one before they are locked inside.

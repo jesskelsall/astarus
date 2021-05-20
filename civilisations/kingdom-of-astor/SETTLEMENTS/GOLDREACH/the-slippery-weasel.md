@@ -41,13 +41,3 @@ The Slippery Weasel is the main inn in [Goldreach](README.md), situated on the n
 | --- | --- | --- |
 | Inn stay (comfortable), single room | 5 sp |
 | Inn stay (comfortable), double room | 8 sp | Two single beds |
-
-## History
-
-### [PR01](../../../../sessions/PR01.md)
-
-*See: [Crossing Paths in Goldreach](../../../../storylines/crossing-paths-in-goldreach.md)*
-
-During the commotion following the landing of the [Goldreach Meteorite](../../../../items/meteorites/goldreach-meteorite.md), The Slippery Weasel was very crowded, and so extra hands were brought in as temporary barmaids. They were inexperienced and easily startled by so many loud people.
-
-At this time, the [Purple Rain](../../../../campaigns/purple-rain.md) party had their initial meeting in The Slippery Weasel.

@@ -39,8 +39,6 @@ Zanni Flipwit is a Malneshi resident of the village of [Arnaside](../places/vill
 | **Ambitions** | |
 | **Dislikes** | |
 
-## History
-
 ## Planning
 
 ### Trouble in [Arnaside](../places/villages/arnaside.md)

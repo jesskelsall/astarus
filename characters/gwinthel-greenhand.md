@@ -41,9 +41,3 @@ Gwinthel Greenhand is a potion brewer who is about to open their own shop on Cra
 ## History
 
 Gwinthel Greenhand has bought a store on [Crafters Course](../places/streets/crafters-course.md) after the previous owner died. She is planning on opening an alchemical shop there, "Glug by Gwinthel".
-
-## Planning
-
-### [Astorrel Agents](../campaigns/astorrel-agents.md)
-
-On graduation day, following the graduation ceremony, Gwinthel can be found in [Astor Square](../places/structures/astor-square.md) running her tombola. She does not return the following day, having sold all of her tickets.

@@ -41,9 +41,3 @@ Her name is pronounced: *yerl-yassa*.
 | **Values** | |
 | **Ambitions** | |
 | **Dislikes** | |
-
-## History
-
-## Planning
-
-### Campaign Name

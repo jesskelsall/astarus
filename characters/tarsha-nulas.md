@@ -35,9 +35,3 @@ Tarsha Nulas is the owner of [Adventures for Adventurers](../places/buildings/sh
 | **Values** | |
 | **Ambitions** | |
 | **Dislikes** | |
-
-## History
-
-## Planning
-
-### Campaign Name

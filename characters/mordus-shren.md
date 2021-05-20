@@ -37,15 +37,3 @@ Mordus Shren is the owner and innkeeper of [The Greedy Trout](../places/building
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-## Planning
-
-### [Purple Rain](../campaigns/purple-rain.md)
-
-Mordus Shren will be behind the bar when the party enters, happy to see new faces in their small town. He hopes they'll stay a while.
-
-The following morning, when the [Astornox](../organisations/astornox/astornox.md) come looking for the party, Mordus can be seen looking glum as the [Astornox](../organisations/astornox/astornox.md) state who they're looking for. He is visibly deflated by the realisation that he welcomed known criminals into his inn.
-
-Mordus tells the [Astornox guards](../organisations/astornox/ranks/astornox-guard.md) that they checked in last night and they may still be here.

@@ -38,9 +38,3 @@ Clatter is an opponent in The Rat's Nest secret fighting ring.
 | **Values** | |
 | **Ambitions** | |
 | **Dislikes** | |
-
-## History
-
-## Planning
-
-### Campaign Name

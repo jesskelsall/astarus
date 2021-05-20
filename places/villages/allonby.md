@@ -29,15 +29,3 @@ Above the cliffs, cattle graze on the grass when the weather allows it. Farmers 
 | Smells | Animal smell, human sweat and excrement. |
 | People | Content and playful drigg. |
 | Intrigue | A hardy village built into natural cliff formations has allowed life here to thrive despite the winds. |
-
-## History
-
-## Planning
-
-### [Astorrel Agents](../../campaigns/astorrel-agents.md)
-
-The [players](../../../players/logan.md) may pass through here during either heavy wind or calmer times.
-
-Allonby is very welcoming and curious about the party, offering them food. There is no inn, but a building can be cleared to host them overnight.
-
-Two [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) are currently in Allonby on village patrol. They will be helping out here for at least 3 more days before heading back to [Northhaven](../cities/northhaven.md).

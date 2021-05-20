@@ -37,9 +37,3 @@ Rysa Ornoll is the owner and innkeeper of [The Keeper's Reprise](../places/build
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-## Planning
-
-### Campaign Name

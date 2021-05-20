@@ -25,11 +25,3 @@ The entrance is on its side near the end. When entering, the room opens out to t
 | Smells | Candle wax, dust. |
 | People | [Astorrel Members](../../organisations/astorrel/ranks/astorrel-member.md) preparing the hall for its next use, or cleaning up. |
 | Intrigue | The hall shows a strong sense of community within the [Astorrel](../../organisations/astorrel/astorrel.md), and almost appears to be a form of self-worship. |
-
-## History
-
-## Planning
-
-### [Astorrel Agents](../../campaigns/astorrel-agents.md)
-
-The building is closed while the graduation setup is torn down. It remains closed for the rest of the party's time in [Northhaven](../cities/northhaven.md) before setting off on their first mission.

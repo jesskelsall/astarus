@@ -13,7 +13,7 @@
 > - You gain proficiency in the [Astorrel Training skill](../skills/astorrel-training.md).
 > - You have advantage on Charisma (Persuasion) checks when attempting to convince a person not affiliated with the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) military to pursue a course of action that aligns with the [Astorrel](../../organisations/astorrel/astorrel.md)'s goals.
 
-## History
+## Planning
 
 ### [Astorrel Agents](../../campaigns/astorrel-agents.md)
 

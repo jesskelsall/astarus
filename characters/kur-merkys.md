@@ -44,11 +44,3 @@ Kur Merkys is an [Astorrel](../organisations/astorrel/astorrel.md) Hunter based 
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-## Planning
-
-### [Purple Rain](../campaigns/purple-rain.md)
-
-Just before reaching the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), the party will face Kur Merkys and [Vilnia Kovas](vilnia-kovas.md) as they ambush the party to apprehend them.

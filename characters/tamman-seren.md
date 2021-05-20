@@ -26,9 +26,3 @@ When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winte
 He was severely beaten for his insolence before Ephaine healed him with her druidic magic. This act caught the attention of the [Astornox](../organisations/astornox/astornox.md) present. Ephaine then buried and killed them in an avalanche of her causing.
 
 After this, Tamman watched on as his sister quickly departed to seek the [sanctuary](../organisations/astorrel/sanctuary.md) of the [Astorrel](../organisations/astorrel/astorrel.md). He hasn't seen her since.
-
-## Planning
-
-### [Astorrel Agents](../campaigns/astorrel-agents.md)
-
-[Ephaine Seren](ephaine-seren.md) has had no contact with her brother since she left. She doesn't know if he is still alive.

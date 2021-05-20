@@ -47,7 +47,3 @@ Turnuroth Balasar is an [Astorrel Squad Sergeant](../organisations/astorrel/rank
 - They are favoured by the mentors and given special treatment. [truth]
 - They believe so strongly in the [Astorrel](../organisations/astorrel/astorrel.md) that they don't suffer well those who don't. [truth]
 - Their parents are high ranking [Astornox](../organisations/astornox/astornox.md). [lie]
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-During the [Astorrel graduation](../storylines/astorrel-graduation.md) presentation, Balasar shocks the entire room when he graduates to [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md). Later when [Bryce Morton](bryce-morton.md) introduces [Samantha Ilis](samantha-ilis.md) mentions that she has a new Squad Sergeant to tend to.

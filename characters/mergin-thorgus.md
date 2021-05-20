@@ -42,17 +42,3 @@ Mergin is an old man with a beard that really ought to have retired already, but
 | **Values** | Good conversation, a patient listener. |
 | **Ambitions** | Continue to lead the [Northhaven](../places/cities/northhaven.md) [Astorrel](../organisations/astorrel/astorrel.md) for as long as he can. |
 | **Dislikes** | Dishonesty, people who can't hold a conversation. |
-
-## History
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-Mergin Thorgus conducted the graduation of the [Astorrel Agents](../campaigns/astorrel-agents.md) party, alongside [Levelle Tristwix](levelle-tristwix.md). He gave each party member their graduation purse and bowed.
-
-## Planning
-
-### [Purple Rain](../campaigns/purple-rain.md)
-
-Mergin visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) to introduce themselves as the face of the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md). They are curious and wish to know who the party are for their own satisfaction.
-
-Mergin brings that day's town crier script ([Northhaven Town Crier Script 312-5-06](../papers/letters/northhaven-town-crier-script-312-5-06.md)) with them, noting their notoriety. This gives the party an insight into what others are hearing about them.

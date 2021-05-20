@@ -41,11 +41,3 @@ She is a confident, stern and mysterious woman that speaks evasively and condesc
 | Values | Discretion, secrets, knowing who to trust. |
 | Ambitions | Wishes to learn more about magical items and those who use it. |
 | Dislikes | Strangers, non-[magicborn](../civilisations/kingdom-of-astor/magicborn.md). |
-
-## History
-
-Moss is secretly a member of the [Astornar](../organisations/astornar.md), tasked by the generals with running the [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) store. The purpose of the store is to provide a check on the magical items coming through [Northhaven](../places/cities/northhaven.md) and in circulation in the kingdom as a whole.
-
-## Planning
-
-### [Astorrel Agents](../campaigns/astorrel-agents.md)

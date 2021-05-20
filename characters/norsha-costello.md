@@ -40,13 +40,3 @@ Norsha is a stern lieutenant that believes in due process and accountability.
 | **Values** | |
 | **Ambitions** | |
 | **Dislikes** | |
-
-## History
-
-## Planning
-
-### [Purple Rain](../campaigns/purple-rain.md)
-
-Norsha visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) with [Carras Southroot](carras-southroot.md), who they force to come with them. They wish to confront Carras with the gravity of what their negligence has caused, and holds him responsible for retrieving [Wrenn Piznarck](wrenn-piznarck.md).
-
-Norsha themself wishes to learn what Wrenn was doing away from [Northhaven](../places/cities/northhaven.md) in the first place, unaware of what [Astral squad](../organisations/astorrel/squads/astral-squad.md) has really been up to.

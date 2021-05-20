@@ -44,9 +44,3 @@ Sparrow on the Autumn Pine is a city-dwelling naturist with a penchant for wasps
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-## Planning
-
-### Campaign Name

@@ -44,6 +44,6 @@ A staircase to the back right leads down to the crypt.
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
+### Trouble in [Arnaside](../../villages/arnaside.md)
 
 [Nenra Zossa](../../../characters/nenra-zossa.md) is inside the Malneshitas when the [players](../../../../players/logan.md) first enter. Two other Malneshi are present, meditating quietly.

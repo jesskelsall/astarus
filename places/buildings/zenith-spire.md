@@ -25,11 +25,3 @@ It is a white marble spire-shaped building, rising 5 storeys above the city, mak
 | Smells | |
 | People | 4 [Astorrel guards](../../organisations/astorrel/ranks/astorrel-guard.md) stood outside the entrance. |
 | Intrigue | A shining beacon of the [Astorrel](../../organisations/astorrel/astorrel.md)'s power can be seen for miles around. Beautiful and secretive. |
-
-## History
-
-## Planning
-
-### [Astorrel Agents](../../campaigns/astorrel-agents.md)
-
-In session 1, the [players](../../../players/logan.md) have no business in this building, and will be refused access.

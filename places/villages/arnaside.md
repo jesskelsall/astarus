@@ -44,9 +44,3 @@ Arnaside was founded in 297 PA, 15 years before the [campaigns](../../../campaig
 Since then, the village has steadily grown as other worshippers come to settle here, thanks to the diligent work of a few villagers who travel the cities and speak of the village to other worshippers.
 
 [The Malneshitas](../buildings/temples/the-malneshitas.md) has been erected since then, with a crypt below excavated over the last 3 years. Here the villagers have started to store the skeletal remains of their dead - 22 so far.
-
-## Planning
-
-### [Astorrel Agents](../../campaigns/astorrel-agents.md)
-
-*See: [Check Logging in Arnaside](../../storylines/check-logging-in-arnaside.md)*

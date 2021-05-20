@@ -71,7 +71,3 @@ Her family has lived for generations as loggers on the outskirts of [Hawkswood](
 - Their family lives in abject poverty. [truth]
 - They don't believe in any of the four [gods](../gods/gods.md) and will pledge themselves to one in bad faith. [truth]
 - They have been training for a lot longer than everyone else in our cohort. [lie]
-
-### [Astorrel Graduation](../storylines/astorrel-graduation.md)
-
-The [Astorrel Agents](../campaigns/astorrel-agents.md) party has seen Morgan in [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) when she was placed in [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).

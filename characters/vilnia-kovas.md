@@ -7,7 +7,7 @@
 | **Name** | Vilnia Kovas | character.3
 | **Race** | Human |
 | **Pronouns** | she/her |
-| **Age** | 33 |
+| **Age** | 33 (dead) |
 | **Class** | Wizard (School of Enchantment) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | [Kur Merkys](kur-merkys.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md)) |
@@ -66,3 +66,7 @@ Vilnia Kovas is an [Astorrel](../organisations/astorrel/astorrel.md) Hunter base
 Vilnia grew up in [Dunmore](../places/cities/dunmore.md) where she had a quiet and humble family upbringing. A social outcast that was instead fascinated with books and eager to read, she came across an arcane tome in a second-hand bookshop and was immediately taken by it. Soon she discovered that she was able to access its arcane knowledge, discovering that she is [magicborn](../civilisations/kingdom-of-astor/magicborn.md). In particular she was drawn to magic that she could use to converse with others.
 
 Keen to learn more she joined the [Astornox](../organisations/astornox/astornox.md). Her magical prowess developed more towards ice magic as she climbed the ladder, eventually drawing the attention of the [Astornox magicborn hunters](../organisations/astornox/ranks/astornox-magicborn-hunter.md) who offered her a position. She has spent the last few years rounding up [magicborn on the run](../storylines/magicborn-on-the-run.md), feeling increasingly confident of her abilities, and keen to progress her [Astornox](../organisations/astornox/astornox.md) career further.
+
+### [PR17](../sessions/PR17.md)
+
+Vilnia Kovas and [Kur Merkys](kur-merkys.md) ambushed the [Purple Rain](../campaigns/purple-rain.md) party, hoping to capture them as [magicborn on the run](../storylines/magicborn-on-the-run.md). During the ensuing battle on [Kirrel](../gods/deities/kirrel.md) Street Vilnia was killed by a combination of attacks from the party.

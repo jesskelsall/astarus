@@ -37,11 +37,3 @@ Morog Whiteknuckle is a commander in [The Crimson Blades](../organisations/the-c
 | Values | Loyalty, someone's word. Their physical strength. |
 | Ambitions | Wants to please Striker. |
 | Dislikes | Liars, traitors, the weak. |
-
-## History
-
-## Planning
-
-### [Purple Rain](../campaigns/purple-rain.md)
-
-Morog has been sent by [Stalker](stalker.md) to capture [Wrenn Piznarck](wrenn-piznarck.md) for double-crossing [The Crimson Blades](../organisations/the-crimson-blades.md) in Carnmere. He rides with 5 other members of the mercenary group, intent on completing their mission.

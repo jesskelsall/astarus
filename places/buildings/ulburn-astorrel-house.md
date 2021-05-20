@@ -39,15 +39,3 @@ The interior is mostly stone with wooden beams and a vaulted roof providing deco
 | Smells | Fresh baked bread, stew. |
 | People | 1 [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) in the kitchen, squad members. |
 | Intrigue | Well catered for communal living space that the squads use as their base. |
-
-## Places
-
-## Vendor
-
-## History
-
-## Planning
-
-### [Purple Rain](../../campaigns/purple-rain.md)
-
-When the party arrives at [Goshawk Squad](../../organisations/astorrel/squads/goshawk-squad.md) House, only [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md) and the [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) are here. [Spoor Squad](../../organisations/astorrel/squads/spoor-squad.md) are out on a mission.
