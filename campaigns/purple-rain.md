@@ -52,3 +52,4 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [The Firbolg Controversy](../storylines/the-firbolg-controversy.md) | [PR15](../sessions/PR15.md) | [PR20](../sessions/PR20.md) |
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [PR17](../sessions/PR17.md) | |
 | [Receiving Sanctuary](../storylines/receiving-sanctuary.md) | [PR18](../sessions/PR18.md) | [PR20](../sessions/PR20.md) |
+| [Accepting the Astorrel's Offer](../storylines/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | |
