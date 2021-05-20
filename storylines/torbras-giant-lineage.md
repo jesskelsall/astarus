@@ -77,3 +77,13 @@ As the rune's magic takes hold of the paper, Torbra sees the rune's lines sink i
 ### [PR20](../sessions/PR20.md)
 
 During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md), the party is asked point-blank if they are [magicborn](../civilisations/kingdom-of-astor/magicborn.md). [Torbra Tauff](../characters/torbra-tauff.md) replies that she isn't sure.
+
+### [PR21](../sessions/PR21.md)
+
+Following the graduation combat challenge in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), Torbra gets angry at the boulders that rolled onto her when they transformed back from the beasts they were magically turned into.
+
+Her anger manifested as Giant's Might, causing her to grow to 12ft tall. She picked up the last boulder to roll onto her, throwing it across the chamber, damaging the floor and wall it impacted.
+
+Both Torbra and the rest of the party were surprised to see her sudden growth. After a few moments she comfortably returned to her normal size.
+
+*[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to use Giant's Might at will.]*

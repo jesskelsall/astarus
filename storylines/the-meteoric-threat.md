@@ -70,3 +70,7 @@ When she asks the party if they would be interested in doing so, they respond in
 ### [PR20](../sessions/PR20.md)
 
 Following the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md), [Levelle Tristwix](../characters/levelle-tristwix.md) makes the party an offer to join the [Astorrel](../organisations/astorrel/astorrel.md). As part of this they vaguely mention that [Elysia Vanderboss](../characters/elysia-vanderboss.md) has informed them of the work her squad has been doing, and that the [Purple Rain](../campaigns/purple-rain.md) party's help in continuing that work would be appreciated.
+
+### [PR21](../sessions/PR21.md)
+
+When [Elysia Vanderboss](../characters/elysia-vanderboss.md) is promoted to [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md), the newly formed [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) learn that she will be their superior officer, implying that they will be working with her on the meteoric threat.

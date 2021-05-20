@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | TODO | storyline.2
+| **Session Started** | [PR21](../sessions/PR21.md) / TODO | storyline.2
 | **Session Ended** | TODO |
 
 ## Summary
@@ -26,6 +26,15 @@ These 8 [Astorrel](../organisations/astorrel/astorrel.md) squads will be competi
 | [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | Cities / [Northhaven](../places/cities/northhaven.md) | NPCs |
 | [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | Phenomena | [Purple Rain](../campaigns/purple-rain.md) |
 
+## Match Draws
+
+| Squad A | Squad B |
+| --- | --- |
+| [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) |
+| [Birch Squad](../organisations/astorrel/squads/birch-squad.md) | [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) |
+| [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) | [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
+| [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) | [Horizon Squad](../organisations/astorrel/squads/horizon-squad.md) |
+
 ## Matches
 
 | Squads | Winner | Session |
@@ -42,3 +51,9 @@ These 8 [Astorrel](../organisations/astorrel/astorrel.md) squads will be competi
 | [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | | [AA09](../sessions/AA09.md) |
 
 ## History
+
+### [PR21](../sessions/PR21.md)
+
+Following the [Purple Rain](../campaigns/purple-rain.md) party's graduation into the [Astorrel](../organisations/astorrel/astorrel.md) as [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../characters/levelle-tristwix.md) provided them with a letter ([Nature's Battle Starfall Squad Invite](../papers/letters/natures-battle-starfall-squad-invite.md)) inviting them to participate in the Nature's Battle tournament.
+
+The party are initially excited at the prospect of competing.
