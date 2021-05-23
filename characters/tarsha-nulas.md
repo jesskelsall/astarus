@@ -6,7 +6,7 @@
 | **Race** | Human |
 | **Pronouns** | she/her |
 | **Age** | 43 |
-| **Class** | |
+| **Class** | Wizard |
 | **Worship** | |
 | **Relations** | |
 | **Places** | [Adventures for Adventurers](../places/buildings/shops/adventures-for-adventurers.md) (owner) |

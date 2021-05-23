@@ -58,3 +58,9 @@ She wakes up comfortably the following morning.
 ### [PR15](../sessions/PR15.md)
 
 In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) if they know anything about dreams that become reality. They don't, but mention that Wrenn's squad, [Astral Squad](../organisations/astorrel/squads/astral-squad.md), contains someone with similar sounding experiences.
+
+### [PR22](../sessions/PR22.md)
+
+[Thanea Morlay](../characters/thanea-morlay.md) uses her downtime in [Northhaven](../places/cities/northhaven.md) to research her prophetic dreams in [Hawk's Perch](../places/buildings/hawks-perch.md). She finds mention of those with foresight (seers), with the text suggesting that it may be a form of magical manifestation.
+
+She also tries to research humanoids with wings, but only finds information on aarakocra.

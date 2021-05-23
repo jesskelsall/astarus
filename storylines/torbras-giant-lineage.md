@@ -87,3 +87,9 @@ Her anger manifested as Giant's Might, causing her to grow to 12ft tall. She pic
 Both Torbra and the rest of the party were surprised to see her sudden growth. After a few moments she comfortably returned to her normal size.
 
 *[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to use Giant's Might at will.]*
+
+### [PR22](../sessions/PR22.md)
+
+[Torbra Tauff](../characters/torbra-tauff.md) uses her downtime in [Northhaven](../places/cities/northhaven.md) to research both grey humanoids (earth genasi) and runes, searching first in [Adventures for Adventurers](../places/buildings/shops/adventures-for-adventurers.md), then in [Hawk's Perch](../places/buildings/hawks-perch.md). She buys a book in the former ([Magicborn and Magical Phenomena](../items/books/magicborn-and-magical-phenomena.md)) before finding mention in [Humanoids and Rare Varieties](../items/books/humanoids-and-rare-varieties.md) of [Simanelli Tyrol](../characters/simanelli-tyrol.md) and the apocryphal story of his disappearance. This provides a likely example in history of another genasi, albeit a water genasi.
+
+With the limited time she has left, Torbra uncovers no written mention of runes or glowing rocks.

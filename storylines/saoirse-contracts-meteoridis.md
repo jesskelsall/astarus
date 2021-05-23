@@ -42,3 +42,9 @@ When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visits a second tim
 ### [PR20](../sessions/PR20.md)
 
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) learns that there is something magical about the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), but the anti-magic field present inside [The Sanctum](../places/buildings/the-sanctum.md) makes it impossible for her to learn any more than that.
+
+### [PR22](../sessions/PR22.md)
+
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md), now out of the anti-magic field of [The Sanctum](../places/buildings/the-sanctum.md), decides to experiment with the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and the [meteoric dust](../items/meteoric/meteoric-dust.md) she has collected. She finds that ingesting some of the dust will enhance her magical abilities, but it also has psychedelic effects.
+
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) learns how to ingest [meteoric dust](../items/meteoric/meteoric-dust.md) to induce the [meteoric dust effect](../items/meteoric/meteoric-dust-effect.md).]*
