@@ -22,7 +22,7 @@ The Arnaside Logging Camp is where the village of [Arnaside](../villages/arnasid
 
 ## History
 
-The night before the party arrives, the [blue kobolds](../../ethnicities/blue-kobold.md) attack the logging camp under the cover of dark and wind. They destroy one of the logging carts and steal some woodworking tools.
+The night before the party arrives, the [blue kobolds](../../lineages/blue-kobold.md) attack the logging camp under the cover of dark and wind. They destroy one of the logging carts and steal some woodworking tools.
 
 ## Planning
 

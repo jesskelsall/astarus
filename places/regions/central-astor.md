@@ -16,7 +16,7 @@ The land is only broken up by [Duskmere](../rivers-lakes/duskmere.md), the large
 
 The [Great Astor Road](../roads/great-astor-road.md) cuts east to west connecting central Astor to both the east and west edges of the kingdom. From Eaglesfield the [Northern Road](../roads/northern-road.md) takes travelers into [northern Astor](northern-astor.md) and beyond to the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/dardenn-kingdom.md).
 
-To the kingdom's western most reaches is territory that is still classified as part of central Astor. This includes the Albulain Valley, where the [Cepine](../../ethnicities/cepine.md) people reside. It borders the Neum Flats, a desolate tract of wastes that precedes the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) to the far west.
+To the kingdom's western most reaches is territory that is still classified as part of central Astor. This includes the Albulain Valley, where the [Cepine](../../lineages/cepine.md) people reside. It borders the Neum Flats, a desolate tract of wastes that precedes the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) to the far west.
 
 ## Places
 

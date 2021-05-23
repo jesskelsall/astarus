@@ -2,7 +2,7 @@
 
 | []() | |
 | --- | --- |
-| **Ethnicity** | Blue Kobold |
+| **Lineage** | Blue Kobold |
 | **Race(s)** | Kobold |
 | **Demonym** | |
 | **Homeland** | [Blue Kobold Cave](../places/caves/blue-kobold-cave.md) |

@@ -21,7 +21,7 @@ At a young age, Effie Silttooth, a hag, offered her power in exchange for knowle
 
 #### [Saoirse](../../../astarus/people/saoirse.md) Deva Dream 1
 
-While escape in the cart escaping [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), [Saoirse](../../../astarus/people/saoirse.md) has a deva dream. She is back in the [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), paralysed on the floor, only able to look on as 3 Meteoric Watchers attack and exhaust the rest of the party, who are looking close to death.
+While escape in the cart escaping [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), [Saoirse](../../../astarus/people/saoirse.md) has a deva dream. She is back in the [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), paralysed on the floor, only able to look on as 3 [Meteoric Watchers](../creatures/meteoric-watcher.md) attack and exhaust the rest of the party, who are looking close to death.
 
 Mykiel appears to her, kneeling down and offering her his hand. She tries to reach to him, overpowering her paralysis just enough to touch his hand. As she does, she regains the ability to move, and feels a warmth overtake her.
 
@@ -29,7 +29,7 @@ Looking around the meteor crater, she feels disconnected from the events around 
 
 On the edge of the cave she sees Effie who looks at her disapprovingly. Looking back at Mykiel, he shakes his head slowly at [Saoirse](../../../astarus/people/saoirse.md).
 
-After falling to the ground and standing again, [Saoirse](../../../astarus/people/saoirse.md) finds herself in the middle of the meteor crater, standing between the last remaining Meteoric Watcher and the party. The watcher looks through her, seemingly uninterested in her presence.
+After falling to the ground and standing again, [Saoirse](../../../astarus/people/saoirse.md) finds herself in the middle of the meteor crater, standing between the last remaining [Meteoric Watcher](../creatures/meteoric-watcher.md) and the party. The watcher looks through her, seemingly uninterested in her presence.
 
 [Saoirse](../../../astarus/people/saoirse.md) is given agency to choose what to do. Her chosen action will have ramifications for her future:
 
@@ -37,13 +37,13 @@ After falling to the ground and standing again, [Saoirse](../../../astarus/peopl
 | --- | --- | --- |
 | Attack the watcher with conventional means. | Deva positive. | Mykiel sees a willingness to be saved, an easier task. |
 | Attack the watcher with warlock magic. | Warlock patron positive. | Mykiel sees an unwillingness to be saved, an uphill struggle. |
-| Leave or protect the watcher. | Meteoric positive. | Mykiel sees a corruption by the Meteorics, a different struggle altogether. |
+| Leave or protect the watcher. | Meteoric positive. | Mykiel sees a corruption by [the Meteorics](../lineages/the-meteorics.md), a different struggle altogether. |
 
-[Saoirse](../../../astarus/people/saoirse.md) chooses to draw her daggers (conventional means) and attack the Meteoric Watcher.
+[Saoirse](../../../astarus/people/saoirse.md) chooses to draw her daggers (conventional means) and attack the [Meteoric Watcher](../creatures/meteoric-watcher.md).
 
 As she draws her blades, she notices protector aasimar wings on her back, resembling those of Mykiel. Her daggers glow golden-white, illuminating the nearby space.
 
-The watcher recoils at the sight of them before lunging at her. [Saoirse](../../../astarus/people/saoirse.md) plunges the blades into it, causing it to crack with white light before exploding into Meteoric Dust that scatters across the crater.
+The watcher recoils at the sight of them before lunging at her. [Saoirse](../../../astarus/people/saoirse.md) plunges the blades into it, causing it to crack with white light before exploding into [Meteoric Dust](../items/meteoric/meteoric-dust.md) that scatters across the crater.
 
 The dream ends. [Saoirse](../../../astarus/people/saoirse.md) rests peacefully and feels a positive energy upon waking.
 

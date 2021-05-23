@@ -1,9 +1,10 @@
 # Blue Dragon Scale Necklace
 
-| | |
+|||
 | --- | --- |
 | **Name** | [Blue Dragon Scale Necklace*](https://www.dndbeyond.com/magic-items/2912007-blue-dragon-scale-necklace) | item.2
 | **Weight** | 2 lb |
+| **Notes** | *Spellcaster* |
 
 ## Description
 

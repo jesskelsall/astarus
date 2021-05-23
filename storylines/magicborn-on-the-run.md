@@ -25,7 +25,7 @@ This sends [Alistair Hawthorn](../characters/alistair-hawthorn.md) into a rage. 
 
 ### [PR08](../sessions/PR08.md)
 
-On the way back to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md), the [Purple Rain](../campaigns/purple-rain.md) party attempts to stop in at [Nightcrest Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/nightcrest-farm.md), seeking the hospitality of Arneg Tanagark for an overnight stay. They find his door open, a disturbance inside, and a small blood splatter in the courtyard.
+On the way back to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), the [Purple Rain](../campaigns/purple-rain.md) party attempts to stop in at [Nightcrest Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/nightcrest-farm.md), seeking the hospitality of Arneg Tanagark for an overnight stay. They find his door open, a disturbance inside, and a small blood splatter in the courtyard.
 
 The party is approached by an [Astornox Guard Corporal](../organisations/astornox/ranks/astornox-guard-corporal.md) and an [Astornox Guard](../organisations/astornox/ranks/astornox-guard.md) who inform them that the farm is off limits after Arneg was taken into custody as a suspected [magicborn](../civilisations/kingdom-of-astor/magicborn.md) harbourer.
 
@@ -144,7 +144,7 @@ First thing in the morning they set off again. Sarleen escorts the party into [U
 
 Here Sarleen introduces them to [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md), the [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) lead. Sarleen helps to cut through some of the party's attempted lies about who they are or what they've been through.
 
-Hidaar attempts to understand why [Wrenn Piznarck](../characters/wrenn-piznarck.md) felt the party was so important, particularly why he thought the party was important to the fate of Astor. They aren't sure themselves, but they allude to the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md), which [Saoirse](../../../astarus/people/saoirse.md) chooses to keep to herself.
+Hidaar attempts to understand why [Wrenn Piznarck](../characters/wrenn-piznarck.md) felt the party was so important, particularly why he thought the party was important to the fate of Astor. They aren't sure themselves, but they allude to the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), which [Saoirse](../../../astarus/people/saoirse.md) chooses to keep to herself.
 
 When [Wizira](../characters/wizira.md) drops her disguise and reveals herself to be the blue firbolg that Wrenn mentioned, Hidaar suspects the story of what happened to [Wizira's father](../characters/wiziras-father.md) has important implications for [the firbolg controversy](the-firbolg-controversy.md), and offers to help them in any way that they can. When another member of [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) returns, they'll order them to escort the party to the relative safety of the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
 

@@ -25,7 +25,7 @@ It is a square made mostly of stone, with some iron and wood benches for seating
 ## Places
 
 - [Diamond Prime](../buildings/temples/diamond-prime.md)
-- [Sunset Delivery](../../organisations/sunset-delivery.md) Astor Square
+- [Sunset Delivery Astor Square](../buildings/shops/sunset-delivery-astor-square.md)
 - [The Alley](../buildings/shops/the-alley.md)
 
 ## Planning

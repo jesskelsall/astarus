@@ -56,7 +56,7 @@ Torbra sees a glow from over the next hill, and as she approaches the voices gro
 | Collapsed onto ground. | Stone Rune | Touches it. | Grey brown glow emanates as a crack shifts into a runic shape. Light surrounds her. | *Practice. Apply. Grow.* (repeating)
 | Collapsed onto ground. | Frost Rune | Touches it. | Same as above, but sky blue glow. | *Embrace who you have always been. Go forth and seek.* (once, voices stop)
 
-After the voices stop and the glowing auras subside, [Saoirse](../../../astarus/people/saoirse.md) angrily asks what is going on, but Torbra isn't sure herself. She likens it to [Saoirse](../../../astarus/people/saoirse.md) collapsing unconscious after touching the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md).
+After the voices stop and the glowing auras subside, [Saoirse](../../../astarus/people/saoirse.md) angrily asks what is going on, but Torbra isn't sure herself. She likens it to [Saoirse](../../../astarus/people/saoirse.md) collapsing unconscious after touching the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md).
 
 ### [PR19](../sessions/PR19.md)
 
@@ -72,7 +72,7 @@ While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](..
 
 As the rune's magic takes hold of the paper, Torbra sees the rune's lines sink into the page, exposing an orange-brown glow from between the paper and the lines. Suddenly the anti-magic field present around [The Sanctum](../places/buildings/the-sanctum.md) asserts itself, ending the visual effect, much to Torbra's frustration.
 
-*[Torbra Taff unlocks the ability to create the Stone Rune at will]*
+*[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to create the Stone Rune at will]*
 
 ### [PR20](../sessions/PR20.md)
 

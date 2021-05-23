@@ -39,6 +39,6 @@ As a benchmark, sending a letter directly from one city to the next costs 5 sp. 
 
 As an example, getting a letter from [Northhaven](../places/cities/northhaven.md) to Filisur costs 6 gp.
 
-## Branches
+## Branches
 
-- Sunset Delivery [Astor Square](../places/structures/astor-square.md)
+- [Sunset Delivery Astor Square](../places/buildings/shops/sunset-delivery-astor-square.md)

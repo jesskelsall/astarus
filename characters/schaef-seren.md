@@ -8,7 +8,7 @@
 | **Age** | 45 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Cepine](../ethnicities/cepine.md) |
+| **Affiliation** | [Cepine](../lineages/cepine.md) |
 | **Worship** | |
 | **Relations** | [Adalie Seren](adalie-seren.md) (wife)<br />[Tamman Seren](tamman-seren.md) (son)<br />[Ephaine Seren](ephaine-seren.md) (daughter)<br />Besar Seren (son)<br />Irla Seren (daughter) |
 | **Acquaintances** | |

@@ -18,7 +18,7 @@
 | **Rank** | [Astorrel Captain](../organisations/astorrel/ranks/astorrel-captain.md) |
 | **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
-| **Subordinates** | [Norsha Costello](norsha-costello.md) (Lieutenant)<br />[Samantha Ilis](samantha-ilis.md) (Lieutenant) |
+| **Subordinates** | [Flavian Giltrop](flavian-giltrop.md) (Lieutenant, master librarian)<br />[Norsha Costello](norsha-costello.md) (Lieutenant)<br />[Samantha Ilis](samantha-ilis.md) (Lieutenant) |
 |||
 | **Image ID** | `417ab84735b8a004` |
 

@@ -14,7 +14,4 @@
 
 ## Summary
 
-## Missions
-
-| Mission | Status |
-| --- | --- |
+Birch Squad took part in the [Nature's Battle](../../../storylines/natures-battle.md) tournament.

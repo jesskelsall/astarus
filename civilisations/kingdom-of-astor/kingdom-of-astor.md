@@ -6,15 +6,15 @@
 | --- | --- |
 | **Capital City** | [Northhaven](../../places/cities/northhaven.md) |
 | **Official Languages** | Common |
-| **Ethnic Groups** | Human<br />Halfling<br />Gnome<br />[Cepine](../../ethnicities/cepine.md) (human) |
+| **Ethnic Groups** | Human<br />Halfling<br />Gnome<br />[Cepine](../../lineages/cepine.md) (human) |
 | **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 | **Demonyms** | Astorian |
 | **Government** | Militocracy |
 | **Leader** | [Corville Thornox](../../characters/corville-thornox.md)<br />*General Supreme* |
 | **Territories** | [South East Kardan](../../places/regions/south-east-kardan.md)<br />[Kardanis](../../places/regions/kardanis.md) |
-| **Founded** | *0 PA* |
+| **Founded** | *0 P.A.* |
 | **Neighbours** | [Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south)<br />[Dardenn Kingdom](../dardenn-kingdom/dardenn-kingdom.md) (north)<br />[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (west) |
-| **Wars** | Astor-Syntenne War (*88 PA* - current) |
+| **Wars** | Astor-Syntenne War (*88 P.A.* - current) |
 | **Image ID** | `556ce67a6c183e48` |
 
 ## Summary

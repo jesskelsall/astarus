@@ -7,7 +7,7 @@
 
 ## Summary
 
-The [Purple Rain](../campaigns/purple-rain.md) party members all cross paths in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), centered around the appearance of the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md).
+The [Purple Rain](../campaigns/purple-rain.md) party members all cross paths in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), centered around the appearance of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md).
 
 ## History
 
@@ -30,6 +30,6 @@ Torbra is entering [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTL
 
 ### [PR02](../sessions/PR02.md)
 
-Following a night where [Wizira](../characters/wizira.md) returns to her home while the rest of the party sleep at [Holyrook Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/holyrook-farm.md) (and fight off wolves in the night), the party meets back up so they may return to [Wrenn Piznarck](../characters/wrenn-piznarck.md) to help him search for the meteorite.
+Following a night where [Wizira](../characters/wizira.md) returns to her home while the rest of the party sleep at [Holyrook Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/holyrook-farm.md) (and fight off wolves in the night), the party meets back up so they may return to [Wrenn Piznarck](../characters/wrenn-piznarck.md) to help him search for the [meteorite](../items/meteoric/meteorite.md).
 
 From this point on, they are solidified as a party of four.

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Ephaine Seren | character.3
-| **Race** | Human ([Cepine](../ethnicities/cepine.md)) |
+| **Race** | Human ([Cepine](../lineages/cepine.md)) |
 | **Pronouns** | she/her |
 | **Age** | 17 |
 | **Class** | Druid |
@@ -42,11 +42,11 @@ Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/astorr
 
 ## Backstory
 
-Ephaine Seren was born in the village of Filisur to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../ethnicities/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
+Ephaine Seren was born in the village of Filisur to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../lineages/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
 
 She grew up in the cycle of Filisur, set in the Albulain Valley: during the spring the families here raised sheep while an [Astornox](../organisations/astornox/astornox.md) garrison watched the border region. By autumn the sheep were sheared, the grasses cut & baled, and the [Astornox](../organisations/astornox/astornox.md) garrison moved back into the kingdom's interior to avoid the winter snows.
 
-At an early age, through the old [Cepine](../ethnicities/cepine.md) customs, Seren was brought to the shepherd's mountain shrine where the stars are worshipped. Here she heard her first whispers from the heavens who had favoured her. She would be a blessing to her little valley, if she could stay hidden.
+At an early age, through the old [Cepine](../lineages/cepine.md) customs, Seren was brought to the shepherd's mountain shrine where the stars are worshipped. Here she heard her first whispers from the heavens who had favoured her. She would be a blessing to her little valley, if she could stay hidden.
 
 At 15 years old, the winter snows arrived early and completely overnight, trapping the [Astornox](../organisations/astornox/astornox.md) garrison in the valley. Over the course of their winter trapped there, they began forcefully taking stored food and grain to feed themselves. They did not do so tactically - rationing would have provided enough food for everyone to see through the winter, but instead they took as they pleased. During this time the Cepina suffered one of their worst winters in living memory.
 

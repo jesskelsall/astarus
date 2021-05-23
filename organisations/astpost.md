@@ -43,4 +43,4 @@ As a benchmark, sending a letter directly from one city to the next costs 1 sp. 
 
 ## Branches
 
-- Astpost [Northhaven](../places/cities/northhaven.md)
+- [Astpost Northhaven](../places/buildings/shops/astpost-northhaven.md)

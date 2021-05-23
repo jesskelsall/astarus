@@ -12,7 +12,7 @@
 | **Territories** | South [Kardan](../../places/continents/kardan.md) |
 | **Founded** | |
 | **Neighbours** | [Kingdom of Astor](../kingdom-of-astor/kingdom-of-astor.md) (north)<br />[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (north) |
-| **Wars** | Astor-Syntenne War (*88 PA* - current) |
+| **Wars** | Astor-Syntenne War (*88 P.A.* - current) |
 
 ## Summary
 

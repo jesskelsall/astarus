@@ -2,11 +2,11 @@
 
 ## Meteoric
 
-### Meteorite
+### [Meteorite](meteoric/meteorite.md)
 
 | []() | |
 | --- | --- |
-| **Name(s)** | Meteorite<br />Orb (unknown) |
+| **Name(s)** | [Meteorite](meteoric/meteorite.md)<br />Orb (unknown) |
 | **Weight** | 2 lb |
 | **Notes** | Curiosity |
 
@@ -14,11 +14,11 @@
 >
 > It is 1ft in diameter and seemingly perfectly spherical with few surface imperfections. Three 2in long erratic looking cracks in one area meet to form a hole in the orb, where pieces of its surface have broken off. Most of these pieces were found inside the orb along with a dark grey sand-like substance. The inside surface of the orb looks rough and haphazard.
 
-### Meteoric Dust
+### [Meteoric Dust](meteoric/meteoric-dust.md)
 
 | []() | |
 | --- | --- |
-| **Name(s)** | Meteoric Dust<br />Grey Dust (unknown) |
+| **Name(s)** | [Meteoric Dust](meteoric/meteoric-dust.md)<br />Grey Dust (unknown) |
 | **Weight** | < 1 lb |
 | **Notes** | Substance |
 

@@ -2,7 +2,7 @@
 
 | []() | |
 | --- | --- |
-| **Ethnicity** | Cepine |
+| **Lineage** | Cepine |
 | **Race(s)** | Human |
 | **Demonym** | Cepina |
 | **Homeland** | Albulain Valley |

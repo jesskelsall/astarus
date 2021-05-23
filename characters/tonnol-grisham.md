@@ -16,7 +16,7 @@
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
 | **Rank** | [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md) |
-| **Role** | Settlements / [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) |
+| **Role** | Settlements / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||

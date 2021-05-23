@@ -39,7 +39,7 @@ The villagers here are world weary and happy for this slower and simpler life, t
 
 *See: [Timeline](../../history/timeline.md)*
 
-Arnaside was founded in 297 PA, 15 years before the [campaigns](../../../campaigns/README.md) start. It was settled by a disparate group of [Malnesh](../../gods/deities/malnesh.md) worshippers who wished to worship their god in peace away from the teachings of [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md). They refer to themselves as *Malneshi* - worshippers of [Malnesh](../../gods/deities/malnesh.md).
+Arnaside was founded in 297 P.A., 15 years before the [campaigns](../../../campaigns/README.md) start. It was settled by a disparate group of [Malnesh](../../gods/deities/malnesh.md) worshippers who wished to worship their god in peace away from the teachings of [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md). They refer to themselves as *Malneshi* - worshippers of [Malnesh](../../gods/deities/malnesh.md).
 
 Since then, the village has steadily grown as other worshippers come to settle here, thanks to the diligent work of a few villagers who travel the cities and speak of the village to other worshippers.
 

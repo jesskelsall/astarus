@@ -30,4 +30,6 @@ The district is focused around [Diamond Prime](../buildings/temples/diamond-prim
   - [The Rose Buckler](../buildings/inns-taverns/the-rose-buckler.md) (cheaper, predominantly [Astornox](../../organisations/astornox/astornox.md))
   - [Valley Under the Stars](../buildings/inns-taverns/valley-under-the-stars.md) (more expensive, predominantly [Astorrel](../../organisations/astorrel/astorrel.md))
 - [Astor Square](../structures/astor-square.md)
+- [Astpost Northhaven](../buildings/shops/astpost-northhaven.md)
 - [Crafters Course](../streets/crafters-course.md) (street)
+- [Margaret's Fineries](../buildings/shops/margarets-fineries.md)

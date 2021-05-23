@@ -36,7 +36,9 @@ Due to its upmarket nature, as well as the owner and staff being retired [Astorr
 | Wine, fine (bottle) | 10 gp |
 | Fox Tail Brewery "Sea Foam Spray" | 6 cp | Pale ale |
 | Fox Tail Brewery "Blood Moon" | 1 sp 5 cp | Ruby ale |
+| Eaglesfield whiskey | 10 gp |
 | Meals (wealthy), 1 day | 8 sp |
+| Chocolate cake, 1 slice | 5 sp |
 
 ### Accommodation
 

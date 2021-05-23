@@ -21,7 +21,7 @@ Cleo Hurley, the wife of Janus Hurley, was one such victim. She died in the nigh
 
 ### [PR02](../sessions/PR02.md)
 
-During the night, the wolf pack in [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md) are attacked from deeper in the cave by the three Meteoric Watchers. They hatched two days ago and have grown big enough to threaten the wolves directly. Many of them are slaughtered, but about half of the pack manage to escape, including the matriarchal dire wolf. They run towards [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in a panicked frenzy. Occasionally a few wolves split from the pack, most returning shortly after.
+During the night, the wolf pack in [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md) are attacked from deeper in the cave by the three [Meteoric Watchers](../creatures/meteoric-watcher.md). They hatched two days ago and have grown big enough to threaten the wolves directly. Many of them are slaughtered, but about half of the pack manage to escape, including the matriarchal dire wolf. They run towards [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in a panicked frenzy. Occasionally a few wolves split from the pack, most returning shortly after.
 
 While the [Purple Rain](../campaigns/purple-rain.md) party (minus [Wizira](../characters/wizira.md)) slept at [Holyrook Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/holyrook-farm.md) during their first night in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), two wolves attacked the cow barn in which they were sleeping. The party killed both wolves.
 
@@ -37,7 +37,7 @@ This puts an end to the wolves threatening [Goldreach](../civilisations/kingdom-
 
 ### [PR04](../sessions/PR04.md)
 
-Heading north west out of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in search of the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md), the party soon find wolf tracks, with some blood spots amongst the dirt and grass. They track this north towards [Nightcrest Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/nightcrest-farm.md) before choosing to check at the farm for information about the meteorite.
+Heading north west out of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in search of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), the party soon find wolf tracks, with some blood spots amongst the dirt and grass. They track this north towards [Nightcrest Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/nightcrest-farm.md) before choosing to check at the farm for information about the [meteorite](../items/meteoric/meteorite.md).
 
 ### [PR05](../sessions/PR05.md)
 
@@ -51,4 +51,4 @@ The party correctly deduce that the wolves that fled were the ones that attacked
 
 ### [PR08](../sessions/PR08.md)
 
-The party puts together the final piece of the puzzle: the wolves in [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md) were killed by the Meteoric Watchers following the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md)'s crash landing, and their subsequent hatching. The attack was brutal and devastating, forcing the rest out of the cave in a panic.
+The party puts together the final piece of the puzzle: the wolves in [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md) were killed by the [Meteoric Watchers](../creatures/meteoric-watcher.md) following the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md)'s crash landing, and their subsequent hatching. The attack was brutal and devastating, forcing the rest out of the cave in a panic.

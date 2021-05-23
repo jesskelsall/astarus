@@ -104,7 +104,7 @@ Ahsha and [Sharakas](../characters/sharakas.md) are blindfolded with grain sacks
 
 ### [AA05](../sessions/AA05.md)
 
-[Ahsha Sallas](../characters/ahsha-sallas.md) and [Sharakas](../characters/sharakas.md) are lead into the cave, coming face to face with the [blue kobold](../ethnicities/blue-kobold.md) leader, [Ikra](../characters/ikra.md). When it becomes apparent that he speaks common, Ahsha is able to negotiate herself. She explains that she is here to help protect the forest and wishes to negotiate a peace treaty between the kobolds and the village of [Arnaside](../places/villages/arnaside.md).
+[Ahsha Sallas](../characters/ahsha-sallas.md) and [Sharakas](../characters/sharakas.md) are lead into the cave, coming face to face with the [blue kobold](../lineages/blue-kobold.md) leader, [Ikra](../characters/ikra.md). When it becomes apparent that he speaks common, Ahsha is able to negotiate herself. She explains that she is here to help protect the forest and wishes to negotiate a peace treaty between the kobolds and the village of [Arnaside](../places/villages/arnaside.md).
 
 She struggles to explain currency and even trade to [Ikra](../characters/ikra.md), but pushes through the frustration and manages. [Ikra](../characters/ikra.md) offers first their large polished turquoise gemstone and then their [Blue Dragon Scale Necklace](../items/blue-dragon-scale-necklace.md) as payment to be left alone indefinitely, but Ahsha refuses, instead asking [Ikra](../characters/ikra.md) what the kobolds need. They need food and leather to survive.
 

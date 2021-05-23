@@ -10,7 +10,7 @@
 
 ## Summary
 
-The Blue Kobold Cave system is set within a hill deep in the [Walna Forest](../forests/walna-forest.md), north of the [Arnaside Logging Camp](../structures/arnaside-logging-camp.md). It is home to a tribe of [blue kobolds](../../ethnicities/blue-kobold.md).
+The Blue Kobold Cave system is set within a hill deep in the [Walna Forest](../forests/walna-forest.md), north of the [Arnaside Logging Camp](../structures/arnaside-logging-camp.md). It is home to a tribe of [blue kobolds](../../lineages/blue-kobold.md).
 
 The cave itself has been carved into the stone hillside, with maze-like twisting passageways, elevation changes, large open rooms, and an inner sanctum hidden behind a wooden door and narrow snaking passageway.
 

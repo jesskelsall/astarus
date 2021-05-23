@@ -21,7 +21,7 @@ The party are placed in [sanctuary](../organisations/astorrel/sanctuary.md) quar
 
 Garrick makes it clear that the offer lasts as long as he is willing to guard them, which he must do from a chair outside their quarters 24/7. His subordinate guards will be running errands and helping him while he does so. Once he tires of this, he will rescind the offer and they'll be forced to leave.
 
-On the first evening the party is visited by [Elysia Vanderboss](../characters/elysia-vanderboss.md) who sees the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md) and inquires about the circumstances surrounding their acquisition of it. She implores them to keep it a secret and tell no-one.
+On the first evening the party is visited by [Elysia Vanderboss](../characters/elysia-vanderboss.md) who sees the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and inquires about the circumstances surrounding their acquisition of it. She implores them to keep it a secret and tell no-one.
 
 In the morning after breakfast the party is visited by [Levelle Tristwix](../characters/levelle-tristwix.md) who is concerned about the [Astornox](../organisations/astornox/astornox.md) the party has killed, and what brings them here. Levelle and [Wizira](../characters/wizira.md) talk about [Wizira's Father](../characters/wiziras-father.md) and how his plight fits into [the firbolg controversy](the-firbolg-controversy.md) as a whole.
 

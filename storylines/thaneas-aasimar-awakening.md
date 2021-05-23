@@ -27,7 +27,7 @@ The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [findin
 
 ### [PR07](../sessions/PR07.md)
 
-[Thanea](../../../astarus/people/thanea.md)'s dream and her conviction that it is prophetic leads the party to find [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), where they find a meteorite crater containing the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor. When the party observes, its glow changes from bright white to purple, much like the flames of the forest did in her dream.
+[Thanea](../../../astarus/people/thanea.md)'s dream and her conviction that it is prophetic leads the party to find [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), where they find a [meteorite](../items/meteoric/meteorite.md) crater containing the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor. When the party observes, its glow changes from bright white to purple, much like the flames of the forest did in her dream.
 
 ### [PR10](../sessions/PR10.md)
 
@@ -37,7 +37,7 @@ After leaving [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREAC
 
 [Saoirse](../../../astarus/people/saoirse.md) remarks that [Thanea](../../../astarus/people/thanea.md) is supposed to be "the crazy one" due to her dreams.
 
-[Thanea](../../../astarus/people/thanea.md) tells [Wrenn Piznarck](../characters/wrenn-piznarck.md) that her prophetic dream of the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md) helped lead the party to its location in [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). She asks Wrenn if he is aware of anyone else that has such dreams, but he is not.
+[Thanea](../../../astarus/people/thanea.md) tells [Wrenn Piznarck](../characters/wrenn-piznarck.md) that her prophetic dream of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) helped lead the party to its location in [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). She asks Wrenn if he is aware of anyone else that has such dreams, but he is not.
 
 He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they are in has passed, he would like to introduce her to someone that has visions of the future, though they have them while awake. He references an old word for the phenomenon: seer.
 

@@ -55,9 +55,9 @@ When he was younger, Alistair was stationed in Kilflynn with [Wrenn Piznarck](wr
 
 *See: [Finding the Goldreach Meteorite](../storylines/finding-the-goldreach-meteorite.md)*
 
-Following the impact of the [Goldreach Meteorite](../items/meteorites/goldreach-meteorite.md), Alistair saw an influx of people into [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). This put him on edge as more people typically means more trouble.
+Following the impact of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), Alistair saw an influx of people into [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). This put him on edge as more people typically means more trouble.
 
-Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the town from [Northhaven](../places/cities/northhaven.md) to investigate the meteorite. He agreed to host him in his home while he had business in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
+Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the town from [Northhaven](../places/cities/northhaven.md) to investigate the [meteorite](../items/meteoric/meteorite.md). He agreed to host him in his home while he had business in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
 
 ### [PR01](../sessions/PR01.md)
 
@@ -71,7 +71,7 @@ Following [Wrenn Piznarck](wrenn-piznarck.md)'s conversation with the party here
 
 Around the time of this [Purple Rain](../campaigns/purple-rain.md) session, [Wrenn Piznarck](wrenn-piznarck.md) was caught looking through the [Goldreach Astornox Stronghold](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/goldreach-astornox-stronghold.md) for [Wizira's Father](wiziras-father.md), or any evidence that he was once here. When confronted by Alistair, Wrenn accidentally admitted to knowing [Wizira](wizira.md), effectively admitting to harbouring [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
-Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their return or face serious punishment (likely death). He agreed, but later reneged, recruiting meteorite adventurers to find the party with the help of his crow familiar, and went into hiding in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
+Alistair gave Wrenn an ultimatum: turn the party over to Alistair upon their return or face serious punishment (likely death). He agreed, but later reneged, recruiting [meteorite](../items/meteoric/meteorite.md) adventurers to find the party with the help of his crow familiar, and went into hiding in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
 
 ### [PR10](../sessions/PR10.md)
 
