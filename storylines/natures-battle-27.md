@@ -35,3 +35,11 @@ The party is excited at the prospect of competing.
 ### [PR22](../sessions/PR22.md)
 
 The [Purple Rain](../campaigns/purple-rain.md) party accepts [Liabella Peacock](../characters/liabella-peacock.md)'s offer to compete in Nature's Battle 27, replying to her letter.
+
+### [PR23](../sessions/PR23.md)
+
+The match between [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) and [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) takes place. [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) wins.
+
+During the fight [Wizira](../characters/wizira.md) downs [Yoroe Briskboots](../characters/yoroe-briskboots.md) with Ice Knife. The subsequent explosion of ice damages her while she is unconscious, drawing cries from the crowd who are aware of the tournament's rules. Fortunately an [Astorrel member](../organisations/astorrel/ranks/astorrel-member.md) is able to get to Yoroe quickly. They cast Spare the Dying, giving the thumbs up to [Liabella Peacock](../characters/liabella-peacock.md) that she is okay. The fight continues uninterrupted.
+
+[Torbra Tauff](../characters/torbra-tauff.md) comes very close to decapitating [Diarmuid Kavanagh](../characters/diarmuid-kavanagh.md) which her final halberd strike against him. Instead she opens up a gash on the back of his neck, the shock from which knocks him unconscious.

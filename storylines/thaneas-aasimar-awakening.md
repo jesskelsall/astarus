@@ -64,3 +64,9 @@ In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hida
 [Thanea Morlay](../characters/thanea-morlay.md) uses her downtime in [Northhaven](../places/cities/northhaven.md) to research her prophetic dreams in [Hawk's Perch](../places/buildings/hawks-perch.md). She finds mention of those with foresight (seers), with the text suggesting that it may be a form of magical manifestation.
 
 She also tries to research humanoids with wings, but only finds information on aarakocra.
+
+### [PR23](../sessions/PR23.md)
+
+[Thanea Morlay](../characters/thanea-morlay.md) returns to the street in [Eskrigg](../places/cities/eskrigg.md) that she commuted to [Vorrinel's Stand](../places/buildings/vorrinels-stand.md) along. She recognises it as the starting point of her third deva dream, triggering a strong sense of déjà vu.
+
+Realising the implication of another prophetic dream coming to fruition and her own feelings that they never end well, she takes off down a back alley, losing [Wizira](../characters/wizira.md) who was with her. [Wizira](../characters/wizira.md) eventually finds her slumped against a statue, sobbing to herself. Finding a crying Thanea, [Wizira](../characters/wizira.md) asks what is wrong. Thanea mumbles a non-answer before the pair return to the [Eskrigg Astorrel Stronghold](../places/strongholds/eskrigg-astorrel-stronghold.md) for the night.

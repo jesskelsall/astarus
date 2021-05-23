@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | |
-| **Places** | [Eskrigg](../places/cities/eskrigg.md) [Astorrel](../organisations/astorrel/astorrel.md) Stronghold |
+| **Places** | [Eskrigg Astorrel Stronghold](../places/strongholds/eskrigg-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
