@@ -14,4 +14,4 @@
 
 ## Summary
 
-Birch Squad took part in the [Nature's Battle](../../../storylines/natures-battle.md) tournament.
+Birch Squad took part in [Nature's Battle 27](../../../storylines/natures-battle-27.md).

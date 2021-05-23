@@ -14,4 +14,4 @@
 
 ## Summary
 
-Horizon Squad took part in the [Nature's Battle](../../../storylines/natures-battle.md) tournament.
+Horizon Squad took part in [Nature's Battle 27](../../../storylines/natures-battle-27.md).

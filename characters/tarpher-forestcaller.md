@@ -24,4 +24,4 @@
 
 ## Summary
 
-Tarpher Forestcaller is a guest character for the [Nature's Battle](../storylines/natures-battle.md) tournament, played by Scott.
+Tarpher Forestcaller is a guest character for [Nature's Battle 27](../storylines/natures-battle-27.md), played by Scott.

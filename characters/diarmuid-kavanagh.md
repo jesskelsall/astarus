@@ -24,7 +24,7 @@
 
 ## Summary
 
-Diarmuid Kavanagh is a [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) member created specifically to compete in the [Nature's Battle](../storylines/natures-battle.md) tournament.
+Diarmuid Kavanagh is a [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 27](../storylines/natures-battle-27.md).
 
 His name is pronounced: *deer-mid kav-an-ah*.
 

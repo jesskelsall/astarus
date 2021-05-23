@@ -26,11 +26,11 @@ Soldiers are afforded the opportunity to share their stories of glory and triump
 
 ## Events
 
-### [Nature's Battle](../storylines/natures-battle.md)
+### [Nature's Battle](../mechanics/roleplay/natures-battle.md)
 
-As the [Astorrel](../organisations/astorrel/astorrel.md) promote their newest recruits in Finsbock, a month of [Kirrel](../gods/deities/kirrel.md), one of the main draws of Blade's Rest is the [Nature's Battle](../storylines/natures-battle.md) tournament. This is held every year in [Eskrigg](../places/cities/eskrigg.md)'s arena, [Vorrinel's Stand](../places/buildings/vorrinels-stand.md).
+As the [Astorrel](../organisations/astorrel/astorrel.md) promote their newest recruits in Finsbock, a month of [Kirrel](../gods/deities/kirrel.md), one of the main draws of Blade's Rest is the [Nature's Battle](../mechanics/roleplay/natures-battle.md) tournament. This is held every year in [Eskrigg](../places/cities/eskrigg.md)'s arena, [Vorrinel's Stand](../places/buildings/vorrinels-stand.md).
 
-[Astorrel](../organisations/astorrel/astorrel.md) squads from the latest intake are invited to take part in [Nature's Battle](../storylines/natures-battle.md), travelling to [Eskrigg](../places/cities/eskrigg.md) to fight in front of a large audience of [Astornox](../organisations/astornox/astornox.md), citizens, and drigg alike.
+[Astorrel](../organisations/astorrel/astorrel.md) squads from the latest intake are invited to take part in [Nature's Battle](../mechanics/roleplay/natures-battle.md), travelling to [Eskrigg](../places/cities/eskrigg.md) to fight in front of a large audience of [Astornox](../organisations/astornox/astornox.md), citizens, and drigg alike.
 
 The event is hosted by [Liabella Peacock](../characters/liabella-peacock.md), [Astorrel](../organisations/astorrel/astorrel.md) General of Culture, with the assistance of [Levelle Tristwix](../characters/levelle-tristwix.md), [Astorrel Commandant](../organisations/astorrel/ranks/astorrel-commandant.md).
 

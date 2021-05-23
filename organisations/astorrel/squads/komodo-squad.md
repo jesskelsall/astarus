@@ -14,4 +14,4 @@
 
 ## Summary
 
-Komodo Squad is from the same [Astorrel](../astorrel.md) graduate cohort as [Canary Squad](canary-squad.md). They are participating in the [Nature's Battle](../../../storylines/natures-battle.md) tournament and are played by guests.
+Komodo Squad is from the same [Astorrel](../astorrel.md) graduate cohort as [Canary Squad](canary-squad.md). They are participating in [Nature's Battle 27](../../../storylines/natures-battle-27.md) and are played by guests.

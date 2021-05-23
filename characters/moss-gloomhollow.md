@@ -24,4 +24,4 @@
 
 ## Summary
 
-Moss Gloomhollow is a guest character for the [Nature's Battle](../storylines/natures-battle.md) tournament, played by Jack.
+Moss Gloomhollow is a guest character for [Nature's Battle 27](../storylines/natures-battle-27.md), played by Jack.

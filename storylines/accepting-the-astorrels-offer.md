@@ -33,4 +33,4 @@ The party engages in combat with two tigers, a giant spider, and a giant scorpio
 
 With this, the graduation is ended when Levelle pins [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) badges on each party member. When they ask the party what their chosen squad name is, they name themselves [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md).
 
-When [Elysia Vanderboss](../characters/elysia-vanderboss.md) is then promoted to [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) it becomes clear that she will be the party's superior officer when they return from the [Nature's Battle](natures-battle.md) tournament to start their [Astorrel](../organisations/astorrel/astorrel.md) duties.
+When [Elysia Vanderboss](../characters/elysia-vanderboss.md) is then promoted to [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) it becomes clear that she will be the party's superior officer when they return from the [Nature's Battle](../mechanics/roleplay/natures-battle.md) tournament to start their [Astorrel](../organisations/astorrel/astorrel.md) duties.
