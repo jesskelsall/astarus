@@ -1,6 +1,6 @@
 # Noon Schiller
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/ec514d55f424de69.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/8de47544818b859b.png" height="500" />
 
 |||
 | --- | --- |
@@ -10,7 +10,7 @@
 | **Age** | 20 |
 | **Class** | Warlock |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | |
+| **Relations** | [Nills](nills.md) (Warlock patron) |
 | **Places** | |
 |||
 | **Citizenship** | |
@@ -20,7 +20,7 @@
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 |||
-| **Image ID** | `ec514d55f424de69` |
+| **Image ID** | `ec514d55f424de69` ([Nature's Battle](../mechanics/roleplay/natures-battle.md))<br />`8de47544818b859b` |
 
 ## Summary
 
@@ -42,21 +42,15 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/astorr
 
 ## Backstory
 
-TODO general backstory
+Noon was born in Ballabeg (publicly: Baldrine) into the [Schiller family](../organisations/schiller-family.md), a wealthy and powerful family on [Kardanis](../places/regions/kardanis.md). As the family heir, Noon was infused with [Nills](nills.md) (an aspect of [Nilliski](nilliski.md)) prior to his birth in a blood ritual conducted by his family, honouring the pact that the Schillers made with [Nilliski](nilliski.md) generations ago.
 
-- Place of birth:
-  - Baldrine (publicly), Ballabeg (secret blood ritual).
-- [Magicborn](../civilisations/kingdom-of-astor/magicborn.md) origins:
-  - Blood ritual, magic abilities since young age.
-- Joining the [Astorrel](../organisations/astorrel/astorrel.md):
-  - Getting out from underneath his family's shadow and prove himself (publicly). [Nilliski](nilliski.md)'s secret machinations (reality).
-  - Showed raw magical power to impress them.
-- Feeling toward the [Astorrel](../organisations/astorrel/astorrel.md) mission:
-  - Believes in their goals (publicly). Indifferent and beneath him (reality).
-- [Astorrel](../organisations/astorrel/astorrel.md) training length (2-4 years)
-  - A little over 2 years - very studious, encouraged by [Nilliski](nilliski.md).
-- First mission
-- [Nilliski](nilliski.md)
+From a young age [Nills](nills.md) helped Noon master her magic that flows within him, manifesting as magical powers. The pair grew closer, [Nills](nills.md) helping Noon navigate early life choices and proving trustworthy. Noon came to understand that [Nills](nills.md) was worth listening to, eventually seeing her orders and suggestions as his own.
+
+Once old enough, [Nills](nills.md) instructed Noon to leave home and join the [Astornox](../organisations/astornox/astornox.md). Noon presented this decision publicly as a desire to forge his own path and get out from under his family's shadow. While Noon claims to agree with the goals of the [Astorrel](../organisations/astorrel/astorrel.md), he is actually indifferent to [Kirrel](../gods/deities/kirrel.md)'s teachings and finds the military organisation beneath him.
+
+Noon convinced the [Astorrel](../organisations/astorrel/astorrel.md) to hire him by demonstrating his magic. He demonstrated his magic on a brick wall outside the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), destroying it with the help of extra magical energy contributed by [Nills](nills.md). This was enough to convince the [Astorrel](../organisations/astorrel/astorrel.md) to train him.
+
+While training in and around [Dunmore](../places/cities/dunmore.md), Noon showed excellent academic knowledge, needing little training in that regard. Instead Noon spent his 2 years of training outdoors with his mentor, learning about nature and how to protect it first-hand. Noon found this incredibly dull but persevered at [Nills](nills.md)' request.
 
 ### Prior to Introduction
 
