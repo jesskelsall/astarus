@@ -13,32 +13,39 @@ Strigids are a near extinct race of owlfolk that arrived on [Astarus](../planes/
 
 Following [The Arrival](../history/events/the-arrival.md), strigid society reacted to [the arrival](../history/events/the-arrival.md) of the greater races by abandoning their villages in favour of high mountain perches, destroying evidence of their existence as they left.
 
+## People
+
+- [Nallu](../characters/nallu.md)
+- [Bhirpani](../characters/bhirpani.md)
+- [Hanispur](../characters/hanispur.md)
+
+---
+
 ## TODO
 
+History  
 Religion - Pajaru, star god
 
-Names:
+## Names
 
-Jiri
-Namadi
-Kathjor
-Bhirpani
-Sunkhani
-Chautara
-Melamchi
-Rasnalu
-Mulkharka
-Korak
-Birendranagar
-Resunga
-Damek
-Ramdi
-Bhingri
-Tiram
-Hanispur
-Jhenam
-Dhakdam
-Marpha
-Nar
-Chumchet
-Bihi
+- Bhingri
+- Bihi
+- Birendranagar
+- Chautara
+- Chumchet
+- Damek
+- Dhakdam
+- Jhenam
+- Jiri
+- Kathjor
+- Korak
+- Marpha
+- Melamchi
+- Mulkharka
+- Namadi
+- Nar
+- Ramdi
+- Rasnalu
+- Resunga
+- Sunkhani
+- Tiram

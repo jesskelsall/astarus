@@ -1,10 +1,10 @@
-# Nallu
+# Bhirpani
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/036f6f3e81303b3f.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3306546df4a63e35.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Nallu | character.3
+| **Name** | Bhirpani | character.3
 | **Race** | [Strigid](../lineages/strigid.md) |
 | **Pronouns** | |
 | **Age** | |
@@ -16,13 +16,11 @@
 | **Citizenship** | |
 | **Organisation** | |
 |||
-| **Image ID** | `036f6f3e81303b3f` |
+| **Image ID** | `3306546df4a63e35` |
 
 ## Summary
 
 TODO
-
-Nallu is the magic user that wishes to meet the last of his kind, summoning [Ephaine Seren](ephaine-seren.md).
 
 ## Characteristics
 

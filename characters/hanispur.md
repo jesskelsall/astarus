@@ -1,14 +1,14 @@
-# Nallu
+# Hanispur
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/036f6f3e81303b3f.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b3ff557b08a554ef.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Nallu | character.3
+| **Name** | Hanispur | character.3
 | **Race** | [Strigid](../lineages/strigid.md) |
 | **Pronouns** | |
 | **Age** | |
-| **Class** | Druid (Circle of the Stars) |
+| **Class** | Ranger |
 | **Worship** | Pajaru |
 | **Relations** | |
 | **Places** | |
@@ -16,13 +16,11 @@
 | **Citizenship** | |
 | **Organisation** | |
 |||
-| **Image ID** | `036f6f3e81303b3f` |
+| **Image ID** | `b3ff557b08a554ef` |
 
 ## Summary
 
 TODO
-
-Nallu is the magic user that wishes to meet the last of his kind, summoning [Ephaine Seren](ephaine-seren.md).
 
 ## Characteristics
 
