@@ -17,7 +17,7 @@
 
 ## Summary
 
-Gwinthel Greenhand is a potion brewer who is about to open their own shop on Crafter Course: "Glug by Gwinthel". They are running [Gwinthel's Potion Tombola](../mechanics/roleplay/gwinthels-potion-tombola.md) to advertise their soon to open business.
+Gwinthel Greenhand is a potion brewer who is about to open their own shop on Crafter Course: "Glug by Gwinthel". They are running [Gwinthel's Potion Tombola](../mechanics/roleplay/games/gwinthels-potion-tombola.md) to advertise their soon to open business.
 
 ## Characteristics
 

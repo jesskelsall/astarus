@@ -31,7 +31,7 @@ The party remains in [sanctuary](../organisations/astorrel/sanctuary.md) in [The
 
 They are visited by [Carras Southroot](../characters/carras-southroot.md) and [Norsha Costello](../characters/norsha-costello.md) who question them about [Wrenn Piznarck](../characters/wrenn-piznarck.md)'s last known whereabouts as well as what he was doing in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in the first place. They are honest in their answers.
 
-[Mergin Thorgus](../characters/mergin-thorgus.md) visits, providing the party with some writing supplies and [Twenties](../mechanics/roleplay/twenties.md) dice, as well as a copy of [Northhaven Town Crier Script 312-5-06](../papers/letters/northhaven-town-crier-script-312-5-06.md) which shows how the [Astornox](../organisations/astornox/astornox.md) are demanding the release of the party from [sanctuary](../organisations/astorrel/sanctuary.md).
+[Mergin Thorgus](../characters/mergin-thorgus.md) visits, providing the party with some writing supplies and [Twenties](../mechanics/roleplay/games/twenties.md) dice, as well as a copy of [Northhaven Town Crier Script 312-5-06](../papers/letters/northhaven-town-crier-script-312-5-06.md) which shows how the [Astornox](../organisations/astornox/astornox.md) are demanding the release of the party from [sanctuary](../organisations/astorrel/sanctuary.md).
 
 On hearing about another firbolg, [Rowan Great Sile](../characters/rowan-great-sile.md) visits to speak with [Wizira](../characters/wizira.md) about her clan and their location.
 

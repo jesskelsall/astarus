@@ -10,6 +10,8 @@
 
 ## Summary
 
+*See also: [Astorrel Map of South East Kardan](../../papers/maps/astorrel-map-of-south-east-kardan.md)*
+
 The south east of [Kardan](../continents/kardan.md) is a temperate region that lends itself well to farming, with snow-capped mountains to its north and dense forests typically at their base. Between here and the sea lie fertile plains that are kept wet by the 4 rivers coming off the mountains, and the rain that falls when the clouds hit the mountains.
 
 During the summer the days are long and warm, with little cloud coverage. During the winter there is snow in the mountains and highlands. In between there is much rain.

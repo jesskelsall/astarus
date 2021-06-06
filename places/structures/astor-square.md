@@ -32,7 +32,7 @@ It is a square made mostly of stone, with some iron and wood benches for seating
 
 ### [Astorrel Agents](../../campaigns/astorrel-agents.md)
 
-- [Gwinthel's Potion Tombola](../../mechanics/roleplay/gwinthels-potion-tombola.md)
+- [Gwinthel's Potion Tombola](../../mechanics/roleplay/games/gwinthels-potion-tombola.md)
 
 ### Town Crier
 

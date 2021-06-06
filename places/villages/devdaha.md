@@ -1,13 +1,13 @@
-# Place Template
+# Devdaha
 
 | []() | |
 | --- | --- |
 | **Name** | |
 | **Type** | |
 | **Location** | |
-| **Period** | | *Delete if not current day*
-| **Civilisation** | | *Delete if not settlement*
-| **Population** | | *Delete if not settlement*
+| **Period** | |
+| **Civilisation** | [Strigid](../../lineages/strigid.md) |
+| **Population** | 45 |
 | **Nearby Places** | |
 | **People** | |
 

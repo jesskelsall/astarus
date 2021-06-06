@@ -6,7 +6,7 @@
 | --- | --- |
 | **Name** | Hanispur | character.3
 | **Race** | [Strigid](../lineages/strigid.md) |
-| **Pronouns** | |
+| **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Ranger |
 | **Worship** | Pajaru |

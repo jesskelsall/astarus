@@ -2,7 +2,7 @@
 
 Twenties is a dice game that is played as a form of gambling. It is played with the same d20 and d6 dice that Dungeons & Dragons is played with.
 
-It originates from the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) and is typically played in inns.
+It originates from the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) and is typically played in inns.
 
 It is typically played with two [players](../../players/logan.md) who compete against each other, though it could be played with more [players](../../players/logan.md) easily. It is possible for the game to end in a draw, though unlikely.
 
