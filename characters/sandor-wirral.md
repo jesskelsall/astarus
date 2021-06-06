@@ -6,7 +6,7 @@ Human male
 | []() | |
 | --- | --- |
 | **Name** | Sandor Quintus Wirral |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 64 |
 | **Class** | |

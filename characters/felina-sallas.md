@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Felina Sallas |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Female |
 | **Age** | 43 |
 | **Class** | |

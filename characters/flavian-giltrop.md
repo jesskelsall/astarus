@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Flavian Giltrop | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | he/him |
 | **Age** | 179 |
 | **Class** | |

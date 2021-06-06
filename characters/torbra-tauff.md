@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Torbra Tauff | character.3
-| **Race** | Genasi (Earth) |
+| **Lineage** | Genasi (Earth) |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Fighter |

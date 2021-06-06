@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Ludolf Hornwallis |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 57 |
 | **Class** | Wizard |

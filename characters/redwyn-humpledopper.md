@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Redwyn Humpledopper | character.3
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Pronouns** | she/her |
 | **Age** | 29 |
 | **Class** | Bard |

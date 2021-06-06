@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Clatter | character.3
-| **Race** | Kenku |
+| **Lineage** | Kenku |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Rogue (Scout) |

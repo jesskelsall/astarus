@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Reozin Ironhide | character.3
-| **Race** | Minotaur |
+| **Lineage** | Minotaur |
 | **Pronouns** | he/him |
 | **Age** | 18 |
 | **Class** | Barbarian (Path of the Berserker) |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Alos Varkann | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | they/them |
 | **Age** | |
 | **Class** | Barbarian |

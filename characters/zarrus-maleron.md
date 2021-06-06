@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Zarrus Maleron |
-| **Race** | Tiefling |
+| **Lineage** | Tiefling |
 | **Gender** | Male |
 | **Age** | 26 |
 | **Class** | |

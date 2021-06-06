@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Faelon Fireburner | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Fighter (Eldritch Knight) |

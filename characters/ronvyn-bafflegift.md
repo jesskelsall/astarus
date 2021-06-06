@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Ronvyn Bafflegift | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | he/him |
 | **Age** | 77 |
 | **Class** | |

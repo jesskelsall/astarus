@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Louise Perkins |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Female |
 | **Age** | 25 |
 | **Class** | |

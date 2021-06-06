@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Ormila Grizgrep |
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Gender** | Female |
 | **Age** | 92 |
 | **Class** | |

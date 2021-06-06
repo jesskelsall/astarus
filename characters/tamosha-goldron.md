@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Tamosha Goldron | character.3
-| **Race** | Half-orc |
+| **Lineage** | Half-orc |
 | **Pronouns** | she/her |
 | **Age** | 46 |
 | **Class** | |

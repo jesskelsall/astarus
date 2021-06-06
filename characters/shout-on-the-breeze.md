@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Shout on the Breeze |
-| **Race** | Tabaxi |
+| **Lineage** | Tabaxi |
 | **Gender** | Male |
 | **Age** | 38 |
 | **Class** | |

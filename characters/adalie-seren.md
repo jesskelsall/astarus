@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Adalie Seren |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Female |
 | **Age** | 46 |
 | **Class** | |

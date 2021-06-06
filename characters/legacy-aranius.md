@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Legacy Aranius | character.3
-| **Race** | Tiefling |
+| **Lineage** | Tiefling |
 | **Pronouns** | he/him |
 | **Age** | 53 |
 | **Class** | |

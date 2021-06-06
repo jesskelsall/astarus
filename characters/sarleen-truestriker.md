@@ -5,7 +5,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Sarleen Truestriker |
-| **Race** | Half-orc |
+| **Lineage** | Half-orc |
 | **Gender** | Female |
 | **Age** | |
 | **Class** | Monk |

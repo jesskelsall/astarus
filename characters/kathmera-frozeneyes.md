@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Kathmera Frozeneyes | character.3
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | |

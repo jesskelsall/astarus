@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Snatlu | character.3
-| **Race** | Kobold |
+| **Lineage** | Kobold |
 | **Pronouns** | he/him |
 | **Age** | 12 |
 | **Class** | |

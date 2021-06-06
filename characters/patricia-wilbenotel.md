@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Patricia Wilbenotel | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | she/her |
 | **Age** | 253 |
 | **Class** | |

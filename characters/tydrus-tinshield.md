@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Tydrus Tinshield |
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Gender** | Male |
 | **Age** | 118 |
 | **Class** | |

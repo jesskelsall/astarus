@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Elysia Vanderboss | character.3
-| **Race** | Tiefling |
+| **Lineage** | Tiefling |
 | **Pronouns** | she/her |
 | **Age** | 37 |
 | **Class** | Rogue |

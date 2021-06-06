@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Viv Dalnick |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Female |
 | **Age** | 24 |
 | **Class** | |

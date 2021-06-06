@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Nilliski | character.3
-| **Race** | Demon |
+| **Lineage** | Demon |
 | **Pronouns** | they/them |
 | **Age** | |
 | **Class** | |

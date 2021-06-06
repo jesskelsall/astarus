@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Uther Wildfang | character.3
-| **Race** | Goliath |
+| **Lineage** | Goliath |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Barbarian (Path of the Berserker) |

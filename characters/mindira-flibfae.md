@@ -5,7 +5,7 @@
 | | |
 | --- | --- |
 | **Name** | Mindira Flibfae | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | she/her |
 | **Age** | 51 |
 | **Class** | |

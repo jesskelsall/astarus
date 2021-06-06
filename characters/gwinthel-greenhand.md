@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Gwinthel Greenhand |
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Gender** | Non-binary |
 | **Age** | 74|
 | **Class** | |

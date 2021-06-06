@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Blair Tawnsey |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 32 |
 | **Class** | |

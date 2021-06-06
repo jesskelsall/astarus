@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Norma Collarbone | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Druid (Circle of the Shepherd) |

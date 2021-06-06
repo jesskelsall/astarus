@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Tabari Se | character.3
-| **Race** | Halfling |
+| **Lineage** | Halfling |
 | **Pronouns** | he/him |
 | **Age** | 41 |
 | **Class** | Monk / Sorcerer |

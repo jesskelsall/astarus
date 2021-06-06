@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Tarpher Forestcaller | character.3
-| **Race** | Halfling |
+| **Lineage** | Halfling |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Druid (Circle of the Moon) |

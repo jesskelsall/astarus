@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Vilnia Kovas | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 33 (dead) |
 | **Class** | Wizard (School of Enchantment) |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Morgan Caithness | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 29 |
 | **Class** | Fighter |

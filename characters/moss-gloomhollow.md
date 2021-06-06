@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Moss Gloomhollow | character.3
-| **Race** | Goblin |
+| **Lineage** | Goblin |
 | **Pronouns** | they/he |
 | **Age** | |
 | **Class** | Ranger (Swarmkeeper) |

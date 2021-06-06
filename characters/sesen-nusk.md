@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Sesen Nusk | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | |

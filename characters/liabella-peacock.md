@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Liabella Peacock | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 42 |
 | **Class** | |

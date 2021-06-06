@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Kulegar Bronhor | character.3
-| **Race** | Half-orc |
+| **Lineage** | Half-orc |
 | **Pronouns** | he/him |
 | **Age** | 29 |
 | **Class** | |

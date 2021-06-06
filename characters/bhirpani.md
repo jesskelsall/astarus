@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Bhirpani | character.3
-| **Race** | [Strigid](../lineages/strigid.md) |
+| **Lineage** | [Strigid](../lineages/strigid.md) |
 | **Pronouns** | |
 | **Age** | |
 | **Class** | Druid (Circle of the Stars) |

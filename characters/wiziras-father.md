@@ -5,7 +5,7 @@ TODO
 | []() | |
 | --- | --- |
 | **Name** | |
-| **Race** | Firbolg |
+| **Lineage** | Firbolg |
 | **Gender** | |
 | **Age** | |
 | **Class** | |

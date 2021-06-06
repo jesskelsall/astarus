@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Schaef Seren |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 45 |
 | **Class** | |

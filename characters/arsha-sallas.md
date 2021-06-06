@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Arsha Sallas |
-| **Race** | Orc |
+| **Lineage** | Orc |
 | **Gender** | Male |
 | **Age** | 48 |
 | **Class** | |

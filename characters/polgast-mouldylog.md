@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Polgast Mouldylog | character.3
-| **Race** | Halfling |
+| **Lineage** | Halfling |
 | **Pronouns** | he/him |
 | **Age** | 75 |
 | **Class** | |

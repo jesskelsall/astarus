@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Trynelle Mildrabbit | character.3
-| **Race** | Halfling |
+| **Lineage** | Halfling |
 | **Pronouns** | she/her |
 | **Age** | 30 |
 | **Class** | |

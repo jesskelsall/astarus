@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Moss Under the Crumbling Cliffs |
-| **Race** | Tabaxi |
+| **Lineage** | Tabaxi |
 | **Gender** | Female |
 | **Age** | 38 |
 | **Class** | Wizard / Druid |

@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Oleg Purley |
-| **Race** | Halfling |
+| **Lineage** | Halfling |
 | **Gender** | Male |
 | **Age** | 53 |
 | **Class** | |

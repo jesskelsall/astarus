@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Panafiz Zemblelimble | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | they/them |
 | **Age** | |
 | **Class** | |

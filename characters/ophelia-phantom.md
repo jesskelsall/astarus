@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Ophelia Phantom | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Cleric (Twilight Domain) |

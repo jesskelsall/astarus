@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Gregor Primrose | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 65 |
 | **Class** | |

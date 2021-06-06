@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Clay Mullen | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 33 |
 | **Class** | |

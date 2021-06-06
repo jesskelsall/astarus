@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Mordus Shren |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 60 |
 | **Class** | |

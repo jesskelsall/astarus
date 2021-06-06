@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Brian | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 32 |
 | **Class** | Barbarian (Path of the Beast) |

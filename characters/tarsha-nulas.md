@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Tarsha Nulas | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 43 |
 | **Class** | Wizard |

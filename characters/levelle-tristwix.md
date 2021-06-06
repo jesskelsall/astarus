@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Levelle Tristwix | character.3
-| **Race** | Halfling |
+| **Lineage** | Halfling |
 | **Pronouns** | they/them |
 | **Age** | 57 |
 | **Class** | Druid |

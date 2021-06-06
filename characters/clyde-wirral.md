@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Clyde Wirral |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 44 |
 | **Class** | |

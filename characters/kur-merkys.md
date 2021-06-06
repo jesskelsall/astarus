@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Kur Merkys | character.3
-| **Race** | Tiefling |
+| **Lineage** | Tiefling |
 | **Pronouns** | he/him |
 | **Age** | 22 |
 | **Class** | Sorcerer (Draconic Bloodline) |

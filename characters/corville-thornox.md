@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Corville Thornox | character.3
-| **Race** | Kalashtar |
+| **Lineage** | Kalashtar |
 | **Pronouns** | he/him |
 | **Age** | 91 |
 | **Class** | |

@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Barthon Ironfist |
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Gender** | Male |
 | **Age** | 143 |
 | **Class** | |

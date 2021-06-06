@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Aisling Kavanagh | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 22 |
 | **Class** | Monk (Way of the Sun Soul) |

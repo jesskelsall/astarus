@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Nills | character.3
-| **Race** | Demon |
+| **Lineage** | Demon |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Log in the Crimson Forest | character.3
-| **Race** | Tabaxi |
+| **Lineage** | Tabaxi |
 | **Pronouns** | he/him |
 | **Age** | 37 |
 | **Class** | |

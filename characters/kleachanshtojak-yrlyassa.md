@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Kleachanshtojak Yrlyassa | character.3
-| **Race** | Dragonborn |
+| **Lineage** | Dragonborn |
 | **Pronouns** | she/her |
 | **Age** | 27 |
 | **Class** | |

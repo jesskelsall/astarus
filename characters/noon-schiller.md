@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Noon Schiller | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 20 |
 | **Class** | Warlock |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Emdar Silverstrike | character.3
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Pronouns** | he/him |
 | **Age** | 51 |
 | **Class** | |

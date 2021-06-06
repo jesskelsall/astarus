@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Wrenn Piznarck | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | he/him |
 | **Age** | 53 |
 | **Class** | Wizard (School of Conjuration) |

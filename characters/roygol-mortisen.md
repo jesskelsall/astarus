@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Roygol Mortisen |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 32 |
 | **Class** | |

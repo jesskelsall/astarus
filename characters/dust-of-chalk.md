@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Dust of Chalk | character.3
-| **Race** | Tabaxi |
+| **Lineage** | Tabaxi |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | |

@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Turnuroth Balasar |
-| **Race** | Dragonborn |
+| **Lineage** | Dragonborn |
 | **Gender** | Male |
 | **Age** | 15 |
 | **Class** | |

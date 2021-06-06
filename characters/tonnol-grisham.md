@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Tonnol Grisham | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 39 |
 | **Class** | |

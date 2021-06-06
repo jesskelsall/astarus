@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Name** | Carras Southroot | character.3
-| **Race** | Halfling |
+| **Lineage** | Halfling |
 | **Pronouns** | he/him |
 | **Age** | 37 |
 | **Class** | |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Wizira | character.3
-| **Race** | Firbolg |
+| **Lineage** | Firbolg |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Druid |

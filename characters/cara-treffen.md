@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Cara Treffen |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Female |
 | **Age** | 51 |
 | **Class** | |

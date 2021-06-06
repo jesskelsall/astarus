@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Eremus Vitur | character.3
-| **Race** | Half-orc |
+| **Lineage** | Half-orc |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Barbarian (Path of the Beast) |

@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Grant Thackeray |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 52 |
 | **Class** | Fighter |

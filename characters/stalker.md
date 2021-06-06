@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Stalker |
-| **Race** | |
+| **Lineage** | |
 | **Gender** | |
 | **Age** | |
 | **Class** | |

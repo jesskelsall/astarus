@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Samantha Ilis |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Female |
 | **Age** | 49  |
 | **Class** | |

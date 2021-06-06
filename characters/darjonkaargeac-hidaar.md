@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Darjonkaargeac Hidaar |
-| **Race** | Dragonborn |
+| **Lineage** | Dragonborn |
 | **Gender** | Non-binary |
 | **Age** | 44 |
 | **Class** | Paladin |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Ephaine Seren | character.3
-| **Race** | Human ([Cepine](../lineages/cepine.md)) |
+| **Lineage** | Human ([Cepine](../lineages/cepine.md)) |
 | **Pronouns** | she/her |
 | **Age** | 17 |
 | **Class** | Druid |

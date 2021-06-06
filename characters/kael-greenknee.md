@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Kael Greenknee |
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Gender** | Male |
 | **Age** | 99 |
 | **Class** | |

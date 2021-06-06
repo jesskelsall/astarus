@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Emi Rulsay | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 24 |
 | **Class** | Bard |

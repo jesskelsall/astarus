@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Jorren Grieger |
-| **Race** | Halfling |
+| **Lineage** | Halfling |
 | **Gender** | Male |
 | **Age** | 35 |
 | **Class** | |

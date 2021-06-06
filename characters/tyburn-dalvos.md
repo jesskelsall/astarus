@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Tyburn Dalvos | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 50 |
 | **Class** | Cleric (Knowledge Domain) |

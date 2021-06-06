@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Darius Dunn | character.3
-| **Race** | Genasi (Fire) |
+| **Lineage** | Genasi (Fire) |
 | **Pronouns** | he/him |
 | **Age** | 17 |
 | **Class** | Cleric |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Simanelli Tyrol | character.3
-| **Race** | Genasi (Water) |
+| **Lineage** | Genasi (Water) |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | |

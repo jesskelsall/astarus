@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Hanispur | character.3
-| **Race** | [Strigid](../lineages/strigid.md) |
+| **Lineage** | [Strigid](../lineages/strigid.md) |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Ranger |

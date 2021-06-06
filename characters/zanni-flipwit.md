@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Zanni Flipwit | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | they/them |
 | **Age** | 118 |
 | **Class** | |

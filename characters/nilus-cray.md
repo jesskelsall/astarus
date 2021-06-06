@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Nilus Cray |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Non-binary |
 | **Age** | 31 |
 | **Class** | |

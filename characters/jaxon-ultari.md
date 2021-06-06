@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Jaxon Ultari |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Male |
 | **Age** | 28 |
 | **Class** | |

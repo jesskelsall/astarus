@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Sammal Guntos |
-| **Race** | Tiefling |
+| **Lineage** | Tiefling |
 | **Gender** | Male |
 | **Age** | 35 |
 | **Class** | |

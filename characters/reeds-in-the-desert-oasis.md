@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Reeds in the Desert Oasis | character.3
-| **Race** | Tabaxi |
+| **Lineage** | Tabaxi |
 | **Pronouns** | she/her |
 | **Age** | 37 |
 | **Class** | |

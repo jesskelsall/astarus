@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Ikra | character.3
-| **Race** | Kobold |
+| **Lineage** | Kobold |
 | **Pronouns** | he/him |
 | **Age** | 17 |
 | **Class** | Sorcerer |

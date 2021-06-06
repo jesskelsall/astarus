@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Rysa Ornoll |
-| **Race** | Human |
+| **Lineage** | Human |
 | **Gender** | Female |
 | **Age** | 40 |
 | **Class** | |

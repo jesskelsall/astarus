@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Mergin Thorgus | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 87 |
 | **Class** | Wizard |

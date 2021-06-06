@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Yoroe Briskboots | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | she/her |
 | **Age** | 36 |
 | **Class** | Ranger (Hunter) |

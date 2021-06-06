@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Sparrow on the Autumn Pine | character.3
-| **Race** | Tabaxi |
+| **Lineage** | Tabaxi |
 | **Pronouns** | he/him |
 | **Age** | 30 |
 | **Class** | Ranger (Swarmkeeper) |

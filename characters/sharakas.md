@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Sharakas | character.3
-| **Race** | Dragonborn |
+| **Lineage** | Dragonborn |
 | **Pronouns** | he/him |
 | **Age** | 37 |
 | **Class** | |

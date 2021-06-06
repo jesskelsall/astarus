@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Garrick Rose | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 35 |
 | **Class** | |

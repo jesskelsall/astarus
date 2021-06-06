@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Whisper on the Breeze | character.3
-| **Race** | Tabaxi |
+| **Lineage** | Tabaxi |
 | **Pronouns** | they/them |
 | **Age** | 22 |
 | **Class** | Rogue |

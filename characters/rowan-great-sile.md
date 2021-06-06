@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Rowan Great Sile | character.3
-| **Race** | Firbolg |
+| **Lineage** | Firbolg |
 | **Pronouns** | he/him |
 | **Age** | 87 |
 | **Class** | |

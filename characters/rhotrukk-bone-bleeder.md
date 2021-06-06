@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Rhotrukk Bone Bleeder |
-| **Race** | Orc |
+| **Lineage** | Orc |
 | **Gender** | Male |
 | **Age** | 38 |
 | **Class** | |

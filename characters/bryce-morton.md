@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Bryce Morton | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 44 |
 | **Class** | Fighter |

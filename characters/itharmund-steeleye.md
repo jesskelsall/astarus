@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Itharmund Steeleye | character.3
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Pronouns** | he/him |
 | **Age** | 181 |
 | **Class** | |

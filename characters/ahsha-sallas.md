@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Ahsha Sallas | character.3
-| **Race** | Half-orc |
+| **Lineage** | Half-orc |
 | **Pronouns** | she/her |
 | **Age** | 26 |
 | **Class** | Fighter |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Penance Zahiri | character.3
-| **Race** | Tiefling |
+| **Lineage** | Tiefling |
 | **Pronouns** | they/them |
 | **Age** | 23 |
 | **Class** | Paladin |

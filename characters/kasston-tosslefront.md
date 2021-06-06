@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Kasston Tosslefront | character.3
-| **Race** | Gnome |
+| **Lineage** | Gnome |
 | **Pronouns** | he/him |
 | **Age** | 153 |
 | **Class** | |

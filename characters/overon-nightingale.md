@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Overon Nightingale | character.3
-| **Race** | Human |
+| **Lineage** | Human |
 | **Pronouns** | they/them |
 | **Age** | 41 |
 | **Class** | |

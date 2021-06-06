@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Runnis Marblemane | character.3
-| **Race** | Dwarf |
+| **Lineage** | Dwarf |
 | **Pronouns** | she/her |
 | **Age** | 63 |
 | **Class** | |
