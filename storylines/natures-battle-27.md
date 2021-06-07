@@ -43,3 +43,9 @@ The match between [Mortar Squad](../organisations/astorrel/squads/mortar-squad.m
 During the fight [Wizira](../characters/wizira.md) downs [Yoroe Briskboots](../characters/yoroe-briskboots.md) with Ice Knife. The subsequent explosion of ice damages her while she is unconscious, drawing cries from the crowd who are aware of the tournament's rules. Fortunately an [Astorrel member](../organisations/astorrel/ranks/astorrel-member.md) is able to get to Yoroe quickly. They cast Spare the Dying, giving the thumbs up to [Liabella Peacock](../characters/liabella-peacock.md) that she is okay. The fight continues uninterrupted.
 
 [Torbra Tauff](../characters/torbra-tauff.md) comes very close to decapitating [Diarmuid Kavanagh](../characters/diarmuid-kavanagh.md) which her final halberd strike against him. Instead she opens up a gash on the back of his neck, the shock from which knocks him unconscious.
+
+### [PR24](../sessions/PR24.md)
+
+The match between [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) and [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) takes place. [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) wins.
+
+[Thanea Morlay](../characters/thanea-morlay.md) sprouts wings thanks to her aasimar Radiant Soul, dazzling the audience as she flies around the arena, dishing out ranged magical damage as she goes. She is eventually knocked unconscious and falls from the sky when [Norma Collarbone](../characters/norma-collarbone.md) summons a bestial spirit above her which hits her in mid-air.

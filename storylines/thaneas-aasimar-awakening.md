@@ -70,3 +70,13 @@ She also tries to research humanoids with wings, but only finds information on a
 [Thanea Morlay](../characters/thanea-morlay.md) returns to the street in [Eskrigg](../places/cities/eskrigg.md) that she commuted to [Vorrinel's Stand](../places/buildings/vorrinels-stand.md) along. She recognises it as the starting point of her third deva dream, triggering a strong sense of déjà vu.
 
 Realising the implication of another prophetic dream coming to fruition and her own feelings that they never end well, she takes off down a back alley, losing [Wizira](../characters/wizira.md) who was with her. [Wizira](../characters/wizira.md) eventually finds her slumped against a statue, sobbing to herself. Finding a crying Thanea, [Wizira](../characters/wizira.md) asks what is wrong. Thanea mumbles a non-answer before the pair return to the [Eskrigg Astorrel Stronghold](../places/strongholds/eskrigg-astorrel-stronghold.md) for the night.
+
+### [PR24](../sessions/PR24.md)
+
+During [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle](../mechanics/roleplay/natures-battle.md) match against [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../characters/norma-collarbone.md) at close range. She digs deep, activating her aasimar Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
+
+This display is a surprise for everyone present, including [Torbra Tauff](../characters/torbra-tauff.md) and [Wizira](../characters/wizira.md) who are conscious to see it ([Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is not). The audience collectively gasps before falling silent, watching as she flies effortlessly around the arena.
+
+Thanea immediately finds her confidence in the air, casting Magic Missile twice while airborne, to great effect.
+
+Her flight ends abruptly when [Norma Collarbone](../characters/norma-collarbone.md) summons a bestial spirit above her, which falls down onto her. As she was already close to unconsciousness, the blow is enough to tip her over the edge, causing her wings to fade and her body to plummet to the ground.
