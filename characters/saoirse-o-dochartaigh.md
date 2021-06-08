@@ -9,8 +9,8 @@
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Warlock |
-| **Worship** | Effie Silttooth (patron)<br />[Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | |
+| **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
+| **Relations** | [Mykiel](mykiel.md) (father, deva)<br />[Effie Silttooth](effie-silttooth.md) (patron) |
 | **Places** | |
 |||
 | **Citizenship** | |

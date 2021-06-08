@@ -17,3 +17,8 @@ Eskrigg is a city in [central Astor](../regions/central-astor.md), and the secon
 It is a walled city mostly surrounded by the bend of the [river Esk](../rivers-lakes/river-esk.md) before it opens out into the Esk estuary. The [Great Astor Road](../roads/great-astor-road.md) passes straight through it, connecting [Northhaven](northhaven.md) in the west to [Dunmore](dunmore.md) in the east. The surrounding landscape is marshland which is prone to flooding and dangerous wildlife.
 
 The city itself takes up all of the available space on the inside of this river bend, bursting at the seams with its populace. With no space to expand outwards due to the swamp, and the fortifications built during the Astor-Syntenne War, the city has expanded upwards instead. Life here is tough for those outside of the [Astornox](../../organisations/astornox/astornox.md) and [Astorrel](../../organisations/astorrel/astorrel.md) strongholds, with little personal space or sanitation.
+
+## Places
+
+- [Eskrigg Astorrel Stronghold](../strongholds/eskrigg-astorrel-stronghold.md)
+- [Geor's Door](../buildings/inns-taverns/geors-door.md)
