@@ -53,7 +53,7 @@ When he was younger, Alistair was stationed in Kilflynn with [Wrenn Piznarck](wr
 
 ### [Purple Rain](../campaigns/purple-rain.md) Prelude
 
-*See: [Finding the Goldreach Meteorite](../storylines/finding-the-goldreach-meteorite.md)*
+*See: [Finding the Goldreach Meteorite](../storylines/ended/finding-the-goldreach-meteorite.md)*
 
 Following the impact of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), Alistair saw an influx of people into [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). This put him on edge as more people typically means more trouble.
 
@@ -61,7 +61,7 @@ Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the to
 
 ### [PR01](../sessions/PR01.md)
 
-*See: [Finding the Goldreach Meteorite](../storylines/finding-the-goldreach-meteorite.md)*
+*See: [Finding the Goldreach Meteorite](../storylines/ended/finding-the-goldreach-meteorite.md)*
 
 Alistair entered [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) and gave a speech to the room, making it clear that the presence of [magicborn](../civilisations/kingdom-of-astor/magicborn.md) would not be tolerated, and they would be found. After this he went table to table asking people about their business. This included the [Purple Rain](../campaigns/purple-rain.md) party. Alistair was satisfied with their answers and left them alone.
 

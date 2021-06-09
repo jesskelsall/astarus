@@ -31,7 +31,7 @@ The Sanctum is the building in the [Northhaven Astorrel Stronghold](../stronghol
 | Sights | Large entrance area stretching forward the length of the right side of the building, with a desk on its left wall. Closed large wooden chests along the right wall. Wooden segregated stalls with roped curtains form changing stalls containing [Astorrel robes](../../organisations/astorrel/uniforms/astorrel-robes.md) ([sanctuary](../../organisations/astorrel/sanctuary.md)). Hallway to the left with the staircase against the front wall. Second locked room used for storage. Grey polished stone floor with refined wooden walls and decor. Simpler than most [Astorrel](../../organisations/astorrel/astorrel.md) buildings. |
 | Sounds | None |
 | Smells | Leathers and fabrics. Slight smell of dust. |
-| People | [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) working at the desk if anyone is [receiving sanctuary](../../storylines/receiving-sanctuary.md). |
+| People | [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) working at the desk if anyone is [receiving sanctuary](../../storylines/ended/receiving-sanctuary.md). |
 | Intrigue | Clearly set up specifically for the purpose of getting people to part with their possessions and store them away for safe keeping. |
 
 ### [Sanctuary](../../organisations/astorrel/sanctuary.md) Floors

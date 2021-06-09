@@ -32,14 +32,14 @@ Until he has made his decision, Bryce will be making one squad member per missio
 | Squad | Acting Lead | Mission | Bounty | Time Limit |
 | --- | --- | --- | --- | --- |
 | [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | [Darius Dunn](../characters/darius-dunn.md) | [Investigate Bear Attacks in Hartsgarth](investigate-bear-attacks-in-hartsgarth.md) | 30 gp | 10 days |
-| [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Check Logging in Arnaside](check-logging-in-arnaside.md) | 20 gp | 14 days |
+| [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Check Logging in Arnaside](ended/check-logging-in-arnaside.md) | 20 gp | 14 days |
 
 The party begins their journey to [Arnaside](../places/villages/arnaside.md) so that they can complete their mission in good time and return as soon as possible. Ahsha takes charge of deciding how the group will get there (hired coach), and converses with [Clay Mullen](../characters/clay-mullen.md) to hire his services to this end.
 
 ## Planning
 
-*See: [Astorrel Graduation](astorrel-graduation.md)*  
-*See: [Check Logging in Arnaside](check-logging-in-arnaside.md)*  
+*See: [Astorrel Graduation](ended/astorrel-graduation.md)*  
+*See: [Check Logging in Arnaside](ended/check-logging-in-arnaside.md)*  
 *See: [Investigate Bear Attacks in Hartsgarth](investigate-bear-attacks-in-hartsgarth.md)*
 
 [Ahsha Sallas](../characters/ahsha-sallas.md) and [Darius Dunn](../characters/darius-dunn.md) will be the first acting Squad Leads, due to their Exceptional Trainee Bonus which they both received as part of their graduation purse. With little other information at this point, Bryce sees this as a sign of strength.

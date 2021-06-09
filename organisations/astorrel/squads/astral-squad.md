@@ -14,4 +14,4 @@
 
 ## Summary
 
-Astral Squad is the [Astorrel](../astorrel.md) squad that [Wrenn Piznarck](../../../characters/wrenn-piznarck.md) belongs to. Formerly led by [Elysia Vanderboss](../../../characters/elysia-vanderboss.md) and working under the Captain of [Northhaven](../../../places/cities/northhaven.md), they moved under the Major of Phenomena following [the firbolg controversy](../../../storylines/the-firbolg-controversy.md) trial.
+Astral Squad is the [Astorrel](../astorrel.md) squad that [Wrenn Piznarck](../../../characters/wrenn-piznarck.md) belongs to. Formerly led by [Elysia Vanderboss](../../../characters/elysia-vanderboss.md) and working under the Captain of [Northhaven](../../../places/cities/northhaven.md), they moved under the Major of Phenomena following [the firbolg controversy](../../../storylines/ended/the-firbolg-controversy.md) trial.

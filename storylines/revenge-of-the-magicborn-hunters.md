@@ -53,6 +53,6 @@ On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhav
 
 ### [PR20](../sessions/PR20.md)
 
-During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md), [Kur Merkys](../characters/kur-merkys.md) was present. At various points he stared intently at the party, [Thanea Morlay](../characters/thanea-morlay.md) in particular.
+During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), [Kur Merkys](../characters/kur-merkys.md) was present. At various points he stared intently at the party, [Thanea Morlay](../characters/thanea-morlay.md) in particular.
 
 When it was his turn to give evidence, he spoke out of turn about the death of [Vilnia Kovas](../characters/vilnia-kovas.md) at the hands of the party, exploding into an angry rant before being cut off by [Patricia Wilbenotel](../characters/patricia-wilbenotel.md) casting Suggestion to make him stop and sit down.

@@ -30,7 +30,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | Session | Date | Title |
 |:---:| --- | --- |
 | [AA00](../sessions/AA00.md) | 2021-01-02 | *Session Zero* |
-| [AA01](../sessions/AA01.md) | 2021-01-16 | *[Astorrel Graduation](../storylines/astorrel-graduation.md)* |
+| [AA01](../sessions/AA01.md) | 2021-01-16 | *[Astorrel Graduation](../storylines/ended/astorrel-graduation.md)* |
 | [AA02](../sessions/AA02.md) | 2021-01-30 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md)* |
 | [AA03](../sessions/AA03.md) | 2021-02-13 | *Trouble in [Arnaside](../places/villages/arnaside.md)* |
 | [AA04](../sessions/AA04.md) | 2021-02-27 | *Negotiations in Draconic* |
@@ -46,11 +46,11 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 
 | Name | Started | Ended |
 | --- | --- | --- |
-| [Astorrel Graduation](../storylines/astorrel-graduation.md) | [AA01](../sessions/AA01.md) | [AA01](../sessions/AA01.md) |
+| [Astorrel Graduation](../storylines/ended/astorrel-graduation.md) | [AA01](../sessions/AA01.md) | [AA01](../sessions/AA01.md) |
 | [Astorrel vs Astornox](../storylines/astorrel-vs-astornox.md) | [AA01](../sessions/AA01.md) | |
 | [Whisper and Valnos](../storylines/whisper-and-valnos.md) | [AA01](../sessions/AA01.md) | |
-| [Retrieving Ephaine's Star Map](../storylines/retrieving-ephaines-star-map.md) | [AA01](../sessions/AA01.md) | [AA02](../sessions/AA02.md) |
+| [Retrieving Ephaine's Star Map](../storylines/ended/retrieving-ephaines-star-map.md) | [AA01](../sessions/AA01.md) | [AA02](../sessions/AA02.md) |
 | [The Rival Squad](../storylines/the-rival-squad.md) | [AA01](../sessions/AA01.md) | |
 | [Canary Squad Lead](../storylines/canary-squad-lead.md) | [AA01](../sessions/AA01.md) | |
-| [Check Logging in Arnaside](../storylines/check-logging-in-arnaside.md) | [AA02](../sessions/AA02.md) | |
+| [Check Logging in Arnaside](../storylines/ended/check-logging-in-arnaside.md) | [AA02](../sessions/AA02.md) | |
 | [Investigate Bear Attacks in Hartsgarth](../storylines/investigate-bear-attacks-in-hartsgarth.md) | [AA02](../sessions/AA02.md) | |

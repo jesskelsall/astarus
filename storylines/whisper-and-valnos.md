@@ -15,7 +15,7 @@ For unknown reasons, [Valnos](../gods/deities/valnos.md) has chosen to reach out
 
 #### Whisper [Valnos](../gods/deities/valnos.md) Chat 1
 
-As part of the [Astorrel Graduation](astorrel-graduation.md), [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) pledged themselves to [Valnos](../gods/deities/valnos.md) at [Diamond Prime](../places/buildings/temples/diamond-prime.md). This was done to prove that they practiced [The Order of the Diamond](../organisations/the-order-of-the-diamond.md).
+As part of the [Astorrel Graduation](ended/astorrel-graduation.md), [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) pledged themselves to [Valnos](../gods/deities/valnos.md) at [Diamond Prime](../places/buildings/temples/diamond-prime.md). This was done to prove that they practiced [The Order of the Diamond](../organisations/the-order-of-the-diamond.md).
 
 While praying in front of the statue of [Valnos](../gods/deities/valnos.md) (in mortal form as a hawk), Whisper noticed the statue grow brighter to the point of hurting their eyes. The female voice of [Valnos](../gods/deities/valnos.md) echoed throughout the temple.
 

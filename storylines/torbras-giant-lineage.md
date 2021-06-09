@@ -76,7 +76,7 @@ As the rune's magic takes hold of the paper, Torbra sees the rune's lines sink i
 
 ### [PR20](../sessions/PR20.md)
 
-During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md), the party is asked point-blank if they are [magicborn](../civilisations/kingdom-of-astor/magicborn.md). [Torbra Tauff](../characters/torbra-tauff.md) replies that she isn't sure.
+During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), the party is asked point-blank if they are [magicborn](../civilisations/kingdom-of-astor/magicborn.md). [Torbra Tauff](../characters/torbra-tauff.md) replies that she isn't sure.
 
 ### [PR21](../sessions/PR21.md)
 

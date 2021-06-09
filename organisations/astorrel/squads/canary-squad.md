@@ -20,5 +20,5 @@ Canary Squad is the [Astorrel](../astorrel.md) squad that the party members of t
 
 | Mission | Status |
 | --- | --- |
-| [Check Logging in Arnaside](../../../storylines/check-logging-in-arnaside.md) | Completed |
+| [Check Logging in Arnaside](../../../storylines/ended/check-logging-in-arnaside.md) | Completed |
 | [Independent Investigation of Ulburn](../../../storylines/independent-investigation-of-ulburn.md) | Not Started |

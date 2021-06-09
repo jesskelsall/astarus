@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [PR21](../sessions/PR21.md) / [AA06](../sessions/AA06.md) | storyline.2
-| **Session Ended** | [PR25](../sessions/PR25.md) / [AA09](../sessions/AA09.md) |
+| **Session Ended** | [PR26](../sessions/PR26.md) / [AA09](../sessions/AA09.md) |
 
 ## Summary
 
@@ -28,7 +28,7 @@ The below table shows the [Astorrel](../organisations/astorrel/astorrel.md) squa
 
 ### [PR21](../sessions/PR21.md)
 
-Immediately following the [Purple Rain](../campaigns/purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 27 ([Nature's Battle Starfall Squad Invite](../papers/letters/natures-battle-starfall-squad-invite.md)).
+Immediately following the [Purple Rain](../campaigns/purple-rain.md) party's [Astorrel graduation](ended/astorrel-graduation.md) as [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 27 ([Nature's Battle Starfall Squad Invite](../papers/letters/natures-battle-starfall-squad-invite.md)).
 
 The party is excited at the prospect of competing.
 

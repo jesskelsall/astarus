@@ -30,7 +30,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | Session | Date | Title |
 |:---:| --- | --- |
 | [PR00](../sessions/PR00.md) | 2020-09-16 | *Session Zero* |
-| [PR01](../sessions/PR01.md) | 2020-10-07 | *[Crossing Paths in Goldreach](../storylines/crossing-paths-in-goldreach.md)* |
+| [PR01](../sessions/PR01.md) | 2020-10-07 | *[Crossing Paths in Goldreach](../storylines/ended/crossing-paths-in-goldreach.md)* |
 | [PR02](../sessions/PR02.md) | 2020-10-14 | *Wolves in the Night* |
 | [PR03](../sessions/PR03.md) | 2020-10-21 | *Attack on the Outskirts* |
 | [PR04](../sessions/PR04.md) | 2020-10-28 | *The Search for the [Meteorite](../items/meteoric/meteorite.md)* |
@@ -39,7 +39,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR07](../sessions/PR07.md) | 2020-11-16 | *Creatures in the Crater* |
 | [PR08](../sessions/PR08.md) | 2020-11-18 | *Returning to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md)* |
 | [PR09](../sessions/PR09.md) | 2020-12-02 | *Not [Astornox](../organisations/astornox/astornox.md), [Astorrel](../organisations/astorrel/astorrel.md)* |
-| [PR10](../sessions/PR10.md) | 2020-12-09 | *[Magicborn on the Run](../storylines/magicborn-on-the-run.md)* |
+| [PR10](../sessions/PR10.md) | 2020-12-09 | *[Magicborn on the Run](../storylines/ended/magicborn-on-the-run.md)* |
 | [PR11](../sessions/PR11.md) | 2020-12-16 | *Hills, Voices, and Mind Reading* |
 | [PR12](../sessions/PR12.md) | 2021-01-27 | *[The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md)* |
 | [PR13](../sessions/PR13.md) | 2021-02-03 | *On To the River* |
@@ -49,8 +49,8 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR17](../sessions/PR17.md) | 2021-02-24 | *Spotted, Cornered* |
 | [PR18](../sessions/PR18.md) | 2021-03-03 | *[Sanctuary](../organisations/astorrel/sanctuary.md)* |
 | [PR19](../sessions/PR19.md) | 2021-03-10 | *A Revolving Door of Visitors* |
-| [PR20](../sessions/PR20.md) | 2021-03-24 | *[The Firbolg Controversy](../storylines/the-firbolg-controversy.md) Trial* |
-| [PR21](../sessions/PR21.md) | 2021-03-31 | *[Accepting the Astorrel's Offer](../storylines/accepting-the-astorrels-offer.md)* |
+| [PR20](../sessions/PR20.md) | 2021-03-24 | *[The Firbolg Controversy](../storylines/ended/the-firbolg-controversy.md) Trial* |
+| [PR21](../sessions/PR21.md) | 2021-03-31 | *[Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md)* |
 | [PR22](../sessions/PR22.md) | 2021-04-07 | *Unleashed on [Northhaven](../places/cities/northhaven.md)* |
 | [AA08](../sessions/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)*
 | [PR23](../sessions/PR23.md) | 2021-04-28 | *[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) vs [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md)* |
@@ -65,19 +65,19 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | Name | Started | Ended |
 | --- |:---:|:---:|
 | [Thanea's Aasimar Awakening](../storylines/thaneas-aasimar-awakening.md) | [PR00](../sessions/PR00.md) | |
-| [Wizira's Father Goes Missing](../storylines/wiziras-father-goes-missing.md) | [PR01](../sessions/PR01.md) | [PR20](../sessions/PR20.md) |
-| [Crossing Paths in Goldreach](../storylines/crossing-paths-in-goldreach.md) | [PR01](../sessions/PR01.md) | [PR02](../sessions/PR02.md) |
-| [Finding the Goldreach Meteorite](../storylines/finding-the-goldreach-meteorite.md) | [PR01](../sessions/PR01.md) | [PR11](../sessions/PR11.md) |
+| [Wizira's Father Goes Missing](../storylines/ended/wiziras-father-goes-missing.md) | [PR01](../sessions/PR01.md) | [PR20](../sessions/PR20.md) |
+| [Crossing Paths in Goldreach](../storylines/ended/crossing-paths-in-goldreach.md) | [PR01](../sessions/PR01.md) | [PR02](../sessions/PR02.md) |
+| [Finding the Goldreach Meteorite](../storylines/ended/finding-the-goldreach-meteorite.md) | [PR01](../sessions/PR01.md) | [PR11](../sessions/PR11.md) |
 | [The Meteoric Threat](../storylines/the-meteoric-threat.md) | [PR01](../sessions/PR01.md) | |
 | [Torbra's Giant Lineage](../storylines/torbras-giant-lineage.md) | [PR01](../sessions/PR01.md) | |
-| [Wolves Threaten Goldreach](../storylines/wolves-threaten-goldreach.md) | [PR02](../sessions/PR02.md) | [PR08](../sessions/PR08.md) |
+| [Wolves Threaten Goldreach](../storylines/ended/wolves-threaten-goldreach.md) | [PR02](../sessions/PR02.md) | [PR08](../sessions/PR08.md) |
 | [Saoirse Contracts Meteoridis](../storylines/saoirse-contracts-meteoridis.md) | [PR07](../sessions/PR07.md) | |
-| [Magicborn on the Run](../storylines/magicborn-on-the-run.md) | [PR08](../sessions/PR08.md) | [PR20](../sessions/PR20.md) |
+| [Magicborn on the Run](../storylines/ended/magicborn-on-the-run.md) | [PR08](../sessions/PR08.md) | [PR20](../sessions/PR20.md) |
 | [Saoirse's Aasimar Cleansing](../storylines/saoirses-aasimar-cleansing.md) | [PR10](../sessions/PR10.md) | |
 | [The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md) | [PR12](../sessions/PR12.md) | |
-| [Escorted by Sarleen](../storylines/escorted-by-sarleen.md) | [PR14](../sessions/PR14.md) | [PR15](../sessions/PR15.md) |
-| [The Firbolg Controversy](../storylines/the-firbolg-controversy.md) | [PR15](../sessions/PR15.md) | [PR20](../sessions/PR20.md) |
+| [Escorted by Sarleen](../storylines/ended/escorted-by-sarleen.md) | [PR14](../sessions/PR14.md) | [PR15](../sessions/PR15.md) |
+| [The Firbolg Controversy](../storylines/ended/the-firbolg-controversy.md) | [PR15](../sessions/PR15.md) | [PR20](../sessions/PR20.md) |
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [PR17](../sessions/PR17.md) | |
-| [Receiving Sanctuary](../storylines/receiving-sanctuary.md) | [PR18](../sessions/PR18.md) | [PR20](../sessions/PR20.md) |
-| [Accepting the Astorrel's Offer](../storylines/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | [PR21](../sessions/PR21.md) |
+| [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [PR18](../sessions/PR18.md) | [PR20](../sessions/PR20.md) |
+| [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | [PR21](../sessions/PR21.md) |
 | [Nature's Battle 27](../storylines/natures-battle-27.md) | [PR21](../sessions/PR21.md) | |
