@@ -11,7 +11,10 @@ In 312 P.A. the [Nature's Battle](../mechanics/roleplay/natures-battle.md) tourn
 
 ## Bracket
 
-The below table shows the [Astorrel](../organisations/astorrel/astorrel.md) squad draws, which determined the pairs of squads for the round of 8. It also shows which session the matches took place in as well as which squad won that match (squad name in bold), and which squads are NPCs (squad name in italics).
+This table shows the [Astorrel](../organisations/astorrel/astorrel.md) squad draws which determined the pairs of squads for the round of 8 as well as the winners' subsequent match-ups.
+
+- *NPC squad.*
+- **Match winner.**
 
 || Round of 8 || Semi-finals || Final |
 |:---:| --- |:---:| --- |:---:| --- |
