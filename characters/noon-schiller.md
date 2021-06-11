@@ -10,8 +10,8 @@
 | **Age** | 20 |
 | **Class** | Warlock |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | [Nills](nills.md) (Warlock patron) |
-| **Places** | |
+| **Relations** | [Bernard Horace Schiller](bernard-horace-schiller.md) (father)<br />[Schiller Family](../organisations/schiller-family.md) (family)<br />[Nills](nills.md) (Warlock patron) |
+| **Places** | Ballabeg (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
