@@ -1,46 +1,49 @@
 # Darjonkaargeac Hidaar
 
-| []() | |
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/0a64ffd6aaf731b7.png" height="500" />
+
+|||
 | --- | --- |
-| **Name** | Darjonkaargeac Hidaar |
-| **Lineage** | Dragonborn |
-| **Gender** | Non-binary |
+| **Name** | Darjonkaargeac Hidaar | character.3
+| **Lineage** | Dragonborn (Cold) |
+| **Pronouns** | they/them |
 | **Age** | 44 |
 | **Class** | Paladin |
-| **Alignment** | |
-| **Affiliation** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md)<br />[Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md)<br /><img src="../../images/ranks/astorrel-3-squad-lead.png" height="50" /> |
-| **Commanding Officer** | |
-| **Subordinates** | Louise Perkins |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | |
-| **Acquaintances** | |
-| **From** | |
-| **Places** | |
+| **Places** | [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md) |
+|||
+| **Citizenship** | |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
+| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br >*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
+| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md)<br>*Former:*<br>[Linton Harkness](linton-harkness.md) |
+| **Subordinates** | *Former:*<br>Louise Perkins |
+|||
+| **Image ID** | `0a64ffd6aaf731b7` |
 
 ## Summary
 
-Darjonkaargeac Hidaar is the [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) of [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md).
+Darjonkaargeac is a loyal [Astorrel](../organisations/astorrel/astorrel.md) and staunch follower of [Valnos](../gods/deities/valnos.md). They are upstanding and respectful, taking their work and the well-being of their squad very seriously.
 
-His clan name is pronounced: *dar-jon-kaar-jee-ak*.
+Their clan name is pronounced: *dar-jon-kaar-jee-ak*.
 
 ## Characteristics
 
-| Appearance | Description |
+| | |
 | --- | --- |
-| Face | Silver scales. Long scaly face with sharp teeth. Light blue eyes. Keeps mouth closed. Stern look. |
-| Hair | None |
-| Body | 6'6" / 198cm, muscular. |
-| Clothes | Chain mail armour. Yellow tabard over it with [Valnos](../gods/deities/valnos.md) symbol. Longsword and shield. |
-| Mannerisms | Military pose, rigid. Moves purposefully. |
-
-| Personality | Description |
-| --- | --- |
-| Voice | Deep and growly. |
-| Quirks | Typically proud and honourable dragonborn. |
-| Knowledge | Nature, [Astorrel](../organisations/astorrel/astorrel.md) politics, Firbolg debate. |
-| Values | Honour, courage, honesty. |
-| Ambitions | Facilitate his squad achieving greatness. |
-| Dislikes | Liars, cowards. |
+| **Face** | Silver scales. Long scaly face with sharp teeth. Light blue eyes. Keeps mouth closed. Stern look. | characteristics.2
+| **Hair** | None |
+| **Body** | 6'6" / 198cm, muscular. |
+| **Clothes** | Chain mail armour. Yellow tabard over it with [Valnos](../gods/deities/valnos.md) symbol. Longsword and shield. |
+| **Voice** | Deep and growly. |
+| **Mannerisms** | Military pose, rigid. Moves purposefully. Treats people with respect. |
+| | |
+| **Quirks** | Typically proud and honourable dragonborn. |
+| **Knowledge** | Nature, [Astorrel](../organisations/astorrel/astorrel.md) politics. |
+| **Values** |  Honour, courage, honesty. |
+| **Ambitions** | Facilitate his squad achieving greatness. |
+| **Dislikes** | Liars, cowards. |
 
 ## History
 

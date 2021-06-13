@@ -1,6 +1,6 @@
 # Tyburn Dalvos
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/34859beef3fb999b.png" height="500" />
 
 |||
 | --- | --- |
@@ -20,7 +20,7 @@
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
-| **Image ID** | |
+| **Image ID** | `34859beef3fb999b` |
 
 ## Summary
 

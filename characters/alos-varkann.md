@@ -1,6 +1,6 @@
 # Alos Varkann
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/601e5a966741b4ba.png" height="500" />
 
 |||
 | --- | --- |
@@ -20,7 +20,7 @@
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
-| **Image ID** | |
+| **Image ID** | `601e5a966741b4ba` |
 
 ## Summary
 
