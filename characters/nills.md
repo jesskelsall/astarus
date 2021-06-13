@@ -10,7 +10,7 @@
 | **Age** | |
 | **Class** | |
 | **Worship** | |
-| **Relations** | [Nilliski](nilliski.md) (self)<br />[Noon Schiller](noon-schiller.md) (vassal) |
+| **Relations** | [Nilliski](nilliski.md) (self)<br>[Noon Schiller](noon-schiller.md) (vassal) |
 | **Places** | |
 |||
 | **Citizenship** | |

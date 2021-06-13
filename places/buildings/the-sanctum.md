@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | The Sanctum |
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br />[Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
 | **Nearby Places** | |
 | **People** | |
 

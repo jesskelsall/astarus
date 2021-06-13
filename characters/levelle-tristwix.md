@@ -11,14 +11,14 @@
 | **Class** | Druid |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | [Grant Thackeray](grant-thackeray.md) (old squad-mate, friend) |
-| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br />[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
+| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Commandant](../organisations/astorrel/ranks/astorrel-commandant.md) |
 | **Role** | |
 | **Commanding Officer** | [Polgast Mouldylog](polgast-mouldylog.md) |
-| **Subordinates** | [Kasston Tosslefront](kasston-tosslefront.md) (Major of Urban Expansion)<br />[Mindira Flibfae](mindira-flibfae.md) (Major of Forests) |
+| **Subordinates** | [Kasston Tosslefront](kasston-tosslefront.md) (Major of Urban Expansion)<br>[Mindira Flibfae](mindira-flibfae.md) (Major of Forests) |
 |||
 | **Image ID** | `29b6e2129e252c9f` |
 

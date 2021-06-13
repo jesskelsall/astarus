@@ -8,7 +8,7 @@
 | **Age** | 15 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md)<br /><img src="../../images/ranks/astorrel-4-squad-sergeant.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md)<br><img src="../../images/ranks/astorrel-4-squad-sergeant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |

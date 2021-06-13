@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Central Astor |
 | **Type** | Region |
-| **Location** | [South East Kardan](south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
-| **Nearby Places** | [Eastern Astor](eastern-astor.md)<br />[Northern Astor](northern-astor.md)<br />[Western Astor](western-astor.md) |
+| **Location** | [South East Kardan](south-east-kardan.md)<br>[Kardan](../continents/kardan.md) |
+| **Nearby Places** | [Eastern Astor](eastern-astor.md)<br>[Northern Astor](northern-astor.md)<br>[Western Astor](western-astor.md) |
 | **People** | |
 
 ## Summary

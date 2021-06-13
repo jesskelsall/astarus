@@ -11,14 +11,14 @@
 | **Class** | Wizard |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
-| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br />[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
+| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Captain](../organisations/astorrel/ranks/astorrel-captain.md) |
 | **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
-| **Subordinates** | [Flavian Giltrop](flavian-giltrop.md) (Lieutenant, master librarian)<br />[Norsha Costello](norsha-costello.md) (Lieutenant)<br />[Samantha Ilis](samantha-ilis.md) (Lieutenant) |
+| **Subordinates** | [Flavian Giltrop](flavian-giltrop.md) (Lieutenant, master librarian)<br>[Norsha Costello](norsha-costello.md) (Lieutenant)<br>[Samantha Ilis](samantha-ilis.md) (Lieutenant) |
 |||
 | **Image ID** | `417ab84735b8a004` |
 

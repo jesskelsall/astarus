@@ -10,7 +10,7 @@
 | **Age** | |
 | **Class** | Monk |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md)<br />[Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md)<br /><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
+| **Affiliation** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md)<br>[Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md)<br><img src="../../images/ranks/astorrel-2-squad-hand.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | |

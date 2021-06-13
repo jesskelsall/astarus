@@ -4,9 +4,9 @@
 | --- | --- |
 | **Name** | Valley Under the Stars |
 | **Type** | Inn |
-| **Location** | [Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br />[Northhaven Astorrel Stronghold](../../strongholds/northhaven-astorrel-stronghold.md) |
-| **People** | [Cara Treffen](../../../characters/cara-treffen.md) (owner)<br />[Zarrus Maleron](../../../characters/zarrus-maleron.md) (innkeeper) |
+| **Location** | [Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Northhaven Astorrel Stronghold](../../strongholds/northhaven-astorrel-stronghold.md) |
+| **People** | [Cara Treffen](../../../characters/cara-treffen.md) (owner)<br>[Zarrus Maleron](../../../characters/zarrus-maleron.md) (innkeeper) |
 
 ## Summary
 

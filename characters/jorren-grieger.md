@@ -8,7 +8,7 @@
 | **Age** | 35 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) (scout)<br /><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
+| **Affiliation** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) (scout)<br><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | |

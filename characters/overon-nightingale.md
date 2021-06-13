@@ -18,7 +18,7 @@
 | **Rank** | [Astornox Major](../organisations/astornox/ranks/astornox-major.md) |
 | **Role** | Settlements |
 | **Commanding Officer** | [Itharmund Steeleye](itharmund-steeleye.md) |
-| **Subordinates** | [Alistair Hawthorn](alistair-hawthorn.md) (Captain of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md))<br />[Aodhan ó Dochartaigh](aodhan-o-dochartaigh.md) (Captain of [Dunmore](../places/cities/dunmore.md))<br />[Eoghan Kavanagh](eoghan-kavanagh.md) (Captain of Eaglesfield)<br />[Legacy Aranius](legacy-aranius.md) (Captain of [Eskrigg](../places/cities/eskrigg.md)) |
+| **Subordinates** | [Alistair Hawthorn](alistair-hawthorn.md) (Captain of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md))<br>[Aodhan ó Dochartaigh](aodhan-o-dochartaigh.md) (Captain of [Dunmore](../places/cities/dunmore.md))<br>[Eoghan Kavanagh](eoghan-kavanagh.md) (Captain of Eaglesfield)<br>[Legacy Aranius](legacy-aranius.md) (Captain of [Eskrigg](../places/cities/eskrigg.md)) |
 |||
 | **Image ID** | `eea895a57e291184` |
 

@@ -6,7 +6,7 @@
 | **Role** | Cities / [Eskrigg](../../../places/cities/eskrigg.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | [Reozin Ironhide](../../../characters/reozin-ironhide.md) |
-| **Squad Hands** | [Aisling Kavanagh](../../../characters/aisling-kavanagh.md)<br />[Diarmuid Kavanagh](../../../characters/diarmuid-kavanagh.md)<br />[Yoroe Briskboots](../../../characters/yoroe-briskboots.md) |
+| **Squad Hands** | [Aisling Kavanagh](../../../characters/aisling-kavanagh.md)<br>[Diarmuid Kavanagh](../../../characters/diarmuid-kavanagh.md)<br>[Yoroe Briskboots](../../../characters/yoroe-briskboots.md) |
 
 | [Reozin Ironhide](../../../characters/reozin-ironhide.md) | [Aisling Kavanagh](../../../characters/aisling-kavanagh.md) | [Diarmuid Kavanagh](../../../characters/diarmuid-kavanagh.md) | [Yoroe Briskboots](../../../characters/yoroe-briskboots.md) |
 |:---:|:---:|:---:|:---:|

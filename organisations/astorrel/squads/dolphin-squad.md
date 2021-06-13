@@ -6,7 +6,7 @@
 | **Role** | Cities / [Northhaven](../../../places/cities/northhaven.md) |
 | **Commanding Officer** | [Emdar Silverstrike](../../../characters/emdar-silverstrike.md) |
 | **Squad Lead** | |
-| **Squad Hands** | [Dust of Chalk](../../../characters/dust-of-chalk.md)<br />[Kathmera Frozeneyes](../../../characters/kathmera-frozeneyes.md)<br />[Panafiz Zemblelimble](../../../characters/panafiz-zemblelimble.md)<br />[Whisper on the Breeze](../../../characters/whisper-on-the-breeze.md) |
+| **Squad Hands** | [Dust of Chalk](../../../characters/dust-of-chalk.md)<br>[Kathmera Frozeneyes](../../../characters/kathmera-frozeneyes.md)<br>[Panafiz Zemblelimble](../../../characters/panafiz-zemblelimble.md)<br>[Whisper on the Breeze](../../../characters/whisper-on-the-breeze.md) |
 
 | [Whisper on the Breeze](../../../characters/whisper-on-the-breeze.md) | Name | Name | Name |
 |:---:|:---:|:---:|:---:|

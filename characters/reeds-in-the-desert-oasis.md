@@ -18,7 +18,7 @@
 | **Rank** | [Astornox Major](../organisations/astornox/ranks/astornox-major.md) |
 | **Role** | Conscription |
 | **Commanding Officer** | [Itharmund Steeleye](itharmund-steeleye.md) |
-| **Subordinates** | [Kur Merkys](kur-merkys.md)<br />[Vilnia Kovas](vilnia-kovas.md) |
+| **Subordinates** | [Kur Merkys](kur-merkys.md)<br>[Vilnia Kovas](vilnia-kovas.md) |
 |||
 | **Image ID** | `e9c4cca8d59367cf` |
 

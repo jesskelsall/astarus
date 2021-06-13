@@ -10,8 +10,8 @@
 | **Age** | 62 |
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
-| **Relations** | Grice Zossa (husband, dead)<br />[Kulegar Bronhor](kulegar-bronhor.md) (friend) |
-| **Places** | Eaglesfield (birthplace)<br />[The Malneshitas](../places/buildings/temples/the-malneshitas.md) |
+| **Relations** | Grice Zossa (husband, dead)<br>[Kulegar Bronhor](kulegar-bronhor.md) (friend) |
+| **Places** | Eaglesfield (birthplace)<br>[The Malneshitas](../places/buildings/temples/the-malneshitas.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

@@ -10,7 +10,7 @@
 | **Age** | 54 |
 | **Class** | |
 | **Worship** | [Nilliski](nilliski.md) |
-| **Relations** | [Noon Schiller](noon-schiller.md) (son)<br />[Schiller family](../organisations/schiller-family.md) (family) |
+| **Relations** | [Noon Schiller](noon-schiller.md) (son)<br>[Schiller family](../organisations/schiller-family.md) (family) |
 | **Places** | Ballabeg (birthplace) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |

@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | [Nenra Zossa](nenra-zossa.md) (friend) |
-| **Places** | Eaglesfield (birthplace)<br />[Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md)<br />[Arnaside](../places/villages/arnaside.md) |
+| **Places** | Eaglesfield (birthplace)<br>[Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md)<br>[Arnaside](../places/villages/arnaside.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

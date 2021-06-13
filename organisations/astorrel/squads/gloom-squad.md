@@ -6,7 +6,7 @@
 | **Role** | Urban Expansion |
 | **Commanding Officer** | |
 | **Squad Lead** | |
-| **Squad Hands** | [Brian](../../../characters/brian.md)<br />[Moss Gloomhollow](../../../characters/moss-gloomhollow.md)<br />[Norma Collarbone](../../../characters/norma-collarbone.md)<br />[Ophelia Phantom](../../../characters/ophelia-phantom.md) |
+| **Squad Hands** | [Brian](../../../characters/brian.md)<br>[Moss Gloomhollow](../../../characters/moss-gloomhollow.md)<br>[Norma Collarbone](../../../characters/norma-collarbone.md)<br>[Ophelia Phantom](../../../characters/ophelia-phantom.md) |
 
 | [Brian](../../../characters/brian.md) | [Moss Gloomhollow](../../../characters/moss-gloomhollow.md) | [Norma Collarbone](../../../characters/norma-collarbone.md) | [Ophelia Phantom](../../../characters/ophelia-phantom.md) |
 |:---:|:---:|:---:|:---:|

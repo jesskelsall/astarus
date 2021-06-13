@@ -6,7 +6,7 @@
 | **Role** | Phenomena |
 | **Commanding Officer** | [Elysia Vanderboss](../../../characters/elysia-vanderboss.md) |
 | **Squad Lead** | TBD |
-| **Squad Hands** | [Saoirse ó Dochartaigh](../../../characters/saoirse-o-dochartaigh.md)<br />[Thanea Morlay](../../../characters/thanea-morlay.md)<br />[Torbra Tauff](../../../characters/torbra-tauff.md)<br />[Wizira](../../../characters/wizira.md)  |
+| **Squad Hands** | [Saoirse ó Dochartaigh](../../../characters/saoirse-o-dochartaigh.md)<br>[Thanea Morlay](../../../characters/thanea-morlay.md)<br>[Torbra Tauff](../../../characters/torbra-tauff.md)<br>[Wizira](../../../characters/wizira.md)  |
 
 | [Saoirse ó Dochartaigh](../../../characters/saoirse-o-dochartaigh.md) | [Thanea Morlay](../../../characters/thanea-morlay.md) | [Torbra Tauff](../../../characters/torbra-tauff.md) | [Wizira](../../../characters/wizira.md) |
 |:---:|:---:|:---:|:---:|

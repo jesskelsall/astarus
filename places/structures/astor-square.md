@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Astor Square |
 | **Type** | Structure |
-| **Location** | [Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
-| **Nearby Places** | Crafter's Course<br />[Northhaven Astornar Stronghold](../strongholds/northhaven-astornar-stronghold.md)<br />[Northhaven Astornox Stronghold](../strongholds/northhaven-astornox-stronghold.md)<br />[Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) |
+| **Location** | [Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
+| **Nearby Places** | Crafter's Course<br>[Northhaven Astornar Stronghold](../strongholds/northhaven-astornar-stronghold.md)<br>[Northhaven Astornox Stronghold](../strongholds/northhaven-astornox-stronghold.md)<br>[Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) |
 | **People** | |
 
 ## Summary

@@ -18,7 +18,7 @@
 | **Rank** | [Astornox Commandant](../organisations/astornox/ranks/astornox-commandant.md) |
 | **Role** | |
 | **Commanding Officer** | [Anton Haverwick](anton-haverwick.md) |
-| **Subordinates** | [Overon Nightingale](overon-nightingale.md) (Major of Settlements)<br />[Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) (Major of Conscription) |
+| **Subordinates** | [Overon Nightingale](overon-nightingale.md) (Major of Settlements)<br>[Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) (Major of Conscription) |
 |||
 | **Image ID** | `75330ea6f353349f` |
 

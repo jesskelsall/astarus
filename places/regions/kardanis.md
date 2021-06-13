@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Kardanis |
 | **Type** | Region |
-| **Location** | [South East Kardan](south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
+| **Location** | [South East Kardan](south-east-kardan.md)<br>[Kardan](../continents/kardan.md) |
 | **Nearby Places** | [Sea of Songs](../seas/sea-of-songs.md) |
 | **People** | |
 

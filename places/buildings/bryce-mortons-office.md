@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Bryce Morton's Office (3H) |
 | **Type** | Building |
-| **Location** | [Auric Rise](auric-rise.md)<br />[Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br />[Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
+| **Location** | [Auric Rise](auric-rise.md)<br>[Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
 | **Nearby Places** | |
 | **People** | [Bryce Morton](../../characters/bryce-morton.md) |
 

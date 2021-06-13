@@ -7,7 +7,7 @@
 | **Organisation** | [Astorrel](../astorrel.md) | rank.2
 | **Officer?** | Yes |
 | **Commanding Officers** | [Astorrel Lieutenants](astorrel-lieutenant.md) |
-| **Subordinates** | [Astorrel Squad Leads](astorrel-squad-lead.md)<br />[Astorrel Squad Hands](astorrel-squad-hand.md) |
+| **Subordinates** | [Astorrel Squad Leads](astorrel-squad-lead.md)<br>[Astorrel Squad Hands](astorrel-squad-hand.md) |
 |||
 | **Image ID** | `08075aea46df2ace` |
 

@@ -18,7 +18,7 @@
 | **Rank** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) |
 | **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | [Samantha Ilis](samantha-ilis.md) |
-| **Subordinates** | [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />[Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) |
+| **Subordinates** | [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br>[Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) |
 |||
 | **Image ID** | `d88f8099d26b0915` |
 

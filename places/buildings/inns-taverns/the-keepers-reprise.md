@@ -6,7 +6,7 @@
 | **Type** | Inn |
 | **Location** | [Humouth](../../villages/humouth.md) |
 | **Nearby Places** | |
-| **People** | [Rysa Ornoll](../../../characters/rysa-ornoll.md) (owner, innkeeper)<br />[Bill Sprig](../../../characters/bill-sprig.md) (hostler) |
+| **People** | [Rysa Ornoll](../../../characters/rysa-ornoll.md) (owner, innkeeper)<br>[Bill Sprig](../../../characters/bill-sprig.md) (hostler) |
 
 ## Summary
 

@@ -4,10 +4,10 @@
 | --- | --- |
 | **Name** | Beckermet |
 | **Type** | Town |
-| **Location** | [Northern Astor](../regions/northern-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md) |
+| **Location** | [Northern Astor](../regions/northern-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 4,300 |
-| **Nearby Places** | [Frizthwaite](../villages/frizthwaite.md)<br />[Humar Cut](../roads/humar-cut.md)<br />[Northern Road](../roads/northern-road.md)<br />[River Humar](../rivers-lakes/river-humar.md) |
+| **Nearby Places** | [Frizthwaite](../villages/frizthwaite.md)<br>[Humar Cut](../roads/humar-cut.md)<br>[Northern Road](../roads/northern-road.md)<br>[River Humar](../rivers-lakes/river-humar.md) |
 | **People** | |
 
 ## Summary

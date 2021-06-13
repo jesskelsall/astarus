@@ -10,7 +10,7 @@
 | **Age** | 29 |
 | **Class** | Bard |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | Father Humpledopper (father, dead)<br />Mother Humpledopper (mother, dead)<br />Brother Humpledopper (brother) |
+| **Relations** | Father Humpledopper (father, dead)<br>Mother Humpledopper (mother, dead)<br>Brother Humpledopper (brother) |
 | **Places** | Carnmere |
 |||
 | **Citizenship** | |

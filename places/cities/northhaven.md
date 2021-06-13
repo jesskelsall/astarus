@@ -4,10 +4,10 @@
 | --- | --- |
 | **Name** | Northhaven |
 | **Type** | City (capital) |
-| **Location** | [Central Astor](../regions/central-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
+| **Location** | [Central Astor](../regions/central-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md)<br>[Kardan](../continents/kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 19,000 |
-| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br />[Great Astor Road](../roads/great-astor-road.md)<br />[Humar Cut](../roads/humar-cut.md)<br />[Ulburn](../villages/ulburn.md) |
+| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br>[Great Astor Road](../roads/great-astor-road.md)<br>[Humar Cut](../roads/humar-cut.md)<br>[Ulburn](../villages/ulburn.md) |
 | **People** | |
 
 ## Summary

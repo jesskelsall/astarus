@@ -10,7 +10,7 @@
 | **Age** | |
 | **Class** | Warlock |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | [Mykiel](mykiel.md) (father, deva)<br />[Effie Silttooth](effie-silttooth.md) (patron) |
+| **Relations** | [Mykiel](mykiel.md) (father, deva)<br>[Effie Silttooth](effie-silttooth.md) (patron) |
 | **Places** | |
 |||
 | **Citizenship** | |
@@ -20,7 +20,7 @@
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
-| **Image ID** | `96456245c79828b5`<br />`9123d71815a8ce99` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
+| **Image ID** | `96456245c79828b5`<br>`9123d71815a8ce99` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 

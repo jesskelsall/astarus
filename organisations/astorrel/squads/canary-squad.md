@@ -6,7 +6,7 @@
 | **Role** | Cities / [Northhaven](../../../places/cities/northhaven.md) |
 | **Commanding Officer** | [Bryce Morton](../../../characters/bryce-morton.md) |
 | **Squad Lead** | TBD |
-| **Squad Hands** | [Ahsha Sallas](../../../characters/ahsha-sallas.md)<br />[Ephaine Seren](../../../characters/ephaine-seren.md)<br />[Noon Schiller](../../../characters/noon-schiller.md)<br />[Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md) |
+| **Squad Hands** | [Ahsha Sallas](../../../characters/ahsha-sallas.md)<br>[Ephaine Seren](../../../characters/ephaine-seren.md)<br>[Noon Schiller](../../../characters/noon-schiller.md)<br>[Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md) |
 
 | [Ahsha Sallas](../../../characters/ahsha-sallas.md) | [Ephaine Seren](../../../characters/ephaine-seren.md) | [Noon Schiller](../../../characters/noon-schiller.md) | [Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md) |
 |:---:|:---:|:---:|:---:|

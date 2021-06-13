@@ -10,7 +10,7 @@
 | **Age** | 56 |
 | **Class** | |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
-| **Relations** | [Aisling Kavanagh](aisling-kavanagh.md) (daughter)<br />[Diarmuid Kavanagh](diarmuid-kavanagh.md) (son) |
+| **Relations** | [Aisling Kavanagh](aisling-kavanagh.md) (daughter)<br>[Diarmuid Kavanagh](diarmuid-kavanagh.md) (son) |
 | **Places** | Eaglesfield |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |

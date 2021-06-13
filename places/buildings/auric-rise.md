@@ -4,9 +4,9 @@
 | --- | --- |
 | **Name** | Auric Rise |
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br />[Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
-| **Nearby Places** | [Kirrel Hall](kirrel-hall.md)<br />[The Mission's End](inns-taverns/the-missions-end.md)<br />[Zenith Spire](zenith-spire.md) |
-| **People** | [Bryce Morton](../../characters/bryce-morton.md)<br />[Samantha Ilis](../../characters/samantha-ilis.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
+| **Nearby Places** | [Kirrel Hall](kirrel-hall.md)<br>[The Mission's End](inns-taverns/the-missions-end.md)<br>[Zenith Spire](zenith-spire.md) |
+| **People** | [Bryce Morton](../../characters/bryce-morton.md)<br>[Samantha Ilis](../../characters/samantha-ilis.md) |
 
 ## Summary
 

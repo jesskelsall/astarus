@@ -4,9 +4,9 @@
 | --- | --- |
 | **Name** | Alistair Hawthorn's House |
 | **Type** | Building |
-| **Location** | [Flute Street](flute-street.md)<br />[Goldreach](README.md) |
+| **Location** | [Flute Street](flute-street.md)<br>[Goldreach](README.md) |
 | **Nearby Places** | |
-| **People** | [Alistair Hawthorn](../../../../characters/alistair-hawthorn.md) (owner)<br />Patsy Tilbert (maid) |
+| **People** | [Alistair Hawthorn](../../../../characters/alistair-hawthorn.md) (owner)<br>Patsy Tilbert (maid) |
 
 ## Summary
 

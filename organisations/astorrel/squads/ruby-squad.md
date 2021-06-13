@@ -6,7 +6,7 @@
 | **Role** | Cities / [Northhaven](../../../places/cities/northhaven.md) |
 | **Commanding Officer** | [Bryce Morton](../../../characters/bryce-morton.md) |
 | **Squad Lead** | TBD |
-| **Squad Hands** | [Darius Dunn](../../../characters/darius-dunn.md)<br />[Morgan Caithness](../../../characters/morgan-caithness.md)<br />[Penance Zahiri](../../../characters/penance-zahiri.md)<br />[Tabari Se](../../../characters/tabari-se.md)
+| **Squad Hands** | [Darius Dunn](../../../characters/darius-dunn.md)<br>[Morgan Caithness](../../../characters/morgan-caithness.md)<br>[Penance Zahiri](../../../characters/penance-zahiri.md)<br>[Tabari Se](../../../characters/tabari-se.md)
 
 | [Darius Dunn](../../../characters/darius-dunn.md) | [Morgan Caithness](../../../characters/morgan-caithness.md) | [Penance Zahiri](../../../characters/penance-zahiri.md) | [Tabari Se](../../../characters/tabari-se.md) |
 |:---:|:---:|:---:|:---:|

@@ -11,7 +11,7 @@
 | **Affiliation** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) (mentor) |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
 | **Relations** | |
-| **Acquaintances** | [Levelle Tristwix](levelle-tristwix.md) (old squad-mate, friend)<br />[Redwyn Humpledopper](redwyn-humpledopper.md) (student) |
+| **Acquaintances** | [Levelle Tristwix](levelle-tristwix.md) (old squad-mate, friend)<br>[Redwyn Humpledopper](redwyn-humpledopper.md) (student) |
 | **From** | |
 | **Places** | [Dunmore](../places/cities/dunmore.md) |
 

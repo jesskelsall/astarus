@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | |
-| **Places** | [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md)<br />[Arnaside](../places/villages/arnaside.md) |
+| **Places** | [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md)<br>[Arnaside](../places/villages/arnaside.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

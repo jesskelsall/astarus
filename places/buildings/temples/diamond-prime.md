@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Diamond Prime |
 | **Type** | Temple |
-| **Location** | [Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
 | **Nearby Places** | [Astor Square](../../structures/astor-square.md) |
 | **People** | |
 

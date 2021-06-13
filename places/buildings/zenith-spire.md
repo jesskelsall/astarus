@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Zenith Spire |
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br />[Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
-| **Nearby Places** | [Auric Rise](auric-rise.md)<br />[Kirrel Hall](kirrel-hall.md)<br />[The Mission's End](inns-taverns/the-missions-end.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
+| **Nearby Places** | [Auric Rise](auric-rise.md)<br>[Kirrel Hall](kirrel-hall.md)<br>[The Mission's End](inns-taverns/the-missions-end.md) |
 | **People** | [Levelle Tristwix](../../characters/levelle-tristwix.md) |
 
 ## Summary

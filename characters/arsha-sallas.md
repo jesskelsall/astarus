@@ -10,7 +10,7 @@
 | **Age** | 46 |
 | **Class** | |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
-| **Relations** | [Felina Sallas](felina-sallas.md) (wife)<br />[Ahsha Sallas](ahsha-sallas.md) (daughter) |
+| **Relations** | [Felina Sallas](felina-sallas.md) (wife)<br>[Ahsha Sallas](ahsha-sallas.md) (daughter) |
 | **Places** | [Mockerkin](../places/towns/mockerkin.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |

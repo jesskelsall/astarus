@@ -5,7 +5,7 @@
 | **Name** | Sunrise District |
 | **Type** | District |
 | **Location** | [Northhaven](../cities/northhaven.md) |
-| **Nearby Places** | [Northhaven Wall](../structures/northhaven-wall.md)<br />[Sunset District](sunset-district.md) |
+| **Nearby Places** | [Northhaven Wall](../structures/northhaven-wall.md)<br>[Sunset District](sunset-district.md) |
 | **People** | |
 
 ## Summary

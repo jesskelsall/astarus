@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Grizgrep Reagents & Magical Curios |
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Everything Else](everything-else.md)<br />[Friend of the Magicborn](friend-of-the-magicborn.md)<br />[Rhotrukk Wepons](rhotrukk-wepons.md)<br />[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
+| **Location** | [Crafters Course](../../streets/crafters-course.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
 | **People** | [Ormila Grizgrep](../../../characters/ormila-grizgrep.md) |
 
 ## Summary

@@ -20,7 +20,7 @@
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
-| **Image ID** | `db42750c63a0a387`<br />`d6b2165277f78c23` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
+| **Image ID** | `db42750c63a0a387`<br>`d6b2165277f78c23` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 

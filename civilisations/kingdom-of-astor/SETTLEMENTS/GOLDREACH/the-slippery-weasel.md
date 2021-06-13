@@ -5,8 +5,8 @@
 | **Name** | The Slippery Weasel |
 | **Type** | Inn |
 | **Location** | [Goldreach](README.md) |
-| **Nearby Places** | [Goldreach Marketplace](goldreach-marketplace.md)<br />[Goldreach](README.md) Temple<br />[Goldreach Astornox Stronghold](goldreach-astornox-stronghold.md) |
-| **People** | [Sammal Guntos](../../../../characters/sammal-guntos.md) (innkeeper)<br />[Viv Dalnick](../../../../characters/viv-dalnick.md) (barmaid) |
+| **Nearby Places** | [Goldreach Marketplace](goldreach-marketplace.md)<br>[Goldreach](README.md) Temple<br>[Goldreach Astornox Stronghold](goldreach-astornox-stronghold.md) |
+| **People** | [Sammal Guntos](../../../../characters/sammal-guntos.md) (innkeeper)<br>[Viv Dalnick](../../../../characters/viv-dalnick.md) (barmaid) |
 
 ## Summary
 

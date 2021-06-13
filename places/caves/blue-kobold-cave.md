@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Blue Kobold Cave |
 | **Type** | Cave |
-| **Location** | [Walna Forest](../forests/walna-forest.md)<br />[Central Astor](../regions/central-astor.md) |
+| **Location** | [Walna Forest](../forests/walna-forest.md)<br>[Central Astor](../regions/central-astor.md) |
 | **Nearby Places** | [Arnaside](../villages/arnaside.md) |
 | **People** | [Ikra](../../characters/ikra.md) |
 

@@ -10,7 +10,7 @@
 | **Alignment** | |
 | **Affiliation** | [Cepine](../lineages/cepine.md) |
 | **Worship** | |
-| **Relations** | [Schaef Seren](schaef-seren.md) (husband)<br />[Tamman Seren](tamman-seren.md) (son)<br />[Ephaine Seren](ephaine-seren.md) (daughter)<br />Besar Seren (son)<br />Irla Seren (daughter) |
+| **Relations** | [Schaef Seren](schaef-seren.md) (husband)<br>[Tamman Seren](tamman-seren.md) (son)<br>[Ephaine Seren](ephaine-seren.md) (daughter)<br>Besar Seren (son)<br>Irla Seren (daughter) |
 | **Acquaintances** | |
 | **From** | Filisur |
 | **Places** | |

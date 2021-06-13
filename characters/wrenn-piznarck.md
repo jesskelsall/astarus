@@ -10,13 +10,13 @@
 | **Age** | 53 |
 | **Class** | Wizard (School of Conjuration) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
-| **Relations** | [Alistair Hawthorn](alistair-hawthorn.md) (former friend)<br />[Darjonkaargeac Hidaar](darjonkaargeac-hidaar.md) (friend) |
+| **Relations** | [Alistair Hawthorn](alistair-hawthorn.md) (former friend)<br>[Darjonkaargeac Hidaar](darjonkaargeac-hidaar.md) (friend) |
 | **Places** | [Northhaven](../places/cities/northhaven.md) (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br />*Former:*<br />Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||

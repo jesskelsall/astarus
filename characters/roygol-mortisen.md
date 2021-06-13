@@ -8,7 +8,7 @@
 | **Age** | 32 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox Guard Corporal](../organisations/astornox/ranks/astornox-guard-corporal.md)<br /><img src="../../images/ranks/astornox-2-guard-corporal.png" height="50" /> |
+| **Affiliation** | [Astornox Guard Corporal](../organisations/astornox/ranks/astornox-guard-corporal.md)<br><img src="../../images/ranks/astornox-2-guard-corporal.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | |

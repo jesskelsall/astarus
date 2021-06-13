@@ -6,14 +6,14 @@
 | --- | --- |
 | **Capital City** | |
 | **Official Languages** ||
-| **Ethnic Groups** | Dragonborn<br />Orc<br />Tabaxi<br />Tiefling |
+| **Ethnic Groups** | Dragonborn<br>Orc<br>Tabaxi<br>Tiefling |
 | **Religion** | |
 | **Demonyms** | |
 | **Government** | Confederacy |
 | **Leader** | |
 | **Territories** | East [Kardan](../../places/continents/kardan.md) |
 | **Founded** | |
-| **Neighbours** | [Kingdom of Astor](../kingdom-of-astor/kingdom-of-astor.md) (east)<br />[Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south east) |
+| **Neighbours** | [Kingdom of Astor](../kingdom-of-astor/kingdom-of-astor.md) (east)<br>[Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south east) |
 | **Wars** | |
 
 ## Summary

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | The Circle |
 | **Type** | Building |
-| **Location** | [Northhaven Astornar Stronghold](../strongholds/northhaven-astornar-stronghold.md)<br />[Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
+| **Location** | [Northhaven Astornar Stronghold](../strongholds/northhaven-astornar-stronghold.md)<br>[Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
 | **Nearby Places** | |
 | **People** | |
 

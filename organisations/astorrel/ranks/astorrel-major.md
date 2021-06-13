@@ -7,7 +7,7 @@
 | **Organisation** | [Astorrel](../astorrel.md) | rank.2
 | **Officer?** | Yes |
 | **Commanding Officers** | [Astorrel Commandant](astorrel-commandant.md) |
-| **Subordinates** | [Astorrel Captains](astorrel-captain.md)<br />[Astorrel Lieutenants](astorrel-lieutenant.md) |
+| **Subordinates** | [Astorrel Captains](astorrel-captain.md)<br>[Astorrel Lieutenants](astorrel-lieutenant.md) |
 |||
 | **Image ID** | `67d4319003b24ffa` |
 

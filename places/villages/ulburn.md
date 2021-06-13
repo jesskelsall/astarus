@@ -7,7 +7,7 @@
 | **Location** | |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 1,100 |
-| **Nearby Places** | [Great Astor Road](../roads/great-astor-road.md)<br />[Northhaven](../cities/northhaven.md)<br />[River Humar](../rivers-lakes/river-humar.md) |
+| **Nearby Places** | [Great Astor Road](../roads/great-astor-road.md)<br>[Northhaven](../cities/northhaven.md)<br>[River Humar](../rivers-lakes/river-humar.md) |
 | **People** | |
 
 ## Summary

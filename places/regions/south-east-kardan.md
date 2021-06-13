@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | South East Kardan |
 | **Type** | Region |
-| **Location** | [Kardan](../continents/kardan.md)<br />[Astarus](../../planes/astarus.md) |
+| **Location** | [Kardan](../continents/kardan.md)<br>[Astarus](../../planes/astarus.md) |
 | **Nearby Places** | [Sea of Songs](../seas/sea-of-songs.md) |
 | **People** | |
 

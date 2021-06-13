@@ -8,7 +8,7 @@
 | **Age** | 28 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md)<br /><img src="../../images/ranks/astornox-3-guard-sergeant.png" height="50" /> |
+| **Affiliation** | [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md)<br><img src="../../images/ranks/astornox-3-guard-sergeant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | |

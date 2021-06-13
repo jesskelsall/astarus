@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Northhaven Astorrel Stronghold |
 | **Type** | Stronghold |
-| **Location** | [Sunset District](../districts/sunset-district.md)<br />[Northhaven](../cities/northhaven.md) |
-| **Nearby Places** | [Astor Square](../structures/astor-square.md)<br />[Valley Under the Stars](../buildings/inns-taverns/valley-under-the-stars.md) |
+| **Location** | [Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
+| **Nearby Places** | [Astor Square](../structures/astor-square.md)<br>[Valley Under the Stars](../buildings/inns-taverns/valley-under-the-stars.md) |
 | **People** | |
 
 ## Summary

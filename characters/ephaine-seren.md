@@ -10,7 +10,7 @@
 | **Age** | 17 |
 | **Class** | Druid |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | [Schaef Seren](schaef-seren.md) (father)<br />[Adalie Seren](adalie-seren.md) (mother)<br />[Tamman Seren](tamman-seren.md) (older brother)<br />Besar Seren (younger brother)<br />Irla Seren (younger sister)<br />[Ludolf Hornwallis](ludolf-hornwallis.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
+| **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Tamman Seren](tamman-seren.md) (older brother)<br>Besar Seren (younger brother)<br>Irla Seren (younger sister)<br>[Ludolf Hornwallis](ludolf-hornwallis.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
 | **Places** | Filisur (birthplace) |
 |||
 | **Citizenship** | |

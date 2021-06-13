@@ -6,7 +6,7 @@
 | **Role** | Cities / [Dunmore](../../../places/cities/dunmore.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | |
-| **Squad Hands** | [Eremus Vitur](../../../characters/eremus-vitur.md)<br />[Faelon Fireburner](../../../characters/faelon-fireburner.md)<br />[Tarpher Forestcaller](../../../characters/tarpher-forestcaller.md)<br />[Uther Wildfang](../../../characters/uther-wildfang.md) |
+| **Squad Hands** | [Eremus Vitur](../../../characters/eremus-vitur.md)<br>[Faelon Fireburner](../../../characters/faelon-fireburner.md)<br>[Tarpher Forestcaller](../../../characters/tarpher-forestcaller.md)<br>[Uther Wildfang](../../../characters/uther-wildfang.md) |
 
 | [Eremus Vitur](../../../characters/eremus-vitur.md) | [Faelon Fireburner](../../../characters/faelon-fireburner.md) | [Tarpher Forestcaller](../../../characters/tarpher-forestcaller.md) | [Uther Wildfang](../../../characters/uther-wildfang.md) |
 |:---:|:---:|:---:|:---:|

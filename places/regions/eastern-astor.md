@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Eastern Astor |
 | **Type** | Region |
-| **Location** | [South East Kardan](south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
-| **Nearby Places** | [Central Astor](central-astor.md)<br />[Sea of Songs](../seas/sea-of-songs.md) |
+| **Location** | [South East Kardan](south-east-kardan.md)<br>[Kardan](../continents/kardan.md) |
+| **Nearby Places** | [Central Astor](central-astor.md)<br>[Sea of Songs](../seas/sea-of-songs.md) |
 | **People** | |
 
 ## Summary

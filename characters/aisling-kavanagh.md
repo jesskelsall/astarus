@@ -10,7 +10,7 @@
 | **Age** | 22 |
 | **Class** | Monk (Way of the Sun Soul) |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
-| **Relations** | [Eoghan Kavanagh](eoghan-kavanagh.md) (father)<br />[Diarmuid Kavanagh](diarmuid-kavanagh.md) (twin brother) |
+| **Relations** | [Eoghan Kavanagh](eoghan-kavanagh.md) (father)<br>[Diarmuid Kavanagh](diarmuid-kavanagh.md) (twin brother) |
 | **Places** | |
 |||
 | **Citizenship** | |

@@ -4,10 +4,10 @@
 | --- | --- |
 | **Name** | Dunmore |
 | **Type** | City |
-| **Location** | [Eastern Astor](../regions/eastern-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
+| **Location** | [Eastern Astor](../regions/eastern-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md)<br>[Kardan](../continents/kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 8,000 |
-| **Nearby Places** | [Dunmore Coast Road](../roads/dunmore-coast-road.md)<br />[Great Astor Road](../roads/great-astor-road.md) |
+| **Nearby Places** | [Dunmore Coast Road](../roads/dunmore-coast-road.md)<br>[Great Astor Road](../roads/great-astor-road.md) |
 | **People** | |
 
 ## Summary

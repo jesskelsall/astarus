@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | [Central Astor](central-astor.md) |
 | **Type** | Region |
-| **Location** | [South East Kardan](south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
-| **Nearby Places** | [Central Astor](central-astor.md)<br />[Southern Astor](southern-astor.md)<br />Neum Flats |
+| **Location** | [South East Kardan](south-east-kardan.md)<br>[Kardan](../continents/kardan.md) |
+| **Nearby Places** | [Central Astor](central-astor.md)<br>[Southern Astor](southern-astor.md)<br>Neum Flats |
 | **People** | |
 
 ## Summary

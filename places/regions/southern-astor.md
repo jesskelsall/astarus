@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Southern Astor |
 | **Type** | Region |
-| **Location** | [South East Kardan](south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
-| **Nearby Places** | [Western Astor](western-astor.md)<br />Kas'ran Desert |
+| **Location** | [South East Kardan](south-east-kardan.md)<br>[Kardan](../continents/kardan.md) |
+| **Nearby Places** | [Western Astor](western-astor.md)<br>Kas'ran Desert |
 | **People** | |
 
 ## Summary

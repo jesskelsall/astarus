@@ -4,10 +4,10 @@
 | --- | --- |
 | **Name** | Eskrigg |
 | **Type** | City |
-| **Location** | [Central Astor](../regions/central-astor.md)<br />[South East Kardan](../regions/south-east-kardan.md)<br />[Kardan](../continents/kardan.md) |
+| **Location** | [Central Astor](../regions/central-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md)<br>[Kardan](../continents/kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 12,000 |
-| **Nearby Places** | [Eskside Byway](../roads/eskside-byway.md)<br />[Grasthwaite Bend](../roads/grasthwaite-bend.md)<br />[Great Astor Road](../roads/great-astor-road.md) |
+| **Nearby Places** | [Eskside Byway](../roads/eskside-byway.md)<br>[Grasthwaite Bend](../roads/grasthwaite-bend.md)<br>[Great Astor Road](../roads/great-astor-road.md) |
 | **People** | [Legacy Aranius](../../characters/legacy-aranius.md) ([Astornox Major](../../organisations/astornox/ranks/astornox-major.md) of Eskrigg) |
 
 ## Summary

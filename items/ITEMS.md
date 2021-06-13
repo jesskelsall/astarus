@@ -6,7 +6,7 @@
 
 | []() | |
 | --- | --- |
-| **Name(s)** | [Meteorite](meteoric/meteorite.md)<br />Orb (unknown) |
+| **Name(s)** | [Meteorite](meteoric/meteorite.md)<br>Orb (unknown) |
 | **Weight** | 2 lb |
 | **Notes** | Curiosity |
 
@@ -18,7 +18,7 @@
 
 | []() | |
 | --- | --- |
-| **Name(s)** | [Meteoric Dust](meteoric/meteoric-dust.md)<br />Grey Dust (unknown) |
+| **Name(s)** | [Meteoric Dust](meteoric/meteoric-dust.md)<br>Grey Dust (unknown) |
 | **Weight** | < 1 lb |
 | **Notes** | Substance |
 

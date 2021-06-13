@@ -8,7 +8,7 @@
 | **Age** | 99 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) (mentor)<br /><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
+| **Affiliation** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) (mentor)<br><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |

@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md)<br />[Great Sile Woods](../places/forests/great-sile-woods.md) |
+| **Places** | [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md)<br>[Great Sile Woods](../places/forests/great-sile-woods.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |

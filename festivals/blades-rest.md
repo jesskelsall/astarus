@@ -6,7 +6,7 @@
 | **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Start** | Faldag, 27th of Taledus |
 | **End** | Bhydag, 1st of Shavdor |
-| **Patron(s)** | [Kirrel](../gods/deities/kirrel.md) (outgoing)<br />[Gormox](../gods/deities/gormox.md) (incoming) |
+| **Patron(s)** | [Kirrel](../gods/deities/kirrel.md) (outgoing)<br>[Gormox](../gods/deities/gormox.md) (incoming) |
 
 | [Kirrel](../gods/deities/kirrel.md) | [Gormox](../gods/deities/gormox.md) |
 |:---:|:---:|

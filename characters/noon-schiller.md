@@ -10,17 +10,17 @@
 | **Age** | 20 |
 | **Class** | Warlock |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | [Bernard Horace Schiller](bernard-horace-schiller.md) (father)<br />[Schiller Family](../organisations/schiller-family.md) (family)<br />[Nills](nills.md) (Warlock patron) |
+| **Relations** | [Bernard Horace Schiller](bernard-horace-schiller.md) (father)<br>[Schiller Family](../organisations/schiller-family.md) (family)<br>[Nills](nills.md) (Warlock patron) |
 | **Places** | Ballabeg (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br />Former:<br />Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) |
+| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br>Former:<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 |||
-| **Image ID** | `ec514d55f424de69` ([Nature's Battle](../mechanics/roleplay/natures-battle.md))<br />`8de47544818b859b` |
+| **Image ID** | `ec514d55f424de69` ([Nature's Battle](../mechanics/roleplay/natures-battle.md))<br>`8de47544818b859b` |
 
 ## Summary
 

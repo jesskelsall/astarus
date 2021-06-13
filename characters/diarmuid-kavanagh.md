@@ -10,7 +10,7 @@
 | **Age** | 22 |
 | **Class** | Wizard (School of Transmutation) |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
-| **Relations** | [Eoghan Kavanagh](eoghan-kavanagh.md) (father)<br />[Aisling Kavanagh](aisling-kavanagh.md) (twin sister) |
+| **Relations** | [Eoghan Kavanagh](eoghan-kavanagh.md) (father)<br>[Aisling Kavanagh](aisling-kavanagh.md) (twin sister) |
 | **Places** | |
 |||
 | **Citizenship** | |

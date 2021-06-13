@@ -18,7 +18,7 @@
 | **Rank** | General Supreme |
 | **Role** | |
 | **Commanding Officer** | |
-| **Subordinates** | [Anton Haverwick](anton-haverwick.md) (General of Justice)<br />[Liabella Peacock](liabella-peacock.md) (General of Culture)<br />[Patricia Wilbenotel](patricia-wilbenotel.md) (General of War)<br />[Polgast Mouldylog](polgast-mouldylog.md) (General of Nature) |
+| **Subordinates** | [Anton Haverwick](anton-haverwick.md) (General of Justice)<br>[Liabella Peacock](liabella-peacock.md) (General of Culture)<br>[Patricia Wilbenotel](patricia-wilbenotel.md) (General of War)<br>[Polgast Mouldylog](polgast-mouldylog.md) (General of Nature) |
 |||
 | **Image ID** | `0f383816ab69f1dd` |
 

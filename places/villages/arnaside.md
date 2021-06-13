@@ -7,7 +7,7 @@
 | **Location** | [Central Astor](../regions/central-astor.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 180 |
-| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br />[Sea of Songs](../seas/sea-of-songs.md)<br />[Walna Forest](../forests/walna-forest.md) |
+| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br>[Sea of Songs](../seas/sea-of-songs.md)<br>[Walna Forest](../forests/walna-forest.md) |
 | **People** | |
 
 ## Summary

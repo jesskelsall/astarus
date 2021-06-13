@@ -10,7 +10,7 @@
 | **Age** | 43 |
 | **Class** | |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
-| **Relations** | [Arsha Sallas](arsha-sallas.md) (husband)<br />[Ahsha Sallas](ahsha-sallas.md) (daughter) |
+| **Relations** | [Arsha Sallas](arsha-sallas.md) (husband)<br>[Ahsha Sallas](ahsha-sallas.md) (daughter) |
 | **Places** | [Mockerkin](../places/towns/mockerkin.md) (birthplace) |
 |||
 | **Citizenship** | |

@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br />*Former:*<br />Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
+| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md)<br>*Former:*<br>[Linton Harkness](linton-harkness.md) |
 | **Subordinates** | |
 |||

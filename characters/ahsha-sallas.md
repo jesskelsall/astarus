@@ -10,7 +10,7 @@
 | **Age** | 26 |
 | **Class** | Fighter |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | [Arsha Sallas](arsha-sallas.md) (father)<br />[Felina Sallas](felina-sallas.md) (mother)<br />[Barthon Ironfist](barthon-ironfist.md) (pit fighting trainer)<br />[Jorren Grieger](jorren-grieger.md) ([Astorrel](../organisations/astorrel/astorrel.md) scout)<br />[Kael Greenknee](kael-greenknee.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
+| **Relations** | [Arsha Sallas](arsha-sallas.md) (father)<br>[Felina Sallas](felina-sallas.md) (mother)<br>[Barthon Ironfist](barthon-ironfist.md) (pit fighting trainer)<br>[Jorren Grieger](jorren-grieger.md) ([Astorrel](../organisations/astorrel/astorrel.md) scout)<br>[Kael Greenknee](kael-greenknee.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
 | **Places** | [Mockerkin](../places/towns/mockerkin.md) (birthplace) |
 |||
 | **Citizenship** | |

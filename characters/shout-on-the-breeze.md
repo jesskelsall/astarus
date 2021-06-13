@@ -8,7 +8,7 @@
 | **Age** | 38 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | Clan on the Breeze<br />[Astornox](../organisations/astornox/astornox.md) |
+| **Affiliation** | Clan on the Breeze<br>[Astornox](../organisations/astornox/astornox.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | |

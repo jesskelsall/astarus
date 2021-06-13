@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Rhotrukk Wepons |
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Everything Else](everything-else.md)<br />[Friend of the Magicborn](friend-of-the-magicborn.md)<br />[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br />[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
+| **Location** | [Crafters Course](../../streets/crafters-course.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
 | **People** | [Rhotrukk Bone Bleeder](../../../characters/rhotrukk-bone-bleeder.md) |
 
 ## Summary

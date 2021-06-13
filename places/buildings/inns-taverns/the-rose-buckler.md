@@ -4,9 +4,9 @@
 | --- | --- |
 | **Name** | The Rose Buckler |
 | **Type** | Inn |
-| **Location** | [Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br />[Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md) |
-| **People** | [Tydrus Tinshield](../../../characters/tydrus-tinshield.md) (owner, innkeeper)<br />[Jaxon Ultari](../../../characters/jaxon-ultari.md) (patron, gambler) |
+| **Location** | [Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md) |
+| **People** | [Tydrus Tinshield](../../../characters/tydrus-tinshield.md) (owner, innkeeper)<br>[Jaxon Ultari](../../../characters/jaxon-ultari.md) (patron, gambler) |
 
 ## Summary
 

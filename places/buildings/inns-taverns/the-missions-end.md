@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | The Mission's End |
 | **Type** | Inn |
-| **Location** | [Northhaven Astorrel Stronghold](../../strongholds/northhaven-astorrel-stronghold.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Auric Rise](../auric-rise.md)<br />[Kirrel Hall](../kirrel-hall.md)<br />[Zenith Spire](../zenith-spire.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../../strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Nearby Places** | [Auric Rise](../auric-rise.md)<br>[Kirrel Hall](../kirrel-hall.md)<br>[Zenith Spire](../zenith-spire.md) |
 | **People** | |
 
 ## Summary
@@ -32,8 +32,8 @@ Payment is taken at the doorway and a room key is given. This is then presented 
 
 | Item | Price | Sensation |
 | --- | --- | --- |
-| All inclusive, 1 day, 1 person | 1 gp 2 sp | Ale<br />Meals (comfortable)<br />Inn stay (poor), shared room (2 bunk beds) |
-| All inclusive, 1 day, 1 squad<br />(4 people) | 4 gp |
+| All inclusive, 1 day, 1 person | 1 gp 2 sp | Ale<br>Meals (comfortable)<br>Inn stay (poor), shared room (2 bunk beds) |
+| All inclusive, 1 day, 1 squad<br>(4 people) | 4 gp |
 
 ## History
 

@@ -4,9 +4,9 @@
 | --- | --- |
 | **Name** | S.Q. Wirral & Son |
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../streets/crafters-course.md)<br />[Sunset District](../../districts/sunset-district.md)<br />[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br />[Everything Else](everything-else.md)<br />[Friend of the Magicborn](friend-of-the-magicborn.md)<br />[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br />[Rhotrukk Wepons](rhotrukk-wepons.md) |
-| **People** | [Sandor Wirral](../../../characters/sandor-wirral.md) (owner)<br />[Clyde Wirral](../../../characters/clyde-wirral.md) (apprentice) |
+| **Location** | [Crafters Course](../../streets/crafters-course.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md) |
+| **People** | [Sandor Wirral](../../../characters/sandor-wirral.md) (owner)<br>[Clyde Wirral](../../../characters/clyde-wirral.md) (apprentice) |
 
 ## Summary
 
