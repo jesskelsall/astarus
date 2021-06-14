@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Thanea Morlay | character.3
-| **Lineage** | Aasimar |
+| **Lineage** | Aasimar (human) |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Sorcerer |

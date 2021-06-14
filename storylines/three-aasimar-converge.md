@@ -9,7 +9,7 @@
 
 Three aasimar exist on [Astarus](../planes/astarus.md), the only ones to have existed on this world. Their destinies are intertwined, their paths are destined to cross.
 
-- Allisa Balsatra (Scourge)
+- [Allisa Balsatra](../characters/allisa-balsatra.md) (Scourge)
 - [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) (Fallen)
 - [Thanea Morlay](../characters/thanea-morlay.md) (Protector)
 
@@ -27,8 +27,8 @@ Saoirse's dreams of wings are almost immediately answered by her warlock patron,
 
 ## Planning
 
-Allisa Balsatra will cross paths briefly with Saoirse while she is high on [meteoric dust](../items/meteoric/meteoric-dust.md). Allisa will recognise her energy, but her need to flee the city will prevent her from saying or doing much. She will talk vaguely to her underling about how there is a second one though something feels off. Her underling will then encourage her to move quickly.
+[Allisa Balsatra](../characters/allisa-balsatra.md) will cross paths briefly with Saoirse while she is high on [meteoric dust](../items/meteoric/meteoric-dust.md). Allisa will recognise her energy, but her need to flee the city will prevent her from saying or doing much. She will talk vaguely to her underling about how there is a second one though something feels off. Her underling will then encourage her to move quickly.
 
-[Astorrel Agents](../campaigns/astorrel-agents.md) will face Allisa Balsatra in the sewers under [Vorrinel's Stand](../places/buildings/vorrinels-stand.md), though she will keep her face obscured and only resort to her scourge aasimar powers if absolutely necessary. She will try to escape using Dimension Door.
+[Astorrel Agents](../campaigns/astorrel-agents.md) will face [Allisa Balsatra](../characters/allisa-balsatra.md) in the sewers under [Vorrinel's Stand](../places/buildings/vorrinels-stand.md), though she will keep her face obscured and only resort to her scourge aasimar powers if absolutely necessary. She will try to escape using Dimension Door.
 
 Much further out, Allisa will get back in touch with Thanea and Saoirse, driven by her own deva / her parents [Mykiel](../characters/mykiel.md) and [Seraphina](../characters/seraphina.md). She believes that the three need to be together for some reason, driven by her deva. Allisa will transport them to a place in the Kas'ran Desert where she is able to commune with her deva freely.

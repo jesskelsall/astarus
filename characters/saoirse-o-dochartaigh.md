@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Saoirse ó Dochartaigh | character.3
-| **Lineage** | Aasimar |
+| **Lineage** | Aasimar (human) |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Warlock |
