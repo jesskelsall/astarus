@@ -58,6 +58,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 ||
 | [PR25](../sessions/PR25.md) | 2021-06-09 | *[Blade's Rest](../festivals/blades-rest.md) Festival* |
 | [PR26](../sessions/PR26.md) | 2021-06-12 | *Nature's Final* |
+||
 | [PR27](../sessions/PR27.md) | 2021-06-16 | |
 
 ## Storylines
@@ -81,3 +82,4 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [PR18](../sessions/PR18.md) | [PR20](../sessions/PR20.md) |
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | [PR21](../sessions/PR21.md) |
 | [Nature's Battle 27](../storylines/natures-battle-27.md) | [PR21](../sessions/PR21.md) | |
+| [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/PR25.md) | |

@@ -39,8 +39,9 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA07](../sessions/AA07.md) | 2021-04-10 | *Dawn of Noon* |
 | [AA08](../sessions/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)* |
 | [AA09](../sessions/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)* |
+| [AA10](../sessions/AA10.md) | 2021-06-12 | *Dark Steel, Darker Sewers* |
 ||
-| [AA10](../sessions/AA10.md) | 2021-06-12 | |
+| AA11 | 2021-06-26 | |
 
 ## Storylines
 
