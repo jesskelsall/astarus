@@ -93,3 +93,18 @@ Both Torbra and the rest of the party were surprised to see her sudden growth. A
 [Torbra Tauff](../characters/torbra-tauff.md) uses her downtime in [Northhaven](../places/cities/northhaven.md) to research both grey humanoids (earth genasi) and runes, searching first in [Adventures for Adventurers](../places/buildings/shops/adventures-for-adventurers.md), then in [Hawk's Perch](../places/buildings/hawks-perch.md). She buys a book in the former ([Magicborn and Magical Phenomena](../items/books/magicborn-and-magical-phenomena.md)) before finding mention in [Humanoids and Rare Varieties](../items/books/humanoids-and-rare-varieties.md) of [Simanelli Tyrol](../characters/simanelli-tyrol.md) and the apocryphal story of his disappearance. This provides a likely example in history of another genasi, albeit a water genasi.
 
 With the limited time she has left, Torbra uncovers no written mention of runes or glowing rocks.
+
+### [PR25](../sessions/PR25.md)
+
+On the morning of the [Nature's Battle 27](natures-battle-27.md) final Torbra spends some time shopping for writing materials so she can practice her Frost Rune. She tries 6 times, eventually succeeding.
+
+| Frost Rune DC | Roll | Success? |
+|:---:|:---:|:---:|
+| 20 | 18 | No |
+| 18 | 16 | No |
+| 16 | 7 | No |
+| 14 | 2 | No |
+| 12 | 8 | No |
+| 10 | 13 | Yes |
+
+*[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to create the Frost Rune at will]*

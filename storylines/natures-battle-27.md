@@ -21,9 +21,9 @@ This table shows the [Astorrel](../organisations/astorrel/astorrel.md) squad dra
 | [AA08](../sessions/AA08.md) | **[Canary Squad](../organisations/astorrel/squads/canary-squad.md)** | [AA09](../sessions/AA09.md) | [Canary Squad](../organisations/astorrel/squads/canary-squad.md) |
 | [AA08](../sessions/AA08.md) | *[Ruby Squad](../organisations/astorrel/squads/ruby-squad.md)* |
 || *[Birch Squad](../organisations/astorrel/squads/birch-squad.md)* |
-|| **[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../sessions/AA09.md) | **[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)** | [PR25](../sessions/PR25.md) | [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) |
+|| **[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../sessions/AA09.md) | **[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)** | [PR26](../sessions/PR26.md) | **[Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)** |
 | [PR23](../sessions/PR23.md) | *[Mortar Squad](../organisations/astorrel/squads/mortar-squad.md)* |
-| [PR23](../sessions/PR23.md) | **[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)** | [PR24](../sessions/PR24.md) | **[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)** | [PR25](../sessions/PR25.md) | [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
+| [PR23](../sessions/PR23.md) | **[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)** | [PR24](../sessions/PR24.md) | **[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)** | [PR26](../sessions/PR26.md) | [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
 || **[Gloom Squad](../organisations/astorrel/squads/gloom-squad.md)** | [PR24](../sessions/PR24.md) | [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) |
 || *[Horizon Squad](../organisations/astorrel/squads/horizon-squad.md)* |
 
@@ -52,3 +52,7 @@ During the fight [Wizira](../characters/wizira.md) downs [Yoroe Briskboots](../c
 The match between [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) and [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) takes place. [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) wins.
 
 [Thanea Morlay](../characters/thanea-morlay.md) sprouts wings thanks to her aasimar Radiant Soul, dazzling the audience as she flies around the arena, dishing out ranged magical damage as she goes. She is eventually knocked unconscious and falls from the sky when [Norma Collarbone](../characters/norma-collarbone.md) summons a bestial spirit above her which hits her in mid-air.
+
+### [PR25](../sessions/PR25.md)
+
+[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) enjoyed the [Blade's Rest](../festivals/blades-rest.md) festival. While out on the streets they realised that their participation in the tournament has led to a certain amount of fame in [Eskrigg](../places/cities/eskrigg.md), with various reactions and nicknames for each character.

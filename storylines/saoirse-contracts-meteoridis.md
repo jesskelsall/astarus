@@ -48,3 +48,7 @@ When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visits a second tim
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md), now out of the anti-magic field of [The Sanctum](../places/buildings/the-sanctum.md), decides to experiment with the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and the [meteoric dust](../items/meteoric/meteoric-dust.md) she has collected. She finds that ingesting some of the dust will enhance her magical abilities, but it also has psychedelic effects.
 
 *[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) learns how to ingest [meteoric dust](../items/meteoric/meteoric-dust.md) to induce the [meteoric dust effect](../items/meteoric/meteoric-dust-effect.md).]*
+
+### [PR25](../sessions/PR25.md)
+
+Hours before the [Nature's Battle 27](natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) ingests a portion of [meteoric dust](../items/meteoric/meteoric-dust.md). She does so because she feels useless in the arena, so she may as well fight while high.

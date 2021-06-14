@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [PR00](../sessions/PR00.md) | storyline.2
-| **Session Ended** | |
+| **Session Ended** | [PR24](../sessions/PR24.md) |
 
 ## Summary
 
@@ -21,7 +21,7 @@
 
 #### Deva Dream 2
 
-[Thanea](../../../astarus/people/thanea.md) once again dreams of the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor on its way to impact north west of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). Looking closer she sees a glowing figure with bright glowing wings (her deva, Seraphina) attempting fruitlessly to stop the meteor, latched to its front, flapping their wings and attempting to slow its fall. The meteor impacts all the same.
+[Thanea](../../../astarus/people/thanea.md) once again dreams of the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor on its way to impact north west of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). Looking closer she sees a glowing figure with bright glowing wings (her deva, [Seraphina](../characters/seraphina.md)) attempting fruitlessly to stop the meteor, latched to its front, flapping their wings and attempting to slow its fall. The meteor impacts all the same.
 
 The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [finding the Goldreach Meteorite](ended/finding-the-goldreach-meteorite.md) in a crater in the forest, before the forest around it begins burning purple flames. She witnesses [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md)'s interior on fire, as well as the barn at [Hurley Farm](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hurley-farm.md) on fire, with the burning bodies of the rest of the [Purple Rain](../campaigns/purple-rain.md) party within.
 
@@ -47,9 +47,9 @@ He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they 
 
 While sleeping along the bank of the [River Humar](../places/rivers-lakes/river-humar.md) while running from the [Astornox](../organisations/astornox/astornox.md), [Thanea](../../../astarus/people/thanea.md) dreams of being in [Eskrigg](../places/cities/eskrigg.md), witnessing 2 smaller meteors being intercepted by deva who attempt to slow them down by physically pushing against them and flapping their glowing wings.
 
-A third larger meteor comes into view, heading directly towards her. Its white glow turns to a purple fiery aura. As the crowded city street turns to panic, she attempts to run with them, falling and getting trampled. As she cowers, Seraphina appears to her, offering her a hand. As she accepts, she is rocketed into the air at sudden and remarkable speed, Seraphina's wings propelling them. As she looks down at [Eskrigg](../places/cities/eskrigg.md) below, she notices an identical pair of glowing wings on her back. She is flying too.
+A third larger meteor comes into view, heading directly towards her. Its white glow turns to a purple fiery aura. As the crowded city street turns to panic, she attempts to run with them, falling and getting trampled. As she cowers, [Seraphina](../characters/seraphina.md) appears to her, offering her a hand. As she accepts, she is rocketed into the air at sudden and remarkable speed, [Seraphina](../characters/seraphina.md)'s wings propelling them. As she looks down at [Eskrigg](../places/cities/eskrigg.md) below, she notices an identical pair of glowing wings on her back. She is flying too.
 
-Seraphina lets go of her hand, making it clear that they are both flying together. As [Thanea](../../../astarus/people/thanea.md) looks up at the meteor, closer than ever. As she struggles to control her flight, the dream ends.
+[Seraphina](../characters/seraphina.md) lets go of her hand, making it clear that they are both flying together. As [Thanea](../../../astarus/people/thanea.md) looks up at the meteor, closer than ever. As she struggles to control her flight, the dream ends.
 
 *[Thanea unlocks her Protector Aasimar abilities]*
 
@@ -73,7 +73,7 @@ Realising the implication of another prophetic dream coming to fruition and her 
 
 ### [PR24](../sessions/PR24.md)
 
-During [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle](../mechanics/roleplay/natures-battle.md) match against [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../characters/norma-collarbone.md) at close range. She digs deep, activating her aasimar Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
+During [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 27](natures-battle-27.md) match against [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../characters/norma-collarbone.md) at close range. She digs deep, activating her aasimar Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
 
 This display is a surprise for everyone present, including [Torbra Tauff](../characters/torbra-tauff.md) and [Wizira](../characters/wizira.md) who are conscious to see it ([Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is not). The audience collectively gasps before falling silent, watching as she flies effortlessly around the arena.
 

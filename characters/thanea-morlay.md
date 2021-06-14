@@ -10,7 +10,7 @@
 | **Age** | |
 | **Class** | Sorcerer |
 | **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | |
+| **Relations** | [Seraphina](seraphina.md) (deva) |
 | **Places** | Bootle (birthplace) |
 |||
 | **Citizenship** | |
