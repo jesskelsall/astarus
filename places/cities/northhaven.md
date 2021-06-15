@@ -53,6 +53,7 @@ Outside of the walls is a comparably sized urban sprawl, where the drigg of the 
     - [Auric Rise](../buildings/auric-rise.md)
     - [Hawk's Perch](../buildings/hawks-perch.md)
     - [Kirrel Hall](../buildings/kirrel-hall.md)
+    - [Tenterfell House](../buildings/tenterfell-house.md)
     - [The Mission's End](../buildings/inns-taverns/the-missions-end.md)
     - [The Sanctum](../buildings/the-sanctum.md)
     - [Zenith Spire](../buildings/zenith-spire.md)

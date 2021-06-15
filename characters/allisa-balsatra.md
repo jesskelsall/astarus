@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Allisa Balsatra | character.3
-| **Lineage** | Aasimar (elf) |
+| **Lineage** | [Aasimar](../lineages/aasimar.md) (elf) |
 | **Pronouns** | she/her |
 | **Age** | 129 |
 | **Class** | Cleric (Light Domain) |
@@ -18,13 +18,13 @@
 | **Rank** | |
 | **Role** | |
 | **Commanding Officer** | |
-| **Subordinates** | |
+| **Subordinates** | [Xavier Raloven](xavier-raloven.md) |
 |||
 | **Image ID** | `acae3c3cdd6dddcb` |
 
 ## Summary
 
-Allisa Balsatra is a knowledge seeking [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) spy with a personal interest in [magicborn](../civilisations/kingdom-of-astor/magicborn.md) and the potential of not being alone as an aasimar.
+Allisa Balsatra is a knowledge seeking [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) spy with a personal interest in [magicborn](../civilisations/kingdom-of-astor/magicborn.md) and the potential of not being alone as an [aasimar](../lineages/aasimar.md).
 
 ## Characteristics
 
@@ -38,16 +38,16 @@ Allisa Balsatra is a knowledge seeking [Syntenne Republic](../civilisations/synt
 | **Mannerisms** | Can switch from casual and open to combat ready and guarded. Hair trigger. |
 | | |
 | **Quirks** | Works as a spy during armistice but is caring and compassionate. |
-| **Knowledge** | [Magicborn](../civilisations/kingdom-of-astor/magicborn.md), the divine. Aasimar. |
+| **Knowledge** | [Magicborn](../civilisations/kingdom-of-astor/magicborn.md), the divine. [Aasimar](../lineages/aasimar.md). |
 | **Values** | Magical ability, honesty, mutual respect. |
-| **Ambitions** | Wishes to find another aasimar or at least confirm she is alone. |
+| **Ambitions** | Wishes to find another [aasimar](../lineages/aasimar.md) or at least confirm she is alone. |
 | **Dislikes** | War, unnecessary conflict. |
 
 ## History
 
 ### Pre-Campaign
 
-Allisa Balsatra was born into a common Syntenne family. At an early age her scourge aasimar abilities manifested, causing her eyes and mouth to radiate divine energy and burning heat. This made people keep their distance from her.
+Allisa Balsatra was born into a common Syntenne family. At an early age her scourge [aasimar](../lineages/aasimar.md) abilities manifested, causing her eyes and mouth to radiate divine energy and burning heat. This made people keep their distance from her.
 
 Rumours of her quirks reached the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) government who took her in and placed her in a magical acceleration programme, educating her, including in how to control her magical abilities. All of this came naturally to her.
 

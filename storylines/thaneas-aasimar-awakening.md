@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Thanea](../../../astarus/people/thanea.md) is an aasimar, but she doesn't know it yet. Often unwelcome prophetic dreams have been present throughout her life, and she has a sense that something about herself doesn't add up. She will learn the truth within herself.
+[Thanea](../../../astarus/people/thanea.md) is an [aasimar](../lineages/aasimar.md), but she doesn't know it yet. Often unwelcome prophetic dreams have been present throughout her life, and she has a sense that something about herself doesn't add up. She will learn the truth within herself.
 
 ## History
 
@@ -51,7 +51,7 @@ A third larger meteor comes into view, heading directly towards her. Its white g
 
 [Seraphina](../characters/seraphina.md) lets go of her hand, making it clear that they are both flying together. As [Thanea](../../../astarus/people/thanea.md) looks up at the meteor, closer than ever. As she struggles to control her flight, the dream ends.
 
-*[Thanea unlocks her Protector Aasimar abilities]*
+*[Thanea unlocks her Protector [Aasimar](../lineages/aasimar.md) abilities]*
 
 She wakes up comfortably the following morning.
 
@@ -73,7 +73,7 @@ Realising the implication of another prophetic dream coming to fruition and her 
 
 ### [PR24](../sessions/PR24.md)
 
-During [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 27](natures-battle-27.md) match against [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../characters/norma-collarbone.md) at close range. She digs deep, activating her aasimar Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
+During [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 27](natures-battle-27.md) match against [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../characters/norma-collarbone.md) at close range. She digs deep, activating her [aasimar](../lineages/aasimar.md) Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
 
 This display is a surprise for everyone present, including [Torbra Tauff](../characters/torbra-tauff.md) and [Wizira](../characters/wizira.md) who are conscious to see it ([Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is not). The audience collectively gasps before falling silent, watching as she flies effortlessly around the arena.
 

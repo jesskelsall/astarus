@@ -29,7 +29,7 @@ In lesser numbers there are also the following known races, in descending order 
 - [Firbolg](https://www.dndbeyond.com/races/firbolg)
 - [Kenku](https://www.dndbeyond.com/races/kenku)
 - [Genasi](https://www.dndbeyond.com/races/genasi)
-- [Aasimar](https://www.dndbeyond.com/races/aasimar)
+- [Aasimar](../lineages/aasimar.md)
 
 From these peoples, the following civilisations have emerged:
 

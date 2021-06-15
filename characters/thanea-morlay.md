@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Thanea Morlay | character.3
-| **Lineage** | Aasimar (human) |
+| **Lineage** | [Aasimar](../lineages/aasimar.md) (human) |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Sorcerer |
@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
+| **Role** | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||

@@ -7,15 +7,15 @@
 
 ## Summary
 
-[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is a fallen aasimar, corrupted by the power given to her by her hag patron, [Effie Silttooth](../characters/effie-silttooth.md). Her father and deva [Mykiel](../characters/mykiel.md) aims to bring her back to the path of light with his guidance.
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is a fallen [aasimar](../lineages/aasimar.md), corrupted by the power given to her by her hag patron, [Effie Silttooth](../characters/effie-silttooth.md). Her father and deva [Mykiel](../characters/mykiel.md) aims to bring her back to the path of light with his guidance.
 
 ## History
 
 ### [Purple Rain](../campaigns/purple-rain.md) Prelude
 
-[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md)'s father is [Mykiel](../characters/mykiel.md), a deva. As a result of her mother being human and her father being celestial, she was born an aasimar.
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md)'s father is [Mykiel](../characters/mykiel.md), a deva. As a result of her mother being human and her father being celestial, she was born an [aasimar](../lineages/aasimar.md).
 
-At a young age, [Effie Silttooth](../characters/effie-silttooth.md), a hag, offered her power in exchange for knowledge of the world. She accepted, a deal which would see her become a warlock. In doing so, she also became a fallen aasimar.
+At a young age, [Effie Silttooth](../characters/effie-silttooth.md), a hag, offered her power in exchange for knowledge of the world. She accepted, a deal which would see her become a warlock. In doing so, she also became a fallen [aasimar](../lineages/aasimar.md).
 
 ### [PR10](../sessions/PR10.md)
 
@@ -41,7 +41,7 @@ Saoirse is given agency to choose what to do. Her chosen action will have ramifi
 
 Saoirse chooses to draw her daggers (conventional means) and attack the [Meteoric Watcher](../creatures/meteoric-watcher.md).
 
-As she draws her blades, she notices protector aasimar wings on her back, resembling those of [Mykiel](../characters/mykiel.md). Her daggers glow golden-white, illuminating the nearby space.
+As she draws her blades, she notices protector [aasimar](../lineages/aasimar.md) wings on her back, resembling those of [Mykiel](../characters/mykiel.md). Her daggers glow golden-white, illuminating the nearby space.
 
 The watcher recoils at the sight of them before lunging at her. Saoirse plunges the blades into it, causing it to crack with white light before exploding into [Meteoric Dust](../items/meteoric/meteoric-dust.md) that scatters across the crater.
 
@@ -89,12 +89,12 @@ When Saoirse goes to shower in the night, Thanea confronts her. The pair realise
 
 After Thanea leaves, [Effie Silttooth](../characters/effie-silttooth.md) turns out the lights and talks to Saoirse. The pair bicker over Effie's absence, though Effie is indifferent to Saoirse's needs. She does however act on her expressed wish to have wings, granting her Necrotic Shroud wings. Saoirse is outraged due to their lack of use for flight, though Effie feels these are better. Saoirse reluctantly accepts the gift.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) unlocks her Fallen Aasimar abilities]*
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) unlocks her Fallen [Aasimar](../lineages/aasimar.md) abilities]*
 
 ## Planning
 
 Saoirse will continue having deva dreams depicting altered past events that she has already experienced, with [Mykiel](../characters/mykiel.md) present. He will test her devotion and resolve. If she pleases him, he will continue to help her.
 
-In the long term, Saoirse will get the opportunity to kill [Effie Silttooth](../characters/effie-silttooth.md). Doing so will be the final piece of the puzzle that converts her from a fallen aasimar to a protector aasimar.
+In the long term, Saoirse will get the opportunity to kill [Effie Silttooth](../characters/effie-silttooth.md). Doing so will be the final piece of the puzzle that converts her from a fallen [aasimar](../lineages/aasimar.md) to a protector [aasimar](../lineages/aasimar.md).
 
 Prior to that, with Robin's blessing, Saoirse will trade in warlock levels at key points and replace them with multi-classed levels in cleric or paladin (her choice). The less warlock she is, the closer to being saved she is.

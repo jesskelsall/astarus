@@ -9,14 +9,14 @@
 | **Pronouns** | he/him |
 | **Age** | 50 |
 | **Class** | Cleric (Knowledge Domain) |
-| **Worship** | [Malnesh](../gods/deities/malnesh.md) |
+| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge)<br>[Malnesh](../gods/deities/malnesh.md) (secretly) |
 | **Relations** | |
 | **Places** | |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
@@ -24,21 +24,23 @@
 
 ## Summary
 
-TODO
+Tyburn Dalvos is a soft-spoken seer with the ability to perceive future events and the location of others. He prefers to keep to himself and remain by his scrying bowl, finding purpose in its waters.
+
+While casting Divination or Scrying tears stream down his face from both eyes while he gives a panicked run-on sentence description of what he sees. Imagery relating to [the Meteorics](../lineages/the-meteorics.md) is vaguely present.
 
 ## Characteristics
 
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
+| **Face** | Very fair skin, silver eyes with pin point pupils | characteristics.2
+| **Hair** | Clean shaven back to the top of his head, then grey hair in a braid down his back. |
+| **Body** | 6'0" / 183cm. Stocky but thin. |
+| **Clothes** | Black robes with grey under layers and a grey fabric shroud. Cream belt and decorative strips of material. Leather sandals. Wielding a staff topped with a large round orange gem, secured in place with a golden clasp. |
+| **Voice** | High male register. No real accent, little volume or projection. |
+| **Mannerisms** | Incredibly meek, choosing not to speak or engage unless absolutely necessary. Often looks distracted in thought. |
 | | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
+| **Quirks** | Accomplished cleric with exceptional abilities, but wasting away inside a room. A complete personality shift when casting divination magic. |
+| **Knowledge** | Divination magic, magic in general. |
+| **Values** | Quiet, order, knowledge. |
+| **Ambitions** | Wants to live alone comfortably. |
+| **Dislikes** | Noise, being talked to, too many people. Anything disturbing his scrying pool. |

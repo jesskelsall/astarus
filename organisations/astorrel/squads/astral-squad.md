@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Astral Squad | squad.2
-| **Role** | Phenomena |
+| **Role** | Phenomena / Meteoric |
 | **Commanding Officer** | [Elysia Vanderboss](../../../characters/elysia-vanderboss.md) |
 | **Squad Lead** | [Darjonkaargeac Hidaar](../../../characters/darjonkaargeac-hidaar.md) |
 | **Squad Hands** | [Alos Varkann](../../../characters/alos-varkann.md)<br>[Sparrow on the Autumn Pine](../../../characters/sparrow-on-the-autumn-pine.md)<br>[Tyburn Dalvos](../../../characters/tyburn-dalvos.md) |

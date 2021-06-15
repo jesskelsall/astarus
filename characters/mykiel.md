@@ -20,7 +20,7 @@
 
 ## Summary
 
-Mykiel is [Saoirse ó Dochartaigh](saoirse-o-dochartaigh.md)'s father and aasimar deva. He is passionate and hopeful, aiming to guide Saoirse away from the darkness of [Effie Silttooth](effie-silttooth.md)'s influence and towards a divine path.
+Mykiel is [Saoirse ó Dochartaigh](saoirse-o-dochartaigh.md)'s father and [aasimar](../lineages/aasimar.md) deva. He is passionate and hopeful, aiming to guide Saoirse away from the darkness of [Effie Silttooth](effie-silttooth.md)'s influence and towards a divine path.
 
 ## Characteristics
 

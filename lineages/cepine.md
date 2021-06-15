@@ -1,8 +1,8 @@
 # Cepine
 
-| []() | |
+|||
 | --- | --- |
-| **Lineage** | Cepine |
+| **Lineage** | Cepine | lineage.1
 | **Race(s)** | Human |
 | **Demonym** | Cepina |
 | **Homeland** | Albulain Valley |

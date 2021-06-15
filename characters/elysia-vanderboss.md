@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) |
-| **Role** | Phenomena<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) ([Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md)) |
+| **Role** | Phenomena / Meteoric<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) ([Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md)) |
 | **Commanding Officer** | TODO [PURPLE RAIN](../campaigns/purple-rain.md) |
 | **Subordinates** | [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
 |||
@@ -59,10 +59,10 @@ She sent [Wrenn Piznarck](wrenn-piznarck.md) to [Goldreach](../civilisations/kin
 
 | [Meteorite](../items/meteoric/meteorite.md) | [Timeline](../history/timeline.md) | [Astral Squad](../organisations/astorrel/squads/astral-squad.md) Action | Outcome |
 | --- | --- | --- | --- |
-| Humar Estuary [Meteorite](../items/meteoric/meteorite.md) | 6mo ago | Squad investigates while on mission. | Crater and small [meteorite](../items/meteoric/meteorite.md) fragments found. |
-| Silethwaite [Meteorite](../items/meteoric/meteorite.md) | 4mo ago | [Alos Varkann](alos-varkann.md) investigated alone. | Evidence of strange creatures causing havoc and their den. |
+| [Humar Estuary Meteorite](../items/meteoric/meteorites/humar-estuary-meteorite.md) | 6mo ago | Squad investigates while on mission. | Crater and small [meteorite](../items/meteoric/meteorite.md) fragments found. |
+| [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md) | 4mo ago | [Alos Varkann](alos-varkann.md) investigated alone. | Evidence of strange creatures causing havoc and their den. |
 | [Tresenda Pass](../places/roads/tresenda-pass.md) [Meteorite](../items/meteoric/meteorite.md) | 3mo ago | Not yet investigated. | |
-| Carnmere [Meteorite](../items/meteoric/meteorite.md) | 1mo ago | [Wrenn Piznarck](wrenn-piznarck.md) investigated alone. Secretly hired [the Crimson Blades](../organisations/the-crimson-blades.md) to help him. Fled. | No evidence found. |
+| [Carnmere Meteorite](../items/meteoric/meteorites/carnmere-meteorite.md) | 1mo ago | [Wrenn Piznarck](wrenn-piznarck.md) investigated alone. Secretly hired [the Crimson Blades](../organisations/the-crimson-blades.md) to help him. Fled. | No evidence found. |
 | [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) | 1wk ago | [Wrenn Piznarck](wrenn-piznarck.md) investigated alone. | [Purple Rain](../campaigns/purple-rain.md) party found creatures and the [meteorite](../items/meteoric/meteorite.md). Wrenn captured by [the Crimson Blades](../organisations/the-crimson-blades.md). |
 
 6 months prior to the start of the [Purple Rain](../campaigns/purple-rain.md) campaign, [Astral Squad](../organisations/astorrel/squads/astral-squad.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../organisations/astorrel/astorrel.md) mission duties.

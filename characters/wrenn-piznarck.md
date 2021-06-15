@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| **Role** | *Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||
@@ -44,13 +44,3 @@ TODO
 | Values | |
 | Ambitions | |
 | Dislikes | |
-
-## History
-
-### [Purple Rain](../campaigns/purple-rain.md) Prelude
-
-#### The Carnmere [Meteorite](../items/meteoric/meteorite.md)
-
-Prior to the campaign, Wrenn travelled to Carnmere to search for the Carnmere [Meteorite](../items/meteoric/meteorite.md). Here, without the knowledge of the rest of [Astral Squad](../organisations/astorrel/squads/astral-squad.md), he hired [The Crimson Blades](../organisations/the-crimson-blades.md) to retrieve the [meteorite](../items/meteoric/meteorite.md) for him, offering to pay them more substantially when they returned with it.
-
-After not hearing from them for 3 days, Wrenn got cold feet and left Carnmere for [Northhaven](../places/cities/northhaven.md), believing that the mercenary group had simply pocketed his deposit and left. He returned to [Astral Squad](../organisations/astorrel/squads/astral-squad.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) empty-handed.

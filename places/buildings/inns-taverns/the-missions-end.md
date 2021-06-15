@@ -5,7 +5,7 @@
 | **Name** | The Mission's End |
 | **Type** | Inn |
 | **Location** | [Northhaven Astorrel Stronghold](../../strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Auric Rise](../auric-rise.md)<br>[Kirrel Hall](../kirrel-hall.md)<br>[Zenith Spire](../zenith-spire.md) |
+| **Nearby Places** | [Auric Rise](../auric-rise.md)<br>[Kirrel Hall](../kirrel-hall.md)<br>[Tenterfell House](../tenterfell-house.md)<br>[Zenith Spire](../zenith-spire.md) |
 | **People** | |
 
 ## Summary

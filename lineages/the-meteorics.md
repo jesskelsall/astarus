@@ -1,8 +1,8 @@
 # The Meteorics
 
-| []() | |
+|||
 | --- | --- |
-| **Lineage** | Meteorics |
+| **Lineage** | Meteorics | lineage.1
 | **Race(s)** | Construct / Beast |
 | **Demonym** | Meteoric |
 | **Homeland** | Unknown |

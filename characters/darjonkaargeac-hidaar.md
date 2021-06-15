@@ -11,12 +11,12 @@
 | **Class** | Paladin |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | |
-| **Places** | [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md) |
+| **Places** | Holmrook (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Phenomena / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br >*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
+| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br >*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md)<br>*Former:*<br>[Linton Harkness](linton-harkness.md) |
 | **Subordinates** | *Former:*<br>Louise Perkins |
 |||

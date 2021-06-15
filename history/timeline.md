@@ -1,5 +1,7 @@
 # Timeline
 
+## Years
+
 | Date | Era | Era ([Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md)) | Event(s) |
 | --- | --- | --- | --- |
 | 183,077 A.A. (-183,389) | The First Coming | | The original races of [Astarus](../planes/astarus.md) arrive. |
@@ -16,3 +18,10 @@
 | 284 P.A. (-28) | | | *(197 years of war)*<br>The [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) agrees to an armistice with the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). |
 | 297 P.A. (-15) | | Modern Era | The village of [Arnaside](../places/villages/arnaside.md) was formed. |
 | 312 P.A. (+0) | | | *(224 years of war, 28 years of armistice)*<br>Current day. |
+
+## Days
+
+| Date | Session(s) | Significance |
+| --- |:---:| --- |
+| 312-4-28 | [PR01](../sessions/PR01.md) | [Purple Rain](../campaigns/purple-rain.md) campaign day one. |
+| 312-5-02 | [AA01](../sessions/AA01.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) campaign day one. |

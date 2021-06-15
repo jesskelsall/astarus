@@ -51,7 +51,7 @@ During the fight [Wizira](../characters/wizira.md) downs [Yoroe Briskboots](../c
 
 The match between [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) and [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) takes place. [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) wins.
 
-[Thanea Morlay](../characters/thanea-morlay.md) sprouts wings thanks to her aasimar Radiant Soul, dazzling the audience as she flies around the arena, dishing out ranged magical damage as she goes. She is eventually knocked unconscious and falls from the sky when [Norma Collarbone](../characters/norma-collarbone.md) summons a bestial spirit above her which hits her in mid-air.
+[Thanea Morlay](../characters/thanea-morlay.md) sprouts wings thanks to her [aasimar](../lineages/aasimar.md) Radiant Soul, dazzling the audience as she flies around the arena, dishing out ranged magical damage as she goes. She is eventually knocked unconscious and falls from the sky when [Norma Collarbone](../characters/norma-collarbone.md) summons a bestial spirit above her which hits her in mid-air.
 
 ### [PR25](../sessions/PR25.md)
 

@@ -1,8 +1,8 @@
 # Strigid
 
-| []() | |
+|||
 | --- | --- |
-| **Lineage** | Strigid |
+| **Lineage** | Strigid | lineage.1
 | **Race(s)** | Owlfolk |
 | **Demonym** | Strigid |
 | **Homeland** | Albulain Valley |
