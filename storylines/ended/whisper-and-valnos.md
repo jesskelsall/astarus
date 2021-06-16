@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [AA01](../../sessions/AA01.md) | storyline.2
-| **Session Ended** | |
+| **Session Ended** | [AA04](../../sessions/AA04.md) |
 
 ## Summary
 
