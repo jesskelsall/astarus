@@ -21,7 +21,7 @@
 
 ## Summary
 
-Sarleen Truestriker is an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) in [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md). She is played by EvA.
+Sarleen Truestriker is an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) in [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md). She is played by [EvA](../players/eva.md).
 
 ## Characteristics
 

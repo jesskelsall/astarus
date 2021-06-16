@@ -8,7 +8,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 
 ## Party Members
 
-| Billie | Chloe | Lily | Logan |
+| [Billie Schultz](../players/billie-schultz.md) | [Chloe](../players/chloe.md) | [Lily Berry](../players/lily-berry.md) | [Logan](../players/logan.md) |
 |:---:|:---:|:---:|:---:|
 | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Noon Schiller](../characters/noon-schiller.md) | [Ephaine Seren](../characters/ephaine-seren.md) | [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/ec514d55f424de69.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3840bf1d6c005683.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/04a625d21baed3cb.png" height="400" /> |
@@ -17,7 +17,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 
 | Player | Character | Session(s) |
 | --- | --- | --- |
-| Brooke | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) | [AA01](../sessions/AA01.md) - [AA06](../sessions/AA06.md) |
+| [Brooke](../players/brooke.md) | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) | [AA01](../sessions/AA01.md) - [AA06](../sessions/AA06.md) |
 
 ## Links
 

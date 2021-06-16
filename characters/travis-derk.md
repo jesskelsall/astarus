@@ -20,7 +20,7 @@
 
 ## Summary
 
-Travis "The Bridge" Derk is a hard difficulty pit fighting opponent in [the Rat's Nest](../places/buildings/inns-taverns/the-rats-nest.md) pit fighting ring.
+Travis "The Bridge" [Derk](../players/derk.md) is a hard difficulty pit fighting opponent in [the Rat's Nest](../places/buildings/inns-taverns/the-rats-nest.md) pit fighting ring.
 
 ## Characteristics
 

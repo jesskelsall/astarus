@@ -97,4 +97,4 @@ Saoirse will continue having deva dreams depicting altered past events that she 
 
 In the long term, Saoirse will get the opportunity to kill [Effie Silttooth](../characters/effie-silttooth.md). Doing so will be the final piece of the puzzle that converts her from a fallen [aasimar](../lineages/aasimar.md) to a protector [aasimar](../lineages/aasimar.md).
 
-Prior to that, with Robin's blessing, Saoirse will trade in warlock levels at key points and replace them with multi-classed levels in cleric or paladin (her choice). The less warlock she is, the closer to being saved she is.
+Prior to that, with [Robin](../players/robin.md)'s blessing, Saoirse will trade in warlock levels at key points and replace them with multi-classed levels in cleric or paladin (her choice). The less warlock she is, the closer to being saved she is.

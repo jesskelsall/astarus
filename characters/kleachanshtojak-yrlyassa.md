@@ -22,7 +22,7 @@
 
 ## Summary
 
-Her clan name is pronounced: *klee-chansh-toe-jack*.  
+Her clan name is pronounced: *klee-chansh-toe-[jack](../players/jack.md)*.  
 Her name is pronounced: *yerl-yassa*.
 
 ## Characteristics

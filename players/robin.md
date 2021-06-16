@@ -1,0 +1,17 @@
+# Robin
+
+<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+
+|||
+| --- | --- |
+| **Name** | Robin | player.3
+| **Pronouns** | she/her |
+| **Country** | `BE 🇧🇪` |
+| **Discord** | `TheRobinRose#2677` |
+| **Instagram** | [awallflower_inbloom](https://www.instagram.com/awallflower_inbloom/) |
+
+## Characters
+
+| Character | Role(s) | Appearances |
+| --- | --- | --- |
+| [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Purple Rain](../campaigns/purple-rain.md) | [PR00](../sessions/PR00.md) - |
