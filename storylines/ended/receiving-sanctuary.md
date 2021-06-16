@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [PR18](../../sessions/PR18.md) / [AA05](../../sessions/AA05.md) | storyline.2
-| **Session Ended** | [PR20](../../sessions/PR20.md) |
+| **Session Ended** | [PR20](../../sessions/PR20.md) / [AA06](../../sessions/AA06.md) |
 
 ## Summary
 
@@ -42,6 +42,12 @@ With the party offered as stakes in the trial, either outcome will see the party
 ### [AA05](../../sessions/AA05.md)
 
 On return to the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../../places/villages/arnaside.md), [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../../campaigns/purple-rain.md) party) from [sanctuary](../../organisations/astorrel/sanctuary.md).
+
+### [AA06](../../sessions/AA06.md)
+
+Once again passing through the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md) gatehouse, the party sees that the [Astorrel guard](../../organisations/astorrel/ranks/astorrel-guard.md) presence is still elevated, though the [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) are no longer present. [Ephaine Seren](../../characters/ephaine-seren.md) sees [Kur Merkys](../../characters/kur-merkys.md) on a rooftop again. She chooses to confront him, casting Misty Step to teleport up to him.
+
+While insisting she leaves, he reveals himself to be an [Astornox magicborn hunter](../../organisations/astornox/ranks/astornox-magicborn-hunter.md) with an interest in the four people receiving sanctuary in the stronghold.
 
 ### [PR20](../../sessions/PR20.md)
 

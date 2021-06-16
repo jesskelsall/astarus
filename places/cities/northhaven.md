@@ -32,7 +32,7 @@ Outside of the walls is a comparably sized urban sprawl, where the drigg of the 
 
 - [Northhaven Wall](../structures/northhaven-wall.md)
 - [Sunrise District](../districts/sunrise-district.md)
-  - The Rat's Nest
+  - [The Rat's Nest](../buildings/inns-taverns/the-rats-nest.md)
 - [Sunset District](../districts/sunset-district.md)
   - [Astor Square](../structures/astor-square.md)
     - [Diamond Prime](../buildings/temples/diamond-prime.md)

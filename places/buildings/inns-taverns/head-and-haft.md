@@ -6,7 +6,7 @@
 | **Type** | Tavern |
 | **Location** | [Arnaside](../../villages/arnaside.md) |
 | **Nearby Places** | [The Malneshitas](../temples/the-malneshitas.md) |
-| **People** | [Sharakas](../../../characters/sharakas.md) |
+| **People** | [Sharakas](../../../characters/sharakas.md) (barkeep) |
 
 ## Summary
 

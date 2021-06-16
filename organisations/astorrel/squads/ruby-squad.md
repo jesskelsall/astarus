@@ -15,10 +15,3 @@
 ## Summary
 
 Ruby Squad is the other [Astorrel](../astorrel.md) squad that [Bryce Morton](../../../characters/bryce-morton.md) commands. They are set up as the rivals to [Canary Squad](canary-squad.md).
-
-## Missions
-
-| Mission | Status |
-| --- | --- |
-| [Investigate Bear Attacks in Hartsgarth](../../../storylines/investigate-bear-attacks-in-hartsgarth.md) | Completed |
-| Check on Wildlife on Humar Estuary | Not Started |

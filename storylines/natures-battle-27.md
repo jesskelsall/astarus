@@ -29,6 +29,12 @@ This table shows the [Astorrel](../organisations/astorrel/astorrel.md) squad dra
 
 ## History
 
+### [AA06](../sessions/AA06.md)
+
+Returning to [Bryce Morton](../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../organisations/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 27 ([Nature's Battle Canary Squad Invite](../papers/letters/natures-battle-canary-squad-invite.md)).
+
+After discussing how competing will affect their next mission, Bryce reassures them that the tournament is their priority if they choose to compete - the mission can wait. After a discussion they choose to compete, responding to [Liabella Peacock](../characters/liabella-peacock.md) by letter sent from [Astpost Northhaven](../places/buildings/shops/astpost-northhaven.md).
+
 ### [PR21](../sessions/PR21.md)
 
 Immediately following the [Purple Rain](../campaigns/purple-rain.md) party's [Astorrel graduation](ended/astorrel-graduation.md) as [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 27 ([Nature's Battle Starfall Squad Invite](../papers/letters/natures-battle-starfall-squad-invite.md)).

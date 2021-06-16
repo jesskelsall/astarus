@@ -25,9 +25,11 @@ Both squads begin their first missions:
 
 | Squad | Acting Lead | Mission | Bounty | Time Limit |
 | --- | --- | --- | --- | --- |
-| [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | [Darius Dunn](../characters/darius-dunn.md) | [Investigate Bear Attacks in Hartsgarth](investigate-bear-attacks-in-hartsgarth.md) | 30 gp | 10 days |
+| [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | [Darius Dunn](../characters/darius-dunn.md) | Investigate Bear Attacks in Hartsgarth | 30 gp | 10 days |
 | [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Check Logging in Arnaside](ended/check-logging-in-arnaside.md) | 20 gp | 14 days |
 
-## Planning
+### [AA06](../sessions/AA06.md)
 
-[Canary Squad](../organisations/astorrel/squads/canary-squad.md) will get the opportunity to fight against [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) in the Autumn Festival's [Kirrel](../gods/deities/kirrel.md) Clash tournament.
+When [Canary squad](../organisations/astorrel/squads/canary-squad.md) return to [Bryce Morton](../characters/bryce-morton.md) for their second mission, Bryce hands them the [Nature's Battle Canary Squad Invite](../papers/letters/natures-battle-canary-squad-invite.md). He tells them that the same invite to [Nature's Battle 27](natures-battle-27.md) has been extended to [Ruby squad](../organisations/astorrel/squads/ruby-squad.md), a point of pride for him. Knowing that they are competing factors into [Canary squad](../organisations/astorrel/squads/canary-squad.md)'s decision to compete.
+
+On their way out of [Auric Rise](../places/buildings/auric-rise.md), [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) spots [Darius Dunn](../characters/darius-dunn.md) entering [the Mission's End](../places/buildings/inns-taverns/the-missions-end.md). Wanting to spend more time with him, she splits from the party and follows him inside. Here she finds the rest of [Ruby squad](../organisations/astorrel/squads/ruby-squad.md), who tell her of their successful mission to Hartsgarth where they killed several brown bears in a den near the village. They also briefly discuss their invite to the tournament, which they are excited to accept.

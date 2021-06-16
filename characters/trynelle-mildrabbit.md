@@ -18,7 +18,7 @@
 | **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
 | **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) |
 | **Commanding Officer** | [Linton Harkness](linton-harkness.md) |
-| **Subordinates** | Louise Perkins |
+| **Subordinates** | [Louise Perkins](louise-perkins.md) |
 |||
 | **Image ID** | |
 

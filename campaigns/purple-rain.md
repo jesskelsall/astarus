@@ -8,6 +8,8 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 
 ## Party Members
 
+## Party Members
+
 | Hannah | Robin | Sam | Sheycara |
 |:---:|:---:|:---:|:---:|
 | [Thanea Morlay](../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../characters/torbra-tauff.md) | [Wizira](../characters/wizira.md) |
@@ -65,7 +67,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 
 | Name | Started | Ended |
 | --- |:---:|:---:|
-| [Thanea's Aasimar Awakening](../storylines/thaneas-aasimar-awakening.md) | [PR00](../sessions/PR00.md) | |
+| [Thanea's Aasimar Awakening](../storylines/thaneas-aasimar-awakening.md) | [PR00](../sessions/PR00.md) | [PR24](../sessions/PR24.md) |
 | [Wizira's Father Goes Missing](../storylines/ended/wiziras-father-goes-missing.md) | [PR01](../sessions/PR01.md) | [PR20](../sessions/PR20.md) |
 | [Crossing Paths in Goldreach](../storylines/ended/crossing-paths-in-goldreach.md) | [PR01](../sessions/PR01.md) | [PR02](../sessions/PR02.md) |
 | [Finding the Goldreach Meteorite](../storylines/ended/finding-the-goldreach-meteorite.md) | [PR01](../sessions/PR01.md) | [PR11](../sessions/PR11.md) |

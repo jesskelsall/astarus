@@ -49,9 +49,12 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | --- | --- | --- |
 | [Astorrel Graduation](../storylines/ended/astorrel-graduation.md) | [AA01](../sessions/AA01.md) | [AA01](../sessions/AA01.md) |
 | [Astorrel vs Astornox](../storylines/astorrel-vs-astornox.md) | [AA01](../sessions/AA01.md) | |
-| [Whisper and Valnos](../storylines/whisper-and-valnos.md) | [AA01](../sessions/AA01.md) | |
+| [Whisper and Valnos](../storylines/ended/whisper-and-valnos.md) |
 | [Retrieving Ephaine's Star Map](../storylines/ended/retrieving-ephaines-star-map.md) | [AA01](../sessions/AA01.md) | [AA02](../sessions/AA02.md) |
 | [The Rival Squad](../storylines/the-rival-squad.md) | [AA01](../sessions/AA01.md) | |
 | [Canary Squad Lead](../storylines/canary-squad-lead.md) | [AA01](../sessions/AA01.md) | |
-| [Check Logging in Arnaside](../storylines/ended/check-logging-in-arnaside.md) | [AA02](../sessions/AA02.md) | |
-| [Investigate Bear Attacks in Hartsgarth](../storylines/investigate-bear-attacks-in-hartsgarth.md) | [AA02](../sessions/AA02.md) | |
+| [Check Logging in Arnaside](../storylines/ended/check-logging-in-arnaside.md) | [AA02](../sessions/AA02.md) | [AA06](../sessions/AA06.md) |
+| [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [AA05](../sessions/AA05.md) | [AA06](../sessions/AA06.md) |
+| [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [AA05](../sessions/AA05.md) | |
+| [Nature's Battle 27](../storylines/natures-battle-27.md) | [AA06](../sessions/AA06.md) | |
+| [Independent Investigation of Ulburn](../storylines/independent-investigation-of-ulburn.md) | [AA06](../sessions/AA06.md) | |

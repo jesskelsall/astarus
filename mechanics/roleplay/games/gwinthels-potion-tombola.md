@@ -22,7 +22,7 @@ Their prize potions are stored in a medium sized wood and metal trunk underneath
 
 ## Prizes
 
-Every d100 result ending in 0 or 5 wins a prize.
+It costs 15 gp to buy a ticket to play. Every d100 result ending in 0 or 5 wins a prize.
 
 If the number is listed below, the player wins that prize. Otherwise they win a [Potion of Healing](https://www.dndbeyond.com/magic-items/potion-of-healing).
 
