@@ -24,7 +24,7 @@
 
 ## Summary
 
-Tyburn Dalvos is a soft-spoken seer with the ability to perceive future events and the location of others. He prefers to keep to himself and remain by his scrying bowl, finding purpose in its waters.
+Tyburn Dalvos is a soft-spoken seer with the ability to perceive future events and the location of others. He prefers to keep to himself and remain by his scrying pool, finding purpose in its waters.
 
 While casting Divination or Scrying tears stream down his face from both eyes while he gives a panicked run-on sentence description of what he sees. Imagery relating to [the Meteorics](../lineages/the-meteorics.md) is vaguely present.
 

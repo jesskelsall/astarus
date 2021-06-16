@@ -1,12 +1,14 @@
 # The Crimson Blades
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | [Astorrel](astorrel/astorrel.md) |
-| **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Officially Sanctioned?** | No |
+| **Name** | The Crimson Blades | organisation.2
+| **Civilisation** | |
 | **Leader** | [Stalker](../characters/stalker.md) |
-| **Patron God** | [Gormox](../gods/deities/gormox.md) |
+| **Patron** | [Gormox](../gods/deities/gormox.md) |
+|||
+| **Image ID** | |
+
 
 ## Summary
 
