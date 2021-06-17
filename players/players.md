@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | [Billie Schultz](billie-schultz.md) | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) |
 | [Brooke](brooke.md) | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) (former) |
-| [Chloe](chloe.md) | [Noon Schiller](../characters/noon-schiller.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) |
+| [Chloe Pepper](chloe-pepper.md) | [Noon Schiller](../characters/noon-schiller.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) |
 | [Dan Carney](dan-carney.md) | [Eremus Vitur](../characters/eremus-vitur.md) | Guest |
 | [Derk](derk.md) | [Norma Collarbone](../characters/norma-collarbone.md) | Guest |
 | [EvA](eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) | Guest |

@@ -24,7 +24,7 @@
 
 ## Summary
 
-Noon Schiller is a player character in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by [Chloe](../players/chloe.md).
+Noon Schiller is a player character in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by [Chloe Pepper](../players/chloe-pepper.md).
 
 ## Character Rolls
 

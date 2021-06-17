@@ -8,7 +8,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 
 ## Party Members
 
-| [Billie Schultz](../players/billie-schultz.md) | [Chloe](../players/chloe.md) | [Lily Berry](../players/lily-berry.md) | [Logan](../players/logan.md) |
+| [Billie Schultz](../players/billie-schultz.md) | [Chloe Pepper](../players/chloe-pepper.md) | [Lily Berry](../players/lily-berry.md) | [Logan](../players/logan.md) |
 |:---:|:---:|:---:|:---:|
 | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Noon Schiller](../characters/noon-schiller.md) | [Ephaine Seren](../characters/ephaine-seren.md) | [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/ec514d55f424de69.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3840bf1d6c005683.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/04a625d21baed3cb.png" height="400" /> |
@@ -41,7 +41,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA09](../sessions/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)* |
 | [AA10](../sessions/AA10.md) | 2021-06-12 | *Dark Steel, Darker Sewers* |
 ||
-| AA11 | 2021-06-26 | |
+| [AA11](../sessions/AA11.md) | 2021-06-26 | |
 
 ## Storylines
 
