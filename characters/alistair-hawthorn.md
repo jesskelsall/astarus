@@ -1,6 +1,6 @@
 # Alistair Hawthorn
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/959053dd3eac1ae0.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/959053dd3eac1ae0.png" height="500" />
 
 |||
 | --- | --- |

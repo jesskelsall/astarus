@@ -1,6 +1,6 @@
 # Polgast Mouldylog
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/0ddd8a7aa2753c40.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/0ddd8a7aa2753c40.png" height="500" />
 
 |||
 | --- | --- |

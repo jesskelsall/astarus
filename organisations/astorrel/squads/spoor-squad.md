@@ -10,7 +10,7 @@
 
 | [Trynelle Mildrabbit](../../../characters/trynelle-mildrabbit.md) | Name | Name | Name |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> |
 
 ## Summary
 

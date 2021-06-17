@@ -1,6 +1,6 @@
 # Elysia Vanderboss
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/81d3db8d3e3009cd.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/81d3db8d3e3009cd.png" height="500" />
 
 |||
 | --- | --- |

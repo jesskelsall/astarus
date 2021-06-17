@@ -1,6 +1,6 @@
 # Corville Thornox
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/0f383816ab69f1dd.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/0f383816ab69f1dd.png" height="500" />
 
 |||
 | --- | --- |

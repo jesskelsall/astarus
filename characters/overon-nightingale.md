@@ -1,6 +1,6 @@
 # Overon Nightingale
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/eea895a57e291184.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/eea895a57e291184.png" height="500" />
 
 |||
 | --- | --- |

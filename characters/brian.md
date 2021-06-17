@@ -1,6 +1,6 @@
 # Brian
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/d0a3946feeb181b2.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d0a3946feeb181b2.png" height="500" />
 
 |||
 | --- | --- |

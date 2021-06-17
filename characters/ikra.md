@@ -1,6 +1,6 @@
 # Ikra
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/d282f5162f6383ff.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d282f5162f6383ff.png" height="500" />
 
 |||
 | --- | --- |

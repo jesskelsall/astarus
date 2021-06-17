@@ -1,6 +1,6 @@
 # Tarpher Forestcaller
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/2170c71f2ae205f5.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/2170c71f2ae205f5.png" height="500" />
 
 |||
 | --- | --- |

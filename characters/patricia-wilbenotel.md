@@ -1,6 +1,6 @@
 # Patricia Wilbenotel
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/66c4c99546315338.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/66c4c99546315338.png" height="500" />
 
 |||
 | --- | --- |

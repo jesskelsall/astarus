@@ -1,6 +1,6 @@
 # Nills
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/d50b042d036b63a3.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d50b042d036b63a3.png" height="500" />
 
 |||
 | --- | --- |

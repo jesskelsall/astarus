@@ -1,6 +1,6 @@
 # Felina Sallas
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/35a4e3b2e24a5b89.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/35a4e3b2e24a5b89.png" height="500" />
 
 |||
 | --- | --- |

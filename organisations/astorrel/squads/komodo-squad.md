@@ -10,7 +10,7 @@
 
 | [Eremus Vitur](../../../characters/eremus-vitur.md) | [Faelon Fireburner](../../../characters/faelon-fireburner.md) | [Tarpher Forestcaller](../../../characters/tarpher-forestcaller.md) | [Uther Wildfang](../../../characters/uther-wildfang.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/92627975e0570fb3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/01303eea1b96f6a2.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/2170c71f2ae205f5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/189764647c30271b.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/92627975e0570fb3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/01303eea1b96f6a2.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/2170c71f2ae205f5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/189764647c30271b.png" height="400" /> |
 
 ## Summary
 

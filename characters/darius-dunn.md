@@ -1,6 +1,6 @@
 # Darius Dunn
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/94fe4e7c79cbcd9a.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/94fe4e7c79cbcd9a.png" height="500" />
 
 |||
 | --- | --- |

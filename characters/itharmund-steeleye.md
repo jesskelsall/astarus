@@ -1,6 +1,6 @@
 # Itharmund Steeleye
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/75330ea6f353349f.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/75330ea6f353349f.png" height="500" />
 
 |||
 | --- | --- |

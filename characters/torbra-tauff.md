@@ -1,6 +1,6 @@
 # Torbra Tauff
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c275fac3807fe83b.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c275fac3807fe83b.png" height="500" />
 
 |||
 | --- | --- |

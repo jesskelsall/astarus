@@ -10,7 +10,7 @@
 
 | [Ahsha Sallas](../../../characters/ahsha-sallas.md) | [Ephaine Seren](../../../characters/ephaine-seren.md) | [Noon Schiller](../../../characters/noon-schiller.md) | [Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3840bf1d6c005683.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/ec514d55f424de69.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/04a625d21baed3cb.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/3840bf1d6c005683.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/ec514d55f424de69.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/04a625d21baed3cb.png" height="400" /> |
 
 ## Summary
 

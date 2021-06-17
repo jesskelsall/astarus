@@ -1,6 +1,6 @@
 # Zanni Flipwit
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/ded6d2c9660fecbc.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/ded6d2c9660fecbc.png" height="500" />
 
 |||
 | --- | --- |

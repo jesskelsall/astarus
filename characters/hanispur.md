@@ -1,6 +1,6 @@
 # Hanispur
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b3ff557b08a554ef.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b3ff557b08a554ef.png" height="500" />
 
 |||
 | --- | --- |

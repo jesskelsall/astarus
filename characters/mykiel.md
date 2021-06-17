@@ -1,6 +1,6 @@
 # Mykiel
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c5ba960673e4611f.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c5ba960673e4611f.png" height="500" />
 
 |||
 | --- | --- |

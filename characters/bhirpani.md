@@ -1,6 +1,6 @@
 # Bhirpani
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3306546df4a63e35.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/3306546df4a63e35.png" height="500" />
 
 |||
 | --- | --- |

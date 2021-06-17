@@ -1,6 +1,6 @@
 # Tyburn Dalvos
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/34859beef3fb999b.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/34859beef3fb999b.png" height="500" />
 
 |||
 | --- | --- |

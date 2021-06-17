@@ -1,6 +1,6 @@
 # Bryce Morton
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/d88f8099d26b0915.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d88f8099d26b0915.png" height="500" />
 
 |||
 | --- | --- |

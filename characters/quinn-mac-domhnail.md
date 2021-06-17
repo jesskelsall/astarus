@@ -1,6 +1,6 @@
 # Quinn Mac Domhnail
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/061d35828fe6b2d5.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/061d35828fe6b2d5.png" height="500" />
 
 |||
 | --- | --- |

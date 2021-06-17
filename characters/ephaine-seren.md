@@ -1,6 +1,6 @@
 # Ephaine Seren
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/3840bf1d6c005683.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/3840bf1d6c005683.png" height="500" />
 
 |||
 | --- | --- |

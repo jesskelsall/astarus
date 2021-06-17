@@ -2,7 +2,7 @@
 
 | Enlisted | Officer | [Sanctuary](../sanctuary.md) |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/56dc7d4727318970.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/417ab84735b8a004.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/9123d71815a8ce99.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/56dc7d4727318970.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/417ab84735b8a004.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/9123d71815a8ce99.png" height="400" /> |
 | | *[Mergin Thorgus](../../../characters/mergin-thorgus.md)* | *[Saoirse ó Dochartaigh](../../../characters/saoirse-o-dochartaigh.md)* |
 | `56dc7d4727318970` | `417ab84735b8a004` | `9123d71815a8ce99` |
 

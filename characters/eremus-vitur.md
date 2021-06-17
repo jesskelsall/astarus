@@ -1,6 +1,6 @@
 # Eremus Vitur
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/92627975e0570fb3.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/92627975e0570fb3.png" height="500" />
 
 |||
 | --- | --- |

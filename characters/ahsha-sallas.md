@@ -1,6 +1,6 @@
 # Ahsha Sallas
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b0b553e82a907ff3.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b0b553e82a907ff3.png" height="500" />
 
 |||
 | --- | --- |

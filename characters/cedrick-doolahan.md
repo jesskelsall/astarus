@@ -1,6 +1,6 @@
 # Cedrick Doolahan
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/imageid.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
 
 |||
 | --- | --- |

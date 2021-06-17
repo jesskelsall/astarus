@@ -1,6 +1,6 @@
 # Thanea Morlay
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/db42750c63a0a387.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/db42750c63a0a387.png" height="500" />
 
 |||
 | --- | --- |

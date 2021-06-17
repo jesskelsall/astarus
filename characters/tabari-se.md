@@ -1,6 +1,6 @@
 # Tabari Se
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/0e9d44f0b522c033.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/0e9d44f0b522c033.png" height="500" />
 
 |||
 | --- | --- |

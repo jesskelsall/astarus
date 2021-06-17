@@ -1,6 +1,6 @@
 # Redwyn Humpledopper
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/04a625d21baed3cb.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/04a625d21baed3cb.png" height="500" />
 
 |||
 | --- | --- |

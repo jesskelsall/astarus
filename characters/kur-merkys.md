@@ -1,6 +1,6 @@
 # Kur Merkys
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b2aa89a6831d0359.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b2aa89a6831d0359.png" height="500" />
 
 |||
 | --- | --- |

@@ -1,6 +1,6 @@
 # Clay Mullen
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/4d7159e1e0baad14.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/4d7159e1e0baad14.png" height="500" />
 
 |||
 | --- | --- |

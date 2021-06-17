@@ -1,6 +1,6 @@
 # Aisling Kavanagh
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/9f82606a878e8670.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/9f82606a878e8670.png" height="500" />
 
 |||
 | --- | --- |

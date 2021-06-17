@@ -1,6 +1,6 @@
 # Allisa Balsatra
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/acae3c3cdd6dddcb.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/acae3c3cdd6dddcb.png" height="500" />
 
 |||
 | --- | --- |

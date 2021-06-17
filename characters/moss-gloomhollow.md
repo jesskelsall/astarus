@@ -1,6 +1,6 @@
 # Moss Gloomhollow
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/303756c6809a10e4.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/303756c6809a10e4.png" height="500" />
 
 |||
 | --- | --- |

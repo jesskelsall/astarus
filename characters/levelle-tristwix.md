@@ -1,6 +1,6 @@
 # Levelle Tristwix
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/29b6e2129e252c9f.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/29b6e2129e252c9f.png" height="500" />
 
 |||
 | --- | --- |

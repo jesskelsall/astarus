@@ -1,6 +1,6 @@
 # Tamosha Goldron
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/2ca6f193a604b6d4.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/2ca6f193a604b6d4.png" height="500" />
 
 |||
 | --- | --- |

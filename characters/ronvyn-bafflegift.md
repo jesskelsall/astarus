@@ -1,6 +1,6 @@
 # Ronvyn Bafflegift
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/1e2976be2cc93346.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/1e2976be2cc93346.png" height="500" />
 
 |||
 | --- | --- |

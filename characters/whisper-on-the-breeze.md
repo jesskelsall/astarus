@@ -1,6 +1,6 @@
 # Whisper on the Breeze
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/63cc05f09a0e0c3b.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/63cc05f09a0e0c3b.png" height="500" />
 
 |||
 | --- | --- |

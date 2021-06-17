@@ -1,6 +1,6 @@
 # Vilnia Kovas
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/50e8e14dbe105dba.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/50e8e14dbe105dba.png" height="500" />
 
 |||
 | --- | --- |

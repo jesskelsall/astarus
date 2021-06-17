@@ -13,7 +13,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Hannah Herr](../players/hannah-herr.md) | [Robin](../players/robin.md) | [Sam](../players/sam.md) | [Sheycara Mae](../players/sheycara-mae.md) |
 |:---:|:---:|:---:|:---:|
 | [Thanea Morlay](../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../characters/torbra-tauff.md) | [Wizira](../characters/wizira.md) |
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/b6ddf2e960574729.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b6ddf2e960574729.png" height="400" /> |
 
 ## Former Players & Guests
 

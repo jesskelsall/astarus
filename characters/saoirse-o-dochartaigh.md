@@ -1,6 +1,6 @@
 # Saoirse ó Dochartaigh
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/96456245c79828b5.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/96456245c79828b5.png" height="500" />
 
 |||
 | --- | --- |

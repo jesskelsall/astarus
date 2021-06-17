@@ -1,6 +1,6 @@
 # Anton Haverwick
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/6ec910d3a29cc7c9.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/6ec910d3a29cc7c9.png" height="500" />
 
 |||
 | --- | --- |

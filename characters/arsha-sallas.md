@@ -1,6 +1,6 @@
 # Arsha Sallas
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/9daa8badb4e83647.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/9daa8badb4e83647.png" height="500" />
 
 |||
 | --- | --- |

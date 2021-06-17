@@ -1,6 +1,6 @@
 # Uther Wildfang
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/189764647c30271b.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/189764647c30271b.png" height="500" />
 
 |||
 | --- | --- |

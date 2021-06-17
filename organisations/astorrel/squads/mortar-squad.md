@@ -10,7 +10,7 @@
 
 | [Reozin Ironhide](../../../characters/reozin-ironhide.md) | [Aisling Kavanagh](../../../characters/aisling-kavanagh.md) | [Diarmuid Kavanagh](../../../characters/diarmuid-kavanagh.md) | [Yoroe Briskboots](../../../characters/yoroe-briskboots.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/0d2b35effd2a79a3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/9f82606a878e8670.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/fb8999bb3c66fdba.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/6eb8c70293226e14.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/0d2b35effd2a79a3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/9f82606a878e8670.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/fb8999bb3c66fdba.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/6eb8c70293226e14.png" height="400" /> |
 
 ## Summary
 

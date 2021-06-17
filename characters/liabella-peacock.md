@@ -1,6 +1,6 @@
 # Liabella Peacock
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/fac59a1c944697d9.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/fac59a1c944697d9.png" height="500" />
 
 |||
 | --- | --- |

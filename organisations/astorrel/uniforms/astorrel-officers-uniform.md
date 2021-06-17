@@ -2,7 +2,7 @@
 
 | Officer's Uniform |
 |:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/d88f8099d26b0915.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d88f8099d26b0915.png" height="400" /> |
 | *[Bryce Morton](../../../characters/bryce-morton.md)* |
 | `d88f8099d26b0915` |
 

@@ -1,6 +1,6 @@
 # Ophelia Phantom
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/55c516b3fc870b24.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/55c516b3fc870b24.png" height="500" />
 
 |||
 | --- | --- |

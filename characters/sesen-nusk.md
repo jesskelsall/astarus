@@ -1,6 +1,6 @@
 # Sesen Nusk
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/5afda93c9eb6daf0.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5afda93c9eb6daf0.png" height="500" />
 
 |||
 | --- | --- |

@@ -10,7 +10,7 @@
 
 | [Darjonkaargeac Hidaar](../../../characters/darjonkaargeac-hidaar.md) | [Alos Varkann](../../../characters/alos-varkann.md) | [Sparrow on the Autumn Pine](../../../characters/sparrow-on-the-autumn-pine.md) | [Tyburn Dalvos](../../../characters/tyburn-dalvos.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/0a64ffd6aaf731b7.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/601e5a966741b4ba.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/41e0b0962f18eb6b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/34859beef3fb999b.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/0a64ffd6aaf731b7.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/601e5a966741b4ba.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/41e0b0962f18eb6b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/34859beef3fb999b.png" height="400" /> |
 
 ## Summary
 

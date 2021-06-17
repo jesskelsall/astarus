@@ -1,6 +1,6 @@
 # Tonnol Grisham
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c764616ac3a4a74f.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c764616ac3a4a74f.png" height="500" />
 
 |||
 | --- | --- |

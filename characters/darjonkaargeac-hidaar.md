@@ -1,6 +1,6 @@
 # Darjonkaargeac Hidaar
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/0a64ffd6aaf731b7.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/0a64ffd6aaf731b7.png" height="500" />
 
 |||
 | --- | --- |

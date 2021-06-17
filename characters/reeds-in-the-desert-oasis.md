@@ -1,6 +1,6 @@
 # Reeds in the Desert Oasis
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/e9c4cca8d59367cf.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/e9c4cca8d59367cf.png" height="500" />
 
 |||
 | --- | --- |

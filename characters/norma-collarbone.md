@@ -1,6 +1,6 @@
 # Norma Collarbone
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/c377c53d1abd69fd.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c377c53d1abd69fd.png" height="500" />
 
 |||
 | --- | --- |

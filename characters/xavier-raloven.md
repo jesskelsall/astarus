@@ -1,6 +1,6 @@
 # Xavier Raloven
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/92ce630e748d6bff.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/92ce630e748d6bff.png" height="500" />
 
 |||
 | --- | --- |

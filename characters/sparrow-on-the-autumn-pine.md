@@ -1,6 +1,6 @@
 # Sparrow on the Autumn Pine
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/41e0b0962f18eb6b.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/41e0b0962f18eb6b.png" height="500" />
 
 |||
 | --- | --- |

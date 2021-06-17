@@ -1,6 +1,6 @@
 # Diarmuid Kavanagh
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/fb8999bb3c66fdba.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/fb8999bb3c66fdba.png" height="500" />
 
 |||
 | --- | --- |

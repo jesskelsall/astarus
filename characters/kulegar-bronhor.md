@@ -1,6 +1,6 @@
 # Kulegar Bronhor
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/people/portraits/95f1f0d3663cc695.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/95f1f0d3663cc695.png" height="500" />
 
 |||
 | --- | --- |
