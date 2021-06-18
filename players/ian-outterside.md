@@ -1,6 +1,6 @@
 # Ian Outterside
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/c60389410d58e942.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `GB 🇬🇧` |
 | **Discord** | `Ianoshorty#2662` |
 | **Instagram** | [ianoshorty](https://www.instagram.com/ianoshorty/) |
+||
+| **Image ID** | `c60389410d58e942` |
 
 ## Characters
 

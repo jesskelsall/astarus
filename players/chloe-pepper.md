@@ -1,6 +1,6 @@
 # Chloe Pepper
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/f6310ea6640f0878.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `GB 🇬🇧` |
 | **Discord** | `[Nilliski](../characters/nilliski.md)#2675` |
 | **Instagram** | |
+||
+| **Image ID** | `f6310ea6640f0878` |
 
 ## Characters
 

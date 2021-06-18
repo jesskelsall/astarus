@@ -1,6 +1,6 @@
 # Logan
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/19fba414e64e7346.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `US 🇺🇸` |
 | **Discord** | `Lo’#9831` |
 | **Instagram** | [definitely_lo](https://www.instagram.com/definitely_lo/) |
+||
+| **Image ID** | `19fba414e64e7346` |
 
 ## Characters
 

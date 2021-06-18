@@ -1,6 +1,6 @@
 # EvA
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/83908a2e5753537c.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `US 🇺🇸` |
 | **Discord** | `EvAnomaly#7668` |
 | **Instagram** | [evanomaly](https://www.instagram.com/evanomaly/) |
+||
+| **Image ID** | `83908a2e5753537c` |
 
 ## Characters
 

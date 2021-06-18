@@ -1,6 +1,6 @@
 # Sheycara Mae
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/7ce672195efb5f36.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `NL 🇳🇱` |
 | **Discord** | `Sheycara Mae#9567` |
 | **Instagram** | [sheycara](https://www.instagram.com/sheycara/) |
+||
+| **Image ID** | `7ce672195efb5f36` |
 
 ## Characters
 

@@ -1,6 +1,6 @@
 # Scott Salisbury
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/e6790e89c1ec9392.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `GB 🇬🇧` |
 | **Discord** | `iScottJS#9320` |
 | **Instagram** | [iscottjs](https://www.instagram.com/iscottjs/) |
+||
+| **Image ID** | `e6790e89c1ec9392` |
 
 ## Characters
 

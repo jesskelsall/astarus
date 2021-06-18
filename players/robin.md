@@ -1,6 +1,6 @@
 # Robin
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/bdc22fabf054b5dd.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `BE 🇧🇪` |
 | **Discord** | `TheRobinRose#2677` |
 | **Instagram** | [awallflower_inbloom](https://www.instagram.com/awallflower_inbloom/) |
+||
+| **Image ID** | `bdc22fabf054b5dd` |
 
 ## Characters
 

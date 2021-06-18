@@ -1,6 +1,6 @@
 # Freya Terpstra
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/329001bf56c8dcfa.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `NL 🇳🇱` |
 | **Discord** | `Freya Terpstra#5770` |
 | **Instagram** | [freyajoanne](https://www.instagram.com/freyajoanne/) |
+||
+| **Image ID** | `329001bf56c8dcfa` |
 
 ## Characters
 

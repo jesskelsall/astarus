@@ -1,6 +1,6 @@
 # Sam
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/96ab0a9852f70e05.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `GB 🇬🇧` |
 | **Discord** | `alifeofenby#5550` |
 | **Instagram** | [alifeofenby](https://www.instagram.com/alifeofenby/) |
+||
+| **Image ID** | `96ab0a9852f70e05` |
 
 ## Characters
 

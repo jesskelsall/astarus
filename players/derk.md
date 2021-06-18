@@ -1,6 +1,6 @@
 # Derk
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/5406481d6cf4dafc.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `NL 🇳🇱` |
 | **Discord** | `dovertje#2838` |
 | **Instagram** | |
+||
+| **Image ID** | `5406481d6cf4dafc` |
 
 ## Characters
 

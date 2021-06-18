@@ -1,6 +1,6 @@
 # Brooke
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/4a00da11e7089d51.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `US 🇺🇸` |
 | **Discord** | `Brookealeen#9511` |
 | **Instagram** | [br00k3a133n](https://www.instagram.com/br00k3a133n/) |
+||
+| **Image ID** | `4a00da11e7089d51` |
 
 ## Characters
 

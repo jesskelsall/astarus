@@ -1,6 +1,6 @@
 # John
 
-<img src="https://cdn.discordapp.com/avatars/userid/imageid.png?size=256" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/b9666f78bced6942.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,6 +9,8 @@
 | **Country** | `GB 🇬🇧` |
 | **Discord** | `Tankedturnip01#7349` |
 | **Instagram** | |
+||
+| **Image ID** | `b9666f78bced6942` |
 
 ## Characters
 
