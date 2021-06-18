@@ -36,9 +36,13 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/astorr
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d8 | 8 | 3 | 2 | 5 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Warlock | d8 | 8 |
+| 2 | - | Warlock | d8 | 3 |
+| 3 | - | Warlock | d8 | 2 |
+| 4 | - | Warlock | d8 | 5 |
+| 5 | [AA09](../sessions/AA09.md) | Warlock | d8 | 8 |
 
 ## Backstory
 

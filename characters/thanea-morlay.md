@@ -36,8 +36,11 @@ TODO
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d6 | 6 | 6 | 5 | 5 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Sorcerer | d6 | 6 |
+| 2 | [PR03](../sessions/PR03.md) | Sorcerer | d6 | 6 |
+| 3 | [PR09](../sessions/PR09.md) | Sorcerer | d6 | 5 |
+| 4 | [PR19](../sessions/PR19.md) | Sorcerer | d6 | 5 |
 
 ## Backstory

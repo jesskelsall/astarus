@@ -40,4 +40,11 @@ TODO
 |:---:|:---:|:---:|:---:|:---:|
 | d8 | 8 | 4 | 6 | 8 |
 
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Druid | d8 | 8 |
+| 2 | [PR03](../sessions/PR03.md) | Druid | d8 | 4 |
+| 3 | [PR09](../sessions/PR09.md) | Druid | d8 | 6 |
+| 4 | [PR19](../sessions/PR19.md) | Druid | d8 | 8 |
+
 ## Backstory

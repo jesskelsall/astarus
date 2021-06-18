@@ -36,9 +36,12 @@ Redwyn Humpledopper is a player character in the [Astorrel Agents](../campaigns/
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d8 | 8 | 6 | 6 | 7 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Bard | d8 | 8 |
+| 2 | - | Bard | d8 | 6 |
+| 3 | - | Bard | d8 | 6 |
+| 4 | - | Bard | d8 | 7 |
 
 ## Backstory
 

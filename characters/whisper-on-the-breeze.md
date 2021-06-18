@@ -36,9 +36,12 @@ Whisper on the Breeze is a player character in the [Astorrel Agents](../campaign
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d8 | 8 | 5 | 7 | 6 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Rogue | d8 | 8 |
+| 2 | - | Rogue | d8 | 5 |
+| 3 | - | Rogue | d8 | 7 |
+| 4 | - | Rogue | d8 | 6 |
 
 ## Backstory
 

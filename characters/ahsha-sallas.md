@@ -36,9 +36,13 @@ Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/astorre
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d10 | 10 | 9 | 8 | 4 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Fighter | d10 | 10
+| 2 | - | Fighter | d10 | 9
+| 3 | - | Fighter | d10 | 8
+| 4 | - | Fighter | d10 | 4
+| 5 | [AA09](../sessions/AA09.md) | Barbarian | d12 | 5
 
 ## Backstory
 

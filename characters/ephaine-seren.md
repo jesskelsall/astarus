@@ -36,9 +36,13 @@ Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/astorr
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d8 | 8 | 6 | 4 | 7 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Druid | d8 | 8 |
+| 2 | - | Druid | d8 | 6 |
+| 3 | - | Druid | d8 | 4 |
+| 4 | - | Druid | d8 | 7 |
+| 5 | [AA09](../sessions/AA09.md) | Druid | d8 | 7 |
 
 ## Backstory
 
