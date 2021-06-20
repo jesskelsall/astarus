@@ -8,24 +8,26 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 
 ## Party Members
 
-## Party Members
-
 | [Hannah Herr](../players/hannah-herr.md) | [Robin](../players/robin.md) | [Sam](../players/sam.md) | [Sheycara Mae](../players/sheycara-mae.md) |
 |:---:|:---:|:---:|:---:|
 | [Thanea Morlay](../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../characters/torbra-tauff.md) | [Wizira](../characters/wizira.md) |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b6ddf2e960574729.png" height="400" /> |
-
-## Former Players & Guests
-
-| Player | Character | Session(s) |
-| --- | --- | --- |
-| [EvA](../players/eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) | [PR14](../sessions/PR14.md) - [PR15](../sessions/PR15.md) |
 
 ## Links
 
 - [Purple Rain at D&D Beyond](https://www.dndbeyond.com/campaigns/1397675)
 - [Purple Rain Days](days.md)
 - [Purple Rain Items](../items/ITEMS.md)
+
+## Former Player Characters & Guests
+
+| Session(s) | Player | Character |
+| --- | --- | --- |
+| [PR14](../sessions/PR14.md) - [PR15](../sessions/PR15.md) | [EvA](../players/eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) |
+| [PR26](../sessions/PR26.md) | [Dan Carney](../players/dan-carney.md) | [Eremus Vitur](../characters/eremus-vitur.md) |
+| [PR26](../sessions/PR26.md) | [Ian Outterside](../players/ian-outterside.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) |
+| [PR26](../sessions/PR26.md) | [John](../players/john.md) | [Uther Wildfang](../characters/uther-wildfang.md) |
+| [PR26](../sessions/PR26.md) | [Scott Salisbury](../players/scott-salisbury.md) | [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) |
 
 ## Sessions
 
