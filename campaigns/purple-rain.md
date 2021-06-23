@@ -88,3 +88,4 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | [PR21](../sessions/PR21.md) |
 | [Nature's Battle 27](../storylines/natures-battle-27.md) | [PR21](../sessions/PR21.md) | |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/PR25.md) | |
+| [Talk to the Morning Chasers](../storylines/talk-to-the-morning-chasers.md) | [PR27](../sessions/PR27.md) | |
