@@ -63,8 +63,9 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR25](../sessions/PR25.md) | 2021-06-09 | *[Blade's Rest](../festivals/blades-rest.md) Festival* |
 | [PR26](../sessions/PR26.md) | 2021-06-12 | *Nature's Final* |
 | [PR27](../sessions/PR27.md) | 2021-06-16 | *Let's Get Down to Business* |
+| [PR28](../sessions/PR28.md) | 2021-06-23 | *[The Morning Chasers](../organisations/the-morning-chasers.md)* |
 ||
-| [PR28](../sessions/PR28.md) | 2021-06-23 | |
+| [PR29](../sessions/PR29.md) | 2021-06-30 | |
 
 ## Storylines
 
