@@ -62,3 +62,11 @@ The match between [Starfall Squad](../organisations/astorrel/squads/starfall-squ
 ### [PR25](../sessions/PR25.md)
 
 [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) enjoyed the [Blade's Rest](../festivals/blades-rest.md) festival. While out on the streets they realised that their participation in the tournament has led to a certain amount of fame in [Eskrigg](../places/cities/eskrigg.md), with various reactions and nicknames for each character.
+
+### [PR26](../sessions/PR26.md)
+
+The match between [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) and [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) takes place. [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) wins.
+
+Following the match [Komodo squad](../organisations/astorrel/squads/komodo-squad.md) are awarded with tournament winner medals and receive their prize of 100 pp to split between them. [Faelon Fireburner](../characters/faelon-fireburner.md) charitably gives his 25 pp share away to members of the audience.
+
+After the awards ceremony both squads are invited to a formal after party hosted by the tournament officials. Both squads except [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) attend.

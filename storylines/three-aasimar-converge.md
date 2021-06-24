@@ -25,6 +25,10 @@ Saoirse also learns that Thanea sprouted Radiant Soul wings for the first time w
 
 Saoirse's dreams of wings are almost immediately answered by her warlock patron, [Effie Silttooth](../characters/effie-silttooth.md). Effie bestows her with Necrotic Shroud wings, her magic further corrupting her [aasimar](../lineages/aasimar.md) being. Saoirse is outraged at their lack of lift, not providing her the ability to fly. Effie is adamant that these are better, so Saoirse looks on the bright side and accepts the gift.
 
+## [PR26](../sessions/PR26.md)
+
+During the [Nature's Battle 27](natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sees [Thanea Morlay](../characters/thanea-morlay.md)'s Radiant Soul wings in person for the first time.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will cross paths briefly with Saoirse while she is high on [meteoric dust](../items/meteoric/meteoric-dust.md). Allisa will recognise her energy, but her need to flee the city will prevent her from saying or doing much. She will talk vaguely to her underling about how there is a second one though something feels off. Her underling will then encourage her to move quickly.

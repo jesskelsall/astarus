@@ -52,3 +52,7 @@ When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visits a second tim
 ### [PR25](../sessions/PR25.md)
 
 Hours before the [Nature's Battle 27](natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) ingests a portion of [meteoric dust](../items/meteoric/meteoric-dust.md). She does so because she feels useless in the arena, so she may as well fight while high.
+
+### [PR26](../sessions/PR26.md)
+
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) fights in the [Nature's Battle 27](natures-battle-27.md) final while under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md) she ingested. She casts Meteoric Blast for the first time. Following [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s defeat, during which she was knocked unconscious, she is revived by an [Astorrel member](../organisations/astorrel/ranks/astorrel-member.md). Startled and still freaking out due to the dust's effects, she runs out of the arena.
