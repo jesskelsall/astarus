@@ -28,6 +28,24 @@ Bryce is a career [Astorrel](../organisations/astorrel/astorrel.md), looking for
 
 He is a straightforward person with a military personality. He stands to attention and talks straightforwardly. In his quarters he can also be stern or pensive.
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 17 | 15 | 15 | 13 | 11 | 10 | 81 |
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Fighter | d10 | 10 |
+| 2 | - | Fighter | d10 | 5 |
+| 3 | - | Fighter | d10 | 7 |
+| 4 | - | Fighter | d10 | 9 |
+| 5 | - | Fighter | d10 | 2 |
+
 ## Characteristics
 
 | | |

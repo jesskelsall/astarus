@@ -26,6 +26,24 @@
 
 Xavier Raloven is a loyal Veritacris, working to further the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)'s information about the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 18 | 16 | 14 | 14 | 13 | 11 | 86 |
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Paladin | d10 | 10 |
+| 2 | - | Paladin | d10 | 2 |
+| 3 | - | Paladin | d10 | 5 |
+| 4 | - | Paladin | d10 | 10 |
+| 5 | - | Paladin | d10 | 8 |
+
 ## Characteristics
 
 | | |

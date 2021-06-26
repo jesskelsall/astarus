@@ -26,6 +26,27 @@
 
 Allisa Balsatra is a knowledge seeking [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) spy with a personal interest in [magicborn](../civilisations/kingdom-of-astor/magicborn.md) and the potential of not being alone as an [aasimar](../lineages/aasimar.md).
 
+## Character Rolls
+
+### Ability Scores
+
+| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Roll | 17 | 17 | 16 | 15 | 15 | 9 | 89 |
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Cleric | d8 | 8 |
+| 2 | - | Cleric | d8 | 5 |
+| 3 | - | Cleric | d8 | 8 |
+| 4 | - | Cleric | d8 | 4 |
+| 5 | - | Cleric | d8 | 2 |
+| 6 | - | Cleric | d8 | 7 |
+| 7 | - | Cleric | d8 | 5 |
+| 8 | - | Cleric | d8 | 5 |
+
 ## Characteristics
 
 | | |
