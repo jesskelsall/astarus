@@ -18,7 +18,7 @@
 | **Rank** | |
 | **Role** | |
 | **Commanding Officer** | |
-| **Subordinates** | [Xavier Raloven](xavier-raloven.md) |
+| **Subordinates** | [Xavier Raloven](xavier-raloven.md)<br>[Castien Eladan](castien-eladan.md) |
 |||
 | **Image ID** | `acae3c3cdd6dddcb` |
 

@@ -24,14 +24,14 @@ Mechanically, Schiller steel weapons are effectively +1 weapons without being ma
 
 Schiller steel can be fashioned into bladed weapons, making it available in any type of slashing or piercing weapon. Its rarity and cost prevents it from being used to manufacture bludgeoning  weapons.
 
-| Type | Regular | Schiller Steel |
-| --- | ---:| ---:|
+| Type | Regular | Schiller Steel<br>Family price | Schiller Steel<br>Market price |
+| --- | ---:| ---:| ---:|
 | *Simple melee weapons*
-| Dagger | 2 gp | 600 gp |
+| Dagger | 2 gp | 600 gp | 800 gp |
 ||
 | *Martial melee weapons*
 | Battleaxe | 10 gp | 680 gp |
-| Greataxe | 30 gp | 840 gp |
+| Greataxe | 30 gp | 840 gp | 1200 gp |
 | Greatsword | 50 gp | 1,000 gp |
 | Halberd | 20 gp | 760 gp |
 | Longsword | 15 gp | 720 gp |
