@@ -61,5 +61,8 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Check Logging in Arnaside](../storylines/ended/check-logging-in-arnaside.md) | [AA02](../sessions/AA02.md) | [AA06](../sessions/AA06.md) |
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [AA05](../sessions/AA05.md) | [AA06](../sessions/AA06.md) |
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [AA05](../sessions/AA05.md) | |
-| [Nature's Battle 27](../storylines/natures-battle-27.md) | [AA06](../sessions/AA06.md) | |
+| [Nature's Battle 27](../storylines/natures-battle-27.md) | [AA06](../sessions/AA06.md) | [AA09](../sessions/AA09.md) |
 | [Independent Investigation of Ulburn](../storylines/independent-investigation-of-ulburn.md) | [AA06](../sessions/AA06.md) | |
+| [Free Schiller Steel](../storylines/free-schiller-steel.md) | [AA10](../sessions/AA10.md) | |
+| [Nilliski's Unknowable Whims](../storylines/nilliskis-unknowable-whims.md) | [AA10](../sessions/AA10.md) | |
+| [Syntenne Spies in Eskrigg](../storylines/syntenne-spies-in-eskrigg.md) | [AA10](../sessions/AA10.md) | |

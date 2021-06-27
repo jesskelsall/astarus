@@ -59,10 +59,6 @@ The match between [Starfall Squad](../organisations/astorrel/squads/starfall-squ
 
 [Thanea Morlay](../characters/thanea-morlay.md) sprouts wings thanks to her [aasimar](../lineages/aasimar.md) Radiant Soul, dazzling the audience as she flies around the arena, dishing out ranged magical damage as she goes. She is eventually knocked unconscious and falls from the sky when [Norma Collarbone](../characters/norma-collarbone.md) summons a bestial spirit above her which hits her in mid-air.
 
-### [PR25](../sessions/PR25.md)
-
-[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) enjoyed the [Blade's Rest](../festivals/blades-rest.md) festival. While out on the streets they realised that their participation in the tournament has led to a certain amount of fame in [Eskrigg](../places/cities/eskrigg.md), with various reactions and nicknames for each character.
-
 ### [PR26](../sessions/PR26.md)
 
 The match between [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) and [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) takes place. [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) wins.
