@@ -59,7 +59,6 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [AA08](../sessions/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)*
 | [PR23](../sessions/PR23.md) | 2021-04-28 | *[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) vs [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md)* |
 | [PR24](../sessions/PR24.md) | 2021-05-05 | *[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) vs [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md)* |
-||
 | [PR25](../sessions/PR25.md) | 2021-06-09 | *[Blade's Rest](../festivals/blades-rest.md) Festival* |
 | [PR26](../sessions/PR26.md) | 2021-06-12 | *Nature's Final* |
 | [PR27](../sessions/PR27.md) | 2021-06-16 | *Let's Get Down to Business* |
