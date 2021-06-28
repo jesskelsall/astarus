@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | | character.3
+| **Name** | Yialdred Korina | character.3
 | **Lineage** | Dragonborn |
 | **Pronouns** | |
 | **Age** | |
@@ -42,25 +42,4 @@ Yialdred Korina is a player campaign in the [Astorrel Agents](../campaigns/astor
 | 4 | - | Cleric | d8 | 8 |
 | 5 | - | Cleric | d8 | 2 |
 
-## Characteristics
-
-| | |
-| --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
-| | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
-
-## History
-
-## Planning
-
-### Campaign Name
+## Backstory
