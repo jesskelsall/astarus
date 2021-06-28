@@ -63,4 +63,4 @@ Xavier Raloven is a loyal Veritacris, working to further the [Syntenne Republic]
 
 ## History
 
-Since [Allisa Balsatra](allisa-balsatra.md) had her sights set on infiltrating the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md), Xavier has been her right hand man, dutifully doing as he is told. Most recently he has been helping her spy on [Nature's Battle 27](../storylines/natures-battle-27.md).
+Since [Allisa Balsatra](allisa-balsatra.md) had her sights set on infiltrating the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md), Xavier has been her right hand man, dutifully doing as he is told. Most recently he has been helping her spy on [Nature's Battle 27](../storylines/ended/natures-battle-27.md).

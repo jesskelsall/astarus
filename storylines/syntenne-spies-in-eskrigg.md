@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA10](../sessions/AA10.md) | storyline.2
-| **Session Ended** | |
+| **Session Started** | [PR27](../sessions/PR27.md) / [AA10](../sessions/AA10.md) | storyline.2
+| **Session Ended** | [PR27](../sessions/PR27.md) |
 
 ## Summary
 

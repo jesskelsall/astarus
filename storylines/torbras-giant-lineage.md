@@ -96,7 +96,7 @@ With the limited time she has left, Torbra uncovers no written mention of runes 
 
 ### [PR25](../sessions/PR25.md)
 
-On the morning of the [Nature's Battle 27](natures-battle-27.md) final Torbra spends some time shopping for writing materials so she can practice her Frost Rune. She tries 6 times, eventually succeeding.
+On the morning of the [Nature's Battle 27](ended/natures-battle-27.md) final Torbra spends some time shopping for writing materials so she can practice her Frost Rune. She tries 6 times, eventually succeeding.
 
 | Frost Rune DC | Roll | Success? |
 |:---:|:---:|:---:|

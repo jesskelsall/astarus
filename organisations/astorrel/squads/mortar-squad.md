@@ -14,4 +14,4 @@
 
 ## Summary
 
-Mortar Squad is an NPC squad created specifically to battle [Starfall Squad](starfall-squad.md) in [Nature's Battle 27](../../../storylines/natures-battle-27.md).
+Mortar Squad is an NPC squad created specifically to battle [Starfall Squad](starfall-squad.md) in [Nature's Battle 27](../../../storylines/ended/natures-battle-27.md).

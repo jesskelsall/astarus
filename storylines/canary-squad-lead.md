@@ -40,7 +40,7 @@ The party begins their journey to [Arnaside](../places/villages/arnaside.md) so 
 
 Their downtime after their first mission over, [Canary Squad](../organisations/astorrel/squads/canary-squad.md) returns to [Bryce Morton](../characters/bryce-morton.md) to start their next mission. He picks [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) as the next acting [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md), explaining that this mission is best suited to their skills.
 
-With the squad invited to compete in [Nature's Battle 27](natures-battle-27.md), Bryce makes it clear that the tournament takes priority, so the squad can pick at the mission beforehand and finish it after. They opt to wait until after the tournament.
+With the squad invited to compete in [Nature's Battle 27](ended/natures-battle-27.md), Bryce makes it clear that the tournament takes priority, so the squad can pick at the mission beforehand and finish it after. They opt to wait until after the tournament.
 
 | Squad | Acting Lead | Mission | Bounty | Time Limit |
 | --- | --- | --- | ---:| --- |

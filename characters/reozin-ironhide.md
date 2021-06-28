@@ -24,7 +24,7 @@
 
 ## Summary
 
-Reozin Ironhide is a [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 27](../storylines/natures-battle-27.md).
+Reozin Ironhide is a [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 27](../storylines/ended/natures-battle-27.md).
 
 ## Characteristics
 

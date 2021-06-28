@@ -24,4 +24,4 @@
 
 ## Summary
 
-Eremus Vitur is a guest character for [Nature's Battle 27](../storylines/natures-battle-27.md), played by [Dan Carney](../players/dan-carney.md).
+Eremus Vitur is a guest character for [Nature's Battle 27](../storylines/ended/natures-battle-27.md), played by [Dan Carney](../players/dan-carney.md).

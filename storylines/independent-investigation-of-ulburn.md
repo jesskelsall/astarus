@@ -28,6 +28,6 @@
 
 With their downtime over, [Canary Squad](../organisations/astorrel/squads/canary-squad.md) reports back to [Bryce Morton](../characters/bryce-morton.md) to receive their next mission. He introduces their mission to [Ulburn](../places/villages/ulburn.md), explaining that [Kasston Tosslefront](../characters/kasston-tosslefront.md) wants an independent eye cast on both the [Astornox](../organisations/astornox/astornox.md) and [Astorrel](../organisations/astorrel/astorrel.md) in [Ulburn](../places/villages/ulburn.md) to ensure that tensions between the two organisations aren't being exacerbated.
 
-With the squad also receiving the [Nature's Battle Canary Squad Invite](../papers/letters/natures-battle-canary-squad-invite.md), Bryce makes it clear that the [Nature's Battle 27](natures-battle-27.md) is their priority if they wish to participate. The mission doesn't have a strict deadline, so they could start prior to the tournament and then finish up after.
+With the squad also receiving the [Nature's Battle Canary Squad Invite](../papers/letters/natures-battle-canary-squad-invite.md), Bryce makes it clear that the [Nature's Battle 27](ended/natures-battle-27.md) is their priority if they wish to participate. The mission doesn't have a strict deadline, so they could start prior to the tournament and then finish up after.
 
 [Canary Squad](../organisations/astorrel/squads/canary-squad.md) tells Bryce they intend to accept the invite, after which they respond to the letter. They opt not to start on the mission until the tournament is over.

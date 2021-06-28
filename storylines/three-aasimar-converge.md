@@ -17,7 +17,7 @@ Three [aasimar](../lineages/aasimar.md) exist on [Astarus](../planes/astarus.md)
 
 ### [PR25](../sessions/PR25.md)
 
-On the night before the [Nature's Battle 27](natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has a deva dream in which she sees her deva, [Mykiel](../characters/mykiel.md), once again offer her his hand. This is then mirrored when she sees [Thanea Morlay](../characters/thanea-morlay.md) swoop down on Radiant Soul wings, surrounding her with them. When Thanea offers her hand to Saoirse and she touches it, both wake up in the middle of the night.
+On the night before the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has a deva dream in which she sees her deva, [Mykiel](../characters/mykiel.md), once again offer her his hand. This is then mirrored when she sees [Thanea Morlay](../characters/thanea-morlay.md) swoop down on Radiant Soul wings, surrounding her with them. When Thanea offers her hand to Saoirse and she touches it, both wake up in the middle of the night.
 
 Thanea, not sharing the dream, finds it odd when Saoirse heads to the wash room at that exact moment. She confronts Saoirse there, both quickly learning that they woke up at the same time and have been having similar dreams of white-yellow glowing figures with wings who have been guiding them.
 
@@ -27,7 +27,7 @@ Saoirse's dreams of wings are almost immediately answered by her warlock patron,
 
 ## [PR26](../sessions/PR26.md)
 
-During the [Nature's Battle 27](natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sees [Thanea Morlay](../characters/thanea-morlay.md)'s Radiant Soul wings in person for the first time.
+During the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sees [Thanea Morlay](../characters/thanea-morlay.md)'s Radiant Soul wings in person for the first time.
 
 ## Planning
 
