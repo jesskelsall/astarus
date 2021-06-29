@@ -24,7 +24,7 @@ Upon arriving back at [Bryce Morton's Office](../places/buildings/bryce-mortons-
 Both squads begin their first missions:
 
 | Squad | Acting Lead | Mission | Bounty | Time Limit |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | ---:| --- |
 | [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) | [Darius Dunn](../characters/darius-dunn.md) | Investigate Bear Attacks in Hartsgarth | 30 gp | 10 days |
 | [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Check Logging in Arnaside](ended/check-logging-in-arnaside.md) | 20 gp | 14 days |
 

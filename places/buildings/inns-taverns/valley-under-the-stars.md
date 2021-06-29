@@ -29,7 +29,7 @@ Due to its upmarket nature, as well as the owner and staff being retired [Astorr
 ### Drinks
 
 | Item | Price | Sensation |
-| --- | --- | --- |
+| --- | ---:| --- |
 | Ale, mug | 6 cp |
 | Ale, gallon | 3 sp |
 | Wine, common (pitcher) | 3 sp |
@@ -43,6 +43,6 @@ Due to its upmarket nature, as well as the owner and staff being retired [Astorr
 ### Accommodation
 
 | Item | Price | Sensation |
-| --- | --- | --- |
+| --- | ---:| --- |
 | Inn stay (wealthy), single room | 2 gp |
 | Inn stay (wealthy), double room | 3 gp | Double bed |

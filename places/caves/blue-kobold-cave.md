@@ -17,7 +17,7 @@ The cave itself has been carved into the stone hillside, with maze-like twisting
 The inner sanctum features 4 angled hexagonal pillars made of the same surrounding stone, but perfectly smooth and unnaturally proportional, created by [Cheorrosdyr](../../characters/cheorrosdyr.md) when the tribe was left here. Beyond them a raised area contains a small pedestal containing the tribes most coveted possessions:
 
 | Item | Value |
-| --- |:---:|
+| --- | ---:|
 | [Blue Dragon Scale Necklace](../../items/blue-dragon-scale-necklace.md) | |
 | Large polished turquoise gemstone | 15 gp |
 

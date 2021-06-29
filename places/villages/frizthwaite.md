@@ -42,6 +42,6 @@ The village is going about their usual business, blissfully unaware of the party
 [Oleg Purley](../../characters/oleg-purley.md) is standing around by the riverside and is able to help the party procure a boat.
 
 | Item | Price |
-| --- | --- |
+| --- | ---:|
 | Rowboat (rent, per day) | 1 gp |
 | Rowboat (buy) | 50 gp |

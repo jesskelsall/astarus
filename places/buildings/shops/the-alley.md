@@ -45,7 +45,7 @@ A cellist and violinist play gentle notes on the middle floor, entertaining the 
 ## Vendor
 
 | Item | Price | Sensation |
-|---|---|---|
+| --- | ---:| --- |
 | Tea, 1 cup | 10 gp | Sweet, floral notes. Pleasantly warm and soothing. |
 | *"Flower of Syntenne"*<br>special reserve tea, 1 cup | 50 gp | Smooth, bright and refreshing. Good mouthfeel. Deeply aromatic with developing flavours. |
 | Raspberry cheesecake | 2 gp | Light and delicate with a crumbly biscuit base. Fresh raspberries inject tart flavours. |

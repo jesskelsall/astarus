@@ -31,7 +31,7 @@ Inside the nature theme continues. A small area before a long natural looking wo
 Friend of the Magicborn offers the following services:
 
 | Service | Cost |
-| --- | --- |
+| --- | ---:|
 | Dispel magic | 5-15 gp |
 | Identification | 10-20 gp |
 | Enchantment transfer | 30-50 gp |

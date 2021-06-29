@@ -31,7 +31,7 @@ Payment is taken at the doorway and a room key is given. This is then presented 
 ## Vendor
 
 | Item | Price | Sensation |
-| --- | --- | --- |
+| --- | ---:| --- |
 | All inclusive, 1 day, 1 person | 1 gp 2 sp | Ale<br>Meals (comfortable)<br>Inn stay (poor), shared room (2 bunk beds) |
 | All inclusive, 1 day, 1 squad<br>(4 people) | 4 gp |
 
