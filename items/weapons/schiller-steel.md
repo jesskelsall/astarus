@@ -39,7 +39,7 @@ Schiller steel can be fashioned into bladed weapons, making it available in any 
 | Rapier | 25 gp | 800 gp |
 | Shortsword | 10 gp | 680 gp |
 
-### Cost Calculation
+### Price Calculation
 
 As a rough estimate, Schiller steel weapons should cost between 600 gp and 1,000 gp, using the original weapon cost as a guide.
 

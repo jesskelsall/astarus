@@ -37,7 +37,7 @@ Once there, it is delivered by the stronghold's postmaster to the individual dir
 
 Some strongholds, particularly smaller ones in towns, hold all incoming post in a room near the gatehouse. The guards on duty are then made aware of who has post to collect and informs them as they enter the stronghold.
 
-## Cost
+## Price
 
 As a benchmark, sending a letter directly from one city to the next costs 1 sp. Costs are higher when delivering to strongholds away from the [Great Astor Road](../places/roads/great-astor-road.md).
 

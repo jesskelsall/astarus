@@ -33,7 +33,7 @@ Letters / packages are sent out from the delivery office after a delay of a few 
 
 Sometimes couriers aren't able to deliver. They can be killed on the journey, go AWOL, or fail to find the recipient. This usually means the loss of the delivery.
 
-## Cost
+## Price
 
 As a benchmark, sending a letter directly from one city to the next costs 5 sp. The less travelled the route, the more it will cost.
 
