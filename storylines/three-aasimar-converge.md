@@ -15,6 +15,26 @@ Three [aasimar](../lineages/aasimar.md) exist on [Astarus](../planes/astarus.md)
 
 ## History
 
+### Pre-campaign
+
+Within the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) [Allisa Balsatra](../characters/allisa-balsatra.md) is a known [aasimar](../lineages/aasimar.md), a word invented to describe her. The republic know of no other [aasimar](../lineages/aasimar.md).
+
+As a result she was prepared for a high government office within the republic. She refused the call, opting to join the Veritacris instead. Secretly she wished to search [Astarus](../planes/astarus.md) for another [aasimar](../lineages/aasimar.md). This has been her driving goal for over 100 years and has taken her through: the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md), the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), the [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md), and finally the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+
+Learning of the significance of the [Nature's Battle](../mechanics/roleplay/natures-battle.md) tournament, Allisa and her subordinates [Xavier Raloven](../characters/xavier-raloven.md) and [Castien Eladan](../characters/castien-eladan.md) plotted to move into [Eskrigg](../places/cities/eskrigg.md) so they could watch the tournament, feeling it was a good chance to see exceptional individuals from Astor. They infiltrated [Barthon Ironfist](../characters/barthon-ironfist.md)'s pit fighting ring, coercing him into helping them or lose his family.
+
+Allisa's operating principles while in the Veritacris include:
+
+- Not taking the lives of others, no matter the cost.
+- Being honest about who they are. No false identities, and no lying.
+- Avoiding detection by avoiding contact with others as much as possible.
+
+### Between Sessions
+
+After the [Nature's Battle](../mechanics/roleplay/natures-battle.md) semi-final between [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) and [Gloom squad](../organisations/astorrel/squads/gloom-squad.md), word spread around [Eskrigg](../places/cities/eskrigg.md) of "the angel" that took flight on radiant wings during the match - [Thanea Morlay](../characters/thanea-morlay.md).
+
+When [Allisa Balsatra](../characters/allisa-balsatra.md) learned of this and that their squad will be playing in the finals, she began putting into motion a plan to observe the final match from a vantage point inside the walls of the arena by using the [Eskrigg](../places/cities/eskrigg.md) sewers for access.
+
 ### [PR25](../sessions/PR25.md)
 
 On the night before the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has a deva dream in which she sees her deva, [Mykiel](../characters/mykiel.md), once again offer her his hand. This is then mirrored when she sees [Thanea Morlay](../characters/thanea-morlay.md) swoop down on Radiant Soul wings, surrounding her with them. When Thanea offers her hand to Saoirse and she touches it, both wake up in the middle of the night.
