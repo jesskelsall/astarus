@@ -7,7 +7,7 @@
 | **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 | **Deity** | Lesser |
 | **Domains** | Knowledge, Light |
-| **Gender** | Female |
+| **Pronouns** | she/her |
 | **Nickname** | *The Bestower* |
 | **Associations** | Loyalty, Servitude, Curiosity. |
 |||

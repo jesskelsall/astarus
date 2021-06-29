@@ -7,7 +7,7 @@
 | **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 | **Deity** | Greater |
 | **Domains** | Light, Dark |
-| **Gender** | Male |
+| **Pronouns** | he/they |
 | **Nickname** | *The Storyteller* |
 | **Associations** | Destiny, Morality, Entertainment. |
 |||

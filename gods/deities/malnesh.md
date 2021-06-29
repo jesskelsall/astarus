@@ -7,7 +7,7 @@
 | **Religion** | |
 | **Deity** | Lesser |
 | **Domains** | Light, Death |
-| **Gender** | Female |
+| **Pronouns** | she/her |
 | **Nickname** | *The Judge Mother* |
 | **Associations** | Courage, Happiness, Community. |
 |||

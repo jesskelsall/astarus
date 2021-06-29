@@ -5,7 +5,7 @@
 | **Religion** | |
 | **Deity** | Lesser |
 | **Domains** | Nature, War |
-| **Gender** | Male |
+| **Pronouns** | he/him |
 | **Nickname** | |
 | **Associations** | Tenacity, Passion, Strength. |
 |||

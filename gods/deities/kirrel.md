@@ -7,7 +7,7 @@
 | **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 | **Deity** | Lesser |
 | **Domains** | Nature, Tempest |
-| **Gender** | Non-binary |
+| **Pronouns** | they/them |
 | **Nickname** | *The Generous* |
 | **Associations** | Health, Generosity, Fortune |
 |||

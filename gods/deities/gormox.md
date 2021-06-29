@@ -7,7 +7,7 @@
 | **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 | **Deity** | Lesser |
 | **Domains** | War, Trickery |
-| **Gender** | Male |
+| **Pronouns** | he/him |
 | **Nickname** | *The Genuine* |
 | **Associations** | Choice, Desire, Hate. |
 |||
