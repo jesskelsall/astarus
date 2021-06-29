@@ -65,6 +65,16 @@ While in [sanctuary](../organisations/astorrel/sanctuary.md), the party briefly 
 
 Carras and Norsha confer to each other, Carras noting that [the Crimson Blades](../organisations/the-crimson-blades.md) are known to operate around Carnmere.
 
+### [PR27](../sessions/PR27.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) are present for their first [Astorrel](../organisations/astorrel/astorrel.md) briefing at [Tenterfell House](../places/buildings/tenterfell-house.md) when [Quinn Mac Domhnail](../characters/quinn-mac-domhnail.md) arrives, looking for [Elysia Vanderboss](../characters/elysia-vanderboss.md)' help with a matter he is taking care of for [Levelle Tristwix](../characters/levelle-tristwix.md). He would like [Tyburn Dalvos](../characters/tyburn-dalvos.md) to try and scry on [Wrenn Piznarck](../characters/wrenn-piznarck.md).
+
+With Elysia's blessing, Tyburn looks into his scrying pool. He sees [Wrenn Piznarck](../characters/wrenn-piznarck.md) chained up in a dark basement, visited by his captor who descends the basement stairs towards him. Wrenn sits in a pool of his own blood, chained to the wall. Tyburn notices that he is missing one of his legs.
+
+Snapping out of the scrying pool, Tyburn relays this to those present. He picks up on the sound of a scraping bird call that he could hear. [Wizira](../characters/wizira.md) suggests it may be a raven, while [Sparrow on the Autumn Pine](../characters/sparrow-on-the-autumn-pine.md) notes that magpies make a scraping noise when their nests are threatened.
+
+Quinn, unhappy with the cryptic information provided, leaves to relay what he learned to Levelle.
+
 ## Planning
 
 [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) and his entourage take [Wrenn Piznarck](../characters/wrenn-piznarck.md) back to Carnmere as instructed by [Stalker](../characters/stalker.md), their leader.

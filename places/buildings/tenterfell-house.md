@@ -6,7 +6,7 @@
 | **Type** | Building |
 | **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
 | **Nearby Places** | [The Mission's End](inns-taverns/the-missions-end.md) |
-| **People** | [Elysia Vanderboss](../../characters/elysia-vanderboss.md)<br>[Astral Squad](../../organisations/astorrel/squads/astral-squad.md) |
+| **People** | *Ground floor:*<br>[Amarin Hutchinson](../../characters/amarin-hutchinson.md)<br><br>*Third floor:*<br>[Elysia Vanderboss](../../characters/elysia-vanderboss.md)<br>[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)<br>[Astral Squad](../../organisations/astorrel/squads/astral-squad.md)<br> |
 
 ## Summary
 

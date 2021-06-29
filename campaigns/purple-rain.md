@@ -70,7 +70,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 
 | Name | Started | Ended |
 | --- |:---:|:---:|
-| [Thanea's Aasimar Awakening](../storylines/thaneas-aasimar-awakening.md) | [PR00](../sessions/PR00.md) | [PR24](../sessions/PR24.md) |
+| [Thanea's Aasimar Awakening](../storylines/ended/thaneas-aasimar-awakening.md) | [PR00](../sessions/PR00.md) | [PR24](../sessions/PR24.md) |
 | [Wizira's Father Goes Missing](../storylines/ended/wiziras-father-goes-missing.md) | [PR01](../sessions/PR01.md) | [PR20](../sessions/PR20.md) |
 | [Crossing Paths in Goldreach](../storylines/ended/crossing-paths-in-goldreach.md) | [PR01](../sessions/PR01.md) | [PR02](../sessions/PR02.md) |
 | [Finding the Goldreach Meteorite](../storylines/ended/finding-the-goldreach-meteorite.md) | [PR01](../sessions/PR01.md) | [PR11](../sessions/PR11.md) |
@@ -86,6 +86,8 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [PR17](../sessions/PR17.md) | |
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [PR18](../sessions/PR18.md) | [PR20](../sessions/PR20.md) |
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | [PR21](../sessions/PR21.md) |
-| [Nature's Battle 27](../storylines/natures-battle-27.md) | [PR21](../sessions/PR21.md) | |
+| [Nature's Battle 27](../storylines/ended/natures-battle-27.md) | [PR21](../sessions/PR21.md) | |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/PR25.md) | |
+| [Syntenne Spies in Eskrigg](../storylines/syntenne-spies-in-eskrigg.md) | [PR27](../sessions/PR27.md) | [PR27](../sessions/PR27.md) |
+| [Tyburn's Scrying Pool](../storylines/tyburns-scrying-pool.md) | [PR27](../sessions/PR27.md) | |
 | [Talk to the Morning Chasers](../storylines/talk-to-the-morning-chasers.md) | [PR27](../sessions/PR27.md) | |

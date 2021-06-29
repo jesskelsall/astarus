@@ -11,6 +11,16 @@
 
 ## History
 
+### [PR27](../sessions/PR27.md)
+
+While under the effects of [meteoric dust](../items/meteoric/meteoric-dust.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) runs through the night time streets of [Eskrigg](../places/cities/eskrigg.md) looking for a place to avoid others and let her hallucinations rest. She sits against a wall on a quiet street.
+
+Here she overhears [Allisa Balsatra](../characters/allisa-balsatra.md) and [Xavier Raloven](../characters/xavier-raloven.md) talking intently but quietly about their need to escape. Allisa then notices Saoirse, approaching her. This gives Saoirse a look at her. She notices Allisa's copper armour pieces as well as her full-face helmet. She also notices Xavier wearing a hood and leathers.
+
+Allisa is surprised by Saoirse, not expecting to find another divine presence in the city, though she feels her fallen [aasimar](../lineages/aasimar.md) nature which feels "off". She tries to help Saoirse who asks who she is, scaring her off.
+
+Though she would not know it, Saoirse has unwittingly crossed paths with [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) Veritacris who have infiltrated [Eskrigg](../places/cities/eskrigg.md).
+
 ### [AA10](../sessions/AA10.md)
 
 [Canary squad](../organisations/astorrel/squads/canary-squad.md) enter the [Eskrigg](../places/cities/eskrigg.md) sewers in order to clear out hostile rats so that [Barthon Ironfist](../characters/barthon-ironfist.md) can set up an underground pit fighting ring. While fighting rats, the party find the bloated corpse of [Castien Eladan](../characters/castien-eladan.md), which washes down a sewer tunnel toward them.

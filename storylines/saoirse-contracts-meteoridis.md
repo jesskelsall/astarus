@@ -53,6 +53,20 @@ When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visits a second tim
 
 Hours before the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) ingests a portion of [meteoric dust](../items/meteoric/meteoric-dust.md). She does so because she feels useless in the arena, so she may as well fight while high.
 
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is now under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md).]*
+
 ### [PR26](../sessions/PR26.md)
 
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) fights in the [Nature's Battle 27](ended/natures-battle-27.md) final while under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md) she ingested. She casts Meteoric Blast for the first time. Following [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s defeat, during which she was knocked unconscious, she is revived by an [Astorrel member](../organisations/astorrel/ranks/astorrel-member.md). Startled and still freaking out due to the dust's effects, she runs out of the arena.
+
+### [PR27](../sessions/PR27.md)
+
+Having ran from the arena, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) looks for a quiet spot on the streets of [Eskrigg](../places/cities/eskrigg.md). She slumps against a wall half way along a quiet street, closing her eyes to put her warped vision at rest. She is startled by passers by and eventually disturbed by [Allisa Balsatra](../characters/allisa-balsatra.md) and [Xavier Raloven](../characters/xavier-raloven.md), who she struggles to see properly.
+
+Allisa recognises that Saoirse is in a bad way before trying to help her by placing her hand on her cheek. Saoirse grabs Allisa's wrist, causing her to relent before moving on.
+
+When the rest of the party catch up to Saoirse, she instinctively casts Meteoric Blast at [Wizira](../characters/wizira.md) but misses. Afterwards she has a private conversation with [Thanea Morlay](../characters/thanea-morlay.md) in which she admits to having taken the [meteoric dust](../items/meteoric/meteoric-dust.md). When Saoirse expresses a desire to experiment further in hopes of finding a way to harness the dust's power without the hallucinations, Thanea is supportive, but advises that she doesn't ingest any more in the same way, fearing her doing herself permanent damage.
+
+After a good night's sleep, the effects of the [meteoric dust](../items/meteoric/meteoric-dust.md) wear off.
+
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md).]*

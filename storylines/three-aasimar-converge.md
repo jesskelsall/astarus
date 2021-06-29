@@ -29,6 +29,12 @@ Saoirse's dreams of wings are almost immediately answered by her warlock patron,
 
 During the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sees [Thanea Morlay](../characters/thanea-morlay.md)'s Radiant Soul wings in person for the first time.
 
+## [PR27](../sessions/PR27.md)
+
+While high on [meteoric dust](../items/meteoric/meteoric-dust.md) and slumped on an [Eskrigg](../places/cities/eskrigg.md) street, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is noticed by [Allisa Balsatra](../characters/allisa-balsatra.md) while on the run with [Xavier Raloven](../characters/xavier-raloven.md). She stops, feeling Saoirse's divine presence, though noticing it feels corrupted (her fallen [aasimar](../lineages/aasimar.md) nature).
+
+Allisa wants to help her, reaching out a hand to try and cast Remove Curse on her. Saoirse grabs her arm by the wrist, asking who she is. This spooks Allisa who remembers that she is in a hurry. Before running off she promises Saoirse that she will not forget her.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will cross paths briefly with Saoirse while she is high on [meteoric dust](../items/meteoric/meteoric-dust.md). Allisa will recognise her energy, but her need to flee the city will prevent her from saying or doing much. She will talk vaguely to her underling about how there is a second one though something feels off. Her underling will then encourage her to move quickly.

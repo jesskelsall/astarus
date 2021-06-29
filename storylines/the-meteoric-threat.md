@@ -74,3 +74,19 @@ Following the [Astornar](../organisations/astornar.md) trial of [the firbolg con
 ### [PR21](../sessions/PR21.md)
 
 When [Elysia Vanderboss](../characters/elysia-vanderboss.md) is promoted to [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md), the newly formed [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) learn that she will be their superior officer, implying that they will be working with her on the meteoric threat.
+
+### [PR27](../sessions/PR27.md)
+
+With [Nature's Battle 27](ended/natures-battle-27.md) over, [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) report to [Elysia Vanderboss](../characters/elysia-vanderboss.md) in [Tenterfell House](../places/buildings/tenterfell-house.md) to receive their first mission. Here they meet [Astral squad](../organisations/astorrel/squads/astral-squad.md), also under Elysia's command, now lead by [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) and including [Sparrow on the Autumn Pine](../characters/sparrow-on-the-autumn-pine.md).
+
+Elysia sets the scene by explaining her worry about the meteoric threat - it could be a [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) weapon that precedes open warfare, or something worse. It is imperative that they learn what they can, and fast.
+
+As a group they go through a [timeline](../history/timeline.md) of events, covering what [Astral squad](../organisations/astorrel/squads/astral-squad.md) learned about the [Humar Estuary Meteorite](../items/meteoric/meteorites/humar-estuary-meteorite.md), [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md), [Tresenda Pass](../places/roads/tresenda-pass.md) [Meteorite](../items/meteoric/meteorite.md), [Carnmere Meteorite](../items/meteoric/meteorites/carnmere-meteorite.md), and finally the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md).
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) give detailed accounts of the [meteoric watchers](../creatures/meteoric-watcher.md), noting their appearance, combat tactics (including teleportation), and resistance to slashing damage. The purple glow of the [meteorite](../items/meteoric/meteorite.md) is also mentioned, though it is clear that the squad isn't clear how that works.
+
+[Torbra Tauff](../characters/torbra-tauff.md) mis-remembers how many [meteoric watchers](../creatures/meteoric-watcher.md) they killed, stating that one of the two got away. This causes Elysia to send [Astral squad](../organisations/astorrel/squads/astral-squad.md) to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to investigate further and tidy up loose ends.
+
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is forced to place the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) on the table, and [Thanea Morlay](../characters/thanea-morlay.md) gives up her pouch of gravel-filled [meteoric dust](../items/meteoric/meteoric-dust.md). Both are kept for Elysia so that [Tyburn Dalvos](../characters/tyburn-dalvos.md) can study them that same day, and for safe keeping as they are the few pieces of evidence the group possesses. This annoys Saoirse.
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) is sent to [talk to the Morning Chasers](talk-to-the-morning-chasers.md), who investigated Silethwaite on [Astral squad](../organisations/astorrel/squads/astral-squad.md)'s behalf, with the hope that Starfall's [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) experience will call attention to new clues. They are given a deadline of that same day, so they leave immediately.
