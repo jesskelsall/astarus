@@ -70,3 +70,13 @@ When the rest of the party catch up to Saoirse, she instinctively casts Meteoric
 After a good night's sleep, the effects of the [meteoric dust](../items/meteoric/meteoric-dust.md) wear off.
 
 *[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md).]*
+
+### [PR28](../sessions/PR28.md)
+
+When the party meet [the Morning Chasers](../organisations/the-morning-chasers.md) in [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) meets [Slaine Alabaster](../characters/slaine-alabaster.md). Slaine contracted [Meteoridis](../mechanics/roleplay/meteoridis.md) 4 to 5 months ago. He shows advanced symptoms including extreme protectiveness of the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md) that he possesses, and appears almost feral.
+
+Saoirse gets the sinking feeling that the only difference between her and him is the passage of time - this is her in several months time.
+
+When not completely zoned out, Slaine talks about not letting anyone have his [meteorite](../items/meteoric/meteorite.md). In particular when he sees Saoirse there is sense that he recognises her situation, perceiving her as a big threat to his [meteorite](../items/meteoric/meteorite.md), even after Saoirse charms him.
+
+Ultimately Slaine turns into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md), the final stage of [Meteoridis](../mechanics/roleplay/meteoridis.md).

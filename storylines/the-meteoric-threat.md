@@ -90,3 +90,15 @@ As a group they go through a [timeline](../history/timeline.md) of events, cover
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is forced to place the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) on the table, and [Thanea Morlay](../characters/thanea-morlay.md) gives up her pouch of gravel-filled [meteoric dust](../items/meteoric/meteoric-dust.md). Both are kept for Elysia so that [Tyburn Dalvos](../characters/tyburn-dalvos.md) can study them that same day, and for safe keeping as they are the few pieces of evidence the group possesses. This annoys Saoirse.
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) is sent to [talk to the Morning Chasers](talk-to-the-morning-chasers.md), who investigated Silethwaite on [Astral squad](../organisations/astorrel/squads/astral-squad.md)'s behalf, with the hope that Starfall's [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) experience will call attention to new clues. They are given a deadline of that same day, so they leave immediately.
+
+### [PR28](../sessions/PR28.md)
+
+When [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) meet with [the Morning Chasers](../organisations/the-morning-chasers.md), [Janneke Borflast](../characters/janneke-borflast.md) tries to hide the presence of an ill [Slaine Alabaster](../characters/slaine-alabaster.md) upstairs.
+
+It becomes apparent that not only does he possess the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md) that [Elysia Vanderboss](../characters/elysia-vanderboss.md) sent them to collect from Silethwaite, but that it has been corrupting him over the last 4-5 months, with him suffering from advanced [Meteoridis](../mechanics/roleplay/meteoridis.md).
+
+Detailing the clearing the [Great Sile Woods](../places/forests/great-sile-woods.md) where the adventurers found the [meteorite](../items/meteoric/meteorite.md), Janneke wasn't aware of what the [meteorite](../items/meteoric/meteorite.md) was, allowing Slaine to keep it, and not reporting it to Elysia on their return. Janneke assumed Slaine would sell it, but instead he got increasingly obsessed with it.
+
+Both parties decide that if they don't act decisively to separate Slaine from the [meteorite](../items/meteoric/meteorite.md) (which he is physically attached to by the hand), he will likely die. [Kieran Bennington](../characters/kieran-bennington.md) offers to cast Dispel Magic on the [meteorite](../items/meteoric/meteorite.md), a plan that everyone agrees to.
+
+When he does so, the magic within the [meteorite](../items/meteoric/meteorite.md) transforms [Slaine Alabaster](../characters/slaine-alabaster.md) into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md) before the dispel can take effect, using his body to save itself. The humanoid stands up, reveals its newly formed blade arms, and stabs down toward Kieran.
