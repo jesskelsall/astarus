@@ -11,30 +11,35 @@
 >
 > Your modifier represents the quality and comprehensiveness of your training by your mentor(s), and was determined in session zero by a d20 roll. Your Intelligence modifier is then applied.
 
-## History
+## Summary
 
-### [AA04](../../sessions/AA04.md)
+[Astorrel](../../organisations/astorrel/astorrel.md) Training is an Intelligence based custom skill. In addition to the usual skill bonuses that come from a character's Intelligence modifier and proficiency bonus, an additional bonus is applied to the skill. In D&D Beyond this is applied through the *Misc Bonus* field.
 
-This skill was added to the [Astorrel Agents](../../campaigns/astorrel-agents.md) party's character sheets before [AA04](../../sessions/AA04.md). In addition to the INT modifier, a modifier was added that was determined by a d20 roll during [AA00](../../sessions/AA00.md). This was then converted using the Ability Scores and Modifiers table (PHB p173).
+### Initial Modifier
 
-It was suggested that those with negative d20 modifiers in particular would improve their skill over time through application of study. This would be manually adjusted as part of the homebrew nature of this skill.
+This modifier represents the quality and extent of the character's [Astorrel](../../organisations/astorrel/astorrel.md) Training, particularly prior to their graduation. Not all [Astorrel](../../organisations/astorrel/astorrel.md) in training receive the same attention from their mentors.
 
-| Character | INT | INT Modifier | d20 Roll | d20 Modifier | Proficiency Bonus | Total Modifier |
-| --- |:---:|:---:|:---:|:---:|:---:|:---:|
-| [Ahsha Sallas](../../characters/ahsha-sallas.md) | 10 | +0 | 4 | -3 | | **-3** |
-| [Ephaine Seren](../../characters/ephaine-seren.md) | 13 | +1 | 7 | -2 | | **-1** |
-| [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) | 8 | -1 | 8 | -1 | +1 (half proficiency) | **-1** |
-| [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | 15 | +2 | 16 | +3 | | **+5** |
+To begin with, each [Astorrel](../../organisations/astorrel/astorrel.md) player character rolls a d20. This number is converted to a modifier using the [Ability Scores and Modifiers Table](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#AbilityScoresandModifiersTable) typically used for ability scores.
 
-### [PR21](../../sessions/PR21.md)
+### Changing Modifiers
 
-The skill was added to the [Purple Rain](../../campaigns/purple-rain.md) party's character sheets following [PR21](../../sessions/PR21.md). In addition to the INT modifier, a modifier was added that was determined by taking the lowest result of four skill checks. This provided an extremely high likelihood of a negative modifier which reflects the party's rushed [Astorrel](../../organisations/astorrel/astorrel.md) training.
+Beyond graduation, [Astorrel](../../organisations/astorrel/astorrel.md) can improve their knowledge by learning through practice in the field, or focused study in their spare time.
 
-Like with the [Astorrel Agents](../../campaigns/astorrel-agents.md) party, the idea is to remove some of the negative modifiers over time as the [Purple Rain](../../campaigns/purple-rain.md) party gains experience in the [Astorrel](../../organisations/astorrel/astorrel.md).
+Player characters can periodically be awarded with an incremental increase to their modifier.
 
-| Character | INT | INT Modifier | Lowest Roll | Roll Modifier | Proficiency Bonus | Total Modifier |
-| --- |:---:|:---:|:---:|:---:|:---:|:---:|
-| [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) | 12 | +1 | 15 | +0 | | **+1** |
-| [Thanea Morlay](../../characters/thanea-morlay.md) | 12 | +1 | 7 | -2 | | **-1** |
-| [Torbra Tauff](../../characters/torbra-tauff.md) | 10 | +0 | 3 | -4 | | **-4** |
-| [Wizira](../../characters/wizira.md) | 15 | +2 | 1 | -5 | | **-3** |
+## Skill Bonuses
+
+### Initial
+
+| Character | After Session | INT | INT Modifier | d20 Roll | d20 Modifier | Proficiency Bonus | Total Modifier |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Ahsha Sallas](../../characters/ahsha-sallas.md) | [AA03](../../sessions/AA03.md) | 10 | +0 | 4 | -3 | | **-3** |
+| [Ephaine Seren](../../characters/ephaine-seren.md) | [AA03](../../sessions/AA03.md) | 13 | +1 | 7 | -2 | | **-1** |
+| [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) | [AA03](../../sessions/AA03.md) | 8 | -1 | 8 | -1 | +1 (half proficient) | **-1** |
+| [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | [AA03](../../sessions/AA03.md) | 15 | +2 | 16 | +3 | | **+5** |
+| [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) | [PR21](../../sessions/PR21.md) | 12 | +1 | 15 | +0 | | **+1** |
+| [Thanea Morlay](../../characters/thanea-morlay.md) | [PR21](../../sessions/PR21.md) | 12 | +1 | 7 | -2 | | **-1** |
+| [Torbra Tauff](../../characters/torbra-tauff.md) | [PR21](../../sessions/PR21.md) | 10 | +0 | 3 | -4 | | **-4** |
+| [Wizira](../../characters/wizira.md) | [PR21](../../sessions/PR21.md) | 15 | +2 | 1 | -5 | | **-3** |
+| [Noon Schiller](../../characters/noon-schiller.md) | [AA09](../../sessions/AA09.md) | 16 | +3 | 1 | -5 | | **-2** |
+| [Yialdred Korina](../../characters/yialdred-korina.md) | [AA11](../../sessions/AA11.md) | 15 | +2 | 17 | +3 | +2 (proficient) | **+8** |
