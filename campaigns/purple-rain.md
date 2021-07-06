@@ -64,6 +64,8 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR27](../sessions/PR27.md) | 2021-06-16 | *Let's Get Down to Business* |
 | [PR28](../sessions/PR28.md) | 2021-06-23 | *[The Morning Chasers](../organisations/the-morning-chasers.md)* |
 | [PR29](../sessions/PR29.md) | 2021-06-30 | *First Floor Fiasco* |
+||
+| [PR30](../sessions/PR30.md) | 2021-07-07 | |
 
 ## Storylines
 
