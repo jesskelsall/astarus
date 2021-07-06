@@ -102,3 +102,15 @@ Detailing the clearing the [Great Sile Woods](../places/forests/great-sile-woods
 Both parties decide that if they don't act decisively to separate Slaine from the [meteorite](../items/meteoric/meteorite.md) (which he is physically attached to by the hand), he will likely die. [Kieran Bennington](../characters/kieran-bennington.md) offers to cast Dispel Magic on the [meteorite](../items/meteoric/meteorite.md), a plan that everyone agrees to.
 
 When he does so, the magic within the [meteorite](../items/meteoric/meteorite.md) transforms [Slaine Alabaster](../characters/slaine-alabaster.md) into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md) before the dispel can take effect, using his body to save itself. The humanoid stands up, reveals its newly formed blade arms, and stabs down toward Kieran.
+
+### [PR29](../sessions/PR29.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) does battle with the [Meteoric Humanoid](../creatures/meteoric-humanoid.md). They initially try to subdue and capture it, but it proves tenacious. Its wailing blast inflicts large damage on the party, knocking [Wizira](../characters/wizira.md) unconscious early in the fight. Realising how dire the situation is, [Thanea Morlay](../characters/thanea-morlay.md) and [Torbra Tauff](../characters/torbra-tauff.md) attempt to move it away from [Wizira](../characters/wizira.md) and kill it.
+
+The [meteoric dust](../items/meteoric/meteoric-dust.md) bound to [Slaine Alabaster](../characters/slaine-alabaster.md)'s corpse feints its defeat, scattering itself across the floor when Torbra hits with an exceptionally powerful attack. While the party is licking their wounds it attempts to reform into a [Meteoric Watcher](../creatures/meteoric-watcher.md).
+
+Torbra notices the dust coalescing near the corpse. She scoops up what she can into her iron pot, noticing the remaining dust floating through the air and forming a curved vortex into its interior, its speed picking up rapidly.
+
+[Wizira](../characters/wizira.md) blasts the pot with Produce Flame to little effect. Unimpressed she throws the pot across the room, allowing her to witness a pile of the [meteoric dust](../items/meteoric/meteoric-dust.md) slink back into the pot and tip it upright, while the rest of the dust moves across the floor in its direction.
+
+[Kieran Bennington](../characters/kieran-bennington.md) then rushes over to the pot and casts Dispel Magic, killing the last of the magic in the [meteoric dust](../items/meteoric/meteoric-dust.md) before it can reform into a creature.

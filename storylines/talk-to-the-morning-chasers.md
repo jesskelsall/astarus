@@ -49,3 +49,15 @@ The party learn that on their trip to Silethwaite they found the [Silethwaite Me
 When Kieran reveals that Slaine is physically stuck to the [meteorite](../items/meteoric/meteorite.md) by the hand, the party feel it is essential that they separate him from it before it kills him. Kieran worries that any effort may kill him, but they are out of options.
 
 Kieran volunteers to cast Dispel Magic on the [meteorite](../items/meteoric/meteorite.md). When he does so it collapses into dust and transforms [Slaine Alabaster](../characters/slaine-alabaster.md) into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md). It stands up and stabs down at Kieran with its newly formed blade arms.
+
+### [PR29](../sessions/PR29.md)
+
+As [Slaine Alabaster](../characters/slaine-alabaster.md) turns into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) engage him in combat. Initially they try to subdue him, [Wizira](../characters/wizira.md) grabbing hold of him while [Torbra Tauff](../characters/torbra-tauff.md) wraps [Thanea Morlay](../characters/thanea-morlay.md)'s rope around him. After Torbra fails to push him out of the first floor bedroom window, it becomes apparent that he is stronger than they realised, and that a protracted battle will end badly.
+
+With [Wizira](../characters/wizira.md) and then Thanea falling unconscious at the creature's hands, it takes the effort of everyone present to overpower the creature. Torbra lands a killing blow, scattering the [meteoric dust](../items/meteoric/meteoric-dust.md) affixed to Slaine's body, revealing a fleshy mangled corpse that doesn't resemble the Slaine. [Janneke Borflast](../characters/janneke-borflast.md) cries uncontrollably at the sight of Slaine's body.
+
+While the party lick their wounds, the [meteoric dust](../items/meteoric/meteoric-dust.md) is not finished. It starts to coalesce in a pile near the body, which Torbra notices. She scoops up what she can and places it into her iron pot, causing the outstanding dust to float through the air in a circular vortex, tracing a trail into the pot's interior.
+
+[Wizira](../characters/wizira.md) tries heating the dust with Produce Flame to subdue it, but it does little. As a result she throws the pot across the room, scattering half of its contents across the floor. She watches as the dust left in the opening of the sideways pot slinks deeper inside, tipping the pot upright in the process, while the dust on the floor starts moving towards the pot.
+
+[Kieran Bennington](../characters/kieran-bennington.md) rushes over to the pot and casts Dispel Magic, rendering all of the dust inert and motionless. [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) scoop up most of the dust and place it in Torbra's pot.

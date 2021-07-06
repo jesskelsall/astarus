@@ -80,3 +80,9 @@ Saoirse gets the sinking feeling that the only difference between her and him is
 When not completely zoned out, Slaine talks about not letting anyone have his [meteorite](../items/meteoric/meteorite.md). In particular when he sees Saoirse there is sense that he recognises her situation, perceiving her as a big threat to his [meteorite](../items/meteoric/meteorite.md), even after Saoirse charms him.
 
 Ultimately Slaine turns into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md), the final stage of [Meteoridis](../mechanics/roleplay/meteoridis.md).
+
+### [PR29](../sessions/PR29.md)
+
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) witnesses [Slaine Alabaster](../characters/slaine-alabaster.md) turn into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md), terrifying her to the point of fleeing the first floor of [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md). Only when she hears her party suffering greatly at its hands does she return to intervene.
+
+When the creature is defeated, she looks upon the fleshy remains of Slaine, unrecognisable due to the amount of damage the [meteoric dust](../items/meteoric/meteoric-dust.md) did to it. After bringing [Kieran Bennington](../characters/kieran-bennington.md) back to consciousness she vomits from shock, before running to fetch [Elysia Vanderboss](../characters/elysia-vanderboss.md).

@@ -14,6 +14,7 @@ The Meteorics are an affiliation of constructs created by [Kaldoon](../gods/deit
 ## Creatures
 
 - [Meteoric Watcher](../creatures/meteoric-watcher.md)
+- [Meteoric Humanoid](../creatures/meteoric-humanoid.md)
 
 ## Items
 
