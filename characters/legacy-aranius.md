@@ -18,7 +18,7 @@
 | **Rank** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) |
 | **Role** | Settlements / [Eskrigg](../places/cities/eskrigg.md) |
 | **Commanding Officer** | [Overon Nightingale](overon-nightingale.md) |
-| **Subordinates** | |
+| **Subordinates** | [Tanin Arnous](tanin-arnous.md) |
 |||
 | **Image ID** | `5e9c14168c5fb14c` |
 

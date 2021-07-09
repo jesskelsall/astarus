@@ -66,3 +66,5 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Free Schiller Steel](../storylines/free-schiller-steel.md) | [AA10](../sessions/AA10.md) | |
 | [Nilliski's Unknowable Whims](../storylines/nilliskis-unknowable-whims.md) | [AA10](../sessions/AA10.md) | |
 | [Syntenne Spies in Eskrigg](../storylines/syntenne-spies-in-eskrigg.md) | [AA10](../sessions/AA10.md) | |
+| [Enforcing Astorian History](../storylines/enforcing-astorian-history.md) | [AA11](../sessions/AA11.md) | |
+| [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [AA11](../sessions/AA11.md) | |

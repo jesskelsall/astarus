@@ -38,3 +38,23 @@ Barthon provided the spies with information about the [Astornox](../organisation
 He reveals that the section of sewer that he asked the party to clear out was in fact for the spies' use. This angers the party, now implicated in a Syntenne conspiracy against their knowledge. Barthon is sympathetic but ultimately felt he had to protect his family, who he has already moved to [Mockerkin](../places/towns/mockerkin.md) for their protection. The party debates what to do with him before telling him to leave [Eskrigg](../places/cities/eskrigg.md) immediately and be with his family.
 
 The party debate what to do with the corpse. They agree that they must report this to the [Astorrel](../organisations/astorrel/astorrel.md) as per their military duties.
+
+### [AA11](../sessions/AA11.md)
+
+[Canary squad](../organisations/astorrel/squads/canary-squad.md) sound the alarm over what they have learned about the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) spies and the potential for a conspiracy involving the [Nature's Battle 27](ended/natures-battle-27.md) final match. They go to [Vorrinel's Stand](../places/buildings/vorrinels-stand.md) and inform both [Legacy Aranius](../characters/legacy-aranius.md) and [Ronvyn Bafflegift](../characters/ronvyn-bafflegift.md).
+
+Legacy orders the building locked down. He involves [Tanin Arnous](../characters/tanin-arnous.md) who helps to coordinate a bolstering of the [Astornox guards](../organisations/astornox/ranks/astornox-guard.md) protecting the arena. Legacy also asks Tanin to fetch a Truthseeker. Ronvyn urges the party to find more evidence before the day is out, or the disruption their accusations have caused will come back to haunt them. He officially gives them orders to do so, so they head back out, looking to investigate the sewer entrances around the arena.
+
+Heading to one of the less protected sewer entrances, [Ephaine Seren](../characters/ephaine-seren.md) finds robed and disguised [Astornox](../organisations/astornox/astornox.md) stationed on rooftops overlooking the door leading to the sewer grate. While wild shaped into a bird she checks the other two sewer entrances and finds a similar level of protection and no visible issues.
+
+While encircling the first area she notices a hooded figure ([Xavier Raloven](../characters/xavier-raloven.md)) entering a doorway. After surprising an [Astornox](../organisations/astornox/astornox.md) on a nearby rooftop he informs her that he didn't see anyone, but now needs to report it. Ephaine tells him that [Canary squad](../organisations/astorrel/squads/canary-squad.md) intends to go after him, which he also must report. This doesn't deter the party.
+
+After descending into the sewer, [Ahsha Sallas](../characters/ahsha-sallas.md) fails to notice Xavier emerging from a room, causing him to flee deeper into the sewers. She manages to catch up to him, grappling him. He submits, putting on a frightened demeanour and wishing to talk. Meanwhile [Allisa Balsatra](../characters/allisa-balsatra.md) is sat nearby, disguised as a commoner.
+
+The party begin questioning Xavier, learning that a small group of Veritacris are here to observe the tournament final as they heard of an angel ([Thanea Morlay](../characters/thanea-morlay.md)) competing in the semi-final. He truthfully tells them that their intention is to verify her existence one way or another before leaving.
+
+The party is sceptical of the story. Pressing for more details, Xavier eventually reveals that Allisa has spent over 100 years searching each civilisation in turn for an angel, as she is one herself ([aasimar](../lineages/aasimar.md)) and no longer wants to be alone. Unfortunately this isn't enough of a reason for the party to allow Xavier to get away as if they had never found him, so they tie him up and prepare to haul him back to [Ronvyn Bafflegift](../characters/ronvyn-bafflegift.md) at [Vorrinel's Stand](../places/buildings/vorrinels-stand.md).
+
+[Allisa Balsatra](../characters/allisa-balsatra.md) drops her disguise, revealing her real appearance including her armour and weapons. She dives towards Xavier, trying to grab him from Ahsha's grasp. She fails, opting to flee regardless, casting Dimension Door and disappearing into a nearby [Eskrigg](../places/cities/eskrigg.md) street. She is gone before the party can even react.
+
+While trying to leave the sewers with their prisoner, the party come across a group of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md) who refuse to let them pass. [Canary squad](../organisations/astorrel/squads/canary-squad.md) have hidden Xavier's head and do not mention the nature of their business.

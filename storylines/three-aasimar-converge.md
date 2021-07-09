@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR25](../sessions/PR25.md) | storyline.2
+| **Session Started** | [PR25](../sessions/PR25.md) / [AA11](../sessions/AA11.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -45,15 +45,23 @@ Saoirse also learns that Thanea sprouted Radiant Soul wings for the first time w
 
 Saoirse's dreams of wings are almost immediately answered by her warlock patron, [Effie Silttooth](../characters/effie-silttooth.md). Effie bestows her with Necrotic Shroud wings, her magic further corrupting her [aasimar](../lineages/aasimar.md) being. Saoirse is outraged at their lack of lift, not providing her the ability to fly. Effie is adamant that these are better, so Saoirse looks on the bright side and accepts the gift.
 
-## [PR26](../sessions/PR26.md)
+### [PR26](../sessions/PR26.md)
 
 During the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sees [Thanea Morlay](../characters/thanea-morlay.md)'s Radiant Soul wings in person for the first time.
 
-## [PR27](../sessions/PR27.md)
+### [PR27](../sessions/PR27.md)
 
 While high on [meteoric dust](../items/meteoric/meteoric-dust.md) and slumped on an [Eskrigg](../places/cities/eskrigg.md) street, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is noticed by [Allisa Balsatra](../characters/allisa-balsatra.md) while on the run with [Xavier Raloven](../characters/xavier-raloven.md). She stops, feeling Saoirse's divine presence, though noticing it feels corrupted (her fallen [aasimar](../lineages/aasimar.md) nature).
 
 Allisa wants to help her, reaching out a hand to try and cast Remove Curse on her. Saoirse grabs her arm by the wrist, asking who she is. This spooks Allisa who remembers that she is in a hurry. Before running off she promises Saoirse that she will not forget her.
+
+### [AA11](../sessions/AA11.md)
+
+When [Canary squad](../organisations/astorrel/squads/canary-squad.md) confront [Xavier Raloven](../characters/xavier-raloven.md) in the [Eskrigg](../places/cities/eskrigg.md) sewers, he is willing to talk about what he, [Allisa Balsatra](../characters/allisa-balsatra.md), and [Castien Eladan](../characters/castien-eladan.md) are doing in the sewers. He explains that they are here to see "the angel" ([Thanea Morlay](../characters/thanea-morlay.md)), who they learned of after she sprouted Radiant Soul wings in the [Nature's Battle 27](ended/natures-battle-27.md) semi-final. They wish to confirm her existence first-hand by watching the final from a spot under [Vorrinel's Stand](../places/buildings/vorrinels-stand.md) accessible via the sewers.
+
+The party is unimpressed by the answers given and are sceptical. They press for a reason - why they are interested in the first place. Xavier openly tells them that Allisa is an angel herself, the elvish word for which is [aasimar](../lineages/aasimar.md). He explains that she has searched every civilisation before coming to the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md), spending over 100 years in the pursuit of finding another.
+
+Despite the revelation, [Canary squad](../organisations/astorrel/squads/canary-squad.md) isn't willing to look the other way, binding Xavier and preparing to take him back to [Ronvyn Bafflegift](../characters/ronvyn-bafflegift.md) as proof of a spy conspiracy. During this he speaks elvish to Allisa who is disguised as a commoner on the other side of the sewer exit, telling her to leave him and go. She drops her disguise and attempts to grab Xavier while casting Dimension Door to make their escape. Unfortunately Ahsha prevents her from grabbing him, so she opts to leave without him.
 
 ## Planning
 
