@@ -44,4 +44,4 @@ With the squad invited to compete in [Nature's Battle 27](ended/natures-battle-2
 
 | Squad | Acting Lead | Mission | Bounty | Time Limit |
 | --- | --- | --- | ---:| --- |
-| [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) | [Independent Investigation of Ulburn](independent-investigation-of-ulburn.md) | 25 gp | *Flexible* |
+| [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) | Independent Investigation of [Ulburn](../places/villages/ulburn.md) | 25 gp | *Flexible* |
