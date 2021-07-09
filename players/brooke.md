@@ -17,4 +17,4 @@
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
 | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) (former) | [AA00](../sessions/AA00.md) - [AA06](../sessions/AA06.md) |
-| [Yialdred Korina](../characters/yialdred-korina.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) | TODO |
+| [Yialdred Korina](../characters/yialdred-korina.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) | [AA12](../sessions/AA12.md) |
