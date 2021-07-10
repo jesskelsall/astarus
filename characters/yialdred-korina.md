@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / Woodlouse Squad |
+| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Woodlouse Squad](../organisations/astorrel/squads/woodlouse-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
