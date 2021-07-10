@@ -1,0 +1,44 @@
+# Elrick Loweswater
+
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
+
+|||
+| --- | --- |
+| **Name** | Elrick Loweswater | character.3
+| **Lineage** | Halfling |
+| **Pronouns** | he/him |
+| **Age** | 28 |
+| **Class** | Druid |
+| **Worship** | |
+| **Relations** | [Cherish Loweswater](cherish-loweswater.md) (wife) |
+| **Places** | |
+|||
+| **Citizenship** | |
+| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Phenomena / Frontier / [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) |
+| **Commanding Officer** | |
+| **Subordinates** | |
+|||
+| **Image ID** | |
+
+## Summary
+
+TODO
+
+## Characteristics
+
+| | |
+| --- | --- |
+| **Face** | | characteristics.2
+| **Hair** | |
+| **Body** | |
+| **Clothes** | |
+| **Voice** | |
+| **Mannerisms** | |
+| | |
+| **Quirks** | |
+| **Knowledge** | |
+| **Values** | |
+| **Ambitions** | |
+| **Dislikes** | |

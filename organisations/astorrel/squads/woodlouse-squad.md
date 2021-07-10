@@ -14,7 +14,7 @@
 
 ## Summary
 
-Woodlouse Squad is the [Astorrel](../astorrel.md) squad that [Yialdred Korina](../../../characters/yialdred-korina.md) moved from, swapping for [Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md).
+Woodlouse Squad is the [Astorrel](../astorrel.md) squad that [Yialdred Korina](../../../characters/yialdred-korina.md) moved from.
 
 ## Missions
 
