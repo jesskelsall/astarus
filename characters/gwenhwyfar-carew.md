@@ -40,21 +40,17 @@ Her first name is pronounced *gwen-hool-var*.
 
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
+| **Face** | Light skin, bright turquoise eyes with small pupils. Crow's feet and worry lines. | characteristics.2
+| **Hair** | White & grey hip length hair with braids on the side. A braid sits on top of most of her hair. |
+| **Body** | 5'7" / 170cm. Medium build with wide hips. |
+| **Clothes** | Leather overcoat adorned with blue gems below the shoulders. Thin grey jumper, muddy grey pants, over the knee boots. Some practical leather straps holding the outfit together. Silver necklace with blue gems. |
+| **Voice** | Medium female register, Welsh. |
+| **Mannerisms** | Keeps her distance from others as much as possible. Treads carefully. |
 | | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
+| **Quirks** | Acts jovially and caring as a front in order to disarm people and make them more willing to talk. Really a psychopath with a strong motive to enforce her narrative by any means possible. |
+| **Knowledge** | Purveyor of historical knowledge. Knows about the history of the world prior to [The Arrival](../history/events/the-arrival.md), and particularly information about the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md). |
+| **Values** | Simplicity, obedience, order, control. |
+| **Ambitions** | Upholding the [Astornos](../organisations/astornos.md) values of the Astorian creation myth. |
+| **Dislikes** | Complexity, inquisitive people, human contact. |
 
 ## History
-
-## Planning
-
-### Campaign Name
