@@ -11,13 +11,13 @@
 | **Class** | Cleric (Order Domain) |
 | **Worship** | |
 | **Relations** | |
-| **Places** | |
+| **Places** | Glengariff (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
+| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / Woodlouse Squad |
+| **Commanding Officer** | |
 | **Subordinates** | |
 |||
 | **Image ID** | `3856f570c58374b4` |
