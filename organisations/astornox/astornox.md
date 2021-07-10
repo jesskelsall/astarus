@@ -33,7 +33,8 @@ The higher the [Astornox guard](ranks/astornox-guard.md) rank, including into of
 
 | [Astornox Guard](ranks/astornox-guard.md) | [Astornox Guard Corporal](ranks/astornox-guard-corporal.md) | [Astornox Guard Sergeant](ranks/astornox-guard-sergeant.md) | [Astornox Captain](ranks/astornox-captain.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/9c9f53d441e26444.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/a8d298f784897091.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c764616ac3a4a74f.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/49a0d0222fd95335.png" height="400" /> | 
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/9c9f53d441e26444.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/a8d298f784897091.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c764616ac3a4a74f.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/49a0d0222fd95335.png" height="400" /> |
+| `9c9f53d441e26444` | `a8d298f784897091` | `c764616ac3a4a74f` | `49a0d0222fd95335` |
 
 ## Ranks
 

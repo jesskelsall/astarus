@@ -35,7 +35,8 @@ Within cities, particularly within their Astorrel strongholds, wearing your unif
 
 | [Astorrel Robes](uniforms/astorrel-robes.md) | [Astorrel Officer's Uniform](uniforms/astorrel-officers-uniform.md) | [Astorrel Guard Uniform](uniforms/astorrel-guard-uniform.md) | [Astorrel Guard Sergeant Uniform](uniforms/astorrel-guard-sergeant-uniform.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/56dc7d4727318970.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d88f8099d26b0915.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5afda93c9eb6daf0.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/a5254f08ec0a900f.png" height="400" />
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/56dc7d4727318970.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d88f8099d26b0915.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5afda93c9eb6daf0.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/a5254f08ec0a900f.png" height="400" /> |
+| `56dc7d4727318970` | `d88f8099d26b0915` | `5afda93c9eb6daf0` | `a5254f08ec0a900f` |
 
 ## Mission
 
