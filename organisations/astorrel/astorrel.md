@@ -8,6 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | [Levelle Tristwix](../../characters/levelle-tristwix.md) |
 | **Patron** | [Kirrel](../../gods/deities/kirrel.md) |
+| **Location(s)** | South East Kardan |
 |||
 | **Image ID** | `755b46068cccdb49` |
 

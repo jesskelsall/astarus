@@ -6,6 +6,7 @@
 | **Civilisation** | |
 | **Leader** | [Stalker](../characters/stalker.md) |
 | **Patron** | [Gormox](../gods/deities/gormox.md) |
+| **Location(s)** | Carnmere |
 |||
 | **Image ID** | |
 

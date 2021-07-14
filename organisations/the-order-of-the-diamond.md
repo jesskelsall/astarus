@@ -8,6 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | |
 | **Patron** | [Bhygar](../gods/deities/bhygar.md), [Valnos](../gods/deities/valnos.md), [Kirrel](../gods/deities/kirrel.md), [Gormox](../gods/deities/gormox.md) |
+| **Location(s)** | South East Kardan |
 |||
 | **Image ID** | `fefd395b90f5a574` |
 

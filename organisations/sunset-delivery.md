@@ -6,6 +6,7 @@
 | **Civilisation** | |
 | **Leader** | |
 | **Patron** | |
+| **Location(s)** | South East Kardan |
 |||
 | **Image ID** | |
 

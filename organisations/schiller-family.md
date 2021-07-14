@@ -8,5 +8,6 @@
 | **Civilisation** | |
 | **Leader** | [Bernard Horace Schiller](../characters/bernard-horace-schiller.md) |
 | **Patron** | [Nilliski](../characters/nilliski.md) |
+| **Location(s)** | Kardanis |
 |||
 | **Image ID** | `bdcd922f44736212` |

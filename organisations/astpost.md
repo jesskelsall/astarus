@@ -6,6 +6,7 @@
 | **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | |
 | **Patron** | |
+| **Location(s)** | South East Kardan |
 |||
 | **Image ID** | |
 
