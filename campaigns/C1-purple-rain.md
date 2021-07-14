@@ -13,10 +13,17 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Thanea Morlay](../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../characters/torbra-tauff.md) | [Wizira](../characters/wizira.md) |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b6ddf2e960574729.png" height="400" /> |
 
+## Format
+
+|||
+|---|---|
+| **Session Length** | 2 hours |
+| **Session Frequency** | Weekly |
+| **Location** | Discord |
+
 ## Links
 
 - [Purple Rain at D&D Beyond](https://www.dndbeyond.com/campaigns/1397675)
-- [Purple Rain Days](days.md)
 - [Purple Rain Items](../items/ITEMS.md)
 
 ## Former Player Characters & Guests
@@ -32,7 +39,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 ## Sessions
 
 | Session | Date | Title |
-|:---:| --- | --- |
+|---| --- | --- |
 | [PR00](../sessions/PR00.md) | 2020-09-16 | *Session Zero* |
 | [PR01](../sessions/PR01.md) | 2020-10-07 | *[Crossing Paths in Goldreach](../storylines/ended/crossing-paths-in-goldreach.md)* |
 | [PR02](../sessions/PR02.md) | 2020-10-14 | *Wolves in the Night* |
@@ -64,8 +71,10 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR27](../sessions/PR27.md) | 2021-06-16 | *Let's Get Down to Business* |
 | [PR28](../sessions/PR28.md) | 2021-06-23 | *[The Morning Chasers](../organisations/the-morning-chasers.md)* |
 | [PR29](../sessions/PR29.md) | 2021-06-30 | *First Floor Fiasco* |
+| [PR30](../sessions/PR30.md) | 2021-07-07 | *Mission Complete* |
 ||
-| [PR30](../sessions/PR30.md) | 2021-07-07 | |
+| PR31 | 2021-07-14 | |
+| PR32 | 2021-07-21 | |
 
 ## Storylines
 

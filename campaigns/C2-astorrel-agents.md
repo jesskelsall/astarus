@@ -13,10 +13,17 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Yialdred Korina](../characters/yialdred-korina.md) | [Noon Schiller](../characters/noon-schiller.md) | [Ephaine Seren](../characters/ephaine-seren.md) |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/3856f570c58374b4.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/ec514d55f424de69.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/3840bf1d6c005683.png" height="400" /> |
 
+## Format
+
+|||
+|---|---|
+| **Session Length** | 4 hours |
+| **Session Frequency** | Fortnightly |
+| **Location** | Discord |
+
 ## Links
 
 - [Astorrel Agents at D&D Beyond](https://www.dndbeyond.com/campaigns/1620558)
-- [Astorrel Agents Days](days.md)
 - [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 ## Former Player Characters & Guests
@@ -33,7 +40,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 ## Sessions
 
 | Session | Date | Title |
-|:---:| --- | --- |
+|---| --- | --- |
 | [AA00](../sessions/AA00.md) | 2021-01-02 | *Session Zero* |
 | [AA01](../sessions/AA01.md) | 2021-01-16 | *[Astorrel Graduation](../storylines/ended/astorrel-graduation.md)* |
 | [AA02](../sessions/AA02.md) | 2021-01-30 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md)* |
@@ -46,8 +53,9 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA09](../sessions/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)* |
 | [AA10](../sessions/AA10.md) | 2021-06-12 | *Dark Steel, Darker Sewers* |
 | [AA11](../sessions/AA11.md) | 2021-06-26 | *Syntenne Spy Showdown* |
+| [AA12](../sessions/AA12.md) | 2021-07-10 | *Forget What You Saw Here* |
 ||
-| [AA12](../sessions/AA12.md) | 2021-07-10 | |
+| AA13 | 2021-07-24 | |
 
 ## Storylines
 
