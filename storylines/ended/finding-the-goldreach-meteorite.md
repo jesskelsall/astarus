@@ -7,19 +7,19 @@
 
 ## Summary
 
-The [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), which crash landed near the town of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), hasn't been found by anyone in two days and counting. [Wrenn Piznarck](../../characters/wrenn-piznarck.md) tasks the [Purple Rain](../../campaigns/purple-rain.md) party with finding it for him.
+The [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), which crash landed near the town of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), hasn't been found by anyone in two days and counting. [Wrenn Piznarck](../../characters/wrenn-piznarck.md) tasks the [Purple Rain](../../campaigns/C1-purple-rain.md) party with finding it for him.
 
 ## History
 
-### [Purple Rain](../../campaigns/purple-rain.md) Prelude
+### [Purple Rain](../../campaigns/C1-purple-rain.md) Prelude
 
-Two days before the [Purple Rain](../../campaigns/purple-rain.md) campaign begins, a meteor falls from the sky and impacts north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), on the edge of the [Hawkswood](../../places/forests/hawkswood.md) ([Hawkswood North East](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-north-east.md)), punching a hole through a cave ([Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md)) where it came to rest.
+Two days before the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign begins, a meteor falls from the sky and impacts north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), on the edge of the [Hawkswood](../../places/forests/hawkswood.md) ([Hawkswood North East](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-north-east.md)), punching a hole through a cave ([Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md)) where it came to rest.
 
 Since then, many people have came to [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to find it, including [Wrenn Piznarck](../../characters/wrenn-piznarck.md), who arrived from [Northhaven](../../places/cities/northhaven.md) in search of the [meteorite](../../items/meteoric/meteorite.md). Nobody has managed to find it yet.
 
 ### [PR01](../../sessions/PR01.md)
 
-During [Alistair Hawthorn](../../characters/alistair-hawthorn.md)'s inspection of [The Slippery Weasel](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) inn, the [Purple Rain](../../campaigns/purple-rain.md) party, who are sitting together, are approached by [Wrenn Piznarck](../../characters/wrenn-piznarck.md). He asks them what they know about the meteor. They tell him they don't know much. In response he explains that he is looking for it, and is paying up to 50 gp if people can help him, with the full amount given to those who return the actual [meteorite](../../items/meteoric/meteorite.md) to him.
+During [Alistair Hawthorn](../../characters/alistair-hawthorn.md)'s inspection of [The Slippery Weasel](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) inn, the [Purple Rain](../../campaigns/C1-purple-rain.md) party, who are sitting together, are approached by [Wrenn Piznarck](../../characters/wrenn-piznarck.md). He asks them what they know about the meteor. They tell him they don't know much. In response he explains that he is looking for it, and is paying up to 50 gp if people can help him, with the full amount given to those who return the actual [meteorite](../../items/meteoric/meteorite.md) to him.
 
 The party doesn't initially take him up on his offer. Wrenn tells them to find him at 12 [Flute Street](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/flute-street.md) ([Alistair Hawthorn's House](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md)) if they wish to accept.
 

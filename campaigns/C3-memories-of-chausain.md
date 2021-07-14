@@ -71,8 +71,8 @@ Each group picks an organisation from the options available. The only discernibl
 | Wax Seal | Wax Colour | Organisation | TCoE Patron | Bonuses |
 | --- | --- | --- | --- | --- |
 | Dragonfly | Mint | | Criminal Syndicate (p91) | |
-| Fox | Gold | | Guild (p93) | Can choose Vulpus race. |
-| Mechanical clock | White | {Valnos} | Religious Order (p98) | |
+| Fox | Gold | | Guild (p93) | Can choose [Vulpus](../lineages/vulpus.md) race. |
+| Mechanical clock | White | {[Valnos](../gods/deities/valnos.md)} | Religious Order (p98) | |
 | Paper crane | Purple | | Aristocrat (p89) | |
 
 ### Race

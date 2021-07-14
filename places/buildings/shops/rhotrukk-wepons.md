@@ -45,6 +45,6 @@ Rhotrukk can also be requested to make a standard weapon on a DC 15 persuasion c
 
 ## Planning
 
-### [Astorrel Agents](../../../campaigns/astorrel-agents.md)
+### [Astorrel Agents](../../../campaigns/C2-astorrel-agents.md)
 
 Rhotrukk is working away at his forge as usual, unaware or unbothered by the increasing interest in his wares today.

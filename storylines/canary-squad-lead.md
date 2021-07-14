@@ -7,7 +7,7 @@
 
 ## Summary
 
-The newly formed [Canary Squad](../organisations/astorrel/squads/canary-squad.md), made up of the [Astorrel Agents](../campaigns/astorrel-agents.md) party, needs an [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md). [Bryce Morton](../characters/bryce-morton.md) must decide who is best suited for the promotion.
+The newly formed [Canary Squad](../organisations/astorrel/squads/canary-squad.md), made up of the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) party, needs an [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md). [Bryce Morton](../characters/bryce-morton.md) must decide who is best suited for the promotion.
 
 ## Mission
 

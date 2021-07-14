@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Noon Schiller](../characters/noon-schiller.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) | [AA07](../sessions/AA07.md) - |
+| [Noon Schiller](../characters/noon-schiller.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) | [AA07](../sessions/AA07.md) - |

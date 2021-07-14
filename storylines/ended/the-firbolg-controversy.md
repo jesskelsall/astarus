@@ -13,7 +13,7 @@ The conscription of [Wizira's Father](../../characters/wiziras-father.md) based 
 
 ## History
 
-### [Purple Rain](../../campaigns/purple-rain.md) Prelude
+### [Purple Rain](../../campaigns/C1-purple-rain.md) Prelude
 
 Firbolgs have existed in [South East Kardan](../../places/regions/south-east-kardan.md) for at least as long as the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) has. They keep to themselves in their tribal settlements, deep in the woods of Astor.
 
@@ -51,7 +51,7 @@ While in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum]
 
 The [Astornar](../../organisations/astornar.md) trial for the firbolg controversy takes place.
 
-Prior to the [Purple Rain](../../campaigns/purple-rain.md) party's arrival for the witness phase, the debate phase takes place. The [Astorrel](../../organisations/astorrel/astorrel.md)'s argument is lead by [Rowan Great Sile](../../characters/rowan-great-sile.md).
+Prior to the [Purple Rain](../../campaigns/C1-purple-rain.md) party's arrival for the witness phase, the debate phase takes place. The [Astorrel](../../organisations/astorrel/astorrel.md)'s argument is lead by [Rowan Great Sile](../../characters/rowan-great-sile.md).
 
 During the witness phase, [Wizira](../../characters/wizira.md) is called as the [Astorrel](../../organisations/astorrel/astorrel.md)'s primary witness of what happened to [Wizira's Father](../../characters/wiziras-father.md), with the aim of painting their plight as sympathetic and indicative of the hardships faced by many firbolgs. [Wizira](../../characters/wizira.md) gives an accurate testimony on the circumstances of her father's disappearance as well as the lengths the party and her have gone to while trying to get him back.
 

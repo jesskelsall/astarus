@@ -24,7 +24,7 @@
 
 ## Summary
 
-Whisper on the Breeze is a former player character in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by [Brooke](../players/brooke.md).
+Whisper on the Breeze is a former player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Brooke](../players/brooke.md).
 
 ## Character Rolls
 

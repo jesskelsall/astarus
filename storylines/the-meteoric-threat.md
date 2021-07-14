@@ -13,9 +13,9 @@ Strange meteors are bringing unknown and dangerous creatures to Astor. Their dan
 
 ## History
 
-### [Purple Rain](../campaigns/purple-rain.md) Prelude
+### [Purple Rain](../campaigns/C1-purple-rain.md) Prelude
 
-6 months prior to the start of the [Purple Rain](../campaigns/purple-rain.md) campaign, [Astral Squad](../organisations/astorrel/squads/astral-squad.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../organisations/astorrel/astorrel.md) mission duties.
+6 months prior to the start of the [Purple Rain](../campaigns/C1-purple-rain.md) campaign, [Astral Squad](../organisations/astorrel/squads/astral-squad.md) notices strange meteors crashing to the ground within the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). They take it upon themselves to investigate them outside of their regular [Astorrel](../organisations/astorrel/astorrel.md) mission duties.
 
 For the last 6 months, a meteor has fallen roughly once a month.
 
@@ -25,7 +25,7 @@ Wrenn intends to find the [meteorite](../items/meteoric/meteorite.md) and return
 
 ### [PR01](../sessions/PR01.md)
 
-[Wrenn Piznarck](../characters/wrenn-piznarck.md) meets the [Purple Rain](../campaigns/purple-rain.md) party, offering them up to 50 gp if they are able to bring him evidence of the [meteorite](../items/meteoric/meteorite.md) - ideally the [meteorite](../items/meteoric/meteorite.md) itself.
+[Wrenn Piznarck](../characters/wrenn-piznarck.md) meets the [Purple Rain](../campaigns/C1-purple-rain.md) party, offering them up to 50 gp if they are able to bring him evidence of the [meteorite](../items/meteoric/meteorite.md) - ideally the [meteorite](../items/meteoric/meteorite.md) itself.
 
 ### [PR06](../sessions/PR06.md)
 
@@ -69,7 +69,7 @@ When she asks the party if they would be interested in doing so, they respond in
 
 ### [PR20](../sessions/PR20.md)
 
-Following the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), [Levelle Tristwix](../characters/levelle-tristwix.md) makes the party an offer to join the [Astorrel](../organisations/astorrel/astorrel.md). As part of this they vaguely mention that [Elysia Vanderboss](../characters/elysia-vanderboss.md) has informed them of the work her squad has been doing, and that the [Purple Rain](../campaigns/purple-rain.md) party's help in continuing that work would be appreciated.
+Following the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), [Levelle Tristwix](../characters/levelle-tristwix.md) makes the party an offer to join the [Astorrel](../organisations/astorrel/astorrel.md). As part of this they vaguely mention that [Elysia Vanderboss](../characters/elysia-vanderboss.md) has informed them of the work her squad has been doing, and that the [Purple Rain](../campaigns/C1-purple-rain.md) party's help in continuing that work would be appreciated.
 
 ### [PR21](../sessions/PR21.md)
 

@@ -24,7 +24,7 @@
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain.md)
+### [Purple Rain](../../campaigns/C1-purple-rain.md)
 
 In order to get onto Humar Estuary by land, [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) will need to pass through Fort Eldrick. The [Astornox](../../organisations/astornox/astornox.md) stationed there do not like the [Astorrel](../../organisations/astorrel/astorrel.md) and their incessant coming and going. It will be a challenge to even get onto the estuary.
 

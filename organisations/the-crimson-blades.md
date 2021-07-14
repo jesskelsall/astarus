@@ -23,7 +23,7 @@ The Crimson Blades is a mercenary organisation based out of Carnmere. Their lead
 
 ## History
 
-### [Purple Rain](../campaigns/purple-rain.md) Prelude
+### [Purple Rain](../campaigns/C1-purple-rain.md) Prelude
 
 [Wrenn Piznarck](../characters/wrenn-piznarck.md) traveled to Carnmere to search for the [Carnmere Meteorite](../items/meteoric/meteorites/carnmere-meteorite.md). Here, without the knowledge of the rest of [Astral Squad](astorrel/squads/astral-squad.md), he hired The Crimson Blades to retrieve the [meteorite](../items/meteoric/meteorite.md) for him, offering to pay them more substantially when they returned with it.
 

@@ -7,7 +7,7 @@
 
 ## Summary
 
-The [Purple Rain](../../campaigns/purple-rain.md) party members all cross paths in [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), centered around the appearance of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md).
+The [Purple Rain](../../campaigns/C1-purple-rain.md) party members all cross paths in [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), centered around the appearance of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md).
 
 ## History
 

@@ -9,13 +9,13 @@
 
 [Wizira](../../characters/wizira.md) returns from a trip to [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to her house ([Wizira's House](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/wiziras-house.md)) to find her father ([Wizira's Father](../../characters/wiziras-father.md)) missing. Where has he gone?
 
-Having been captured by the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../../organisations/astornox/astornox.md) for being a [magicborn](../../civilisations/kingdom-of-astor/magicborn.md), he is shipped to [Northhaven](../../places/cities/northhaven.md) where he will be conscripted. It is up to the [Purple Rain](../../campaigns/purple-rain.md) party to stop this and return him home.
+Having been captured by the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../../organisations/astornox/astornox.md) for being a [magicborn](../../civilisations/kingdom-of-astor/magicborn.md), he is shipped to [Northhaven](../../places/cities/northhaven.md) where he will be conscripted. It is up to the [Purple Rain](../../campaigns/C1-purple-rain.md) party to stop this and return him home.
 
 ## History
 
-### [Purple Rain](../../campaigns/purple-rain.md) Prelude
+### [Purple Rain](../../campaigns/C1-purple-rain.md) Prelude
 
-Nearly two days prior to the start of the [Purple Rain](../../campaigns/purple-rain.md) campaign and the day after the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) crashed down near the town of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), [Wizira](../../characters/wizira.md) returned home from  a bustling [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to find her father missing.
+Nearly two days prior to the start of the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign and the day after the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) crashed down near the town of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), [Wizira](../../characters/wizira.md) returned home from  a bustling [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to find her father missing.
 
 Their house's door had been kicked in and there were signs of a struggle, but no evidence of where her father was.
 
@@ -25,7 +25,7 @@ After searching their part of the Hawkwswood around their house, [Wizira](../../
 
 When Heather Pentz finds [Wizira](../../characters/wizira.md) in her secret garden, [Wizira](../../characters/wizira.md) tells her of what happened. Unsure what she can do to help, Heather offers to search for any information she can, before giving [Wizira](../../characters/wizira.md) 1 gp to spend to take her mind off things.
 
-Later, after meeting the rest of the [Purple Rain](../../campaigns/purple-rain.md) party in [The Slippery Weasel](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md), [Wrenn Piznarck](../../characters/wrenn-piznarck.md) sees through [Wizira](../../characters/wizira.md)'s *Disguise Self* spell and blackmails her into helping him, or be reported to the [Astornox](../../organisations/astornox/astornox.md) for being a [magicborn](../../civilisations/kingdom-of-astor/magicborn.md).
+Later, after meeting the rest of the [Purple Rain](../../campaigns/C1-purple-rain.md) party in [The Slippery Weasel](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md), [Wrenn Piznarck](../../characters/wrenn-piznarck.md) sees through [Wizira](../../characters/wizira.md)'s *Disguise Self* spell and blackmails her into helping him, or be reported to the [Astornox](../../organisations/astornox/astornox.md) for being a [magicborn](../../civilisations/kingdom-of-astor/magicborn.md).
 
 Wrenn suggests that he may be able to help her locate her father if she is cooperative.
 

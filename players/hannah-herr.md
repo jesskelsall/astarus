@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Thanea Morlay](../characters/thanea-morlay.md) | [Purple Rain](../campaigns/purple-rain.md) | [PR00](../sessions/PR00.md) - |
+| [Thanea Morlay](../characters/thanea-morlay.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/PR00.md) - |

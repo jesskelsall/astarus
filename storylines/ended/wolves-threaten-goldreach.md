@@ -11,9 +11,9 @@ Wolves roam the plains and forests surrounding [Goldreach](../../civilisations/k
 
 ## History
 
-### [Purple Rain](../../campaigns/purple-rain.md) Prelude
+### [Purple Rain](../../campaigns/C1-purple-rain.md) Prelude
 
-6 months prior to the [Purple Rain](../../campaigns/purple-rain.md) campaign, at the beginning of spring, the wolves that live near [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) moved from the north east to north west, making residence in the [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). From here, their numbers swelled.
+6 months prior to the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign, at the beginning of spring, the wolves that live near [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) moved from the north east to north west, making residence in the [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). From here, their numbers swelled.
 
 Their attacks were infrequent and opportunistic, usually happening at night against easy pickings or foolish wanderers. As livestock and person death counts increased, the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../../organisations/astornox/astornox.md) took an interest in culling the wolves, but were never able to find their den.
 
@@ -23,7 +23,7 @@ Cleo Hurley, the wife of Janus Hurley, was one such victim. She died in the nigh
 
 During the night, the wolf pack in [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md) are attacked from deeper in the cave by the three [Meteoric Watchers](../../creatures/meteoric-watcher.md). They hatched two days ago and have grown big enough to threaten the wolves directly. Many of them are slaughtered, but about half of the pack manage to escape, including the matriarchal dire wolf. They run towards [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in a panicked frenzy. Occasionally a few wolves split from the pack, most returning shortly after.
 
-While the [Purple Rain](../../campaigns/purple-rain.md) party (minus [Wizira](../../characters/wizira.md)) slept at [Holyrook Farm](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/holyrook-farm.md) during their first night in [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), two wolves attacked the cow barn in which they were sleeping. The party killed both wolves.
+While the [Purple Rain](../../campaigns/C1-purple-rain.md) party (minus [Wizira](../../characters/wizira.md)) slept at [Holyrook Farm](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/holyrook-farm.md) during their first night in [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), two wolves attacked the cow barn in which they were sleeping. The party killed both wolves.
 
 [Wizira](../../characters/wizira.md) wakes up at her home ([Wizira's House](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/wiziras-house.md)) to the sound of disturbances on the edge of the forest. She goes to investigate, finding a large pack of wolves running towards [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) from the forest to the north. They are injured and are keeping an eye on their backs as they run.
 
@@ -31,7 +31,7 @@ While the [Purple Rain](../../campaigns/purple-rain.md) party (minus [Wizira](..
 
 The wolf back descends upon the north western edge of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), around the [Four Scythes Inn](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/four-scythes-inn.md). They search the streets and begin breaking down doors, attacking those they find inside.
 
-The [Purple Rain](../../campaigns/purple-rain.md) party, arriving from behind, fights and kills the wolves near the inn, while down the street [Alistair Hawthorn](../../characters/alistair-hawthorn.md) and his morning patrol of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../../organisations/astornox/astornox.md) engage the dire wolf and her guard, killing them all.
+The [Purple Rain](../../campaigns/C1-purple-rain.md) party, arriving from behind, fights and kills the wolves near the inn, while down the street [Alistair Hawthorn](../../characters/alistair-hawthorn.md) and his morning patrol of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../../organisations/astornox/astornox.md) engage the dire wolf and her guard, killing them all.
 
 This puts an end to the wolves threatening [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
 

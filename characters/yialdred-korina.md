@@ -24,7 +24,7 @@
 
 ## Summary
 
-Yialdred Korina is a player campaign in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by [Brooke](../players/brooke.md).
+Yialdred Korina is a player campaign in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Brooke](../players/brooke.md).
 
 ## Character Rolls
 

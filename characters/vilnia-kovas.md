@@ -69,4 +69,4 @@ Keen to learn more she joined the [Astornox](../organisations/astornox/astornox.
 
 ### [PR17](../sessions/PR17.md)
 
-Vilnia Kovas and [Kur Merkys](kur-merkys.md) ambushed the [Purple Rain](../campaigns/purple-rain.md) party, hoping to capture them as [magicborn on the run](../storylines/ended/magicborn-on-the-run.md). During the ensuing battle on [Kirrel](../gods/deities/kirrel.md) Street Vilnia was killed by a combination of attacks from the party.
+Vilnia Kovas and [Kur Merkys](kur-merkys.md) ambushed the [Purple Rain](../campaigns/C1-purple-rain.md) party, hoping to capture them as [magicborn on the run](../storylines/ended/magicborn-on-the-run.md). During the ensuing battle on [Kirrel](../gods/deities/kirrel.md) Street Vilnia was killed by a combination of attacks from the party.

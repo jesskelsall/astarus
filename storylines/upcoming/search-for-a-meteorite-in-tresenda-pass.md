@@ -24,7 +24,7 @@
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain.md)
+### [Purple Rain](../../campaigns/C1-purple-rain.md)
 
 [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../../creatures/meteoric-watcher.md).
 

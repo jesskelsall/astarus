@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Ephaine Seren](../characters/ephaine-seren.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) | [AA00](../sessions/AA00.md) - |
+| [Ephaine Seren](../characters/ephaine-seren.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) | [AA00](../sessions/AA00.md) - |

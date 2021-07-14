@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Ahsha Sallas](../characters/ahsha-sallas.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) | [AA00](../sessions/AA00.md) - |
+| [Ahsha Sallas](../characters/ahsha-sallas.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) | [AA00](../sessions/AA00.md) - |

@@ -53,7 +53,7 @@ Eventually he came to believe he had no opportunities in [Eskrigg](../places/cit
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/C2-astorrel-agents.md)
 
 Sharakas is aware of the problems with the logging operation through what he's heard from his patrons. He does not know what exactly is causing the problems beyond "something in the forest".
 

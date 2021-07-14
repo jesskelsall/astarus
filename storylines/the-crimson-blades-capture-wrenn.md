@@ -7,11 +7,11 @@
 
 ## Summary
 
-While the [Purple Rain](../campaigns/purple-rain.md) party are on the run from the [Astornox](../organisations/astornox/astornox.md) with [Wrenn Piznarck](../characters/wrenn-piznarck.md), [The Crimson Blades](../organisations/the-crimson-blades.md) catch up with Wrenn, capturing him so that he can pay his debt to them, one way or another.
+While the [Purple Rain](../campaigns/C1-purple-rain.md) party are on the run from the [Astornox](../organisations/astornox/astornox.md) with [Wrenn Piznarck](../characters/wrenn-piznarck.md), [The Crimson Blades](../organisations/the-crimson-blades.md) catch up with Wrenn, capturing him so that he can pay his debt to them, one way or another.
 
 ## History
 
-### [Purple Rain](../campaigns/purple-rain.md) Prelude
+### [Purple Rain](../campaigns/C1-purple-rain.md) Prelude
 
 Prior to [PR12](../sessions/PR12.md), [Stalker](../characters/stalker.md) sends [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../characters/wrenn-piznarck.md). They trailed him to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../organisations/astornox/astornox.md) while staying at [Alistair Hawthorn's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md).
 

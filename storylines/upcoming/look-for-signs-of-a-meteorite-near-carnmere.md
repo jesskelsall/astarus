@@ -24,7 +24,7 @@
 
 ## Planning
 
-### [Purple Rain](../../campaigns/purple-rain.md)
+### [Purple Rain](../../campaigns/C1-purple-rain.md)
 
 [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) will find Carnmere is home to [the Crimson Blades](../../organisations/the-crimson-blades.md), the criminal organisation that captured [Wrenn Piznarck](../../characters/wrenn-piznarck.md). [Morog Whiteknuckle](../../characters/morog-whiteknuckle.md) will confront the party if they are conspicuous in Carnmere.
 

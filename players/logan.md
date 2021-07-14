@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) | [Astorrel Agents](../campaigns/astorrel-agents.md) (former) | [AA00](../sessions/AA00.md) - [AA09](../sessions/AA09.md) |
+| [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) (former) | [AA00](../sessions/AA00.md) - [AA09](../sessions/AA09.md) |

@@ -24,7 +24,7 @@
 
 ## Summary
 
-Redwyn Humpledopper is a former player character in the [Astorrel Agents](../campaigns/astorrel-agents.md) campaign, played by [Logan](../players/logan.md).
+Redwyn Humpledopper is a former player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Logan](../players/logan.md).
 
 ## Character Rolls
 

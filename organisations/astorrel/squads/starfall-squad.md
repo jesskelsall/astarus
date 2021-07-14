@@ -14,7 +14,7 @@
 
 ## Summary
 
-Starfall Squad is the [Astorrel](../astorrel.md) squad that the party members of the [Purple Rain](../../../campaigns/purple-rain.md) campaign belong to.
+Starfall Squad is the [Astorrel](../astorrel.md) squad that the party members of the [Purple Rain](../../../campaigns/C1-purple-rain.md) campaign belong to.
 
 ## Missions
 

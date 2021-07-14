@@ -29,6 +29,6 @@ In the following aftermath, Adalie helped quickly prepare provisions for Ephaine
 
 ## Planning
 
-### [Astorrel Agents](../campaigns/astorrel-agents.md)
+### [Astorrel Agents](../campaigns/C2-astorrel-agents.md)
 
 [Ephaine Seren](ephaine-seren.md) has had no contact with her mother since she left. She doesn't know if she is still alive.
