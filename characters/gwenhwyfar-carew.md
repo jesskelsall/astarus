@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Gwenhwyfar Carew | character.3
+| **Name** | Gwenhwyfar "Lia" Carew | character.3
 | **Lineage** | Kalashtar |
 | **Pronouns** | she/her |
 | **Age** | 45 |

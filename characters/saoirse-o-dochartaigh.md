@@ -10,7 +10,7 @@
 | **Age** | |
 | **Class** | Warlock |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | [Mykiel](mykiel.md) (father, deva)<br>[Effie Silttooth](effie-silttooth.md) (patron) |
+| **Relations** | [Mykiel](mykiel.md) (father, deva)<br>[Effie Silttooth](effie-silttooth.md) (Warlock patron) |
 | **Places** | |
 |||
 | **Citizenship** | |

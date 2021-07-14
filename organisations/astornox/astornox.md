@@ -8,7 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | [Itharmund Steeleye](../../characters/itharmund-steeleye.md) |
 | **Patron** | [Gormox](../../gods/deities/gormox.md) |
-| **Location(s)** | South East Kardan |
+| **Location(s)** | [South East Kardan](../../places/regions/south-east-kardan.md) |
 |||
 | **Image ID** | `a66efa0a8b232cdc` |
 

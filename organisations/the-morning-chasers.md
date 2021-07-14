@@ -6,7 +6,7 @@
 | **Civilisation** | |
 | **Leader** | [Janneke Borflast](../characters/janneke-borflast.md) |
 | **Patron** | |
-| **Location(s)** | The Dog's Groke |
+| **Location(s)** | [The Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md) |
 |||
 | **Image ID** | |
 

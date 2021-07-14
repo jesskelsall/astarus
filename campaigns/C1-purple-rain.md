@@ -73,7 +73,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR29](../sessions/PR29.md) | 2021-06-30 | *First Floor Fiasco* |
 | [PR30](../sessions/PR30.md) | 2021-07-07 | *Mission Complete* |
 ||
-| PR31 | 2021-07-14 | |
+| [PR31](../sessions/PR31.md) | 2021-07-14 | |
 | PR32 | 2021-07-21 | |
 
 ## Storylines
