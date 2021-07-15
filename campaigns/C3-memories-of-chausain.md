@@ -4,7 +4,7 @@
 
 ## Premise
 
-TODO
+> Within the varied and colourful city states of the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), two influential organisations cross paths over an intriguing artefact. It may hold clues to the tragic fate of the legendary city of Chausain...
 
 ## Party Members
 
