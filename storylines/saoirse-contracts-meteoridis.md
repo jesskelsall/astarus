@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [PR07](../sessions/PR07.md) | storyline.2
-| **Session Ended** | |
+| **Session Ended** | [PR30](../sessions/PR30.md) |
 
 ## Summary
 
@@ -16,6 +16,8 @@ While fighting the [Meteoric Watchers](../creatures/meteoric-watcher.md) in [Haw
 During the fight with the [Meteoric Watchers](../creatures/meteoric-watcher.md) in [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), [Saoirse](../../../astarus/people/saoirse.md) throws her entire body on top of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) in an attempt to hide the purple glow which she believed may have been benefitting the watchers in the cave.
 
 She immediately passed out on top of the [meteorite](../items/meteoric/meteorite.md). While unconscious, she dreamed of a evening's sky filled with stars, all beginning to move in tandem, shifting from white to purple as they accelerated. It felt good, and she wished to be back in the cave, close to the [meteorite](../items/meteoric/meteorite.md) and the watchers. Here [Meteoridis](../mechanics/roleplay/meteoridis.md) compulsions began.
+
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) becomes cursed with [Meteoridis](../mechanics/roleplay/meteoridis.md).]*
 
 When [Wizira](../characters/wizira.md) wild shaped into a horse kicked the [meteorite](../items/meteoric/meteorite.md), [Saoirse](../../../astarus/people/saoirse.md) immediately woke up. She was able to rejoin the fight, but was compelled to grab the [meteorite](../items/meteoric/meteorite.md) as she went.
 
@@ -86,3 +88,19 @@ Ultimately Slaine turns into a [Meteoric Humanoid](../creatures/meteoric-humanoi
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) witnesses [Slaine Alabaster](../characters/slaine-alabaster.md) turn into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md), terrifying her to the point of fleeing the first floor of [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md). Only when she hears her party suffering greatly at its hands does she return to intervene.
 
 When the creature is defeated, she looks upon the fleshy remains of Slaine, unrecognisable due to the amount of damage the [meteoric dust](../items/meteoric/meteoric-dust.md) did to it. After bringing [Kieran Bennington](../characters/kieran-bennington.md) back to consciousness she vomits from shock, before running to fetch [Elysia Vanderboss](../characters/elysia-vanderboss.md).
+
+### [PR30](../sessions/PR30.md)
+
+In [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md) after she brings [Elysia Vanderboss](../characters/elysia-vanderboss.md) to survey the remains of [Slaine Alabaster](../characters/slaine-alabaster.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) tells Elysia that she is drawn to the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) in the same way that Slaine was the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md), and that she worries that in several weeks she will transform into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md) much like he did.
+
+This troubles Elysia who keeps an eye on Saoirse, particularly after she retrieves Torbra's iron pot of [meteoric dust](../items/meteoric/meteoric-dust.md).
+
+While heading back to [Tenterfell House](../places/buildings/tenterfell-house.md), Elysia tells Saoirse to stay with her as she wants her to meet someone that may be able to help her.
+
+Back at [Tenterfell House](../places/buildings/tenterfell-house.md) Saoirse once again speaks with Elysia, asking directly for her help in combating the compulsions she feels. Elysia tells her that [Mergin Thorgus](../characters/mergin-thorgus.md) owes her a favour, so she leaves immediately to retrieve him.
+
+On their return Mergin speaks to Saoirse about how she feels, finding it unlikely to be a simple matter of weakness. When Saoirse off-handedly uses the word "curse" to describe how she feels, Mergin has an idea. He casts Remove Curse on her rather suddenly, causing her to fall unconscious.
+
+When she wakes up 5 minutes later all of her compulsions are gone and she feels refreshed and energised. She and Elysia thank Mergin for his help, the favour cashed in.
+
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer cursed with [Meteoridis](../mechanics/roleplay/meteoridis.md).]*

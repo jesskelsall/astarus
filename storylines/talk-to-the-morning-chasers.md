@@ -20,6 +20,33 @@
 | **Time Limit** | 1 day |
 | **Reward** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md): 25 gp<br>[Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md): 20 gp |
 
+## Mission Report
+
+### Mission Outcome
+
+| Detail | Skill Check | Roll |
+| --- |:---:|:---:|
+| Found [the Morning Chasers](../organisations/the-morning-chasers.md) in the [Sunrise District](../places/districts/sunrise-district.md) at [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md). | Persuasion | 15 |
+| The inn was locked. They circled the building before breaking in. | Persuasion | 6 |
+| Found [Janneke Borflast](../characters/janneke-borflast.md) inside. Got into combat with her but diffused the situation and negotiated with her. | Persuasion | 10 |
+| [Slaine Alabaster](../characters/slaine-alabaster.md) found holding the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md), refusing to let go. | Persuasion | 18 |
+| [Wizira](../characters/wizira.md) cast Dispel Magic on the [meteorite](../items/meteoric/meteorite.md).<br>*(Reality: [Kieran Bennington](../characters/kieran-bennington.md) did)* | Deception | 3 |
+| The [meteorite](../items/meteoric/meteorite.md) dissolved, transforming [Slaine Alabaster](../characters/slaine-alabaster.md) into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md). | Persuasion | 9 |
+| [Torbra Tauff](../characters/torbra-tauff.md) and [Wizira](../characters/wizira.md) grappled the [Meteoric Humanoid](../creatures/meteoric-humanoid.md), but it had a powerful wailing attack which knocked [Wizira](../characters/wizira.md) and [Thanea Morlay](../characters/thanea-morlay.md) unconscious. | Persuasion | 16 |
+| Tried to kill the [Meteoric Humanoid](../creatures/meteoric-humanoid.md). Doing it damage removed [meteoric dust](../items/meteoric/meteoric-dust.md) from its body. | Persuasion | 7 |
+| [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) stabilised [Thanea Morlay](../characters/thanea-morlay.md), [Janneke Borflast](../characters/janneke-borflast.md) stabilised [Wizira](../characters/wizira.md) and [Kieran Bennington](../characters/kieran-bennington.md). | Persuasion | 14 |
+| [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) ran for help, returning with [Elysia Vanderboss](../characters/elysia-vanderboss.md) who intervened. | Persuasion | 1 |
+| The [meteoric dust](../items/meteoric/meteoric-dust.md) tried to reform. [Torbra Tauff](../characters/torbra-tauff.md) scooped what was left into an iron pot. | Persuasion | 18 |
+
+### Squad Performance
+
+| Dice | Character | Justification | Roll |
+|:---:| --- | --- |:---:|
+| d12 | [Torbra Tauff](../characters/torbra-tauff.md) | Grappled the [Meteoric Humanoid](../creatures/meteoric-humanoid.md), saved [Kieran Bennington](../characters/kieran-bennington.md)'s life. | 8 |
+| d10 | [Thanea Morlay](../characters/thanea-morlay.md) | Did lots of damage to the [Meteoric Humanoid](../creatures/meteoric-humanoid.md), took an active role in trying to stop it. | 8 |
+| d8 | [Wizira](../characters/wizira.md) | Grappled the [Meteoric Humanoid](../creatures/meteoric-humanoid.md) but was knocked out quickly. | 4 |
+| d6 | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | Didn't do much in combat but got [Elysia Vanderboss](../characters/elysia-vanderboss.md)' help and helped to stabilised the downed. | 5 |
+
 ## History
 
 ### [PR27](../sessions/PR27.md)
@@ -61,3 +88,19 @@ While the party lick their wounds, the [meteoric dust](../items/meteoric/meteori
 [Wizira](../characters/wizira.md) tries heating the dust with Produce Flame to subdue it, but it does little. As a result she throws the pot across the room, scattering half of its contents across the floor. She watches as the dust left in the opening of the sideways pot slinks deeper inside, tipping the pot upright in the process, while the dust on the floor starts moving towards the pot.
 
 [Kieran Bennington](../characters/kieran-bennington.md) rushes over to the pot and casts Dispel Magic, rendering all of the dust inert and motionless. [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) scoop up most of the dust and place it in Torbra's pot.
+
+### [PR30](../sessions/PR30.md)
+
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) retrieves [Elysia Vanderboss](../characters/elysia-vanderboss.md) from [Tenterfell House](../places/buildings/tenterfell-house.md). The pair run back across the city to [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md).
+
+Here Elysia asks [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) what happened, particularly interested in the corpse of [Slaine Alabaster](../characters/slaine-alabaster.md). Torbra recants the series of events leading up to and including their fight with the [Meteoric Watcher](../creatures/meteoric-watcher.md). Elysia collects the iron pot full of [Meteoric Dust](../items/meteoric/meteoric-dust.md), wishing to return it to [Tenterfell House](../places/buildings/tenterfell-house.md) immediately.
+
+Elysia also sees [Kieran Bennington](../characters/kieran-bennington.md) and [Janneke Borflast](../characters/janneke-borflast.md). She chastises the latter for keeping the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md) secret from [Astral squad](../organisations/astorrel/squads/astral-squad.md), asking her if she was hiding anything else. She assures Elysia that she was not.
+
+With Elysia leaving, [Wizira](../characters/wizira.md) carries out Janneke's wish for Slaine's corpse to be burned. Despite Elysia warning her not to burn the building down, she burns it on the landing upstairs, setting the floor alight and causing it to give way. Slaine's body crashed through the floor, down to a table in the tavern below, setting the table and floor on fire. Collectively the party manage to put the fire out before the building sets on fire, but Elysia is furious that [Wizira](../characters/wizira.md) almost immediately ignored her warning.
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) accompany Elysia back to [Tenterfell House](../places/buildings/tenterfell-house.md). Here Elysia keeps the iron pot of [meteoric dust](../items/meteoric/meteoric-dust.md) and compares it to the pouch of dust that [Thanea Morlay](../characters/thanea-morlay.md) handed over to her, finding it similar.
+
+[Torbra Tauff](../characters/torbra-tauff.md) is given instructions on how to write her mission report, which will allow her to formally close the mission and get them their pay. While Elysia is out of the room she sits with Saoirse and Thanea. They provide a mostly truthful account of events, but all agree not to mention that [Kieran Bennington](../characters/kieran-bennington.md) is [magicborn](../civilisations/kingdom-of-astor/magicborn.md), instead lying that [Wizira](../characters/wizira.md) cast Dispel Magic on the [meteorite](../items/meteoric/meteorite.md).
+
+Satisfied with the report, Elysia collects it and pays [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) for their mission.

@@ -72,8 +72,8 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR28](../sessions/PR28.md) | 2021-06-23 | *[The Morning Chasers](../organisations/the-morning-chasers.md)* |
 | [PR29](../sessions/PR29.md) | 2021-06-30 | *First Floor Fiasco* |
 | [PR30](../sessions/PR30.md) | 2021-07-07 | *Mission Complete* |
-||
 | [PR31](../sessions/PR31.md) | 2021-07-14 | |
+||
 | PR32 | 2021-07-21 | |
 
 ## Storylines
@@ -87,7 +87,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [The Meteoric Threat](../storylines/the-meteoric-threat.md) | [PR01](../sessions/PR01.md) | |
 | [Torbra's Giant Lineage](../storylines/torbras-giant-lineage.md) | [PR01](../sessions/PR01.md) | |
 | [Wolves Threaten Goldreach](../storylines/ended/wolves-threaten-goldreach.md) | [PR02](../sessions/PR02.md) | [PR08](../sessions/PR08.md) |
-| [Saoirse Contracts Meteoridis](../storylines/saoirse-contracts-meteoridis.md) | [PR07](../sessions/PR07.md) | |
+| [Saoirse Contracts Meteoridis](../storylines/saoirse-contracts-meteoridis.md) | [PR07](../sessions/PR07.md) | [PR30](../sessions/PR30.md) |
 | [Magicborn on the Run](../storylines/ended/magicborn-on-the-run.md) | [PR08](../sessions/PR08.md) | [PR20](../sessions/PR20.md) |
 | [Saoirse's Aasimar Cleansing](../storylines/saoirses-aasimar-cleansing.md) | [PR10](../sessions/PR10.md) | |
 | [The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md) | [PR12](../sessions/PR12.md) | |
@@ -96,8 +96,10 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [PR17](../sessions/PR17.md) | |
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [PR18](../sessions/PR18.md) | [PR20](../sessions/PR20.md) |
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | [PR21](../sessions/PR21.md) |
-| [Nature's Battle 27](../storylines/ended/natures-battle-27.md) | [PR21](../sessions/PR21.md) | |
+| [Nature's Battle 27](../storylines/ended/natures-battle-27.md) | [PR21](../sessions/PR21.md) | [PR26](../sessions/PR26.md) |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/PR25.md) | |
 | [Syntenne Spies in Eskrigg](../storylines/syntenne-spies-in-eskrigg.md) | [PR27](../sessions/PR27.md) | [PR27](../sessions/PR27.md) |
 | [Tyburn's Scrying Pool](../storylines/tyburns-scrying-pool.md) | [PR27](../sessions/PR27.md) | |
-| [Talk to the Morning Chasers](../storylines/talk-to-the-morning-chasers.md) | [PR27](../sessions/PR27.md) | |
+| [Talk to the Morning Chasers](../storylines/talk-to-the-morning-chasers.md) | [PR27](../sessions/PR27.md) | [PR30](../sessions/PR30.md) |
+| [How to Summon Your Dragon](../storylines/how-to-summon-your-dragon.md) | [PR30](../sessions/PR30.md) | |
+| [Investigate the Humar Meteorite Crater](../storylines/investigate-the-humar-meteorite-crater.md) | [PR30](../sessions/PR30.md) | |

@@ -20,3 +20,5 @@ Starfall Squad is the [Astorrel](../astorrel.md) squad that the party members of
 
 | Mission | Status |
 | --- | --- |
+| [Talk to the Morning Chasers](../../../storylines/talk-to-the-morning-chasers.md) | Complete |
+| [Investigate the Humar Meteorite Crater](../../../storylines/investigate-the-humar-meteorite-crater.md) | In Progress |

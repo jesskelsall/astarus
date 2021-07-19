@@ -114,3 +114,9 @@ Torbra notices the dust coalescing near the corpse. She scoops up what she can i
 [Wizira](../characters/wizira.md) blasts the pot with Produce Flame to little effect. Unimpressed she throws the pot across the room, allowing her to witness a pile of the [meteoric dust](../items/meteoric/meteoric-dust.md) slink back into the pot and tip it upright, while the rest of the dust moves across the floor in its direction.
 
 [Kieran Bennington](../characters/kieran-bennington.md) then rushes over to the pot and casts Dispel Magic, killing the last of the magic in the [meteoric dust](../items/meteoric/meteoric-dust.md) before it can reform into a creature.
+
+### [PR30](../sessions/PR30.md)
+
+[Elysia Vanderboss](../characters/elysia-vanderboss.md) sees the corpse of [Slaine Alabaster](../characters/slaine-alabaster.md) first hand in [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md), with [Torbra Tauff](../characters/torbra-tauff.md) filling her in on the events leading up to his transformation into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md). It is now clear to her that [the Morning Chasers](../organisations/the-morning-chasers.md) found the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md) in Silethwaite.
+
+With their mission complete, [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) embark on their next mission to Humar Estuary to see if they can find any more evidence of the [Humar Meteorite](../items/meteoric/meteorites/humar-meteorite.md).

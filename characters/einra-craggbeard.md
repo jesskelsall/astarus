@@ -1,24 +1,20 @@
-# Hjalmann Craggbeard
+# Einra Craggbeard
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Hjalmann Craggbeard | character.3
+| **Name** | Einra Craggbeard | character.3
 | **Lineage** | Dwarf |
-| **Pronouns** | he/him |
+| **Pronouns** | she/her |
 | **Age** | |
 | **Class** | |
 | **Worship** | |
-| **Relations** | [Einra Craggbeard](einra-craggbeard.md) (daughter) |
+| **Relations** | [Hjalmann Craggbeard](hjalmann-craggbeard.md) (father)<br>[Torbra Tauff](torbra-tauff.md) (childhood friend) |
 | **Places** | Iredale |
 |||
-| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) |
-| **Role** | Settlements / Iredale |
-| **Commanding Officer** | [Overon Nightingale](overon-nightingale.md) |
-| **Subordinates** | |
+| **Citizenship** | |
+| **Organisation** | |
 |||
 | **Image ID** | |
 
