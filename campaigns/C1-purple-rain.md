@@ -18,7 +18,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 |||
 |---|---|
 | **Session Length** | 2 hours |
-| **Session Frequency** | Weekly |
+| **Session Frequency** | Every week |
 | **Location** | Discord |
 
 ## Links
@@ -74,7 +74,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR30](../sessions/PR30.md) | 2021-07-07 | *Mission Complete* |
 | [PR31](../sessions/PR31.md) | 2021-07-14 | |
 ||
-| PR32 | 2021-07-21 | |
+| [PR32](../sessions/PR32.md) | 2021-07-21 | |
 
 ## Storylines
 

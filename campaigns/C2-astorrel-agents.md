@@ -18,7 +18,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 |||
 |---|---|
 | **Session Length** | 4 hours |
-| **Session Frequency** | Fortnightly |
+| **Session Frequency** | Every 2 weeks |
 | **Location** | Discord |
 
 ## Links
