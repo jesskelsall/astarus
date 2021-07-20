@@ -1,4 +1,4 @@
-# Dan Carney
+# Dan
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/60b33c67e5565ed0.png" height="200" />
 

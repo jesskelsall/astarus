@@ -1,4 +1,4 @@
-# Ian Outterside
+# Ian
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/c60389410d58e942.png" height="200" />
 

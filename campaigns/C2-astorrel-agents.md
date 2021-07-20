@@ -8,7 +8,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 
 ## Party Members
 
-| [Billie Schultz](../players/billie-schultz.md) | [Brooke](../players/brooke.md) | [Chloe Pepper](../players/chloe-pepper.md) | [Lily Berry](../players/lily-berry.md) |
+| [Billie](../players/billie.md) | [Brooke](../players/brooke.md) | [Chloe](../players/chloe.md) | [Lily](../players/lily.md) |
 |:---:|:---:|:---:|:---:|
 | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Yialdred Korina](../characters/yialdred-korina.md) | [Noon Schiller](../characters/noon-schiller.md) | [Ephaine Seren](../characters/ephaine-seren.md) |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b0b553e82a907ff3.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/3856f570c58374b4.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/ec514d55f424de69.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/3840bf1d6c005683.png" height="400" /> |
@@ -32,10 +32,10 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | --- | --- | --- |
 | [AA00](../sessions/AA00.md) - [AA06](../sessions/AA06.md) | [Brooke](../players/brooke.md) | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) |
 | [AA00](../sessions/AA00.md) - [AA09](../sessions/AA09.md) | [Logan](../players/logan.md) | [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) |
-| [AA09](../sessions/AA09.md) | [Dan Carney](../players/dan-carney.md) | [Eremus Vitur](../characters/eremus-vitur.md) |
-| [AA09](../sessions/AA09.md) | [Ian Outterside](../players/ian-outterside.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) |
+| [AA09](../sessions/AA09.md) | [Dan](../players/dan.md) | [Eremus Vitur](../characters/eremus-vitur.md) |
+| [AA09](../sessions/AA09.md) | [Ian](../players/ian.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) |
 | [AA09](../sessions/AA09.md) | [John](../players/john.md) | [Uther Wildfang](../characters/uther-wildfang.md) |
-| [AA09](../sessions/AA09.md) | [Scott Salisbury](../players/scott-salisbury.md) | [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) |
+| [AA09](../sessions/AA09.md) | [Scott](../players/scott.md) | [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) |
 
 ## Sessions
 

@@ -1,4 +1,4 @@
-# Chloe Pepper
+# Chloe
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/f6310ea6640f0878.png" height="200" />
 

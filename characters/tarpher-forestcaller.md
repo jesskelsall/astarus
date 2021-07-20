@@ -24,4 +24,4 @@
 
 ## Summary
 
-Tarpher Forestcaller is a guest character for [Nature's Battle 27](../storylines/ended/natures-battle-27.md), played by [Scott Salisbury](../players/scott-salisbury.md).
+Tarpher Forestcaller is a guest character for [Nature's Battle 27](../storylines/ended/natures-battle-27.md), played by [Scott](../players/scott.md).

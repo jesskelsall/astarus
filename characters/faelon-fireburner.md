@@ -24,4 +24,4 @@
 
 ## Summary
 
-Faelon Fireburner is a guest character for [Nature's Battle 27](../storylines/ended/natures-battle-27.md), played by [Ian Outterside](../players/ian-outterside.md).
+Faelon Fireburner is a guest character for [Nature's Battle 27](../storylines/ended/natures-battle-27.md), played by [Ian](../players/ian.md).

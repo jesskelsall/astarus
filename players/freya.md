@@ -1,4 +1,4 @@
-# Freya Terpstra
+# Freya
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/329001bf56c8dcfa.png" height="200" />
 
@@ -7,7 +7,7 @@
 | **Name** | Freya Terpstra | player.3
 | **Pronouns** | she/her |
 | **Country** | `NL 🇳🇱` |
-| **Discord** | `Freya Terpstra#5770` |
+| **Discord** | `Freya#5770` |
 | **Instagram** | [freyajoanne](https://www.instagram.com/freyajoanne/) |
 ||
 | **Image ID** | `329001bf56c8dcfa` |

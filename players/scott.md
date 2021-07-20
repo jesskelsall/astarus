@@ -1,4 +1,4 @@
-# Scott Salisbury
+# Scott
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/e6790e89c1ec9392.png" height="200" />
 

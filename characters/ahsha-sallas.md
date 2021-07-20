@@ -24,7 +24,7 @@
 
 ## Summary
 
-Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Billie Schultz](../players/billie-schultz.md).
+Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Billie](../players/billie.md).
 
 ## Character Rolls
 

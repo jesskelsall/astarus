@@ -1,4 +1,4 @@
-# Jessica Kelsall
+# Jessica
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/f84409a240647b1c.png" height="200" />
 

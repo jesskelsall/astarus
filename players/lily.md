@@ -1,4 +1,4 @@
-# Lily Berry
+# Lily
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/e001a9e332f7a5a9.png" height="200" />
 

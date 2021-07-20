@@ -1,4 +1,4 @@
-# Billie Schultz
+# Billie
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/players/ca55f3d3d73d455e.png" height="200" />
 
