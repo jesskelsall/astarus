@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Dan Carney | player.3
+| **Name** | Daniel Carney | player.3
 | **Pronouns** | he/him |
 | **Country** | `GB 🇬🇧` |
 | **Discord** | `Fwack#8906` |

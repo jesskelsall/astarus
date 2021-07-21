@@ -8,7 +8,7 @@
 
 ## Party Members
 
-| Becca | Rin | Sophie | Vika |
+| [Becca](../players/becca.md) | [Rin](../players/rin.md) | [Sophie](../players/sophie.md) | [Vika](../players/vika.md) |
 |:---:|:---:|:---:|:---:|
 | | | | |
 | | | | |
