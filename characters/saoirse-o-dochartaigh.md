@@ -42,5 +42,6 @@ TODO
 | 2 | [PR03](../sessions/PR03.md) | Warlock | d8 | 6 |
 | 3 | [PR09](../sessions/PR09.md) | Warlock | d8 | 5 |
 | 4 | [PR19](../sessions/PR19.md) | Warlock | d8 | 3 |
+| 5 | [PR30](../sessions/PR30.md) | Warlock | d8 | 7 |
 
 ## Backstory

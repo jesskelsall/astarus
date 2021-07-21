@@ -26,6 +26,24 @@
 
 Following the completion of [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s first mission ([Talk to the Morning Chasers](talk-to-the-morning-chasers.md)), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) debate which of the four offered missions to take next. [Torbra Tauff](../characters/torbra-tauff.md) as [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) makes the decision to head to the Humar Estuary. This is partially motivated by its quick mission deadline and relatively high ratio pay.
 
+### [PR31](../sessions/PR31.md)
+
+#### Day 1
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) gear up for their mission to the Humar Estuary. [Torbra Tauff](../characters/torbra-tauff.md) considers how they might get there, first considering hiring a horse and cart before deciding to try and buy a rowing boat.
+
+The party head to the west of the [Sunset District](../places/districts/sunset-district.md), down to the docks lined with ships of all sizes conducting commerce. She finds several businesses that will sell her a boat for 50 gp. As an alternative she looks for a ship that might be willing to drop them off along their route.
+
+Torbra finds [Dinua Costello](../characters/dinua-costello.md), captain of [the Maiden's Accompaniment](../places/ships/the-maidens-accompaniment.md), who is willing to transport them for 1 gp each (4 gp total). The party agree to the arrangement which will include them sleeping on the deck and jumping overboard once the ship is close to the Humar Estuary.
+
+#### Day 2
+
+On a day filled with heavy rain, low hanging clouds and gusting winds, around mid-morning the party jump overboard as instructed, plunging into the surprisingly deep and murky water below.
+
+While [Wizira](../characters/wizira.md) manages to hold her breath and re-surface with ease, everyone else begins to drown. She soon finds and rescues [Thanea Morlay](../characters/thanea-morlay.md). [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) begins to drown and is losing consciousness fast, while [Torbra Tauff](../characters/torbra-tauff.md) is out of breath but successfully swims to the surface herself. Quick thinking by Thanea to cast Light on her rope and lower it into the depths catch Saoirse's eye. Thanea and Torbra manage to pull Saoirse to the surface.
+
+[Wizira](../characters/wizira.md) uses Wild Shape to turn into a fish, making her way to land. The rest of the party follows her, struggling through the reeds and boggy terrain for a while before reaching relatively dry and firm ground.
+
 ## Planning
 
 ### [Purple Rain](../campaigns/C1-purple-rain.md)
