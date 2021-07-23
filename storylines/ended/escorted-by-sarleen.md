@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR14](../../sessions/PR14.md) | storyline.2
-| **Session Ended** | [PR15](../../sessions/PR15.md) |
+| **Session Started** | [PR14](../../sessions/completed/PR14.md) | storyline.2
+| **Session Ended** | [PR15](../../sessions/completed/PR15.md) |
 
 ## Summary
 
@@ -23,7 +23,7 @@ Not long after being captured, Wrenn is woken up by the movement of the horse he
 
 Hidaar, trusting what his colleague Wrenn has told him, and particularly concerned by the potential stakes, dispatches his [Astorrel Squad Hands](../../organisations/astorrel/ranks/astorrel-squad-hand.md) in search of the party. They split up, each taking a different route from [Ulburn](../../places/villages/ulburn.md) towards [Frizthwaite](../../places/villages/frizthwaite.md). Their orders are to search for a blue firbolg and a grey human, and escort them back to him so that he may help them seek [sanctuary](../../organisations/astorrel/sanctuary.md) in [Northhaven](../../places/cities/northhaven.md).
 
-### [PR14](../../sessions/PR14.md)
+### [PR14](../../sessions/completed/PR14.md)
 
 While camping on the eastern shore of the [River Humar](../../places/rivers-lakes/river-humar.md), the party meet [Sarleen Truestriker](../../characters/sarleen-truestriker.md) as the sun rises and they are getting ready for the day ahead.
 
@@ -35,7 +35,7 @@ The party travels along the eastern bank of the river, the boat now too big for 
 
 At nightfall they make camp between the river and some cliffs. During the night while Sarleen and [Thanea](../../../astarus/people/thanea.md) are on watch, gnolls attack from the cliffs above. The rest of the party is woken up, and together they dispatch the gnolls before returning to sleep for the remainder of the night.
 
-### [PR15](../../sessions/PR15.md)
+### [PR15](../../sessions/completed/PR15.md)
 
 The following day [Sarleen Truestriker](../../characters/sarleen-truestriker.md) continues to lead the party towards [Ulburn](../../places/villages/ulburn.md). Several hours from [Ulburn](../../places/villages/ulburn.md) the party, having walked for 8 hours, decides to camp for the night along the riverside rather than push on and risk exhaustion.
 

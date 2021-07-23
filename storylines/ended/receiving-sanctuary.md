@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR18](../../sessions/PR18.md) / [AA05](../../sessions/AA05.md) | storyline.2
-| **Session Ended** | [AA06](../../sessions/AA06.md) / [PR20](../../sessions/PR20.md) |
+| **Session Started** | [PR18](../../sessions/completed/PR18.md) / [AA05](../../sessions/completed/AA05.md) | storyline.2
+| **Session Ended** | [AA06](../../sessions/completed/AA06.md) / [PR20](../../sessions/completed/PR20.md) |
 
 ## Summary
 
@@ -11,7 +11,7 @@ As [magicborn on the run](magicborn-on-the-run.md), the [Purple Rain](../../camp
 
 ## History
 
-### [PR18](../../sessions/PR18.md)
+### [PR18](../../sessions/completed/PR18.md)
 
 As the part and [Sparrow on the Autumn Pine](../../characters/sparrow-on-the-autumn-pine.md) reach the gatehouse of the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md), Sparrow tells [Garrick Rose](../../characters/garrick-rose.md), the sergeant on duty, that the party is seeking [sanctuary](../../organisations/astorrel/sanctuary.md).
 
@@ -25,7 +25,7 @@ On the first evening the party is visited by [Elysia Vanderboss](../../character
 
 In the morning after breakfast the party is visited by [Levelle Tristwix](../../characters/levelle-tristwix.md) who is concerned about the [Astornox](../../organisations/astornox/astornox.md) the party has killed, and what brings them here. Levelle and [Wizira](../../characters/wizira.md) talk about [Wizira's Father](../../characters/wiziras-father.md) and how his plight fits into [the firbolg controversy](the-firbolg-controversy.md) as a whole.
 
-### [PR19](../../sessions/PR19.md)
+### [PR19](../../sessions/completed/PR19.md)
 
 The party remains in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md).
 
@@ -39,17 +39,17 @@ On hearing about another firbolg, [Rowan Great Sile](../../characters/rowan-grea
 
 With the party offered as stakes in the trial, either outcome will see the party leaving [sanctuary](../../organisations/astorrel/sanctuary.md) - either in custody of the [Astornox](../../organisations/astornox/astornox.md) or [Astorrel](../../organisations/astorrel/astorrel.md). Both Levelle and Mindira implore the party to aid their efforts to win the trial so that they don't fall to the custody of the [Astornox](../../organisations/astornox/astornox.md).
 
-### [AA05](../../sessions/AA05.md)
+### [AA05](../../sessions/completed/AA05.md)
 
 On return to the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../../places/villages/arnaside.md), [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../../campaigns/C1-purple-rain.md) party) from [sanctuary](../../organisations/astorrel/sanctuary.md).
 
-### [AA06](../../sessions/AA06.md)
+### [AA06](../../sessions/completed/AA06.md)
 
 Once again passing through the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md) gatehouse, the party sees that the [Astorrel guard](../../organisations/astorrel/ranks/astorrel-guard.md) presence is still elevated, though the [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) are no longer present. [Ephaine Seren](../../characters/ephaine-seren.md) sees [Kur Merkys](../../characters/kur-merkys.md) on a rooftop again. She chooses to confront him, casting Misty Step to teleport up to him.
 
 While insisting she leaves, he reveals himself to be an [Astornox magicborn hunter](../../organisations/astornox/ranks/astornox-magicborn-hunter.md) with an interest in the four people receiving sanctuary in the stronghold.
 
-### [PR20](../../sessions/PR20.md)
+### [PR20](../../sessions/completed/PR20.md)
 
 The [Purple Rain](../../campaigns/C1-purple-rain.md) party left their [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md) to attend the [Astornar](../../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md) in [The Circle](../../places/buildings/the-circle.md).
 

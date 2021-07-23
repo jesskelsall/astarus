@@ -44,7 +44,7 @@ He frequents [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckle
 
 ## History
 
-## [AA02](../sessions/AA02.md)
+## [AA02](../sessions/completed/AA02.md)
 
 [Redwyn Humpledopper](redwyn-humpledopper.md) plays [Twenties](../mechanics/roleplay/games/twenties.md) with Jaxon. She slams 5 gp on the table and plays one game at a buy-in of 1 gp against him. She wins and takes her winnings as well as the rest of her pot, quitting while she's ahead.
 

@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA01](../../sessions/AA01.md) | storyline.2
-| **Session Ended** | [AA02](../../sessions/AA02.md) |
+| **Session Started** | [AA01](../../sessions/completed/AA01.md) | storyline.2
+| **Session Ended** | [AA02](../../sessions/completed/AA02.md) |
 
 ## Summary
 
@@ -15,11 +15,11 @@
 
 Before setting off from [Dunmore](../../places/cities/dunmore.md) to graduate, [Ephaine Seren](../../characters/ephaine-seren.md) entrusted [Ludolf Hornwallis](../../characters/ludolf-hornwallis.md) with her star map. He agreed to return it to her straight after her graduation.
 
-### [AA01](../../sessions/AA01.md)
+### [AA01](../../sessions/completed/AA01.md)
 
 Immediately after her graduation, Ephaine looked around [Kirrel Hall](../../places/buildings/kirrel-hall.md) for Ludolf, but couldn't see him.
 
-### [AA02](../../sessions/AA02.md)
+### [AA02](../../sessions/completed/AA02.md)
 
 While the party is ending out their graduation day evening in [The Rose Buckler](../../places/buildings/inns-taverns/the-rose-buckler.md), [Ludolf Hornwallis](../../characters/ludolf-hornwallis.md) casts Mending to talk to [Ephaine Seren](../../characters/ephaine-seren.md), telling her that he is in [Northhaven](../../places/cities/northhaven.md), and to come and find him. He doesn't explain where he is.
 

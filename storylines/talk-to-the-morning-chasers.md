@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR27](../sessions/PR27.md) | storyline.2
+| **Session Started** | [PR27](../sessions/completed/PR27.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -49,7 +49,7 @@
 
 ## History
 
-### [PR27](../sessions/PR27.md)
+### [PR27](../sessions/completed/PR27.md)
 
 Following [the meteoric threat](the-meteoric-threat.md) briefing in [Tenterfell House](../places/buildings/tenterfell-house.md), [Elysia Vanderboss](../characters/elysia-vanderboss.md) gives [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) their first [Astorrel](../organisations/astorrel/astorrel.md) mission. She notes that this is a small mission to give them a feel for the process of completing missions, particularly for [Torbra Tauff](../characters/torbra-tauff.md) who has just been promoted to [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md).
 
@@ -57,7 +57,7 @@ The party are told to speak with [the Morning Chasers](../organisations/the-morn
 
 With only the rest of the day to complete the mission in, the party leave [Tenterfell House](../places/buildings/tenterfell-house.md) in search of [the Morning Chasers](../organisations/the-morning-chasers.md).
 
-### [PR28](../sessions/PR28.md)
+### [PR28](../sessions/completed/PR28.md)
 
 The party make their way to the [Sunset District](../places/districts/sunset-district.md), finding [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md) thanks to the help of commoners who point them in the right direction.
 
@@ -77,7 +77,7 @@ When Kieran reveals that Slaine is physically stuck to the [meteorite](../items/
 
 Kieran volunteers to cast Dispel Magic on the [meteorite](../items/meteoric/meteorite.md). When he does so it collapses into dust and transforms [Slaine Alabaster](../characters/slaine-alabaster.md) into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md). It stands up and stabs down at Kieran with its newly formed blade arms.
 
-### [PR29](../sessions/PR29.md)
+### [PR29](../sessions/completed/PR29.md)
 
 As [Slaine Alabaster](../characters/slaine-alabaster.md) turns into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) engage him in combat. Initially they try to subdue him, [Wizira](../characters/wizira.md) grabbing hold of him while [Torbra Tauff](../characters/torbra-tauff.md) wraps [Thanea Morlay](../characters/thanea-morlay.md)'s rope around him. After Torbra fails to push him out of the first floor bedroom window, it becomes apparent that he is stronger than they realised, and that a protracted battle will end badly.
 
@@ -89,7 +89,7 @@ While the party lick their wounds, the [meteoric dust](../items/meteoric/meteori
 
 [Kieran Bennington](../characters/kieran-bennington.md) rushes over to the pot and casts Dispel Magic, rendering all of the dust inert and motionless. [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) scoop up most of the dust and place it in Torbra's pot.
 
-### [PR30](../sessions/PR30.md)
+### [PR30](../sessions/completed/PR30.md)
 
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) retrieves [Elysia Vanderboss](../characters/elysia-vanderboss.md) from [Tenterfell House](../places/buildings/tenterfell-house.md). The pair run back across the city to [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md).
 

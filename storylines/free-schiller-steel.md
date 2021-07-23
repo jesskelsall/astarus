@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA10](../sessions/AA10.md) | storyline.2
+| **Session Started** | [AA10](../sessions/completed/AA10.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@ After [Noon Schiller](../characters/noon-schiller.md) competed in [Nature's Batt
 
 ## History
 
-## [AA10](../sessions/AA10.md)
+## [AA10](../sessions/completed/AA10.md)
 
 On the day of the [Nature's Battle 27](ended/natures-battle-27.md) final, [Noon Schiller](../characters/noon-schiller.md) comes down for breakfast in the [Eskrigg Astorrel Stronghold](../places/strongholds/eskrigg-astorrel-stronghold.md) and is given a letter ([Schiller Weapon Offer](../papers/letters/schiller-weapon-offer.md)) by an [Astorrel member](../organisations/astorrel/ranks/astorrel-member.md). This provides Noon with the "family rate" prices for all weapons offered, as well as the provision to gain one free of charge for his own use.
 

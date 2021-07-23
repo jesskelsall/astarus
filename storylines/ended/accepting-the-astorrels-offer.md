@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR20](../../sessions/PR20.md) | storyline.2
-| **Session Ended** | [PR21](../../sessions/PR21.md) |
+| **Session Started** | [PR20](../../sessions/completed/PR20.md) | storyline.2
+| **Session Ended** | [PR21](../../sessions/completed/PR21.md) |
 
 ## Summary
 
@@ -11,7 +11,7 @@ Following the [Astornar](../../organisations/astornar.md) trial of [the firbolg 
 
 ## History
 
-### [PR20](../../sessions/PR20.md)
+### [PR20](../../sessions/completed/PR20.md)
 
 As part of the verdict of the [Astornar](../../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md), [Corville Thornox](../../characters/corville-thornox.md) declares that the [Purple Rain](../../campaigns/C1-purple-rain.md) party must join a military organisation of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) following the absolution of their crimes.
 
@@ -19,7 +19,7 @@ After the trial, [Levelle Tristwix](../../characters/levelle-tristwix.md) is the
 
 The party thanks them for their offer but declines to accept until they'd had time to consider all their options.
 
-### [PR21](../../sessions/PR21.md)
+### [PR21](../../sessions/completed/PR21.md)
 
 The party chooses to accept [Levelle Tristwix](../../characters/levelle-tristwix.md)'s offer of joining the [Astorrel](../../organisations/astorrel/astorrel.md), meeting her in the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md).
 

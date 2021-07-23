@@ -43,9 +43,9 @@ TODO
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
 | 1 | - | Druid | d8 | 8 |
-| 2 | [PR03](../sessions/PR03.md) | Druid | d8 | 4 |
-| 3 | [PR09](../sessions/PR09.md) | Druid | d8 | 6 |
-| 4 | [PR19](../sessions/PR19.md) | Druid | d8 | 8 |
-| 5 | [PR30](../sessions/PR30.md) | Druid | d8 | 7 |
+| 2 | [PR03](../sessions/completed/PR03.md) | Druid | d8 | 4 |
+| 3 | [PR09](../sessions/completed/PR09.md) | Druid | d8 | 6 |
+| 4 | [PR19](../sessions/completed/PR19.md) | Druid | d8 | 8 |
+| 5 | [PR30](../sessions/completed/PR30.md) | Druid | d8 | 7 |
 
 ## Backstory

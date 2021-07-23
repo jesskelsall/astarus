@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA02](../../sessions/AA02.md) | storyline.2
-| **Session Ended** | [AA06](../../sessions/AA06.md) |
+| **Session Started** | [AA02](../../sessions/completed/AA02.md) | storyline.2
+| **Session Ended** | [AA06](../../sessions/completed/AA06.md) |
 
 ## Summary
 
@@ -52,7 +52,7 @@ In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not
 
 ## History
 
-### [AA02](../../sessions/AA02.md)
+### [AA02](../../sessions/completed/AA02.md)
 
 [Bryce Morton](../../characters/bryce-morton.md) gives both of his squads their missions at the same time, in each other's presence. [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) is tasked with heading to [Arnaside](../../places/villages/arnaside.md) and checking on the new logging operation that has started up there, making sure it is proceeding without issue, but not overdoing it. [Ahsha Sallas](../../characters/ahsha-sallas.md) is made acting [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md) for this mission due to her receiving the Exceptional Trainee Bonus.
 
@@ -66,7 +66,7 @@ During the fight, Clay is hit by a bandit, rendering him unconscious. For the re
 
 Upon arrival at [Humouth](../../places/villages/humouth.md), the party rents rooms at [The Keeper's Reprise](../../places/buildings/inns-taverns/the-keepers-reprise.md) for the night, stabling the horse and coach, and ensuring that Clay is put to bed where he can rest.
 
-### [AA03](../../sessions/AA03.md)
+### [AA03](../../sessions/completed/AA03.md)
 
 The following morning, Clay expresses a desire to return to [Northhaven](../../places/cities/northhaven.md) and recover from his injuries. The party convinces him to keep going, paying him extra for the trouble.
 
@@ -90,7 +90,7 @@ Kulegar is shocked at the sight of the surviving kobold. On sight of the kobold 
 
 The party heads deeper into the forest, following the kobold tracks. They avoid another tension spikes trap before coming across the mouth of a cave.
 
-### [AA04](../../sessions/AA04.md)
+### [AA04](../../sessions/completed/AA04.md)
 
 At the mouth of the cave, the party sends [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) inside to try and negotiate with the kobolds. She soon realises that they don't speak common before getting frustrated and casting Vicious Mockery on one of them, provoking them into combat.
 
@@ -102,7 +102,7 @@ In the morning the party returns to the mouth of the cave with [Sharakas](../../
 
 Ahsha and [Sharakas](../../characters/sharakas.md) are blindfolded with grain sacks and lead into the cave while the rest of the party and the dragonshields wait outside.
 
-### [AA05](../../sessions/AA05.md)
+### [AA05](../../sessions/completed/AA05.md)
 
 [Ahsha Sallas](../../characters/ahsha-sallas.md) and [Sharakas](../../characters/sharakas.md) are lead into the cave, coming face to face with the [blue kobold](../../lineages/blue-kobold.md) leader, [Ikra](../../characters/ikra.md). When it becomes apparent that he speaks common, Ahsha is able to negotiate herself. She explains that she is here to help protect the forest and wishes to negotiate a peace treaty between the kobolds and the village of [Arnaside](../../places/villages/arnaside.md).
 
@@ -118,6 +118,6 @@ The party head back into [Arnaside](../../places/villages/arnaside.md) and tell 
 
 By morning the party heads off for [Northhaven](../../places/cities/northhaven.md), [Clay Mullen](../../characters/clay-mullen.md) driving the coach they hired once again. It takes them 3 days to return to the city. On their return they spend the night in [The Rose Buckler](../../places/buildings/inns-taverns/the-rose-buckler.md) before they report to [Bryce Morton](../../characters/bryce-morton.md) in the morning. Ahsha works with Bryce to write her mission report before Bryce hands her the squad's earnings for her to pass out.
 
-### [AA06](../../sessions/AA06.md)
+### [AA06](../../sessions/completed/AA06.md)
 
 With the mission complete, [Ahsha Sallas](../../characters/ahsha-sallas.md) equally distributes the 80 gp mission reward to the rest of [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) (20 gp each).

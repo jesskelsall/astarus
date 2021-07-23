@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA10](../sessions/AA10.md) | storyline.2
+| **Session Started** | [AA10](../sessions/completed/AA10.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [AA10](../sessions/AA10.md)
+### [AA10](../sessions/completed/AA10.md)
 
 After [Noon Schiller](../characters/noon-schiller.md) reads the letter given to him ([Schiller Weapon Offer](../papers/letters/schiller-weapon-offer.md)), [Nills](../characters/nills.md) appears to nudge Noon towards claiming the [free Schiller steel](free-schiller-steel.md) weapon for one of his new [Astorrel squad hands](../organisations/astorrel/ranks/astorrel-squad-hand.md).
 

@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR30](../sessions/PR30.md) | storyline.2
+| **Session Started** | [PR30](../sessions/completed/PR30.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,13 +11,13 @@
 
 ## History
 
-### [PR30](../sessions/PR30.md)
+### [PR30](../sessions/completed/PR30.md)
 
 While unconscious following [Mergin Thorgus](../characters/mergin-thorgus.md) casting Remove Curse on her, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) hears the voice of [Effie Silttooth](../characters/effie-silttooth.md). She is happy that Saoirse is no longer cursed with [Meteoridis](../mechanics/roleplay/meteoridis.md).
 
 She tells Saoirse to go to the general store ([Ethel's Wares](../places/buildings/shops/ethels-wares.md)) near the southern gate on the [Northhaven Wall](../places/structures/northhaven-wall.md) as she has a gift for her.
 
-### [PR31](../sessions/PR31.md)
+### [PR31](../sessions/completed/PR31.md)
 
 That night, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) searches for the general store by herself. She passes through the [Northhaven Wall](../places/structures/northhaven-wall.md) and with the assistance of an [Astornox](../organisations/astornox/astornox.md) there, is able to locate [Ethel's Wares](../places/buildings/shops/ethels-wares.md).
 

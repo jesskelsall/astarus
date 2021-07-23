@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR01](../sessions/PR01.md) | storyline.2
+| **Session Started** | [PR01](../sessions/completed/PR01.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -23,23 +23,23 @@ One member of [Astral Squad](../organisations/astorrel/squads/astral-squad.md) i
 
 Wrenn intends to find the [meteorite](../items/meteoric/meteorite.md) and return it to [Northhaven](../places/cities/northhaven.md) so that they may investigate its properties and nature, furthering their independent research.
 
-### [PR01](../sessions/PR01.md)
+### [PR01](../sessions/completed/PR01.md)
 
 [Wrenn Piznarck](../characters/wrenn-piznarck.md) meets the [Purple Rain](../campaigns/C1-purple-rain.md) party, offering them up to 50 gp if they are able to bring him evidence of the [meteorite](../items/meteoric/meteorite.md) - ideally the [meteorite](../items/meteoric/meteorite.md) itself.
 
-### [PR06](../sessions/PR06.md)
+### [PR06](../sessions/completed/PR06.md)
 
 In [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), the party discover that half of the wolf pack had been slaughtered by something deeper within, a forboding omen.
 
 Delving deeper into the cave, they find the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), emitting bright white light, and a [Meteoric Watcher](../creatures/meteoric-watcher.md), searching through the bodies of its victims. When the party is in the line of sight of the [meteorite](../items/meteoric/meteorite.md), it turns purple, alerting the watcher to their presence.
 
-### [PR07](../sessions/PR07.md)
+### [PR07](../sessions/completed/PR07.md)
 
 The party fights two [Meteoric Watchers](../creatures/meteoric-watcher.md) who are seemingly protecting the [meteorite](../items/meteoric/meteorite.md), though in reality they are testing the party's combat prowess like those that came before.
 
 Their grey formless face and body, with its weird 6 limb arrangement is foreign to the party. They are a force to be reckoned with, but eventually the party dispatches them, turning them to grey dust with their final blows.
 
-### [PR11](../sessions/PR11.md)
+### [PR11](../sessions/completed/PR11.md)
 
 While examining the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor and hearing the party's stories of how they triumphed in the [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), [Wrenn Piznarck](../characters/wrenn-piznarck.md) uses language such as "I've never seen a specimen like this", alluding to other meteors. [Thanea](../../../astarus/people/thanea.md) attempts to question him on this, but Wrenn diverts the conversation, pressing them for further details instead.
 
@@ -49,7 +49,7 @@ In reaction to this, [Thanea](../../../astarus/people/thanea.md) casts Detect Th
 
 This provides [Thanea](../../../astarus/people/thanea.md) with a cryptic window into why Wrenn was interested in the [meteorite](../items/meteoric/meteorite.md) in the first place. She chooses not to react and keeps the information to herself.
 
-### [PR18](../sessions/PR18.md)
+### [PR18](../sessions/completed/PR18.md)
 
 While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), the party is visited by [Elysia Vanderboss](../characters/elysia-vanderboss.md), [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) of [Astral Squad](../organisations/astorrel/squads/astral-squad.md), which [Wrenn Piznarck](../characters/wrenn-piznarck.md) belongs to. She sees [Saoirse](../../../astarus/people/saoirse.md) holding the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor and is shocked, immediately demanding to know how the party came to possess it.
 
@@ -61,21 +61,21 @@ With this in mind, she cautions the party to keep the [meteorite](../items/meteo
 
 The party agrees to do so, finding her trustworthy.
 
-### [PR19](../sessions/PR19.md)
+### [PR19](../sessions/completed/PR19.md)
 
 When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visited the party again in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), she made her intent clear. If the [Astorrel](../organisations/astorrel/astorrel.md) win the [Astornar](../organisations/astornar.md) trial over [the firbolg controversy](ended/the-firbolg-controversy.md), she would use her remaining political influence to try and get the party instated as an [Astorrel](../organisations/astorrel/astorrel.md) squad and work alongside her squad on the meteoric threat.
 
 When she asks the party if they would be interested in doing so, they respond in a non-committal manner, not wishing at such an early stage.
 
-### [PR20](../sessions/PR20.md)
+### [PR20](../sessions/completed/PR20.md)
 
 Following the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), [Levelle Tristwix](../characters/levelle-tristwix.md) makes the party an offer to join the [Astorrel](../organisations/astorrel/astorrel.md). As part of this they vaguely mention that [Elysia Vanderboss](../characters/elysia-vanderboss.md) has informed them of the work her squad has been doing, and that the [Purple Rain](../campaigns/C1-purple-rain.md) party's help in continuing that work would be appreciated.
 
-### [PR21](../sessions/PR21.md)
+### [PR21](../sessions/completed/PR21.md)
 
 When [Elysia Vanderboss](../characters/elysia-vanderboss.md) is promoted to [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md), the newly formed [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) learn that she will be their superior officer, implying that they will be working with her on the meteoric threat.
 
-### [PR27](../sessions/PR27.md)
+### [PR27](../sessions/completed/PR27.md)
 
 With [Nature's Battle 27](ended/natures-battle-27.md) over, [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) report to [Elysia Vanderboss](../characters/elysia-vanderboss.md) in [Tenterfell House](../places/buildings/tenterfell-house.md) to receive their first mission. Here they meet [Astral squad](../organisations/astorrel/squads/astral-squad.md), also under Elysia's command, now lead by [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) and including [Sparrow on the Autumn Pine](../characters/sparrow-on-the-autumn-pine.md).
 
@@ -91,7 +91,7 @@ As a group they go through a [timeline](../history/timeline.md) of events, cover
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) is sent to [talk to the Morning Chasers](talk-to-the-morning-chasers.md), who investigated Silethwaite on [Astral squad](../organisations/astorrel/squads/astral-squad.md)'s behalf, with the hope that Starfall's [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) experience will call attention to new clues. They are given a deadline of that same day, so they leave immediately.
 
-### [PR28](../sessions/PR28.md)
+### [PR28](../sessions/completed/PR28.md)
 
 When [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) meet with [the Morning Chasers](../organisations/the-morning-chasers.md), [Janneke Borflast](../characters/janneke-borflast.md) tries to hide the presence of an ill [Slaine Alabaster](../characters/slaine-alabaster.md) upstairs.
 
@@ -103,7 +103,7 @@ Both parties decide that if they don't act decisively to separate Slaine from th
 
 When he does so, the magic within the [meteorite](../items/meteoric/meteorite.md) transforms [Slaine Alabaster](../characters/slaine-alabaster.md) into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md) before the dispel can take effect, using his body to save itself. The humanoid stands up, reveals its newly formed blade arms, and stabs down toward Kieran.
 
-### [PR29](../sessions/PR29.md)
+### [PR29](../sessions/completed/PR29.md)
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) does battle with the [Meteoric Humanoid](../creatures/meteoric-humanoid.md). They initially try to subdue and capture it, but it proves tenacious. Its wailing blast inflicts large damage on the party, knocking [Wizira](../characters/wizira.md) unconscious early in the fight. Realising how dire the situation is, [Thanea Morlay](../characters/thanea-morlay.md) and [Torbra Tauff](../characters/torbra-tauff.md) attempt to move it away from [Wizira](../characters/wizira.md) and kill it.
 
@@ -115,7 +115,7 @@ Torbra notices the dust coalescing near the corpse. She scoops up what she can i
 
 [Kieran Bennington](../characters/kieran-bennington.md) then rushes over to the pot and casts Dispel Magic, killing the last of the magic in the [meteoric dust](../items/meteoric/meteoric-dust.md) before it can reform into a creature.
 
-### [PR30](../sessions/PR30.md)
+### [PR30](../sessions/completed/PR30.md)
 
 [Elysia Vanderboss](../characters/elysia-vanderboss.md) sees the corpse of [Slaine Alabaster](../characters/slaine-alabaster.md) first hand in [the Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md), with [Torbra Tauff](../characters/torbra-tauff.md) filling her in on the events leading up to his transformation into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md). It is now clear to her that [the Morning Chasers](../organisations/the-morning-chasers.md) found the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md) in Silethwaite.
 

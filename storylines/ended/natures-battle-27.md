@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA06](../../sessions/AA06.md) / [PR21](../../sessions/PR21.md) | storyline.2
-| **Session Ended** | [AA09](../../sessions/AA09.md) / [PR26](../../sessions/PR26.md) |
+| **Session Started** | [AA06](../../sessions/completed/AA06.md) / [PR21](../../sessions/completed/PR21.md) | storyline.2
+| **Session Ended** | [AA09](../../sessions/AA09.md) / [PR26](../../sessions/completed/PR26.md) |
 
 ## Summary
 
@@ -21,31 +21,31 @@ This table shows the [Astorrel](../../organisations/astorrel/astorrel.md) squad 
 | [AA08](../../sessions/AA08.md) | **[Canary Squad](../../organisations/astorrel/squads/canary-squad.md)** | [AA09](../../sessions/AA09.md) | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) |
 | [AA08](../../sessions/AA08.md) | *[Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md)* |
 || *[Birch Squad](../../organisations/astorrel/squads/birch-squad.md)* |
-|| **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../../sessions/AA09.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [PR26](../../sessions/PR26.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** |
-| [PR23](../../sessions/PR23.md) | *[Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md)* |
-| [PR23](../../sessions/PR23.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR24](../../sessions/PR24.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR26](../../sessions/PR26.md) | [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) |
-|| **[Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md)** | [PR24](../../sessions/PR24.md) | [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md) |
+|| **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../../sessions/AA09.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [PR26](../../sessions/completed/PR26.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** |
+| [PR23](../../sessions/completed/PR23.md) | *[Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md)* |
+| [PR23](../../sessions/completed/PR23.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR24](../../sessions/completed/PR24.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR26](../../sessions/completed/PR26.md) | [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) |
+|| **[Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md)** | [PR24](../../sessions/completed/PR24.md) | [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md) |
 || *[Horizon Squad](../../organisations/astorrel/squads/horizon-squad.md)* |
 
 ## History
 
-### [AA06](../../sessions/AA06.md)
+### [AA06](../../sessions/completed/AA06.md)
 
 Returning to [Bryce Morton](../../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 27 ([Nature's Battle Canary Squad Invite](../../papers/letters/natures-battle-canary-squad-invite.md)).
 
 After discussing how competing will affect their next mission, Bryce reassures them that the tournament is their priority if they choose to compete - the mission can wait. After a discussion they choose to compete, responding to [Liabella Peacock](../../characters/liabella-peacock.md) by letter sent from [Astpost Northhaven](../../places/buildings/shops/astpost-northhaven.md).
 
-### [PR21](../../sessions/PR21.md)
+### [PR21](../../sessions/completed/PR21.md)
 
 Immediately following the [Purple Rain](../../campaigns/C1-purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 27 ([Nature's Battle Starfall Squad Invite](../../papers/letters/natures-battle-starfall-squad-invite.md)).
 
 The party is excited at the prospect of competing.
 
-### [PR22](../../sessions/PR22.md)
+### [PR22](../../sessions/completed/PR22.md)
 
 The [Purple Rain](../../campaigns/C1-purple-rain.md) party accepts [Liabella Peacock](../../characters/liabella-peacock.md)'s offer to compete in Nature's Battle 27, replying to her letter.
 
-### [PR23](../../sessions/PR23.md)
+### [PR23](../../sessions/completed/PR23.md)
 
 The match between [Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) takes place. [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) wins.
 
@@ -53,13 +53,13 @@ During the fight [Wizira](../../characters/wizira.md) downs [Yoroe Briskboots](.
 
 [Torbra Tauff](../../characters/torbra-tauff.md) comes very close to decapitating [Diarmuid Kavanagh](../../characters/diarmuid-kavanagh.md) which her final halberd strike against him. Instead she opens up a gash on the back of his neck, the shock from which knocks him unconscious.
 
-### [PR24](../../sessions/PR24.md)
+### [PR24](../../sessions/completed/PR24.md)
 
 The match between [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) and [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md) takes place. [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) wins.
 
 [Thanea Morlay](../../characters/thanea-morlay.md) sprouts wings thanks to her [aasimar](../../lineages/aasimar.md) Radiant Soul, dazzling the audience as she flies around the arena, dishing out ranged magical damage as she goes. She is eventually knocked unconscious and falls from the sky when [Norma Collarbone](../../characters/norma-collarbone.md) summons a bestial spirit above her which hits her in mid-air.
 
-### [PR26](../../sessions/PR26.md)
+### [PR26](../../sessions/completed/PR26.md)
 
 The match between [Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) takes place. [Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md) wins.
 

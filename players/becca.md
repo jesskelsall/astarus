@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/MC00.md) - |
+| | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/upcoming/MC00.md) - |

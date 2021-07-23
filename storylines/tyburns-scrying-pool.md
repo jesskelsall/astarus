@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR27](../sessions/PR27.md) | storyline.2
+| **Session Started** | [PR27](../sessions/completed/PR27.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-## [PR27](../sessions/PR27.md)
+## [PR27](../sessions/completed/PR27.md)
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) get their first look at [Tyburn Dalvos](../characters/tyburn-dalvos.md)' divination magic when he uses his scrying pool to check on [Wrenn Piznarck](../characters/wrenn-piznarck.md) at the request of [Quinn Mac Domhnail](../characters/quinn-mac-domhnail.md).
 

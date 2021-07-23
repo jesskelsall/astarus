@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Torbra Tauff](../characters/torbra-tauff.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/PR00.md) - |
+| [Torbra Tauff](../characters/torbra-tauff.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/completed/PR00.md) - |

@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR00](../../sessions/PR00.md) | storyline.2
-| **Session Ended** | [PR24](../../sessions/PR24.md) |
+| **Session Started** | [PR00](../../sessions/completed/PR00.md) | storyline.2
+| **Session Ended** | [PR24](../../sessions/completed/PR24.md) |
 
 ## Summary
 
@@ -11,13 +11,13 @@
 
 ## History
 
-### [PR00](../../sessions/PR00.md)
+### [PR00](../../sessions/completed/PR00.md)
 
 #### Deva Dream 1
 
 [Thanea](../../../astarus/people/thanea.md) had a dream of the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor impacting north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). This drove her to leave Grasthwaite for [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and investigate.
 
-### [PR06](../../sessions/PR06.md)
+### [PR06](../../sessions/completed/PR06.md)
 
 #### Deva Dream 2
 
@@ -25,15 +25,15 @@
 
 The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) in a crater in the forest, before the forest around it begins burning purple flames. She witnesses [The Slippery Weasel](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md)'s interior on fire, as well as the barn at [Hurley Farm](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hurley-farm.md) on fire, with the burning bodies of the rest of the [Purple Rain](../../campaigns/C1-purple-rain.md) party within.
 
-### [PR07](../../sessions/PR07.md)
+### [PR07](../../sessions/completed/PR07.md)
 
 [Thanea](../../../astarus/people/thanea.md)'s dream and her conviction that it is prophetic leads the party to find [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), where they find a [meteorite](../../items/meteoric/meteorite.md) crater containing the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor. When the party observes, its glow changes from bright white to purple, much like the flames of the forest did in her dream.
 
-### [PR10](../../sessions/PR10.md)
+### [PR10](../../sessions/completed/PR10.md)
 
 After leaving [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) by horse and cart, [Thanea](../../../astarus/people/thanea.md) laments at how her prophetic dreams always end with her in trouble.
 
-### [PR11](../../sessions/PR11.md)
+### [PR11](../../sessions/completed/PR11.md)
 
 [Saoirse](../../../astarus/people/saoirse.md) remarks that [Thanea](../../../astarus/people/thanea.md) is supposed to be "the crazy one" due to her dreams.
 
@@ -41,7 +41,7 @@ After leaving [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDR
 
 He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they are in has passed, he would like to introduce her to someone that has visions of the future, though they have them while awake. He references an old word for the phenomenon: seer.
 
-### [PR14](../../sessions/PR14.md)
+### [PR14](../../sessions/completed/PR14.md)
 
 #### Deva Dream 3
 
@@ -55,23 +55,23 @@ A third larger meteor comes into view, heading directly towards her. Its white g
 
 She wakes up comfortably the following morning.
 
-### [PR15](../../sessions/PR15.md)
+### [PR15](../../sessions/completed/PR15.md)
 
 In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md) if they know anything about dreams that become reality. They don't, but mention that Wrenn's squad, [Astral Squad](../../organisations/astorrel/squads/astral-squad.md), contains someone with similar sounding experiences.
 
-### [PR22](../../sessions/PR22.md)
+### [PR22](../../sessions/completed/PR22.md)
 
 [Thanea Morlay](../../characters/thanea-morlay.md) uses her downtime in [Northhaven](../../places/cities/northhaven.md) to research her prophetic dreams in [Hawk's Perch](../../places/buildings/hawks-perch.md). She finds mention of those with foresight (seers), with the text suggesting that it may be a form of magical manifestation.
 
 She also tries to research humanoids with wings, but only finds information on aarakocra.
 
-### [PR23](../../sessions/PR23.md)
+### [PR23](../../sessions/completed/PR23.md)
 
 [Thanea Morlay](../../characters/thanea-morlay.md) returns to the street in [Eskrigg](../../places/cities/eskrigg.md) that she commuted to [Vorrinel's Stand](../../places/buildings/vorrinels-stand.md) along. She recognises it as the starting point of her third deva dream, triggering a strong sense of déjà vu.
 
 Realising the implication of another prophetic dream coming to fruition and her own feelings that they never end well, she takes off down a back alley, losing [Wizira](../../characters/wizira.md) who was with her. [Wizira](../../characters/wizira.md) eventually finds her slumped against a statue, sobbing to herself. Finding a crying Thanea, [Wizira](../../characters/wizira.md) asks what is wrong. Thanea mumbles a non-answer before the pair return to the [Eskrigg Astorrel Stronghold](../../places/strongholds/eskrigg-astorrel-stronghold.md) for the night.
 
-### [PR24](../../sessions/PR24.md)
+### [PR24](../../sessions/completed/PR24.md)
 
 During [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 27](natures-battle-27.md) match against [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../../characters/norma-collarbone.md) at close range. She digs deep, activating her [aasimar](../../lineages/aasimar.md) Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
 

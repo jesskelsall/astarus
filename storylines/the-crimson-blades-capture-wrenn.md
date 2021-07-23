@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR12](../sessions/PR12.md) | storyline.2
+| **Session Started** | [PR12](../sessions/completed/PR12.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -13,11 +13,11 @@ While the [Purple Rain](../campaigns/C1-purple-rain.md) party are on the run fro
 
 ### [Purple Rain](../campaigns/C1-purple-rain.md) Prelude
 
-Prior to [PR12](../sessions/PR12.md), [Stalker](../characters/stalker.md) sends [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../characters/wrenn-piznarck.md). They trailed him to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../organisations/astornox/astornox.md) while staying at [Alistair Hawthorn's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md).
+Prior to [PR12](../sessions/completed/PR12.md), [Stalker](../characters/stalker.md) sends [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../characters/wrenn-piznarck.md). They trailed him to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../organisations/astornox/astornox.md) while staying at [Alistair Hawthorn's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md).
 
 When the party fled [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to seek [sanctuary](../organisations/astorrel/sanctuary.md) at the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), Morog sensed an opportunity and went in pursuit of Wrenn.
 
-### [PR12](../sessions/PR12.md)
+### [PR12](../sessions/completed/PR12.md)
 
 [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) and his entourage caught up to the party and Wrenn not far from [Frizthwaite](../places/villages/frizthwaite.md). Using their faster horses, they were able to close the gap to the group quickly, who sensed an impending battle.
 
@@ -41,31 +41,31 @@ Not long after being captured, Wrenn is woken up by the movement of the horse he
 
 Shortly thereafter Morog notices that Wrenn is muttering to himself and confiscates his copper wire before restraining him more thoroughly.
 
-### [PR13](../sessions/PR13.md)
+### [PR13](../sessions/completed/PR13.md)
 
 Without Wrenn, the party reflects on what to do next. [Thanea](../../../astarus/people/thanea.md) points out that she read his mind and knows the names of the people he wanted to take them too, suggesting that they don't need him any more.
 
 The group decides to press on to [Northhaven](../places/cities/northhaven.md) without him.
 
-### [PR14](../sessions/PR14.md)
+### [PR14](../sessions/completed/PR14.md)
 
 [Sarleen Truestriker](../characters/sarleen-truestriker.md) reveals to the party that [Wrenn Piznarck](../characters/wrenn-piznarck.md) contacted [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) after he was captured by [The Crimson Blades](../organisations/the-crimson-blades.md), imploring him to help the party reach [Northhaven](../places/cities/northhaven.md) without him.
 
-### [PR15](../sessions/PR15.md)
+### [PR15](../sessions/completed/PR15.md)
 
 [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) informs the party of the full details of the message they received from [Wrenn Piznarck](../characters/wrenn-piznarck.md), including the part about the information they know saving Astor. The party has no idea what Wrenn is referring to.
 
-### [PR18](../sessions/PR18.md)
+### [PR18](../sessions/completed/PR18.md)
 
 While in [sanctuary](../organisations/astorrel/sanctuary.md), the party briefly mentions to both [Elysia Vanderboss](../characters/elysia-vanderboss.md) and [Levelle Tristwix](../characters/levelle-tristwix.md) that [Wrenn Piznarck](../characters/wrenn-piznarck.md) was captured by bandits.
 
-### [PR19](../sessions/PR19.md)
+### [PR19](../sessions/completed/PR19.md)
 
 [Carras Southroot](../characters/carras-southroot.md) and [Norsha Costello](../characters/norsha-costello.md) visit the party in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md). They ask about the circumstances of [Wrenn Piznarck](../characters/wrenn-piznarck.md)'s disappearance. The party tell them that he was taken by [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) of [the Crimson Blades](../organisations/the-crimson-blades.md) east of [Frizthwaite](../places/villages/frizthwaite.md).
 
 Carras and Norsha confer to each other, Carras noting that [the Crimson Blades](../organisations/the-crimson-blades.md) are known to operate around Carnmere.
 
-### [PR27](../sessions/PR27.md)
+### [PR27](../sessions/completed/PR27.md)
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) are present for their first [Astorrel](../organisations/astorrel/astorrel.md) briefing at [Tenterfell House](../places/buildings/tenterfell-house.md) when [Quinn Mac Domhnail](../characters/quinn-mac-domhnail.md) arrives, looking for [Elysia Vanderboss](../characters/elysia-vanderboss.md)' help with a matter he is taking care of for [Levelle Tristwix](../characters/levelle-tristwix.md). He would like [Tyburn Dalvos](../characters/tyburn-dalvos.md) to try and scry on [Wrenn Piznarck](../characters/wrenn-piznarck.md).
 

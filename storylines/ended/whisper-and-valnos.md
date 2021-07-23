@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA01](../../sessions/AA01.md) | storyline.2
-| **Session Ended** | [AA04](../../sessions/AA04.md) |
+| **Session Started** | [AA01](../../sessions/completed/AA01.md) | storyline.2
+| **Session Ended** | [AA04](../../sessions/completed/AA04.md) |
 
 ## Summary
 
@@ -11,7 +11,7 @@ For unknown reasons, [Valnos](../../gods/deities/valnos.md) has chosen to reach 
 
 ## History
 
-### [AA01](../../sessions/AA01.md)
+### [AA01](../../sessions/completed/AA01.md)
 
 #### Whisper [Valnos](../../gods/deities/valnos.md) Chat 1
 
@@ -23,7 +23,7 @@ While praying in front of the statue of [Valnos](../../gods/deities/valnos.md) (
 
 > No need to be so glum.
 
-### [AA02](../../sessions/AA02.md)
+### [AA02](../../sessions/completed/AA02.md)
 
 #### Whisper [Valnos](../../gods/deities/valnos.md) Chat 2
 
@@ -40,7 +40,7 @@ Praying once again at the shrine to [Valnos](../../gods/deities/valnos.md), she 
 *[Valnos](../../gods/deities/valnos.md):*
 > If that's what you wish.
 
-### [AA04](../../sessions/AA04.md)
+### [AA04](../../sessions/completed/AA04.md)
 
 #### Whisper [Valnos](../../gods/deities/valnos.md) Chat 3
 

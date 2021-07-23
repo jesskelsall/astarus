@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR08](../../sessions/PR08.md) | storyline.2
-| **Session Ended** | [PR20](../../sessions/PR20.md) |
+| **Session Started** | [PR08](../../sessions/completed/PR08.md) | storyline.2
+| **Session Ended** | [PR20](../../sessions/completed/PR20.md) |
 
 ## Summary
 
@@ -23,7 +23,7 @@ Thinking about his next move, Wrenn decides to hire some meteor adventurers to f
 
 This sends [Alistair Hawthorn](../../characters/alistair-hawthorn.md) into a rage. He sends guards north west after the party, apprehending Arneg Tanagark as a [magicborn](../../civilisations/kingdom-of-astor/magicborn.md) harborer along the way. When he is returned to [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), Alistair sends his [Astornox](../../organisations/astornox/astornox.md) through [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in the night to search for Wrenn.
 
-### [PR08](../../sessions/PR08.md)
+### [PR08](../../sessions/completed/PR08.md)
 
 On the way back to [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), the [Purple Rain](../../campaigns/C1-purple-rain.md) party attempts to stop in at [Nightcrest Farm](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/nightcrest-farm.md), seeking the hospitality of Arneg Tanagark for an overnight stay. They find his door open, a disturbance inside, and a small blood splatter in the courtyard.
 
@@ -35,7 +35,7 @@ While crossing the bridge south of [Nightcrest Farm](../../civilisations/kingdom
 
 The adventurers circle back, one drop-kicking the corporal while the other warns the party that Wrenn is in danger, they must get back to him, and not to get caught.
 
-### [PR09](../../sessions/PR09.md)
+### [PR09](../../sessions/completed/PR09.md)
 
 As the party make their way through the streets of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), [Wrenn Piznarck](../../characters/wrenn-piznarck.md) continues to summon and dismiss Dancing Lights to distract the guards while he moves.
 
@@ -49,7 +49,7 @@ With a need to flee, Wrenn suggests that they can find [sanctuary](../../organis
 
 While leaving the shop, [Wizira](../../characters/wizira.md), still disguised, gets roped into the search effort by another group of guards and their [Astornox Guard Sergeant](../../organisations/astornox/ranks/astornox-guard-sergeant.md), while the rest of the party prepares to skip town.
 
-### [PR10](../../sessions/PR10.md)
+### [PR10](../../sessions/completed/PR10.md)
 
 The party begins to leave [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
 
@@ -69,7 +69,7 @@ Now clear of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDRE
 
 Near the beginning of Grasthwaite Cut, the party sees 2 [Astornox](../../organisations/astornox/astornox.md) on horseback riding towards them.
 
-### [PR11](../../sessions/PR11.md)
+### [PR11](../../sessions/completed/PR11.md)
 
 The party pass 2 [Astornox](../../organisations/astornox/astornox.md) on horseback without any incident. The guards had no idea of their notoriety and passed by completely unaware.
 
@@ -79,7 +79,7 @@ Torbra finally got a chance to sleep while [Wizira](../../characters/wizira.md) 
 
 With [Frizthwaite](../../places/villages/frizthwaite.md) in view on the horizon, 3 horses each with 2 riders approached from behind. Neither [Thanea](../../../astarus/people/thanea.md) who spotted them or [Wrenn Piznarck](../../characters/wrenn-piznarck.md) who used his crow familiar to observe them could tell if they are [Astornox](../../organisations/astornox/astornox.md) or not.
 
-### [PR12](../../sessions/PR12.md)
+### [PR12](../../sessions/completed/PR12.md)
 
 The bandits tailing the party as they ride towards [Frizthwaite](../../places/villages/frizthwaite.md) begin their attack after seeing the cart take a sharp right turn, forcing their hand. Before long they are on top of the fleeing party. They are led by [Morog Whiteknuckle](../../characters/morog-whiteknuckle.md).
 
@@ -108,7 +108,7 @@ Not long after being captured, Wrenn is woken up by the movement of the horse he
 
 Shortly thereafter Morog notices that Wrenn is muttering to himself and confiscates his copper wire before restraining him more thoroughly.
 
-### [PR13](../../sessions/PR13.md)
+### [PR13](../../sessions/completed/PR13.md)
 
 The party enters the village of [Frizthwaite](../../places/villages/frizthwaite.md) to try and get a boat so they can proceed downstream to [Northhaven](../../places/cities/northhaven.md), avoiding the roads. [Wizira](../../characters/wizira.md) does not disguise herself while in the village.
 
@@ -124,7 +124,7 @@ A race to find [Wizira](../../characters/wizira.md) before the [Astornox](../../
 
 The party convinces Torbra to head downstream now, so as to avoid being seen. The rest of the party head back to the docks where [Saoirse](../../../astarus/people/saoirse.md) buys the boat. Picking Torbra up on the way, they make their way down the [River Humar](../../places/rivers-lakes/river-humar.md) towards [Northhaven](../../places/cities/northhaven.md), successfully dodging the [Astornox](../../organisations/astornox/astornox.md) in [Frizthwaite](../../places/villages/frizthwaite.md).
 
-### [PR14](../../sessions/PR14.md)
+### [PR14](../../sessions/completed/PR14.md)
 
 Continuing downstream, the party comes across the town of [Beckermet](../../places/towns/beckermet.md), seeing where the edge of the town meets the river's edge. With guard towers along the edge of town, they seek to hide themselves as they row past. They are able to hide themselves under their hooded robes enough that they aren't spotted.
 
@@ -136,7 +136,7 @@ Revealing that Hidaar was contacted by [Wrenn Piznarck](../../characters/wrenn-p
 
 Travelling along the east bank of the river for the entire day, the party makes camp for the night between the river and some cliffs. In the night they are attacked by gnolls, but they dispatch them without issue.
 
-### [PR15](../../sessions/PR15.md)
+### [PR15](../../sessions/completed/PR15.md)
 
 The following day [Sarleen Truestriker](../../characters/sarleen-truestriker.md) continues to lead the party towards [Ulburn](../../places/villages/ulburn.md). Several hours from [Ulburn](../../places/villages/ulburn.md) the party, having walked for 8 hours, decides to camp for the night along the riverside rather than push on and risk exhaustion.
 
@@ -152,7 +152,7 @@ Hidaar orders Sarleen to go on ahead to inform [Levelle Tristwix](../../characte
 
 When [Sparrow on the Autumn Pine](../../characters/sparrow-on-the-autumn-pine.md) returns from searching for the party, Hidaar introduces them. They order Sparrow to escort them into [Northhaven](../../places/cities/northhaven.md), suggesting they plan their approach after eating. Sparrow reveals their wasps, asks the party about their stealth capabilities, and implores Torbra to leave their armour behind to help their chances at remaining unnoticed.
 
-### [PR16](../../sessions/PR16.md)
+### [PR16](../../sessions/completed/PR16.md)
 
 [Sparrow on the Autumn Pine](../../characters/sparrow-on-the-autumn-pine.md) discusses with the party how they should go about reaching the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md), noting that getting past the [Northhaven Wall](../../places/structures/northhaven-wall.md) will be their biggest challenge. With options to go through the gatehouse, over the wall, or under via the sewers, the party choose the sewers.
 
@@ -168,7 +168,7 @@ The next guard catches up with the group but is caught in Sparrow's Snare, flipp
 
 40ft to their left, the party witnesses 6 [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md), including an [Astornox Guard](../../organisations/astornox/ranks/astornox-guard.md) Captain, emerge from the nearby gatehouse and begin pursuit.
 
-### [PR17](../../sessions/PR17.md)
+### [PR17](../../sessions/completed/PR17.md)
 
 As the 6 [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) began chasing after the party, everyone but [Wizira](../../characters/wizira.md) took off down the street in the opposite direction before turning onto a street bound for [Astor Square](../../places/structures/astor-square.md). [Wizira](../../characters/wizira.md) used Disguise Self to transform into a 1ft taller intimidating orc, growling bestially with Druidcraft. This halted the guards for a moment and convinced one to flee in terror, but the chase resumed.
 
@@ -194,7 +194,7 @@ The party make their way along the street, Torbra trying her best to dodge incom
 
 At this point the party seeks [sanctuary](../../organisations/astorrel/sanctuary.md) within the stronghold, preventing the [Astornox](../../organisations/astornox/astornox.md) from pursuing them any further.
 
-### [PR18](../../sessions/PR18.md)
+### [PR18](../../sessions/completed/PR18.md)
 
 Upon reaching the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md), [Garrick Rose](../../characters/garrick-rose.md) offers the party [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md), permitting them to enter the stronghold and stay out of the [Astornox](../../organisations/astornox/astornox.md)'s jurisdiction.
 
@@ -202,13 +202,13 @@ It is made clear to the party that if the offer is rescinded or they choose to l
 
 [Garrick Rose](../../characters/garrick-rose.md) explains that if the party doesn't find a way to resolve their situation while they are in [sanctuary](../../organisations/astorrel/sanctuary.md), it is only a matter of time until he grows tired and rescinds his offer of [sanctuary](../../organisations/astorrel/sanctuary.md).
 
-### [PR19](../../sessions/PR19.md)
+### [PR19](../../sessions/completed/PR19.md)
 
 The party continue to remain in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md). They are visited by [Levelle Tristwix](../../characters/levelle-tristwix.md) and [Mindira Flibfae](../../characters/mindira-flibfae.md) who explain that [the firbolg controversy](the-firbolg-controversy.md) is going to trial in front of the [Astornar](../../organisations/astornar.md). As the party has been put up as stakes, terms that have been agreed with the [Astornox](../../organisations/astornox/astornox.md), the winner of the trial will receive custody of the party.
 
 This means that if the [Astornox](../../organisations/astornox/astornox.md) win the trial, the party will answer for their crimes as [Astornox](../../organisations/astornox/astornox.md) murderers and as [magicborn](../../civilisations/kingdom-of-astor/magicborn.md). If the [Astorrel](../../organisations/astorrel/astorrel.md) win, there is potential to join the [Astorrel](../../organisations/astorrel/astorrel.md) which will put them outside of the [Astornox](../../organisations/astornox/astornox.md)'s jurisdiction.
 
-### [PR20](../../sessions/PR20.md)
+### [PR20](../../sessions/completed/PR20.md)
 
 The party join the [Astornar](../../organisations/astornar.md) trial for [the firbolg controversy](the-firbolg-controversy.md) at the half way point, after the debate phase has concluded. They ([Wizira](../../characters/wizira.md) in particular) are brought in as witnesses to present evidence of what happened to [Wizira's Father](../../characters/wiziras-father.md) in order to illustrate the plight of firbolgs in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 

@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Moss Gloomhollow](../characters/moss-gloomhollow.md) | Guest | [PR24](../sessions/PR24.md) |
+| [Moss Gloomhollow](../characters/moss-gloomhollow.md) | Guest | [PR24](../sessions/completed/PR24.md) |

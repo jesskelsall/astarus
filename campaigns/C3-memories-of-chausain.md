@@ -34,7 +34,7 @@
 
 | Session | Date | Title |
 |---| --- | --- |
-| [MC00](../sessions/MC00.md) | 2021-08-08 | *Session Zero* |
+| [MC00](../sessions/upcoming/MC00.md) | 2021-08-08 | *Session Zero* |
 | MC01A | | |
 | MC01B | | |
 | MC02 | | |

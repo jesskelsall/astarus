@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Norma Collarbone](../characters/norma-collarbone.md) | Guest | [PR24](../sessions/PR24.md) |
+| [Norma Collarbone](../characters/norma-collarbone.md) | Guest | [PR24](../sessions/completed/PR24.md) |

@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Eremus Vitur](../characters/eremus-vitur.md) | Guest | [AA09](../sessions/AA09.md), [PR26](../sessions/PR26.md) |
+| [Eremus Vitur](../characters/eremus-vitur.md) | Guest | [AA09](../sessions/AA09.md), [PR26](../sessions/completed/PR26.md) |
