@@ -4,21 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | | character.3
-| **Lineage** | |
-| **Pronouns** | |
-| **Age** | |
+| **Name** | Esme Leithran | character.3
+| **Lineage** | Elf / Genasi (Earth) |
+| **Pronouns** | she/her |
+| **Age** | 4 |
 | **Class** | |
 | **Worship** | |
-| **Relations** | |
-| **Places** | |
+| **Relations** | [Montel Leithran](montel-leithran.md) (father)<br>[Vensys Leithran](vensys-leithran.md) (mother, deceased) |
+| **Places** | Humar Estuary Water Shack<br>Hyceodd (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
-| **Rank** | |
-| **Role** | |
-| **Commanding Officer** | |
-| **Subordinates** | |
 |||
 | **Image ID** | |
 
@@ -30,14 +26,14 @@ TODO
 
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
+| **Face** | Pale grey-ish skin, blue eyes. Round childish face, somewhat thin. | characteristics.2
+| **Hair** | Chesnut brown straight hair, short bob. |
+| **Body** | 3'3" / 99cm. Thin. |
+| **Clothes** | Drab hemp pants, oversized white shirt, sandals. |
+| **Voice** | Female child. |
+| **Mannerisms** | Quiet around strangers, stares a lot. Opens up when shown something fantastic and playful. |
 | | |
-| **Quirks** | |
+| **Quirks** | Earth Genasi child of clear parentage but unknown circumstances. |
 | **Knowledge** | |
 | **Values** | |
 | **Ambitions** | |
@@ -45,6 +41,6 @@ TODO
 
 ## History
 
-## Planning
+Born to [Vensys Leithran](vensys-leithran.md) and [Montel Leithran](montel-leithran.md) in Hyceodd.
 
-### Campaign Name
+TODO EXPAND
