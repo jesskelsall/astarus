@@ -1,4 +1,4 @@
-# Gwenhwyfar Carew
+# Gwenhwyfar Carew / Lia
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c1220eade9a82fa3.png" height="500" />
 
