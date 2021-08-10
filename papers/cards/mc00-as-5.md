@@ -5,3 +5,7 @@
 | **Deep Pockets** |
 | *What can I say? I have a generous sponsor...* |
 | You start with extra coin. |
+
+## Details
+
+*Individual Treasure: Challenge 0-4* x3 (DMG p136)

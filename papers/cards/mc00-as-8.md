@@ -5,3 +5,7 @@
 | **Exceptional Items** |
 | *And they said lightning doesn't strike twice...* |
 | You start with two magic items.<br>Likely a potion, spell scroll, or wondrous items.<br>Fair chance at something more powerful. |
+
+## Details
+
+*Magic Item Table C* x2 (DMG p144)
