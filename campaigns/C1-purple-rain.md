@@ -74,7 +74,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR30](../sessions/completed/PR30.md) | 2021-07-07 | *Mission Complete* |
 | [PR31](../sessions/completed/PR31.md) | 2021-07-14 | *A Riddle for Saoirse* |
 ||
-| [PR32](../sessions/upcoming/PR32.md) | 2021-07-28 | |
+| [PR32](../sessions/upcoming/PR32.md) | 2021-08-11 | |
 
 ## Storylines
 
