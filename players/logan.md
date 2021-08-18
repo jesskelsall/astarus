@@ -7,7 +7,7 @@
 | **Name** | Logan | player.3
 | **Pronouns** | she/her |
 | **Country** | `US 🇺🇸` |
-| **Discord** | `Lo’#9831` |
+| **Discord** | `Lo'#9831` |
 | **Instagram** | [definitely_lo](https://www.instagram.com/definitely_lo/) |
 ||
 | **Image ID** | `19fba414e64e7346` |

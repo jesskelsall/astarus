@@ -15,7 +15,7 @@ The affected creature becomes unconscious for 1d4 hours. They can be woken up ea
 
 ## Visions
 
-During the creature’s initial unconsciousness and periodically while asleep thereafter, the creature will receive visions that enforce the mental effects of Meteoridis. They include the following elements:
+During the creature's initial unconsciousness and periodically while asleep thereafter, the creature will receive visions that enforce the mental effects of Meteoridis. They include the following elements:
 
 - The stars and searching for meteors amongst them.
 - One or more meteors streaking across the sky.

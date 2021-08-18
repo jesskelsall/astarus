@@ -11,6 +11,6 @@
 |:---:|
 | **Home Bonus** |
 | **Family First and Always** |
-| *We take the “Familia” part of our name very seriously. Any one of us would help another in need. Anytime, anywhere. That's what family means.* |
+| *We take the "Familia" part of our name very seriously. Any one of us would help another in need. Anytime, anywhere. That's what family means.* |
 | When returning to the Fox Hole in [Trest](../../../places/towns/trest.md), [Familia Vulpes](../../../organisations/familia-vulpes.md) members are able to gain the service of other organisation members who will aid them on their next adventure. |
 | A clear goal or end point must be established before help is offered. |

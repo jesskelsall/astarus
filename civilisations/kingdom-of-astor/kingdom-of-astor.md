@@ -97,7 +97,7 @@ Despite this, many drigg are happy with their role in life, happy to be contribu
 
 The main injustices in the Kingdom of Astor is the rank based class structure and lack of basic rights for all residents. [Magicborn](magicborn.md) are oppressed far greater than any other group.
 
-Despite this, Astor is incredibly tolerant of race, religion, and identity. It welcomes anyone who wishes to reside within its borders. There is no concept of “native races”, and those who move here are given equal chances to those born here.
+Despite this, Astor is incredibly tolerant of race, religion, and identity. It welcomes anyone who wishes to reside within its borders. There is no concept of "native races", and those who move here are given equal chances to those born here.
 
 The glaring exception is elves and half-elves who are seen as untrustworthy and seditious, due to their association with the [Syntenne Republic](../syntenne-republic/syntenne-republic.md).
 

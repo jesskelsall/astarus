@@ -73,7 +73,7 @@ The Astornox symbol is a grey triangle, pointed upward, with the diamond shaped 
 
 TODO:
 
-Decked out in Captain’s regalia: leather armour with delicate embossing of horses and swords, silver insignia of a bear in the centre. Plate shoulders with golden flower details. Astornox pin on his left side. Rapier with an ornate handle in a scabbard.
+Decked out in Captain's regalia: leather armour with delicate embossing of horses and swords, silver insignia of a bear in the centre. Plate shoulders with golden flower details. Astornox pin on his left side. Rapier with an ornate handle in a scabbard.
 
 ## Ranks
 

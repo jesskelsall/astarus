@@ -10,7 +10,7 @@
 
 ## Summary
 
-Flute Street is where the wealthier citizens of [Goldreach](README.md) live, and is where [Alistair Hawthorn](../../../../characters/alistair-hawthorn.md)’s House can be found.
+Flute Street is where the wealthier citizens of [Goldreach](README.md) live, and is where [Alistair Hawthorn's House](alistair-hawthorns-house.md) can be found.
 
 | Sensation | Description |
 | ---- | --- |

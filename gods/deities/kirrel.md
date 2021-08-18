@@ -15,9 +15,9 @@
 
 ## Teachings
 
-> All that we are and can be comes from the ground. Kirrel’s gifts allow us to prosper.
+> All that we are and can be comes from the ground. Kirrel's gifts allow us to prosper.
 
-Kirrel reminds people that nature’s bounty allows society to thrive, and so it must be listened to, nurtured and preserved. Like the forest and the sea, its followers are generous and kind, offering hospitality to any in need.
+Kirrel reminds people that nature's bounty allows society to thrive, and so it must be listened to, nurtured and preserved. Like the forest and the sea, its followers are generous and kind, offering hospitality to any in need.
 
 ## Imagery
 

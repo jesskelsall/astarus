@@ -17,7 +17,7 @@
 
 > Intelligent creatures are destined to do each other harm. Gormox decides who does it best.
 
-Gormox asks us to embrace our primal instincts and play “survival of the fittest” - there is no point in trying to fight this nature with civilised manners. His followers are warriors and revel in the glory of battle, are often selfish, and are opportunistic.
+Gormox asks us to embrace our primal instincts and play "survival of the fittest" - there is no point in trying to fight this nature with civilised manners. His followers are warriors and revel in the glory of battle, are often selfish, and are opportunistic.
 
 ## Imagery
 

@@ -15,9 +15,9 @@
 
 ## Teachings
 
-> All stories begin with life and end with death. It’s what we do in the middle that counts.
+> All stories begin with life and end with death. It's what we do in the middle that counts.
 
-Bhygar’s duality between life and death instills a sort of nihilism between his followers. Death is inevitable and not really to be celebrated. Instead, life and how it is lived is to be cherished, living in the moment.
+Bhygar's duality between life and death instills a sort of nihilism between his followers. Death is inevitable and not really to be celebrated. Instead, life and how it is lived is to be cherished, living in the moment.
 
 ## Imagery
 

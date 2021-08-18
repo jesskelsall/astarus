@@ -17,7 +17,7 @@
 
 > Only in death do our legacies endure, our deeds tallied and judged. To face death is to live.
 
-Malnesh is an alternative view on the role of death in one’s life. Her followers believe that grieving for the dead and continuing to honour them after they have gone is crucial. This places more emphasis on legacy than the moment-to-moment thrill of life.
+Malnesh is an alternative view on the role of death in one's life. Her followers believe that grieving for the dead and continuing to honour them after they have gone is crucial. This places more emphasis on legacy than the moment-to-moment thrill of life.
 
 ## Imagery
 
