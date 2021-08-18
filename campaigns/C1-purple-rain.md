@@ -53,7 +53,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR10](../sessions/completed/PR10.md) | 2020-12-09 | *[Magicborn on the Run](../storylines/ended/magicborn-on-the-run.md)* |
 | [PR11](../sessions/completed/PR11.md) | 2020-12-16 | *Hills, Voices, and Mind Reading* |
 | [PR12](../sessions/completed/PR12.md) | 2021-01-27 | *[The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md)* |
-| [PR13](../sessions/completed/PR13.md) | 2021-02-03 | *On To the River* |
+| [PR13](../sessions/completed/PR13.md) | 2021-02-03 | *On to the River* |
 | [PR14](../sessions/completed/PR14.md) | 2021-02-06 | *Sarleen* |
 | [PR15](../sessions/completed/PR15.md) | 2021-02-13 | *A House of Help* |
 | [PR16](../sessions/completed/PR16.md) | 2021-02-17 | *The [Northhaven Wall](../places/structures/northhaven-wall.md)* |
@@ -73,8 +73,9 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR29](../sessions/completed/PR29.md) | 2021-06-30 | *First Floor Fiasco* |
 | [PR30](../sessions/completed/PR30.md) | 2021-07-07 | *Mission Complete* |
 | [PR31](../sessions/completed/PR31.md) | 2021-07-14 | *A Riddle for Saoirse* |
+| [PR32](../sessions/PR32.md) | 2021-08-11 | *Estuary Escapades* |
 ||
-| [PR32](../sessions/upcoming/PR32.md) | 2021-08-11 | |
+| [PR33](../sessions/upcoming/PR33.md) | 2021-08-17 | |
 
 ## Storylines
 
