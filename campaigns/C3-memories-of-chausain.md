@@ -4,11 +4,11 @@
 
 ## Premise
 
-> Within the varied and colourful city states of the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), two influential organisations cross paths over an intriguing artefact. It may hold clues to the tragic fate of the legendary city of Chausain...
+> Within the varied and colourful states of the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), two influential organisations cross paths over an intriguing artefact. It may hold clues to the tragic fate of the legendary city of Chausain...
 
 ## Party Members
 
-| [Becca](../players/becca.md) | [Rin](../players/rin.md) | [Sophie](../players/sophie.md) | [Vika](../players/vika.md) |
+| [Becca](../players/becca.md) | [Rin](../players/rin.md) | [Sophie](../players/sophie.md) | [Viktorija](../players/viktorija.md) |
 |:---:|:---:|:---:|:---:|
 | | | | |
 | | | | |
@@ -34,10 +34,11 @@
 
 | Session | Date | Title |
 |---| --- | --- |
-| [MC00](../sessions/upcoming/MC00.md) | 2021-08-08 | *Session Zero* |
-| MC01A | | |
-| MC01B | | |
-| MC02 | | |
+| [MC00](../sessions/completed/MC00.md) | 2021-08-08 | *Session Zero* |
+||
+| [MC01F](../sessions/upcoming/MC01F.md) | 2021-08-29 | |
+| [MC01M](../sessions/upcoming/MC01M.md) | 2021-09-05 | |
+| [MC02](../sessions/upcoming/MC02.md) | | |
 
 ## Storylines
 

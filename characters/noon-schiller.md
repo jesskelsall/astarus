@@ -30,9 +30,9 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 ### Ability Scores
 
-| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Roll | 18 | 15 | 14 | 12 | 11 | 10 | 80 |
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 18 | 15 | 14 | 12 | 11 | 10 | 80 |
 
 ### Hit Points
 

@@ -32,9 +32,9 @@ He is a straightforward person with a military personality. He stands to attenti
 
 ### Ability Scores
 
-| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Roll | 17 | 15 | 15 | 13 | 11 | 10 | 81 |
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 17 | 15 | 15 | 13 | 11 | 10 | 81 |
 
 ### Hit Points
 

@@ -10,7 +10,7 @@
 
 ## Summary
 
-Humouth Lighthouse is a lighthouse that helps ships navigate their way between the [Sea of Songs](../seas/sea-of-songs.md) and the [River Humar](../rivers-lakes/river-humar.md), around the Humar Estuary.
+Humouth Lighthouse is a lighthouse that helps ships navigate their way between the [Sea of Songs](../seas-oceans/sea-of-songs.md) and the [River Humar](../rivers-lakes/river-humar.md), around the Humar Estuary.
 
 It is a typical lighthouse design in plain white. A slightly tapered cylinder of cobbled stone, painted white but stripped on its east side due to the wind. The lamp deck is enclosed, with a magical light source on the inside acting as a beacon during the night hours.
 

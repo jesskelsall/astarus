@@ -63,4 +63,4 @@ Astarus was formed in *176 A.A.* (488 years ago) by the insider [gods](../gods/g
 ## Geography
 
 - [Kardan](../places/continents/kardan.md)
-- [Sea of Songs](../places/seas/sea-of-songs.md)
+- [Sea of Songs](../places/seas-oceans/sea-of-songs.md)

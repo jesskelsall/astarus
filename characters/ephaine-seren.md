@@ -30,9 +30,9 @@ Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 ### Ability Scores
 
-| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Roll | 17 | 16 | 15 | 12 | 12 | 8 | 80
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 17 | 16 | 15 | 12 | 12 | 8 | 80
 
 ### Hit Points
 

@@ -49,9 +49,9 @@ Vilnia Kovas is an [Astorrel](../organisations/astorrel/astorrel.md) Hunter base
 
 ### Ability Scores
 
-| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Roll | 17 | 14 | 13 | 13 | 11 | 7 | 75 |
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 17 | 14 | 13 | 13 | 11 | 7 | 75 |
 
 ### Hit Points
 

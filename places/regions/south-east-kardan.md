@@ -5,7 +5,7 @@
 | **Name** | South East Kardan |
 | **Type** | Region |
 | **Location** | [Kardan](../continents/kardan.md)<br>[Astarus](../../planes/astarus.md) |
-| **Nearby Places** | [Sea of Songs](../seas/sea-of-songs.md) |
+| **Nearby Places** | [Sea of Songs](../seas-oceans/sea-of-songs.md) |
 | **People** | |
 
 ## Summary
@@ -16,7 +16,7 @@ The south east of [Kardan](../continents/kardan.md) is a temperate region that l
 
 During the summer the days are long and warm, with little cloud coverage. During the winter there is snow in the mountains and highlands. In between there is much rain.
 
-To its south east is the [Sea of Songs](../seas/sea-of-songs.md), which contains the island of [Kardanis](kardanis.md).
+To its south east is the [Sea of Songs](../seas-oceans/sea-of-songs.md), which contains the island of [Kardanis](kardanis.md).
 
 The entire south east is controlled by the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 

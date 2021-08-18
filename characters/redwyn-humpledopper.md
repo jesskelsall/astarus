@@ -30,9 +30,9 @@ Redwyn Humpledopper is a former player character in the [Astorrel Agents](../cam
 
 ### Ability Scores
 
-| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Standard | 15 | 14 | 13 | 12 | 10 | 8 | 72 |
+| [Standard Array](../mechanics/ability-score-method/standard-array.md) | 15 | 14 | 13 | 12 | 10 | 8 | 72 |
 
 ### Hit Points
 

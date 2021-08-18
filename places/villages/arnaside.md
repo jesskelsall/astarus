@@ -7,12 +7,12 @@
 | **Location** | [Central Astor](../regions/central-astor.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 180 |
-| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br>[Sea of Songs](../seas/sea-of-songs.md)<br>[Walna Forest](../forests/walna-forest.md) |
+| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br>[Sea of Songs](../seas-oceans/sea-of-songs.md)<br>[Walna Forest](../forests/walna-forest.md) |
 | **People** | |
 
 ## Summary
 
-Arnaside is a village on the coast of the [Sea of Songs](../seas/sea-of-songs.md), near to where [Walna Forest](../forests/walna-forest.md) meets the sea.
+Arnaside is a village on the coast of the [Sea of Songs](../seas-oceans/sea-of-songs.md), near to where [Walna Forest](../forests/walna-forest.md) meets the sea.
 
 The village is set upon sheer high cliffs, 50ft tall in some places. Here the eastern extents of the [Walna Forest](../forests/walna-forest.md) reach the tall cliffs. Between the two is where Arnaside was built. The buildings are single storey cobbled stone structures with gradually sloping roofs covered in thick grass for insulation and to keep the often heavy winds out. The only building that deviates from this low profile is 
 

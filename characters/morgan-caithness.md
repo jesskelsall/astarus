@@ -50,9 +50,9 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/astorrel
 
 ### Ability Scores
 
-| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Roll | 14 | 12 | 12 | 11 | 10 | 9 | 68 |
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 14 | 12 | 12 | 11 | 10 | 9 | 68 |
 
 ### Hit Points
 

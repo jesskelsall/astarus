@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/556ce67a6c183e48.png" height="200" />
 
-| []() | |
+|||
 | --- | --- |
-| **Capital City** | [Northhaven](../../places/cities/northhaven.md) |
+| **Capital City** | [Northhaven](../../places/cities/northhaven.md) | civilisation.2
 | **Official Languages** | Common |
 | **Ethnic Groups** | Human<br>Halfling<br>Gnome<br>[Cepine](../../lineages/cepine.md) (human) |
 | **Religion** | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
@@ -14,6 +14,7 @@
 | **Territories** | [South East Kardan](../../places/regions/south-east-kardan.md)<br>[Kardanis](../../places/regions/kardanis.md) |
 | **Founded** | *0 P.A.* |
 | **Neighbours** | [Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south)<br>[Dardenn Kingdom](../dardenn-kingdom/dardenn-kingdom.md) (north)<br>[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (west) |
+| **Alliances** | |
 | **Wars** | Astor-Syntenne War (*88 P.A.* - current) |
 | **Image ID** | `556ce67a6c183e48` |
 
@@ -116,6 +117,7 @@ Education is not a universal right. It is only available to those who can afford
 | Forest | [Hawkswood](../../places/forests/hawkswood.md)<br>Humar Estuary<br>[Mocker Swamp](../../places/forests/mocker-swamp.md)<br>[Walna Forest](../../places/forests/walna-forest.md)<br>[Winster Forest](../../places/forests/winster-forest.md) | [Mocker Swamp](../../places/forests/mocker-swamp.md)<br>[Tulligwood](../../places/forests/tulligwood.md) | [Hawkswood](../../places/forests/hawkswood.md)<br>[Winster Forest](../../places/forests/winster-forest.md) | [Hawkswood](../../places/forests/hawkswood.md) | [Great Sile Woods](../../places/forests/great-sile-woods.md) | |
 | Rivers & Lakes | [Duskmere](../../places/rivers-lakes/duskmere.md)<br>[Esk Delta](../../places/rivers-lakes/esk-delta.md)<br>[River Carn](../../places/rivers-lakes/river-carn.md)<br>[River Esk](../../places/rivers-lakes/river-esk.md)<br>[River Humar](../../places/rivers-lakes/river-humar.md) | [River Esk](../../places/rivers-lakes/river-esk.md) | [Ire Water](../../places/rivers-lakes/ire-water.md)<br>[River Humar](../../places/rivers-lakes/river-humar.md) | [Picdale Water](../../places/rivers-lakes/picdale-water.md)<br>[River Carn](../../places/rivers-lakes/river-carn.md) | [Blittergate Lake](../../places/rivers-lakes/blittergate-lake.md)<br>[Pinmore Water](../../places/rivers-lakes/pinmore-water.md)<br>[River Kasnar](../../places/rivers-lakes/river-kasnar.md)<br>[Wolmere](../../places/rivers-lakes/wolmere.md) | |
 | Mountains | [Knock Peaks](../../places/mountains/knock-peaks.md)<br>[Walna Pike](../../places/mountains/walna-pike.md) | [Bere Gable](../../places/mountains/bere-gable.md)<br>[Knock Peaks](../../places/mountains/knock-peaks.md) | [Foss Peaks](../../places/mountains/foss-peaks.md)<br>[Iremara](../../places/mountains/iremara.md) | [Foss Peaks](../../places/mountains/foss-peaks.md) | | [Karmox](../../places/mountains/karmox.md) |
+| Seas & Oceans | [Sea of Songs](../../places/seas-oceans/sea-of-songs.md) | [Sea of Songs](../../places/seas-oceans/sea-of-songs.md) | | [Carneid Inlet](../../places/seas-oceans/carneid-inlet.md) | [Carneid Inlet](../../places/seas-oceans/carneid-inlet.md)<br>[Sea of Songs](../../places/seas-oceans/sea-of-songs.md) | [Sea of Songs](../../places/seas-oceans/sea-of-songs.md) |
 
 ## History
 

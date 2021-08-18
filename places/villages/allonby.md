@@ -7,7 +7,7 @@
 | **Location** | [Central Astor](../regions/central-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 320 |
-| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br>[Sea of Songs](../seas/sea-of-songs.md) |
+| **Nearby Places** | [Coastal Trail](../roads/coastal-trail.md)<br>[Sea of Songs](../seas-oceans/sea-of-songs.md) |
 | **People** | |
 
 ## Summary

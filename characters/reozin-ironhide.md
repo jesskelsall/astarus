@@ -47,9 +47,9 @@ Reozin Ironhide is a [Mortar Squad](../organisations/astorrel/squads/mortar-squa
 
 ### Ability Scores
 
-| Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Roll | 16 | 15 | 15 | 13 | 13 | 10 | 82 |
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 16 | 15 | 15 | 13 | 13 | 10 | 82 |
 
 ### Hit Points
 
