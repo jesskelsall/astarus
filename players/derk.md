@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Derk | player.3
+| **Name** | Derk Over | player.3
 | **Pronouns** | he/him |
 | **Country** | `NL 🇳🇱` |
 | **Discord** | `dovertje#2838` |
