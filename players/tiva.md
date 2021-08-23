@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Tiva | player.3
+| **Name** | Tiva Pam | player.3
 | **Pronouns** | she/they |
 | **Country** | `NL 🇳🇱` |
 | **Discord** | `tivaap#0891` |
