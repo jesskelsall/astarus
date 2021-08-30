@@ -74,8 +74,12 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR30](../sessions/completed/PR30.md) | 2021-07-07 | *Mission Complete* |
 | [PR31](../sessions/completed/PR31.md) | 2021-07-14 | *A Riddle for Saoirse* |
 | [PR32](../sessions/PR32.md) | 2021-08-11 | *Estuary Escapades* |
+| [PR33](../sessions/PR33.md) | 2021-08-18 | *Esme* |
 ||
-| [PR33](../sessions/upcoming/PR33.md) | 2021-08-17 | |
+| [PR34](../sessions/upcoming/PR34.md) | 2021-09-01 | |
+| [PR35](../sessions/upcoming/PR35.md) | 2021-09-15 | |
+| [PR36](../sessions/upcoming/PR36.md) | 2021-09-22 | |
+| [PR37](../sessions/upcoming/PR37.md) | 2021-09-29 | |
 
 ## Storylines
 
