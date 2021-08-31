@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Esme Leithran | character.3
-| **Lineage** | Elf / Genasi (Earth) |
+| **Lineage** | Elf (Wood) / Genasi (Earth) |
 | **Pronouns** | she/her |
 | **Age** | 4 |
 | **Class** | |

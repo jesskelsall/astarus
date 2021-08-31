@@ -108,3 +108,4 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Talk to the Morning Chasers](../storylines/talk-to-the-morning-chasers.md) | [PR27](../sessions/completed/PR27.md) | [PR30](../sessions/completed/PR30.md) |
 | [How to Summon Your Dragon](../storylines/how-to-summon-your-dragon.md) | [PR30](../sessions/completed/PR30.md) | |
 | [Investigate the Humar Meteorite Crater](../storylines/investigate-the-humar-meteorite-crater.md) | [PR30](../sessions/completed/PR30.md) | |
+| [Giving Esme a Childhood](../storylines/giving-esme-a-childhood.md) | [PR32](../sessions/PR32.md) | |
