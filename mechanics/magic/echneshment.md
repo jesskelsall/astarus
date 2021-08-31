@@ -14,7 +14,7 @@ Created by [Malnesh](../../gods/deities/malnesh.md) herself with the assistance 
 
 ### [Memory Spheres](../../items/memory-spheres/memory-sphere.md)
 
-[Memory spheres](../../items/memory-spheres/memory-sphere.md) use echneshment to collect memories from the surrounding area and collect them for future access. Their design is condusive to the storage of and recollection of the memories stored within, without the sphere itself acting upon the memories.
+[Memory spheres](../../items/memory-spheres/memory-sphere.md) use echneshment to collect memories from the surrounding area and collect them for future access. Their design is condusive to the storage and recollection of the memories stored within, without the sphere itself acting upon the memories.
 
 ### [Unevaire](../../items/weapons/unevaire.md)
 
