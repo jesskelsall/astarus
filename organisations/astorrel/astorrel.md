@@ -154,19 +154,3 @@ They then have their foreheads marked with coloured paint in their god's colour,
 After the hour has elapsed, the final state of the ceremony begins. One by one each recruit is called to the front, witnessed by all of the other recruits present. They are told their starting rank, affixed their rank pin, and given an initial allowance of gold for which to buy their starting supplies and equipment.
 
 Following this their superior officer finds them, introduces them to their team, and gives them orders. For Squad Hands this means meeting their Squad Sergeant, the rest of their squad, and being given their first mission.
-
-## People
-
-| Name | Rank |
-| --- | --- |
-| [Levelle Tristwix](../../characters/levelle-tristwix.md) | [Astorrel Commandant](ranks/astorrel-commandant.md) |
-| [Mergin Thorgus](../../characters/mergin-thorgus.md) | [Astorrel Captain](ranks/astorrel-captain.md) ([Northhaven](../../places/cities/northhaven.md)) |
-| [Bryce Morton](../../characters/bryce-morton.md) | [Astorrel Squad Sergeant](ranks/astorrel-squad-sergeant.md) |
-| [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Astorrel Squad Hand](ranks/astorrel-squad-hand.md) |
-| [Ephaine Seren](../../characters/ephaine-seren.md) | [Astorrel Squad Hand](ranks/astorrel-squad-hand.md) |
-| [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) | [Astorrel Squad Hand](ranks/astorrel-squad-hand.md) |
-| [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | [Astorrel Squad Hand](ranks/astorrel-squad-hand.md) |
-| [Darius Dunn](../../characters/darius-dunn.md) | [Astorrel Squad Hand](ranks/astorrel-squad-hand.md) |
-| [Morgan Caithness](../../characters/morgan-caithness.md) | [Astorrel Squad Hand](ranks/astorrel-squad-hand.md) |
-| [Penance Zahiri](../../characters/penance-zahiri.md) | [Astorrel Squad Hand](ranks/astorrel-squad-hand.md) |
-| [Tabari Se](../../characters/tabari-se.md) | [Astorrel Squad Hand](ranks/astorrel-squad-hand.md) |

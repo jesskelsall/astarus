@@ -58,7 +58,7 @@ Astarus is relatively new. This means that the land is largely unexplored, unset
 
 ### Beginning of the World
 
-Astarus was formed in *176 A.A.* (488 years ago) by the insider [gods](../gods/gods.md). This was within two generations of history for some of the longer lived races.
+Astarus was formed in *176 AA* (488 years ago) by the insider [gods](../gods/gods.md). This was within two generations of history for some of the longer lived races.
 
 ## Geography
 

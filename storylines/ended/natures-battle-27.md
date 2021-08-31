@@ -7,7 +7,7 @@
 
 ## Summary
 
-In 312 P.A. the [Nature's Battle](../../mechanics/roleplay/natures-battle.md) tournament once again takes place as part of the [Blade's Rest](../../festivals/blades-rest.md) festival. Both [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) are invited to compete.
+In 312 PA the [Nature's Battle](../../mechanics/roleplay/natures-battle.md) tournament once again takes place as part of the [Blade's Rest](../../festivals/blades-rest.md) festival. Both [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) are invited to compete.
 
 ## Bracket
 
@@ -31,13 +31,13 @@ This table shows the [Astorrel](../../organisations/astorrel/astorrel.md) squad 
 
 ### [AA06](../../sessions/completed/AA06.md)
 
-Returning to [Bryce Morton](../../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 27 ([Nature's Battle Canary Squad Invite](../../papers/letters/natures-battle-canary-squad-invite.md)).
+Returning to [Bryce Morton](../../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 27 ([AA06-L-1](../../papers/letters/AA06-L-1.md)).
 
 After discussing how competing will affect their next mission, Bryce reassures them that the tournament is their priority if they choose to compete - the mission can wait. After a discussion they choose to compete, responding to [Liabella Peacock](../../characters/liabella-peacock.md) by letter sent from [Astpost Northhaven](../../places/buildings/shops/astpost-northhaven.md).
 
 ### [PR21](../../sessions/completed/PR21.md)
 
-Immediately following the [Purple Rain](../../campaigns/C1-purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 27 ([Nature's Battle Starfall Squad Invite](../../papers/letters/natures-battle-starfall-squad-invite.md)).
+Immediately following the [Purple Rain](../../campaigns/C1-purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 27 ([PR21-L-1](../../papers/letters/PR21-L-1.md)).
 
 The party is excited at the prospect of competing.
 

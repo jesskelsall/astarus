@@ -3,8 +3,8 @@
 | <img src="../../../images/card-icons/the-time-enlightened.png" height="60" /> |
 |:---:|
 | **Fame** |
-| *There is a growing movement of so-called Returners gathering in [Arrepont](../../../places/cities/arrepont.md). They believe it is possible to return to Oonar, and they are seeking our help.* |
-| Returners see [The Time Enlightened](../../../organisations/the-time-enlightened.md) as their salvation. While followers of [Valnos](../../../gods/deities/valnos.md) revere [The Time Enlightened](../../../organisations/the-time-enlightened.md), it is Returners who stand to gain the most from their existence, as without their help they may never find a way back to Oonar. |
+| *There is a growing movement of so-called Returners gathering in [Arrepont](../../../places/cities/arrepont.md). They believe it is possible to return to [Oonar](../../../planes/oonar.md), and they are seeking our help.* |
+| Returners see [The Time Enlightened](../../../organisations/the-time-enlightened.md) as their salvation. While followers of [Valnos](../../../gods/deities/valnos.md) revere [The Time Enlightened](../../../organisations/the-time-enlightened.md), it is Returners who stand to gain the most from their existence, as without their help they may never find a way back to [Oonar](../../../planes/oonar.md). |
 
 | <img src="../../../images/card-icons/the-time-enlightened.png" height="60" /> |
 |:---:|

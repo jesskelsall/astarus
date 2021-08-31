@@ -12,10 +12,10 @@
 | **Government** | Militocracy |
 | **Leader** | [Corville Thornox](../../characters/corville-thornox.md)<br>*General Supreme* |
 | **Territories** | [South East Kardan](../../places/regions/south-east-kardan.md)<br>[Kardanis](../../places/regions/kardanis.md) |
-| **Founded** | *0 P.A.* |
+| **Founded** | *0 PA* |
 | **Neighbours** | [Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south)<br>[Dardenn Kingdom](../dardenn-kingdom/dardenn-kingdom.md) (north)<br>[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (west) |
 | **Alliances** | |
-| **Wars** | Astor-Syntenne War (*88 P.A.* - current) |
+| **Wars** | Astor-Syntenne War (*88 PA* - current) |
 | **Image ID** | `556ce67a6c183e48` |
 
 ## Summary
@@ -109,7 +109,7 @@ Education is not a universal right. It is only available to those who can afford
 
 | Type | [Central Astor](../../places/regions/central-astor.md) | [Eastern Astor](../../places/regions/eastern-astor.md) | [Northern Astor](../../places/regions/northern-astor.md) | [Western Astor](../../places/regions/western-astor.md) | [Southern Astor](../../places/regions/southern-astor.md) | [Kardanis](../../places/regions/kardanis.md) |
 | --- | --- | --- | --- | --- | --- | --- |
-| City | [Eskrigg](../../places/cities/eskrigg.md)<br>[Northhaven](../../places/cities/northhaven.md) | [Dunmore](../../places/cities/dunmore.md) | | | [Yeatscale](../../places/cities/yeatscale.md) | |
+| City | [Eskrigg](../../places/cities/eskrigg.md)<br>[Northhaven](../../places/cities/northhaven.md) (capital) | [Dunmore](../../places/cities/dunmore.md) | | | [Yeatscale](../../places/cities/yeatscale.md) | |
 | Town | Eaglesfield<br>Foxhaven<br>Holmrook<br>[Mockerkin](../../places/towns/mockerkin.md) | Kilflynn | [Beckermet](../../places/towns/beckermet.md)<br>[Goldreach](SETTLEMENTS/GOLDREACH/README.md)<br>Hawksglass<br>Iredale | Carnmere<br>Hyceodd | Blittergate | Baldrine<br>Port Soderick |
 | Village | [Allonby](../../places/villages/allonby.md)<br>[Arnaside](../../places/villages/arnaside.md)<br>Bootle<br>Grasthwaite<br>[Humouth](../../places/villages/humouth.md)<br>[Ulburn](../../places/villages/ulburn.md) | Adrigole<br>Glengariff | [Frizthwaite](../../places/villages/frizthwaite.md)<br>[Howbridge](../../places/towns/howbridge.md)<br>Langtock | Filisur<br>Hartsgarth<br>Picdale | Mossband<br>Silethwaite<br>Wolsty | Ballabeg<br>Braddan<br>Maughold |
 | Fort | Fort Eldrick<br>Fort Knowe | | | Fort Maloja | Fort Girvan<br>Fort Maidens<br>Fort Pinmore<br>Fort Polbae<br>Fort Siloth | |

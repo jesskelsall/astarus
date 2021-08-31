@@ -28,7 +28,7 @@ has led to an architectural renaissance that rivals the elven cities of [Reimate
 
 | Type | Valburg |
 | --- | --- |
-| City | [Hochwald](../../../places/cities/hochwald.md) |
+| City | [Hochwald](../../../places/cities/hochwald.md) (capital) |
 | Town | |
 | Village | |
 | Fort | |

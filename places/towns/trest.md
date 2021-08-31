@@ -6,8 +6,8 @@
 | **Type** | Town |
 | **Location** | [Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
 | **Civilisation** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
-| **Population** | |
-| **Nearby Places** | [Gulf of Tanelle](../seas-oceans/gulf-of-tanelle.md)<br>[Nilus Peaks](../mountains/nilus-peaks.md) |
+| **Population** | 1,400 |
+| **Nearby Places** | [Gulf of Tanelle](../seas-oceans/gulf-of-tanelle.md)<br>[Nilus Peaks](../mountains/nilus-peaks.md)<br>[Trubska](../villages/trubska.md) |
 | **People** | |
 
 ## Summary
@@ -16,6 +16,15 @@ The second settlement along the [Nilus Coast](../../civilisations/nilsavnic-alli
 
 [Familia Vulpes](../../organisations/familia-vulpes.md) was founded and are still headquartered in Trest.
 
+| Sensation | Description |
+| ---- | --- |
+| Sights | Town on a consistently sloping hill. Multi-storey buildings with maze-like narrow cobbled streets between. Drainage channels cut down every street to help the water flow during rainy days. Bunting in turquoise and gold criss-crosses many streets. Large main road cuts town in half east to west. Views of the [Nilus Peaks](../mountains/nilus-peaks.md) to the north, [Gulf of Tanelle](../seas-oceans/gulf-of-tanelle.md) to the south. |
+| Sounds | Hustle bustle of daily life. Horses and carts. Merchants trading. Pigeons. Children playing in [the alleys](../buildings/shops/the-alley.md). |
+| Smells | Salt air, mossy cobble, fresh bread, bird poop. |
+| People | Lower to middle class citizens, merchants, [Coastguard](../../organisations/coastguard.md). |
+| Intrigue | A humble trading town along a well travelled route. |
+
 ## Places
 
-- The Fox Hole ([Familia Vulpes](../../organisations/familia-vulpes.md) HQ)
+- [The Fox Hole](../buildings/the-fox-hole.md) ([Familia Vulpes](../../organisations/familia-vulpes.md) HQ)
+- [Trest Marketplace](../structures/trest-marketplace.md)

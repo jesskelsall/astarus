@@ -10,7 +10,7 @@
 | **Age** | 4 |
 | **Class** | |
 | **Worship** | |
-| **Relations** | [Montel Leithran](montel-leithran.md) (father)<br>[Vensys Leithran](vensys-leithran.md) (mother, deceased) |
+| **Relations** | [Montel Leithran](montel-leithran.md) (father)<br>[Vensys Leithran](vensys-leithran.md) (mother, dead) |
 | **Places** | Humar Estuary Water Shack<br>Hyceodd (birthplace) |
 |||
 | **Citizenship** | |

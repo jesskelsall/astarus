@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | The Arrival |
-| **Date** | 176 A.A. |
+| **Date** | 176 AA |
 
 ## Summary
 

@@ -1,6 +1,6 @@
 # Meteoric Map of Astor
 
-<img src="../../images/papers/maps/meteoric-map-of-astor.jpg" />
+<img src="../../images/maps/meteoric-map-of-astor.jpg" />
 
 ## Summary
 

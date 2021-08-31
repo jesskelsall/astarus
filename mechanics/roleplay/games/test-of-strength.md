@@ -10,7 +10,7 @@ The player is given a large wooden box weighing 20 lbs to hold with both arms. I
 
 ## Starting
 
-The player picks up the 20 lb wooden box.
+The player picks up the 20 lbs wooden box.
 
 ## Adding Weight
 
@@ -22,14 +22,14 @@ After succeeding the Strength saving throw, the next save is +3 DC. This process
 
 | Sandbags | Weight | Sandbags | Weight |
 |:---:|:---:|:---:|:---:|
-| 0 | 20 lb | 11 | 460 lb |
-| 1 | 60 lb | 12 | 500 lb |
-| 2 | 100 lb | 13 | 540 lb |
-| 3 | 140 lb | 14 | 580 lb |
-| 4 | 180 lb | 15 | 620 lb |
-| 5 | 220 lb | 16 | 660 lb |
-| 6 | 260 lb | 17 | 700 lb |
-| 7 | 300 lb | 18 | 740 lb |
-| 8 | 340 lb | 19 | 780 lb |
-| 9 | 380 lb | 20 | 820 lb |
-| 10 | 420 lb | 21 | 860 lb |
+| 0 | 20 lbs | 11 | 460 lbs |
+| 1 | 60 lbs | 12 | 500 lbs |
+| 2 | 100 lbs | 13 | 540 lbs |
+| 3 | 140 lbs | 14 | 580 lbs |
+| 4 | 180 lbs | 15 | 620 lbs |
+| 5 | 220 lbs | 16 | 660 lbs |
+| 6 | 260 lbs | 17 | 700 lbs |
+| 7 | 300 lbs | 18 | 740 lbs |
+| 8 | 340 lbs | 19 | 780 lbs |
+| 9 | 380 lbs | 20 | 820 lbs |
+| 10 | 420 lbs | 21 | 860 lbs |

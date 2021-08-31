@@ -28,7 +28,7 @@ Following the founding of the alliance and the inclusion of [Reimatelau](reimate
 
 | Type | Savnia |
 | --- | --- |
-| City | [Arrepont](../../../places/cities/arrepont.md) |
+| City | [Arrepont](../../../places/cities/arrepont.md) (capital) |
 | Town | |
 | Village | |
 | Fort | |

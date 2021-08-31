@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Darjonkaargeac Hidaar | character.3
-| **Lineage** | Dragonborn (Cold) |
+| **Lineage** | Dragonborn (Silver) |
 | **Pronouns** | they/them |
 | **Age** | 44 |
 | **Class** | Paladin |

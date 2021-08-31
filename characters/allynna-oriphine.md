@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Allynna Oriphine | character.3
-| **Lineage** | Elf (wood) |
+| **Lineage** | Elf (Wood) |
 | **Pronouns** | she/her |
 | **Age** | 138 |
 | **Class** | Monk (Way of the Open Hand) |

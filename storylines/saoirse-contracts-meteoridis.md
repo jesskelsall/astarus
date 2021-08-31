@@ -17,7 +17,7 @@ During the fight with the [Meteoric Watchers](../creatures/meteoric-watcher.md) 
 
 She immediately passed out on top of the [meteorite](../items/meteoric/meteorite.md). While unconscious, she dreamed of a evening's sky filled with stars, all beginning to move in tandem, shifting from white to purple as they accelerated. It felt good, and she wished to be back in the cave, close to the [meteorite](../items/meteoric/meteorite.md) and the watchers. Here [Meteoridis](../mechanics/roleplay/meteoridis.md) compulsions began.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) becomes cursed with [Meteoridis](../mechanics/roleplay/meteoridis.md).]*
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) becomes cursed with [Meteoridis](../mechanics/roleplay/meteoridis.md)]*
 
 When [Wizira](../characters/wizira.md) wild shaped into a horse kicked the [meteorite](../items/meteoric/meteorite.md), [Saoirse](../../../astarus/people/saoirse.md) immediately woke up. She was able to rejoin the fight, but was compelled to grab the [meteorite](../items/meteoric/meteorite.md) as she went.
 
@@ -49,13 +49,13 @@ When [Elysia Vanderboss](../characters/elysia-vanderboss.md) visits a second tim
 
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md), now out of the anti-magic field of [The Sanctum](../places/buildings/the-sanctum.md), decides to experiment with the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and the [meteoric dust](../items/meteoric/meteoric-dust.md) she has collected. She finds that ingesting some of the dust will enhance her magical abilities, but it also has psychedelic effects.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) learns how to ingest [meteoric dust](../items/meteoric/meteoric-dust.md) to induce the [meteoric dust effect](../items/meteoric/meteoric-dust-effect.md).]*
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) learns how to ingest [meteoric dust](../items/meteoric/meteoric-dust.md) to induce the [meteoric dust effect](../items/meteoric/meteoric-dust-effect.md)]*
 
 ### [PR25](../sessions/completed/PR25.md)
 
 Hours before the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) ingests a portion of [meteoric dust](../items/meteoric/meteoric-dust.md). She does so because she feels useless in the arena, so she may as well fight while high.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is now under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md).]*
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is now under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md)]*
 
 ### [PR26](../sessions/completed/PR26.md)
 
@@ -71,7 +71,7 @@ When the rest of the party catch up to Saoirse, she instinctively casts Meteoric
 
 After a good night's sleep, the effects of the [meteoric dust](../items/meteoric/meteoric-dust.md) wear off.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md).]*
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer under the effect of the [meteoric dust](../items/meteoric/meteoric-dust.md)]*
 
 ### [PR28](../sessions/completed/PR28.md)
 
@@ -103,4 +103,4 @@ On their return Mergin speaks to Saoirse about how she feels, finding it unlikel
 
 When she wakes up 5 minutes later all of her compulsions are gone and she feels refreshed and energised. She and Elysia thank Mergin for his help, the favour cashed in.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer cursed with [Meteoridis](../mechanics/roleplay/meteoridis.md).]*
+*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer cursed with [Meteoridis](../mechanics/roleplay/meteoridis.md)]*

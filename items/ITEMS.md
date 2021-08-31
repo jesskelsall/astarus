@@ -7,7 +7,7 @@
 | []() | |
 | --- | --- |
 | **Name(s)** | [Meteorite](meteoric/meteorite.md)<br>Orb (unknown) |
-| **Weight** | 2 lb |
+| **Weight** | 2 lbs |
 | **Notes** | Curiosity |
 
 > A dark grey sphere that was found in the center of a crater, accompanied by strange creatures.
@@ -19,7 +19,7 @@
 | []() | |
 | --- | --- |
 | **Name(s)** | [Meteoric Dust](meteoric/meteoric-dust.md)<br>Grey Dust (unknown) |
-| **Weight** | < 1 lb |
+| **Weight** | < 1 lbs |
 | **Notes** | Substance |
 
 > A dark grey sand-like substance. Its properties are unknown.
@@ -43,7 +43,7 @@
 | []() | |
 | --- | --- |
 | **Name(s)** | Skipping Stone |
-| **Weight** | <1 lb |
+| **Weight** | <1 lbs |
 | **Notes** | |
 
 > A smooth rounded stone that is flatter in one dimension - perfect for skimming on a still body of water. Collected from the eastern shore of the round lake northwest of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).

@@ -12,5 +12,5 @@
 | **Home Bonus** |
 | **Spring of Knowledge** |
 | *The [Lelxuuth](../../../places/cities/lelxuuth.md) clan have put great emphasis on preserving any knowledge they can. Hence their strong partnership with [The Time Enlightened](../../../organisations/the-time-enlightened.md) who originated here.* |
-| When returning to the Atrium to Oonar in [Lelxuuth](../../../places/cities/lelxuuth.md), [The Time Enlightened](../../../organisations/the-time-enlightened.md) members have unparalleled access to the finest library in the [Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md). |
+| When returning to the Atrium to [Oonar](../../../planes/oonar.md) in [Lelxuuth](../../../places/cities/lelxuuth.md), [The Time Enlightened](../../../organisations/the-time-enlightened.md) members have unparalleled access to the finest library in the [Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md). |
 | Here it is considerably easier to seek knowledge and lore, providing you know what you are looking for. |

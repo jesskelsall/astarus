@@ -86,7 +86,7 @@ Her anger manifested as Giant's Might, causing her to grow to 12ft tall. She pic
 
 Both Torbra and the rest of the party were surprised to see her sudden growth. After a few moments she comfortably returned to her normal size.
 
-*[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to use Giant's Might at will.]*
+*[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to use Giant's Might at will]*
 
 ### [PR22](../sessions/completed/PR22.md)
 

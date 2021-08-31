@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Meteorite | item.2
-| **Weight** | 2 lb |
+| **Weight** | 2 lbs |
 | **Notes** | Meteoric |
 
 ## Description

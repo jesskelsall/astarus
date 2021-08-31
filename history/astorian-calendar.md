@@ -4,8 +4,8 @@
 
 The epoch of the date system is the day that the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) was formed.
 
-- Dates before this are **A.A.** (*ante Astor*).
-- Dates after this are **P.A.** (*post Astor*).
+- Dates before this are **AA** (*ante Astor*).
+- Dates after this are **PA** (*post Astor*).
 
 Each year is 225 days long.
 

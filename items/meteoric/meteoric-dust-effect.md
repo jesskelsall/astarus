@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | [Meteoric Dust Effect*](https://www.dndbeyond.com/magic-items/3213611-meteoric-dust-effect) | item.2
-| **Weight** | 2 lb |
+| **Weight** | 2 lbs |
 | **Notes** | *Bonus: Wisdom Score, Disadvantage: Wisdom Saving Throws* |
 
 ## Description

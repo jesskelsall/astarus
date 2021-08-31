@@ -25,7 +25,7 @@ Tarsha Nulas is the owner of [Adventures for Adventurers](../places/buildings/sh
 | --- | --- |
 | **Face** | Dark skin, brown eyes. Slim cheeks, curious gaze. Thin expressionless lips. | characteristics.2
 | **Hair** | Dark brown waist length ponytail. |
-| **Body** | 5'5" / 165 cm. Thin. |
+| **Body** | 5'5" / 165cm. Thin. |
 | **Clothes** | [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md), faded and fraying. Worn proudly after a career well served. |
 | **Voice** | Low female register. Somewhat hushed. |
 | **Mannerisms** | Likes to pace while talking, keeping herself occupied as she goes. |

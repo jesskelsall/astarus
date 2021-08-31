@@ -10,7 +10,7 @@ There is no correlation between race, gender, genetic background or bloodline be
 
 ## Within the [Kingdom of Astor](kingdom-of-astor.md)
 
-### Conscription
+## Conscription
 
 The [Astornox](../../organisations/astornox/astornox.md) have standing orders to apprehend any magicborn they find, and to bring them to the nearest city for processing.
 
@@ -18,31 +18,31 @@ This order is taken seriously by [Astornox](../../organisations/astornox/astorno
 
 Concealing magicborn or helping them escape the [Astornox](../../organisations/astornox/astornox.md) is also a serious crime that carries similarly harsh punishments.
 
-#### Processing
+### Processing
 
 Captured magicborn are taken to a processing facility at the nearest city. Here they are subjected to questioning about their powers. The [Astornox](../../organisations/astornox/astornox.md) that watch over them demand that they exhibit their powers, or be executed.
 
 This inevitably leads to those who will not display their powers, are not able to at will, or have no powers in the first place. All of these people are condemned to death all the same.
 
-#### The Conscripted
+### The Conscripted
 
 Those that have useful powers, particularly those who show a willingness to help, are conscripted into the [Astornox](../../organisations/astornox/astornox.md) for honourable duties such as army soldiers.
 
 Those that are hesitant to cooperate or are not particularly useful are made to perform hard labour tasks for the rest of their lives, under the control of the [Astornox](../../organisations/astornox/astornox.md). It is thought that as magicborn possess power, it is better to keep them busy and within view than let them go.
 
-### Public Perception
+## Public Perception
 
 Astorians range from accepting and sympathetic to frightened and distant to magicborn. The latter tends to be truer in smaller settlements where their exposure to magicborn is lesser.
 
 It is said that trouble follows magicborn wherever they go. As it is a crime to harbour magicborn, many Astorians prefer to keep their distance and refuse to help them, in case they risk their own lives.
 
-### Accusations
+## Accusations
 
 It is a crime to falsely accuse someone of being magicborn. If a magicborn is conscripted and executed for not showing magical ability, the same sentence is handed down to their accuser.
 
 This harsh punishment helps deter people from accusing their neighbours and rivals of being magicborn just because they don't like them. Accusing someone of being magicborn is a serious accusation that must be made with true conviction.
 
-### Living as a Magicborn
+## Living as a Magicborn
 
 For those that exhibit magical power, the simplest and easiest life is to join the military. Military members are not subject to conscription (as they are already part of the military). Despite the reputation of magicborn, both the [Astornox](../../organisations/astornox/astornox.md) and [Astorrel](../../organisations/astorrel/astorrel.md) openly recruit magicborn into their ranks. Exceptional magicborn that obey their orders are likely to rise up the ranks faster than non-magic members.
 

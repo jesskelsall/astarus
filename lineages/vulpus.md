@@ -1,3 +1,0 @@
-# Vulpus
-
-TODO

@@ -3,8 +3,8 @@
 |||
 | --- | --- |
 | **Name** | Humanoids and Rare Varieties | item.2
-| **Weight** | 20 lb |
-| **Notes** | By Nile-Vestor Caplain, 255 P.A. |
+| **Weight** | 20 lbs |
+| **Notes** | By Nile-Vestor Caplain, 255 PA |
 
 > A compendium of books detailing the humanoid races in great detail.
 

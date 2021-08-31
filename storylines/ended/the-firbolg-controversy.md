@@ -41,7 +41,7 @@ Levelle asks what the rest of the party's involvement is in this matter, but the
 
 ### [PR19](../../sessions/completed/PR19.md)
 
-While in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md) the party is visited by [Mergin Thorgus](../../characters/mergin-thorgus.md) who gives them [Northhaven Town Crier Script 312-5-06](../../papers/letters/northhaven-town-crier-script-312-5-06.md). This shows that there are troubles in [Eskrigg](../../places/cities/eskrigg.md) regarding firbolgs in the [Mocker Swamp](../../places/forests/mocker-swamp.md) which the [Astornox](../../organisations/astornox/astornox.md) suppressed.
+While in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md) the party is visited by [Mergin Thorgus](../../characters/mergin-thorgus.md) who gives them the day's town crier script ([PR19-L-1](../../papers/letters/PR19-L-1.md)). This shows that there are troubles in [Eskrigg](../../places/cities/eskrigg.md) regarding firbolgs in the [Mocker Swamp](../../places/forests/mocker-swamp.md) which the [Astornox](../../organisations/astornox/astornox.md) suppressed.
 
 [Rowan Great Sile](../../characters/rowan-great-sile.md)'s visit to see [Wizira](../../characters/wizira.md) showed that there are other known firbolg clans throughout [South East Kardan](../../places/regions/south-east-kardan.md), including in the [Great Sile Woods](../../places/forests/great-sile-woods.md) and [Tulligwood](../../places/forests/tulligwood.md).
 

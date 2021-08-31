@@ -26,12 +26,12 @@ One of the two founding states of the [Nil'Savnic Alliance](../nilsavnic-allianc
 
 | Type | Nilus Coast |
 | --- | --- |
-| City | [Starnov](../../../places/cities/starnov.md) |
-| Town | [Trest](../../../places/towns/trest.md) |
-| Village | |
+| City | [Starnov](../../../places/cities/starnov.md) (capital)<br>Bavorov |
+| Town | Losina<br>Temelin<br>[Trest](../../../places/towns/trest.md) |
+| Village | Bavnin<br>Sviny<br>[Trubska](../../../places/villages/trubska.md) |
 | Fort | |
-| Road | |
+| Road | [The Western Way](../../../places/roads/the-western-way.md) |
 | Forest | |
-| Rivers & Lakes | |
+| Rivers & Lakes | River Bav |
 | Mountains | [Nilus Peaks](../../../places/mountains/nilus-peaks.md) |
 | Seas & Oceans | [Gulf of Tanelle](../../../places/seas-oceans/gulf-of-tanelle.md)<br>[The Twilight Expanse](../../../places/seas-oceans/the-twilight-expanse.md) |

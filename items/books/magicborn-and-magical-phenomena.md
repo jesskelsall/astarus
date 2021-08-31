@@ -3,8 +3,8 @@
 |||
 | --- | --- |
 | **Name** | Magicborn and Magical Phenomena | item.2
-| **Weight** | 2 lb |
-| **Notes** | By Molgrast Flimtamble, 246 P.A. |
+| **Weight** | 2 lbs |
+| **Notes** | By Molgrast Flimtamble, 246 PA |
 
 > An encyclopedia of commonly known magical phenomena and effects.
 

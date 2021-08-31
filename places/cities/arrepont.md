@@ -27,7 +27,7 @@ The site of modern day Arrepont was the place that [Malnesh](../../gods/deities/
 
 ### The Third Coming
 
-Around 3,000 years later the insider [gods](../../gods/gods.md) brought the other races of Oonar to [Astarus](../../planes/astarus.md). These disadvantaged peoples sought their own lands to start over. Their arrival at the same place as The Second Coming shook elven society to its core, questioning the role and omnipotence of [Malnesh](../../gods/deities/malnesh.md).
+Around 3,000 years later the insider [gods](../../gods/gods.md) brought the other races of [Oonar](../../planes/oonar.md) to [Astarus](../../planes/astarus.md). These disadvantaged peoples sought their own lands to start over. Their arrival at the same place as The Second Coming shook elven society to its core, questioning the role and omnipotence of [Malnesh](../../gods/deities/malnesh.md).
 
 The elves that stayed in Naissance tried to coexist with the new races, but there were too many of them. This lead to the elves being exiled from Naissance, now Arrepont. A collective effort to take the nearby lands saw the formation of the state of [Savnia](../../civilisations/nilsavnic-alliance/states/savnia.md), with Arrepont as its capital.
 
@@ -35,6 +35,6 @@ When [Reimatelau](../../civilisations/nilsavnic-alliance/states/reimatelau.md) j
 
 ### Returners
 
-The growing movement of Returners - people who wish to return to Oonar - is slowly moving on Arrepont. A growing political movement in the city is growing, though it lakes cohesive vision or leadership. Local leaders are worried that if enough Returners migrate to the city, it may be lost to the mob.
+The growing movement of Returners - people who wish to return to [Oonar](../../planes/oonar.md) - is slowly moving on Arrepont. A growing political movement in the city is growing, though it lakes cohesive vision or leadership. Local leaders are worried that if enough Returners migrate to the city, it may be lost to the mob.
 
 ## Places

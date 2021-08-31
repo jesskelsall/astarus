@@ -32,4 +32,4 @@ Lelxuuth is surprisingly open to outsiders compared to most clan settlements. Th
 
 ## Places
 
-- Atrium to Oonar ([The Time Enlightened](../../organisations/the-time-enlightened.md) HQ)
+- Atrium to [Oonar](../../planes/oonar.md) ([The Time Enlightened](../../organisations/the-time-enlightened.md) HQ)

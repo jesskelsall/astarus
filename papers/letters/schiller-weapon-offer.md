@@ -1,15 +1,15 @@
-# Schiller Weapon Offer
+# AA10-L-1
 
 | | |
 |:---:|:---:|
-| <img src="../../images/papers/letters/schiller-weapon-offer-1.png" width="600" /> | <img src="../../images/papers/letters/schiller-weapon-offer-2.png" width="600" /> |
+| <img src="../../images/letters/AA10-L-1A.png" width="600" /> | <img src="../../images/letters/AA10-L-1B.png" width="600" /> |
 
 ## Page 1
 
 > Schiller Manor  
 > Baldrine
 >
-> Gordag, 28th of Taledus, 312 P.A.
+> Gordag, 28th of Taledus, 312 PA
 >
 > Dearest Noon,
 >
@@ -36,7 +36,7 @@
 > Schiller Manor  
 > Baldrine
 >
-> Gordag, 28th of Taledus, 312 P.A.
+> Gordag, 28th of Taledus, 312 PA
 >
 > For [Schiller family](../../organisations/schiller-family.md) eyes only.
 >

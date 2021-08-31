@@ -76,7 +76,7 @@ For most of the public, knowing [magicborn](../../civilisations/kingdom-of-astor
 
 ## History
 
-The Nature's Battle tournament took place for the first time in 285 P.A., one year after the Astor-Syntenne War armistice agreement was signed. It was started as a way to lift public spirits and as a PR stunt to try and convince more people to join the [Astorrel](../../organisations/astorrel/astorrel.md).
+The Nature's Battle tournament took place for the first time in 285 PA, one year after the Astor-Syntenne War armistice agreement was signed. It was started as a way to lift public spirits and as a PR stunt to try and convince more people to join the [Astorrel](../../organisations/astorrel/astorrel.md).
 
 The early years of the tournament were characterised by a lack of proper rules, arena, or large audience. As the tournament matured it became formalised, growing in popularity as it did.
 
@@ -90,4 +90,4 @@ Over the years attitudes towards this shifted, with measures put in place to try
 
 | Tournament | Year |
 | --- | --- |
-| [Nature's Battle 27](../../storylines/ended/natures-battle-27.md) | 312 P.A. |
+| [Nature's Battle 27](../../storylines/ended/natures-battle-27.md) | 312 PA |
