@@ -10,8 +10,8 @@
 
 | [Becca](../players/becca.md) | [Rin](../players/rin.md) | [Sophie](../players/sophie.md) | [Viktorija](../players/viktorija.md) |
 |:---:|:---:|:---:|:---:|
-| | [Vētrall Astérr](../characters/vetrall-asterr.md) | | [Valan Shadowgaze](../characters/valan-shadowgaze.md) |
-| | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/47336984c5f7be18.png" height="400" /> | | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/cf0352e2558c24f5.png" height="400" /> |
+| | [Vētrall Astérr](../characters/vetrall-asterr.md) | [Marik Kaligavone](../characters/marik-kaligavone.md) | [Valan Shadowgaze](../characters/valan-shadowgaze.md) |
+| | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/47336984c5f7be18.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5e34f2c0018c62f8.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/cf0352e2558c24f5.png" height="400" /> |
 
 ## Format
 

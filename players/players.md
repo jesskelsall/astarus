@@ -21,6 +21,6 @@
 | [Sam](sam.md) | [Torbra Tauff](../characters/torbra-tauff.md) | [Purple Rain](../campaigns/C1-purple-rain.md) |
 | [Scott](scott.md) | [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) | Guest |
 | [Sheycara](sheycara.md) | [Wizira](../characters/wizira.md) | [Purple Rain](../campaigns/C1-purple-rain.md) |
-| [Sophie](sophie.md) | | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |
+| [Sophie](sophie.md) | [Marik Kaligavone](../characters/marik-kaligavone.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |
 | [Tiva](tiva.md) | [Brian](../characters/brian.md) | Guest |
 | [Viktorija](viktorija.md) | [Valan Shadowgaze](../characters/valan-shadowgaze.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |
