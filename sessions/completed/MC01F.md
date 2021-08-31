@@ -285,3 +285,5 @@ The pair hit the road to [Starnov](../../places/cities/starnov.md). Their travel
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/art/bd7ead0936c426f9.jpg" height="400" /><br>*Vētrall vs Large Birds*, [Rin](../../players/rin.md), 2021-08-30
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/art/95d930e065584923.jpg" height="600" /><br>*Vulpes vs Bear*, [Rin](../../players/rin.md), 2021-08-31
+
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/art/fe206d39761fbb93.jpg" height="250" /><br>*Baldness*, [Rin](../../players/rin.md), 2021-09-01
