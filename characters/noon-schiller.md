@@ -1,10 +1,10 @@
-# Noon Schiller
+# Noon Schiller / Brother Light
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/8de47544818b859b.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Noon Schiller | character.3
+| **Name** | Noon Schiller<br>*Brother Light* | character.3
 | **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 20 |
@@ -48,7 +48,7 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 Noon was born in Ballabeg (publicly: Baldrine) into the [Schiller family](../organisations/schiller-family.md), a wealthy and powerful family on [Kardanis](../places/regions/kardanis.md). As the family heir, Noon was infused with [Nills](nills.md) (an aspect of [Nilliski](nilliski.md)) prior to his birth in a blood ritual conducted by his family, honouring the pact that the Schillers made with [Nilliski](nilliski.md) generations ago.
 
-From a young age [Nills](nills.md) helped Noon master her magic that flows within him, manifesting as magical powers. The pair grew closer, [Nills](nills.md) helping Noon navigate early life choices and proving trustworthy. Noon came to understand that [Nills](nills.md) was worth listening to, eventually seeing her orders and suggestions as his own.
+From a young age [Nills](nills.md), who calls Noon *Brother Light*, helped Noon master her magic that flows within him, manifesting as magical powers. The pair grew closer, [Nills](nills.md) helping Noon navigate early life choices and proving trustworthy. Noon came to understand that [Nills](nills.md) was worth listening to, eventually seeing her orders and suggestions as his own.
 
 Once old enough, [Nills](nills.md) instructed Noon to leave home and join the [Astornox](../organisations/astornox/astornox.md). Noon presented this decision publicly as a desire to forge his own path and get out from under his family's shadow. While Noon claims to agree with the goals of the [Astorrel](../organisations/astorrel/astorrel.md), he is actually indifferent to [Kirrel](../gods/deities/kirrel.md)'s teachings and finds the military organisation beneath him.
 

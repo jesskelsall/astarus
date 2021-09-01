@@ -1,10 +1,10 @@
-# Nills
+# Nills / Sister Shadow
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d50b042d036b63a3.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Nills | character.3
+| **Name** | Nills<br>*Sister Shadow* | character.3
 | **Lineage** | Demon |
 | **Pronouns** | she/her |
 | **Age** | |
@@ -25,6 +25,8 @@ Nills is an aspect of [Nilliski](nilliski.md), passed between members of the [Sc
 As an aspect of [Nilliski](nilliski.md), Nills enacts their will through the [Schiller family](../organisations/schiller-family.md). As part of Noon, Nills provides guidance, pushing Noon into actions that benefit [Nilliski](nilliski.md)'s unknown agenda. Nills exhibits an understanding of the future, or at least an exceptional understanding of causality, suggesting actions that only appear rational in hindsight.
 
 Nills chooses who she is seen by, typically only appearing to [Noon Schiller](noon-schiller.md) when suggesting a course of action, though she has the ability to let others see her.
+
+Nills is referred to by Noon Schiller as *Sister Shadow*.
 
 ## Characteristics
 

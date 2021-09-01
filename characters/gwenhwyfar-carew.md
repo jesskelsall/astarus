@@ -1,10 +1,10 @@
-# Gwenhwyfar Carew / Lia
+# Gwenhwyfar Carew / Nia
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c1220eade9a82fa3.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Gwenhwyfar "Lia" Carew | character.3
+| **Name** | Gwenhwyfar Carew<br>*Nia* | character.3
 | **Lineage** | Kalashtar |
 | **Pronouns** | she/her |
 | **Age** | 45 |
@@ -52,5 +52,3 @@ Her first name is pronounced *gwen-hool-var*.
 | **Values** | Simplicity, obedience, order, control. |
 | **Ambitions** | Upholding the [Astornos](../organisations/astornos.md) values of the Astorian creation myth. |
 | **Dislikes** | Complexity, inquisitive people, human contact. |
-
-## History

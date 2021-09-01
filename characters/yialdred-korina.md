@@ -6,7 +6,7 @@
 | --- | --- |
 | **Name** | Yialdred Korina | character.3
 | **Lineage** | Dragonborn |
-| **Pronouns** | |
+| **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Cleric (Order Domain) |
 | **Worship** | |
