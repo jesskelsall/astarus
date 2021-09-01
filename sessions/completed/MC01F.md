@@ -22,7 +22,6 @@ Around mid-morning [Valan Shadowgaze](../../characters/valan-shadowgaze.md) make
 He notices [Hanz Peacemaker](../../characters/hanz-peacemaker.md) stood near the door to [The Fox Hole](../../places/buildings/the-fox-hole.md), and goes over to talk to him. He asks if he is in the right place, to which Hanz tells him that he is. Upon producing the coin, Hanz's eyes light up and a grin forms, excited by the prospect of a new member of the family. He confirms with Valan that he wishes to join. When Valan accepts, Hanz swings the door open and announces to everyone in the banquet hall:
 
 *[Hanz Peacemaker](../../characters/hanz-peacemaker.md):*
-
 > Joining us today, please welcome to the family [Valan Shadowgaze](../../characters/valan-shadowgaze.md)!
 
 The banquet hall, 2/3 full of family members, erupts into cheers and applause at the announcement, which continues as Valan makes his way inside, timid from the attention.
@@ -56,7 +55,6 @@ Vētrall begins tuning their lute, attracting the attention of other members acr
 Not long after, [Drendoc](../../characters/drendoc.md) is introduced to the room:
 
 *[Hanz Peacemaker](../../characters/hanz-peacemaker.md):*
-
 > Returning to us, [Drendoc the Warrior](../../characters/drendoc.md), who has shared 50 gold with his family!
 
 Once again the room bursts into cheers as [Drendoc](../../characters/drendoc.md) walks through the room, holding a sizeable coin purse aloft, the gold within clinking as he goes. After he passes Vētrall who makes eye contact, they remark under their breath that [Drendoc](../../characters/drendoc.md) is being a show off. Vētrall is clearly unhappy with feeling upstaged in this moment.
@@ -64,7 +62,6 @@ Once again the room bursts into cheers as [Drendoc](../../characters/drendoc.md)
 Aneni reappears soon after at the end of the table, announcing the meal in a booming voice, arms thrown in the air dramatically:
 
 *[Aneni Veomelo](../../characters/aneni-veomelo.md):*
-
 > Dinner is served!
 
 A group of kitchen staff march up from downstairs carrying bowls, platters, and plates of various meats, vegetables, fruits and drinks are distributed across the table. This banquet is greeted with excited cheers by the entire room. Other members emerge from downstairs, keen to dig in before the best of the food disappears, namely the carved meat.
@@ -195,7 +192,6 @@ Valan's arrow strikes the bear in its side, causing it to roar and turn towards 
 Vētrall casts Levitate, part of their air genasi lineage. They float 15 feet into the air, turning upside down.
 
 *Valan Astérr:*
-
 > Over here, you stupid fuck.
 
 The bear hears Vētrall's taunt. Not clever enough to realise they are out of reach, it tries to swipe up at Vētrall but misses. This provides Valan with more time to open up a gap and take another shot. When this arrow strikes the bear in the shoulder, it refocuses on him, panicking Vētrall who isn't able to move freely while levitating.
@@ -213,11 +209,9 @@ An argument quickly breaks out over who will be carrying the head back to the vi
 On the way back Valan asks Vētrall about their ability to levitate. Vētrall rebuffs the question, divulging nothing.
 
 *[Valan Shadowgaze](../../characters/valan-shadowgaze.md):*
-
 > Why can you fly?
 
 *[Vētrall Astérr](../../characters/vetrall-asterr.md):*
-
 > Why can you not?
 
 ## A Deed Well Done
@@ -235,7 +229,6 @@ The pair remain at the inn overnight. They are once again given free accommodati
 In the morning the pair make the journey back down the trail to [Trest](../../places/towns/trest.md), going straight into [The Fox Hole](../../places/buildings/the-fox-hole.md). Presenting the 20 gp to [Hanz Peacemaker](../../characters/hanz-peacemaker.md), he introduced their pair as they entered:
 
 *[Hanz Peacemaker](../../characters/hanz-peacemaker.md):*
-
 > Returning to us, [Vētrall Astérr](../../characters/vetrall-asterr.md) and [Valan Shadowgaze](../../characters/valan-shadowgaze.md), who have shared 20 gold with their family!
 
 ## A Legend's Funeral

@@ -62,11 +62,9 @@ While the rest of the party is going to sleep in [sanctuary](../organisations/as
 There is a long period where there is no response before the light in the room goes out completely, and Saoirse hears her patron's voice:
 
 *[Effie Silttooth](../characters/effie-silttooth.md):*
-
 > You accepted their help. How could you!?
 
 *[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md):*
-
 > Whose help?
 
 Immediately the light comes back on and Saoirse is left wondering what her patron meant. She finishes her bath and goes to bed.

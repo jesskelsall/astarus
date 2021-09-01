@@ -20,5 +20,4 @@ As they arrive, Montel is bitten by a crocodile and knocked unconscious. The par
 With the fight winding down, Montel leaps to his feet and rushes into the shack, shouting about his daughter [Esme Leithran](../characters/esme-leithran.md):
 
 *[Montel Leithran](../characters/montel-leithran.md):*
-
 > My girl! My girl!

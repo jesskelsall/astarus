@@ -25,15 +25,12 @@
 > A dark grey sand-like substance. Its properties are unknown.
 
 *From a dead Meteoric ([Thanea](../../astarus/people/thanea.md)):*
-
 > This once gave form to a strange dark grey creature, but upon its death it collapsed into this substance in an instant.
 
 *From inside a meteor ([Saoirse](../../astarus/people/saoirse.md)):*
-
 > It was found inside the orb-like meteor and appears to be the same substance that the meteor itself is made of.
 
 *Collected poorly ([Thanea](../../astarus/people/thanea.md)):*
-
 > It is mixed with gravel and stone from the cave floor, making it hard to tell what is the grey dust and what is simply regular stone.
 
 ## Miscellaneous

@@ -53,7 +53,6 @@ As Whisper approaches it, there is a flash of light. They suddenly find themself
 As they fly together they approach a village (Kuv'narash) and descend.
 
 *[Valnos](../../gods/deities/valnos.md):*
-
 > This is Kuv'narash.
 
 It is made of dried dirt, a maze of connected buildings with open windows. The people here are predominantly the lesser races of [South East Kardan](../../places/regions/south-east-kardan.md) - mostly tabaxi and dragonborn. The people they fly past look poor and are simply trying to make ends meet.
@@ -63,7 +62,6 @@ Flying through the streets, Whisper and Valnos descend on a building, landing on
 Whisper sees a mother in childbirth, her cubs emerging one by one as another female tabaxi helps her, moving them onto a blanket. The last cub is born, the runt of the litter, crying as it makes its way into the world.
 
 *[Valnos](../../gods/deities/valnos.md):*
-
 > That's you.
 
 A male tabaxi makes his way over to the mother and the cubs. He kisses Whisper on the forehead before embracing the mother. Whisper doesn't recognise this figure as their father.
