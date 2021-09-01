@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR32](../sessions/PR32.md) | storyline.2
+| **Session Started** | [PR32](../sessions/completed/PR32.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [PR32](../sessions/PR32.md)
+### [PR32](../sessions/completed/PR32.md)
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) come across [Leithran Shack](../places/buildings/leithran-shack.md) on the Humar Estuary. They hear a male voice ([Montel Leithran](../characters/montel-leithran.md)) calling for help. After some conversation at distance they learn that the person needs help defending against crocodiles. Initially wary of a trap, the party decide to rush to help.
 

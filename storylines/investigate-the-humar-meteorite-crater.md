@@ -44,7 +44,7 @@ While [Wizira](../characters/wizira.md) manages to hold her breath and re-surfac
 
 [Wizira](../characters/wizira.md) uses Wild Shape to turn into a fish, making her way to land. The rest of the party follows her, struggling through the reeds and boggy terrain for a while before reaching relatively dry and firm ground.
 
-### [PR32](../sessions/PR32.md)
+### [PR32](../sessions/completed/PR32.md)
 
 Now on dry land, the party realise that they have no idea where to go next. With no discernible landmarks except for a few trees and the [River Humar](../places/rivers-lakes/river-humar.md) behind them, they decide to take shelter under a large tree nearby, dry their clothes, and wait for the rain to pass.
 

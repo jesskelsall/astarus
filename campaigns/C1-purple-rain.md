@@ -73,7 +73,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR29](../sessions/completed/PR29.md) | 2021-06-30 | *First Floor Fiasco* |
 | [PR30](../sessions/completed/PR30.md) | 2021-07-07 | *Mission Complete* |
 | [PR31](../sessions/completed/PR31.md) | 2021-07-14 | *A Riddle for Saoirse* |
-| [PR32](../sessions/PR32.md) | 2021-08-11 | *Estuary Escapades* |
+| [PR32](../sessions/completed/PR32.md) | 2021-08-11 | *Estuary Escapades* |
 | [PR33](../sessions/PR33.md) | 2021-08-18 | *Esme* |
 ||
 | [PR34](../sessions/upcoming/PR34.md) | 2021-09-01 | |
@@ -108,4 +108,4 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Talk to the Morning Chasers](../storylines/talk-to-the-morning-chasers.md) | [PR27](../sessions/completed/PR27.md) | [PR30](../sessions/completed/PR30.md) |
 | [How to Summon Your Dragon](../storylines/how-to-summon-your-dragon.md) | [PR30](../sessions/completed/PR30.md) | |
 | [Investigate the Humar Meteorite Crater](../storylines/investigate-the-humar-meteorite-crater.md) | [PR30](../sessions/completed/PR30.md) | |
-| [Giving Esme a Childhood](../storylines/giving-esme-a-childhood.md) | [PR32](../sessions/PR32.md) | |
+| [Giving Esme a Childhood](../storylines/giving-esme-a-childhood.md) | [PR32](../sessions/completed/PR32.md) | |
