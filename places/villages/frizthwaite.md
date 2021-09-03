@@ -7,7 +7,7 @@
 | **Location** | [Northern Astor](../regions/northern-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 800 |
-| **Nearby Places** | [Beckermet](../towns/beckermet.md)<br>[Hawkswood](../forests/hawkswood.md)<br>[Howbridge](../towns/howbridge.md)<br>[River Humar](../rivers-lakes/river-humar.md) |
+| **Nearby Places** | [Beckermet](../towns/beckermet.md)<br>[Hawkswood](../forests/hawkswood.md)<br>[Howbridge](howbridge.md)<br>[River Humar](../rivers-lakes/river-humar.md) |
 | **People** | [Oleg Purley](../../characters/oleg-purley.md) |
 
 ## Summary

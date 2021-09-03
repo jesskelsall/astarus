@@ -10,10 +10,10 @@
 | **Age** | 22 |
 | **Class** | Sorcerer (Draconic Bloodline) |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
-| **Relations** | [Vilnia Kovas](vilnia-kovas.md) ([Astorrel](../organisations/astorrel/astorrel.md) Hunter) |
+| **Relations** | [Vilnia Kovas](vilnia-kovas.md) (Hunter partner) |
 | **Places** | [Northhaven](../places/cities/northhaven.md) |
 |||
-| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Citizenship** | |
 | **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
 | **Rank** | [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) |
 | **Role** | Conscription |

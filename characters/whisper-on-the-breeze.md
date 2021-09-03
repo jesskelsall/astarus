@@ -51,7 +51,7 @@ Their clan has always been moving, struggling to settle and integrate into the c
 
 Once in Astor, Whisper's father abandoned the clan to join the [Astornox](../organisations/astornox/astornox.md) in the city of [Yeatscale](../places/cities/yeatscale.md). Due to this the clan fell on harder times, causing Whisper to turn to stealing to make ends meet. This brought constant trouble to the clan, usually getting them kicked out of the towns they settled in.
 
-Once in Astor they settled in the town of Hyceodd, their clan began settling in and had some luck getting ingrained into society. Whisper's stealing once again got them kicked out of town.
+Once in Astor they settled in the town of [Hyceodd](../places/towns/hyceodd.md), their clan began settling in and had some luck getting ingrained into society. Whisper's stealing once again got them kicked out of town.
 
 With this, the Clan on the Breeze could take it no longer, and abandoned Whisper in the wilderness, leaving them to fend for themselves. They began to live off the land, travelling east through Astor. Along the way they found imbalances in power and did their bit to restore the balance, the only way they knew how - stealing from the privileged.
 

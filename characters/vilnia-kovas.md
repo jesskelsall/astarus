@@ -13,7 +13,7 @@
 | **Relations** | [Kur Merkys](kur-merkys.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md)) |
 | **Places** | [Northhaven](../places/cities/northhaven.md) |
 |||
-| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Citizenship** |  |
 | **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
 | **Rank** | [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) |
 | **Role** | Conscription |

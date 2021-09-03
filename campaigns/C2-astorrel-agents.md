@@ -78,3 +78,4 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Syntenne Spies in Eskrigg](../storylines/syntenne-spies-in-eskrigg.md) | [AA10](../sessions/completed/AA10.md) | |
 | [Enforcing Astorian History](../storylines/enforcing-astorian-history.md) | [AA11](../sessions/completed/AA11.md) | |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [AA11](../sessions/completed/AA11.md) | |
+| [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [AA12](../sessions/AA12.md) | |

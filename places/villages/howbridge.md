@@ -14,7 +14,7 @@
 
 Howbridge is a village in [Northern Astor](../regions/northern-astor.md). It is located at the crossing where the [River Humar](../rivers-lakes/river-humar.md) and the [Humar Cut](../roads/humar-cut.md) meet.
 
-Howbridge is a logging village situated on a bend of the [River Humar](../rivers-lakes/river-humar.md). It is the largest exporter of wood in all of Astor, with most people in the town working in the booming industry. The How Bridge that the [Humar Cut](../roads/humar-cut.md) crosses the [River Humar](../rivers-lakes/river-humar.md) on is a wooden structure made by the town to open up trade with [Beckermet](beckermet.md), though much of their trade involves shipping wood down river to [Northhaven](../cities/northhaven.md) for use there.
+Howbridge is a logging village situated on a bend of the [River Humar](../rivers-lakes/river-humar.md). It is the largest exporter of wood in all of Astor, with most people in the town working in the booming industry. The How Bridge that the [Humar Cut](../roads/humar-cut.md) crosses the [River Humar](../rivers-lakes/river-humar.md) on is a wooden structure made by the town to open up trade with [Beckermet](../towns/beckermet.md), though much of their trade involves shipping wood down river to [Northhaven](../cities/northhaven.md) for use there.
 
 Despite the logging industry here, the village is predominantly made of stone shipped down from Iredale, the village instead choosing to sell their logs rather than use them. Wooden decorative flourishes can be found everywhere, demonstrating the fine craftsmanship appearing in the village.
 

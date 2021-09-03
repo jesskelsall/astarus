@@ -41,8 +41,8 @@ Montel Leithran is a protective father, on the run from the [Syntenne Republic](
 
 ## History
 
-Montel and [Vensys Leithran](vensys-leithran.md) fled the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) due to an escalating rivalry between their family and another. They managed to sneak into the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) via the Kas'ran Desert to Mossband, then on to Hyceodd, bypassing Blittergate.
+Montel and [Vensys Leithran](vensys-leithran.md) fled the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) due to an escalating rivalry between their family and another. They managed to sneak into the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) via the Kas'ran Desert to Mossband, then on to [Hyceodd](../places/towns/hyceodd.md), bypassing [Blittergate](../places/towns/blittergate.md).
 
-Here in Hyceodd they attempted to settle down, finding enough other immigrants in the city to feel safer. During this time Vensys gave birth to [Esme Leithran](esme-leithran.md), who exhibited signs of being special, having greyer than normal skin.
+Here in [Hyceodd](../places/towns/hyceodd.md) they attempted to settle down, finding enough other immigrants in the city to feel safer. During this time Vensys gave birth to [Esme Leithran](esme-leithran.md), who exhibited signs of being special, having greyer than normal skin.
 
 When [Vensys Leithran](vensys-leithran.md) was murdered for being an elf, Montel and Esme (now 4 years old) fled, heading across the [River Carn](../places/rivers-lakes/river-carn.md) and onto the Humar Estuary. Vensys doesn't have a clear plan of what he is doing or where they are going, but wishes to try and get away from [South East Kardan](../places/regions/south-east-kardan.md), possibly to [Kardanis](../places/regions/kardanis.md) or the [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md).

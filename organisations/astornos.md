@@ -1,4 +1,4 @@
-# Astornos
+# Astornos / Gold Talon Guild
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/929def63cb75419e.png" height="200" />
 

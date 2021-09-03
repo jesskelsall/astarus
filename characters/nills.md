@@ -26,7 +26,7 @@ As an aspect of [Nilliski](nilliski.md), Nills enacts their will through the [Sc
 
 Nills chooses who she is seen by, typically only appearing to [Noon Schiller](noon-schiller.md) when suggesting a course of action, though she has the ability to let others see her.
 
-Nills is referred to by Noon Schiller as *Sister Shadow*.
+Nills is referred to by [Noon Schiller](noon-schiller.md) as *Sister Shadow*.
 
 ## Characteristics
 

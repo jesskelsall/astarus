@@ -16,7 +16,7 @@
 After [Noon Schiller](../characters/noon-schiller.md) reads the letter given to him ([AA10-L-1](../papers/letters/schiller-weapon-offer.md)), [Nills](../characters/nills.md) appears to nudge Noon towards claiming the [free Schiller steel](free-schiller-steel.md) weapon for one of his new [Astorrel squad hands](../organisations/astorrel/ranks/astorrel-squad-hand.md).
 
 *[Nills](../characters/nills.md):*
-> Aww, I think he's the one that's soft! I was beginning to think that father didn't love you. I don't think you need his charity, do you brother light? Though I'm not too sure about your new friends...
+> Aww, I think he's the one that's soft! I was beginning to think that father didn't love you. I don't think you need his charity, do you [brother light](../characters/noon-schiller.md)? Though I'm not too sure about your new friends...
 
 Noon hints to [Ahsha Sallas](../characters/ahsha-sallas.md) and [Ephaine Seren](../characters/ephaine-seren.md) that he may be able to procure a [Schiller steel](../items/weapons/schiller-steel.md) weapon, asking them what type of weapon they would like.
 

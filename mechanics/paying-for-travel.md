@@ -55,11 +55,11 @@ Journey value can be thought of as the base cost of the distance and route type.
 | Destination | Miles | Journey Value |
 | --- | ---:| ---:|
 | ***West***
-| Blittergate | 114 mi | 129 |
+| [Blittergate](../places/towns/blittergate.md) | 114 mi | 129 |
 | Carnmere | 84 mi | 105 |
 | Fort Eldrick | 30 mi | 45 |
 | Hartsgarth | 66 mi | 78 |
-| Hyceodd | 72 mi | 75 |
+| [Hyceodd](../places/towns/hyceodd.md) | 72 mi | 75 |
 | Silethwaite | 162 mi | 177 |
 | [Ulburn](../places/villages/ulburn.md) | 18 mi | 36 |
 | [Yeatscale](../places/cities/yeatscale.md) | 186 mi | 189 |

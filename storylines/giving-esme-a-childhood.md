@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Montel Leithran](../characters/montel-leithran.md) is running from Hyceodd with his daughter [Esme Leithran](../characters/esme-leithran.md), trying to find her a safe home to grow up in.
+[Montel Leithran](../characters/montel-leithran.md) is running from [Hyceodd](../places/towns/hyceodd.md) with his daughter [Esme Leithran](../characters/esme-leithran.md), trying to find her a safe home to grow up in.
 
 ## History
 

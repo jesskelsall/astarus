@@ -7,7 +7,7 @@
 | **Name** | Xavier Raloven | character.3
 | **Lineage** | Elf |
 | **Pronouns** | he/him |
-| **Age** | 81 |
+| **Age** | 81 (dead) |
 | **Class** | Paladin (Oath of the Crown) |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | |
@@ -24,7 +24,9 @@
 
 ## Summary
 
-Xavier Raloven is a loyal Veritacris, working to further the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)'s information about the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+Xavier Raloven was a loyal Veritacris, working to further the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)'s information about the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+
+He was executed [Gwenhwyfar Carew](gwenhwyfar-carew.md) after being captured by [Canary Squad](../organisations/astorrel/squads/canary-squad.md) in [Eskrigg](../places/cities/eskrigg.md).
 
 ## Character Rolls
 

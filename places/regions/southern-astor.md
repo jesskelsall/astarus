@@ -17,7 +17,7 @@ Overshadowed by the Astor-Syntenne War, Southern Astor was a battleground until 
 - Cities:
   - [Yeatscale](../cities/yeatscale.md)
 - Towns:
-  - Blittergate
+  - [Blittergate](../towns/blittergate.md)
 - Villages:
   - Mossband
   - Silethwaite

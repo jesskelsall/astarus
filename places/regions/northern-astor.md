@@ -21,7 +21,7 @@ Northern Astor is much like [Central Astor](central-astor.md) - full of grassy p
   - Iredale
 - Villages:
   - [Frizthwaite](../villages/frizthwaite.md)
-  - [Howbridge](../towns/howbridge.md)
+  - [Howbridge](../villages/howbridge.md)
   - Langtock
 - Roads:
   - [Grasthwaite Bend](../roads/grasthwaite-bend.md)
