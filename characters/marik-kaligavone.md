@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Marik Kaligavone | character.3
+| **Name** | Marik Kaligavone<br>*Tempest* (Marsh Skimmer name) | character.3
 | **Lineage** | Goliath |
 | **Pronouns** | she/her |
 | **Age** | 24 |
-| **Class** | Druid (Circle of the Land, Mountains) |
+| **Class** | Druid (Circle of the Land: Mountains) |
 | **Worship** | |
 | **Relations** | |
 | **Places** | |
@@ -42,3 +42,13 @@ Her surname is pronounced *kal-ig-a-vo-ne*.
 ## Backstory
 
 TODO
+
+---
+
+## Character Sheets
+
+### [MC01M](../sessions/MC01M.md)
+
+||||
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/120bdc0c161929ad-1.jpg" height="500" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/120bdc0c161929ad-2.jpg" height="500" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/120bdc0c161929ad-3.jpg" height="500" /> |

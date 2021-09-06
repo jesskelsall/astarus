@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Vētrall Astérr<br>*Whirlwind* | character.3
+| **Name** | Vētrall Astérr<br>*Whirlwind* (stage name) | character.3
 | **Lineage** | Genasi (Air) / Elf (Wood) |
 | **Pronouns** | they/them |
 | **Age** | 29 |

@@ -10,8 +10,8 @@
 
 | [Becca](../players/becca.md) | [Rin](../players/rin.md) | [Sophie](../players/sophie.md) | [Viktorija](../players/viktorija.md) |
 |:---:|:---:|:---:|:---:|
-| | [Vētrall Astérr](../characters/vetrall-asterr.md) | [Marik Kaligavone](../characters/marik-kaligavone.md) | [Valan Shadowgaze](../characters/valan-shadowgaze.md) |
-| | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/47336984c5f7be18.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5e34f2c0018c62f8.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/cf0352e2558c24f5.png" height="400" /> |
+| [Keranios](../characters/keranios.md) | [Vētrall Astérr](../characters/vetrall-asterr.md) | [Marik Kaligavone](../characters/marik-kaligavone.md) | [Valan Shadowgaze](../characters/valan-shadowgaze.md) |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/8c075a85ed942631.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/47336984c5f7be18.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5e34f2c0018c62f8.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/cf0352e2558c24f5.png" height="400" /> |
 
 ## Format
 
@@ -36,8 +36,8 @@
 |---| --- | --- |
 | [MC00](../sessions/completed/MC00.md) | 2021-08-08 | *Session Zero* |
 | [MC01F](../sessions/completed/MC01F.md) | 2021-08-29 | *Introducing [Familia Vulpes](../organisations/familia-vulpes.md)* |
-||
 | [MC01M](../sessions/MC01M.md) | 2021-09-05 | *Introducing the [Marsh Skimmers](../organisations/marsh-skimmers.md)* |
+||
 | [MC02](../sessions/upcoming/MC02.md) | 2021-09-19 | |
 
 ## Storylines
