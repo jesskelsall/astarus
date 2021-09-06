@@ -46,4 +46,5 @@
 | --- | --- | --- |
 | [Mentor and Student](../storylines/mentor-and-student.md) | [MC01F](../sessions/completed/MC01F.md) | |
 | [Vētrall vs Drendoc](../storylines/vetrall-vs-drendoc.md) | [MC01F](../sessions/completed/MC01F.md) |
-| [The Metal Fox's Legacy](../storylines/the-metal-foxs-legacy.md) | [MC01F](../sessions/completed/MC01F.md) | |
+| Sword of the Moon | [MC01F](../sessions/completed/MC01F.md) | |
+| [The Shiny Ball](../storylines/the-shiny-ball.md) | [MC01F](../sessions/completed/MC01F.md) | |
