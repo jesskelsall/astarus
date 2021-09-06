@@ -48,7 +48,7 @@ While [Wizira](../characters/wizira.md) manages to hold her breath and re-surfac
 
 Now on dry land, the party realise that they have no idea where to go next. With no discernible landmarks except for a few trees and the [River Humar](../places/rivers-lakes/river-humar.md) behind them, they decide to take shelter under a large tree nearby, dry their clothes, and wait for the rain to pass.
 
-After several hours the rain is not letting up but their clothes are drier. When [Torbra Tauff](../characters/torbra-tauff.md) is trying to figure out which direction to go next, [Thanea Morlay](../characters/thanea-morlay.md) pulls out her [Meteoric Map of Astor](../papers/maps/meteoric-map-of-astor.md) and realises that it has been ruined by water damage. Torbra decides the party should head south west.
+After several hours the rain is not letting up but their clothes are drier. When [Torbra Tauff](../characters/torbra-tauff.md) is trying to figure out which direction to go next, [Thanea Morlay](../characters/thanea-morlay.md) pulls out her [Meteoric Map of Astor](../maps/meteoric-map-of-astor.md) and realises that it has been ruined by water damage. Torbra decides the party should head south west.
 
 Travelling for most of the day, the party eventually see disturbances in the water ahead. As they get closer they begin to make out [Leithran Shack](../places/buildings/leithran-shack.md) through the rainy mist. They hear [Montel Leithran](../characters/montel-leithran.md) shouting for help fighting off crocodiles and rush to help. They are able to save Montel from death at the hands of a crocodile thanks to [Wizira](../characters/wizira.md)'s Healing Word, and fight off the rest of the crocodiles present in the water around the shack.
 

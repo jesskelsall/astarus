@@ -12,7 +12,7 @@
 > 
 > A relief of the organisation’s symbol is stamped into one side, and a view of the [Nilus Coast](../civilisations/nilsavnic-alliance/states/nilus-coast.md) from [Trest](../places/towns/trest.md) on the back.
 
-- [MC01F-I-2](../papers/cards/MC01F/MC01F-I-2.md)
+- [MC01F-I-2](../cards/MC01F/MC01F-I-2.md)
 
 ## Summary
 

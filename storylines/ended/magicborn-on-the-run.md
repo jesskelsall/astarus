@@ -63,7 +63,7 @@ The rest of the party makes their way to the edge of town, linking back up with 
 
 Desperate for a way to escape town, the party commandeers a horse and cart from the stables, riding it out entryway right as the guards enter. They attempt to give chase but quickly realise that they're not going to be able to catch them on foot.
 
-Now clear of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), [Wrenn Piznarck](../../characters/wrenn-piznarck.md) shows the party his [Meteoric Map of Astor](../../papers/maps/meteoric-map-of-astor.md). He explains that the large garrison of [Astornox](../../organisations/astornox/astornox.md) at Eaglesfield will pose a problem, and that the longer they take to reach [Northhaven](../../places/cities/northhaven.md), the more [Astornox](../../organisations/astornox/astornox.md) will be looking for them.
+Now clear of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), [Wrenn Piznarck](../../characters/wrenn-piznarck.md) shows the party his [Meteoric Map of Astor](../../maps/meteoric-map-of-astor.md). He explains that the large garrison of [Astornox](../../organisations/astornox/astornox.md) at Eaglesfield will pose a problem, and that the longer they take to reach [Northhaven](../../places/cities/northhaven.md), the more [Astornox](../../organisations/astornox/astornox.md) will be looking for them.
 
 [Torbra Tauff](../../characters/torbra-tauff.md) suggests that the party makes their way to [Frizthwaite](../../places/villages/frizthwaite.md) before either travelling down the [River Humar](../../places/rivers-lakes/river-humar.md), or along the [Humar Cut](../../places/roads/humar-cut.md), keeping off the [Northern Road](../../places/roads/northern-road.md).
 

@@ -27,7 +27,7 @@ Measuring distance is made easier by referring to a map at a defined scale with 
 | Scale | Miles per Hex | Maps |
 | --- | ---: | --- |
 | Province scale | 1 mi | |
-| Kingdom scale | 6 mi | [Astorrel Map of South East Kardan](../papers/maps/astorrel-map-of-south-east-kardan.md) |
+| Kingdom scale | 6 mi | [Astorrel Map of South East Kardan](../maps/astorrel-map-of-south-east-kardan.md) |
 | Continent scale | 60 mi | |
 
 ## Cost

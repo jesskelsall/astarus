@@ -13,7 +13,7 @@ Now that [The Metal Fox](../characters/vulpes-geen.md) has passed away, what wil
 
 ### [MC01F](../sessions/completed/MC01F.md)
 
-[Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter ([MC01F-L-1](../papers/letters/MC01F-L-1.md)) from [Hanz Peacemaker](../characters/hanz-peacemaker.md) informing them that [Vulpes Geen](../characters/vulpes-geen.md) has passed away, and that they should come back to [The Fox Hole](../places/buildings/the-fox-hole.md) for his funeral. Vētrall does so.
+[Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter ([MC01F-L-1](../letters/MC01F-L-1.md)) from [Hanz Peacemaker](../characters/hanz-peacemaker.md) informing them that [Vulpes Geen](../characters/vulpes-geen.md) has passed away, and that they should come back to [The Fox Hole](../places/buildings/the-fox-hole.md) for his funeral. Vētrall does so.
 
 While there, Hanz informs Vētrall that the Vulpes family is starting to bicker about what will happen to Geen's possessions. Vētrall finds the situation sad and not in the spirit of his legacy.
 

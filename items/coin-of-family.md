@@ -12,7 +12,7 @@
 >
 > A relief of the organisation’s symbol is stamped into one side, and the roof vaulting inside the Fox’s Hole on the back.
 
-- [MC01F-I-1](../papers/cards/MC01F/MC01F-I-1.md)
+- [MC01F-I-1](../cards/MC01F/MC01F-I-1.md)
 
 ## Summary
 

@@ -27,7 +27,7 @@ While in [sanctuary](../organisations/astorrel/sanctuary.md) [Levelle Tristwix](
 
 ### [PR19](../sessions/completed/PR19.md)
 
-[Mergin Thorgus](../characters/mergin-thorgus.md) provides the [Purple Rain](../campaigns/C1-purple-rain.md) party with that day's town crier script ([PR19-L-1](../papers/letters/PR19-L-1.md)), showing the party that [Itharmund Steeleye](../characters/itharmund-steeleye.md) is demanding the release of the party to the [Astornox](../organisations/astornox/astornox.md) so they can pay for their crimes.
+[Mergin Thorgus](../characters/mergin-thorgus.md) provides the [Purple Rain](../campaigns/C1-purple-rain.md) party with that day's town crier script ([PR19-L-1](../letters/PR19-L-1.md)), showing the party that [Itharmund Steeleye](../characters/itharmund-steeleye.md) is demanding the release of the party to the [Astornox](../organisations/astornox/astornox.md) so they can pay for their crimes.
 
 [Levelle Tristwix](../characters/levelle-tristwix.md) tells the party that [the firbolg controversy](ended/the-firbolg-controversy.md) will go to trial in front of the [Astornar](../organisations/astornar.md), putting both organisations in direct conflict over the fate of firbolgs in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
