@@ -55,7 +55,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA11](../sessions/completed/AA11.md) | 2021-06-26 | *Syntenne Spy Showdown* |
 | [AA12](../sessions/AA12.md) | 2021-07-10 | *Forget What You Saw Here* |
 ||
-| [AA13](../sessions/upcoming/AA13.md) | 2021-09-04 | |
+| [AA13](../sessions/AA13.md) | 2021-09-04 | |
 | [AA14](../sessions/upcoming/AA14.md) | 2021-09-18 | |
 | [AA15](../sessions/upcoming/AA15.md) | 2021-10-02 | |
 
