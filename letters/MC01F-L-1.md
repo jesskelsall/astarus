@@ -1,6 +1,21 @@
 # MC01F-L-1
 
-<img src="../../images/letters/MC01F-L-1.png" width="80%" />
+|||
+| --- | --- |
+| **To** | [Vētrall Astérr](../characters/vetrall-asterr.md) | letter.1
+| **From** | [Hanz Peacemaker](../characters/hanz-peacemaker.md) |
+| **Date** | |
+| **Session Given** | [MC01F](../sessions/completed/MC01F.md) |
+|||
+| **Image ID** | `4d17171abaa6bd22` |
+
+## Images
+
+||
+|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/letters/4d17171abaa6bd22.jpg" height="500" /> |
+
+## Transcript
 
 > Dear Vētrall,
 >

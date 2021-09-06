@@ -1,6 +1,21 @@
 # MC01F-L-3
 
-<img src="../../images/letters/MC01F-L-3.png" width="80%" />
+|||
+| --- | --- |
+| **To** | [Vētrall Astérr](../characters/vetrall-asterr.md) | letter.1
+| **From** | [Vulpes Geen](../characters/vulpes-geen.md) |
+| **Date** | |
+| **Session Given** | [MC01F](../sessions/completed/MC01F.md) |
+|||
+| **Image ID** | `f857d8eaafa6da9a` |
+
+## Images
+
+||
+|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/letters/f857d8eaafa6da9a.jpg" height="500" /> |
+
+## Transcript
 
 > Dearest Vētrall,
 >

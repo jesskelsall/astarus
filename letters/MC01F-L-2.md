@@ -1,6 +1,21 @@
 # MC01F-L-2
 
-<img src="../../images/letters/MC01F-L-2.png" width="80%" />
+|||
+| --- | --- |
+| **To** | [Familia Vulpes](../organisations/familia-vulpes.md) | letter.1
+| **From** | [Oronar Redtooth](../characters/oronar-redtooth.md) |
+| **Date** | |
+| **Session Given** | [MC01F](../sessions/completed/MC01F.md) |
+|||
+| **Image ID** | `199e41ec67558026` |
+
+## Images
+
+||
+|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/letters/199e41ec67558026.jpg" height="500" /> |
+
+## Transcript
 
 > [Familia Vulpes](../organisations/familia-vulpes.md),
 >
