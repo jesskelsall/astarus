@@ -1,6 +1,6 @@
 # MC00-OC-T7
 
-| <img src="../../../images/card-icons/the-time-enlightened.png" height="60" /> |
+| <img src="../../images/card-icons/the-time-enlightened.png" height="60" /> |
 |:---:|
 | **Starting Equipment** |
 | **[Map of the Nil'Savnic Alliance](../../maps/map-of-the-nilsavnic-alliance.md)** |

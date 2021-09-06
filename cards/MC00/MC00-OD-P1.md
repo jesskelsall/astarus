@@ -1,12 +1,12 @@
 # MC00-OD-P1
 
-| <img src="../../../images/card-icons/d8.png" height="60" /> |
+| <img src="../../images/card-icons/d8.png" height="60" /> |
 |:---:|
 | **Peer** |
 | **Starting Level: 2** |
 | *So far so good. I've managed to keep out of trouble and I'm<br>starting to earn a reputation. It's all going according to plan.* |
 
-| <img src="../../../images/card-icons/d8.png" height="60" /> |
+| <img src="../../images/card-icons/d8.png" height="60" /> |
 |:---:|
 | **Peer Ability** |
 | **[Instinctual Planning](../../mechanics/character-features/instinctual-planning.md)** |

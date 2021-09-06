@@ -1,11 +1,11 @@
 # MC00-OC-M4
 
-| <img src="../../../images/blank.png" height="200" /> |
+| <img src="../../images/blank.png" height="200" /> |
 |:---:|
 | **[Scintil Delta](../../places/rivers-lakes/scintil-delta.md)** |
 | **Contested Territory** |
 
-| <img src="../../../images/card-icons/marsh-skimmers.png" height="60" /> |
+| <img src="../../images/card-icons/marsh-skimmers.png" height="60" /> |
 |:---:|
 | **Home State** |
 | **[Scintil Delta](../../places/rivers-lakes/scintil-delta.md)** |

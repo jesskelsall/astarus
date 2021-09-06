@@ -1,6 +1,6 @@
 # MC00-OC-L6
 
-| <img src="../../../images/card-icons/lady-crane.png" height="60" /> |
+| <img src="../../images/card-icons/lady-crane.png" height="60" /> |
 |:---:|
 | **Active Bonus** |
 | **Worth Your While** |
@@ -8,7 +8,7 @@
 | Charisma (Persuasion) checks have advantage when attempting to bribe with a fair amount of money. |
 | Be careful of characters who morally oppose bribes. |
 
-| <img src="../../../images/card-icons/lady-crane.png" height="60" /> |
+| <img src="../../images/card-icons/lady-crane.png" height="60" /> |
 |:---:|
 | **Downtime Bonus** |
 | **Savvy Shopper** |

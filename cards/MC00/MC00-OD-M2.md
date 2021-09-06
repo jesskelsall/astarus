@@ -1,12 +1,12 @@
 # MC00-OD-M2
 
-| <img src="../../../images/card-icons/d8.png" height="60" /> |
+| <img src="../../images/card-icons/d8.png" height="60" /> |
 |:---:|
 | **Student** |
 | **Starting Level: 1** |
 | *I've been told that tomorrow one of the experienced members will be<br>taking me under their wing. Hopefully they know what they're doing.* |
 
-| <img src="../../../images/card-icons/d8.png" height="60" /> |
+| <img src="../../images/card-icons/d8.png" height="60" /> |
 |:---:|
 | **Student Ability** |
 | **[You Take It from Here](../../mechanics/character-features/you-take-it-from-here.md)** |

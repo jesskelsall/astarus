@@ -1,6 +1,6 @@
 # MC00-OC-M7
 
-| <img src="../../../images/card-icons/marsh-skimmers.png" height="60" /> |
+| <img src="../../images/card-icons/marsh-skimmers.png" height="60" /> |
 |:---:|
 | **Starting Equipment** |
 | **Invisible Ink** |

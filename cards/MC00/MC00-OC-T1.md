@@ -7,7 +7,7 @@
 
 ---
 
-| <img src="../../../images/card-icons/the-time-enlightened.png" height="60" /> |
+| <img src="../../images/card-icons/the-time-enlightened.png" height="60" /> |
 |:---:|
 | **Group Patron** |
 | **[The Time Enlightened](../../organisations/the-time-enlightened.md)** |

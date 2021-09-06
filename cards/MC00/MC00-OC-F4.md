@@ -5,7 +5,7 @@
 | **[Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md)** |
 | **State** |
 
-| <img src="../../../images/card-icons/familia-vulpes.png" height="60" /> |
+| <img src="../../images/card-icons/familia-vulpes.png" height="60" /> |
 |:---:|
 | **Home State** |
 | **[Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md)** |

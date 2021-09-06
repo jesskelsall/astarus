@@ -1,12 +1,12 @@
 # MC00-OD-M1
 
-| <img src="../../../images/card-icons/d8.png" height="60" /> |
+| <img src="../../images/card-icons/d8.png" height="60" /> |
 |:---:|
 | **Mentor** |
 | **Starting Level: 4** |
 | *In recognition of my service and skill, the powers that be have given me<br>a new recruit to mentor. With great power comes great responsibility... |
 
-| <img src="../../../images/card-icons/d8.png" height="60" /> |
+| <img src="../../images/card-icons/d8.png" height="60" /> |
 |:---:|
 | **Mentor Ability** |
 | **[Just As I Taught You](../../mechanics/character-features/just-as-i-taught-you.md)** |

@@ -5,7 +5,7 @@
 | **[Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md)** |
 | **State** |
 
-| <img src="../../../images/card-icons/lady-crane.png" height="60" /> |
+| <img src="../../images/card-icons/lady-crane.png" height="60" /> |
 |:---:|
 | **Home State** |
 | **[Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md)** |

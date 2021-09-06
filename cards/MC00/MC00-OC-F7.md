@@ -1,6 +1,6 @@
 # MC00-OC-F7
 
-| <img src="../../../images/card-icons/familia-vulpes.png" height="60" /> |
+| <img src="../../images/card-icons/familia-vulpes.png" height="60" /> |
 |:---:|
 | **Starting Equipment** |
 | **[Potion of Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)** |

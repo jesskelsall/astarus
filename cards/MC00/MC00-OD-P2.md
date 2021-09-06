@@ -1,12 +1,12 @@
 # MC00-OD-P2
 
-| <img src="../../../images/card-icons/d8.png" height="60" /> |
+| <img src="../../images/card-icons/d8.png" height="60" /> |
 |:---:|
 | **Peer** |
 | **Starting Level: 2** |
 | *Most of the people I joined with have either moved on or met an untimely end.<br>But I'm still here, doing my best not to end up like the latter people.* |
 
-| <img src="../../../images/card-icons/d8.png" height="60" /> |
+| <img src="../../images/card-icons/d8.png" height="60" /> |
 |:---:|
 | **Peer Ability** |
 | **[Instinctual Planning](../../mechanics/character-features/instinctual-planning.md)** |

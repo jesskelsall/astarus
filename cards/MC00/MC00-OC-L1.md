@@ -7,7 +7,7 @@
 
 ---
 
-| <img src="../../../images/card-icons/lady-crane.png" height="60" /> |
+| <img src="../../images/card-icons/lady-crane.png" height="60" /> |
 |:---:|
 | **Group Patron** |
 | **[Lady Crane](../../organisations/lady-crane.md)** |

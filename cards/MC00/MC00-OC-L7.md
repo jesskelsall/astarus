@@ -1,6 +1,6 @@
 # MC00-OC-L7
 
-| <img src="../../../images/card-icons/lady-crane.png" height="60" /> |
+| <img src="../../images/card-icons/lady-crane.png" height="60" /> |
 |:---:|
 | **Starting Equipment** |
 | **Tarot Cards** |

@@ -1,6 +1,6 @@
 # MC01F-I-1
 
-| <img src="../../../images/card-icons/familia-vulpes.png" height="60" /> |
+| <img src="../../images/card-icons/familia-vulpes.png" height="60" /> |
 |:---:|
 | **Item** |
 | **[Familia Vulpes](../../organisations/familia-vulpes.md) [Coin of Family](../../items/coin-of-family.md)** |

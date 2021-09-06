@@ -5,7 +5,7 @@
 | **[The Dragonbrand](../../civilisations/nilsavnic-alliance/states/the-dragonbrand.md)** |
 | **State** |
 
-| <img src="../../../images/card-icons/the-time-enlightened.png" height="60" /> |
+| <img src="../../images/card-icons/the-time-enlightened.png" height="60" /> |
 |:---:|
 | **[The Dragonbrand](../../civilisations/nilsavnic-alliance/states/the-dragonbrand.md)** |
 | **State** |

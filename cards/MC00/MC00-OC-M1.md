@@ -7,7 +7,7 @@
 
 ---
 
-| <img src="../../../images/card-icons/marsh-skimmers.png" height="60" /> |
+| <img src="../../images/card-icons/marsh-skimmers.png" height="60" /> |
 |:---:|
 | **Group Patron** |
 | **[Marsh Skimmers](../../organisations/marsh-skimmers.md)** |

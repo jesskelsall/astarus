@@ -1,13 +1,13 @@
 # MC00-OC-T6
 
-| <img src="../../../images/card-icons/the-time-enlightened.png" height="60" /> |
+| <img src="../../images/card-icons/the-time-enlightened.png" height="60" /> |
 |:---:|
 | **Active Bonus** |
 | **Trinket Curiosity** |
 | *We are out in the world in search of artefacts that further our understanding of [Astarus](../../planes/astarus.md), [Oonar](../../planes/oonar.md), and the Comings.* |
 | Intelligence (History) and Intelligence (Arcana) checks have advantage when examining artefacts. |
 
-| <img src="../../../images/card-icons/the-time-enlightened.png" height="60" /> |
+| <img src="../../images/card-icons/the-time-enlightened.png" height="60" /> |
 |:---:|
 | **Downtime Bonus** |
 | **Praise the Bestower** |

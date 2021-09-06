@@ -1,6 +1,6 @@
 # MC01F-I-3
 
-| <img src="../../../images/card-icons/d20.png" height="60" /> |
+| <img src="../../images/card-icons/d20.png" height="60" /> |
 |:---:|
 | **Item** |
 | **Ornate Key** |

@@ -1,13 +1,13 @@
 # MC00-OC-M6
 
-| <img src="../../../images/card-icons/marsh-skimmers.png" height="60" /> |
+| <img src="../../images/card-icons/marsh-skimmers.png" height="60" /> |
 |:---:|
 | **Active Bonus** |
 | **Skimmersign** |
 | *Following that failed job it became a priority to find a way to communicate silently. And so we created Skimmersign out of necessity.* |
 | Add Skimmersign to your known languages. Skimmersign is a form of sign language that allows for silent communication with the use of only one hand. |
 
-| <img src="../../../images/card-icons/marsh-skimmers.png" height="60" /> |
+| <img src="../../images/card-icons/marsh-skimmers.png" height="60" /> |
 |:---:|
 | **Downtime Bonus** |
 | **The Endless Marsh** |

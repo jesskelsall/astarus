@@ -7,7 +7,7 @@
 
 ---
 
-| <img src="../../../images/card-icons/familia-vulpes.png" height="60" /> |
+| <img src="../../images/card-icons/familia-vulpes.png" height="60" /> |
 |:---:|
 | **Group Patron** |
 | **[Familia Vulpes](../../organisations/familia-vulpes.md)** |
