@@ -21,7 +21,7 @@ The Key to the North road skirts around the town itself, leaving the town centre
 | Sights | Stone block buildings made of imported [Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md) stone. Peaceful cobbled streets. Large open air marketplace for sheep trading on certain days. Fine wool flags decorate some buildings. Many shops that make wool products, including brightly coloured fineries with imported dyes. |
 | Sounds | Bleating sheep, market traders, families walking and talking, playing kids. Pigeons. |
 | Smells | Mutton, fresh flowers, grass. |
-| People | Humble commoners with disposable income. Over land traders. Farmers herding sheep through the streets. Notable lack of [the Bay Watch](../../organisations/guards/the-bay-watch.md) guards. |
+| People | Humble commoners with disposable income. Over land traders. Farmers herding sheep through the streets. Notable lack of [Bay Watch](../../organisations/guards/bay-watch.md) guards. |
 | Intrigue | A vibrant sheep and wool town that has made a name for itself along a busy trade route. |
 
 ## Places

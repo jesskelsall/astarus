@@ -41,3 +41,16 @@ They don't talk much and are slow to trust other skimmers. Easily spooked and un
 | **Values** | Quick to follow others who know what they're doing. |
 | **Ambitions** | Too caught up in the songbird life to have an end goal. |
 | **Dislikes** | Combat, guards. |
+
+## History
+
+### [MC01M](../sessions/MC01M.md)
+
+Pouring Grain was in the company of [Keranios](keranios.md) and [Marik Kaligavone](marik-kaligavone.md), picking up some of their phrases for use on their journey:
+
+| [Keranios](keranios.md) | [Marik Kaligavone](marik-kaligavone.md) |
+| --- | --- |
+| It was very crunchy. | Something now? |
+| Say what? | Is it good? |
+| Are we ready? | We'll be okay. |
+| Lead the way. | It could be better. |

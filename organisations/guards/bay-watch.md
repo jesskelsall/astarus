@@ -1,10 +1,10 @@
-# The Bay Watch
+# Bay Watch
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/imageid.png" height="200" />
 
 |||
 | --- | --- |
-| **Name** | The Bay Watch | organisation.3
+| **Name** | Bay Watch | organisation.3
 | **Civilisation** | [Bay of Splendour](../../civilisations/nilsavnic-alliance/states/bay-of-splendour.md) |
 | **Leader** | |
 | **Patron** | |

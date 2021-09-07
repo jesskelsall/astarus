@@ -66,4 +66,4 @@ As Kenku can mimic any sound or voice they have heard, it is possible for them t
 
 Songbirds are escorted to their destination by other skimmers. On this journey they leave as many responsibilities to the other skimmers as possible, allowing them to focus on preserving the memory they are due to deliver.
 
-Due to the rise of songbirds within the Marsh Skimmers, some guard forces (notably [the Bay Watch](guards/the-bay-watch.md)) see kenku travelling with others as criminals by default.
+Due to the rise of songbirds within the Marsh Skimmers, some guard forces (notably the [Bay Watch](guards/bay-watch.md)) see kenku travelling with others as criminals by default.

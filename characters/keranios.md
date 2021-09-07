@@ -1,4 +1,4 @@
-# Keranios / Kera
+# Keranios
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/8c075a85ed942631.png" height="500" />
 
