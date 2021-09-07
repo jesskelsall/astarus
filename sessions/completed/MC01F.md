@@ -7,7 +7,7 @@
 | **Title** | *Introducing [Familia Vulpes](../../organisations/familia-vulpes.md)* |
 | **Players** | [Rin](../../players/rin.md) ([Vētrall Astérr](../../characters/vetrall-asterr.md))<br>[Viktorija](../../players/viktorija.md) ([Valan Shadowgaze](../../characters/valan-shadowgaze.md)) |
 | **Guests** | |
-| **Storylines** | [Mentor and Student](../../storylines/mentor-and-student.md)<br>[The Metal Fox's Legacy](../../storylines/the-metal-foxs-legacy.md)<br>[Vētrall vs Drendoc](../../storylines/vetrall-vs-drendoc.md) |
+| **Storylines** | [Mentor and Student](../../storylines/mentor-and-student.md)<br>[Sword of the Moon](../../storylines/sword-of-the-moon.md)<br>[The Shiny Ball](../../storylines/the-shiny-ball.md)<br>[Vētrall vs Drendoc](../../storylines/vetrall-vs-drendoc.md) |
 
 ## A Letter for Vētrall
 

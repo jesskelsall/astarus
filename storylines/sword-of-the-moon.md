@@ -1,4 +1,4 @@
-# The Moon Sword
+# Sword of the Moon
 
 |||
 | --- | --- |
