@@ -1,10 +1,10 @@
-# Marik Kaligavone
+# Marik Kaligavone / Stonebreaker
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5e34f2c0018c62f8.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Marik Kaligavone<br>*Tempest* (Marsh Skimmer name) | character.3
+| **Name** | Marik Kaligavone<br>Stonebreaker (Goliath nickname)<br>*Tempest* (Marsh Skimmer name) | character.3
 | **Lineage** | Goliath |
 | **Pronouns** | she/her |
 | **Age** | 24 |
