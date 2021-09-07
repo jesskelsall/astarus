@@ -10,4 +10,4 @@
 
 ## Summary
 
-The Three Goats is [Trubska](../../villages/trubska.md)'s inn. Located off the village's marketplace, the inn mostly caters to visitors and workers who are looking for a good time after a busy shift in the mines. The local [Coastguard](../../../organisations/coastguard.md) also congregate here.
+The Three Goats is [Trubska](../../villages/trubska.md)'s inn. Located off the village's marketplace, the inn mostly caters to visitors and workers who are looking for a good time after a busy shift in the mines. The local [Coastguard](../../../organisations/guards/coastguard.md) also congregate here.

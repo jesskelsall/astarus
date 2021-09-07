@@ -21,7 +21,7 @@ The second settlement along the [Nilus Coast](../../civilisations/nilsavnic-alli
 | Sights | Town on a consistently sloping hill. Multi-storey buildings with maze-like narrow cobbled streets between. Drainage channels cut down every street to help the water flow during rainy days. Bunting in turquoise and gold criss-crosses many streets. Large main road cuts town in half east to west. Views of the [Nilus Peaks](../mountains/nilus-peaks.md) to the north, [Gulf of Tanelle](../seas-oceans/gulf-of-tanelle.md) to the south. |
 | Sounds | Hustle bustle of daily life. Horses and carts. Merchants trading. Pigeons. Children playing in [the alleys](../buildings/shops/the-alley.md). |
 | Smells | Salt air, mossy cobble, fresh bread, bird poop. |
-| People | Lower to middle class citizens, merchants, [Coastguard](../../organisations/coastguard.md). |
+| People | Lower to middle class citizens, merchants, [Coastguard](../../organisations/guards/coastguard.md). |
 | Intrigue | A humble trading town along a well travelled route. |
 
 ## Places

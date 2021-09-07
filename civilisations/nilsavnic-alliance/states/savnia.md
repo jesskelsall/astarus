@@ -16,6 +16,8 @@
 | **Neighbours** | [Reimatelau](reimatelau.md) (south)<br>[Valburg](valburg.md) (north) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
+| **Guard Force** | |
+|||
 | **Image ID** | `70dc2d2a657057d3` |
 
 ## Summary

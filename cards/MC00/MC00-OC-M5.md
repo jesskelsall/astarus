@@ -13,5 +13,5 @@
 | **Enterprising Opportunities** |
 | *Being part of a state-spanning criminal syndicate certainly has its perks.
 There is always money to be had from taking from others - their valuables and lives.* |
-| When returning to Tabaxi's Folly in [Murkwallow](../../places/cities/murkwallow.md), [Marsh Skimmers](../../organisations/marsh-skimmers.md) members are always able to find contract work. |
+| When returning to [Tabaxi's Folly](../../places/buildings/tabaxis-folly.md) in [Murkwallow](../../places/cities/murkwallow.md), [Marsh Skimmers](../../organisations/marsh-skimmers.md) members are always able to find contract work. |
 | These jobs pay members well and typically involve illegal activities. |

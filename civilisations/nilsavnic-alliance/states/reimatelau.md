@@ -16,6 +16,8 @@
 | **Neighbours** | [Savnia](savnia.md) (north) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
+| **Guard Force** | |
+|||
 | **Image ID** | `7cff453192651ca2` |
 
 ## Summary

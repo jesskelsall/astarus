@@ -29,7 +29,7 @@
 >
 > Please keep this away from the family, they'll only use it as an excuse to argue and try to take it from you.
 >
-> This key opens a lockbox in the Nilus Vaults in [Starnov](../places/cities/starnov.md). Box FV-1286.
+> This key opens a lockbox in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/cities/starnov.md). Box FV-1286.
 >
 > Don't open it in there. There's always been this weird feeling to that place whenever I've walked in.
 >

@@ -16,6 +16,8 @@
 | **Neighbours** | [Bay of Splendour](bay-of-splendour.md) (west)<br>[Nilus Coast](nilus-coast.md) (south west)<br>[Savnia](savnia.md) (south)<br>[The Dragonbrand](the-dragonbrand.md) (north east) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
+| **Guard Force** | |
+|||
 | **Image ID** | `5c15a8286ffbedf8` |
 
 ## Summary

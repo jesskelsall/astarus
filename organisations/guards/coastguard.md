@@ -5,15 +5,15 @@
 |||
 | --- | --- |
 | **Name** | Coastguard | organisation.3
-| **Civilisation** | [Nilus Coast](../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
+| **Civilisation** | [Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
 | **Leader** | |
 | **Patron** | |
-| **Location(s)** | [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Location(s)** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 |||
 | **Image ID** | |
 
 ## Summary
 
-The Coastguard is the guard force of the [Nilus Coast](../civilisations/nilsavnic-alliance/states/nilus-coast.md).
+The Coastguard is the guard force of the [Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md).
 
 Coastguards wear leathers with turquoise leather pauldrons - the colour of the state.

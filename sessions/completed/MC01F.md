@@ -111,15 +111,15 @@ Valan reflects on feeling helpless in the fight, taking a near fatal hit almost 
 
 *[Short rest]*
 
-## Meeting the [Coastguard](../../organisations/coastguard.md)
+## Meeting the [Coastguard](../../organisations/guards/coastguard.md)
 
 By late afternoon the pair arrive in [Trubska](../../places/villages/trubska.md). It is a quiet village with a few labourers coming and going, but nobody pays them any mind. Exploring deeper into the village they come across the stone fountain and next to it [the Three Goats](../../places/buildings/inns-taverns/the-three-goats.md) inn. They head inside.
 
-Inside a collection of miners are eating their dinner, drinking, and quietly conversing across their tables. [Valan Shadowgaze](../../characters/valan-shadowgaze.md) notices a table full of [Coastguard](../../organisations/coastguard.md), identified by their leathers, weapons, and turquoise leather pauldrons.
+Inside a collection of miners are eating their dinner, drinking, and quietly conversing across their tables. [Valan Shadowgaze](../../characters/valan-shadowgaze.md) notices a table full of [Coastguard](../../organisations/guards/coastguard.md), identified by their leathers, weapons, and turquoise leather pauldrons.
 
 [Vētrall Astérr](../../characters/vetrall-asterr.md) heads up to the bar and is greeted by [Lionhunter](../../characters/lionhunter.md). They order 2 ales (8 cp) before making it clear that they're both from [Familia Vulpes](../../organisations/familia-vulpes.md), here to sort out the bear problem, and that as a result they'd like to stay the night free of charge in exchange for a bardic performance. [Lionhunter](../../characters/lionhunter.md) rebuffs the audacity of the request but invites Vētrall to perform their best and they'll consider it.
 
-At this point [Oronar Redtooth](../../characters/oronar-redtooth.md) has got up from the table of [Coastguard](../../organisations/coastguard.md) and came over to speak to the pair. He has overheard their conversation at the bar and thanks them for coming. He provides more details of the bear's location, explaining that it is mostly seen around a northern mining camp. Vētrall asks if Oronar can show them the area in the morning. Oronar agrees.
+At this point [Oronar Redtooth](../../characters/oronar-redtooth.md) has got up from the table of [Coastguard](../../organisations/guards/coastguard.md) and came over to speak to the pair. He has overheard their conversation at the bar and thanks them for coming. He provides more details of the bear's location, explaining that it is mostly seen around a northern mining camp. Vētrall asks if Oronar can show them the area in the morning. Oronar agrees.
 
 That evening Vētrall plays the lute. Initially starting with a low temp low energy performance, they build it up over time. This draws in a crowd of not only people in the inn, but those from the village who quickly learn through word of mouth about the performance, bringing more patrons into the inn. [Lionhunter](../../characters/lionhunter.md) is ecstatic, pouring drinks to the new patrons who stay for a good time. Vētrall is never without an ale all night, downing five before finishing their performance.
 
@@ -216,7 +216,7 @@ On the way back Valan asks Vētrall about their ability to levitate. Vētrall re
 
 ## A Deed Well Done
 
-The pair spend the rest of the day trekking back to [Trubska](../../places/villages/trubska.md), where they enter [the Three Goats](../../places/buildings/inns-taverns/the-three-goats.md) inn to find [Oronar Redtooth](../../characters/oronar-redtooth.md). Vētrall grabs the bear head and kicks the door open while holding the head over their own in triumph. This startles the [Coastguard](../../organisations/coastguard.md) inside who instinctively jump to their feet and grab their weapons before realising who it is.
+The pair spend the rest of the day trekking back to [Trubska](../../places/villages/trubska.md), where they enter [the Three Goats](../../places/buildings/inns-taverns/the-three-goats.md) inn to find [Oronar Redtooth](../../characters/oronar-redtooth.md). Vētrall grabs the bear head and kicks the door open while holding the head over their own in triumph. This startles the [Coastguard](../../organisations/guards/coastguard.md) inside who instinctively jump to their feet and grab their weapons before realising who it is.
 
 [Lionhunter](../../characters/lionhunter.md) insists that Vētrall leaves the bear head outside due to the now partially congealed blood getting everywhere.
 
@@ -261,7 +261,7 @@ When [Vētrall Astérr](../../characters/vetrall-asterr.md) finally emerges for 
 
 He hands Vētrall a letter ([MC01F-L-3](../../letters/MC01F-L-3.md)), plainly explaining that this came with Geen's will. Hanz doesn't cause any commotion, trying to keep the letter private out of respect for Vētrall.
 
-Vētrall takes the letter to a private corner, opening it and reading it. It is a letter from [Vulpes Geen](../../characters/vulpes-geen.md) that contains an ornate key for a strongbox in the Nilus Vaults in [Starnov](../../places/cities/starnov.md). Geen warns Vētrall not to open it inside the building due to his personal feelings about the aura of the place.
+Vētrall takes the letter to a private corner, opening it and reading it. It is a letter from [Vulpes Geen](../../characters/vulpes-geen.md) that contains an ornate key for a strongbox in the [Nilus Vaults](../../places/buildings/government/nilus-vaults.md) in [Starnov](../../places/cities/starnov.md). Geen warns Vētrall not to open it inside the building due to his personal feelings about the aura of the place.
 
 Returning to the banquet hall, Vētrall finds [Valan Shadowgaze](../../characters/valan-shadowgaze.md) eating baked potatoes for breakfast. They tell Valan that they should hit the road to [Starnov](../../places/cities/starnov.md) today as they have business there, choosing not to disclose what exactly.
 

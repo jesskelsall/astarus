@@ -16,6 +16,8 @@
 | **Neighbours** | [Revenossa](revenossa.md) (south)<br>[The Dragonbrand](the-dragonbrand.md) (north east) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
+| **Guard Force** | |
+|||
 | **Image ID** | `de2a338410d9921d` |
 
 ## Summary

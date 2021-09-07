@@ -4,8 +4,8 @@
 
 |||
 | --- | --- |
-| **Capital City** | | civilisation.2
-| **Official Languages** | |
+| **Capital City** | Utsera | civilisation.2
+| **Official Languages** | Common |
 | **Ethnic Groups** | |
 | **Religion** | |
 | **Demonyms** | |
@@ -16,6 +16,8 @@
 | **Neighbours** | [Nilus Coast](nilus-coast.md) (south)<br>[Revenossa](revenossa.md) (north)<br>[Valburg](valburg.md) (east) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
+| **Guard Force** | [The Bay Watch](../../../organisations/guards/the-bay-watch.md) |
+|||
 | **Image ID** | `7aa399fa8331091c` |
 
 ## Summary

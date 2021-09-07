@@ -16,6 +16,16 @@ The antithesis of [Hochwald](hochwald.md) or [Arrepont](arrepont.md), Murkwallow
 
 The [Marsh Skimmers](../../organisations/marsh-skimmers.md) are headquartered in Murkwallow.
 
+| Sensation | Description |
+| ---- | --- |
+| Sights | Situated on a large delta island. Wooden two storey buildings, little stone due to weight. Divided into smaller islands by artificial canals used to transport goods through the city. No horses. Criss-crossing stone bridges. Each island forms a district with its own small marketplace. Some abandoned buildings that are sinking into the mud. |
+| Sounds | Canal boat oars, active marketplace chatter. Barking dogs. |
+| Smells | Mud, faeces, stale water, market produce. |
+| People | Poor commoners that are fiercely independent, gangs that exert control over their own canal islands. [Revenucci](../../organisations/guards/revenucci.md) and [the Bay Watch](../../organisations/guards/the-bay-watch.md) guards trying to exert control unsuccessfully. |
+| Intrigue | A poor city in an unlikely place, protected from the influence around them by rough terrain and rougher stubbornness. |
+
 ## Places
 
-- Tabaxi's Folly ([Marsh Skimmers](../../organisations/marsh-skimmers.md) HQ)
+- [Tabaxi's Folly](../buildings/tabaxis-folly.md) ([Marsh Skimmers](../../organisations/marsh-skimmers.md) HQ)
+  - [Creek's Bar](../buildings/inns-taverns/creeks-bar.md)
+- [The Terrific Toad](../buildings/inns-taverns/the-terrific-toad.md) (inn)

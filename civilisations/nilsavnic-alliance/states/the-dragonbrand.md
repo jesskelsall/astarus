@@ -16,6 +16,8 @@
 | **Neighbours** | [Bay of Splendour](bay-of-splendour.md) (south)<br>[City of Respite](city-of-respite.md) (west)<br>[Revenossa](revenossa.md) (south west)<br>[Valburg](valburg.md) (south east) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
+| **Guard Force** | |
+|||
 | **Image ID** | `bfe17dae1e445791` |
 
 ## Summary

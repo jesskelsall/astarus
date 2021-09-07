@@ -16,6 +16,8 @@
 | **Neighbours** | [Bay of Splendour](bay-of-splendour.md) (north)<br>[Valburg](valburg.md) (north east) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
+| **Guard Force** | [Coastguard](../../../organisations/guards/coastguard.md) |
+|||
 | **Image ID** | `43647483a51e18e4` |
 
 ## Summary

@@ -16,6 +16,8 @@
 | **Neighbours** | [Bay of Splendour](bay-of-splendour.md) (south)<br>[City of Respite](city-of-respite.md) (north east)<br>[The Dragonbrand](the-dragonbrand.md) (east) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
+| **Guard Force** | [Revenucci](../../../organisations/guards/revenucci.md) |
+|||
 | **Image ID** | `45849e8ca36731ca` |
 
 ## Summary

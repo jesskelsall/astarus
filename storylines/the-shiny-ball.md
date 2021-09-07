@@ -19,6 +19,6 @@ While there, Hanz informs Vētrall that the Vulpes family is starting to bicker 
 
 After returning from [Trubska](../places/villages/trubska.md), Vētrall is at [The Fox Hole](../places/buildings/the-fox-hole.md) while Geen's will is ready by the Vulpes Family, though they are not present for the reading or made aware of its contents.
 
-Immediately following this, Hanz gives a letter from Geen to Vētrall. It also contains an ornate key that opens a lockbox in the Nilus Vaults in [Starnov](../places/cities/starnov.md). Geen writes to Vētrall that one of his prized possessions is in it, and they should not speak of this to the family.
+Immediately following this, Hanz gives a letter from Geen to Vētrall. It also contains an ornate key that opens a lockbox in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/cities/starnov.md). Geen writes to Vētrall that one of his prized possessions is in it, and they should not speak of this to the family.
 
 Vētrall makes their way to [Starnov](../places/cities/starnov.md) with their student [Valan Shadowgaze](../characters/valan-shadowgaze.md).
