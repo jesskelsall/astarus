@@ -6,8 +6,8 @@
 | **Type** | City |
 | **Location** | [Scintil Delta](../rivers-lakes/scintil-delta.md) |
 | **Civilisation** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
-| **Population** | |
-| **Nearby Places** | |
+| **Population** | 6,400 |
+| **Nearby Places** | [Scintil Delta](../rivers-lakes/scintil-delta.md)<br>Siltshore |
 | **People** | |
 
 ## Summary

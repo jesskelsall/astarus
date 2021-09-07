@@ -6,7 +6,7 @@
 | **Type** | Inn |
 | **Location** | [Murkwallow](../../cities/murkwallow.md)<br>[Scintil Delta](../../rivers-lakes/scintil-delta.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Nearby Places** | |
-| **People** | Leofrick de Bolbec (innkeeper)<br>Thelraar Avrae |
+| **People** | [Leofrick de Bolbec](../../../characters/leofrick-de-bolbec.md) (innkeeper)<br>[Thelraar Avrae](../../../characters/thelraar-avrae.md) (patron) |
 
 ## Summary
 

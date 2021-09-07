@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **To** | [Keranios](../characters/keranios.md), [Marik Kaligavone](../characters/marik-kaligavone.md) | letter.1
-| **From** | Creek |
+| **From** | [Creek](../characters/creek.md) |
 | **Date** | |
 | **Session Given** | [MC01M](../sessions/MC01M.md) |
 |||
@@ -26,7 +26,7 @@
 >
 > Things are moving quickly. I know you're in the area.
 >
-> *{The Hammersmiths are moving closer.}*
+> *{The [Hammersmiths](../organisations/hammersmiths.md) are moving closer.}*
 >
 > Don't forget the debt you both owe us.
 >
@@ -34,4 +34,4 @@
 > maybe we can call it even.
 >
 > See you soon,  
-> Creek
+> [Creek](../characters/creek.md)

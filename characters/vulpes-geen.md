@@ -10,7 +10,7 @@
 | **Age** | 42  |
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
-| **Relations** | [Vulpes Soon](vulpes-soon.md) (son)<br>[Vētrall Astérr](vetrall-asterr.md) (friend) |
+| **Relations** | [Vulpes Soon](vulpes-soon.md) (first son)<br>[Vulpes Geex](vulpes-geex.md) (second son)<br>[Vētrall Astérr](vetrall-asterr.md) (friend) |
 | **Places** | [The Fox Hole](../places/buildings/the-fox-hole.md) |
 |||
 | **Citizenship** | [Nilus Coast](../civilisations/nilsavnic-alliance/states/nilus-coast.md) |

@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **To** | Crucible | letter.1
-| **From** | Creek |
+| **To** | [Crucible](../characters/crucible.md) | letter.1
+| **From** | [Creek](../characters/creek.md) |
 | **Date** | |
 | **Session Given** | [MC01M](../sessions/MC01M.md) |
 |||
@@ -18,13 +18,13 @@
 
 ## Transcript
 
-> Crucible,
+> [Crucible](../characters/crucible.md),
 >
 > [The Metal Fox](../characters/vulpes-geen.md) is dead.
 >
 > A brief window of chaos is open. There is profit to be had if we act quickly.
 >
-> Vulpes Geex has joined our cause. He has promised to feed us information. A promise he made in person to me.
+> [Vulpes Geex](../characters/vulpes-geex.md) has joined our cause. He has promised to feed us information. A promise he made in person to me.
 >
 > This songbird should satisfy your need for proof, I would hope.
 >
@@ -40,7 +40,7 @@
 > I have a buyer lined up.
 >
 > Have fun,  
-> Creek
+> [Creek](../characters/creek.md)
 
 > *{These two have served me well to date.}*  
 > *{Use them.}*
