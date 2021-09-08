@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC01M](../sessions/MC01M.md) | storyline.2
+| **Session Started** | [MC01M](../sessions/completed/MC01M.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@ The [Hammersmiths](../organisations/hammersmiths.md) have began openly opposing 
 
 ## History
 
-### [MC01M](../sessions/MC01M.md)
+### [MC01M](../sessions/completed/MC01M.md)
 
 In [Creek](../characters/creek.md)'s letter to [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) ([MC01M-L-1](../letters/MC01M-L-1.md)), [Creek](../characters/creek.md) added a secret message in invisible ink that warned the pair of [Hammersmiths](../organisations/hammersmiths.md) closing in on [Murkwallow](../places/cities/murkwallow.md), and to be careful.
 

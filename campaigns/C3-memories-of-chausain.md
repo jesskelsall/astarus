@@ -36,7 +36,7 @@
 |---| --- | --- |
 | [MC00](../sessions/completed/MC00.md) | 2021-08-08 | *Session Zero* |
 | [MC01F](../sessions/completed/MC01F.md) | 2021-08-29 | *Introducing [Familia Vulpes](../organisations/familia-vulpes.md)* |
-| [MC01M](../sessions/MC01M.md) | 2021-09-05 | *Introducing the [Marsh Skimmers](../organisations/marsh-skimmers.md)* |
+| [MC01M](../sessions/completed/MC01M.md) | 2021-09-05 | *Introducing the [Marsh Skimmers](../organisations/marsh-skimmers.md)* |
 ||
 | [MC02](../sessions/upcoming/MC02.md) | 2021-09-19 | |
 
@@ -48,4 +48,4 @@
 | [Vētrall vs Drendoc](../storylines/vetrall-vs-drendoc.md) | [MC01F](../sessions/completed/MC01F.md) |
 | [Sword of the Moon](../storylines/sword-of-the-moon.md) | [MC01F](../sessions/completed/MC01F.md) | |
 | [The Shiny Ball](../storylines/the-shiny-ball.md) | [MC01F](../sessions/completed/MC01F.md) | |
-| [Hammersmiths on the Offensive](../storylines/hammersmiths-on-the-offensive.md) | [MC01M](../sessions/MC01M.md) | |
+| [Hammersmiths on the Offensive](../storylines/hammersmiths-on-the-offensive.md) | [MC01M](../sessions/completed/MC01M.md) | |

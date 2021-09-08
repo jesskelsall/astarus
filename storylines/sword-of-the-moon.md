@@ -19,7 +19,7 @@ While there, Hanz informs Vētrall that the Vulpes family is starting to bicker 
 
 After returning from [Trubska](../places/villages/trubska.md), Vētrall is at [The Fox Hole](../places/buildings/the-fox-hole.md) while Geen's will is ready by the Vulpes Family, though they are not present for the reading or made aware of its contents. The Vulpes Family learn that [Unevaire](../items/weapons/unevaire.md) is bequeathed to [Vulpes Soon](../characters/vulpes-soon.md).
 
-### [MC01M](../sessions/MC01M.md)
+### [MC01M](../sessions/completed/MC01M.md)
 
 [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) learn about a [Familia Vulpes](../organisations/familia-vulpes.md) in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/cities/starnov.md) that is due to be opened soon, through a letter [Creek](../characters/creek.md) sends to [Crucible](../characters/crucible.md) ([MC01M-L-2](../letters/MC01M-L-2.md)). [Vulpes Geex](../characters/vulpes-geex.md) has provided the [Marsh Skimmers](../organisations/marsh-skimmers.md) intel that suggests that following the reading of [Vulpes Geen](../characters/vulpes-geen.md)'s will, a member of [Familia Vulpes](../organisations/familia-vulpes.md) will head to [Starnov](../places/cities/starnov.md) to claim the box's contents bequeathed to them. Geex suggests the box may contain [Unevaire](../items/weapons/unevaire.md).
 
