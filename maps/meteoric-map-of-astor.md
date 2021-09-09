@@ -1,6 +1,14 @@
 # Meteoric Map of Astor
 
-<img src="../images/maps/meteoric-map-of-astor.jpg" />
+|||
+| --- | --- |
+| **Created on** | 2020-12-02 |
+| **Created for** | [Purple Rain](../campaigns/C1-purple-rain.md) |
+| **First appearance(s)** | [PR10](../sessions/completed/PR10.md) |
+||
+| **Image ID** | `4f90f68092d467ef` |
+
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/maps/4f90f68092d467ef-lg.jpg" />
 
 ## Summary
 
@@ -25,3 +33,9 @@ These mistakes are down to my iteration on [South East Kardan](../places/regions
 | Fossgarth | Carnmere |
 | Grachside | [Yeatscale](../places/cities/yeatscale.md) |
 | Leece | [Ulburn](../places/villages/ulburn.md) |
+
+## Versions
+
+| Large (670 KB) | Gridded (426 KB) |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/maps/4f90f68092d467ef-lg.jpg" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/maps/4f90f68092d467ef-gd.jpg" /> |
