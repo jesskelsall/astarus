@@ -53,7 +53,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA09](../sessions/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)* |
 | [AA10](../sessions/completed/AA10.md) | 2021-06-12 | *Dark Steel, Darker Sewers* |
 | [AA11](../sessions/completed/AA11.md) | 2021-06-26 | *Syntenne Spy Showdown* |
-| [AA12](../sessions/AA12.md) | 2021-07-10 | *Forget What You Saw Here* |
+| [AA12](../sessions/completed/AA12.md) | 2021-07-10 | *Forget What You Saw Here* |
 | [AA13](../sessions/AA13.md) | 2021-09-04 | *Where is [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md)?* |
 ||
 | [AA14](../sessions/upcoming/AA14.md) | 2021-09-18 | |
@@ -68,14 +68,14 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Whisper and Valnos](../storylines/ended/whisper-and-valnos.md) | [AA01](../sessions/completed/AA01.md) | [AA04](../sessions/completed/AA04.md) |
 | [Retrieving Ephaine's Star Map](../storylines/ended/retrieving-ephaines-star-map.md) | [AA01](../sessions/completed/AA01.md) | [AA02](../sessions/completed/AA02.md) |
 | [The Rival Squad](../storylines/the-rival-squad.md) | [AA01](../sessions/completed/AA01.md) | |
-| [Canary Squad Lead](../storylines/canary-squad-lead.md) | [AA01](../sessions/completed/AA01.md) | |
+| [Canary Squad Lead](../storylines/ended/canary-squad-lead.md) | [AA01](../sessions/completed/AA01.md) | [AA12](../sessions/completed/AA12.md) |
 | [Check Logging in Arnaside](../storylines/ended/check-logging-in-arnaside.md) | [AA02](../sessions/completed/AA02.md) | [AA06](../sessions/completed/AA06.md) |
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [AA05](../sessions/completed/AA05.md) | [AA06](../sessions/completed/AA06.md) |
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [AA05](../sessions/completed/AA05.md) | |
 | [Nature's Battle 27](../storylines/ended/natures-battle-27.md) | [AA06](../sessions/completed/AA06.md) | [AA09](../sessions/AA09.md) |
-| [Free Schiller Steel](../storylines/free-schiller-steel.md) | [AA10](../sessions/completed/AA10.md) | |
+| [Free Schiller Steel](../storylines/ended/free-schiller-steel.md) | [AA10](../sessions/completed/AA10.md) | [AA12](../sessions/completed/AA12.md) |
 | [Nilliski's Unknowable Whims](../storylines/nilliskis-unknowable-whims.md) | [AA10](../sessions/completed/AA10.md) | |
-| [Syntenne Spies in Eskrigg](../storylines/syntenne-spies-in-eskrigg.md) | [AA10](../sessions/completed/AA10.md) | |
+| [Syntenne Spies in Eskrigg](../storylines/ended/syntenne-spies-in-eskrigg.md) | [AA10](../sessions/completed/AA10.md) | [AA12](../sessions/completed/AA12.md) |
 | [Enforcing Astorian History](../storylines/enforcing-astorian-history.md) | [AA11](../sessions/completed/AA11.md) | |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [AA11](../sessions/completed/AA11.md) | |
-| [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [AA12](../sessions/AA12.md) | |
+| [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [AA12](../sessions/completed/AA12.md) | |

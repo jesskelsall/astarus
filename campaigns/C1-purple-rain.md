@@ -103,7 +103,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/completed/PR20.md) | [PR21](../sessions/completed/PR21.md) |
 | [Nature's Battle 27](../storylines/ended/natures-battle-27.md) | [PR21](../sessions/completed/PR21.md) | [PR26](../sessions/completed/PR26.md) |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/completed/PR25.md) | |
-| [Syntenne Spies in Eskrigg](../storylines/syntenne-spies-in-eskrigg.md) | [PR27](../sessions/completed/PR27.md) | [PR27](../sessions/completed/PR27.md) |
+| [Syntenne Spies in Eskrigg](../storylines/ended/syntenne-spies-in-eskrigg.md) | [PR27](../sessions/completed/PR27.md) | [PR27](../sessions/completed/PR27.md) |
 | [Tyburn's Scrying Pool](../storylines/tyburns-scrying-pool.md) | [PR27](../sessions/completed/PR27.md) | |
 | [Talk to the Morning Chasers](../storylines/talk-to-the-morning-chasers.md) | [PR27](../sessions/completed/PR27.md) | [PR30](../sessions/completed/PR30.md) |
 | [How to Summon Your Dragon](../storylines/how-to-summon-your-dragon.md) | [PR30](../sessions/completed/PR30.md) | |

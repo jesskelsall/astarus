@@ -63,6 +63,14 @@ The party is unimpressed by the answers given and are sceptical. They press for 
 
 Despite the revelation, [Canary squad](../organisations/astorrel/squads/canary-squad.md) isn't willing to look the other way, binding Xavier and preparing to take him back to [Ronvyn Bafflegift](../characters/ronvyn-bafflegift.md) as proof of a spy conspiracy. During this he speaks elvish to Allisa who is disguised as a commoner on the other side of the sewer exit, telling her to leave him and go. She drops her disguise and attempts to grab Xavier while casting Dimension Door to make their escape. Unfortunately Ahsha prevents her from grabbing him, so she opts to leave without him.
 
+### [AA12](../sessions/completed/AA12.md)
+
+When [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md) confronts [Canary squad](../organisations/astorrel/squads/canary-squad.md) and [Yialdred Korina](../characters/yialdred-korina.md) in an inn cellar, she casts Detect Thoughts on their prisoner, [Xavier Raloven](../characters/xavier-raloven.md). Before doing so she speaks to him in elvish, appealing for him to cooperate, which he does. This allows her to gain not only his thoughts but his memories as well. Doing so gives Lia a full picture of his mission with [Allisa Balsatra](../characters/allisa-balsatra.md), their goal (to see [Thanea Morlay](../characters/thanea-morlay.md) first-hand), and her [aasimar](../lineages/aasimar.md) heritage. This is the first insight into [aasimar](../lineages/aasimar.md) that the [Astornar](../organisations/astornar.md) have ever had.
+
+[Canary squad](../organisations/astorrel/squads/canary-squad.md) also corroborate the information, giving an accurate account of what Xavier told them, even if they don't believe any/all of it.
+
+Gwenhwyfar tidies up loose ends by executing Xavier by casting Disintegrate before threatening the party with a similar fate if they don't keep the events of that day ([Syntenne Spies in Eskrigg](ended/syntenne-spies-in-eskrigg.md)) a secret, pretending their day was a typical one instead.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will cross paths briefly with Saoirse while she is high on [meteoric dust](../items/meteoric/meteoric-dust.md). Allisa will recognise her energy, but her need to flee the city will prevent her from saying or doing much. She will talk vaguely to her underling about how there is a second one though something feels off. Her underling will then encourage her to move quickly.
