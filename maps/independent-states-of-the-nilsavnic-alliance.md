@@ -1,4 +1,4 @@
-# The Independent States of the Nil'Savnic Alliance
+# Independent States of the Nil'Savnic Alliance
 
 |||
 | --- | --- |
