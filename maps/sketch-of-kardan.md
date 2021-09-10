@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Created on** | |
+| **Created on** | 2021-07-23 |
 | **Created for** | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |
 | **First appearance(s)** | |
 ||
