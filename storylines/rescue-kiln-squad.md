@@ -40,3 +40,23 @@ A rough description of the squad's members is provided by Bryce, read from a pap
 [Ahsha Sallas](../characters/ahsha-sallas.md) endeavours to set off for the Neum Flats immediately. Bryce agrees to start their mission timer the following morning, so the squad use the opportunity ot grab supplies and buy a wagon with two draft horses.
 
 They leave [Northhaven](../places/cities/northhaven.md) west along the [Great Astor Road](../places/roads/great-astor-road.md). Late on their second day they find an overturned cart that was toppled by a griffon, still present and pinning down the couple riding in the cart. The party dismount and confront the griffon, fighting it and its two friends that appear when the first is provoked. Ahsha is able to rescue the couple from inside the collapsed cart.
+
+### [AA13](../sessions/AA13.md)
+
+After helping [Ulfric Sander](../characters/ulfric-sander.md) and [Selene Sander](../characters/selene-sander.md) out after the griffon attack on their cart, [Canary Squad](../organisations/astorrel/squads/canary-squad.md) continue west to [Hyceodd](../places/towns/hyceodd.md), arriving after another night on the road. They stable their horses and wagon for the night and stay at [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md).
+
+In the morning [Noon Schiller](../characters/noon-schiller.md) questions Ahsha's tactics, pointing out the lack of evidence that [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) even came this way as their last known whereabouts were [Northhaven](../places/cities/northhaven.md). They need to find clues to their whereabouts and use them to inform their onward search.
+
+The party splits up to ask around in [Hyceodd](../places/towns/hyceodd.md). [Ephaine Seren](../characters/ephaine-seren.md) and Noon ask the stable keeper but learn nothing. Ahsha and [Yialdred Korina](../characters/yialdred-korina.md) ask the [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md) keeping watch over the [Hyceodd](../places/towns/hyceodd.md) [Astornox](../organisations/astornox/astornox.md) Stronghold gatehouse.
+
+They learn that [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) passed through [Hyceodd](../places/towns/hyceodd.md), helping the [Astornox](../organisations/astornox/astornox.md) locate a building used by a local gang to imprison and torture immigrants living in or passing through [Hyceodd](../places/towns/hyceodd.md), notably elves. Their [Astorrel](../organisations/astorrel/astorrel.md) Squad Leader, [Scratch on Stone](../characters/scratch-on-stone.md), declined to help apprehend the gang, insisting they had business to attend to that would take them through [Blittergate](../places/towns/blittergate.md).
+
+Details of the gang were also learned: they may be part of or have ties to [the Crimson Blades](../organisations/the-crimson-blades.md), a notorious gang based out of Carnmere.
+
+With two possible leads in other towns, Ahsha decides to head to [Blittergate](../places/towns/blittergate.md) and pursue [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md)'s next known whereabouts. [Canary Squad](../organisations/astorrel/squads/canary-squad.md) pack up and hit the [Great Astor Road](../places/roads/great-astor-road.md) heading south, turning off onto the [Tresenda Pass](../places/roads/tresenda-pass.md) roadway toward [Blittergate](../places/towns/blittergate.md).
+
+That night the party camp on the roadside near the treeline. During Ephaine's watch she notices a gnoll watching the camp from the tree line. She wastes no time casting Hold Person and activating her Starry Form, allowing the gnoll and its incoming friends to be seen. The party springs into action.
+
+During the ensuing fight Ephaine uses Starry Form: Archer and Guiding Bolt to blast the gnolls while [Ahsha Sallas](../characters/ahsha-sallas.md) and [Yialdred Korina](../characters/yialdred-korina.md) go toe-to-toe in martial combat. Korina in particular bears the brunt of the fight, three gnolls attacking her simultaneously.
+
+After taking several arrows from the circling gnoll pack lord, [Noon Schiller](../characters/noon-schiller.md) calls upon [Nills](../characters/nills.md) with Summon Shadowspawn. [Nills](../characters/nills.md) arrives with a frightening scream that terrifies most of the gnolls and [Ahsha Sallas](../characters/ahsha-sallas.md). [Nills](../characters/nills.md) helps to defeat the pack lord. The gnolls are wiped out.

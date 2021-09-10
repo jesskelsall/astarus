@@ -79,3 +79,5 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Enforcing Astorian History](../storylines/enforcing-astorian-history.md) | [AA11](../sessions/completed/AA11.md) | |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [AA11](../sessions/completed/AA11.md) | |
 | [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [AA12](../sessions/completed/AA12.md) | |
+| [The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md) | [AA13](../sessions/AA13.md) | |
+| [Noon's Shadow](../storylines/noons-shadow.md) | [AA13](../sessions/AA13.md) | |

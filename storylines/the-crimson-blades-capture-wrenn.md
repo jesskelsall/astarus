@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR12](../sessions/completed/PR12.md) | storyline.2
+| **Session Started** | [PR12](../sessions/completed/PR12.md) / [AA13](../sessions/AA13.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -74,6 +74,12 @@ With Elysia's blessing, Tyburn looks into his scrying pool. He sees [Wrenn Pizna
 Snapping out of the scrying pool, Tyburn relays this to those present. He picks up on the sound of a scraping bird call that he could hear. [Wizira](../characters/wizira.md) suggests it may be a raven, while [Sparrow on the Autumn Pine](../characters/sparrow-on-the-autumn-pine.md) notes that magpies make a scraping noise when their nests are threatened.
 
 Quinn, unhappy with the cryptic information provided, leaves to relay what he learned to Levelle.
+
+### [AA13](../sessions/AA13.md)
+
+While in [Hyceodd](../places/towns/hyceodd.md) searching for the missing [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) ask the [Hyceodd](../places/towns/hyceodd.md) [Astorrel](../organisations/astorrel/astorrel.md) what they know. They speak of [Kiln squad](../organisations/astorrel/squads/kiln-squad.md) helping them with local gang issues, suggesting that the gang could be or have ties to [the Crimson Blades](../organisations/the-crimson-blades.md), a notorious criminal organisation based out of Carnmere.
+
+The [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md) that [Ahsha Sallas](../characters/ahsha-sallas.md) and [Yialdred Korina](../characters/yialdred-korina.md) are talking to tell them about a bulletin the [Hyceodd](../places/towns/hyceodd.md) [Astornox](../organisations/astornox/astornox.md) received a while ago about a captured [Astorrel](../organisations/astorrel/astorrel.md) ([Wrenn Piznarck](../characters/wrenn-piznarck.md)) that has likely been taken by [the Crimson Blades](../organisations/the-crimson-blades.md). Word went out looking for a basement that they could be chained up in, hoping that the [Astornox](../organisations/astornox/astornox.md) may know of such a place and ultimately find him. 
 
 ## Planning
 

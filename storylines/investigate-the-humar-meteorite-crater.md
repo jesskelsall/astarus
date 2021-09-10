@@ -24,7 +24,7 @@
 
 ### [PR30](../sessions/completed/PR30.md)
 
-Following the completion of [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s first mission ([Talk to the Morning Chasers](talk-to-the-morning-chasers.md)), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) debate which of the four offered missions to take next. [Torbra Tauff](../characters/torbra-tauff.md) as [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) makes the decision to head to the Humar Estuary. This is partially motivated by its quick mission deadline and relatively high ratio pay.
+Following the completion of [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s first mission ([Talk to the Morning Chasers](ended/talk-to-the-morning-chasers.md)), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) debate which of the four offered missions to take next. [Torbra Tauff](../characters/torbra-tauff.md) as [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) makes the decision to head to the Humar Estuary. This is partially motivated by its quick mission deadline and relatively high ratio pay.
 
 ### [PR31](../sessions/completed/PR31.md)
 

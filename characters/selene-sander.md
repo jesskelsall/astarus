@@ -5,12 +5,12 @@
 |||
 | --- | --- |
 | **Name** | Selene Sander | character.3
-| **Lineage** | Human |
-| **Pronouns** | he/him |
+| **Lineage** | Halfling |
+| **Pronouns** | she/her |
 | **Age** | |
 | **Class** | |
 | **Worship** | |
-| **Relations** | [Ulfrick Sander](ulfrick-sander.md) (husband) |
+| **Relations** | [Ulfric Sander](ulfric-sander.md) (husband) |
 | **Places** | |
 |||
 | **Citizenship** | |
@@ -20,16 +20,14 @@
 
 ## Summary
 
-Selene Sander is a commoner married to [Ulfrick Sander](ulfrick-sander.md). Their son has recently joined the [Astornox](../organisations/astornox/astornox.md) and is stationed in Eaglesfield.
+Selene Sander is a commoner married to [Ulfric Sander](ulfric-sander.md). Their son has recently joined the [Astornox](../organisations/astornox/astornox.md) and is stationed in Eaglesfield.
 
 ## Characteristics
-
-TODO: [AA12](../sessions/completed/AA12.md): halfling
 
 | | |
 | --- | --- |
 | **Face** | | characteristics.2
-| **Hair** | |
+| **Hair** | Long black hair. |
 | **Body** | |
 | **Clothes** | |
 | **Voice** | |

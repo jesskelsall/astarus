@@ -1,11 +1,11 @@
-# Ulfrick Sander
+# Ulfric Sander
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
 
 |||
 | --- | --- |
-| **Name** | Ulfrick Sander | character.3
-| **Lineage** | Human |
+| **Name** | Ulfric Sander | character.3
+| **Lineage** | Half-orc |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | |
@@ -20,15 +20,13 @@
 
 ## Summary
 
-Ulfrick Sander is a commoner married to [Selene Sander](selene-sander.md). Their son has recently joined the [Astornox](../organisations/astornox/astornox.md) and is stationed in Eaglesfield.
+Ulfric Sander is a commoner married to [Selene Sander](selene-sander.md). Their son has recently joined the [Astornox](../organisations/astornox/astornox.md) and is stationed in Eaglesfield.
 
 ## Characteristics
 
-TODO: [AA12](../sessions/completed/AA12.md): red skinned half-orc
-
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
+| **Face** | Pale red skin. | characteristics.2
 | **Hair** | |
 | **Body** | |
 | **Clothes** | |

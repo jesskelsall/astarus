@@ -89,7 +89,7 @@ As a group they go through a [timeline](../history/timeline.md) of events, cover
 
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is forced to place the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) on the table, and [Thanea Morlay](../characters/thanea-morlay.md) gives up her pouch of gravel-filled [meteoric dust](../items/meteoric/meteoric-dust.md). Both are kept for Elysia so that [Tyburn Dalvos](../characters/tyburn-dalvos.md) can study them that same day, and for safe keeping as they are the few pieces of evidence the group possesses. This annoys Saoirse.
 
-[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) is sent to [talk to the Morning Chasers](talk-to-the-morning-chasers.md), who investigated Silethwaite on [Astral squad](../organisations/astorrel/squads/astral-squad.md)'s behalf, with the hope that Starfall's [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) experience will call attention to new clues. They are given a deadline of that same day, so they leave immediately.
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) is sent to [talk to the Morning Chasers](ended/talk-to-the-morning-chasers.md), who investigated Silethwaite on [Astral squad](../organisations/astorrel/squads/astral-squad.md)'s behalf, with the hope that Starfall's [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) experience will call attention to new clues. They are given a deadline of that same day, so they leave immediately.
 
 ### [PR28](../sessions/completed/PR28.md)
 
