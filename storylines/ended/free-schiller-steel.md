@@ -23,7 +23,7 @@ When Noon asks to buy the greataxe and 3 daggers, Callum provides the "family ra
 
 ## [AA12](../../sessions/completed/AA12.md)
 
-Following [Canary squad](../../organisations/astorrel/squads/canary-squad.md)'s exploits in the [Eskrigg](../../places/cities/eskrigg.md) sewers ([Syntenne Spies in Eskrigg](syntenne-spies-in-eskrigg.md)), [Noon Schiller](../../characters/noon-schiller.md) returns to [Schiller Steel Eskrigg](../../places/buildings/shops/schiller-steel-eskrigg.md) to retrieve the [Schiller Steel](../../items/weapons/schiller-steel.md) greataxe. He is determined to take it at any cost, still furious by his powerlessness at the hands of Lia.
+Following [Canary squad](../../organisations/astorrel/squads/canary-squad.md)'s exploits in the [Eskrigg](../../places/cities/eskrigg.md) sewers ([Syntenne Spies in Eskrigg](syntenne-spies-in-eskrigg.md)), [Noon Schiller](../../characters/noon-schiller.md) returns to [Schiller Steel Eskrigg](../../places/buildings/shops/schiller-steel-eskrigg.md) to retrieve the [Schiller Steel](../../items/weapons/schiller-steel.md) greataxe. He is determined to take it at any cost, still furious by his powerlessness at the hands of [Nia](../../characters/gwenhwyfar-carew.md).
 
 On arrival he makes [Callum Briar](../../characters/callum-briar.md) open the door. Noon makes it clear that he is leaving with the weapon and has no intention of paying for it. Callum once again begs with Noon to not do this, fearing for his life. Noon couldn't care less. Callum resigns himself to his fate, turning a blind eye by going into the back room while Noon is left alone with the weapon on the counter.
 
