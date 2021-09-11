@@ -108,3 +108,24 @@ On the morning of the [Nature's Battle 27](ended/natures-battle-27.md) final Tor
 | 10 | 13 | Yes |
 
 *[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to create the Frost Rune at will]*
+
+### [PR32](../sessions/completed/PR32.md)
+
+[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) meet [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) at [Leithran Shack](../places/buildings/leithran-shack.md), spending the night in their company, learning of their lives and struggles as elves in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). At no point during the evening does anyone notice that Esme is an earth genasi with skin colouration similar to [Torbra Tauff](../characters/torbra-tauff.md)'s. Esme takes a liking to Torbra, wishing to be like her following her use of Giant's Might to grow taller for her amusement.
+
+At the end of Torbra's night watch she returns to the shack and overhears Esme murmuring in her sleep, repeating the same phrase periodically:
+
+*[Esme Leithran](../characters/esme-leithran.md):*
+> Practice. Apply. Grow.
+
+Torbra doesn't immediately recognise the significance of the words she heard when she found the standing stones near the [River Humar](../places/rivers-lakes/river-humar.md) on the party's way to [Northhaven](../places/cities/northhaven.md) from [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). Nonetheless it plays on her mind all night, causing her to get no sleep.
+
+In the clear morning light Torbra notices the colour of Esme's skin, doing an arm comparison. This catches the eye of Montel who comes to the same conclusion - that they are one in the same, causing Montel to get emotional. He has never seen nor heard of another earth genasi before.
+
+He provides Torbra with the word "genasi", one that the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) use. He explains that while they don't understand the origin of genasi, they reverse them, celebrating their uniqueness, some considering them a gift from the [gods](../gods/gods.md) themselves. Montel has heard of fire and water genasi before, but until today his daughter was the only earth genasi he'd ever known.
+
+Montel also explains that his wife and Esme's mother is of elven descent like him, drawing attention to Esme's elven ears. Torbra points out her human rounded ears, concluding that her and Esme are the same despite their other differences of lineage.
+
+Torbra expressed her wish to see them relocated somewhere safe so that Esme could have a childhood. She offers Iredale, her home town, to Montel who appears to like Torbra's description of the place, it's people, and their tolerance for her during her upbringing there.
+
+The party agrees to bring Montel and Esme with them while they complete their [Astorrel](../organisations/astorrel/astorrel.md) mission. They will help guide them out of the Humar Estuary.

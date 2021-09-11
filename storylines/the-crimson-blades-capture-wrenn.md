@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR12](../sessions/completed/PR12.md) / [AA13](../sessions/AA13.md) | storyline.2
+| **Session Started** | [PR12](../sessions/completed/PR12.md) / [AA13](../sessions/completed/AA13.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -75,7 +75,7 @@ Snapping out of the scrying pool, Tyburn relays this to those present. He picks 
 
 Quinn, unhappy with the cryptic information provided, leaves to relay what he learned to Levelle.
 
-### [AA13](../sessions/AA13.md)
+### [AA13](../sessions/completed/AA13.md)
 
 While in [Hyceodd](../places/towns/hyceodd.md) searching for the missing [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) ask the [Hyceodd](../places/towns/hyceodd.md) [Astorrel](../organisations/astorrel/astorrel.md) what they know. They speak of [Kiln squad](../organisations/astorrel/squads/kiln-squad.md) helping them with local gang issues, suggesting that the gang could be or have ties to [the Crimson Blades](../organisations/the-crimson-blades.md), a notorious criminal organisation based out of Carnmere.
 

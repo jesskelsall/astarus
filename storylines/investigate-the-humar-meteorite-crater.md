@@ -52,6 +52,12 @@ After several hours the rain is not letting up but their clothes are drier. When
 
 Travelling for most of the day, the party eventually see disturbances in the water ahead. As they get closer they begin to make out [Leithran Shack](../places/buildings/leithran-shack.md) through the rainy mist. They hear [Montel Leithran](../characters/montel-leithran.md) shouting for help fighting off crocodiles and rush to help. They are able to save Montel from death at the hands of a crocodile thanks to [Wizira](../characters/wizira.md)'s Healing Word, and fight off the rest of the crocodiles present in the water around the shack.
 
+### [PR33](../sessions/completed/PR33.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) meet [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) in [Leithran Shack](../places/buildings/leithran-shack.md). They spend the night together, getting to know each other, particularly the pair's struggles as elves trying to make a home in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+
+During this time [Thanea Morlay](../characters/thanea-morlay.md) asks them if they have seen anything strange or suspicious on their travels since leaving [Hyceodd](../places/towns/hyceodd.md). [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) casts Minor Illusion to create images of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and [Meteoric Watchers](../creatures/meteoric-watcher.md). Montel replies that he has seen nothing of the kind, or anything crater-like.
+
 ## Planning
 
 ### [Purple Rain](../campaigns/C1-purple-rain.md)
