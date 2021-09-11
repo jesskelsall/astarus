@@ -45,6 +45,18 @@ The party is excited at the prospect of competing.
 
 The [Purple Rain](../../campaigns/C1-purple-rain.md) party accepts [Liabella Peacock](../../characters/liabella-peacock.md)'s offer to compete in Nature's Battle 27, replying to her letter.
 
+### [AA07](../../sessions/completed/AA07.md)
+
+[Canary squad](../../organisations/astorrel/squads/canary-squad.md) learn that [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) has been swapped with [Noon Schiller](../../characters/noon-schiller.md) from [Dolphin squad](../../organisations/astorrel/squads/dolphin-squad.md). They will still compete in the tournament, now with Noon. The remaining few days of their downtime is used to prepare.
+
+When [Ephaine Seren](../../characters/ephaine-seren.md) bumps into her mentor [Ludolf Hornwallis](../../characters/ludolf-hornwallis.md), he offers them a placed to spar as combat practice - the [Northhaven Astorrel Arena](../../places/buildings/northhaven-astorrel-arena.md), taking them to it via the [Zenith Spire](../../places/buildings/zenith-spire.md). Here they briefly consider fighting each other but Ephaine in particular is uncomfortable with the idea.
+
+Ludolf fetches four [Astorrel Lieutenants](../../organisations/astorrel/ranks/astorrel-lieutenant.md) that know the True Polymorph spell. They transform four boulders in the gated back room into two tigers, a giant spider, and a giant scorpion, pitting the squad against them without them knowing exactly what is going on.
+
+[Canary squad](../../organisations/astorrel/squads/canary-squad.md) excel at the fight, dispatching their opponents, each transforming back into a boulder as they are defeated. This gives the squad a chance to practice their techniques and learn about how each other fight (Noon in particular) before the tournament proper. Ludolf is impressed by what he sees.
+
+On the day of the tournament [Canary squad](../../organisations/astorrel/squads/canary-squad.md) meet [Levelle Tristwix](../../characters/levelle-tristwix.md), [Mergin Thorgus](../../characters/mergin-thorgus.md), and [Bryce Morton](../../characters/bryce-morton.md) in the square outside of the [Zenith Spire](../../places/buildings/zenith-spire.md), greeted by many [Astorrel](../../organisations/astorrel/astorrel.md) who have came to see the party off. [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md) arrives too, teleported to [Eskrigg](../../places/cities/eskrigg.md) by [Mergin Thorgus](../../characters/mergin-thorgus.md) before [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) are teleported too. Ephaine glimpses [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) as they make their own way to the square, right as the teleport occurs.
+
 ### [PR23](../../sessions/completed/PR23.md)
 
 The match between [Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) takes place. [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) wins.
