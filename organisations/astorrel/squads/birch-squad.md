@@ -14,4 +14,4 @@
 
 ## Summary
 
-Birch Squad took part in [Nature's Battle 27](../../../storylines/ended/natures-battle-27.md).
+Birch Squad took part in [Nature's Battle 28](../../../storylines/ended/natures-battle-28.md).

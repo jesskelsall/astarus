@@ -102,7 +102,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [PR18](../sessions/completed/PR18.md) | [PR20](../sessions/completed/PR20.md) |
 | [Astorrel vs Astornox](../storylines/astorrel-vs-astornox.md) | [PR18](../sessions/completed/PR18.md) | |
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/completed/PR20.md) | [PR21](../sessions/completed/PR21.md) |
-| [Nature's Battle 27](../storylines/ended/natures-battle-27.md) | [PR21](../sessions/completed/PR21.md) | [PR26](../sessions/completed/PR26.md) |
+| [Nature's Battle 28](../storylines/ended/natures-battle-28.md) | [PR21](../sessions/completed/PR21.md) | [PR26](../sessions/completed/PR26.md) |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/completed/PR25.md) | |
 | [Syntenne Spies in Eskrigg](../storylines/ended/syntenne-spies-in-eskrigg.md) | [PR27](../sessions/completed/PR27.md) | [PR27](../sessions/completed/PR27.md) |
 | [Tyburn's Scrying Pool](../storylines/tyburns-scrying-pool.md) | [PR27](../sessions/completed/PR27.md) | |

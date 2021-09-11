@@ -77,7 +77,7 @@ When [Elysia Vanderboss](../characters/elysia-vanderboss.md) is promoted to [Ast
 
 ### [PR27](../sessions/completed/PR27.md)
 
-With [Nature's Battle 27](ended/natures-battle-27.md) over, [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) report to [Elysia Vanderboss](../characters/elysia-vanderboss.md) in [Tenterfell House](../places/buildings/tenterfell-house.md) to receive their first mission. Here they meet [Astral squad](../organisations/astorrel/squads/astral-squad.md), also under Elysia's command, now lead by [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) and including [Sparrow on the Autumn Pine](../characters/sparrow-on-the-autumn-pine.md).
+With [Nature's Battle 28](ended/natures-battle-28.md) over, [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) report to [Elysia Vanderboss](../characters/elysia-vanderboss.md) in [Tenterfell House](../places/buildings/tenterfell-house.md) to receive their first mission. Here they meet [Astral squad](../organisations/astorrel/squads/astral-squad.md), also under Elysia's command, now lead by [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) and including [Sparrow on the Autumn Pine](../characters/sparrow-on-the-autumn-pine.md).
 
 Elysia sets the scene by explaining her worry about the meteoric threat - it could be a [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) weapon that precedes open warfare, or something worse. It is imperative that they learn what they can, and fast.
 

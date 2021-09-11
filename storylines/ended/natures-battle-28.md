@@ -1,4 +1,4 @@
-# Nature's Battle 27
+# Nature's Battle 28
 
 |||
 | --- | --- |
@@ -31,19 +31,19 @@ This table shows the [Astorrel](../../organisations/astorrel/astorrel.md) squad 
 
 ### [AA06](../../sessions/completed/AA06.md)
 
-Returning to [Bryce Morton](../../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 27 ([AA06-L-1](../../letters/AA06-L-1.md)).
+Returning to [Bryce Morton](../../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 28 ([AA06-L-1](../../letters/AA06-L-1.md)).
 
 After discussing how competing will affect their next mission, Bryce reassures them that the tournament is their priority if they choose to compete - the mission can wait. After a discussion they choose to compete, responding to [Liabella Peacock](../../characters/liabella-peacock.md) by letter sent from [Astpost Northhaven](../../places/buildings/shops/astpost-northhaven.md).
 
 ### [PR21](../../sessions/completed/PR21.md)
 
-Immediately following the [Purple Rain](../../campaigns/C1-purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 27 ([PR21-L-1](../../letters/PR21-L-1.md)).
+Immediately following the [Purple Rain](../../campaigns/C1-purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 28 ([PR21-L-1](../../letters/PR21-L-1.md)).
 
 The party is excited at the prospect of competing.
 
 ### [PR22](../../sessions/completed/PR22.md)
 
-The [Purple Rain](../../campaigns/C1-purple-rain.md) party accepts [Liabella Peacock](../../characters/liabella-peacock.md)'s offer to compete in Nature's Battle 27, replying to her letter.
+The [Purple Rain](../../campaigns/C1-purple-rain.md) party accepts [Liabella Peacock](../../characters/liabella-peacock.md)'s offer to compete in Nature's Battle 28, replying to her letter.
 
 ### [AA07](../../sessions/completed/AA07.md)
 

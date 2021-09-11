@@ -24,4 +24,4 @@ Vorrinel's Stand is the large arena in the center of [Eskrigg](../cities/eskrigg
 | People | People of Astor, [Astornox](../../organisations/astornox/astornox.md). |
 | Intrigue | Basically the Coliseum but on a smaller scale. |
 
-During [Nature's Battle 27](../../storylines/ended/natures-battle-27.md), a 15 ft long 10 ft tall stone wall was affixed to the centre of the arena floor, providing cover for the combatants.
+During [Nature's Battle 28](../../storylines/ended/natures-battle-28.md), a 15 ft long 10 ft tall stone wall was affixed to the centre of the arena floor, providing cover for the combatants.

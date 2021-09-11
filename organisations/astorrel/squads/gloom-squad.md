@@ -14,4 +14,4 @@
 
 ## Summary
 
-Gloom Squad is from the same [Astorrel](../astorrel.md) graduate cohort as [Canary Squad](canary-squad.md). They are participating in [Nature's Battle 27](../../../storylines/ended/natures-battle-27.md) and are played by guests.
+Gloom Squad is from the same [Astorrel](../astorrel.md) graduate cohort as [Canary Squad](canary-squad.md). They are participating in [Nature's Battle 28](../../../storylines/ended/natures-battle-28.md) and are played by guests.

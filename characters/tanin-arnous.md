@@ -24,7 +24,7 @@
 
 ## Summary
 
-Tanin Arnous is a rank-and-file [Astornox Lieutenant](../organisations/astornox/ranks/astornox-lieutenant.md) that works directly under [Legacy Aranius](legacy-aranius.md). During [Nature's Battle 27](../storylines/ended/natures-battle-27.md) he is overseeing security around [Vorrinel's Stand](../places/buildings/vorrinels-stand.md).
+Tanin Arnous is a rank-and-file [Astornox Lieutenant](../organisations/astornox/ranks/astornox-lieutenant.md) that works directly under [Legacy Aranius](legacy-aranius.md). During [Nature's Battle 28](../storylines/ended/natures-battle-28.md) he is overseeing security around [Vorrinel's Stand](../places/buildings/vorrinels-stand.md).
 
 ## Characteristics
 

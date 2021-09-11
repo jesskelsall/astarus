@@ -24,4 +24,4 @@
 
 ## Summary
 
-Brian is a guest character for [Nature's Battle 27](../storylines/ended/natures-battle-27.md), played by [Tiva](../players/tiva.md).
+Brian is a guest character for [Nature's Battle 28](../storylines/ended/natures-battle-28.md), played by [Tiva](../players/tiva.md).

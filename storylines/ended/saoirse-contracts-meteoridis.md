@@ -53,13 +53,13 @@ When [Elysia Vanderboss](../../characters/elysia-vanderboss.md) visits a second 
 
 ### [PR25](../../sessions/completed/PR25.md)
 
-Hours before the [Nature's Battle 27](natures-battle-27.md) final, [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) ingests a portion of [meteoric dust](../../items/meteoric/meteoric-dust.md). She does so because she feels useless in the arena, so she may as well fight while high.
+Hours before the [Nature's Battle 28](natures-battle-28.md) final, [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) ingests a portion of [meteoric dust](../../items/meteoric/meteoric-dust.md). She does so because she feels useless in the arena, so she may as well fight while high.
 
 *[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is now under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md)]*
 
 ### [PR26](../../sessions/completed/PR26.md)
 
-[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) fights in the [Nature's Battle 27](natures-battle-27.md) final while under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md) she ingested. She casts Meteoric Blast for the first time. Following [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md)'s defeat, during which she was knocked unconscious, she is revived by an [Astorrel member](../../organisations/astorrel/ranks/astorrel-member.md). Startled and still freaking out due to the dust's effects, she runs out of the arena.
+[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) fights in the [Nature's Battle 28](natures-battle-28.md) final while under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md) she ingested. She casts Meteoric Blast for the first time. Following [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md)'s defeat, during which she was knocked unconscious, she is revived by an [Astorrel member](../../organisations/astorrel/ranks/astorrel-member.md). Startled and still freaking out due to the dust's effects, she runs out of the arena.
 
 ### [PR27](../../sessions/completed/PR27.md)
 

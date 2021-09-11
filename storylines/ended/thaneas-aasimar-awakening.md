@@ -65,6 +65,10 @@ In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hida
 
 She also tries to research humanoids with wings, but only finds information on aarakocra.
 
+### [AA08](../../sessions/AA08.md)
+
+[Thanea Morlay](../../characters/thanea-morlay.md) feels a sense of déjà vu while walking the streets of [Eskrigg](../../places/cities/eskrigg.md) while waiting for the first round of [Nature's Battle 28](natures-battle-28.md) to commence. She isn't able to figure out why, not yet realising that her previous deva dream took place on these streets.
+
 ### [PR23](../../sessions/completed/PR23.md)
 
 [Thanea Morlay](../../characters/thanea-morlay.md) returns to the street in [Eskrigg](../../places/cities/eskrigg.md) that she commuted to [Vorrinel's Stand](../../places/buildings/vorrinels-stand.md) along. She recognises it as the starting point of her third deva dream, triggering a strong sense of déjà vu.
@@ -73,7 +77,7 @@ Realising the implication of another prophetic dream coming to fruition and her 
 
 ### [PR24](../../sessions/completed/PR24.md)
 
-During [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 27](natures-battle-27.md) match against [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../../characters/norma-collarbone.md) at close range. She digs deep, activating her [aasimar](../../lineages/aasimar.md) Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
+During [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 28](natures-battle-28.md) match against [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../../characters/norma-collarbone.md) at close range. She digs deep, activating her [aasimar](../../lineages/aasimar.md) Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
 
 This display is a surprise for everyone present, including [Torbra Tauff](../../characters/torbra-tauff.md) and [Wizira](../../characters/wizira.md) who are conscious to see it ([Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) is not). The audience collectively gasps before falling silent, watching as she flies effortlessly around the arena.
 

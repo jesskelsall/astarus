@@ -41,7 +41,7 @@ The party debate what to do with the corpse. They agree that they must report th
 
 ### [AA11](../../sessions/completed/AA11.md)
 
-[Canary squad](../../organisations/astorrel/squads/canary-squad.md) sound the alarm over what they have learned about the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) spies and the potential for a conspiracy involving the [Nature's Battle 27](natures-battle-27.md) final match. They go to [Vorrinel's Stand](../../places/buildings/vorrinels-stand.md) and inform both [Legacy Aranius](../../characters/legacy-aranius.md) and [Ronvyn Bafflegift](../../characters/ronvyn-bafflegift.md).
+[Canary squad](../../organisations/astorrel/squads/canary-squad.md) sound the alarm over what they have learned about the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) spies and the potential for a conspiracy involving the [Nature's Battle 28](natures-battle-28.md) final match. They go to [Vorrinel's Stand](../../places/buildings/vorrinels-stand.md) and inform both [Legacy Aranius](../../characters/legacy-aranius.md) and [Ronvyn Bafflegift](../../characters/ronvyn-bafflegift.md).
 
 Legacy orders the building locked down. He involves [Tanin Arnous](../../characters/tanin-arnous.md) who helps to coordinate a bolstering of the [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) protecting the arena. Legacy also asks Tanin to fetch a Truthseeker. Ronvyn urges the party to find more evidence before the day is out, or the disruption their accusations have caused will come back to haunt them. He officially gives them orders to do so, so they head back out, looking to investigate the sewer entrances around the arena.
 

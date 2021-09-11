@@ -90,4 +90,4 @@ Over the years attitudes towards this shifted, with measures put in place to try
 
 | Tournament | Year |
 | --- | --- |
-| [Nature's Battle 27](../../storylines/ended/natures-battle-27.md) | 312 PA |
+| [Nature's Battle 28](../../storylines/ended/natures-battle-28.md) | 312 PA |

@@ -73,7 +73,7 @@ Immediately the light comes back on and Saoirse is left wondering what her patro
 
 #### Saoirse Deva Dream 2
 
-While asleep the night after [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 27](ended/natures-battle-27.md) match against [Gloom squad](../organisations/astorrel/squads/gloom-squad.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has another dream about being awake but unable to move in past events where she was unconscious.
+While asleep the night after [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 28](ended/natures-battle-28.md) match against [Gloom squad](../organisations/astorrel/squads/gloom-squad.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has another dream about being awake but unable to move in past events where she was unconscious.
 
 She dreamed of watching her squad battling [Mortar squad](../organisations/astorrel/squads/mortar-squad.md) while she lay paralysed, burning from her wounds. [Mykiel](../characters/mykiel.md) offered a hand to her to help her up. She asks who he is, but the moment she touches his hand, her vision goes white.
 

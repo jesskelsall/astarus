@@ -37,7 +37,7 @@ When [Allisa Balsatra](../characters/allisa-balsatra.md) learned of this and tha
 
 ### [PR25](../sessions/completed/PR25.md)
 
-On the night before the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has a deva dream in which she sees her deva, [Mykiel](../characters/mykiel.md), once again offer her his hand. This is then mirrored when she sees [Thanea Morlay](../characters/thanea-morlay.md) swoop down on Radiant Soul wings, surrounding her with them. When Thanea offers her hand to Saoirse and she touches it, both wake up in the middle of the night.
+On the night before the [Nature's Battle 28](ended/natures-battle-28.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has a deva dream in which she sees her deva, [Mykiel](../characters/mykiel.md), once again offer her his hand. This is then mirrored when she sees [Thanea Morlay](../characters/thanea-morlay.md) swoop down on Radiant Soul wings, surrounding her with them. When Thanea offers her hand to Saoirse and she touches it, both wake up in the middle of the night.
 
 Thanea, not sharing the dream, finds it odd when Saoirse heads to the wash room at that exact moment. She confronts Saoirse there, both quickly learning that they woke up at the same time and have been having similar dreams of white-yellow glowing figures with wings who have been guiding them.
 
@@ -47,7 +47,7 @@ Saoirse's dreams of wings are almost immediately answered by her warlock patron,
 
 ### [PR26](../sessions/completed/PR26.md)
 
-During the [Nature's Battle 27](ended/natures-battle-27.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sees [Thanea Morlay](../characters/thanea-morlay.md)'s Radiant Soul wings in person for the first time.
+During the [Nature's Battle 28](ended/natures-battle-28.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sees [Thanea Morlay](../characters/thanea-morlay.md)'s Radiant Soul wings in person for the first time.
 
 ### [PR27](../sessions/completed/PR27.md)
 
@@ -57,7 +57,7 @@ Allisa wants to help her, reaching out a hand to try and cast Remove Curse on he
 
 ### [AA11](../sessions/completed/AA11.md)
 
-When [Canary squad](../organisations/astorrel/squads/canary-squad.md) confront [Xavier Raloven](../characters/xavier-raloven.md) in the [Eskrigg](../places/cities/eskrigg.md) sewers, he is willing to talk about what he, [Allisa Balsatra](../characters/allisa-balsatra.md), and [Castien Eladan](../characters/castien-eladan.md) are doing in the sewers. He explains that they are here to see "the angel" ([Thanea Morlay](../characters/thanea-morlay.md)), who they learned of after she sprouted Radiant Soul wings in the [Nature's Battle 27](ended/natures-battle-27.md) semi-final. They wish to confirm her existence first-hand by watching the final from a spot under [Vorrinel's Stand](../places/buildings/vorrinels-stand.md) accessible via the sewers.
+When [Canary squad](../organisations/astorrel/squads/canary-squad.md) confront [Xavier Raloven](../characters/xavier-raloven.md) in the [Eskrigg](../places/cities/eskrigg.md) sewers, he is willing to talk about what he, [Allisa Balsatra](../characters/allisa-balsatra.md), and [Castien Eladan](../characters/castien-eladan.md) are doing in the sewers. He explains that they are here to see "the angel" ([Thanea Morlay](../characters/thanea-morlay.md)), who they learned of after she sprouted Radiant Soul wings in the [Nature's Battle 28](ended/natures-battle-28.md) semi-final. They wish to confirm her existence first-hand by watching the final from a spot under [Vorrinel's Stand](../places/buildings/vorrinels-stand.md) accessible via the sewers.
 
 The party is unimpressed by the answers given and are sceptical. They press for a reason - why they are interested in the first place. Xavier openly tells them that Allisa is an angel herself, the elvish word for which is [aasimar](../lineages/aasimar.md). He explains that she has searched every civilisation before coming to the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md), spending over 100 years in the pursuit of finding another.
 
