@@ -100,6 +100,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [The Firbolg Controversy](../storylines/ended/the-firbolg-controversy.md) | [PR15](../sessions/completed/PR15.md) | [PR20](../sessions/completed/PR20.md) |
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [PR17](../sessions/completed/PR17.md) | |
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [PR18](../sessions/completed/PR18.md) | [PR20](../sessions/completed/PR20.md) |
+| [Astorrel vs Astornox](../storylines/astorrel-vs-astornox.md) | [PR18](../sessions/completed/PR18.md) | |
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/completed/PR20.md) | [PR21](../sessions/completed/PR21.md) |
 | [Nature's Battle 27](../storylines/ended/natures-battle-27.md) | [PR21](../sessions/completed/PR21.md) | [PR26](../sessions/completed/PR26.md) |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/completed/PR25.md) | |
