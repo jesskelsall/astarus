@@ -31,11 +31,11 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | Session(s) | Player | Character |
 | --- | --- | --- |
 | [AA00](../sessions/completed/AA00.md) - [AA06](../sessions/completed/AA06.md) | [Brooke](../players/brooke.md) | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) |
-| [AA00](../sessions/completed/AA00.md) - [AA09](../sessions/AA09.md) | [Logan](../players/logan.md) | [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) |
-| [AA09](../sessions/AA09.md) | [Dan](../players/dan.md) | [Eremus Vitur](../characters/eremus-vitur.md) |
-| [AA09](../sessions/AA09.md) | [Ian](../players/ian.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) |
-| [AA09](../sessions/AA09.md) | [John](../players/john.md) | [Uther Wildfang](../characters/uther-wildfang.md) |
-| [AA09](../sessions/AA09.md) | [Scott](../players/scott.md) | [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) |
+| [AA00](../sessions/completed/AA00.md) - [AA09](../sessions/completed/AA09.md) | [Logan](../players/logan.md) | [Redwyn Humpledopper](../characters/redwyn-humpledopper.md) |
+| [AA09](../sessions/completed/AA09.md) | [Dan](../players/dan.md) | [Eremus Vitur](../characters/eremus-vitur.md) |
+| [AA09](../sessions/completed/AA09.md) | [Ian](../players/ian.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) |
+| [AA09](../sessions/completed/AA09.md) | [John](../players/john.md) | [Uther Wildfang](../characters/uther-wildfang.md) |
+| [AA09](../sessions/completed/AA09.md) | [Scott](../players/scott.md) | [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) |
 
 ## Sessions
 
@@ -50,7 +50,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA06](../sessions/completed/AA06.md) | 2021-03-27 | *Fruit Cake and Fights* |
 | [AA07](../sessions/completed/AA07.md) | 2021-04-10 | *Dawn of Noon* |
 | [AA08](../sessions/completed/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)* |
-| [AA09](../sessions/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)* |
+| [AA09](../sessions/completed/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)* |
 | [AA10](../sessions/completed/AA10.md) | 2021-06-12 | *Dark Steel, Darker Sewers* |
 | [AA11](../sessions/completed/AA11.md) | 2021-06-26 | *Syntenne Spy Showdown* |
 | [AA12](../sessions/completed/AA12.md) | 2021-07-10 | *Forget What You Saw Here* |
@@ -72,7 +72,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Check Logging in Arnaside](../storylines/ended/check-logging-in-arnaside.md) | [AA02](../sessions/completed/AA02.md) | [AA06](../sessions/completed/AA06.md) |
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [AA05](../sessions/completed/AA05.md) | [AA06](../sessions/completed/AA06.md) |
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [AA05](../sessions/completed/AA05.md) | |
-| [Nature's Battle 28](../storylines/ended/natures-battle-28.md) | [AA06](../sessions/completed/AA06.md) | [AA09](../sessions/AA09.md) |
+| [Nature's Battle 28](../storylines/ended/natures-battle-28.md) | [AA06](../sessions/completed/AA06.md) | [AA09](../sessions/completed/AA09.md) |
 | [Free Schiller Steel](../storylines/ended/free-schiller-steel.md) | [AA10](../sessions/completed/AA10.md) | [AA12](../sessions/completed/AA12.md) |
 | [Nilliski's Unknowable Whims](../storylines/nilliskis-unknowable-whims.md) | [AA10](../sessions/completed/AA10.md) | |
 | [Syntenne Spies in Eskrigg](../storylines/ended/syntenne-spies-in-eskrigg.md) | [AA10](../sessions/completed/AA10.md) | [AA12](../sessions/completed/AA12.md) |

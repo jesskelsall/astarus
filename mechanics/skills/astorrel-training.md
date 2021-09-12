@@ -41,5 +41,5 @@ Player characters can periodically be awarded with an incremental increase to th
 | [Thanea Morlay](../../characters/thanea-morlay.md) | [PR21](../../sessions/completed/PR21.md) | 12 | +1 | 7 | -2 | | **-1** |
 | [Torbra Tauff](../../characters/torbra-tauff.md) | [PR21](../../sessions/completed/PR21.md) | 10 | +0 | 3 | -4 | | **-4** |
 | [Wizira](../../characters/wizira.md) | [PR21](../../sessions/completed/PR21.md) | 15 | +2 | 1 | -5 | | **-3** |
-| [Noon Schiller](../../characters/noon-schiller.md) | [AA09](../../sessions/AA09.md) | 16 | +3 | 1 | -5 | | **-2** |
+| [Noon Schiller](../../characters/noon-schiller.md) | [AA09](../../sessions/completed/AA09.md) | 16 | +3 | 1 | -5 | | **-2** |
 | [Yialdred Korina](../../characters/yialdred-korina.md) | [AA11](../../sessions/completed/AA11.md) | 15 | +2 | 17 | +3 | +2 (proficient) | **+8** |

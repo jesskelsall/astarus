@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) | Guest | [AA09](../sessions/AA09.md), [PR26](../sessions/completed/PR26.md) |
+| [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) | Guest | [AA09](../sessions/completed/AA09.md), [PR26](../sessions/completed/PR26.md) |

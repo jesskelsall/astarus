@@ -42,7 +42,7 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 | 2 | - | Warlock | d8 | 3 |
 | 3 | - | Warlock | d8 | 2 |
 | 4 | - | Warlock | d8 | 5 |
-| 5 | [AA09](../sessions/AA09.md) | Warlock | d8 | 8 |
+| 5 | [AA09](../sessions/completed/AA09.md) | Warlock | d8 | 8 |
 
 ## Backstory
 

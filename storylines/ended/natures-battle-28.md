@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [AA06](../../sessions/completed/AA06.md) / [PR21](../../sessions/completed/PR21.md) | storyline.2
-| **Session Ended** | [AA09](../../sessions/AA09.md) / [PR26](../../sessions/completed/PR26.md) |
+| **Session Ended** | [AA09](../../sessions/completed/AA09.md) / [PR26](../../sessions/completed/PR26.md) |
 
 ## Summary
 
@@ -18,10 +18,10 @@ This table shows the [Astorrel](../../organisations/astorrel/astorrel.md) squad 
 
 || Round of 8 || Semi-finals || Final |
 |:---:| --- |:---:| --- |:---:| --- |
-| [AA08](../../sessions/completed/AA08.md) | **[Canary Squad](../../organisations/astorrel/squads/canary-squad.md)** | [AA09](../../sessions/AA09.md) | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) |
+| [AA08](../../sessions/completed/AA08.md) | **[Canary Squad](../../organisations/astorrel/squads/canary-squad.md)** | [AA09](../../sessions/completed/AA09.md) | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) |
 | [AA08](../../sessions/completed/AA08.md) | *[Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md)* |
 || *[Birch Squad](../../organisations/astorrel/squads/birch-squad.md)* |
-|| **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../../sessions/AA09.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [PR26](../../sessions/completed/PR26.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** |
+|| **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../../sessions/completed/AA09.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [PR26](../../sessions/completed/PR26.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** |
 | [PR23](../../sessions/completed/PR23.md) | *[Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md)* |
 | [PR23](../../sessions/completed/PR23.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR24](../../sessions/completed/PR24.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR26](../../sessions/completed/PR26.md) | [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) |
 || **[Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md)** | [PR24](../../sessions/completed/PR24.md) | [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md) |
@@ -82,6 +82,12 @@ During the fight [Wizira](../../characters/wizira.md) downs [Yoroe Briskboots](.
 The match between [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) and [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md) takes place. [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) wins.
 
 [Thanea Morlay](../../characters/thanea-morlay.md) sprouts wings thanks to her [aasimar](../../lineages/aasimar.md) Radiant Soul, dazzling the audience as she flies around the arena, dishing out ranged magical damage as she goes. She is eventually knocked unconscious and falls from the sky when [Norma Collarbone](../../characters/norma-collarbone.md) summons a bestial spirit above her which hits her in mid-air.
+
+### [AA09](../../sessions/completed/AA09.md)
+
+The match between [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md) takes place. [Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md) wins.
+
+A dejected [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) are knocked out of the tournament.
 
 ### [PR26](../../sessions/completed/PR26.md)
 

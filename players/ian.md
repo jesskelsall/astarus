@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Faelon Fireburner](../characters/faelon-fireburner.md) | Guest | [AA09](../sessions/AA09.md), [PR26](../sessions/completed/PR26.md) |
+| [Faelon Fireburner](../characters/faelon-fireburner.md) | Guest | [AA09](../sessions/completed/AA09.md), [PR26](../sessions/completed/PR26.md) |
