@@ -18,8 +18,8 @@ This table shows the [Astorrel](../../organisations/astorrel/astorrel.md) squad 
 
 || Round of 8 || Semi-finals || Final |
 |:---:| --- |:---:| --- |:---:| --- |
-| [AA08](../../sessions/AA08.md) | **[Canary Squad](../../organisations/astorrel/squads/canary-squad.md)** | [AA09](../../sessions/AA09.md) | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) |
-| [AA08](../../sessions/AA08.md) | *[Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md)* |
+| [AA08](../../sessions/completed/AA08.md) | **[Canary Squad](../../organisations/astorrel/squads/canary-squad.md)** | [AA09](../../sessions/AA09.md) | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) |
+| [AA08](../../sessions/completed/AA08.md) | *[Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md)* |
 || *[Birch Squad](../../organisations/astorrel/squads/birch-squad.md)* |
 || **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../../sessions/AA09.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [PR26](../../sessions/completed/PR26.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** |
 | [PR23](../../sessions/completed/PR23.md) | *[Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md)* |
@@ -56,6 +56,18 @@ Ludolf fetches four [Astorrel Lieutenants](../../organisations/astorrel/ranks/as
 [Canary squad](../../organisations/astorrel/squads/canary-squad.md) excel at the fight, dispatching their opponents, each transforming back into a boulder as they are defeated. This gives the squad a chance to practice their techniques and learn about how each other fight (Noon in particular) before the tournament proper. Ludolf is impressed by what he sees.
 
 On the day of the tournament [Canary squad](../../organisations/astorrel/squads/canary-squad.md) meet [Levelle Tristwix](../../characters/levelle-tristwix.md), [Mergin Thorgus](../../characters/mergin-thorgus.md), and [Bryce Morton](../../characters/bryce-morton.md) in the square outside of the [Zenith Spire](../../places/buildings/zenith-spire.md), greeted by many [Astorrel](../../organisations/astorrel/astorrel.md) who have came to see the party off. [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md) arrives too, teleported to [Eskrigg](../../places/cities/eskrigg.md) by [Mergin Thorgus](../../characters/mergin-thorgus.md) before [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) are teleported too. Ephaine glimpses [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) as they make their own way to the square, right as the teleport occurs.
+
+### [AA08](../../sessions/completed/AA08.md)
+
+[Canary Squad](../../organisations/astorrel/squads/canary-squad.md), [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md), and [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md) arrive at the [Eskrigg Astorrel Stronghold](../../places/strongholds/eskrigg-astorrel-stronghold.md), teleported there by [Mergin Thorgus](../../characters/mergin-thorgus.md). They are present for the beginning of the tournament as [Liabella Peacock](../../characters/liabella-peacock.md) and [Levelle Tristwix](../../characters/levelle-tristwix.md) welcome all of the competing squads to the tournament. The rules are explained and the tournament brackets are drawn randomly.
+
+There is time for the squads to socialise among themselves and with higher up military members present in the room. Both [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) and [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md) use the opportunity to talk to [Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md), [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) sizing them up ahead of their match against them. They find the squad to be full of fighting talk and quite standoffish.
+
+[Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) and [Canary squad](../../organisations/astorrel/squads/canary-squad.md) meet for the first time, the latter knowing much more about the former. As they are on opposite sides of the tournament bracket they don't talk much about their combat prowess.
+
+After several hours the first round of the tournament begins.
+
+The match between [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md) takes place. [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) wins.
 
 ### [PR23](../../sessions/completed/PR23.md)
 

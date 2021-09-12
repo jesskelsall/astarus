@@ -65,7 +65,7 @@ In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hida
 
 She also tries to research humanoids with wings, but only finds information on aarakocra.
 
-### [AA08](../../sessions/AA08.md)
+### [AA08](../../sessions/completed/AA08.md)
 
 [Thanea Morlay](../../characters/thanea-morlay.md) feels a sense of déjà vu while walking the streets of [Eskrigg](../../places/cities/eskrigg.md) while waiting for the first round of [Nature's Battle 28](natures-battle-28.md) to commence. She isn't able to figure out why, not yet realising that her previous deva dream took place on these streets.
 

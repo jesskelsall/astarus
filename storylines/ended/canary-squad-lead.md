@@ -46,6 +46,10 @@ With the squad invited to compete in [Nature's Battle 28](natures-battle-28.md),
 | --- | --- | --- | ---:| --- |
 | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) | [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | Independent Investigation of [Ulburn](../../places/villages/ulburn.md) | 25 gp | *Flexible* |
 
+### [AA08](../../sessions/completed/AA08.md)
+
+For the [Nature's Battle 28](natures-battle-28.md) tournament [Bryce Morton](../../characters/bryce-morton.md) makes [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) [Canary squad](../../organisations/astorrel/squads/canary-squad.md)'s acting [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md). She is responsible for the tournament formalities and providing starting positions to the tournament organisers.
+
 ### [AA12](../../sessions/completed/AA12.md)
 
 In the wake of [Canary Squad](../../organisations/astorrel/squads/canary-squad.md)'s exploits in [Eskrigg](../../places/cities/eskrigg.md) ([Syntenne Spies in Eskrigg](syntenne-spies-in-eskrigg.md)), [Bryce Morton](../../characters/bryce-morton.md) receives orders from [Levelle Tristwix](../../characters/levelle-tristwix.md), who in turn receives orders from the [Astornar](../../organisations/astornar.md), to promote [Ahsha Sallas](../../characters/ahsha-sallas.md) to [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md). Bryce congratulates her on her promotion but makes sure to mention that the decision wasn't his, and that he would have preferred more time to evaluate all squad hands before coming to his own decision.

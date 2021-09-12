@@ -49,7 +49,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA05](../sessions/completed/AA05.md) | 2021-03-13 | *Take Me to Your Leader* |
 | [AA06](../sessions/completed/AA06.md) | 2021-03-27 | *Fruit Cake and Fights* |
 | [AA07](../sessions/completed/AA07.md) | 2021-04-10 | *Dawn of Noon* |
-| [AA08](../sessions/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)* |
+| [AA08](../sessions/completed/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)* |
 | [AA09](../sessions/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)* |
 | [AA10](../sessions/completed/AA10.md) | 2021-06-12 | *Dark Steel, Darker Sewers* |
 | [AA11](../sessions/completed/AA11.md) | 2021-06-26 | *Syntenne Spy Showdown* |
@@ -67,7 +67,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Astorrel vs Astornox](../storylines/astorrel-vs-astornox.md) | [AA01](../sessions/completed/AA01.md) | |
 | [Whisper and Valnos](../storylines/ended/whisper-and-valnos.md) | [AA01](../sessions/completed/AA01.md) | [AA04](../sessions/completed/AA04.md) |
 | [Retrieving Ephaine's Star Map](../storylines/ended/retrieving-ephaines-star-map.md) | [AA01](../sessions/completed/AA01.md) | [AA02](../sessions/completed/AA02.md) |
-| [The Rival Squad](../storylines/the-rival-squad.md) | [AA01](../sessions/completed/AA01.md) | |
+| [The Rival Squad](../storylines/ended/the-rival-squad.md) | [AA01](../sessions/completed/AA01.md) | [AA08](../sessions/completed/AA08.md) |
 | [Canary Squad Lead](../storylines/ended/canary-squad-lead.md) | [AA01](../sessions/completed/AA01.md) | [AA12](../sessions/completed/AA12.md) |
 | [Check Logging in Arnaside](../storylines/ended/check-logging-in-arnaside.md) | [AA02](../sessions/completed/AA02.md) | [AA06](../sessions/completed/AA06.md) |
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [AA05](../sessions/completed/AA05.md) | [AA06](../sessions/completed/AA06.md) |

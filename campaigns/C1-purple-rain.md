@@ -63,7 +63,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR20](../sessions/completed/PR20.md) | 2021-03-24 | *[The Firbolg Controversy](../storylines/ended/the-firbolg-controversy.md) Trial* |
 | [PR21](../sessions/completed/PR21.md) | 2021-03-31 | *[Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md)* |
 | [PR22](../sessions/completed/PR22.md) | 2021-04-07 | *Unleashed on [Northhaven](../places/cities/northhaven.md)* |
-| [AA08](../sessions/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)*
+| [AA08](../sessions/completed/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)*
 | [PR23](../sessions/completed/PR23.md) | 2021-04-28 | *[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) vs [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md)* |
 | [PR24](../sessions/completed/PR24.md) | 2021-05-05 | *[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) vs [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md)* |
 | [PR25](../sessions/completed/PR25.md) | 2021-06-09 | *[Blade's Rest](../festivals/blades-rest.md) Festival* |
