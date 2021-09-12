@@ -1,4 +1,4 @@
-# Paladin Succubus
+# Paladin Roleplaying Succubus
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dice/bd94c6e7515f24a3.jpg" height="300" />
 

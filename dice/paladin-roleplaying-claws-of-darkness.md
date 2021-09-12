@@ -1,4 +1,4 @@
-# Paladin Claws of Darkness
+# Paladin Roleplaying Claws of Darkness
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dice/d430ab4a9ae25271.jpg" height="300" />
 

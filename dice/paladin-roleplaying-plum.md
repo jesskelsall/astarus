@@ -1,4 +1,4 @@
-# Paladin Plum
+# Paladin Roleplaying Plum
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dice/b813d5875508b29a.jpg" height="300" />
 

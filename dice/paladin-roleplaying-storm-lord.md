@@ -1,4 +1,4 @@
-# Paladin Storm Lord
+# Paladin Roleplaying Storm Lord
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dice/ac8174253904abc4.jpg" height="300" />
 

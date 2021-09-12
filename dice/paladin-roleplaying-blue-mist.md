@@ -1,4 +1,4 @@
-# Paladin Blue Mist
+# Paladin Roleplaying Blue Mist
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dice/af8ba30bd59ffb58.jpg" height="300" />
 

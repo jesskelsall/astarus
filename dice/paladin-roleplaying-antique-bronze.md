@@ -1,4 +1,4 @@
-# Paladin Antique Bronze
+# Paladin Roleplaying Antique Bronze
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dice/818c6d74ee1d7700.jpg" height="300" />
 

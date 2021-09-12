@@ -1,4 +1,4 @@
-# Paladin Sylvan Glade
+# Paladin Roleplaying Sylvan Glade
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dice/cc388cf5ab6cedf7.jpg" height="300" />
 

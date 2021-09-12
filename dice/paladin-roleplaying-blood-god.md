@@ -1,4 +1,4 @@
-# Paladin Blood God
+# Paladin Roleplaying Blood God
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dice/2481904e83cba940.png" height="500" />
 
