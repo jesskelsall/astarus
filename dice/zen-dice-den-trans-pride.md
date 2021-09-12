@@ -12,7 +12,7 @@
 ||
 | **Material** | Plastic |
 | **d20 Diameter (mm)** | |
-| **Logo on Highest Face?** | Yes (all) |
+| **Logo on Highest Face?** | Yes (d20) |
 ||
 | **Total** | 8 |
 | **d2** | 1 (coin) |
