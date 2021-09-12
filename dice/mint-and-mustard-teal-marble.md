@@ -23,6 +23,6 @@
 | **d12** | 1 |
 | **d20** | 2 |
 ||
-| **Associations** | |
+| **Associations** | *NPC ability score rolling* |
 ||
 | **Image ID** | `a5120a87d4ed6222` |

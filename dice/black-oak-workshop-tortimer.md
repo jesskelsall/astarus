@@ -23,6 +23,6 @@
 | **d12** | 1 |
 | **d20** | 1 |
 ||
-| **Associations** | |
+| **Associations** | [Familia Vulpes](../organisations/familia-vulpes.md) |
 ||
 | **Image ID** | `910ee6bd3734ed3c` |

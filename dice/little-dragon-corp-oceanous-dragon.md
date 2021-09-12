@@ -23,6 +23,6 @@
 | **d12** | 1 |
 | **d20** | 2 |
 ||
-| **Associations** | |
+| **Associations** | [Marsh Skimmers](../organisations/marsh-skimmers.md) |
 ||
 | **Image ID** | `ade4db62baec3d9e` |
