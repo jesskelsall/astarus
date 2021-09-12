@@ -7,7 +7,7 @@
 | **Brand** | *Unknown* |
 | **Product Name** | *Unknown* |
 | **Date Purchased** | 2020-10-25 |
-| **Cost** | £0.00<br>*Complimentary with an order from [Elderwood Academy](https://www.elderwoodacademy.com/))* |
+| **Cost** | £0.00<br>*Complimentary with an order from [Elderwood Academy](https://www.elderwoodacademy.com/).* |
 | **Shipping Cost (Divided)** | £0.00 |
 ||
 | **Material** | Plastic |
