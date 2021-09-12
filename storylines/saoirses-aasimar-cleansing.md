@@ -103,6 +103,18 @@ Saoirse willingly takes her own hand, allowing her to move her body and focusing
 
 Saoirse's vision fades to white as the dream ends. She wakes up in the morning feeling ambivalent: warm and nurtured, but also hollow and incomplete.
 
+### [PR34](../sessions/completed/PR34.md)
+
+While travelling across the Humar Estuary, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) speaks privately with [Thanea Morlay](../characters/thanea-morlay.md) about her latest dream. The pair discuss their respective dream experiences to date. Saoirse once again tells Thanea that she wishes to have radiant wings just like her and that she looks up to her.
+
+Saoirse wants to do anything she can to work toward getting her own radiant wings but feels helpless and lost. Thanea agrees to help her. Saoirse is disparaging about her Necrotic Shroud wings, comparing them unfavourably to Thanea's.
+
+During her night watch Saoirse tries her hardest to summon her spectral wings, eventually succeeding after much effort and self doubt. She experiences a radiant warmth in her chest that travels through her shoulder blades and into her back skin, turning a necrotic cold as it goes. She is once again disappointed by her wings, a shiver sent down her spine as she touches their tacky surface.
+
+She wakes up Thanea to show her them. Thanea doesn't recognise her and her white hair at first. The pair talk about Saoirse's experience with activating her wings. Thanea tells her that she feels the same radiant warmth when she activates her own, making the pair feel comfortingly similar. Saoirse gets excited at the prospect that perhaps she will be able to summon wings radiant wings at some point in her future.
+
+Thanea talks of her first time activating Radiant Soul in the [Nature's Battle 28](ended/natures-battle-28.md) tournament and how she felt desperate and needed to protect her friends. She suggests that Saoirse might need a similar moment.
+
 ## Planning
 
 Saoirse will continue having deva dreams depicting altered past events that she has already experienced, with [Mykiel](../characters/mykiel.md) present. He will test her devotion and resolve. If she pleases him, he will continue to help her.

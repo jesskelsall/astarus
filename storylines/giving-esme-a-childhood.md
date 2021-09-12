@@ -33,3 +33,11 @@ Through context clues the party piece together that Vensys died in [Hyceodd](../
 In the morning when Torbra learns that Esme is an earth genasi like her, her desire to see them reach safety grows. Torbra tells of Iredale where Torbra grew up and their acceptance of her, despite her being different. Montel feels that the town could be a good place to try despite it having no elves.
 
 The party agree to bring Montel and Esme with them as they continue their mission, intent on at least getting them off of the estuary after they find what they are looking for.
+
+### [PR34](../sessions/completed/PR34.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) continue their search for the [Humar Meteorite](../items/meteoric/meteorites/humar-meteorite.md) crater with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md).
+
+Along the way they witness many instances of Esme amusing herself as best as she can while Montel keeps her mind off their barren surroundings. During the evening while camping [Torbra Tauff](../characters/torbra-tauff.md) plays sword fighting with Esme using sticks. Montel remarks that Esme will likely want to be an adventurer after the pair's time spent with the party on the Humar Estuary.
+
+When [Thanea Morlay](../characters/thanea-morlay.md) suggests that Montel and Esme keep a good distance to avoid incoming danger, Montel gets panicked, now married to the idea of staying as close to [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) as possible until they get out of the estuary. He again reiterates his unwillingness to fight and his plan to flee with Esme at the first sign of danger.

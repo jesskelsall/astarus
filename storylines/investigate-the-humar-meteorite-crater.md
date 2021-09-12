@@ -58,6 +58,28 @@ Travelling for most of the day, the party eventually see disturbances in the wat
 
 During this time [Thanea Morlay](../characters/thanea-morlay.md) asks them if they have seen anything strange or suspicious on their travels since leaving [Hyceodd](../places/towns/hyceodd.md). [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) casts Minor Illusion to create images of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and [Meteoric Watchers](../creatures/meteoric-watcher.md). Montel replies that he has seen nothing of the kind, or anything crater-like.
 
+### [PR34](../sessions/completed/PR34.md)
+
+#### Day 4
+
+[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) leave [Leithran Shack](../places/buildings/leithran-shack.md) in the morning with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md), who will accompany them while they complete their mission.
+
+[Wizira](../characters/wizira.md) finds a forked stick for use with her Locate Object spell but is unable to detect a [meteorite](../items/meteoric/meteorite.md) within its area of effect. [Thanea Morlay](../characters/thanea-morlay.md) uses Radiant Soul to fly high into the clear sky, getting the party's bearings two thirds of the way down the Humar Estuary peninsula. [Torbra Tauff](../characters/torbra-tauff.md) decides that they should proceed south west.
+
+After several fruitless hours the party reach the end of dry land, arriving near the [Carneid Inlet](../places/seas-oceans/carneid-inlet.md). [Wizira](../characters/wizira.md) uses [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md)'s suggestion of casting Locate Object with [meteoric dust](../items/meteoric/meteoric-dust.md) in mind, noticing that her divining rod points north. Torbra trusts [Wizira](../characters/wizira.md), so the party turn back north, travelling for the rest of the day.
+
+The party camp on drier northern terrain away from the swampier areas in the south of the peninsula.
+
+#### Day 5
+
+Having casts Locate Object again the night before, the party follow [Wizira](../characters/wizira.md)'s diving rod north-northwest. After only an hour they arrive on the edge of a large round lake - the [Humar Meteorite](../items/meteoric/meteorites/humar-meteorite.md) crater.
+
+[Wizira](../characters/wizira.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) look out over the crater, finding it to be round and disrespectful of the undulating terrain around it. [Torbra Tauff](../characters/torbra-tauff.md) examines the shore line, finding the same almost carved banks and a lack of reeds that indicate a steadily increasing depth.
+
+When [Wizira](../characters/wizira.md) casts Detect Magic and finds nothing she begins to swim toward the centre of the lake, much to the vocal worry of the rest of the party. She continues anyway, quickly losing her footing on the bottom. After a while she looks down, observing a dark and murky body of water with no sign of the bottom. As she is looking she notices a large shadow pass underneath her. She tells the party that she is in danger.
+
+A giant crocodile breaches the surface of the water right next to [Wizira](../characters/wizira.md), fitting part of her into its mouth.
+
 ## Planning
 
 ### [Purple Rain](../campaigns/C1-purple-rain.md)

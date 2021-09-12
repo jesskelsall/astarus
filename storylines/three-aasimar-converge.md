@@ -71,6 +71,14 @@ When [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md) confronts [Canary squ
 
 Gwenhwyfar tidies up loose ends by executing Xavier by casting Disintegrate before threatening the party with a similar fate if they don't keep the events of that day ([Syntenne Spies in Eskrigg](ended/syntenne-spies-in-eskrigg.md)) a secret, pretending their day was a typical one instead.
 
+### [PR34](../sessions/completed/PR34.md)
+
+After talking while walking across the Humar Estuary, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is able to summon for the first time her spectral wings using Necrotic Shroud. She wakes [Thanea Morlay](../characters/thanea-morlay.md) up to show her.
+
+The pair discuss how she was able to do it. Saoirse describes a radiant warmth in her chest that travels to her shoulder blades and into her skin, but as it goes it becomes a cold necrotic sensation. Thanea tells her that her own experiences of Radiant Soul feature the same warmth.
+
+This confirms to the pair that they are of a similar kind.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will cross paths briefly with Saoirse while she is high on [meteoric dust](../items/meteoric/meteoric-dust.md). Allisa will recognise her energy, but her need to flee the city will prevent her from saying or doing much. She will talk vaguely to her underling about how there is a second one though something feels off. Her underling will then encourage her to move quickly.
