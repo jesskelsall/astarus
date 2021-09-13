@@ -119,6 +119,6 @@ Thanea talks of her first time activating Radiant Soul in the [Nature's Battle 2
 
 Saoirse will continue having deva dreams depicting altered past events that she has already experienced, with [Mykiel](../characters/mykiel.md) present. He will test her devotion and resolve. If she pleases him, he will continue to help her.
 
-In the long term, Saoirse will get the opportunity to kill [Effie Silttooth](../characters/effie-silttooth.md). Doing so will be the final piece of the puzzle that converts her from a fallen [aasimar](../lineages/aasimar.md) to a protector [aasimar](../lineages/aasimar.md).
+In the long term, Saoirse will get the opportunity to kill [Effie Silttooth](../characters/effie-silttooth.md). Doing so will be the final piece of the puzzle that converts her from a fallen [aasimar](../lineages/aasimar.md) to a "zealous" [aasimar](../lineages/aasimar.md). This will see her adopt a radiant form that summons two giant radiant daggers that she can use to enhance her attacks.
 
 Prior to that, with [Robin](../players/robin.md)'s blessing, Saoirse will trade in warlock levels at key points and replace them with multi-classed levels in cleric or paladin (her choice). The less warlock she is, the closer to being saved she is.

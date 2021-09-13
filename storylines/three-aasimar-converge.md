@@ -81,8 +81,12 @@ This confirms to the pair that they are of a similar kind.
 
 ## Planning
 
-[Allisa Balsatra](../characters/allisa-balsatra.md) will cross paths briefly with Saoirse while she is high on [meteoric dust](../items/meteoric/meteoric-dust.md). Allisa will recognise her energy, but her need to flee the city will prevent her from saying or doing much. She will talk vaguely to her underling about how there is a second one though something feels off. Her underling will then encourage her to move quickly.
+[Allisa Balsatra](../characters/allisa-balsatra.md) will use Message to communicate with [Ahsha Sallas](../characters/ahsha-sallas.md), scolding her for ruining her plans and putting [Thanea Morlay](../characters/thanea-morlay.md) in great danger, now that the [Astornar](../organisations/astornar.md) know that a Veritacris has interest in her.
 
-[Astorrel Agents](../campaigns/C2-astorrel-agents.md) will face [Allisa Balsatra](../characters/allisa-balsatra.md) in the sewers under [Vorrinel's Stand](../places/buildings/vorrinels-stand.md), though she will keep her face obscured and only resort to her scourge [aasimar](../lineages/aasimar.md) powers if absolutely necessary. She will try to escape using Dimension Door.
+This should lead to [Canary Squad](../organisations/astorrel/squads/canary-squad.md) sharing what they know with [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) and giving Thanea a chance to get in touch with Allisa. Otherwise the pair will likely not meet anytime soon.
 
-Much further out, Allisa will get back in touch with Thanea and Saoirse, driven by her own deva / her parents [Mykiel](../characters/mykiel.md) and [Seraphina](../characters/seraphina.md). She believes that the three need to be together for some reason, driven by her deva. Allisa will transport them to a place in the Kas'ran Desert where she is able to commune with her deva freely.
+Allisa will tell Thanea and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) (who she half-recognises as similar but corrupted) about her lifelong search for another [aasimar](../lineages/aasimar.md), giving them the name of their lineage. She will relay dreams her deva has given her of a winged [aasimar](../lineages/aasimar.md) and a dagger wielding [aasimar](../lineages/aasimar.md) standing with their devas in a circle that includes her and her own deva.
+
+Thanea and Saoirse will then begin experiencing this dream.
+
+Allisa will try and get Thanea and Saoirse to join her at a spot in the Kas'ran Desert where she is able to communicate with her deva directly. It has been decades since she last visited. It will allow Thanea and Saoirse to do the same.
