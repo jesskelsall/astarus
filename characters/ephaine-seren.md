@@ -11,7 +11,7 @@
 | **Class** | Druid |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Tamman Seren](tamman-seren.md) (older brother)<br>Besar Seren (younger brother)<br>Irla Seren (younger sister)<br>[Ludolf Hornwallis](ludolf-hornwallis.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
-| **Places** | Filisur (birthplace) |
+| **Places** | [Filisur](../places/villages/filisur.md) (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
@@ -46,9 +46,9 @@ Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 ## Backstory
 
-Ephaine Seren was born in the village of Filisur to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../lineages/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
+Ephaine Seren was born in the village of [Filisur](../places/villages/filisur.md) to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../lineages/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
 
-She grew up in the cycle of Filisur, set in the Albulain Valley: during the spring the families here raised sheep while an [Astornox](../organisations/astornox/astornox.md) garrison watched the border region. By autumn the sheep were sheared, the grasses cut & baled, and the [Astornox](../organisations/astornox/astornox.md) garrison moved back into the kingdom's interior to avoid the winter snows.
+She grew up in the cycle of [Filisur](../places/villages/filisur.md), set in the Albulain Valley: during the spring the families here raised sheep while an [Astornox](../organisations/astornox/astornox.md) garrison watched the border region. By autumn the sheep were sheared, the grasses cut & baled, and the [Astornox](../organisations/astornox/astornox.md) garrison moved back into the kingdom's interior to avoid the winter snows.
 
 At an early age, through the old [Cepine](../lineages/cepine.md) customs, Seren was brought to the shepherd's mountain shrine where the stars are worshipped. Here she heard her first whispers from the heavens who had favoured her. She would be a blessing to her little valley, if she could stay hidden.
 

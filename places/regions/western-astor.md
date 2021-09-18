@@ -18,7 +18,7 @@ Western Astor is mountainous and riddled with hills, making getting around diffi
   - Carnmere
   - [Hyceodd](../towns/hyceodd.md)
 - Villages:
-  - Filisur
+  - [Filisur](../villages/filisur.md)
   - Hartsgarth
   - Picdale
 - Forts:

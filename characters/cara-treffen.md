@@ -12,12 +12,12 @@
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Zarrus Maleron](zarrus-maleron.md) (employee) |
-| **From** | Filisur |
+| **From** | [Filisur](../places/villages/filisur.md) |
 | **Places** | [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) (owner) |
 
 ## Summary
 
-Cara Treffen is the owner of the [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) inn in [Northhaven](../places/cities/northhaven.md). She is a Cepina, originally hailing from Filisur.
+Cara Treffen is the owner of the [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) inn in [Northhaven](../places/cities/northhaven.md). She is a Cepina, originally hailing from [Filisur](../places/villages/filisur.md).
 
 ## Characteristics
 

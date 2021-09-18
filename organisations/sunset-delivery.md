@@ -38,7 +38,7 @@ Sometimes couriers aren't able to deliver. They can be killed on the journey, go
 
 As a benchmark, sending a letter directly from one city to the next costs 5 sp. The less travelled the route, the more it will cost.
 
-As an example, getting a letter from [Northhaven](../places/cities/northhaven.md) to Filisur costs 6 gp.
+As an example, getting a letter from [Northhaven](../places/cities/northhaven.md) to [Filisur](../places/villages/filisur.md) costs 6 gp.
 
 ## Branches
 

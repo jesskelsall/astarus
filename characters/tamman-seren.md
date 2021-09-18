@@ -12,12 +12,12 @@
 | **Worship** | |
 | **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Ephaine Seren](ephaine-seren.md) (younger sister)<br>Besar Seren (younger brother)<br>Irla Seren (younger sister) |
 | **Acquaintances** | |
-| **From** | Filisur |
+| **From** | [Filisur](../places/villages/filisur.md) |
 | **Places** | |
 
 ## Summary
 
-Tamman Seren is [Ephaine Seren](ephaine-seren.md)'s older brother. He lives in the village of Filisur with his parents, [Schaef Seren](schaef-seren.md) & [Adalie Seren](adalie-seren.md), and his younger siblings.
+Tamman Seren is [Ephaine Seren](ephaine-seren.md)'s older brother. He lives in the village of [Filisur](../places/villages/filisur.md) with his parents, [Schaef Seren](schaef-seren.md) & [Adalie Seren](adalie-seren.md), and his younger siblings.
 
 ## History
 

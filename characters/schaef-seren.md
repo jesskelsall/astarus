@@ -12,12 +12,12 @@
 | **Worship** | |
 | **Relations** | [Adalie Seren](adalie-seren.md) (wife)<br>[Tamman Seren](tamman-seren.md) (son)<br>[Ephaine Seren](ephaine-seren.md) (daughter)<br>Besar Seren (son)<br>Irla Seren (daughter) |
 | **Acquaintances** | |
-| **From** | Filisur |
+| **From** | [Filisur](../places/villages/filisur.md) |
 | **Places** | |
 
 ## Summary
 
-Schaef Seren is [Ephaine Seren](ephaine-seren.md)'s father. He lives in the village of Filisur with his wife, [Adalie Seren](adalie-seren.md), and his children.
+Schaef Seren is [Ephaine Seren](ephaine-seren.md)'s father. He lives in the village of [Filisur](../places/villages/filisur.md) with his wife, [Adalie Seren](adalie-seren.md), and his children.
 
 ## History
 

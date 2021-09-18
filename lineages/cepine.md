@@ -18,7 +18,7 @@ Their territory is within the borders of the [Kingdom of Astor](../civilisations
 ## Places
 
 - Albulain Valley:
-  - Filisur (village)
+  - [Filisur](../places/villages/filisur.md) (village)
 
 ## People
 

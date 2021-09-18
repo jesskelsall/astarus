@@ -12,12 +12,12 @@
 | **Worship** | |
 | **Relations** | [Schaef Seren](schaef-seren.md) (husband)<br>[Tamman Seren](tamman-seren.md) (son)<br>[Ephaine Seren](ephaine-seren.md) (daughter)<br>Besar Seren (son)<br>Irla Seren (daughter) |
 | **Acquaintances** | |
-| **From** | Filisur |
+| **From** | [Filisur](../places/villages/filisur.md) |
 | **Places** | |
 
 ## Summary
 
-Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She lives in the village of Filisur with her husband, [Schaef Seren](schaef-seren.md), and her children.
+Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She lives in the village of [Filisur](../places/villages/filisur.md) with her husband, [Schaef Seren](schaef-seren.md), and her children.
 
 ## History
 

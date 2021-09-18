@@ -1,6 +1,6 @@
 # Reed Dovenby
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/032ebd28bba118d8.png" height="500" />
 
 |||
 | --- | --- |
@@ -20,13 +20,30 @@
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
-| **Image ID** | |
+| **Image ID** | `032ebd28bba118d8` |
 
 ## Summary
 
 Reed Dovenby is a understated and motherly [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) that works in and around the [Great Sile Woods](../places/forests/great-sile-woods.md). She enjoys hosting at [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md) as she finds the role a relaxing way to talk to others.
 
 When [Juniper Squad](../organisations/astorrel/squads/juniper-squad.md) has time in hand, she likes to host while the rest of her squad heads back to [Northhaven](../places/cities/northhaven.md) or Silethwaite. She is happy and confident by herself due to her magic and experience as an [Astorrel](../organisations/astorrel/astorrel.md).
+
+## Character Rolls
+
+### Ability Scores
+
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 15 | 14 | 13 | 12 | 11 | 9 | 74 |
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Sorcerer | d6 | 6 |
+| 2 | - | Sorcerer | d6 | 5 |
+| 3 | - | Sorcerer | d6 | 5 |
+| 4 | - | Sorcerer | d6 | 2 |
 
 ## Characteristics
 

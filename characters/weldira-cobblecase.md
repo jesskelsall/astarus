@@ -1,6 +1,6 @@
 # Weldira Cobblecase
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c811e80e718f8569.png" height="500" />
 
 |||
 | --- | --- |
@@ -20,11 +20,29 @@
 | **Commanding Officer** | [Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) |
 | **Subordinates** | |
 |||
-| **Image ID** | |
+| **Image ID** | `c811e80e718f8569` |
 
 ## Summary
 
 Weldira Cobblecase is a scheming, slightly unhinged [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md). She is growing impatient with how long it is taking her to gain her citizenship.
+
+## Character Rolls
+
+### Ability Scores
+
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 15 | 14 | 13 | 12 | 11 | 9 | 74 |
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Rogue | d8 | 8 |
+| 2 | - | Rogue | d8 | 3 |
+| 3 | - | Rogue | d8 | 2 |
+| 4 | - | Rogue | d8 | 3 |
+| 5 | - | Rogue | d8 | 6 |
 
 ## Characteristics
 
@@ -33,7 +51,7 @@ Weldira Cobblecase is a scheming, slightly unhinged [Astornox Magicborn Hunter](
 | **Face** | Olive skin, yellow eyes. Scar across left side of both lips. Angled smiley face. | characteristics.2
 | **Hair** | Dark brown shoulder length, ponytail. |
 | **Body** | 3'10" / 117cm |
-| **Clothes** | Grey dyed leathers, cloth coat covering her legs. Dual daggers and hand crossbow. |
+| **Clothes** | Grey dyed leathers, sage cloth coat covering her legs. Dual daggers and hand crossbow. |
 | **Voice** | Female register, northern English accent. |
 | **Mannerisms** | Animated while talking, lots of hand gestures. |
 | | |
