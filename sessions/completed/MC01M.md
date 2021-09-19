@@ -202,7 +202,7 @@ With all of the information gleaned from [Pouring Grain](../../characters/pourin
 
 [Crucible](../../characters/crucible.md) then appeals to the party. They tell Kera and Marik that they are needed for an important job, explaining that a member of [Familia Vulpes](../../organisations/familia-vulpes.md) will be coming to the [Nilus Vaults](../../places/buildings/government/nilus-vaults.md) in the next few days to open a lockbox which may contain [Unevaire](../../items/weapons/unevaire.md). [Crucible](../../characters/crucible.md) explains that they don't care about their debt to [Creek](../../characters/creek.md), but if they are able to return the contents of the lockbox to her, she will personally pay them 1,000 gp each. She advises they work together to formulate an ambush plan while they still have time.
 
-The party is given an ornate key ([MC01M-I-1](../../cards/MC01M/MC01M-I-1.md)) by [Crucible](../../characters/crucible.md) and the location of the lockbox it opens: `JB-305`.
+The party is given an ornate key ([MC01M-I-1](../../cards/MC01M-I-1.md)) by [Crucible](../../characters/crucible.md) and the location of the lockbox it opens: `JB-305`.
 
 *[Becca](../../players/becca.md) and [Sophie](../../players/sophie.md) are informed that the remaining hour of the session is to be used for ambush planning. Whatever they plan will be worked into the [MC02](MC02.md) prep so that their characters are introduced to [Rin](../../players/rin.md) and [Viktorija](../../players/viktorija.md)'s as part of their chosen ambush tactic.*
 

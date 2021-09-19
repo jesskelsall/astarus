@@ -28,7 +28,7 @@ Outside it is common to see a group of [Coastguard](../../../organisations/guard
 
 Two large double doors open up into a 15ft wide by 20ft long hall. At its end is a screen of metal bars, with a gate cut out of it, also made of the same metal bars. It is locked by a key held by the two [Coastguards](../../../organisations/guards/coastguard.md) who are on opposite sides of the screen.
 
-In order to enter, a key to a lock box must be produced ([MC01F-I-3](../../../cards/MC01F/MC01F-I-3.md) / [MC01M-I-1](../../../cards/MC01M/MC01M-I-1.md)). The gems set into the key's head denote which floor the lockbox is located, giving the guards an idea of where the patron will be heading. Each key only opens one lock box. A code system is used to identify the lock box, e.g. `AB-123`.
+In order to enter, a key to a lock box must be produced ([MC01F-I-3](../../../cards/MC01F-I-3.md) / [MC01M-I-1](../../../cards/MC01M-I-1.md)). The gems set into the key's head denote which floor the lockbox is located, giving the guards an idea of where the patron will be heading. Each key only opens one lock box. A code system is used to identify the lock box, e.g. `AB-123`.
 
 Trays are brought in from the adjoining store room so that patrons can store any items they wish to leave before entering. The trays are made by removing hinges from typical wooden chests. Weapons and bags not needed for storage must be stowed away.
 

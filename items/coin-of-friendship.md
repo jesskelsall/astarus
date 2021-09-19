@@ -2,9 +2,10 @@
 
 |||
 | --- | --- |
-| **Name** | Coin of Friendship | item.2
+| **Name** | Coin of Friendship | item.3
 | **Weight** | - |
 | **Notes** | [Familia Vulpes](../organisations/familia-vulpes.md) |
+| **Item Card(s)** | [MC01F-I-2](../cards/MC01F-I-2.md) |
 
 ## Description
 
@@ -12,7 +13,7 @@
 > 
 > A relief of the organisation’s symbol is stamped into one side, and a view of the [Nilus Coast](../civilisations/nilsavnic-alliance/states/nilus-coast.md) from [Trest](../places/towns/trest.md) on the back.
 
-- [MC01F-I-2](../cards/MC01F/MC01F-I-2.md)
+- [MC01F-I-2](../cards/MC01F-I-2.md)
 
 ## Summary
 

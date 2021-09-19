@@ -261,7 +261,7 @@ When [Vētrall Astérr](../../characters/vetrall-asterr.md) finally emerges for 
 
 He hands Vētrall a letter ([MC01F-L-3](../../letters/MC01F-L-3.md)), plainly explaining that this came with Geen's will. Hanz doesn't cause any commotion, trying to keep the letter private out of respect for Vētrall.
 
-Vētrall takes the letter to a private corner, opening it and reading it. It is a letter from [Vulpes Geen](../../characters/vulpes-geen.md) that contains an ornate key ([MC01F-I-3](../../cards/MC01F/MC01F-I-3.md)) for a strongbox (`FV-1286`) in the [Nilus Vaults](../../places/buildings/government/nilus-vaults.md) in [Starnov](../../places/cities/starnov.md). Geen warns Vētrall not to open it inside the building due to his personal feelings about the aura of the place.
+Vētrall takes the letter to a private corner, opening it and reading it. It is a letter from [Vulpes Geen](../../characters/vulpes-geen.md) that contains an ornate key ([MC01F-I-3](../../cards/MC01F-I-3.md)) for a strongbox (`FV-1286`) in the [Nilus Vaults](../../places/buildings/government/nilus-vaults.md) in [Starnov](../../places/cities/starnov.md). Geen warns Vētrall not to open it inside the building due to his personal feelings about the aura of the place.
 
 Returning to the banquet hall, Vētrall finds [Valan Shadowgaze](../../characters/valan-shadowgaze.md) eating baked potatoes for breakfast. They tell Valan that they should hit the road to [Starnov](../../places/cities/starnov.md) today as they have business there, choosing not to disclose what exactly.
 
