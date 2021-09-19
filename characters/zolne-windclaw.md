@@ -1,30 +1,28 @@
 # Zolné Windclaw
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/4f524e26b1945fb0.png" height="500" />
 
 |||
 | --- | --- |
 | **Name** | Zolné Windclaw | character.3
 | **Lineage** | Leonin |
 | **Pronouns** | she/her |
-| **Age** | |
-| **Class** | |
+| **Age** | 41 |
+| **Class** | Barbarian (Path of the Ancestral Guardian) |
 | **Worship** | |
-| **Relations** | |
-| **Places** | Kuv'narash<br>Kas'ran Desert |
+| **Relations** | [Dune under Sunset](dune-under-sunset.md) (friend) |
+| **Places** | [Kuv'narash](../places/villages/kuvnarash.md)<br>Kas'ran Desert |
 |||
 | **Citizenship** | |
 | **Organisation** | |
-| **Rank** | |
-| **Role** | |
-| **Commanding Officer** | |
-| **Subordinates** | |
 |||
-| **Image ID** | |
+| **Image ID** | `4f524e26b1945fb0` |
 
 ## Summary
 
-TODO
+Zolné Windclaw is an outlander leonin that wanders the Kas'ran Desert in search of intrigue and glory. She excels out amongst the dunes, traversing the desert as if it is no challenge for her.
+
+Typically she hides her face and tail under layers of fabric to hide her leonin lineage, instead passing herself off as a tabaxi.
 
 ## Character Rolls
 
@@ -48,15 +46,15 @@ TODO
 
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
+| **Face** | Dusty golden fur, pointed remarkable lion face. Orange eyes. | characteristics.2
+| **Hair** | Dirty blonde shoulder length mane. |
+| **Body** | 6'7" / 202cm, muscular build. |
+| **Clothes** | Large brown linen robe, long brown head wrap typically covering everything but her eyes. Large glaive worn on her back when in settlements, otherwise on her arm. |
+| **Voice** | Deep female register, eastern european accent. Gruff. |
+| **Mannerisms** | Moves purposefully. Waits for no one. |
 | | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
+| **Quirks** | Stand-offish and competitive in a playful manner. Eager to prove herself. |
+| **Knowledge** | Kas'ran Desert. |
+| **Values** | Speaks highly of her ancestors. Honours them through combat. |
+| **Ambitions** | Roaming the desert looking for true purpose. |
+| **Dislikes** | Those who talk but cannot act. |

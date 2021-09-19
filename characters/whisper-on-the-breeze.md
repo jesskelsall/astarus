@@ -11,7 +11,7 @@
 | **Class** | Rogue |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Shout on the Breeze](shout-on-the-breeze.md) (adoptive father) |
-| **Places** | Kuv'narash (birthplace) |
+| **Places** | [Kuv'narash](../places/villages/kuvnarash.md) (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
@@ -45,7 +45,7 @@ Whisper on the Breeze is a former player character in the [Astorrel Agents](../c
 
 ## Backstory
 
-Whisper on the Breeze was born in the town of Kuv'narash ([Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)) to [Shout on the Breeze](shout-on-the-breeze.md) (father) and their mother. They are the runt of a litter of 5 Tabaxi.
+Whisper on the Breeze was born in the town of [Kuv'narash](../places/villages/kuvnarash.md) ([Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)) to [Shout on the Breeze](shout-on-the-breeze.md) (father) and their mother. They are the runt of a litter of 5 Tabaxi.
 
 Their clan has always been moving, struggling to settle and integrate into the cultures they encountered. The clan's journey has taken the from their homelands in the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), through the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md), and finally up into the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 

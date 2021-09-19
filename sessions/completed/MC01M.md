@@ -204,7 +204,7 @@ With all of the information gleaned from [Pouring Grain](../../characters/pourin
 
 The party is given an ornate key ([MC01M-I-1](../../cards/MC01M/MC01M-I-1.md)) by [Crucible](../../characters/crucible.md) and the location of the lockbox it opens: `JB-305`.
 
-*[Becca](../../players/becca.md) and [Sophie](../../players/sophie.md) are informed that the remaining hour of the session is to be used for ambush planning. Whatever they plan will be worked into the [MC02](../upcoming/MC02.md) prep so that their characters are introduced to [Rin](../../players/rin.md) and [Viktorija](../../players/viktorija.md)'s as part of their chosen ambush tactic.*
+*[Becca](../../players/becca.md) and [Sophie](../../players/sophie.md) are informed that the remaining hour of the session is to be used for ambush planning. Whatever they plan will be worked into the [MC02](MC02.md) prep so that their characters are introduced to [Rin](../../players/rin.md) and [Viktorija](../../players/viktorija.md)'s as part of their chosen ambush tactic.*
 
 ## Ambush Planning
 
