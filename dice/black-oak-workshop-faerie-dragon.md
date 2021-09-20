@@ -11,7 +11,7 @@
 | **Shipping Cost (Divided)** | $3.05 / £2.20 |
 ||
 | **Material** | Plastic |
-| **d20 Diameter (mm)** | |
+| **d20 Diameter (mm)** | 23.0 |
 | **Logo on Highest Face?** | Yes (all) |
 ||
 | **Total** | 7 |

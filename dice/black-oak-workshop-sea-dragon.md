@@ -11,7 +11,7 @@
 | **Shipping Cost (Divided)** | $2.83 / £2.67<br>£5.93 (International shipping from [Billie](../players/billie.md)) |
 ||
 | **Material** | Plastic |
-| **d20 Diameter (mm)** | |
+| **d20 Diameter (mm)** | 23.0 |
 | **Logo on Highest Face?** | Yes (all) |
 ||
 | **Total** | 7 |

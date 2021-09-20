@@ -11,7 +11,7 @@
 | **Shipping Cost (Divided)** | £0.00 (set of 8)<br>£1.49 (d6 x8)<br>£1.98 (d8 x6) |
 ||
 | **Material** | Plastic |
-| **d20 Diameter (mm)** | |
+| **d20 Diameter (mm)** | 19.7 |
 | **Logo on Highest Face?** | No |
 ||
 | **Total** | 22 |

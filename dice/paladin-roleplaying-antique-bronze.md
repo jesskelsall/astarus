@@ -11,7 +11,7 @@
 | **Shipping Cost (Divided)** | £3.95 |
 ||
 | **Material** | Metal |
-| **d20 Diameter (mm)** | |
+| **d20 Diameter (mm)** | 19.9 |
 | **Logo on Highest Face?** | No |
 ||
 | **Total** | 8 |
