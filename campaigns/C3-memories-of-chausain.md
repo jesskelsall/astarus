@@ -50,3 +50,5 @@
 | [Sword of the Moon](../storylines/sword-of-the-moon.md) | [MC01F](../sessions/completed/MC01F.md) | |
 | [The Shiny Ball](../storylines/the-shiny-ball.md) | [MC01F](../sessions/completed/MC01F.md) | |
 | [Hammersmiths on the Offensive](../storylines/hammersmiths-on-the-offensive.md) | [MC01M](../sessions/completed/MC01M.md) | |
+| [Malnesh Waits Patiently](../storylines/malnesh-waits-patiently.md) | [MC02](../sessions/completed/MC02.md) | |
+| [Escaping the Desert](../storylines/escaping-the-desert.md) | [MC02](../sessions/completed/MC02.md) | |

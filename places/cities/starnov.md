@@ -32,3 +32,4 @@ It boasts the largest trade port in the [Nil'Savnic Alliance](../../civilisation
 
 - [Nilus Vaults](../buildings/government/nilus-vaults.md) (bank)
 - [The Round Goose](../buildings/inns-taverns/the-round-goose.md) (inn)
+- [Big Magpie Pub](../buildings/inns-taverns/big-magpie-pub.md) (inn)

@@ -26,3 +26,7 @@ Through an encounter with two axe beaks, Vētrall showed their true combat abili
 The pair worked together to defeat the brown bear outside of its cave. Vētrall used their magic to disrupt the bear and keep it away from Valan, while Valan riddled it with arrows from his bow until it died.
 
 The pair were paid 10 gp each for their efforts and secured 20 gp for [Familia Vulpes](../organisations/familia-vulpes.md). With that they both earned their coins. Going forward it would be up to Vētrall to decide where they go and what they do.
+
+### [MC02](../sessions/completed/MC02.md)
+
+On their first full day in [Starnov](../places/cities/starnov.md), [Vētrall Astérr](../characters/vetrall-asterr.md) orders [Valan Shadowgaze](../characters/valan-shadowgaze.md) to find them adventuring work. Valan is unhappy at Vētrall, pointing out the hypocrisy of a lesson without supervision. Vētrall explains it away as their teaching style, not letting on to their need for some alone time to visit the [Nilus Vaults](../places/buildings/government/nilus-vaults.md).
