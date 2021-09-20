@@ -16,6 +16,10 @@ Formed immediately after The Third Coming, Hochwald is a centre of culture that 
 
 [Lady Crane](../../organisations/lady-crane.md) operates out of Hochwald.
 
+### Meaning
+
+*Hochwald* is German for *high forest*.
+
 ## Places
 
 - [Lady Crane](../../organisations/lady-crane.md)'s Château ([Lady Crane](../../organisations/lady-crane.md) HQ)
