@@ -76,8 +76,8 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR32](../sessions/completed/PR32.md) | 2021-08-11 | *Estuary Escapades* |
 | [PR33](../sessions/completed/PR33.md) | 2021-08-18 | *Esme* |
 | [PR34](../sessions/completed/PR34.md) | 2021-09-01 | *Searching for the Crater* |
+| [PR35](../sessions/PR35.md) | 2021-09-22 | *Death Lurking Below* |
 ||
-| [PR35](../sessions/upcoming/PR35.md) | 2021-09-22 | |
 | [PR36](../sessions/upcoming/PR36.md) | 2021-09-29 | |
 | [PR37](../sessions/upcoming/PR37.md) | 2021-10-06 | |
 
