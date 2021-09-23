@@ -62,8 +62,6 @@ Penance Zahiri is a new Squad Hand in the [Astorrel](../organisations/astorrel/a
 
 ## History
 
-### Backstory
-
 Penance grew up on the streets of [Northhaven](../places/cities/northhaven.md), stealing and starting fights. Eventually their reputation allowed them to take a position as a smuggler moving contraband in and out of the city - most notably [magicborn](../civilisations/kingdom-of-astor/magicborn.md) children. Penance claims that one night they were visited by [Bhygar](../gods/deities/bhygar.md) who gave them their powers and instructed them to live their life more fully, and inspire others to do the same. They changed their name and applied to the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme at age 19, honing their paladin powers as they trained.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)

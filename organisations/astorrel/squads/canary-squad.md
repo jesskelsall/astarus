@@ -22,3 +22,11 @@ Canary Squad is the [Astorrel](../astorrel.md) squad that the party members of t
 | --- | --- |
 | [Check Logging in Arnaside](../../../storylines/ended/check-logging-in-arnaside.md) | Completed |
 | [Rescue Kiln Squad](../../../storylines/rescue-kiln-squad.md) | In Progress |
+
+## Changes
+
+| Session | Removed | Added | Details |
+|:---:| --- | --- | --- |
+| [AA01](../../../sessions/completed/AA01.md) || [Ahsha Sallas](../../../characters/ahsha-sallas.md)<br>[Ephaine Seren](../../../characters/ephaine-seren.md)<br>[Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md)<br>[Whisper on the Breeze](../../../characters/whisper-on-the-breeze.md) | Squad formed.<br>[Bryce Morton](../../../characters/bryce-morton.md) becomes commanding officer. |
+| [AA07](../../../sessions/completed/AA07.md) | [Whisper on the Breeze](../../../characters/whisper-on-the-breeze.md) | [Noon Schiller](../../../characters/noon-schiller.md) | Noon moved from [Dolphin Squad](dolphin-squad.md).<br>Whisper replaced him.<br>*([Brooke](../../../players/brooke.md) leaves the campaign, replaced with [Chloe](../../../players/chloe.md).)* |
+| [AA12](../../../sessions/completed/AA12.md) | [Redwyn Humpledopper](../../../characters/redwyn-humpledopper.md) | [Yialdred Korina](../../../characters/yialdred-korina.md) | Korina moved from [Woodlouse Squad](woodlouse-squad.md).<br>Redwyn moved to another squad.<br>*([Brooke](../../../players/brooke.md) returns to take [Logan](../../../players/logan.md)'s vacant spot in the campaign.)* |

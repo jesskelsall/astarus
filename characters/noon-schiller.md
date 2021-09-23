@@ -4,27 +4,30 @@
 
 |||
 | --- | --- |
-| **Name** | Noon Schiller<br>*Brother Light* | character.3
+| **Name** | Noon Schiller<br>*Brother Light* | character.4
 | **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 20 |
-| **Class** | Warlock |
+| **Class** | Warlock (Pact of the Tome) |
+| **Background** | |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Bernard Horace Schiller](bernard-horace-schiller.md) (father)<br>[Schiller Family](../organisations/schiller-family.md) (family)<br>[Nills](nills.md) (Warlock patron) |
 | **Places** | Ballabeg (birthplace) |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md)<br>Former:<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
 |||
 | **Image ID** | `ec514d55f424de69` ([Nature's Battle](../mechanics/roleplay/natures-battle.md))<br>`8de47544818b859b` |
 
 ## Summary
 
 Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Chloe](../players/chloe.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) | [Emdar Silverstrike](emdar-silverstrike.md) ||
+| [AA07](../sessions/completed/AA07.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -44,7 +47,7 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 | 4 | - | Warlock | d8 | 5 |
 | 5 | [AA09](../sessions/completed/AA09.md) | Warlock | d8 | 8 |
 
-## Backstory
+## History
 
 Noon was born in Ballabeg (publicly: Baldrine) into the [Schiller family](../organisations/schiller-family.md), a wealthy and powerful family on [Kardanis](../places/regions/kardanis.md). As the family heir, Noon was infused with [Nills](nills.md) (an aspect of [Nilliski](nilliski.md)) prior to his birth in a blood ritual conducted by his family, honouring the pact that the Schillers made with [Nilliski](nilliski.md) generations ago.
 

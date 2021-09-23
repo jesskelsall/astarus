@@ -6,11 +6,11 @@
 | **Role** | Cities / [Eskrigg](../../../places/cities/eskrigg.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | |
-| **Squad Hands** | [Yialdred Korina](../../../characters/yialdred-korina.md) |
+| **Squad Hands** | |
 
-| [Yialdred Korina](../../../characters/yialdred-korina.md) ||||
+|||||
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/3856f570c58374b4.png" height="400" /> ||||
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> |
 
 ## Summary
 
@@ -20,3 +20,10 @@ Woodlouse Squad is the [Astorrel](../astorrel.md) squad that [Yialdred Korina](.
 
 | Mission | Status |
 | --- | --- |
+
+## Changes
+
+| Session | Removed | Added | Details |
+|:---:| --- | --- | --- |
+||| [Yialdred Korina](../../../characters/yialdred-korina.md) | First encountered. |
+| [AA12](../../../sessions/completed/AA12.md) | [Yialdred Korina](../../../characters/yialdred-korina.md) || Korina moved to [Canary Squad](canary-squad.md). |

@@ -4,27 +4,29 @@
 
 |||
 | --- | --- |
-| **Name** | Ephaine Seren | character.3
+| **Name** | Ephaine Seren | character.4
 | **Lineage** | Human ([Cepine](../lineages/cepine.md)) |
 | **Pronouns** | she/her |
 | **Age** | 17 |
-| **Class** | Druid |
+| **Class** | Druid (Circle of the Stars) |
+| **Background** | Acolyte (Shelter of the Faithful) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Tamman Seren](tamman-seren.md) (older brother)<br>Besar Seren (younger brother)<br>Irla Seren (younger sister)<br>[Ludolf Hornwallis](ludolf-hornwallis.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
 | **Places** | [Filisur](../places/villages/filisur.md) (birthplace) |
-|||
 | **Citizenship** | |
-| **Organisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
 |||
 | **Image ID** | `3840bf1d6c005683` |
 
 ## Summary
 
 Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Lily](../players/lily.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [AA01](../sessions/completed/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -44,7 +46,7 @@ Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/C2-ast
 | 4 | - | Druid | d8 | 7 |
 | 5 | [AA09](../sessions/completed/AA09.md) | Druid | d8 | 7 |
 
-## Backstory
+## History
 
 Ephaine Seren was born in the village of [Filisur](../places/villages/filisur.md) to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../lineages/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
 

@@ -61,8 +61,6 @@ His name is pronounced: *deer-mid kav-an-ah*.
 
 ## History
 
-### Backstory
-
 Diarmuid was born into a wealthy family, his father [Eoghan Kavanagh](eoghan-kavanagh.md) being an [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md). The Kavanagh family is well respected throughout the kingdom, and own a lucrative hot spring in the town of Eaglesfield where they live.
 
 Showing magical potential from a young age, his father saw to his private tutelage to hone his skills. Unfortunately he proved not to be academically savvy enough to develop his magic, much to his father's disappointment, which came to dominate his relationship with his father.

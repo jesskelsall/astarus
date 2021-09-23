@@ -4,27 +4,30 @@
 
 |||
 | --- | --- |
-| **Name** | Ahsha Sallas | character.3
+| **Name** | Ahsha Sallas | character.4
 | **Lineage** | Half-orc |
 | **Pronouns** | she/her |
 | **Age** | 26 |
-| **Class** | Fighter |
+| **Class** | Fighter (Champion)<br>Barbarian |
+| **Background** | Gladiator (By Popular Demand) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Arsha Sallas](arsha-sallas.md) (father)<br>[Felina Sallas](felina-sallas.md) (mother)<br>[Barthon Ironfist](barthon-ironfist.md) (pit fighting trainer)<br>[Jorren Grieger](jorren-grieger.md) ([Astorrel](../organisations/astorrel/astorrel.md) scout)<br>[Kael Greenknee](kael-greenknee.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
 | **Places** | [Mockerkin](../places/towns/mockerkin.md) (birthplace) |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
 |||
 | **Image ID** | `b0b553e82a907ff3` |
 
 ## Summary
 
 Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Billie](../players/billie.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [AA01](../sessions/completed/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA12](../sessions/completed/AA12.md) | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -44,7 +47,7 @@ Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/C2-asto
 | 4 | - | Fighter | d10 | 4
 | 5 | [AA09](../sessions/completed/AA09.md) | Barbarian | d12 | 5
 
-## Backstory
+## History
 
 Ahsha Sallas was born in the town of [Mockerkin](../places/towns/mockerkin.md) to [Arsha Sallas](arsha-sallas.md) (orc father) and [Felina Sallas](felina-sallas.md) (human mother).
 

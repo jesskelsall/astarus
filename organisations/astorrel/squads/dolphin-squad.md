@@ -21,3 +21,10 @@ Dolphin Squad is the [Astorrel](../astorrel.md) squad that [Noon Schiller](../..
 | Mission | Status |
 | --- | --- |
 | Survey Fish in [Picdale Water](../../../places/rivers-lakes/picdale-water.md) | Finished |
+
+## Changes
+
+| Session | Removed | Added | Reason |
+|:---:| --- | --- | --- |
+||| [Dust of Chalk](../../../characters/dust-of-chalk.md)<br>[Kathmera Frozeneyes](../../../characters/kathmera-frozeneyes.md)<br>[Noon Schiller](../../../characters/noon-schiller.md)<br>[Panafiz Zemblelimble](../../../characters/panafiz-zemblelimble.md) | First encountered.<br>[Emdar Silverstrike](../../../characters/emdar-silverstrike.md) is commanding officer. |
+| [AA07](../../../sessions/completed/AA07.md) | [Noon Schiller](../../../characters/noon-schiller.md) | [Whisper on the Breeze](../../../characters/whisper-on-the-breeze.md) | Noon moved to [Canary Squad](canary-squad.md)<br>Whisper replaced him.

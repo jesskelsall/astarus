@@ -4,27 +4,30 @@
 
 |||
 | --- | --- |
-| **Name** | Whisper on the Breeze | character.3
+| **Name** | Whisper on the Breeze | character.4
 | **Lineage** | Tabaxi |
 | **Pronouns** | they/them |
 | **Age** | 22 |
-| **Class** | Rogue |
+| **Class** | Rogue (Inquisitive) |
+| **Background** | Pariah (Criminal Contact) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Shout on the Breeze](shout-on-the-breeze.md) (adoptive father) |
 | **Places** | [Kuv'narash](../places/villages/kuvnarash.md) (birthplace) |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) |
-| **Commanding Officer** | [Emdar Silverstrike](emdar-silverstrike.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
 |||
 | **Image ID** | `63cc05f09a0e0c3b` |
 
 ## Summary
 
 Whisper on the Breeze is a former player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Brooke](../players/brooke.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [AA01](../sessions/completed/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA07](../sessions/completed/AA07.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) | [Emdar Silverstrike](emdar-silverstrike.md) ||
 
 ## Character Rolls
 
@@ -43,7 +46,7 @@ Whisper on the Breeze is a former player character in the [Astorrel Agents](../c
 | 3 | - | Rogue | d8 | 7 |
 | 4 | - | Rogue | d8 | 6 |
 
-## Backstory
+## History
 
 Whisper on the Breeze was born in the town of [Kuv'narash](../places/villages/kuvnarash.md) ([Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)) to [Shout on the Breeze](shout-on-the-breeze.md) (father) and their mother. They are the runt of a litter of 5 Tabaxi.
 

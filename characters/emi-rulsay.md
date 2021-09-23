@@ -16,13 +16,15 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) |
+| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
 | **Commanding Officer** | [Linton Harkness](linton-harkness.md) |
 | **Subordinates** | |
 |||
 | **Image ID** | |
 
 ## Summary
+
+Emi Rulsay is an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) in [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md).
 
 ## Characteristics
 

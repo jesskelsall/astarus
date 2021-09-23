@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Wizira](../characters/wizira.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/completed/PR00.md) - |
+| [Wizira](../characters/wizira.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/completed/PR00.md) - [PR35](../sessions/PR35.md) |

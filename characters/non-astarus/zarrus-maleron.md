@@ -41,6 +41,6 @@
 | 4 | - | Druid | d8 | 2 |
 | 5 | - | Druid | d8 | 2 |
 
-## Backstory
+## History
 
 TODO

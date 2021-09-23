@@ -62,8 +62,6 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/astorrel
 
 ## History
 
-### Backstory
-
 Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/cities/eskrigg.md) she joined the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme on the promise of good pay for completing missions.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)

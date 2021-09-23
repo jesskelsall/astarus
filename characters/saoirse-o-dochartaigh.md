@@ -4,27 +4,29 @@
 
 |||
 | --- | --- |
-| **Name** | Saoirse ó Dochartaigh | character.3
+| **Name** | Saoirse ó Dochartaigh | character.4
 | **Lineage** | [Aasimar](../lineages/aasimar.md) (human) |
 | **Pronouns** | she/her |
 | **Age** | |
-| **Class** | Warlock |
+| **Class** | Warlock (The Archfey) |
+| **Background** | Criminal / Spy (Criminal Contact) |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Mykiel](mykiel.md) (father, deva)<br>[Effie Silttooth](effie-silttooth.md) (Warlock patron) |
 | **Places** | |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
-| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
 |||
 | **Image ID** | `96456245c79828b5`<br>`9123d71815a8ce99` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 
 TODO
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [PR21](../sessions/completed/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls
 
@@ -44,4 +46,6 @@ TODO
 | 4 | [PR19](../sessions/completed/PR19.md) | Warlock | d8 | 3 |
 | 5 | [PR30](../sessions/completed/PR30.md) | Warlock | d8 | 7 |
 
-## Backstory
+## History
+
+TODO

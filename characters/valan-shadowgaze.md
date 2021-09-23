@@ -36,7 +36,7 @@ Valan Shadowgaze is a player character in the [Memories of Chausain](../campaign
 |:---:|:---:| --- | --- |:---:|
 | 1 | - | Ranger | d10 | 10 |
 
-## Backstory
+## History
 
 TODO
 

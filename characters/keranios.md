@@ -37,7 +37,7 @@ Keranios is a player character in the [Memories of Chausain](../campaigns/C3-mem
 | 1 | - | Fighter | d10 | 10 |
 | 2 | - | Fighter | d10 | 8 |
 
-## Backstory
+## History
 
 *To be provided by [Becca](../players/becca.md).*
 

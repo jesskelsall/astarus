@@ -4,27 +4,30 @@
 
 |||
 | --- | --- |
-| **Name** | Torbra Tauff | character.3
+| **Name** | Torbra Tauff | character.4
 | **Lineage** | Genasi (Earth) |
 | **Pronouns** | she/her |
 | **Age** | |
-| **Class** | Fighter |
+| **Class** | Fighter (Rune Knight) |
+| **Background** | Folk Hero (Rustic Hospitality) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Emelina Tauff](emelina-tauff.md) (adoptive mother)<br>[Ealo Tauff](ealo-tauff.md) (adoptive father)<br>[Einra Craggbeard](einra-craggbeard.md) (childhood friend)<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Astornox Captain](../organisations/astornox/ranks/astornox-captain.md): Iredale)<br>[Teresa Resk](teresa-resk.md) (Hjalmann's wife) |
 | **Places** | Iredale |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
-| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
 |||
 | **Image ID** | `c275fac3807fe83b`<br>`e7cc21ea436f896e` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 
 TODO
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [PR21](../sessions/completed/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR27](../sessions/completed/PR27.md) | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls
 
@@ -44,4 +47,6 @@ TODO
 | 4 | [PR19](../sessions/completed/PR19.md) | Fighter | d10 | 9 |
 | 5 | [PR30](../sessions/completed/PR30.md) | Fighter | d10 | 4 |
 
-## Backstory
+## History
+
+TODO

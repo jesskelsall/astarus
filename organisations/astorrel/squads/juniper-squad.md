@@ -15,3 +15,9 @@
 ## Summary
 
 Juniper Squad are responsible for various aspects of the [Great Sile Woods](../../../places/forests/great-sile-woods.md), completing missions in and around it.
+
+## Changes
+
+| Session | Removed | Added | Details |
+|:---:| --- | --- | --- |
+| [AA14](../../../sessions/AA14.md) || [Reed Dovenby](../../../characters/reed-dovenby.md) | First encountered. |

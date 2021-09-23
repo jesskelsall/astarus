@@ -10,8 +10,8 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 
 | [Hannah](../players/hannah.md) | [Robin](../players/robin.md) | [Sam](../players/sam.md) | [Sheycara](../players/sheycara.md) |
 |:---:|:---:|:---:|:---:|
-| [Thanea Morlay](../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../characters/torbra-tauff.md) | [Wizira](../characters/wizira.md) |
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/b6ddf2e960574729.png" height="400" /> |
+| [Thanea Morlay](../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../characters/torbra-tauff.md) ||
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> |
 
 ## Format
 
@@ -30,6 +30,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 
 | Session(s) | Player | Character |
 | --- | --- | --- |
+| [PR00](../sessions/completed/PR00.md) - [PR35](../sessions/PR35.md) | [Sheycara](../players/sheycara.md) | [Wizira](../characters/wizira.md) |
 | [PR14](../sessions/completed/PR14.md) - [PR15](../sessions/completed/PR15.md) | [EvA](../players/eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) |
 | [PR26](../sessions/completed/PR26.md) | [Dan](../players/dan.md) | [Eremus Vitur](../characters/eremus-vitur.md) |
 | [PR26](../sessions/completed/PR26.md) | [Ian](../players/ian.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) |

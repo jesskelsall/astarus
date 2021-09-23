@@ -4,27 +4,29 @@
 
 |||
 | --- | --- |
-| **Name** | Thanea Morlay | character.3
+| **Name** | Thanea Morlay | character.4
 | **Lineage** | [Aasimar](../lineages/aasimar.md) (human) |
 | **Pronouns** | she/her |
 | **Age** | |
-| **Class** | Sorcerer |
+| **Class** | Sorcerer (Clockwork Soul) |
+| **Background** | |
 | **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Seraphina](seraphina.md) (deva) |
 | **Places** | Bootle (birthplace) |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
-| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
 |||
 | **Image ID** | `db42750c63a0a387`<br>`d6b2165277f78c23` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 
 TODO
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [PR21](../sessions/completed/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls
 
@@ -44,4 +46,6 @@ TODO
 | 4 | [PR19](../sessions/completed/PR19.md) | Sorcerer | d6 | 5 |
 | 5 | [PR30](../sessions/completed/PR30.md) | Sorcerer | d6 | 3 |
 
-## Backstory
+## History
+
+TODO

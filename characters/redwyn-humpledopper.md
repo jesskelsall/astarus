@@ -4,27 +4,29 @@
 
 |||
 | --- | --- |
-| **Name** | Redwyn Humpledopper | character.3
+| **Name** | Redwyn Humpledopper | character.4
 | **Lineage** | Dwarf |
 | **Pronouns** | she/her |
 | **Age** | 29 |
 | **Class** | Bard |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | Father Humpledopper (father, dead)<br>Mother Humpledopper (mother, dead)<br>Brother Humpledopper (brother) |
+| **Relations** | (father, dead)<br>(mother, dead)<br>(brother) |
 | **Places** | Carnmere |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
 |||
 | **Image ID** | `04a625d21baed3cb` |
 
 ## Summary
 
 Redwyn Humpledopper is a former player character in the [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign, played by [Logan](../players/logan.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [AA01](../sessions/completed/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA12](../sessions/completed/AA12.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) ||||
 
 ## Character Rolls
 
@@ -43,7 +45,7 @@ Redwyn Humpledopper is a former player character in the [Astorrel Agents](../cam
 | 3 | - | Bard | d8 | 6 |
 | 4 | - | Bard | d8 | 7 |
 
-## Backstory
+## History
 
 Redwyn Humpledopper was born in the town of Carnmere. They have a brother.
 

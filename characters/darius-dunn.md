@@ -62,8 +62,6 @@ Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/astorrel/asto
 
 ## History
 
-### Backstory
-
 Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme to escape his home life, graduating after only two years.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
