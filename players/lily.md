@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Lily Berry | player.3
+| **Name** | Lillian Berry | player.3
 | **Pronouns** | she/her |
 | **Country** | `US 🇺🇸` |
 | **Discord** | `well_actulily#0391` |

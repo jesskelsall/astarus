@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Sheycara Mae | player.3
+| **Name** | Sheycara Mae Both | player.3
 | **Pronouns** | she/her |
 | **Country** | `NL 🇳🇱` |
 | **Discord** | `Sheycara#9567` |

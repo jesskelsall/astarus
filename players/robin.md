@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Robin | player.3
+| **Name** | Robin Berghmans | player.3
 | **Pronouns** | she/her |
 | **Country** | `BE 🇧🇪` |
 | **Discord** | `TheRobinRose#2677` |
