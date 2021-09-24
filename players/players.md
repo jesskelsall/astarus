@@ -20,7 +20,7 @@
 | [Robin](robin.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Purple Rain](../campaigns/C1-purple-rain.md) |
 | [Sam](sam.md) | [Torbra Tauff](../characters/torbra-tauff.md) | [Purple Rain](../campaigns/C1-purple-rain.md) |
 | [Scott](scott.md) | [Tarpher Forestcaller](../characters/tarpher-forestcaller.md) | Guest |
-| [Sheycara](sheycara.md) | [Wizira](../characters/wizira.md) | [Purple Rain](../campaigns/C1-purple-rain.md) |
+| [Sheycara](sheycara.md) | [Wizira](../characters/wizira.md)<br>[Lucia Velpione](../characters/lucia-velpione.md) | [Purple Rain](../campaigns/C1-purple-rain.md) |
 | [Sophie](sophie.md) | [Marik Kaligavone](../characters/marik-kaligavone.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |
 | [Tiva](tiva.md) | [Brian](../characters/brian.md) | Guest |
 | [Viktorija](viktorija.md) | [Valan Shadowgaze](../characters/valan-shadowgaze.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |

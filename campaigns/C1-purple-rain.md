@@ -10,8 +10,8 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 
 | [Hannah](../players/hannah.md) | [Robin](../players/robin.md) | [Sam](../players/sam.md) | [Sheycara](../players/sheycara.md) |
 |:---:|:---:|:---:|:---:|
-| [Thanea Morlay](../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../characters/torbra-tauff.md) ||
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> |
+| [Thanea Morlay](../characters/thanea-morlay.md) | [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Torbra Tauff](../characters/torbra-tauff.md) | [Lucia Velpione](../characters/lucia-velpione.md) |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/db42750c63a0a387.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/96456245c79828b5.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c275fac3807fe83b.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/72769c9dcc8dca52.png" height="400" /> |
 
 ## Format
 
