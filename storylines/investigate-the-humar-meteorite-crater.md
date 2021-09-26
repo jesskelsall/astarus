@@ -15,7 +15,7 @@
 | --- | --- |
 | **Given To** | [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
 | **Given By** | [Elysia Vanderboss](../characters/elysia-vanderboss.md) |
-| **Goal** | Search for more evidence of [the meteorics](../lineages/the-meteorics.md) at the [Humar Meteorite](../items/meteoric/meteorites/humar-meteorite.md) crater. |
+| **Goal** | Search for more evidence of [the meteorics](../lineages/the-meteorics.md) at the [Humar Meteorite crater](../places/rivers-lakes/humar-meteorite-crater.md). |
 | **Evidence Required** | Any meteoric evidence available. |
 | **Time Limit** | 7 days |
 | **Reward** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md): 20 gp<br>[Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md): 15 gp |
@@ -72,7 +72,7 @@ The party camp on drier northern terrain away from the swampier areas in the sou
 
 #### Day 5
 
-Having casts Locate Object again the night before, the party follow [Wizira](../characters/wizira.md)'s diving rod north-northwest. After only an hour they arrive on the edge of a large round lake - the [Humar Meteorite](../items/meteoric/meteorites/humar-meteorite.md) crater.
+Having casts Locate Object again the night before, the party follow [Wizira](../characters/wizira.md)'s diving rod north-northwest. After only an hour they arrive on the edge of a large round lake - the [Humar Meteorite crater](../places/rivers-lakes/humar-meteorite-crater.md).
 
 [Wizira](../characters/wizira.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) look out over the crater, finding it to be round and disrespectful of the undulating terrain around it. [Torbra Tauff](../characters/torbra-tauff.md) examines the shore line, finding the same almost carved banks and a lack of reeds that indicate a steadily increasing depth.
 
@@ -80,12 +80,24 @@ When [Wizira](../characters/wizira.md) casts Detect Magic and finds nothing she 
 
 A giant crocodile breaches the surface of the water right next to [Wizira](../characters/wizira.md), fitting part of her into its mouth.
 
+### [PR35](../sessions/completed/PR35.md)
+
+The giant crocodile bites down hard on [Wizira](../characters/wizira.md), doing her great damage and pulling her underwater. When she tries to escape it knocks her unconscious with its tail. [Torbra Tauff](../characters/torbra-tauff.md) swims into the lake to defend her. She is able to use her Stone Rune to subdue the crocodile, giving her a chance to pull [Wizira](../characters/wizira.md) to the shore.
+
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) tries to summon radiant wings but is only able to summon her usual Necrotic Shroud, frightening [Thanea Morlay](../characters/thanea-morlay.md) and preventing her from acting quickly in support of Torbra and [Wizira](../characters/wizira.md).
+
+As Torbra pulls [Wizira](../characters/wizira.md) to the shore, the crocodile regains its mobility and swims over. It makes a large bite at [Wizira](../characters/wizira.md), snapping her torso while spinning her around, killing her. Her lifeless body splashes into the water. Saoirse blasts the crocodile away but it is able to circle back and take [Wizira](../characters/wizira.md) from Torbra who pulled her body ashore.
+
+As the crocodile swims back into the lake with her body, Torbra and Thanea do their best to destroy it, but aren't able to land a killing blow. It makes off for the depths, disappearing from sight.
+
+Distraught by the death of their friend, the party regroups and works through their anguish. [Montel Leithran](../characters/montel-leithran.md) expresses his regret at not being able to do anything to help, but Saoirse and Thanea reassure him that it is okay. Torbra finds [Wizira's Staff](../items/wiziras-staff.md) on the shoreline, taking it to the party, clutching it like a sacred artifact.
+
 ## Planning
 
 ### [Purple Rain](../campaigns/C1-purple-rain.md)
 
 In order to get onto Humar Estuary by land, [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will need to pass through Fort Eldrick. The [Astornox](../organisations/astornox/astornox.md) stationed there do not like the [Astorrel](../organisations/astorrel/astorrel.md) and their incessant coming and going. It will be a challenge to even get onto the estuary.
 
-[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Humar Meteorite](../items/meteoric/meteorites/humar-meteorite.md) crater on Humar Estuary. It is much larger than the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) crater, suggesting a larger [meteorite](../items/meteoric/meteorite.md). The crater is waterlogged and very deep.
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Humar Meteorite crater](../places/rivers-lakes/humar-meteorite-crater.md) on Humar Estuary. It is much larger than the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) crater, suggesting a larger [meteorite](../items/meteoric/meteorite.md). The crater is waterlogged and very deep.
 
 A larger [meteorite](../items/meteoric/meteorite.md) can be found at the bottom of the crater, showing the same cracks as the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md). There is no sign of any creatures.

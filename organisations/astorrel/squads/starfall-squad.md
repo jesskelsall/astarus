@@ -29,4 +29,4 @@ Starfall Squad is the [Astorrel](../astorrel.md) squad that the party members of
 |:---:| --- | --- | --- |
 | [PR21](../../../sessions/completed/PR21.md) || [Saoirse ó Dochartaigh](../../../characters/saoirse-o-dochartaigh.md)<br>[Thanea Morlay](../../../characters/thanea-morlay.md)<br>[Torbra Tauff](../../../characters/torbra-tauff.md)<br>[Wizira](../../../characters/wizira.md) | Squad formed.<br>[Elysia Vanderboss](../../../characters/elysia-vanderboss.md) becomes commanding officer. |
 | [PR27](../../../sessions/completed/PR27.md) ||| [Torbra Tauff](../../../characters/torbra-tauff.md) promoted to [Astorrel Squad Lead](../ranks/astorrel-squad-lead.md). |
-| [PR35](../../../sessions/PR35.md) | [Wizira](../../../characters/wizira.md) || Died during mission:<br>[Investigate the Humar Meteorite Crater](../../../storylines/investigate-the-humar-meteorite-crater.md). |
+| [PR35](../../../sessions/completed/PR35.md) | [Wizira](../../../characters/wizira.md) || Died during mission:<br>[Investigate the Humar Meteorite Crater](../../../storylines/investigate-the-humar-meteorite-crater.md). |

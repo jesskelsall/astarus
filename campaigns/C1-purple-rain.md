@@ -30,7 +30,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 
 | Session(s) | Player | Character |
 | --- | --- | --- |
-| [PR00](../sessions/completed/PR00.md) - [PR35](../sessions/PR35.md) | [Sheycara](../players/sheycara.md) | [Wizira](../characters/wizira.md) |
+| [PR00](../sessions/completed/PR00.md) - [PR35](../sessions/completed/PR35.md) | [Sheycara](../players/sheycara.md) | [Wizira](../characters/wizira.md) |
 | [PR14](../sessions/completed/PR14.md) - [PR15](../sessions/completed/PR15.md) | [EvA](../players/eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) |
 | [PR26](../sessions/completed/PR26.md) | [Dan](../players/dan.md) | [Eremus Vitur](../characters/eremus-vitur.md) |
 | [PR26](../sessions/completed/PR26.md) | [Ian](../players/ian.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) |
@@ -77,7 +77,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR32](../sessions/completed/PR32.md) | 2021-08-11 | *Estuary Escapades* |
 | [PR33](../sessions/completed/PR33.md) | 2021-08-18 | *Esme* |
 | [PR34](../sessions/completed/PR34.md) | 2021-09-01 | *Searching for the Crater* |
-| [PR35](../sessions/PR35.md) | 2021-09-22 | *Death Lurking Below* |
+| [PR35](../sessions/completed/PR35.md) | 2021-09-22 | *Death Lurking Below* |
 ||
 | [PR36](../sessions/upcoming/PR36.md) | 2021-09-29 | |
 | [PR37](../sessions/upcoming/PR37.md) | 2021-10-06 | |
@@ -111,3 +111,4 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [How to Summon Your Dragon](../storylines/how-to-summon-your-dragon.md) | [PR30](../sessions/completed/PR30.md) | |
 | [Investigate the Humar Meteorite Crater](../storylines/investigate-the-humar-meteorite-crater.md) | [PR30](../sessions/completed/PR30.md) | |
 | [Giving Esme a Childhood](../storylines/giving-esme-a-childhood.md) | [PR32](../sessions/completed/PR32.md) | |
+| [Wizira Dies](../storylines/wizira-dies.md) | [PR35](../sessions/completed/PR35.md) | |

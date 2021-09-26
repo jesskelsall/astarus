@@ -36,8 +36,16 @@ The party agree to bring Montel and Esme with them as they continue their missio
 
 ### [PR34](../sessions/completed/PR34.md)
 
-[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) continue their search for the [Humar Meteorite](../items/meteoric/meteorites/humar-meteorite.md) crater with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md).
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) continue their search for the [Humar Meteorite crater](../places/rivers-lakes/humar-meteorite-crater.md) with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md).
 
 Along the way they witness many instances of Esme amusing herself as best as she can while Montel keeps her mind off their barren surroundings. During the evening while camping [Torbra Tauff](../characters/torbra-tauff.md) plays sword fighting with Esme using sticks. Montel remarks that Esme will likely want to be an adventurer after the pair's time spent with the party on the Humar Estuary.
 
 When [Thanea Morlay](../characters/thanea-morlay.md) suggests that Montel and Esme keep a good distance to avoid incoming danger, Montel gets panicked, now married to the idea of staying as close to [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) as possible until they get out of the estuary. He again reiterates his unwillingness to fight and his plan to flee with Esme at the first sign of danger.
+
+### [PR35](../sessions/completed/PR35.md)
+
+During the fight with the giant crocodile at the [Humar Meteorite Crater](../places/rivers-lakes/humar-meteorite-crater.md), [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) keep their distance and hide in the nearby grass.
+
+When the fight ends and it becomes clear that [Wizira](../characters/wizira.md) has died, Montel returns to the party, apologising for not being able to do more. [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) tell him that it's not his fault. Esme is crying due to taking emotional cues from her father.
+
+When the party hug, Esme hugs [Torbra Tauff](../characters/torbra-tauff.md)'s leg. She takes Esme in her lap. When Esme asks where [Wizira](../characters/wizira.md) is, Torbra breaks the news to her before Esme tells Montel that it is just like her mother ([Vensys Leithran](../characters/vensys-leithran.md)).

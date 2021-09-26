@@ -27,7 +27,7 @@ Wizira was a player character in the [Purple Rain](../campaigns/C1-purple-rain.m
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
 | [PR21](../sessions/completed/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
-| [PR35](../sessions/PR35.md) | *Dead.* ||||
+| [PR35](../sessions/completed/PR35.md) | *Dead.* ||||
 
 ## Character Rolls
 
