@@ -4,14 +4,14 @@
 
 |||
 | --- | --- |
-| **Name** | [Zarrus Maleron](../zarrus-maleron.md) | character.4
+| **Name** | Zarrus Maleron | character.4
 | **Lineage** | Tiefling |
 | **Pronouns** | he/they |
 | **Age** | 23 |
 | **Class** | Druid (Circle of the Stars) |
 | **Worship** | |
 | **Relations** | Emilia Maleron (mother, human)<br>Zolash Maleron (father, tiefling)<br>Reverence Maleron (older sister, tiefling, 26)<br>Nenith Jadehide (friend, ex-employer)<br>Giridrid Jadehide (friend)<br>Perace Teamouse (employee: cook) |
-| **Places** | [Valley Under the Stars](../../places/buildings/inns-taverns/valley-under-the-stars.md) (innkeeper, owner) |
+| **Places** | Valley Under the Stars (innkeeper, owner) |
 | **Citizenship** | |
 | **Organisation(s)** | |
 |||
@@ -19,15 +19,15 @@
 
 ## Summary
 
-[Zarrus Maleron](../zarrus-maleron.md) is my second player character in The Fog of War, a campaign ran by [Ian](../../players/ian.md). He succeeds Daardendrian Strosa.
+Zarrus Maleron is my second player character in The Fog of War, a campaign ran by Ian. He succeeds Daardendrian Strosa.
 
 ## Character Rolls
 
 ### Ability Scores
 
-| [Ability Score Method](../../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| Ability Score Method | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [4d6 Method](../../mechanics/ability-score-method/4d6-method.md) | 15 | 14 | 12 | 11 | 10 | 6 | 68 |
+| 4d6 Method | 15 | 14 | 12 | 11 | 10 | 6 | 68 |
 
 ### Hit Points
 
@@ -65,7 +65,7 @@
 
 ## History
 
-[Zarrus Maleron](../zarrus-maleron.md) is originally from [affluent city] on [tiefling continent]. Born to Emilia Maleron (mother, human) and Zolash Maleron (father, tiefling), and with an older sister, Reverence Maleron (tiefling, 26).
+Zarrus Maleron is originally from [affluent city] on [tiefling continent]. Born to Emilia Maleron (mother, human) and Zolash Maleron (father, tiefling), and with an older sister, Reverence Maleron (tiefling, 26).
 
 Due to his father's position as a prominent politician, Zarrus was afforded an affluent upbringing. He lived in comfort in the family home within the city, receiving private tutorship which included etiquette, reading & writing common & elvish, and weapon sparring. In his spare time he would read books about far off lands and stargaze, eventually forming an inexplicable magical connection to the stars above. Through this he is able to command minor magical effects at will.
 
@@ -77,7 +77,7 @@ Initially he found success as a barkeep in The Jade Axe in [town/city not yet vi
 
 Zarrus spent 2 years toiling away at his job, saving as much money as he could, rarely leaving the inn. During this time his reputation as "the blue tiefling" began to grow, bringing people to the inn who wished to experience his uniqueness and strangeness, both as a tiefling and as a person - his manners and mannerisms proved popular.
 
-When Zarrus shared with Nenith his plan to buy his own inn so he could prove himself as a successful business owner, Nenith and his wife Giridrid were supportive and encouraging. Showing their true colours as his only real friends in this world, they gifted him a sizeable amount of gold. Combined with his own there was now enough to buy an inn and get thing set up. He wasted no time, buying an inn in [town] and naming it [Valley Under the Stars](../../places/buildings/inns-taverns/valley-under-the-stars.md).
+When Zarrus shared with Nenith his plan to buy his own inn so he could prove himself as a successful business owner, Nenith and his wife Giridrid were supportive and encouraging. Showing their true colours as his only real friends in this world, they gifted him a sizeable amount of gold. Combined with his own there was now enough to buy an inn and get thing set up. He wasted no time, buying an inn in [town] and naming it Valley Under the Stars.
 
 One year later, the inn is thriving, enjoying steady customers. Zarrus has been able to set the inn up as a premium destination, attentively catering to his guests' accommodation and culinary needs. He has recently hired a cook, Perace Teamouse (he/him, halfling), who is now preparing all of Zarrus' signature dishes and allowing him to focus his attention on other parts of the inn.
 
@@ -85,6 +85,6 @@ Zarrus prides himself on how far he has come. His persona as "the blue tiefling"
 
 ### Introduction
 
-- The party will get to stay at [Valley Under the Stars](../../places/buildings/inns-taverns/valley-under-the-stars.md), showcasing the inn and Zarrus' hospitality. Food and accommodation is comfortable quality.
+- The party will get to stay at Valley Under the Stars, showcasing the inn and Zarrus' hospitality. Food and accommodation is comfortable quality.
 - A fire will engulf the building, destroying it. There is no one at fault - shit just sometimes happens. Perace Teamouse will be killed in the fire.
 - Zarrus will set out to return to The Jade Axe to get his old job back, defeated by the loss of his inn.
