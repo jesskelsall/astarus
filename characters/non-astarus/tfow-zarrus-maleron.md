@@ -1,4 +1,4 @@
-# Zarrus Maleron - The Fog of War
+# Zarrus Maleron (The Fog of War)
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/1ae2de2399ee701b.png" height="500" />
 

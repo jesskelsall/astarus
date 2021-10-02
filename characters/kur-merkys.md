@@ -24,7 +24,7 @@
 
 ## Summary
 
-Kur Merkys is an [Astorrel](../organisations/astorrel/astorrel.md) Hunter based out of [Northhaven](../places/cities/northhaven.md).
+Kur Merkys is an [Astornox magicborn hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) based out of [Northhaven](../places/cities/northhaven.md).
 
 ## Characteristics
 

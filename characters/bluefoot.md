@@ -5,10 +5,10 @@
 |||
 | --- | --- |
 | **Name** | Bluefoot | character.3
-| **Lineage** | Firbolg (Circle of the Land, Forest) |
+| **Lineage** | Firbolg |
 | **Pronouns** | he/him |
 | **Age** | 217 |
-| **Class** | Druid |
+| **Class** | Druid (Circle of the Land, Forest) |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
 | **Places** | [Hawkswood](../places/forests/hawkswood.md) (birthplace) |
