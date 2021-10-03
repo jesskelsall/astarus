@@ -78,10 +78,11 @@ Squads are sent out across the kingdom to check up on activities and investigate
 
 While out on missions, they are completely autonomous and may not have any contact with other Astorrel due to how few members there are. As a result Astorrel are expected to be resourceful and resilient.
 
-### Known Squads
+### Notable Squads
 
-- [Astral Squad](squads/astral-squad.md)
+- [Starfall Squad](squads/starfall-squad.md)
 - [Canary Squad](squads/canary-squad.md)
+- [Astral Squad](squads/astral-squad.md)
 - [Ruby Squad](squads/ruby-squad.md)
 - [Goshawk Squad](squads/goshawk-squad.md)
 
