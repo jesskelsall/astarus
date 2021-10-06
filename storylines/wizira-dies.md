@@ -22,3 +22,13 @@ As Torbra pulls [Wizira](../characters/wizira.md) to the shore, the crocodile re
 As the crocodile swims back into the lake with her body, Torbra and Thanea do their best to destroy it, but aren't able to land a killing blow. It makes off for the depths, disappearing from sight.
 
 Distraught by the death of their friend, the party regroups and works through their anguish. [Montel Leithran](../characters/montel-leithran.md) expresses his regret at not being able to do anything to help, but Saoirse and Thanea reassure him that it is okay. Torbra finds [Wizira's Staff](../items/wiziras-staff.md) on the shoreline, taking it to the party, clutching it like a sacred artifact.
+
+### [PR36](../sessions/completed/PR36.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) return to [Northhaven](../places/cities/northhaven.md) to inform [Elysia Vanderboss](../characters/elysia-vanderboss.md) that they are now unable to complete their mission ([Investigate the Humar Meteorite Crater](ended/investigate-the-humar-meteorite-crater.md)).
+
+Elysia initially swears when [Torbra Tauff](../characters/torbra-tauff.md) breaks the news to her, but otherwise doesn't react poorly. During debrief she calls [Wizira](../characters/wizira.md)'s death "unfortunate", angering [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) who dislikes her cold attitude. Elysia tells them that [Astorrel squad hands](../organisations/astorrel/ranks/astorrel-squad-hand.md) do die in the field occasionally.
+
+With the failure of their mission, Elysia worries that Phenomena / Meteoric may get dissolved, but if she retains her role as [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) she will acquire [Wizira](../characters/wizira.md)'s replacement, bringing the squad back up to four members.
+
+Before the squad begin two days of downtime between missions, Elysia provides [Torbra Tauff](../characters/torbra-tauff.md) with a letter ([PR36-L-1](../letters/PR36-L-1.md)) addressed to [Wizira](../characters/wizira.md). Torbra swears when she reads the name before pocketing the letter.

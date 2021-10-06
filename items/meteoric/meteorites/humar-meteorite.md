@@ -4,7 +4,7 @@
 | --- | --- |
 | **Landing Date** | 311-4-12 | meteor.1
 | **Landing Location** | Humar Estuary |
-| **Closest Settlement** | Fort Eldrick |
+| **Closest Settlement** | [Fort Eldrick](../../../places/forts/fort-eldrick.md) |
 | **Produced** | *Unknown.* |
 | **[Meteoridis](../../../mechanics/roleplay/meteoridis.md)** | *Unknown.* |
 | **Found By** | *Unknown.* |

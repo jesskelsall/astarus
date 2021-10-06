@@ -28,4 +28,4 @@
 
 [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../../creatures/meteoric-watcher.md).
 
-The main challenge will be an unforgiving environment filled with wolves and owlbears. [Meteoric watchers](../../creatures/meteoric-watcher.md) on patrol may intercept them before they find the crater, especially if [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) is still cursed with [Meteoridis](../../mechanics/roleplay/meteoridis.md).
+The main challenge will be an unforgiving environment filled with wolves and owlbears. [Meteoric watchers](../../creatures/meteoric-watcher.md) on patrol may intercept them before they find the crater.

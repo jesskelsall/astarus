@@ -78,8 +78,9 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR33](../sessions/completed/PR33.md) | 2021-08-18 | *Esme* |
 | [PR34](../sessions/completed/PR34.md) | 2021-09-01 | *Searching for the Crater* |
 | [PR35](../sessions/completed/PR35.md) | 2021-09-22 | *Death Lurking Below* |
+| [PR36](../sessions/completed/PR36.md) | 2021-09-29 | *Accepting Defeat* |
+| [PR36T](../sessions/PR36T.md) | 2021-10-03 | *An Audience with the General Supreme* |
 ||
-| [PR36](../sessions/upcoming/PR36.md) | 2021-09-29 | |
 | [PR37](../sessions/upcoming/PR37.md) | 2021-10-06 | |
 
 ## Storylines
@@ -109,6 +110,6 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Tyburn's Scrying Pool](../storylines/tyburns-scrying-pool.md) | [PR27](../sessions/completed/PR27.md) | |
 | [Talk to the Morning Chasers](../storylines/ended/talk-to-the-morning-chasers.md) | [PR27](../sessions/completed/PR27.md) | [PR30](../sessions/completed/PR30.md) |
 | [How to Summon Your Dragon](../storylines/how-to-summon-your-dragon.md) | [PR30](../sessions/completed/PR30.md) | |
-| [Investigate the Humar Meteorite Crater](../storylines/investigate-the-humar-meteorite-crater.md) | [PR30](../sessions/completed/PR30.md) | |
+| [Investigate the Humar Meteorite Crater](../storylines/ended/investigate-the-humar-meteorite-crater.md) | [PR30](../sessions/completed/PR30.md) | [PR36](../sessions/completed/PR36.md) |
 | [Giving Esme a Childhood](../storylines/giving-esme-a-childhood.md) | [PR32](../sessions/completed/PR32.md) | |
 | [Wizira Dies](../storylines/wizira-dies.md) | [PR35](../sessions/completed/PR35.md) | |

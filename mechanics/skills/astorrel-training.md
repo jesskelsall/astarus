@@ -43,3 +43,12 @@ Player characters can periodically be awarded with an incremental increase to th
 | [Wizira](../../characters/wizira.md) | [PR21](../../sessions/completed/PR21.md) | 15 | +2 | 1 | -5 | | **-3** |
 | [Noon Schiller](../../characters/noon-schiller.md) | [AA09](../../sessions/completed/AA09.md) | 16 | +3 | 1 | -5 | | **-2** |
 | [Yialdred Korina](../../characters/yialdred-korina.md) | [AA11](../../sessions/completed/AA11.md) | 15 | +2 | 17 | +3 | +2 (proficient) | **+8** |
+| [Lucia Velpione](../../characters/lucia-velpione.md) | [PR36](../../sessions/completed/PR36.md) | 10 | +0 | 13 | +1 | +1 (half proficient) | **+2** |
+
+### Changes
+
+| After Session | Character | Old Modifier | New Modifier | Total Modifier |
+|:---:| --- |:---:|:---:|:---:|
+| [PR36](../../sessions/completed/PR36.md) | [Torbra Tauff](../../characters/torbra-tauff.md) | -4 | -3 | **-3** |
+| [PR36](../../sessions/completed/PR36.md) | [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) | +0 | +1 | **+2** |
+| [PR36T](../../sessions/PR36T.md) | [Thanea Morlay](../../characters/thanea-morlay.md) | -2 | -1 | **0** |

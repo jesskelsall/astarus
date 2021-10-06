@@ -57,7 +57,7 @@ Journey value can be thought of as the base cost of the distance and route type.
 | ***West***
 | [Blittergate](../places/towns/blittergate.md) | 114 mi | 129 |
 | Carnmere | 84 mi | 105 |
-| Fort Eldrick | 30 mi | 45 |
+| [Fort Eldrick](../places/forts/fort-eldrick.md) | 30 mi | 45 |
 | Hartsgarth | 66 mi | 78 |
 | [Hyceodd](../places/towns/hyceodd.md) | 72 mi | 75 |
 | Silethwaite | 162 mi | 177 |

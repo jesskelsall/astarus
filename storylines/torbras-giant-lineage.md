@@ -129,3 +129,9 @@ Montel also explains that his wife and Esme's mother is of elven descent like hi
 Torbra expressed her wish to see them relocated somewhere safe so that Esme could have a childhood. She offers Iredale, her home town, to Montel who appears to like Torbra's description of the place, it's people, and their tolerance for her during her upbringing there.
 
 The party agrees to bring Montel and Esme with them while they complete their [Astorrel](../organisations/astorrel/astorrel.md) mission. They will help guide them out of the Humar Estuary.
+
+### [PR36](../sessions/completed/PR36.md)
+
+At the start of her downtime in [Northhaven](../places/cities/northhaven.md) [Torbra Tauff](../characters/torbra-tauff.md) goes to [Hawk's Perch](../places/buildings/hawks-perch.md) to do further research. Now aware of the word "genasi" she searches for references to it.
+
+She is drawn back to [Humanoids and Rare Varieties](../items/books/humanoids-and-rare-varieties.md), particularly the 5th volume. With the hour she has before the library closes she comes to the realisation that the story about [Simanelli Tyrol](../characters/simanelli-tyrol.md) heavily implies he was a water genasi.

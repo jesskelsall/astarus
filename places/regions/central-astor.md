@@ -36,7 +36,7 @@ To the kingdom's western most reaches is territory that is still classified as p
   - [Humouth](../villages/humouth.md)
   - [Ulburn](../villages/ulburn.md)
 - Forts:
-  - Fort Eldrick
+  - [Fort Eldrick](../forts/fort-eldrick.md)
   - Fort Knowe
 - Roads:
   - [Coastal Trail](../roads/coastal-trail.md)

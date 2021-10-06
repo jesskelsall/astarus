@@ -79,6 +79,12 @@ The pair discuss how she was able to do it. Saoirse describes a radiant warmth i
 
 This confirms to the pair that they are of a similar kind.
 
+### [PR36](../sessions/completed/PR36.md)
+
+[Thanea Morlay](../characters/thanea-morlay.md) receives a letter ([PR36-L-3](../letters/PR36-L-3.md)) inviting her to an audience with [Corville Thornox](../characters/corville-thornox.md), General Supreme of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). It states that he wishes to discuss [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s performance in [Nature's Battle 28](ended/natures-battle-28.md), but this is a half-truth.
+
+Thanea accidentally activates the letter, causing the magic within it to teleport her into the Tower of Ast.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will use Message to communicate with [Ahsha Sallas](../characters/ahsha-sallas.md), scolding her for ruining her plans and putting [Thanea Morlay](../characters/thanea-morlay.md) in great danger, now that the [Astornar](../organisations/astornar.md) know that a Veritacris has interest in her.
