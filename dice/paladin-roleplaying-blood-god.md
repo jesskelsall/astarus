@@ -23,6 +23,6 @@
 | **d12** | 1 |
 | **d20** | 2 |
 ||
-| **Associations** | [Daardendrian Strosa - The Fog of War](../characters/non-astarus/daardendrian-strosa.md) |
+| **Associations** | [Daardendrian Strosa - The Fog of War](../characters/non-astarus/tfow-daardendrian-strosa.md) |
 ||
 | **Image ID** | `2481904e83cba940` |

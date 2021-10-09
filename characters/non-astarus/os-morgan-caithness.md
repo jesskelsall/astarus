@@ -1,4 +1,4 @@
-# Morgan Caithness (Oneshots)
+# Morgan Caithness - Oneshots
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/e7a36c7e28f97107.png" height="500" />
 

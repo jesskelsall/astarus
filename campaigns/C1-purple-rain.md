@@ -1,6 +1,6 @@
 # Purple Rain
 
-*Purple Rain* is the first long term campaign set in the [Astarus](../planes/astarus.md) campaign setting.
+*Purple Rain* is the first long term campaign set in the [Astarus](../planes/astarus.md) homebrew setting.
 
 ## Premise
 
@@ -79,7 +79,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR34](../sessions/completed/PR34.md) | 2021-09-01 | *Searching for the Crater* |
 | [PR35](../sessions/completed/PR35.md) | 2021-09-22 | *Death Lurking Below* |
 | [PR36](../sessions/completed/PR36.md) | 2021-09-29 | *Accepting Defeat* |
-| [PR36T](../sessions/PR36T.md) | 2021-10-03 | *An Audience with the General Supreme* |
+| [PR36T](../sessions/completed/PR36T.md) | 2021-10-03 | *An Audience with the General Supreme* |
 ||
 | [PR37](../sessions/upcoming/PR37.md) | 2021-10-06 | |
 

@@ -1,4 +1,4 @@
-# Ophelia Phantom (Oneshots)
+# Ophelia Phantom - Oneshots
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/55c516b3fc870b24.png" height="500" />
 

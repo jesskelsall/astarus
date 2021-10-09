@@ -1,4 +1,4 @@
-# Bluefoot (Oneshots)
+# Bluefoot - Oneshots
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/c13024bd9a3e931c.png" height="500" />
 

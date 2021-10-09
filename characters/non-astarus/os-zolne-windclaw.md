@@ -1,4 +1,4 @@
-# Zolné Windclaw (Oneshots)
+# Zolné Windclaw - Oneshots
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/4f524e26b1945fb0.png" height="500" />
 

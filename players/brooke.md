@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Brooke | player.3
+| **Name** | Brooke Connell | player.3
 | **Pronouns** | they/she |
 | **Country** | `US 🇺🇸` |
 | **Discord** | `Brookealeen#9511` |

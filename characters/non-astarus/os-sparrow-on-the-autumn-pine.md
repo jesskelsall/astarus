@@ -1,4 +1,4 @@
-# Sparrow on the Autumn Pine (Oneshots)
+# Sparrow on the Autumn Pine - Oneshots
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/41e0b0962f18eb6b.png" height="500" />
 

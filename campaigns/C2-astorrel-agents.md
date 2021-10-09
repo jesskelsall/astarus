@@ -1,6 +1,6 @@
 # Astorrel Agents
 
-*Astorrel Agents* is the second long term campaign set in the [Astarus](../planes/astarus.md) campaign setting.
+*Astorrel Agents* is the second long term campaign set in the [Astarus](../planes/astarus.md) homebrew setting.
 
 ## Premise
 

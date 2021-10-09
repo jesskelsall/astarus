@@ -51,4 +51,4 @@ Player characters can periodically be awarded with an incremental increase to th
 |:---:| --- |:---:|:---:|:---:|
 | [PR36](../../sessions/completed/PR36.md) | [Torbra Tauff](../../characters/torbra-tauff.md) | -4 | -3 | **-3** |
 | [PR36](../../sessions/completed/PR36.md) | [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) | +0 | +1 | **+2** |
-| [PR36T](../../sessions/PR36T.md) | [Thanea Morlay](../../characters/thanea-morlay.md) | -2 | -1 | **0** |
+| [PR36T](../../sessions/completed/PR36T.md) | [Thanea Morlay](../../characters/thanea-morlay.md) | -2 | -1 | **0** |

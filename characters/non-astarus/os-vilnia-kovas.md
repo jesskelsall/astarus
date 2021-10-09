@@ -1,4 +1,4 @@
-# Vilnia Kovas (Oneshots)
+# Vilnia Kovas - Oneshots
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/50e8e14dbe105dba.png" height="500" />
 

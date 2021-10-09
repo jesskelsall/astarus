@@ -1,4 +1,4 @@
-# Allisa Balsatra (Oneshots)
+# Allisa Balsatra - Oneshots
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/acae3c3cdd6dddcb.png" height="500" />
 

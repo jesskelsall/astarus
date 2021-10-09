@@ -1,4 +1,4 @@
-# Penance Zahiri (Oneshots)
+# Penance Zahiri - Oneshots
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/1c019d0a10e8341a.png" height="500" />
 
