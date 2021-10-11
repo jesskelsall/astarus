@@ -12,7 +12,7 @@
 
 | Session | Date |
 |---| --- |
-| [RA01](../sessions/oneshots/RA01.md) | 2021-10-09 |
+| [RA01A](../sessions/oneshots/RA01.md) | 2021-10-09 |
 
 ---
 
