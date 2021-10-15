@@ -16,5 +16,5 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| *DM* | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/completed/PR00.md) - |
-| *DM* | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) | [AA00](../sessions/completed/AA00.md) - |
+| *DM* | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/PR00.md) - |
+| *DM* | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) | [AA00](../sessions/AA00.md) - |

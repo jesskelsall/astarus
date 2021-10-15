@@ -26,8 +26,8 @@ Whisper on the Breeze is a former player character in the [Astorrel Agents](../c
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [AA01](../sessions/completed/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
-| [AA07](../sessions/completed/AA07.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) | [Emdar Silverstrike](emdar-silverstrike.md) ||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA07](../sessions/AA07.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) | [Emdar Silverstrike](emdar-silverstrike.md) ||
 
 ## Character Rolls
 

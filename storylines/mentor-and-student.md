@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC01F](../sessions/completed/MC01F.md) | storyline.2
+| **Session Started** | [MC01F](../sessions/MC01F.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@ When [Valan Shadowgaze](../characters/valan-shadowgaze.md) accepts an invite to 
 
 ## History
 
-### [MC01F](../sessions/completed/MC01F.md)
+### [MC01F](../sessions/MC01F.md)
 
 When [Valan Shadowgaze](../characters/valan-shadowgaze.md) accepts an offer to join [Familia Vulpes](../organisations/familia-vulpes.md), they are introduced that same day to [Vētrall Astérr](../characters/vetrall-asterr.md), their mentor. Vētrall was informed by [Hanz Peacemaker](../characters/hanz-peacemaker.md) that the adventuring guild had thought them experienced and respected enough to take a student under their wing, though they felt like a bad fit for the job.
 
@@ -27,6 +27,6 @@ The pair worked together to defeat the brown bear outside of its cave. Vētrall 
 
 The pair were paid 10 gp each for their efforts and secured 20 gp for [Familia Vulpes](../organisations/familia-vulpes.md). With that they both earned their coins. Going forward it would be up to Vētrall to decide where they go and what they do.
 
-### [MC02](../sessions/completed/MC02.md)
+### [MC02](../sessions/MC02.md)
 
 On their first full day in [Starnov](../places/cities/starnov.md), [Vētrall Astérr](../characters/vetrall-asterr.md) orders [Valan Shadowgaze](../characters/valan-shadowgaze.md) to find them adventuring work. Valan is unhappy at Vētrall, pointing out the hypocrisy of a lesson without supervision. Vētrall explains it away as their teaching style, not letting on to their need for some alone time to visit the [Nilus Vaults](../places/buildings/government/nilus-vaults.md).

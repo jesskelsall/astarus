@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Sarleen Truestriker](../characters/sarleen-truestriker.md) | Guest | [PR14](../sessions/completed/PR14.md) - [PR15](../sessions/completed/PR15.md) |
+| [Sarleen Truestriker](../characters/sarleen-truestriker.md) | Guest | [PR14](../sessions/PR14.md) - [PR15](../sessions/PR15.md) |

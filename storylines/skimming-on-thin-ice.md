@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC03](../sessions/completed/MC03.md) | storyline.2
+| **Session Started** | [MC03](../sessions/MC03.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [MC03](../sessions/completed/MC03.md)
+### [MC03](../sessions/MC03.md)
 
 Immediately after escaping the [Republic Guard](../organisations/guards/republic-guard.md) jail in [Côtedouce](../places/towns/cotedouce.md), [Grouper](../characters/grouper.md) pulls the party into a building to speak with them, hiding them from the guards in the process.
 

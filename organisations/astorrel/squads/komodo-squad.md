@@ -20,4 +20,4 @@ Komodo Squad is from the same [Astorrel](../astorrel.md) graduate cohort as [Can
 
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
-| [AA09](../../../sessions/completed/AA09.md) || [Eremus Vitur](../../../characters/eremus-vitur.md)<br>[Faelon Fireburner](../../../characters/faelon-fireburner.md)<br>[Tarpher Forestcaller](../../../characters/tarpher-forestcaller.md)<br>[Uther Wildfang](../../../characters/uther-wildfang.md) | First encountered. |
+| [AA09](../../../sessions/AA09.md) || [Eremus Vitur](../../../characters/eremus-vitur.md)<br>[Faelon Fireburner](../../../characters/faelon-fireburner.md)<br>[Tarpher Forestcaller](../../../characters/tarpher-forestcaller.md)<br>[Uther Wildfang](../../../characters/uther-wildfang.md) | First encountered. |

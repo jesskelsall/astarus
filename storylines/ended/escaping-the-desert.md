@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC02](../../sessions/completed/MC02.md) | storyline.2
+| **Session Started** | [MC02](../../sessions/MC02.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@ The [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party fin
 
 ## History
 
-### [MC02](../../sessions/completed/MC02.md)
+### [MC02](../../sessions/MC02.md)
 
 The [Fall of Chausain Memory Sphere](../../items/memory-spheres/fall-of-chausain-memory-sphere.md) malfunctions, spitting the [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party out into the middle of the Kas'ran Desert after they are ejected from its pocket dimension due to falling unconscious.
 
@@ -29,7 +29,7 @@ Heading west out of [Kuv'narash](../../places/villages/kuvnarash.md) the party b
 
 The party continue their journey west.
 
-### [MC03](../../sessions/completed/MC03.md)
+### [MC03](../../sessions/MC03.md)
 
 The party continue to follow [Zolné Windclaw](../../characters/zolne-windclaw.md) through the Kas'ran Desert, west towards [Côtedouce](../../places/towns/cotedouce.md).
 

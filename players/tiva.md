@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Brian](../characters/brian.md) | Guest | [PR24](../sessions/completed/PR24.md) |
+| [Brian](../characters/brian.md) | Guest | [PR24](../sessions/PR24.md) |

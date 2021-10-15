@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR10](../sessions/completed/PR10.md) | storyline.2
+| **Session Started** | [PR10](../sessions/PR10.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -17,7 +17,7 @@
 
 At a young age, [Effie Silttooth](../characters/effie-silttooth.md), a hag, offered her power in exchange for knowledge of the world. She accepted, a deal which would see her become a warlock. In doing so, she also became a fallen [aasimar](../lineages/aasimar.md).
 
-### [PR10](../sessions/completed/PR10.md)
+### [PR10](../sessions/PR10.md)
 
 #### Saoirse Deva Dream 1
 
@@ -47,13 +47,13 @@ The watcher recoils at the sight of them before lunging at her. Saoirse plunges 
 
 The dream ends. Saoirse rests peacefully and feels a positive energy upon waking.
 
-### [PR11](../sessions/completed/PR11.md)
+### [PR11](../sessions/PR11.md)
 
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is distant at various times, contemplating the dream the night before. At one point when they need to keep moving, [Torbra Tauff](../characters/torbra-tauff.md) attempts to lift her up so she can be placed back into the cart, but resists, snapping back to her senses. She chastises Torbra for trying something so drastic.
 
 Later, [Thanea](../../../astarus/people/thanea.md) reads Saoirse's thoughts using the Detect Thoughts spell. She hears Saoirse lamenting her dream.
 
-### [PR18](../sessions/completed/PR18.md)
+### [PR18](../sessions/PR18.md)
 
 #### Saoirse Patron Chat 1
 
@@ -69,7 +69,7 @@ There is a long period where there is no response before the light in the room g
 
 Immediately the light comes back on and Saoirse is left wondering what her patron meant. She finishes her bath and goes to bed.
 
-### [PR25](../sessions/completed/PR25.md)
+### [PR25](../sessions/PR25.md)
 
 #### Saoirse Deva Dream 2
 
@@ -89,7 +89,7 @@ After Thanea leaves, [Effie Silttooth](../characters/effie-silttooth.md) turns o
 
 *[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) unlocks her Fallen [Aasimar](../lineages/aasimar.md) abilities]*
 
-### [PR33](../sessions/completed/PR33.md)
+### [PR33](../sessions/PR33.md)
 
 #### Saoirse Deva Dream 3
 
@@ -103,7 +103,7 @@ Saoirse willingly takes her own hand, allowing her to move her body and focusing
 
 Saoirse's vision fades to white as the dream ends. She wakes up in the morning feeling ambivalent: warm and nurtured, but also hollow and incomplete.
 
-### [PR34](../sessions/completed/PR34.md)
+### [PR34](../sessions/PR34.md)
 
 While travelling across the Humar Estuary, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) speaks privately with [Thanea Morlay](../characters/thanea-morlay.md) about her latest dream. The pair discuss their respective dream experiences to date. Saoirse once again tells Thanea that she wishes to have radiant wings just like her and that she looks up to her.
 

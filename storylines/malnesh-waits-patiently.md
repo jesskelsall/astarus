@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC02](../sessions/completed/MC02.md) | storyline.2
+| **Session Started** | [MC02](../sessions/MC02.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@ A means of conversing with [Malnesh](../gods/deities/malnesh.md) exists within t
 
 ## History
 
-### [MC02](../sessions/completed/MC02.md)
+### [MC02](../sessions/MC02.md)
 
 While inside the [Fall of Chausain Memory Sphere](../items/memory-spheres/fall-of-chausain-memory-sphere.md)'s pocket dimension, the party are picked off one by one by Chausain Guards, ejected one by one. Eventually only [Valan Shadowgaze](../characters/valan-shadowgaze.md) remains. At the moment he passes out, he hears a voice around him in the black void:
 

@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR01](../../sessions/completed/PR01.md) | storyline.2
-| **Session Ended** | [PR20](../../sessions/completed/PR20.md) |
+| **Session Started** | [PR01](../../sessions/PR01.md) | storyline.2
+| **Session Ended** | [PR20](../../sessions/PR20.md) |
 
 ## Summary
 
@@ -21,7 +21,7 @@ Their house's door had been kicked in and there were signs of a struggle, but no
 
 After searching their part of the Hawkwswood around their house, [Wizira](../../characters/wizira.md) returned home and passed out from panic. Waking up the next day, she headed into [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to investigate further. Finding the town still busy, and unable to find Heather in her shop, she eventually took a seat in the shop's secret garden between the buildings, lamenting on the events of the past few days.
 
-### [PR01](../../sessions/completed/PR01.md)
+### [PR01](../../sessions/PR01.md)
 
 When Heather Pentz finds [Wizira](../../characters/wizira.md) in her secret garden, [Wizira](../../characters/wizira.md) tells her of what happened. Unsure what she can do to help, Heather offers to search for any information she can, before giving [Wizira](../../characters/wizira.md) 1 gp to spend to take her mind off things.
 
@@ -29,7 +29,7 @@ Later, after meeting the rest of the [Purple Rain](../../campaigns/C1-purple-rai
 
 Wrenn suggests that he may be able to help her locate her father if she is cooperative.
 
-### [PR04](../../sessions/completed/PR04.md)
+### [PR04](../../sessions/PR04.md)
 
 When the party meet [Wrenn Piznarck](../../characters/wrenn-piznarck.md) at [Alistair Hawthorn's House](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md) to accept his offer of [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) for him, Wrenn reiterates his previous comment that he will help her find her father. He commits to finding out what he can about him while they are away.
 
@@ -41,7 +41,7 @@ Returning to [Heather & Horticulture](../../civilisations/kingdom-of-astor/SETTL
 
 Before being caught, he finds records indicating that a firbolg was captured around the time that the meteor fell. He was shipped off for conscription on a cart headed for [Northhaven](../../places/cities/northhaven.md).
 
-### [PR09](../../sessions/completed/PR09.md)
+### [PR09](../../sessions/PR09.md)
 
 After meeting [Wrenn Piznarck](../../characters/wrenn-piznarck.md) in [Heather & Horticulture](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/heather-and-horticulture.md)'s secret garden, Wrenn informs [Wizira](../../characters/wizira.md) the sad news that her father was captured by the [Astornox](../../organisations/astornox/astornox.md) on the day of his disappearance. Heather Pentz explains that he is a suspected [magicborn](../../civilisations/kingdom-of-astor/magicborn.md), and is being shipped off to [Northhaven](../../places/cities/northhaven.md) for conscription. He left on a cart with others yesterday.
 
@@ -49,11 +49,11 @@ After meeting [Wrenn Piznarck](../../characters/wrenn-piznarck.md) in [Heather &
 
 They begin their efforts to leave [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) for [Northhaven](../../places/cities/northhaven.md).
 
-### [PR10](../../sessions/completed/PR10.md)
+### [PR10](../../sessions/PR10.md)
 
 The party leaves [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) for [Northhaven](../../places/cities/northhaven.md), where [Wizira's Father](../../characters/wiziras-father.md) is being taken.
 
-### [PR18](../../sessions/completed/PR18.md)
+### [PR18](../../sessions/PR18.md)
 
 While seeking [sanctuary](../../organisations/astorrel/sanctuary.md) in the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md), [Saoirse](../../../astarus/people/saoirse.md) talks to [Garrick Rose](../../characters/garrick-rose.md) about [Wizira's Father](../../characters/wiziras-father.md), telling him that they were trying to save him from conscription by the [Astornox](../../organisations/astornox/astornox.md), and that they believe him to be on the way to [Northhaven](../../places/cities/northhaven.md). Garrick agrees to pass on the word to someone who can help, though he expects that the [Astorrel Commandant](../../organisations/astorrel/ranks/astorrel-commandant.md) [Levelle Tristwix](../../characters/levelle-tristwix.md) will be coming to see them in good time anyway.
 
@@ -61,7 +61,7 @@ When [Levelle Tristwix](../../characters/levelle-tristwix.md) comes to visit, th
 
 Levelle and [Wizira](../../characters/wizira.md) discuss the firbolg conspiracy. Levelle remarks that it is eye-opening talking to a firbolg affected by this controversy first-hand. They agree to look into the matter, remarking that they will meet again soon.
 
-### [PR19](../../sessions/completed/PR19.md)
+### [PR19](../../sessions/PR19.md)
 
 When [Carras Southroot](../../characters/carras-southroot.md) and [Norsha Costello](../../characters/norsha-costello.md) visit the party in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md), the party tells them that they were trying to learn of [Wizira's Father](../../characters/wiziras-father.md)'s whereabouts when they had to flee [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with [Wrenn Piznarck](../../characters/wrenn-piznarck.md). Norsha suggests that Levelle is looking into helping return her father.
 
@@ -73,7 +73,7 @@ Later when [Levelle Tristwix](../../characters/levelle-tristwix.md) and [Mindira
 
 Torbra is shocked at this revelation. Levelle encourages the party to work with them both to help them win the trial. Their first hand experiences and character evidence may be the difference between success and failure.
 
-### [PR20](../../sessions/completed/PR20.md)
+### [PR20](../../sessions/PR20.md)
 
 The [Astornar](../../organisations/astornar.md) trial of [the firbolg controversy](the-firbolg-controversy.md) takes place, which will determine [Wizira's Father](../../characters/wiziras-father.md)'s fate.
 

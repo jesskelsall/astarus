@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR01](../sessions/completed/PR01.md) | storyline.2
+| **Session Started** | [PR01](../sessions/PR01.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -19,17 +19,17 @@ Torbra was abandoned as a baby in the Irewood on the opposite side of the [River
 
 At the age of five her skin started to turn more grey, and rocky protrusions started to grow on her back. With nobody to help her understand these changes, she has set out into the world to learn more about who and what she is.
 
-#### [PR01](../sessions/completed/PR01.md)
+#### [PR01](../sessions/PR01.md)
 
 In [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) inn, Torbra tells [Alistair Hawthorn](../characters/alistair-hawthorn.md) that she is passing through town on her way to meet a wise sage. When [Wrenn Piznarck](../characters/wrenn-piznarck.md) offers the [Purple Rain](../campaigns/C1-purple-rain.md) party work finding the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor for him, she asks for knowledge as payment - Wrenn will gain her access to a library in [Northhaven](../places/cities/northhaven.md) where she might research her skin pigmentation and rocky back.
 
-#### [PR10](../sessions/completed/PR10.md)
+#### [PR10](../sessions/PR10.md)
 
 When [Wrenn Piznarck](../characters/wrenn-piznarck.md) asks Torbra if she is [magicborn](../civilisations/kingdom-of-astor/magicborn.md), Torbra answers that she's not sure what she is.
 
 ### Unintelligible Voices
 
-### [PR11](../sessions/completed/PR11.md)
+### [PR11](../sessions/PR11.md)
 
 While everyone is chatting and eating during the rest stop on the way towards [Frizthwaite](../places/villages/frizthwaite.md), Torbra starts hearing voices in her right ear. They are low pitched and guttural, chanting in a language that she cannot comprehend.
 
@@ -43,7 +43,7 @@ As soon as the cart pulls away, the voices leave Torbra's head.
 
 ### Standing Stones 1
 
-### [PR14](../sessions/completed/PR14.md)
+### [PR14](../sessions/PR14.md)
 
 While sleeping on the bank of the [River Humar](../places/rivers-lakes/river-humar.md), Torbra wakes during the night, once again hearing the voices. [Saoirse](../../../astarus/people/saoirse.md) is on watch and follows her as she wanders off, confused at what is going on, unable to see and hear what Torbra is following.
 
@@ -58,7 +58,7 @@ Torbra sees a glow from over the next hill, and as she approaches the voices gro
 
 After the voices stop and the glowing auras subside, [Saoirse](../../../astarus/people/saoirse.md) angrily asks what is going on, but Torbra isn't sure herself. She likens it to [Saoirse](../../../astarus/people/saoirse.md) collapsing unconscious after touching the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md).
 
-### [PR19](../sessions/completed/PR19.md)
+### [PR19](../sessions/PR19.md)
 
 While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), Torbra is provided paper, ink, and a quill by [Garrick Rose](../characters/garrick-rose.md). She uses her time on [Rune Knight practice](../mechanics/roleplay/rune-knight-practice.md) for the Stone Rune, eventually succeeding in replicating it perfectly.
 
@@ -74,11 +74,11 @@ As the rune's magic takes hold of the paper, Torbra sees the rune's lines sink i
 
 *[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to create the Stone Rune at will]*
 
-### [PR20](../sessions/completed/PR20.md)
+### [PR20](../sessions/PR20.md)
 
 During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), the party is asked point-blank if they are [magicborn](../civilisations/kingdom-of-astor/magicborn.md). [Torbra Tauff](../characters/torbra-tauff.md) replies that she isn't sure.
 
-### [PR21](../sessions/completed/PR21.md)
+### [PR21](../sessions/PR21.md)
 
 Following the graduation combat challenge in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), Torbra gets angry at the boulders that rolled onto her when they transformed back from the beasts they were magically turned into.
 
@@ -88,13 +88,13 @@ Both Torbra and the rest of the party were surprised to see her sudden growth. A
 
 *[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to use Giant's Might at will]*
 
-### [PR22](../sessions/completed/PR22.md)
+### [PR22](../sessions/PR22.md)
 
 [Torbra Tauff](../characters/torbra-tauff.md) uses her downtime in [Northhaven](../places/cities/northhaven.md) to research both grey humanoids (earth genasi) and runes, searching first in [Adventures for Adventurers](../places/buildings/shops/adventures-for-adventurers.md), then in [Hawk's Perch](../places/buildings/hawks-perch.md). She buys a book in the former ([Magicborn and Magical Phenomena](../items/books/magicborn-and-magical-phenomena.md)) before finding mention in [Humanoids and Rare Varieties](../items/books/humanoids-and-rare-varieties.md) of [Simanelli Tyrol](../characters/simanelli-tyrol.md) and the apocryphal story of his disappearance. This provides a likely example in history of another genasi, albeit a water genasi.
 
 With the limited time she has left, Torbra uncovers no written mention of runes or glowing rocks.
 
-### [PR25](../sessions/completed/PR25.md)
+### [PR25](../sessions/PR25.md)
 
 On the morning of the [Nature's Battle 28](ended/natures-battle-28.md) final Torbra spends some time shopping for writing materials so she can practice her Frost Rune. She tries 6 times, eventually succeeding.
 
@@ -109,7 +109,7 @@ On the morning of the [Nature's Battle 28](ended/natures-battle-28.md) final Tor
 
 *[[Torbra Tauff](../characters/torbra-tauff.md) unlocks the ability to create the Frost Rune at will]*
 
-### [PR32](../sessions/completed/PR32.md)
+### [PR32](../sessions/PR32.md)
 
 [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) meet [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) at [Leithran Shack](../places/buildings/leithran-shack.md), spending the night in their company, learning of their lives and struggles as elves in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). At no point during the evening does anyone notice that Esme is an earth genasi with skin colouration similar to [Torbra Tauff](../characters/torbra-tauff.md)'s. Esme takes a liking to Torbra, wishing to be like her following her use of Giant's Might to grow taller for her amusement.
 
@@ -130,7 +130,7 @@ Torbra expressed her wish to see them relocated somewhere safe so that Esme coul
 
 The party agrees to bring Montel and Esme with them while they complete their [Astorrel](../organisations/astorrel/astorrel.md) mission. They will help guide them out of the Humar Estuary.
 
-### [PR36](../sessions/completed/PR36.md)
+### [PR36](../sessions/PR36.md)
 
 At the start of her downtime in [Northhaven](../places/cities/northhaven.md) [Torbra Tauff](../characters/torbra-tauff.md) goes to [Hawk's Perch](../places/buildings/hawks-perch.md) to do further research. Now aware of the word "genasi" she searches for references to it.
 

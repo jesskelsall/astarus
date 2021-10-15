@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR17](../sessions/completed/PR17.md) / [AA05](../sessions/completed/AA05.md) | storyline.2
+| **Session Started** | [PR17](../sessions/PR17.md) / [AA05](../sessions/AA05.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -17,7 +17,7 @@
 
 They opt to stay in [Northhaven](../places/cities/northhaven.md) for the time being and potentially confront them if they are sighted closer to the city.
 
-### [PR17](../sessions/completed/PR17.md)
+### [PR17](../sessions/PR17.md)
 
 As the [Northhaven Wall](../places/structures/northhaven-wall.md) guard tower bells ring out in the middle of the night, [Vilnia Kovas](../characters/vilnia-kovas.md) and [Kur Merkys](../characters/kur-merkys.md) make their way to [Kirrel](../gods/deities/kirrel.md) Street in case there is a use for laying an ambush before the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
 
@@ -39,25 +39,25 @@ As he is being brought to consciousness by an [Astornox Guard Corporal](../organ
 
 In the immediate aftermath of the fight, Kur does not remember waking up the first time. He does however remember seeing Vilnia go down at the hands of [Thanea](../../../astarus/people/thanea.md). Finding her dead, his emotions quickly shift from shock and sorrow to blind rage. He swears to himself that he will kill [Thanea](../../../astarus/people/thanea.md) as revenge for taking his partner's life, no matter what it takes.
 
-### [PR18](../sessions/completed/PR18.md)
+### [PR18](../sessions/PR18.md)
 
 When [Levelle Tristwix](../characters/levelle-tristwix.md) visits the party in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), they explain that due to the [Astornox](../organisations/astornox/astornox.md) killed on their way through [Northhaven](../places/cities/northhaven.md), if they were to leave the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), they would likely be killed.
 
 This is in reference to [Vilnia Kovas](../characters/vilnia-kovas.md)' death specifically, though Levelle isn't aware of Kur's quest for revenge.
 
-### [AA05](../sessions/completed/AA05.md)
+### [AA05](../sessions/AA05.md)
 
 On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../places/villages/arnaside.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../campaigns/C1-purple-rain.md) party) from [sanctuary](../organisations/astorrel/sanctuary.md).
 
 [Ephaine Seren](../characters/ephaine-seren.md) sees [Kur Merkys](../characters/kur-merkys.md) watching the stronghold gatehouse from a nearby rooftop, lying down and presuming he is hidden.
 
-### [PR20](../sessions/completed/PR20.md)
+### [PR20](../sessions/PR20.md)
 
 During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), [Kur Merkys](../characters/kur-merkys.md) was present. At various points he stared intently at the party, [Thanea Morlay](../characters/thanea-morlay.md) in particular.
 
 When it was his turn to give evidence, he spoke out of turn about the death of [Vilnia Kovas](../characters/vilnia-kovas.md) at the hands of the party, exploding into an angry rant before being cut off by [Patricia Wilbenotel](../characters/patricia-wilbenotel.md) casting Suggestion to make him stop and sit down.
 
-### [AA06](../sessions/completed/AA06.md)
+### [AA06](../sessions/AA06.md)
 
 On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Astpost Northhaven](../places/buildings/shops/astpost-northhaven.md), the party once again notice an elevated [Astorrel guard](../organisations/astorrel/ranks/astorrel-guard.md) presence in and around the stronghold's gatehouse, though the [Astornox guards](../organisations/astornox/ranks/astornox-guard.md) outside are no longer present. [Ephaine Seren](../characters/ephaine-seren.md) spots [Kur Merkys](../characters/kur-merkys.md) lying down on a nearby building. She decides to confront him, casting Misty Step to teleport up to him.
 
@@ -65,10 +65,10 @@ He immediately jumps to his feet and draws his blades, startled and threatened b
 
 As Kur doesn't seem bothered by Ephaine's threats, she opts to leave him up there, teleporting back to the party and sharing her conversation with Kur. On their way back into the stronghold, Ephaine tells the [Astorrel Guard Sergeant](../organisations/astorrel/ranks/astorrel-guard-sergeant.md) on duty about Kur. He is aware of Kur's presence but reassures Ephaine that he won't try to get any closer.
 
-### [AA07](../sessions/completed/AA07.md)
+### [AA07](../sessions/AA07.md)
 
 During [Canary Squad](../organisations/astorrel/squads/canary-squad.md)'s downtime [Ephaine Seren](../characters/ephaine-seren.md) notices that the [Astorrel guard](../organisations/astorrel/ranks/astorrel-guard.md) presence at the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) gatehouse remains high, though now without any associated [Astornox](../organisations/astornox/astornox.md) waiting outside. She notices a lack of [Kur Merkys](../characters/kur-merkys.md) watching from a nearby rooftop.
 
-### [AA08](../sessions/completed/AA08.md)
+### [AA08](../sessions/AA08.md)
 
 When [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) and [Canary squad](../organisations/astorrel/squads/canary-squad.md) meet inside the [Eskrigg Astorrel Stronghold](../places/strongholds/eskrigg-astorrel-stronghold.md) during the [Nature's Battle 28](ended/natures-battle-28.md) opening meeting, [Ephaine Seren](../characters/ephaine-seren.md) tells [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) about having seen a blue tiefling ([Kur Merkys](../characters/kur-merkys.md)) watching the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from a nearby rooftop. [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) know who he is, telling [Canary squad](../organisations/astorrel/squads/canary-squad.md) that they had a run-in with him and [Vilnia Kovas](../characters/vilnia-kovas.md). They briefly debate who was at fault for their fight in [Kirrel](../gods/deities/kirrel.md) Street before conversation moves on.

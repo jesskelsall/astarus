@@ -5,7 +5,7 @@
 | **To** | [Crucible](../characters/crucible.md) | letter.1
 | **From** | [Creek](../characters/creek.md) |
 | **Date** | |
-| **Session Given** | [MC01M](../sessions/completed/MC01M.md) |
+| **Session Given** | [MC01M](../sessions/MC01M.md) |
 |||
 | **Image ID** | `d5511a219b8d7f05` |
 

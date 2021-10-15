@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR27](../../sessions/completed/PR27.md) / [AA10](../../sessions/completed/AA10.md) | storyline.2
-| **Session Ended** | [PR27](../../sessions/completed/PR27.md) / [AA12](../../sessions/completed/AA12.md) |
+| **Session Started** | [PR27](../../sessions/PR27.md) / [AA10](../../sessions/AA10.md) | storyline.2
+| **Session Ended** | [PR27](../../sessions/PR27.md) / [AA12](../../sessions/AA12.md) |
 
 ## Summary
 
@@ -11,7 +11,7 @@
 
 ## History
 
-### [PR27](../../sessions/completed/PR27.md)
+### [PR27](../../sessions/PR27.md)
 
 While under the effects of [meteoric dust](../../items/meteoric/meteoric-dust.md), [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) runs through the night time streets of [Eskrigg](../../places/cities/eskrigg.md) looking for a place to avoid others and let her hallucinations rest. She sits against a wall on a quiet street.
 
@@ -21,7 +21,7 @@ Allisa is surprised by Saoirse, not expecting to find another divine presence in
 
 Though she would not know it, Saoirse has unwittingly crossed paths with [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) Veritacris who have infiltrated [Eskrigg](../../places/cities/eskrigg.md).
 
-### [AA10](../../sessions/completed/AA10.md)
+### [AA10](../../sessions/AA10.md)
 
 [Canary squad](../../organisations/astorrel/squads/canary-squad.md) enter the [Eskrigg](../../places/cities/eskrigg.md) sewers in order to clear out hostile rats so that [Barthon Ironfist](../../characters/barthon-ironfist.md) can set up an underground pit fighting ring. While fighting rats, the party find the bloated corpse of [Castien Eladan](../../characters/castien-eladan.md), which washes down a sewer tunnel toward them.
 
@@ -39,7 +39,7 @@ He reveals that the section of sewer that he asked the party to clear out was in
 
 The party debate what to do with the corpse. They agree that they must report this to the [Astorrel](../../organisations/astorrel/astorrel.md) as per their military duties.
 
-### [AA11](../../sessions/completed/AA11.md)
+### [AA11](../../sessions/AA11.md)
 
 [Canary squad](../../organisations/astorrel/squads/canary-squad.md) sound the alarm over what they have learned about the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) spies and the potential for a conspiracy involving the [Nature's Battle 28](natures-battle-28.md) final match. They go to [Vorrinel's Stand](../../places/buildings/vorrinels-stand.md) and inform both [Legacy Aranius](../../characters/legacy-aranius.md) and [Ronvyn Bafflegift](../../characters/ronvyn-bafflegift.md).
 
@@ -59,7 +59,7 @@ The party is sceptical of the story. Pressing for more details, Xavier eventuall
 
 While trying to leave the sewers with their prisoner, the party come across a group of [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) who refuse to let them pass. [Canary squad](../../organisations/astorrel/squads/canary-squad.md) have hidden Xavier's head and do not mention the nature of their business.
 
-### [AA12](../../sessions/completed/AA12.md)
+### [AA12](../../sessions/AA12.md)
 
 [Canary squad](../../organisations/astorrel/squads/canary-squad.md) manage to get past the [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) in the [Eskrigg](../../places/cities/eskrigg.md) sewers thanks to the timely arrival of [Yialdred Korina](../../characters/yialdred-korina.md), an [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md) on guard duty that followed the commotion of running [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md). She was able to use Channel Divinity: Order's Demand to convince them that an [Astorrel](../../organisations/astorrel/astorrel.md) squad's business is none of theirs.
 

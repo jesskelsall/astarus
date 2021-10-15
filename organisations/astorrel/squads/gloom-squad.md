@@ -20,4 +20,4 @@ Gloom Squad is from the same [Astorrel](../astorrel.md) graduate cohort as [Cana
 
 | Session | Removed | Added | Reason |
 |:---:| --- | --- | --- |
-| [PR24](../../../sessions/completed/PR24.md) || [Brian](../../../characters/brian.md)<br>[Moss Gloomhollow](../../../characters/moss-gloomhollow.md)<br>[Norma Collarbone](../../../characters/norma-collarbone.md)<br>[Ophelia Phantom](../../../characters/ophelia-phantom.md) | First encountered. |
+| [PR24](../../../sessions/PR24.md) || [Brian](../../../characters/brian.md)<br>[Moss Gloomhollow](../../../characters/moss-gloomhollow.md)<br>[Norma Collarbone](../../../characters/norma-collarbone.md)<br>[Ophelia Phantom](../../../characters/ophelia-phantom.md) | First encountered. |

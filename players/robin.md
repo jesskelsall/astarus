@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/completed/PR00.md) - |
+| [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/PR00.md) - |

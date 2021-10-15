@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR35](../sessions/completed/PR35.md) | storyline.2
+| **Session Started** | [PR35](../sessions/PR35.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [PR35](../sessions/completed/PR35.md)
+### [PR35](../sessions/PR35.md)
 
 While swimming out into the [Humar Meteorite Crater](../places/rivers-lakes/humar-meteorite-crater.md), a giant crocodile appears from the depths below [Wizira](../characters/wizira.md), surfacing to bite her. It connects, doing her great damage and pulling her underwater. When she tries to escape it knocks her unconscious with its tail. [Torbra Tauff](../characters/torbra-tauff.md) swims into the lake to defend her. She is able to use her Stone Rune to subdue the crocodile, giving her a chance to pull [Wizira](../characters/wizira.md) to the shore.
 
@@ -23,7 +23,7 @@ As the crocodile swims back into the lake with her body, Torbra and Thanea do th
 
 Distraught by the death of their friend, the party regroups and works through their anguish. [Montel Leithran](../characters/montel-leithran.md) expresses his regret at not being able to do anything to help, but Saoirse and Thanea reassure him that it is okay. Torbra finds [Wizira's Staff](../items/wiziras-staff.md) on the shoreline, taking it to the party, clutching it like a sacred artifact.
 
-### [PR36](../sessions/completed/PR36.md)
+### [PR36](../sessions/PR36.md)
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) return to [Northhaven](../places/cities/northhaven.md) to inform [Elysia Vanderboss](../characters/elysia-vanderboss.md) that they are now unable to complete their mission ([Investigate the Humar Meteorite Crater](ended/investigate-the-humar-meteorite-crater.md)).
 

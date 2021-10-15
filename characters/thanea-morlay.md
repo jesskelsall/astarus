@@ -26,7 +26,7 @@ TODO
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [PR21](../sessions/completed/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls
 
@@ -41,10 +41,10 @@ TODO
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
 | 1 | - | Sorcerer | d6 | 6 |
-| 2 | [PR03](../sessions/completed/PR03.md) | Sorcerer | d6 | 6 |
-| 3 | [PR09](../sessions/completed/PR09.md) | Sorcerer | d6 | 5 |
-| 4 | [PR19](../sessions/completed/PR19.md) | Sorcerer | d6 | 5 |
-| 5 | [PR30](../sessions/completed/PR30.md) | Sorcerer | d6 | 3 |
+| 2 | [PR03](../sessions/PR03.md) | Sorcerer | d6 | 6 |
+| 3 | [PR09](../sessions/PR09.md) | Sorcerer | d6 | 5 |
+| 4 | [PR19](../sessions/PR19.md) | Sorcerer | d6 | 5 |
+| 5 | [PR30](../sessions/PR30.md) | Sorcerer | d6 | 3 |
 
 ## History
 

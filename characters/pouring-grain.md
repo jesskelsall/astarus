@@ -44,7 +44,7 @@ They don't talk much and are slow to trust other skimmers. Easily spooked and un
 
 ## History
 
-### [MC01M](../sessions/completed/MC01M.md)
+### [MC01M](../sessions/MC01M.md)
 
 Pouring Grain was in the company of [Keranios](keranios.md) and [Marik Kaligavone](marik-kaligavone.md), picking up some of their phrases for use on their journey:
 

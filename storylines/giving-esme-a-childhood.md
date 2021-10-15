@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR32](../sessions/completed/PR32.md) | storyline.2
+| **Session Started** | [PR32](../sessions/PR32.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [PR32](../sessions/completed/PR32.md)
+### [PR32](../sessions/PR32.md)
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) come across [Leithran Shack](../places/buildings/leithran-shack.md) on the Humar Estuary. They hear a male voice ([Montel Leithran](../characters/montel-leithran.md)) calling for help. After some conversation at distance they learn that the person needs help defending against crocodiles. Initially wary of a trap, the party decide to rush to help.
 
@@ -22,7 +22,7 @@ With the fight winding down, Montel leaps to his feet and rushes into the shack,
 *[Montel Leithran](../characters/montel-leithran.md):*
 > My girl! My girl!
 
-### [PR33](../sessions/completed/PR33.md)
+### [PR33](../sessions/PR33.md)
 
 [Torbra Tauff](../characters/torbra-tauff.md) goes into [Leithran Shack](../places/buildings/leithran-shack.md) after [Montel Leithran](../characters/montel-leithran.md), finding him consoling his daughter [Esme Leithran](../characters/esme-leithran.md). It becomes clear that they are both elves. In the pair she and the party find a loving father who is taking care of his four year old daughter as they search for a new home.
 
@@ -34,7 +34,7 @@ In the morning when Torbra learns that Esme is an earth genasi like her, her des
 
 The party agree to bring Montel and Esme with them as they continue their mission, intent on at least getting them off of the estuary after they find what they are looking for.
 
-### [PR34](../sessions/completed/PR34.md)
+### [PR34](../sessions/PR34.md)
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) continue their search for the [Humar Meteorite crater](../places/rivers-lakes/humar-meteorite-crater.md) with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md).
 
@@ -42,7 +42,7 @@ Along the way they witness many instances of Esme amusing herself as best as she
 
 When [Thanea Morlay](../characters/thanea-morlay.md) suggests that Montel and Esme keep a good distance to avoid incoming danger, Montel gets panicked, now married to the idea of staying as close to [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) as possible until they get out of the estuary. He again reiterates his unwillingness to fight and his plan to flee with Esme at the first sign of danger.
 
-### [PR35](../sessions/completed/PR35.md)
+### [PR35](../sessions/PR35.md)
 
 During the fight with the giant crocodile at the [Humar Meteorite Crater](../places/rivers-lakes/humar-meteorite-crater.md), [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) keep their distance and hide in the nearby grass.
 
@@ -50,7 +50,7 @@ When the fight ends and it becomes clear that [Wizira](../characters/wizira.md) 
 
 When the party hug, Esme hugs [Torbra Tauff](../characters/torbra-tauff.md)'s leg. She takes Esme in her lap. When Esme asks where [Wizira](../characters/wizira.md) is, Torbra breaks the news to her before Esme tells Montel that it is just like her mother ([Vensys Leithran](../characters/vensys-leithran.md)).
 
-### [PR36](../sessions/completed/PR36.md)
+### [PR36](../sessions/PR36.md)
 
 [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) lead [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) off the Humar Estuary and through [Fort Eldrick](../places/forts/fort-eldrick.md) without any incident. They are able to pass through without arousing suspicion due to head wraps made by [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md), as well as the squad's plan to claim that the pair are being escorted as part of [Astorrel](../organisations/astorrel/astorrel.md) business. The [Astornox](../organisations/astornox/astornox.md) lead by [Bevan Lancaster](../characters/bevan-lancaster.md) were eventually satisfied that the pair were none of their business.
 

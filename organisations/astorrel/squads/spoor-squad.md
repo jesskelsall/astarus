@@ -22,4 +22,4 @@ They are ensuring that the recent growth of [Ulburn](../../../places/villages/ul
 
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
-| [AA06](../../../sessions/completed/AA06.md) || [Trynelle Mildrabbit](../../../characters/trynelle-mildrabbit.md) | First encountered.<br>[Trynelle Mildrabbit](../../../characters/trynelle-mildrabbit.md) is [Astorrel Squad Lead](../ranks/astorrel-squad-lead.md).<br>[Linton Harkness](../../../characters/linton-harkness.md) is commanding officer.<br> |
+| [AA06](../../../sessions/AA06.md) || [Trynelle Mildrabbit](../../../characters/trynelle-mildrabbit.md) | First encountered.<br>[Trynelle Mildrabbit](../../../characters/trynelle-mildrabbit.md) is [Astorrel Squad Lead](../ranks/astorrel-squad-lead.md).<br>[Linton Harkness](../../../characters/linton-harkness.md) is commanding officer.<br> |

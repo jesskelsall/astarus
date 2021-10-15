@@ -20,4 +20,4 @@ Mortar Squad is an NPC squad created specifically to battle [Starfall Squad](sta
 
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
-| [AA08](../../../sessions/completed/AA08.md) || [Aisling Kavanagh](../../../characters/aisling-kavanagh.md)<br>[Diarmuid Kavanagh](../../../characters/diarmuid-kavanagh.md)<br>[Reozin Ironhide](../../../characters/reozin-ironhide.md)<br>[Yoroe Briskboots](../../../characters/yoroe-briskboots.md) | First encountered.<br>[Reozin Ironhide](../../../characters/reozin-ironhide.md) is [Astorrel Squad Lead](../ranks/astorrel-squad-lead.md). |
+| [AA08](../../../sessions/AA08.md) || [Aisling Kavanagh](../../../characters/aisling-kavanagh.md)<br>[Diarmuid Kavanagh](../../../characters/diarmuid-kavanagh.md)<br>[Reozin Ironhide](../../../characters/reozin-ironhide.md)<br>[Yoroe Briskboots](../../../characters/yoroe-briskboots.md) | First encountered.<br>[Reozin Ironhide](../../../characters/reozin-ironhide.md) is [Astorrel Squad Lead](../ranks/astorrel-squad-lead.md). |

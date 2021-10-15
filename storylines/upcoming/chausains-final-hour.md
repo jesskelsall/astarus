@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC02](../../sessions/completed/MC02.md) | storyline.2
+| **Session Started** | [MC02](../../sessions/MC02.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary

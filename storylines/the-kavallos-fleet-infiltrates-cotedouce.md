@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC03](../sessions/completed/MC03.md) | storyline.2
+| **Session Started** | [MC03](../sessions/MC03.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@ Having captured [The Mistral](../places/ships/the-mistral.md) on the Kavallos Se
 
 ## History
 
-### [MC03](../sessions/completed/MC03.md)
+### [MC03](../sessions/MC03.md)
 
 While in a [Republic Guard](../organisations/guards/republic-guard.md) jail, [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) overhear the guards talking in elvish about [the Mistral](../places/ships/the-mistral.md) being late, there being a problem, and the need for a strong guard presence when it arrives. They don't realise that they are talking about a ship.
 

@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC01F](../sessions/completed/MC01F.md) | storyline.2
+| **Session Started** | [MC01F](../sessions/MC01F.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [MC01F](../sessions/completed/MC01F.md)
+### [MC01F](../sessions/MC01F.md)
 
 [Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter ([MC01F-L-1](../letters/MC01F-L-1.md)) from [Hanz Peacemaker](../characters/hanz-peacemaker.md) informing them that [Vulpes Geen](../characters/vulpes-geen.md) has passed away, and that they should come back to [The Fox Hole](../places/buildings/the-fox-hole.md) for his funeral. Vētrall does so.
 
@@ -23,7 +23,7 @@ Immediately following this, Hanz gives a letter from Geen to Vētrall. It also c
 
 Vētrall makes their way to [Starnov](../places/cities/starnov.md) with their student [Valan Shadowgaze](../characters/valan-shadowgaze.md).
 
-### [MC02](../sessions/completed/MC02.md)
+### [MC02](../sessions/MC02.md)
 
 Once in [Starnov](../places/cities/starnov.md), [Vētrall Astérr](../characters/vetrall-asterr.md) goes alone to the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) to unlock [Vulpes Geen](../characters/vulpes-geen.md)'s lockbox. They enter and proceed to the locker, opening it to find a lead lined box ([MC02-I-1](../cards/MC02-I-1.md)) containing the [Fall of Chausain Memory Sphere](../items/memory-spheres/fall-of-chausain-memory-sphere.md) and a letter from Geen ([MC02-L-1](../letters/MC02-L-1.md)). They add the box to their backpack before leaving.
 
@@ -39,7 +39,7 @@ The party are teleported to the middle of the Kas'ran Desert by the [memory sphe
 
 When the party wake up in [Dune's House](../places/buildings/dunes-house.md) in [Kuv'narash](../places/villages/kuvnarash.md), Vētrall excuses themself to open the box in the privacy of a nearby outhouse. They find the [Fall of Chausain Memory Sphere](../items/memory-spheres/fall-of-chausain-memory-sphere.md) and a letter from [Vulpes Geen](../characters/vulpes-geen.md) ([MC02-L-1](../letters/MC02-L-1.md)) explaining his storied relationship with the sphere.
 
-### [MC03](../sessions/completed/MC03.md)
+### [MC03](../sessions/MC03.md)
 
 On arrival in [Côtedouce](../places/towns/cotedouce.md), a [Republic guard](../organisations/guards/republic-guard.md) checkpoint searches the party's belongings, looking for contraband entering their territory. A guard finds the [Fall of Chausain Memory Sphere](../items/memory-spheres/fall-of-chausain-memory-sphere.md) on [Vētrall Astérr](../characters/vetrall-asterr.md), causing the lead guard to arrest the party for smuggling and possessing an ancient artifact. Some of the party resist arrest, but ultimately everyone is captured and thrown in a [Republic Guard](../organisations/guards/republic-guard.md) jail.
 

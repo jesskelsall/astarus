@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR15](../../sessions/completed/PR15.md) | storyline.2
-| **Session Ended** | [PR20](../../sessions/completed/PR20.md) |
+| **Session Started** | [PR15](../../sessions/PR15.md) | storyline.2
+| **Session Ended** | [PR20](../../sessions/PR20.md) |
 
 ## Summary
 
@@ -25,13 +25,13 @@ While there are outspoken [Astorrel](../../organisations/astorrel/astorrel.md) w
 
 *See: [Wizira's Father Goes Missing](wiziras-father-goes-missing.md)*
 
-### [PR15](../../sessions/completed/PR15.md)
+### [PR15](../../sessions/PR15.md)
 
 When [Wizira](../../characters/wizira.md) meets [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md), the party become aware of the firbolg controversy and the two opposing views present within the [Astornox](../../organisations/astornox/astornox.md) and [Astorrel](../../organisations/astorrel/astorrel.md). They explain that what has happened to [Wizira's Father](../../characters/wiziras-father.md) may be the catalyst that brings the issue to a head, with a trial conducted by the [Astornar](../../organisations/astornar.md) being a likely outcome.
 
 As a fervent supporter of protecting firbolg as part of nature, Hidaar offers to help the party in any way they can, ordering [Sparrow on the Autumn Pine](../../characters/sparrow-on-the-autumn-pine.md) to escort them to [Levelle Tristwix](../../characters/levelle-tristwix.md) in the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md) so they can seek [sanctuary](../../organisations/astorrel/sanctuary.md) there.
 
-### [PR18](../../sessions/completed/PR18.md)
+### [PR18](../../sessions/PR18.md)
 
 [Saoirse](../../../astarus/people/saoirse.md) mentions [Wizira's Father](../../characters/wiziras-father.md)'s capture to [Garrick Rose](../../characters/garrick-rose.md) while they are preparing to go into [sanctuary](../../organisations/astorrel/sanctuary.md). He assures the party that if the [Astorrel Commandant](../../organisations/astorrel/ranks/astorrel-commandant.md) can't help them, he will ensure that someone looks into the matter for them.
 
@@ -39,7 +39,7 @@ As a fervent supporter of protecting firbolg as part of nature, Hidaar offers to
 
 Levelle asks what the rest of the party's involvement is in this matter, but they met [Wizira](../../characters/wizira.md) after her father disappeared.
 
-### [PR19](../../sessions/completed/PR19.md)
+### [PR19](../../sessions/PR19.md)
 
 While in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md) the party is visited by [Mergin Thorgus](../../characters/mergin-thorgus.md) who gives them the day's town crier script ([PR19-L-1](../../letters/PR19-L-1.md)). This shows that there are troubles in [Eskrigg](../../places/cities/eskrigg.md) regarding firbolgs in the [Mocker Swamp](../../places/forests/mocker-swamp.md) which the [Astornox](../../organisations/astornox/astornox.md) suppressed.
 
@@ -47,7 +47,7 @@ While in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum]
 
 [Elysia Vanderboss](../../characters/elysia-vanderboss.md) hinted that an [Astornar](../../organisations/astornar.md) trial between the [Astorrel](../../organisations/astorrel/astorrel.md) and [Astornox](../../organisations/astornox/astornox.md) over the firbolg controversy may be imminent. This was then confirmed when [Levelle Tristwix](../../characters/levelle-tristwix.md) and [Carras Southroot](../../characters/carras-southroot.md) came to visit. They explained what was at stake as part of the trial and encouraged the party to share any information they could to help the [Astorrel](../../organisations/astorrel/astorrel.md) win.
 
-### [PR20](../../sessions/completed/PR20.md)
+### [PR20](../../sessions/PR20.md)
 
 The [Astornar](../../organisations/astornar.md) trial for the firbolg controversy takes place.
 

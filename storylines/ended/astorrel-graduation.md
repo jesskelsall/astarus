@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA01](../../sessions/completed/AA01.md) | storyline.2
-| **Session Ended** | [AA01](../../sessions/completed/AA01.md) |
+| **Session Started** | [AA01](../../sessions/AA01.md) | storyline.2
+| **Session Ended** | [AA01](../../sessions/AA01.md) |
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA10](../sessions/completed/AA10.md) | storyline.2
+| **Session Started** | [AA10](../sessions/AA10.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [AA10](../sessions/completed/AA10.md)
+### [AA10](../sessions/AA10.md)
 
 After [Noon Schiller](../characters/noon-schiller.md) reads the letter given to him ([AA10-L-1](../letters/AA10-L-1.md)), [Nills](../characters/nills.md) appears to nudge Noon towards claiming the [free Schiller steel](ended/free-schiller-steel.md) weapon for one of his new [Astorrel squad hands](../organisations/astorrel/ranks/astorrel-squad-hand.md).
 
@@ -27,7 +27,7 @@ Later when Noon leads the party to [Schiller Steel Eskrigg](../places/buildings/
 
 Noon doesn't pick up the meaning, instead opting to leave the shop for now.
 
-### [AA12](../sessions/completed/AA12.md)
+### [AA12](../sessions/AA12.md)
 
 When [Canary squad](../organisations/astorrel/squads/canary-squad.md) and [Yialdred Korina](../characters/yialdred-korina.md) emerge from the [Eskrigg](../places/cities/eskrigg.md) sewers and leave the custody of [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md) via a second Arcane Gate, they take a collective moment to decompress and consider what to do next.
 

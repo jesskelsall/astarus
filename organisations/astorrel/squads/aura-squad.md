@@ -26,4 +26,4 @@ Aura Squad is an [Astorrel](../astorrel.md) Squad that investigates spectral phe
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
 ||| [Lucia Velpione](../../../characters/lucia-velpione.md) | First encountered. |
-| [PR37](../../../sessions/upcoming/PR37.md) | [Lucia Velpione](../../../characters/lucia-velpione.md) || Lucia moved to [Starfall Squad](starfall-squad.md). |
+| [PR37](../../../sessions/PR37.md) | [Lucia Velpione](../../../characters/lucia-velpione.md) || Lucia moved to [Starfall Squad](starfall-squad.md). |

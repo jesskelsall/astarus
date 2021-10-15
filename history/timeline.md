@@ -23,5 +23,5 @@
 
 | Date<br>Astor Calendar | Session(s) | Significance |
 | --- |:---:| --- |
-| 312-4-28 | [PR01](../sessions/completed/PR01.md) | [Purple Rain](../campaigns/C1-purple-rain.md) campaign day one. |
-| 312-5-02 | [AA01](../sessions/completed/AA01.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign day one. |
+| 312-4-28 | [PR01](../sessions/PR01.md) | [Purple Rain](../campaigns/C1-purple-rain.md) campaign day one. |
+| 312-5-02 | [AA01](../sessions/AA01.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) campaign day one. |

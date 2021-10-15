@@ -26,8 +26,8 @@ She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
 || [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |||
-| [PR21](../sessions/completed/PR21.md) | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) | Phenomena / Meteoric | [Quinn Mac Domhnail](quinn-mac-domhnail.md) | [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
-| [PR27](../sessions/completed/PR27.md) | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) | Phenomena / Meteoric | [Quinn Mac Domhnail](quinn-mac-domhnail.md) | [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
+| [PR21](../sessions/PR21.md) | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) | Phenomena / Meteoric | [Quinn Mac Domhnail](quinn-mac-domhnail.md) | [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| [PR27](../sessions/PR27.md) | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) | Phenomena / Meteoric | [Quinn Mac Domhnail](quinn-mac-domhnail.md) | [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
 
 
 ## Characteristics

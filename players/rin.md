@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Vētrall Astérr](../characters/vetrall-asterr.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/completed/MC00.md) - |
+| [Vētrall Astérr](../characters/vetrall-asterr.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/MC00.md) - |

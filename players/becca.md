@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Keranios](../characters/keranios.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/completed/MC00.md) - |
+| [Keranios](../characters/keranios.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/MC00.md) - |

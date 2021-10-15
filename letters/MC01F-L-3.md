@@ -5,7 +5,7 @@
 | **To** | [Vētrall Astérr](../characters/vetrall-asterr.md) | letter.1
 | **From** | [Vulpes Geen](../characters/vulpes-geen.md) |
 | **Date** | |
-| **Session Given** | [MC01F](../sessions/completed/MC01F.md) |
+| **Session Given** | [MC01F](../sessions/MC01F.md) |
 |||
 | **Image ID** | `f857d8eaafa6da9a` |
 

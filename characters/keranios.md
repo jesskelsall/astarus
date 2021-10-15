@@ -49,7 +49,7 @@ Keranios is a player character in the [Memories of Chausain](../campaigns/C3-mem
 
 ## Character Sheets
 
-### [MC01M](../sessions/completed/MC01M.md)
+### [MC01M](../sessions/MC01M.md)
 
 ||||
 |:---:|:---:|:---:|

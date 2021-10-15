@@ -26,4 +26,4 @@ Woodlouse Squad is the [Astorrel](../astorrel.md) squad that [Yialdred Korina](.
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
 ||| [Yialdred Korina](../../../characters/yialdred-korina.md) | First encountered. |
-| [AA12](../../../sessions/completed/AA12.md) | [Yialdred Korina](../../../characters/yialdred-korina.md) || Korina moved to [Canary Squad](canary-squad.md). |
+| [AA12](../../../sessions/AA12.md) | [Yialdred Korina](../../../characters/yialdred-korina.md) || Korina moved to [Canary Squad](canary-squad.md). |

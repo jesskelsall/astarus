@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [MC01F](../sessions/completed/MC01F.md) | storyline.2
+| **Session Started** | [MC01F](../sessions/MC01F.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [MC01F](../sessions/completed/MC01F.md)
+### [MC01F](../sessions/MC01F.md)
 
 While [Vētrall Astérr](../characters/vetrall-asterr.md) is at [The Fox Hole](../places/buildings/the-fox-hole.md) for [Vulpes Geen](../characters/vulpes-geen.md)'s funeral, [Drendoc](../characters/drendoc.md) arrives with a donation of 50 gp for [Familia Vulpes](../organisations/familia-vulpes.md), earning him an announcement from the Father of the Door, [Hanz Peacemaker](../characters/hanz-peacemaker.md).
 

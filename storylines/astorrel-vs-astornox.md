@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA01](../sessions/completed/AA01.md) / [PR18](../sessions/completed/PR18.md) | storyline.2
+| **Session Started** | [AA01](../sessions/AA01.md) / [PR18](../sessions/PR18.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -17,40 +17,40 @@ Over the past 3 years, tensions have been rising between the [Astorrel](../organ
 
 The [Astornar](../organisations/astornar.md) Court rules on matters where the two organisations can't come to an agreement, though this is usually reserved for serious cases that affect the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) fundamentally.
 
-### [AA01](../sessions/completed/AA01.md)
+### [AA01](../sessions/AA01.md)
 
 During the [Astorrel Graduation](ended/astorrel-graduation.md), [Levelle Tristwix](../characters/levelle-tristwix.md) gave a graduation speech that included a caution to all of the graduates. They should avoid conflict with the [Astornox](../organisations/astornox/astornox.md) and work peacefully and cooperatively alongside them. Levelle specifically said that tensions are rising.
 
-### [PR18](../sessions/completed/PR18.md)
+### [PR18](../sessions/PR18.md)
 
 While in [sanctuary](../organisations/astorrel/sanctuary.md) [Levelle Tristwix](../characters/levelle-tristwix.md) tells the [Purple Rain](../campaigns/C1-purple-rain.md) party that they are annoyed at them because they have disrupted the very delicate relationship the [Astorrel](../organisations/astorrel/astorrel.md) and [Astornox](../organisations/astornox/astornox.md) have between each other at the moment.
 
-### [PR19](../sessions/completed/PR19.md)
+### [PR19](../sessions/PR19.md)
 
 [Mergin Thorgus](../characters/mergin-thorgus.md) provides the [Purple Rain](../campaigns/C1-purple-rain.md) party with that day's town crier script ([PR19-L-1](../letters/PR19-L-1.md)), showing the party that [Itharmund Steeleye](../characters/itharmund-steeleye.md) is demanding the release of the party to the [Astornox](../organisations/astornox/astornox.md) so they can pay for their crimes.
 
 [Levelle Tristwix](../characters/levelle-tristwix.md) tells the party that [the firbolg controversy](ended/the-firbolg-controversy.md) will go to trial in front of the [Astornar](../organisations/astornar.md), putting both organisations in direct conflict over the fate of firbolgs in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
-### [AA05](../sessions/completed/AA05.md)
+### [AA05](../sessions/AA05.md)
 
 On return to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) from [Arnaside](../places/villages/arnaside.md), [Canary Squad](../organisations/astorrel/squads/canary-squad.md) witness a stand-off between the [Astorrel guards](../organisations/astorrel/ranks/astorrel-guard.md) and a contingent of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md). It appears they are here waiting for the release of some people (the [Purple Rain](../campaigns/C1-purple-rain.md) party) from [sanctuary](../organisations/astorrel/sanctuary.md).
 
-### [PR20](../sessions/completed/PR20.md)
+### [PR20](../sessions/PR20.md)
 
 During the [Astornar](../organisations/astornar.md) trial for [the firbolg controversy](ended/the-firbolg-controversy.md), [Levelle Tristwix](../characters/levelle-tristwix.md) tells [Corville Thornox](../characters/corville-thornox.md) that the [Astorrel](../organisations/astorrel/astorrel.md) will pay the [Purple Rain](../campaigns/C1-purple-rain.md) party's fines of 8,000 gp as a gesture of good will towards the [Astornox](../organisations/astornox/astornox.md). Following the verdict, [Levelle Tristwix](../characters/levelle-tristwix.md) tells the party that relations between the two organisations have been strained, and they hope this will go some way towards healing that.
 
 When [Itharmund Steeleye](../characters/itharmund-steeleye.md) comes over to speak with Levelle, he is relaxed, congratulating Levelle on a hard fought trial, finding middle ground in the pair gaining at least something they wanted.
 
-### [AA06](../sessions/completed/AA06.md)
+### [AA06](../sessions/AA06.md)
 
 When introducing the independent investigation of [Ulburn](../places/villages/ulburn.md) mission to [Canary Squad](../organisations/astorrel/squads/canary-squad.md), [Bryce Morton](../characters/bryce-morton.md) makes it clear that the goal is to ensure that the relationship between the [Astornox](../organisations/astornox/astornox.md) and [Astorrel](../organisations/astorrel/astorrel.md) in the village isn't becoming personal or bitter. [Kasston Tosslefront](../characters/kasston-tosslefront.md), the Major of Urban Expansion has commissioned this mission to assess if the situation in [Ulburn](../places/villages/ulburn.md) is inflaming tensions between the two organisations.
 
-### [AA11](../sessions/completed/AA11.md)
+### [AA11](../sessions/AA11.md)
 
 When [Canary squad](../organisations/astorrel/squads/canary-squad.md) raises the alarm at [Vorrinel's Stand](../places/buildings/vorrinels-stand.md) after uncovering a potential [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) spy conspiracy, they find [Legacy Aranius](../characters/legacy-aranius.md) and [Ronvyn Bafflegift](../characters/ronvyn-bafflegift.md). When they inform the pair of what they have learned, Legacy threatens to take their [military badges](../civilisations/kingdom-of-astor/military-badges.md) if they don't find more evidence before the [Nature's Battle 28](ended/natures-battle-28.md) final match starts. Ronvyn intervenes, stating that [Astorrel](../organisations/astorrel/astorrel.md) aren't within his jurisdiction. This causes Legacy to leave the party alone, instead attending to other matters.
 
 After capturing [Xavier Raloven](../characters/xavier-raloven.md) in the [Eskrigg](../places/cities/eskrigg.md) sewers, the party are stopped by a group of [Astornox guards](../organisations/astornox/ranks/astornox-guard.md) lead by an [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md). They refuse to let [Canary squad](../organisations/astorrel/squads/canary-squad.md) pass, instead insisting that they need to come with them.
 
-### [AA12](../sessions/completed/AA12.md)
+### [AA12](../sessions/AA12.md)
 
 The [Astornox guards](../organisations/astornox/ranks/astornox-guard.md) in the [Eskrigg](../places/cities/eskrigg.md) sewers refuse to back down as [Ahsha Sallas](../characters/ahsha-sallas.md) continues to force her way past them. [Yialdred Korina](../characters/yialdred-korina.md) enters the sewers after the guards and attempts to defuse tensions, using Channel Divinity: Order's Demand to influence them. She appeals to a difference in jurisdiction, claiming that [Astorrel](../organisations/astorrel/astorrel.md) business is no business of the [Astornox](../organisations/astornox/astornox.md). The [Astornox guard sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md) succumbs to her divine magic, ordering his guards to stand down and let [Canary Squad](../organisations/astorrel/squads/canary-squad.md) through.

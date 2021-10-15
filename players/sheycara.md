@@ -16,5 +16,5 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Wizira](../characters/wizira.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/completed/PR00.md) - [PR35](../sessions/completed/PR35.md) |
-| [Lucia Velpione](../characters/lucia-velpione.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR37](../sessions/upcoming/PR37.md) - |
+| [Wizira](../characters/wizira.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/PR00.md) - [PR35](../sessions/PR35.md) |
+| [Lucia Velpione](../characters/lucia-velpione.md) | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR37](../sessions/PR37.md) - |

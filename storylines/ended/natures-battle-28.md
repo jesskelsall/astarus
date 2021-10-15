@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA06](../../sessions/completed/AA06.md) / [PR21](../../sessions/completed/PR21.md) | storyline.2
-| **Session Ended** | [AA09](../../sessions/completed/AA09.md) / [PR26](../../sessions/completed/PR26.md) |
+| **Session Started** | [AA06](../../sessions/AA06.md) / [PR21](../../sessions/PR21.md) | storyline.2
+| **Session Ended** | [AA09](../../sessions/AA09.md) / [PR26](../../sessions/PR26.md) |
 
 ## Summary
 
@@ -18,34 +18,34 @@ This table shows the [Astorrel](../../organisations/astorrel/astorrel.md) squad 
 
 || Round of 8 || Semi-finals || Final |
 |:---:| --- |:---:| --- |:---:| --- |
-| [AA08](../../sessions/completed/AA08.md) | **[Canary Squad](../../organisations/astorrel/squads/canary-squad.md)** | [AA09](../../sessions/completed/AA09.md) | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) |
-| [AA08](../../sessions/completed/AA08.md) | *[Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md)* |
+| [AA08](../../sessions/AA08.md) | **[Canary Squad](../../organisations/astorrel/squads/canary-squad.md)** | [AA09](../../sessions/AA09.md) | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) |
+| [AA08](../../sessions/AA08.md) | *[Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md)* |
 || *[Birch Squad](../../organisations/astorrel/squads/birch-squad.md)* |
-|| **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../../sessions/completed/AA09.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [PR26](../../sessions/completed/PR26.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** |
-| [PR23](../../sessions/completed/PR23.md) | *[Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md)* |
-| [PR23](../../sessions/completed/PR23.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR24](../../sessions/completed/PR24.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR26](../../sessions/completed/PR26.md) | [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) |
-|| **[Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md)** | [PR24](../../sessions/completed/PR24.md) | [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md) |
+|| **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [AA09](../../sessions/AA09.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** | [PR26](../../sessions/PR26.md) | **[Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md)** |
+| [PR23](../../sessions/PR23.md) | *[Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md)* |
+| [PR23](../../sessions/PR23.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR24](../../sessions/PR24.md) | **[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)** | [PR26](../../sessions/PR26.md) | [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) |
+|| **[Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md)** | [PR24](../../sessions/PR24.md) | [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md) |
 || *[Horizon Squad](../../organisations/astorrel/squads/horizon-squad.md)* |
 
 ## History
 
-### [AA06](../../sessions/completed/AA06.md)
+### [AA06](../../sessions/AA06.md)
 
 Returning to [Bryce Morton](../../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 28 ([AA06-L-1](../../letters/AA06-L-1.md)).
 
 After discussing how competing will affect their next mission, Bryce reassures them that the tournament is their priority if they choose to compete - the mission can wait. After a discussion they choose to compete, responding to [Liabella Peacock](../../characters/liabella-peacock.md) by letter sent from [Astpost Northhaven](../../places/buildings/shops/astpost-northhaven.md).
 
-### [PR21](../../sessions/completed/PR21.md)
+### [PR21](../../sessions/PR21.md)
 
 Immediately following the [Purple Rain](../../campaigns/C1-purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 28 ([PR21-L-1](../../letters/PR21-L-1.md)).
 
 The party is excited at the prospect of competing.
 
-### [PR22](../../sessions/completed/PR22.md)
+### [PR22](../../sessions/PR22.md)
 
 The [Purple Rain](../../campaigns/C1-purple-rain.md) party accepts [Liabella Peacock](../../characters/liabella-peacock.md)'s offer to compete in Nature's Battle 28, replying to her letter.
 
-### [AA07](../../sessions/completed/AA07.md)
+### [AA07](../../sessions/AA07.md)
 
 [Canary squad](../../organisations/astorrel/squads/canary-squad.md) learn that [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) has been swapped with [Noon Schiller](../../characters/noon-schiller.md) from [Dolphin squad](../../organisations/astorrel/squads/dolphin-squad.md). They will still compete in the tournament, now with Noon. The remaining few days of their downtime is used to prepare.
 
@@ -57,7 +57,7 @@ Ludolf fetches four [Astorrel Lieutenants](../../organisations/astorrel/ranks/as
 
 On the day of the tournament [Canary squad](../../organisations/astorrel/squads/canary-squad.md) meet [Levelle Tristwix](../../characters/levelle-tristwix.md), [Mergin Thorgus](../../characters/mergin-thorgus.md), and [Bryce Morton](../../characters/bryce-morton.md) in the square outside of the [Zenith Spire](../../places/buildings/zenith-spire.md), greeted by many [Astorrel](../../organisations/astorrel/astorrel.md) who have came to see the party off. [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md) arrives too, teleported to [Eskrigg](../../places/cities/eskrigg.md) by [Mergin Thorgus](../../characters/mergin-thorgus.md) before [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) are teleported too. Ephaine glimpses [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) as they make their own way to the square, right as the teleport occurs.
 
-### [AA08](../../sessions/completed/AA08.md)
+### [AA08](../../sessions/AA08.md)
 
 [Canary Squad](../../organisations/astorrel/squads/canary-squad.md), [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md), and [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md) arrive at the [Eskrigg Astorrel Stronghold](../../places/strongholds/eskrigg-astorrel-stronghold.md), teleported there by [Mergin Thorgus](../../characters/mergin-thorgus.md). They are present for the beginning of the tournament as [Liabella Peacock](../../characters/liabella-peacock.md) and [Levelle Tristwix](../../characters/levelle-tristwix.md) welcome all of the competing squads to the tournament. The rules are explained and the tournament brackets are drawn randomly.
 
@@ -69,7 +69,7 @@ After several hours the first round of the tournament begins.
 
 The match between [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md) takes place. [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) wins.
 
-### [PR23](../../sessions/completed/PR23.md)
+### [PR23](../../sessions/PR23.md)
 
 The match between [Mortar Squad](../../organisations/astorrel/squads/mortar-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) takes place. [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) wins.
 
@@ -77,19 +77,19 @@ During the fight [Wizira](../../characters/wizira.md) downs [Yoroe Briskboots](.
 
 [Torbra Tauff](../../characters/torbra-tauff.md) comes very close to decapitating [Diarmuid Kavanagh](../../characters/diarmuid-kavanagh.md) which her final halberd strike against him. Instead she opens up a gash on the back of his neck, the shock from which knocks him unconscious.
 
-### [PR24](../../sessions/completed/PR24.md)
+### [PR24](../../sessions/PR24.md)
 
 The match between [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) and [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md) takes place. [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) wins.
 
 [Thanea Morlay](../../characters/thanea-morlay.md) sprouts wings thanks to her [aasimar](../../lineages/aasimar.md) Radiant Soul, dazzling the audience as she flies around the arena, dishing out ranged magical damage as she goes. She is eventually knocked unconscious and falls from the sky when [Norma Collarbone](../../characters/norma-collarbone.md) summons a bestial spirit above her which hits her in mid-air.
 
-### [AA09](../../sessions/completed/AA09.md)
+### [AA09](../../sessions/AA09.md)
 
 The match between [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md) takes place. [Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md) wins.
 
 A dejected [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) are knocked out of the tournament.
 
-### [PR26](../../sessions/completed/PR26.md)
+### [PR26](../../sessions/PR26.md)
 
 The match between [Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) takes place. [Komodo Squad](../../organisations/astorrel/squads/komodo-squad.md) wins.
 

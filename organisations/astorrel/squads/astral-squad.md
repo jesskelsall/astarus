@@ -22,9 +22,9 @@ Astral Squad is the [Astorrel](../astorrel.md) squad that [Wrenn Piznarck](../..
 
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
-| [PR11](../../../sessions/completed/PR11.md) || [Alos Varkann](../../../characters/alos-varkann.md)<br>[Elysia Vanderboss](../../../characters/elysia-vanderboss.md)<br>[Tyburn Dalvos](../../../characters/tyburn-dalvos.md)<br>[Wrenn Piznarck](../../../characters/wrenn-piznarck.md) | First encountered. |
-| [PR21](../../../sessions/completed/PR21.md) | [Elysia Vanderboss](../../../characters/elysia-vanderboss.md) || Elysia promoted to [Astorrel Squad Sergeant](../ranks/astorrel-squad-sergeant.md). |
-| [PR27](../../../sessions/completed/PR27.md) | [Wrenn Piznarck](../../../characters/wrenn-piznarck.md) | [Darjonkaargeac Hidaar](../../../characters/darjonkaargeac-hidaar.md)<br>[Sparrow on the Autumn Pine](../../../characters/sparrow-on-the-autumn-pine.md) | Wrenn MIA.<br>Hidaar and Sparrow moved from [Goshawk Squad](goshawk-squad.md).<br>Hidaar remains [Astorrel Squad Lead](../ranks/astorrel-squad-lead.md).<br>[Elysia Vanderboss](../../../characters/elysia-vanderboss.md) becomes commanding officer. |
+| [PR11](../../../sessions/PR11.md) || [Alos Varkann](../../../characters/alos-varkann.md)<br>[Elysia Vanderboss](../../../characters/elysia-vanderboss.md)<br>[Tyburn Dalvos](../../../characters/tyburn-dalvos.md)<br>[Wrenn Piznarck](../../../characters/wrenn-piznarck.md) | First encountered. |
+| [PR21](../../../sessions/PR21.md) | [Elysia Vanderboss](../../../characters/elysia-vanderboss.md) || Elysia promoted to [Astorrel Squad Sergeant](../ranks/astorrel-squad-sergeant.md). |
+| [PR27](../../../sessions/PR27.md) | [Wrenn Piznarck](../../../characters/wrenn-piznarck.md) | [Darjonkaargeac Hidaar](../../../characters/darjonkaargeac-hidaar.md)<br>[Sparrow on the Autumn Pine](../../../characters/sparrow-on-the-autumn-pine.md) | Wrenn MIA.<br>Hidaar and Sparrow moved from [Goshawk Squad](goshawk-squad.md).<br>Hidaar remains [Astorrel Squad Lead](../ranks/astorrel-squad-lead.md).<br>[Elysia Vanderboss](../../../characters/elysia-vanderboss.md) becomes commanding officer. |
 
 ## History
 

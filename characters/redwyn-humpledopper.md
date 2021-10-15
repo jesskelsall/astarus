@@ -25,8 +25,8 @@ Redwyn Humpledopper is a former player character in the [Astorrel Agents](../cam
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [AA01](../sessions/completed/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
-| [AA12](../sessions/completed/AA12.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) ||||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA12](../sessions/AA12.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) ||||
 
 ## Character Rolls
 

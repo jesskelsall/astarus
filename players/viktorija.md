@@ -16,4 +16,4 @@
 
 | Character | Role(s) | Appearances |
 | --- | --- | --- |
-| [Valan Shadowgaze](../characters/valan-shadowgaze.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/completed/MC00.md) - |
+| [Valan Shadowgaze](../characters/valan-shadowgaze.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/MC00.md) - |

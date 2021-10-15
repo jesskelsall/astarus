@@ -26,8 +26,8 @@ Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/C2-asto
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [AA01](../sessions/completed/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
-| [AA12](../sessions/completed/AA12.md) | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA12](../sessions/AA12.md) | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -45,7 +45,7 @@ Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/C2-asto
 | 2 | - | Fighter | d10 | 9
 | 3 | - | Fighter | d10 | 8
 | 4 | - | Fighter | d10 | 4
-| 5 | [AA09](../sessions/completed/AA09.md) | Barbarian | d12 | 5
+| 5 | [AA09](../sessions/AA09.md) | Barbarian | d12 | 5
 
 ## History
 

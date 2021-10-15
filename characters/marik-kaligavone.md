@@ -47,7 +47,7 @@ TODO
 
 ## Character Sheets
 
-### [MC01M](../sessions/completed/MC01M.md)
+### [MC01M](../sessions/MC01M.md)
 
 ||||
 |:---:|:---:|:---:|

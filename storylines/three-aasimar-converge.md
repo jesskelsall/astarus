@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR25](../sessions/completed/PR25.md) / [AA11](../sessions/completed/AA11.md) | storyline.2
+| **Session Started** | [PR25](../sessions/PR25.md) / [AA11](../sessions/AA11.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -35,7 +35,7 @@ After the [Nature's Battle](../mechanics/roleplay/natures-battle.md) semi-final 
 
 When [Allisa Balsatra](../characters/allisa-balsatra.md) learned of this and that their squad will be playing in the finals, she began putting into motion a plan to observe the final match from a vantage point inside the walls of the arena by using the [Eskrigg](../places/cities/eskrigg.md) sewers for access.
 
-### [PR25](../sessions/completed/PR25.md)
+### [PR25](../sessions/PR25.md)
 
 On the night before the [Nature's Battle 28](ended/natures-battle-28.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has a deva dream in which she sees her deva, [Mykiel](../characters/mykiel.md), once again offer her his hand. This is then mirrored when she sees [Thanea Morlay](../characters/thanea-morlay.md) swoop down on Radiant Soul wings, surrounding her with them. When Thanea offers her hand to Saoirse and she touches it, both wake up in the middle of the night.
 
@@ -45,17 +45,17 @@ Saoirse also learns that Thanea sprouted Radiant Soul wings for the first time w
 
 Saoirse's dreams of wings are almost immediately answered by her warlock patron, [Effie Silttooth](../characters/effie-silttooth.md). Effie bestows her with Necrotic Shroud wings, her magic further corrupting her [aasimar](../lineages/aasimar.md) being. Saoirse is outraged at their lack of lift, not providing her the ability to fly. Effie is adamant that these are better, so Saoirse looks on the bright side and accepts the gift.
 
-### [PR26](../sessions/completed/PR26.md)
+### [PR26](../sessions/PR26.md)
 
 During the [Nature's Battle 28](ended/natures-battle-28.md) final, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sees [Thanea Morlay](../characters/thanea-morlay.md)'s Radiant Soul wings in person for the first time.
 
-### [PR27](../sessions/completed/PR27.md)
+### [PR27](../sessions/PR27.md)
 
 While high on [meteoric dust](../items/meteoric/meteoric-dust.md) and slumped on an [Eskrigg](../places/cities/eskrigg.md) street, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is noticed by [Allisa Balsatra](../characters/allisa-balsatra.md) while on the run with [Xavier Raloven](../characters/xavier-raloven.md). She stops, feeling Saoirse's divine presence, though noticing it feels corrupted (her fallen [aasimar](../lineages/aasimar.md) nature).
 
 Allisa wants to help her, reaching out a hand to try and cast Remove Curse on her. Saoirse grabs her arm by the wrist, asking who she is. This spooks Allisa who remembers that she is in a hurry. Before running off she promises Saoirse that she will not forget her.
 
-### [AA11](../sessions/completed/AA11.md)
+### [AA11](../sessions/AA11.md)
 
 When [Canary squad](../organisations/astorrel/squads/canary-squad.md) confront [Xavier Raloven](../characters/xavier-raloven.md) in the [Eskrigg](../places/cities/eskrigg.md) sewers, he is willing to talk about what he, [Allisa Balsatra](../characters/allisa-balsatra.md), and [Castien Eladan](../characters/castien-eladan.md) are doing in the sewers. He explains that they are here to see "the angel" ([Thanea Morlay](../characters/thanea-morlay.md)), who they learned of after she sprouted Radiant Soul wings in the [Nature's Battle 28](ended/natures-battle-28.md) semi-final. They wish to confirm her existence first-hand by watching the final from a spot under [Vorrinel's Stand](../places/buildings/vorrinels-stand.md) accessible via the sewers.
 
@@ -63,7 +63,7 @@ The party is unimpressed by the answers given and are sceptical. They press for 
 
 Despite the revelation, [Canary squad](../organisations/astorrel/squads/canary-squad.md) isn't willing to look the other way, binding Xavier and preparing to take him back to [Ronvyn Bafflegift](../characters/ronvyn-bafflegift.md) as proof of a spy conspiracy. During this he speaks elvish to Allisa who is disguised as a commoner on the other side of the sewer exit, telling her to leave him and go. She drops her disguise and attempts to grab Xavier while casting Dimension Door to make their escape. Unfortunately Ahsha prevents her from grabbing him, so she opts to leave without him.
 
-### [AA12](../sessions/completed/AA12.md)
+### [AA12](../sessions/AA12.md)
 
 When [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md) confronts [Canary squad](../organisations/astorrel/squads/canary-squad.md) and [Yialdred Korina](../characters/yialdred-korina.md) in an inn cellar, she casts Detect Thoughts on their prisoner, [Xavier Raloven](../characters/xavier-raloven.md). Before doing so she speaks to him in elvish, appealing for him to cooperate, which he does. This allows her to gain not only his thoughts but his memories as well. Doing so gives [Nia](../characters/gwenhwyfar-carew.md) a full picture of his mission with [Allisa Balsatra](../characters/allisa-balsatra.md), their goal (to see [Thanea Morlay](../characters/thanea-morlay.md) first-hand), and her [aasimar](../lineages/aasimar.md) heritage. This is the first insight into [aasimar](../lineages/aasimar.md) that the [Astornar](../organisations/astornar.md) have ever had.
 
@@ -71,7 +71,7 @@ When [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md) confronts [Canary squ
 
 Gwenhwyfar tidies up loose ends by executing Xavier by casting Disintegrate before threatening the party with a similar fate if they don't keep the events of that day ([Syntenne Spies in Eskrigg](ended/syntenne-spies-in-eskrigg.md)) a secret, pretending their day was a typical one instead.
 
-### [PR34](../sessions/completed/PR34.md)
+### [PR34](../sessions/PR34.md)
 
 After talking while walking across the Humar Estuary, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is able to summon for the first time her spectral wings using Necrotic Shroud. She wakes [Thanea Morlay](../characters/thanea-morlay.md) up to show her.
 
@@ -79,7 +79,7 @@ The pair discuss how she was able to do it. Saoirse describes a radiant warmth i
 
 This confirms to the pair that they are of a similar kind.
 
-### [PR36](../sessions/completed/PR36.md)
+### [PR36](../sessions/PR36.md)
 
 [Thanea Morlay](../characters/thanea-morlay.md) receives a letter ([PR36-L-3](../letters/PR36-L-3.md)) inviting her to an audience with [Corville Thornox](../characters/corville-thornox.md), General Supreme of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). It states that he wishes to discuss [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s performance in [Nature's Battle 28](ended/natures-battle-28.md), but this is a half-truth.
 

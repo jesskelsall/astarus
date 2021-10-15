@@ -28,7 +28,7 @@ Lucia Velpione is a player character in the [Purple Rain](../campaigns/C1-purple
 |:---:| --- | --- | --- | --- |
 || [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Pillar Squad](../organisations/astorrel/squads/pillar-squad.md) |||
 || [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Spectral / [Aura Squad](../organisations/astorrel/squads/aura-squad.md) |||
-| [PR37](../sessions/upcoming/PR37.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR37](../sessions/PR37.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls
 

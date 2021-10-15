@@ -26,8 +26,8 @@ Wizira was a player character in the [Purple Rain](../campaigns/C1-purple-rain.m
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [PR21](../sessions/completed/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
-| [PR35](../sessions/completed/PR35.md) | *Dead.* ||||
+| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR35](../sessions/PR35.md) | *Dead.* ||||
 
 ## Character Rolls
 
@@ -42,10 +42,10 @@ Wizira was a player character in the [Purple Rain](../campaigns/C1-purple-rain.m
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
 | 1 | - | Druid | d8 | 8 |
-| 2 | [PR03](../sessions/completed/PR03.md) | Druid | d8 | 4 |
-| 3 | [PR09](../sessions/completed/PR09.md) | Druid | d8 | 6 |
-| 4 | [PR19](../sessions/completed/PR19.md) | Druid | d8 | 8 |
-| 5 | [PR30](../sessions/completed/PR30.md) | Druid | d8 | 7 |
+| 2 | [PR03](../sessions/PR03.md) | Druid | d8 | 4 |
+| 3 | [PR09](../sessions/PR09.md) | Druid | d8 | 6 |
+| 4 | [PR19](../sessions/PR19.md) | Druid | d8 | 8 |
+| 5 | [PR30](../sessions/PR30.md) | Druid | d8 | 7 |
 
 ## Characteristics
 

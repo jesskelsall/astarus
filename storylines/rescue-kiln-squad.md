@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA12](../sessions/completed/AA12.md) | storyline.2
+| **Session Started** | [AA12](../sessions/AA12.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -22,7 +22,7 @@
 
 ## History
 
-### [AA12](../sessions/completed/AA12.md)
+### [AA12](../sessions/AA12.md)
 
 After returning to [Northhaven](../places/cities/northhaven.md), [Bryce Morton](../characters/bryce-morton.md) gives [Canary squad](../organisations/astorrel/squads/canary-squad.md), now including [Yialdred Korina](../characters/yialdred-korina.md) and lead by [Ahsha Sallas](../characters/ahsha-sallas.md), their next mission. Following their exploits in [Eskrigg](../places/cities/eskrigg.md) ([Syntenne Spies in Eskrigg](ended/syntenne-spies-in-eskrigg.md)), which he does not know the details of, he explains that he is sending them on a mission far from [Northhaven](../places/cities/northhaven.md) for their own good while the notoriety he perceives around them is high.
 
@@ -41,7 +41,7 @@ A rough description of the squad's members is provided by Bryce, read from a pap
 
 They leave [Northhaven](../places/cities/northhaven.md) west along the [Great Astor Road](../places/roads/great-astor-road.md). Late on their second day they find an overturned cart that was toppled by a griffon, still present and pinning down the couple riding in the cart. The party dismount and confront the griffon, fighting it and its two friends that appear when the first is provoked. Ahsha is able to rescue the couple from inside the collapsed cart.
 
-### [AA13](../sessions/completed/AA13.md)
+### [AA13](../sessions/AA13.md)
 
 After helping [Ulfric Sander](../characters/ulfric-sander.md) and [Selene Sander](../characters/selene-sander.md) out after the griffon attack on their cart, [Canary Squad](../organisations/astorrel/squads/canary-squad.md) continue west to [Hyceodd](../places/towns/hyceodd.md), arriving after another night on the road. They stable their horses and wagon for the night and stay at [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md).
 

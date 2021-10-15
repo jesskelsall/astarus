@@ -4,7 +4,7 @@
 | --- | --- |
 | **Created on** | 2021-01-16 |
 | **Created for** | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) |
-| **First appearance(s)** | [AA01](../sessions/completed/AA01.md)<br>[PR15](../sessions/completed/PR15.md) |
+| **First appearance(s)** | [AA01](../sessions/AA01.md)<br>[PR15](../sessions/PR15.md) |
 ||
 | **Image ID** | `0a33f80f787cab0f` |
 

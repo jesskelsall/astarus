@@ -4,7 +4,7 @@
 | --- | --- |
 | **Created on** | 2020-12-02 |
 | **Created for** | [Purple Rain](../campaigns/C1-purple-rain.md) |
-| **First appearance(s)** | [PR10](../sessions/completed/PR10.md) |
+| **First appearance(s)** | [PR10](../sessions/PR10.md) |
 ||
 | **Image ID** | `4f90f68092d467ef` |
 

@@ -5,7 +5,7 @@
 | **To** | [Keranios](../characters/keranios.md), [Marik Kaligavone](../characters/marik-kaligavone.md) | letter.1
 | **From** | [Creek](../characters/creek.md) |
 | **Date** | |
-| **Session Given** | [MC01M](../sessions/completed/MC01M.md) |
+| **Session Given** | [MC01M](../sessions/MC01M.md) |
 |||
 | **Image ID** | `04bb019e6a813b0e` |
 

@@ -5,7 +5,7 @@
 | **To** | [Familia Vulpes](../organisations/familia-vulpes.md) | letter.1
 | **From** | [Oronar Redtooth](../characters/oronar-redtooth.md) |
 | **Date** | |
-| **Session Given** | [MC01F](../sessions/completed/MC01F.md) |
+| **Session Given** | [MC01F](../sessions/MC01F.md) |
 |||
 | **Image ID** | `199e41ec67558026` |
 

@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA13](../sessions/completed/AA13.md) | storyline.2
+| **Session Started** | [AA13](../sessions/AA13.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,7 +11,7 @@
 
 ## History
 
-### [AA13](../sessions/completed/AA13.md)
+### [AA13](../sessions/AA13.md)
 
 While fighting gnolls that ambushed [Canary Squad](../organisations/astorrel/squads/canary-squad.md) during the night on their journey to [Blittergate](../places/towns/blittergate.md), [Noon Schiller](../characters/noon-schiller.md) calls upon [Nills](../characters/nills.md) by casting Summon Shadowspawn, asking for her help in combat. The entire party sees [Nills](../characters/nills.md) for the first time and hears Noon conversing with her:
 

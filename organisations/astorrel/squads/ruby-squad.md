@@ -20,4 +20,4 @@ Ruby Squad is the other [Astorrel](../astorrel.md) squad that [Bryce Morton](../
 
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
-| [AA01](../../../sessions/completed/AA01.md) || [Darius Dunn](../../../characters/darius-dunn.md)<br>[Morgan Caithness](../../../characters/morgan-caithness.md)<br>[Penance Zahiri](../../../characters/penance-zahiri.md)<br>[Tabari Se](../../../characters/tabari-se.md) | First encountered.<br>[Bryce Morton](../../../characters/bryce-morton.md) is commanding officer. |
+| [AA01](../../../sessions/AA01.md) || [Darius Dunn](../../../characters/darius-dunn.md)<br>[Morgan Caithness](../../../characters/morgan-caithness.md)<br>[Penance Zahiri](../../../characters/penance-zahiri.md)<br>[Tabari Se](../../../characters/tabari-se.md) | First encountered.<br>[Bryce Morton](../../../characters/bryce-morton.md) is commanding officer. |

@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR30](../../sessions/completed/PR30.md) | storyline.2
-| **Session Ended** | [PR36](../../sessions/completed/PR36.md) |
+| **Session Started** | [PR30](../../sessions/PR30.md) | storyline.2
+| **Session Ended** | [PR36](../../sessions/PR36.md) |
 
 ## Summary
 
@@ -22,11 +22,11 @@
 
 ## History
 
-### [PR30](../../sessions/completed/PR30.md)
+### [PR30](../../sessions/PR30.md)
 
 Following the completion of [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md)'s first mission ([Talk to the Morning Chasers](talk-to-the-morning-chasers.md)), [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) debate which of the four offered missions to take next. [Torbra Tauff](../../characters/torbra-tauff.md) as [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md) makes the decision to head to the Humar Estuary. This is partially motivated by its quick mission deadline and relatively high ratio pay.
 
-### [PR31](../../sessions/completed/PR31.md)
+### [PR31](../../sessions/PR31.md)
 
 #### Day 1
 
@@ -44,7 +44,7 @@ While [Wizira](../../characters/wizira.md) manages to hold her breath and re-sur
 
 [Wizira](../../characters/wizira.md) uses Wild Shape to turn into a fish, making her way to land. The rest of the party follows her, struggling through the reeds and boggy terrain for a while before reaching relatively dry and firm ground.
 
-### [PR32](../../sessions/completed/PR32.md)
+### [PR32](../../sessions/PR32.md)
 
 Now on dry land, the party realise that they have no idea where to go next. With no discernible landmarks except for a few trees and the [River Humar](../../places/rivers-lakes/river-humar.md) behind them, they decide to take shelter under a large tree nearby, dry their clothes, and wait for the rain to pass.
 
@@ -52,13 +52,13 @@ After several hours the rain is not letting up but their clothes are drier. When
 
 Travelling for most of the day, the party eventually see disturbances in the water ahead. As they get closer they begin to make out [Leithran Shack](../../places/buildings/leithran-shack.md) through the rainy mist. They hear [Montel Leithran](../../characters/montel-leithran.md) shouting for help fighting off crocodiles and rush to help. They are able to save Montel from death at the hands of a crocodile thanks to [Wizira](../../characters/wizira.md)'s Healing Word, and fight off the rest of the crocodiles present in the water around the shack.
 
-### [PR33](../../sessions/completed/PR33.md)
+### [PR33](../../sessions/PR33.md)
 
 [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) meet [Montel Leithran](../../characters/montel-leithran.md) and [Esme Leithran](../../characters/esme-leithran.md) in [Leithran Shack](../../places/buildings/leithran-shack.md). They spend the night together, getting to know each other, particularly the pair's struggles as elves trying to make a home in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
 During this time [Thanea Morlay](../../characters/thanea-morlay.md) asks them if they have seen anything strange or suspicious on their travels since leaving [Hyceodd](../../places/towns/hyceodd.md). [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) casts Minor Illusion to create images of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) and [Meteoric Watchers](../../creatures/meteoric-watcher.md). Montel replies that he has seen nothing of the kind, or anything crater-like.
 
-### [PR34](../../sessions/completed/PR34.md)
+### [PR34](../../sessions/PR34.md)
 
 #### Day 4
 
@@ -80,7 +80,7 @@ When [Wizira](../../characters/wizira.md) casts Detect Magic and finds nothing s
 
 A giant crocodile breaches the surface of the water right next to [Wizira](../../characters/wizira.md), fitting part of her into its mouth.
 
-### [PR35](../../sessions/completed/PR35.md)
+### [PR35](../../sessions/PR35.md)
 
 The giant crocodile bites down hard on [Wizira](../../characters/wizira.md), doing her great damage and pulling her underwater. When she tries to escape it knocks her unconscious with its tail. [Torbra Tauff](../../characters/torbra-tauff.md) swims into the lake to defend her. She is able to use her Stone Rune to subdue the crocodile, giving her a chance to pull [Wizira](../../characters/wizira.md) to the shore.
 
@@ -92,7 +92,7 @@ As the crocodile swims back into the lake with her body, Torbra and Thanea do th
 
 Distraught by the death of their friend, the party regroups and works through their anguish. [Montel Leithran](../../characters/montel-leithran.md) expresses his regret at not being able to do anything to help, but Saoirse and Thanea reassure him that it is okay. Torbra finds [Wizira's Staff](../../items/wiziras-staff.md) on the shoreline, taking it to the party, clutching it like a sacred artifact.
 
-### [PR36](../../sessions/completed/PR36.md)
+### [PR36](../../sessions/PR36.md)
 
 Returning to [Northhaven](../../places/cities/northhaven.md), [Torbra Tauff](../../characters/torbra-tauff.md) breaks the news to [Elysia Vanderboss](../../characters/elysia-vanderboss.md) that [Wizira](../../characters/wizira.md) is dead and so they returned, defeated. Eventually Elysia gets the squad back to [Tenterfell House](../../places/buildings/tenterfell-house.md) for a debrief.
 

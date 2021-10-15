@@ -27,7 +27,7 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
 || [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) | [Emdar Silverstrike](emdar-silverstrike.md) ||
-| [AA07](../sessions/completed/AA07.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA07](../sessions/AA07.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -45,7 +45,7 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 | 2 | - | Warlock | d8 | 3 |
 | 3 | - | Warlock | d8 | 2 |
 | 4 | - | Warlock | d8 | 5 |
-| 5 | [AA09](../sessions/completed/AA09.md) | Warlock | d8 | 8 |
+| 5 | [AA09](../sessions/AA09.md) | Warlock | d8 | 8 |
 
 ## History
 

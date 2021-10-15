@@ -2,8 +2,8 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA10](../../sessions/completed/AA10.md) | storyline.2
-| **Session Ended** | [AA12](../../sessions/completed/AA12.md) |
+| **Session Started** | [AA10](../../sessions/AA10.md) | storyline.2
+| **Session Ended** | [AA12](../../sessions/AA12.md) |
 
 ## Summary
 
@@ -11,7 +11,7 @@ After [Noon Schiller](../../characters/noon-schiller.md) competed in [Nature's B
 
 ## History
 
-## [AA10](../../sessions/completed/AA10.md)
+## [AA10](../../sessions/AA10.md)
 
 On the day of the [Nature's Battle 28](natures-battle-28.md) final, [Noon Schiller](../../characters/noon-schiller.md) comes down for breakfast in the [Eskrigg Astorrel Stronghold](../../places/strongholds/eskrigg-astorrel-stronghold.md) and is given a letter ([AA10-L-1](../../letters/AA10-L-1.md)) by an [Astorrel member](../../organisations/astorrel/ranks/astorrel-member.md). This provides Noon with the "family rate" prices for all weapons offered, as well as the provision to gain one free of charge for his own use.
 
@@ -21,7 +21,7 @@ At [Schiller Steel Eskrigg](../../places/buildings/shops/schiller-steel-eskrigg.
 
 When Noon asks to buy the greataxe and 3 daggers, Callum provides the "family rate" price which is well in excess of what the party can afford. Noon tries to convince him to put the greataxe on his father's tab, but Callum is too fearful of losing his life for the transgression. Ultimately the party walk out of the shop empty handed.
 
-## [AA12](../../sessions/completed/AA12.md)
+## [AA12](../../sessions/AA12.md)
 
 Following [Canary squad](../../organisations/astorrel/squads/canary-squad.md)'s exploits in the [Eskrigg](../../places/cities/eskrigg.md) sewers ([Syntenne Spies in Eskrigg](syntenne-spies-in-eskrigg.md)), [Noon Schiller](../../characters/noon-schiller.md) returns to [Schiller Steel Eskrigg](../../places/buildings/shops/schiller-steel-eskrigg.md) to retrieve the [Schiller Steel](../../items/weapons/schiller-steel.md) greataxe. He is determined to take it at any cost, still furious by his powerlessness at the hands of [Nia](../../characters/gwenhwyfar-carew.md).
 

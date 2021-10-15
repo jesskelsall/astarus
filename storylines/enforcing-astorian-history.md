@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA11](../sessions/completed/AA11.md) | storyline.2
+| **Session Started** | [AA11](../sessions/AA11.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -11,11 +11,11 @@ The [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) is
 
 ## History
 
-### [AA11](../sessions/completed/AA11.md)
+### [AA11](../sessions/AA11.md)
 
 When reporting a potential [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) spy conspiracy to [Legacy Aranius](../characters/legacy-aranius.md) and [Ronvyn Bafflegift](../characters/ronvyn-bafflegift.md), [Canary squad](../organisations/astorrel/squads/canary-squad.md) hear Legacy order [Tanin Arnous](../characters/tanin-arnous.md) to fetch a Truthseeker.
 
-### [AA12](../sessions/completed/AA12.md)
+### [AA12](../sessions/AA12.md)
 
 When [Canary squad](../organisations/astorrel/squads/canary-squad.md) plus [Yialdred Korina](../characters/yialdred-korina.md) exit the [Eskrigg](../places/cities/eskrigg.md) sewers with [Xavier Raloven](../characters/xavier-raloven.md) as their prisoner, they emerge up the sewer ladder into the basement of an inn, passing through an Arcane Gate. Here they meet [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md), calling herself "[Nia](../characters/gwenhwyfar-carew.md)" to protect her identity. She reveals that she is an [Astornar](../organisations/astornar.md) Truthseeker and the person that they are supposed to be delivering Xavier to, not [Ronvyn Bafflegift](../characters/ronvyn-bafflegift.md).
 
