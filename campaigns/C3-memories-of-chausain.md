@@ -38,8 +38,9 @@
 | [MC01F](../sessions/completed/MC01F.md) | 2021-08-29 | *Introducing [Familia Vulpes](../organisations/familia-vulpes.md)* |
 | [MC01M](../sessions/completed/MC01M.md) | 2021-09-05 | *Introducing the [Marsh Skimmers](../organisations/marsh-skimmers.md)* |
 | [MC02](../sessions/completed/MC02.md) | 2021-09-19 | *From Wall to Desert* |
+| [MC03](../sessions/completed/MC03.md) | 2021-10-10 | *A Metal Orb* |
 ||
-| [MC03](../sessions/upcoming/MC03.md) | 2021-10-10 | |
+| [MC04](../sessions/upcoming/MC04.md) | 2021-10-24 | |
 
 ## Storylines
 
@@ -51,4 +52,6 @@
 | [The Shiny Ball](../storylines/the-shiny-ball.md) | [MC01F](../sessions/completed/MC01F.md) | |
 | [Hammersmiths on the Offensive](../storylines/hammersmiths-on-the-offensive.md) | [MC01M](../sessions/completed/MC01M.md) | |
 | [Malnesh Waits Patiently](../storylines/malnesh-waits-patiently.md) | [MC02](../sessions/completed/MC02.md) | |
-| [Escaping the Desert](../storylines/escaping-the-desert.md) | [MC02](../sessions/completed/MC02.md) | |
+| [Escaping the Desert](../storylines/ended/escaping-the-desert.md) | [MC02](../sessions/completed/MC02.md) | [MC03](../sessions/completed/MC03.md) |
+| [Skimming on Thin Ice](../storylines/skimming-on-thin-ice.md) | [MC03](../sessions/completed/MC03.md) | |
+| [The Kavallos Fleet Infiltrates Côtedouce](../storylines/the-kavallos-fleet-infiltrates-cotedouce.md) | [MC03](../sessions/completed/MC03.md) | |

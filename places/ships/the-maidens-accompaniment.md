@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | The Maiden's Accompaniment |
-| **Type** | Sailing ship |
+| **Type** | Ship |
 | **Affiliation** | Private |
 | **Business** | Trade |
 | **Location** | [South East Kardan](../regions/south-east-kardan.md) |

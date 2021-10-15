@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | ***[Reimatelau](../civilisations/nilsavnic-alliance/states/reimatelau.md), [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md)*** | *(French)* ||
 | Banquesèche | Banque sèche | Dry bank |
-| Côtedouce | Côte douce | Gentle coast |
+| [Côtedouce](towns/cotedouce.md) | Côte douce | Gentle coast |
 | Effrontée || Forward |
 | Mont Ombre || Shadow mountain |
 | Mont Sort || Fate mountain |

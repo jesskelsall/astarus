@@ -4,13 +4,13 @@
 
 |||
 | --- | --- |
-| **Name** | *Wedge* (Marsh Skimmer name) | character.3
+| **Name** | *Wedge* ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.3
 | **Lineage** | Goblin |
 | **Pronouns** | they/them |
 | **Age** | 37 |
 | **Class** | |
 | **Worship** | |
-| **Relations** | [Creek](creek.md) (Marsh Skimmer contact) |
+| **Relations** | [Creek](creek.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) contact) |
 | **Places** | [Creek's Bar](../places/buildings/inns-taverns/creeks-bar.md) (barkeep) |
 |||
 | **Citizenship** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Wedge is the charismatic barkeep of [Creek's Bar](../places/buildings/inns-taverns/creeks-bar.md), working closely with [Creek](creek.md) on his Marsh Skimmer operations.
+Wedge is the charismatic barkeep of [Creek's Bar](../places/buildings/inns-taverns/creeks-bar.md), working closely with [Creek](creek.md) on his [Marsh Skimmers](../organisations/marsh-skimmers.md) operations.
 
 ## Characteristics
 

@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Marik Kaligavone<br>Stonebreaker (Goliath nickname)<br>*Tempest* (Marsh Skimmer name) | character.3
+| **Name** | Marik Kaligavone<br>Stonebreaker (Goliath nickname)<br>*Tempest* ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.3
 | **Lineage** | Goliath |
 | **Pronouns** | she/her |
 | **Age** | 24 |

@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | Keranios<br>*Kera* (nickname)<br>*Calm* (Marsh Skimmer name) | character.3
+| **Name** | Keranios<br>*Kera* (nickname)<br>*Calm* ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.3
 | **Lineage** | Minotaur |
 | **Pronouns** | he/him |
 | **Age** | 37 |

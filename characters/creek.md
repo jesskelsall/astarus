@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | *Creek* (Marsh Skimmer name) | character.3
+| **Name** | *Creek* ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.3
 | **Lineage** | Tabaxi |
 | **Pronouns** | he/him |
 | **Age** | 41 |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Creek is an enigmatic Marsh Skimmer contact that operates out of [Creek's Bar](../places/buildings/inns-taverns/creeks-bar.md) in [Tabaxi's Folly](../places/buildings/tabaxis-folly.md). He works closely with [Wedge](wedge.md) who operates his bar.
+Creek is an enigmatic [Marsh Skimmers](../organisations/marsh-skimmers.md) contact that operates out of [Creek's Bar](../places/buildings/inns-taverns/creeks-bar.md) in [Tabaxi's Folly](../places/buildings/tabaxis-folly.md). He works closely with [Wedge](wedge.md) who operates his bar.
 
 [Keranios](keranios.md) and [Marik Kaligavone](marik-kaligavone.md) both owe Creek a debt which puts them at his service. Creek has close ties to [Crucible](crucible.md) who operates out of [Starnov](../places/cities/starnov.md).
 

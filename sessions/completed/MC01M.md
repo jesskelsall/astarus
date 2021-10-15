@@ -11,7 +11,7 @@
 
 ## Returning to [Creek](../../characters/creek.md)
 
-While away from the [Scintil Delta](../../places/rivers-lakes/scintil-delta.md), [Keranios](../../characters/keranios.md) and [Marik Kaligavone](../../characters/marik-kaligavone.md) receive a letter ([MC01M-L-1](../../letters/MC01M-L-1.md)) from their Marsh Skimmer contract, [Creek](../../characters/creek.md), requesting their presence at [Tabaxi's Folly](../../places/buildings/tabaxis-folly.md). Marik reads it to Kera who is illiterate. [Creek](../../characters/creek.md) notes their debt to him after he bailed them out of jail earlier in their Marsh Skimmer career.
+While away from the [Scintil Delta](../../places/rivers-lakes/scintil-delta.md), [Keranios](../../characters/keranios.md) and [Marik Kaligavone](../../characters/marik-kaligavone.md) receive a letter ([MC01M-L-1](../../letters/MC01M-L-1.md)) from their [Marsh Skimmers](../../organisations/marsh-skimmers.md) contract, [Creek](../../characters/creek.md), requesting their presence at [Tabaxi's Folly](../../places/buildings/tabaxis-folly.md). Marik reads it to Kera who is illiterate. [Creek](../../characters/creek.md) notes their debt to him after he bailed them out of jail earlier in their [Marsh Skimmers](../../organisations/marsh-skimmers.md) career.
 
 The pair make their way back to [Murkwallow](../../places/cities/murkwallow.md), heading across the [River Scintil](../../places/rivers-lakes/river-scintil.md) by boat and into the city. Once there they locate one of the secret entrances hidden under a canal bridge, pressing the secret cobblestone button to unlock the push-in door.
 
@@ -188,7 +188,7 @@ Marik leads the party out of [Kulevi](../../places/towns/kulevi.md), hitting the
 
 ## Delivering the Songbird to [Crucible](../../characters/crucible.md)
 
-Upon arriving in [Starnov](../../places/cities/starnov.md), the party are met by a dwarf skimmer who takes them to a Marsh Skimmer contact in the city. They lead them to a dark warehouse where they move a heavy box aside, revealing a trapdoor. The dwarf opens it, lights a candle, and descends into a small tunnel. The party follows.
+Upon arriving in [Starnov](../../places/cities/starnov.md), the party are met by a dwarf skimmer who takes them to a [Marsh Skimmers](../../organisations/marsh-skimmers.md) contact in the city. They lead them to a dark warehouse where they move a heavy box aside, revealing a trapdoor. The dwarf opens it, lights a candle, and descends into a small tunnel. The party follows.
 
 A brief claustrophobic tunnel leads to an excavated room with a wooden desk, two bookcases behind it, and a few chairs on the opposite side of the 20ft by 15ft space. Sat at the desk is [Crucible](../../characters/crucible.md).
 

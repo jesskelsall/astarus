@@ -14,7 +14,7 @@
 
 Kuv'narash is a small settlement along the fertile banks of the River Ume, home to a number of tabaxi clans as well as some dragonborn and elves. It is isolated from other settlements by the surrounding Kas'ran Desert.
 
-Côtedouce is the closest settlement to the west.
+[Côtedouce](../towns/cotedouce.md) is the closest settlement to the west.
 
 | Sensation | Description |
 | ---- | --- |

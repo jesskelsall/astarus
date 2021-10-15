@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | *Crucible* (Marsh Skimmer name) | character.3
+| **Name** | *Crucible* ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.3
 | **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 52 |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Crucible is a stern and unforgiving Marsh Skimmer contact that operates out of [Starnov](../places/cities/starnov.md). She is a [magicborn](../civilisations/kingdom-of-astor/magicborn.md), naturally gifted in minor magic.
+Crucible is a stern and unforgiving [Marsh Skimmers](../organisations/marsh-skimmers.md) contact that operates out of [Starnov](../places/cities/starnov.md). She is a [magicborn](../civilisations/kingdom-of-astor/magicborn.md), naturally gifted in minor magic.
 
 She is allied with [Creek](creek.md), willing to help him with his business outside of [Murkwallow](../places/cities/murkwallow.md).
 
