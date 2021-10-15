@@ -1,17 +1,36 @@
 const fs = require('fs')
-const { dropRight, flow, keys, last, flatten, set, orderBy, isString } = require('lodash/fp')
+const { isUndefined } = require('lodash')
+const { dropRight, flow, keys, last, flatten, set, orderBy, isString, replace, map } = require('lodash/fp')
 const path = require('path')
 
-const ignoredFiles = [
+// Files not added to the library of potential links.
+// These pages won't get linked to at all
+const unmappedFiles = [
   'README.md',
-  'astarus/gods/README.md',
 ]
 
-const getFileTitle = (fileContents) => {
+// Files that don't have links applied to them
+const unlinkedFiles = [
+  'characters/non-astarus',
+  'README.md',
+]
+
+const applyAccentReplacements = (contents) => [
+  ['Asterr', 'Astérr'],
+  ['Cotedouce', 'Côtedouce'],
+  ['Saoirse o Dochartaigh', 'Saoirse ó Dochartaigh'],
+  ['Vetrall', 'Vētrall'],
+  ['Zolne', 'Zolné'],
+].reduce(
+  (updatedContent, [from, to]) => updatedContent.replace(new RegExp(from, 'g'), to),
+  contents,
+)
+
+const getFileTitles = (fileContents) => {
   const firstLine = fileContents.split('\n')[0]
 
   if (!firstLine.startsWith('# ')) return null
-  return firstLine.slice(2).trim().toLowerCase()
+  return firstLine.slice(2).split('/').map((title) => title.trim().toLowerCase())
 }
 
 const readFileTitles = (directory, titles = {}) => {
@@ -22,7 +41,8 @@ const readFileTitles = (directory, titles = {}) => {
       if (file.startsWith('.')) return collatedTitles
 
       const filePath = path.join(directory, file)
-      if (ignoredFiles.includes(filePath)) return collatedTitles
+
+      if (unmappedFiles.includes(filePath)) return collatedTitles
 
       const isDirectory = fs.lstatSync(filePath).isDirectory()
 
@@ -31,20 +51,24 @@ const readFileTitles = (directory, titles = {}) => {
       if (file.endsWith('.md')) {
         const fileContents = fs.readFileSync(filePath).toString()
 
-        const formattedTitle = getFileTitle(fileContents)
-        if (formattedTitle === null) return collatedTitles
+        const formattedTitles = getFileTitles(fileContents)
+        if (formattedTitles === null) return collatedTitles
 
-        if (formattedTitle in collatedTitles) console.log(`WARNING: Title already exists: ${formattedTitle}`)
+        formattedTitles.forEach((title) => {
+          if (title in collatedTitles) console.log(`WARNING: Title already exists: ${title}`)
+        })
 
         return flow(
-          set([formattedTitle], {
-            isPlural: false,
-            filePath,
-          }),
-          set([`${formattedTitle}s`], {
-            isPlural: true,
-            filePath,
-          }),
+          ...formattedTitles.map((title) => flow(
+            set([title], {
+              isPlural: false,
+              filePath,
+            }),
+            set([`${title}s`], {
+              isPlural: true,
+              filePath,
+            }),
+          ))
         )(collatedTitles)
       }
 
@@ -111,13 +135,18 @@ const splitLinksFromContent = (content) => {
 applyLinksToFile = (filePath, fileContents) => {
   const contentParts = splitLinksFromContent(fileContents)
 
-  const fileTitle = getFileTitle(fileContents)
+  const fileTitles = getFileTitles(fileContents)
 
   const orderedTitles = flow(
     keys,
-    orderBy(['length'], ['desc'])
+    orderBy(['length'], ['desc']),
   )(titles)
-  const splitRegex = new RegExp(`\\b(${orderedTitles.join('|')})(s|)\\b`, 'gi')
+  const regexTitles = map(flow(
+    replace(/\(/g, '\\('),
+    replace(/\)/g, '\\)'),
+  ), orderedTitles)
+
+  const splitRegex = new RegExp(`\\b(${regexTitles.join('|')})(s|)\\b`, 'gi')
 
   const linkedContentParts = flatten(contentParts.map((part) => {
     if (typeof part !== 'string') return part
@@ -129,8 +158,8 @@ applyLinksToFile = (filePath, fileContents) => {
         const titleObject = titles[splitPart.toLowerCase()]
         if (titleObject) {
           const { isPlural } = titleObject
-          const singularFileTitle = isPlural ? `${fileTitle}s` : fileTitle
-          if (splitPart.toLowerCase() === singularFileTitle) return splitPart
+          const samePluralisationTitles = isPlural ? fileTitles.map((title) => `${title}s`) : fileTitles
+          if (samePluralisationTitles.includes(splitPart.toLowerCase())) return splitPart
         }
 
         if (orderedTitles.includes(splitPart.toLowerCase())) return { text: splitPart }
@@ -158,7 +187,7 @@ const writeLinksToFiles = (directory) => {
     if (file.startsWith('.')) return
 
     const filePath = path.join(directory, file)
-    if (ignoredFiles.includes(filePath)) return
+    if (unlinkedFiles.some((unlinkedFile) => filePath.includes(unlinkedFile))) return
 
     const isDirectory = fs.lstatSync(filePath).isDirectory()
 
@@ -166,7 +195,8 @@ const writeLinksToFiles = (directory) => {
 
     if (file.endsWith('.md')) {
       const fileContents = fs.readFileSync(filePath).toString()
-      const linkedContent = applyLinksToFile(filePath, fileContents)
+      const accentedFileContents = applyAccentReplacements(fileContents)
+      const linkedContent = applyLinksToFile(filePath, accentedFileContents)
 
       if (fileContents === linkedContent) return
 
