@@ -53,3 +53,48 @@ Later, after [Noon Schiller](../characters/noon-schiller.md) returns to [Schille
 
 *[Nills](../characters/nills.md):*
 > Well answered.
+
+### [AA13](../sessions/AA13.md)
+
+When [Ephaine Seren](../characters/ephaine-seren.md) recants her backstory and mentions not knowing what will await her in [Filisur](../places/villages/filisur.md), [Nills](../characters/nills.md) chimes in with a cryptic note for [Noon Schiller](../characters/noon-schiller.md), suggesting she knows what will be found there:
+
+*[Ephaine Seren](../characters/ephaine-seren.md):*
+> ...so I'm not sure what's going to be waiting for me there.
+
+*[Nills](../characters/nills.md), appearing to [Noon Schiller](../characters/noon-schiller.md) nearby:*
+> What indeed.
+
+During the night while Ephaine takes watch with Noon, [Nills](../characters/nills.md) appears again, talking about Ephaine:
+
+*[Nills](../characters/nills.md):*
+> She's just a child. Don't let the badge fool you.  
+> I think before long that part of her life will be behind her.
+
+*[Noon Schiller](../characters/noon-schiller.md):*
+> We shall see, dear sister.
+
+While riding into the bottom of the [Tresenda Pass](../places/roads/tresenda-pass.md) valley, [Nills](../characters/nills.md) appears on the draft horse in front of Noon, speaking of destiny, alluding to [Nills](../characters/nills.md)' knowledge of what awaits the party in [Filisur](../places/villages/filisur.md):
+
+*[Nills](../characters/nills.md):*
+> [Brother light](../characters/noon-schiller.md), do you believe in destiny?
+
+*[Noon Schiller](../characters/noon-schiller.md):*
+> I try my best not to.
+
+*[Nills](../characters/nills.md):*
+> A fair answer. And what about this lot, what do you think?
+
+*[Noon Schiller](../characters/noon-schiller.md):*
+> I hope they'll be fit for purpose.
+
+*[Nills](../characters/nills.md):*
+> For once I'm not speaking of us.  
+> There's something out here in these mountains. I think it's only a matter of time until we find it.  
+> Will you play your part?
+
+*[Noon Schiller](../characters/noon-schiller.md):*
+> Indeed dear sister.  
+> Have I ever failed to in the past?
+
+*[Nills](../characters/nills.md):*
+> Not yet brother, not yet.

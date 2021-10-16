@@ -81,3 +81,4 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [AA12](../sessions/AA12.md) | |
 | [The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md) | [AA13](../sessions/AA13.md) | |
 | [Noon's Shadow](../storylines/noons-shadow.md) | [AA13](../sessions/AA13.md) | |
+| [Ephaine's Missing Brother](../storylines/ephaines-missing-brother.md) | [AA14](../sessions/AA14.md) | |

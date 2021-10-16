@@ -6,7 +6,7 @@
 | **Type** | Inn |
 | **Location** | [Blittergate](../../towns/blittergate.md) |
 | **Nearby Places** | [The Courteous Cow](the-courteous-cow.md) |
-| **People** | |
+| **People** | [Reed Dovenby](../../../characters/reed-dovenby.md) (host) |
 
 ## Summary
 

@@ -22,3 +22,13 @@ While fighting gnolls that ambushed [Canary Squad](../organisations/astorrel/squ
 > Yes of course [brother light](../characters/noon-schiller.md), it would be my pleasure.
 
 As instructed, [Nills](../characters/nills.md) arrives with a piercing scream that frightens many of the gnolls and [Ahsha Sallas](../characters/ahsha-sallas.md). [Nills](../characters/nills.md) runs off into the dark to confront the gnoll pack lord but proves less useful than expected in dispatching him.
+
+### [AA14](../sessions/AA14.md)
+
+Immediately following the defeat of the gnolls, [Nills](../characters/nills.md) emerges from the darkness with bright white eyes. She takes a bow towards [Noon Schiller](../characters/noon-schiller.md) before disappearing into smoke on the wind.
+
+[Ahsha Sallas](../characters/ahsha-sallas.md) and [Ephaine Seren](../characters/ephaine-seren.md) interrogate Noon on the nature of her shadow, particularly bothered that he has this ability but hadn't felt it pertinent to mention it yet. Ahsha strongly encourages him to share what he can do so the squad can rely on his abilities, but Noon tries his best to placate them with assurances that he is in control of the shadow and she is on their side as long as Noon is. This is of little comfort to Ephaine.
+
+Noon explains that the shadow is part of her and always has been.
+
+The following night while camping by the road, Ahsha takes second watch. During it she asks Noon more about the shadow, wondering if it is always around them. Noon remains tight lipped, suggesting he doesn't know how the shadow came to be. It is clear to Ahsha that Noon doesn't like talking about the subject as he stiffens up when questioned.
