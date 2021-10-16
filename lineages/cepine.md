@@ -1,4 +1,4 @@
-# Cepine
+# Cepine / Cepina
 
 |||
 | --- | --- |
@@ -23,8 +23,8 @@ Their territory is within the borders of the [Kingdom of Astor](../civilisations
 ## People
 
 - [Adalie Seren](../characters/adalie-seren.md)
-- Besar Seren
+- [Besar Seren](../characters/besar-seren.md)
 - [Ephaine Seren](../characters/ephaine-seren.md)
-- Irla Seren
+- [Irla Seren](../characters/irla-seren.md)
 - [Schaef Seren](../characters/schaef-seren.md)
 - [Tamman Seren](../characters/tamman-seren.md)

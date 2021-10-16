@@ -26,4 +26,4 @@ Kuv'narash is a small settlement along the fertile banks of the River Ume, home 
 
 ## Places
 
-- [Dune's House](../buildings/dunes-house.md)
+- [Dune's House](../buildings/houses/dunes-house.md)

@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | [Zolné Windclaw](zolne-windclaw.md) (friend) |
-| **Places** | [Dune's House](../places/buildings/dunes-house.md)<br>[Kuv'narash](../places/villages/kuvnarash.md) |
+| **Places** | [Dune's House](../places/buildings/houses/dunes-house.md)<br>[Kuv'narash](../places/villages/kuvnarash.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

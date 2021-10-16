@@ -11,7 +11,7 @@
 | **Class** | Druid (Circle of the Stars) |
 | **Background** | Acolyte (Shelter of the Faithful) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Tamman Seren](tamman-seren.md) (older brother)<br>Besar Seren (younger brother)<br>Irla Seren (younger sister)<br>[Ludolf Hornwallis](ludolf-hornwallis.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
+| **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Tamman Seren](tamman-seren.md) (older brother)<br>[Besar Seren](besar-seren.md) (younger brother)<br>[Irla Seren](irla-seren.md) (younger sister)<br>[Ludolf Hornwallis](ludolf-hornwallis.md) ([Astorrel](../organisations/astorrel/astorrel.md) mentor) |
 | **Places** | [Filisur](../places/villages/filisur.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
@@ -54,9 +54,9 @@ She grew up in the cycle of [Filisur](../places/villages/filisur.md), set in the
 
 At an early age, through the old [Cepine](../lineages/cepine.md) customs, Seren was brought to the shepherd's mountain shrine where the stars are worshipped. Here she heard her first whispers from the heavens who had favoured her. She would be a blessing to her little valley, if she could stay hidden.
 
-At 15 years old, the winter snows arrived early and completely overnight, trapping the [Astornox](../organisations/astornox/astornox.md) garrison in the valley. Over the course of their winter trapped there, they began forcefully taking stored food and grain to feed themselves. They did not do so tactically - rationing would have provided enough food for everyone to see through the winter, but instead they took as they pleased. During this time the Cepina suffered one of their worst winters in living memory.
+At 15 years old, the winter snows arrived early and completely overnight, trapping the [Astornox](../organisations/astornox/astornox.md) garrison in the valley. Over the course of their winter trapped there, they began forcefully taking stored food and grain to feed themselves. They did not do so tactically - rationing would have provided enough food for everyone to see through the winter, but instead they took as they pleased. During this time the [Cepina](../lineages/cepine.md) suffered one of their worst winters in living memory.
 
-With stored food supplies running out, the [Astornox](../organisations/astornox/astornox.md) turned to the livestock for food. Soldiers began to poach sheep from the barns at night - steadily increasing in amount and frequency. Within a month there were grave concerns that there wouldn't be enough livestock left to repopulate, and the Cepina would lose everything.
+With stored food supplies running out, the [Astornox](../organisations/astornox/astornox.md) turned to the livestock for food. Soldiers began to poach sheep from the barns at night - steadily increasing in amount and frequency. Within a month there were grave concerns that there wouldn't be enough livestock left to repopulate, and the [Cepina](../lineages/cepine.md) would lose everything.
 
 Her older brother [Tamman Seren](tamman-seren.md) foolishly decided to stand up against the [Astornox](../organisations/astornox/astornox.md). One night while on watch protecting the sheep, an [Astornox Lieutenant](../organisations/astornox/ranks/astornox-lieutenant.md) and his vanguard came to take more of the family's dwindling livelihood. Tamman confronted them when they arrived, and was beaten to near death for his insolence. In retaliation, [Schaef Seren](schaef-seren.md) was forced to drive the healthiest of his reduced flocks across the valley.
 

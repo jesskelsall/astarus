@@ -3,15 +3,15 @@
 |||
 | --- | --- |
 | **Name** | Soulier Cottage | place.4
-| **Type** | Building |
-| **Location** | Elves of Chausain<br>[Oonar](../../planes/oonar.md) |
+| **Type** | House |
+| **Location** | Elves of Chausain<br>[Oonar](../../../planes/oonar.md) |
 | **Period** | Pre Second Coming |
 | **Nearby Places** | |
-| **People** | Rene Soulier<br>[Corinne Soulier](../../characters/corinne-soulier.md)<br>[Naeva Soulier](../../characters/naeva-soulier.md) |
+| **People** | Rene Soulier<br>[Corinne Soulier](../../../characters/corinne-soulier.md)<br>[Naeva Soulier](../../../characters/naeva-soulier.md) |
 
 ## Summary
 
-The Soulier Cottage was the family home of the Soulier family, giving home to Rene, Corinne, and Naeva. It was captured by the [Soulier Cottage Memory Sphere](../../items/memory-spheres/soulier-cottage-memory-sphere.md) by Rene.
+The Soulier Cottage was the family home of the Soulier family, giving home to Rene, Corinne, and Naeva. It was captured by the [Soulier Cottage Memory Sphere](../../../items/memory-spheres/soulier-cottage-memory-sphere.md) by Rene.
 
 An idyllic cottage on the sloping hills of the Chausainese countryside, with views of the city of Chausain and its nearby lake.
 

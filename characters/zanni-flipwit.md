@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | |
-| **Places** | [Zanni Flipwit's House](../places/buildings/zanni-flipwits-house.md) |
+| **Places** | [Zanni Flipwit's House](../places/buildings/houses/zanni-flipwits-house.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

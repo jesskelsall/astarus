@@ -3,14 +3,14 @@
 |||
 | --- | --- |
 | **Name** | Raine's Cottage | place.4
-| **Type** | Building |
-| **Location** | [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md)<br>[Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Type** | House |
+| **Location** | [Valburg](../../../civilisations/nilsavnic-alliance/states/valburg.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Nearby Places** | Gondblick |
-| **People** | [Raine Soulier](../../characters/raine-soulier.md) |
+| **People** | [Raine Soulier](../../../characters/raine-soulier.md) |
 
 ## Summary
 
-Raine's Cottage is the home of [Raine Soulier](../../characters/raine-soulier.md). It is a stone cottage built on the hills overlooking [Lake Gondra](../rivers-lakes/lake-gondra.md), trying its best to emulate the look and feel of the [Soulier Cottage](soulier-cottage.md).
+Raine's Cottage is the home of [Raine Soulier](../../../characters/raine-soulier.md). It is a stone cottage built on the hills overlooking [Lake Gondra](../../rivers-lakes/lake-gondra.md), trying its best to emulate the look and feel of the [Soulier Cottage](soulier-cottage.md).
 
 From here Raine lives in relative isolation, enjoying the solitude and opportunity to perform their research on magical artifacts away from the noise of a settlement.
 
@@ -18,7 +18,7 @@ From here Raine lives in relative isolation, enjoying the solitude and opportuni
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Drab cobbled stone long rectangular building with wooden vaulted roof. Wooden front door on end. Unremarkable surrounding terrain - patchy grass, goats and sheep. Idyllic view over [Lake Gondra](../rivers-lakes/lake-gondra.md), including of [Hochwald](../cities/hochwald.md) on the opposite bank. Good view of setting sun. |
+| Sights | Drab cobbled stone long rectangular building with wooden vaulted roof. Wooden front door on end. Unremarkable surrounding terrain - patchy grass, goats and sheep. Idyllic view over [Lake Gondra](../../rivers-lakes/lake-gondra.md), including of [Hochwald](../../cities/hochwald.md) on the opposite bank. Good view of setting sun. |
 | Sounds | Wind, rustling grass, goats. |
 | Smells | Grass, faint flowers. |
 | People | |

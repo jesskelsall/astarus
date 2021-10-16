@@ -37,7 +37,7 @@ Eventually only [Valan Shadowgaze](../characters/valan-shadowgaze.md) remains. A
 
 The party are teleported to the middle of the Kas'ran Desert by the [memory sphere](../items/memory-spheres/memory-sphere.md), now mechanically broken and inert ([MC02-I-3](../cards/MC02-I-3.md)). At this point Vētrall hasn't opened the chest at all.
 
-When the party wake up in [Dune's House](../places/buildings/dunes-house.md) in [Kuv'narash](../places/villages/kuvnarash.md), Vētrall excuses themself to open the box in the privacy of a nearby outhouse. They find the [Fall of Chausain Memory Sphere](../items/memory-spheres/fall-of-chausain-memory-sphere.md) and a letter from [Vulpes Geen](../characters/vulpes-geen.md) ([MC02-L-1](../letters/MC02-L-1.md)) explaining his storied relationship with the sphere.
+When the party wake up in [Dune's House](../places/buildings/houses/dunes-house.md) in [Kuv'narash](../places/villages/kuvnarash.md), Vētrall excuses themself to open the box in the privacy of a nearby outhouse. They find the [Fall of Chausain Memory Sphere](../items/memory-spheres/fall-of-chausain-memory-sphere.md) and a letter from [Vulpes Geen](../characters/vulpes-geen.md) ([MC02-L-1](../letters/MC02-L-1.md)) explaining his storied relationship with the sphere.
 
 ### [MC03](../sessions/MC03.md)
 

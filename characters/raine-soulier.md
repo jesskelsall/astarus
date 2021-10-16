@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | Rene Soulier (ancestor)<br>[Corinne Soulier](corinne-soulier.md) (ancestor)<br>[Naeva Soulier](naeva-soulier.md) (ancestor) |
-| **Places** | [Raine's Cottage](../places/buildings/raines-cottage.md) (home)<br>[Arrepont](../places/cities/arrepont.md) (birthplace) |
+| **Places** | [Raine's Cottage](../places/buildings/houses/raines-cottage.md) (home)<br>[Arrepont](../places/cities/arrepont.md) (birthplace) |
 | **Citizenship** | [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md) |
 | **Organisation(s)** | |
 |||
@@ -38,5 +38,5 @@ Raine possesses the [Soulier Cottage Memory Sphere](../items/memory-spheres/soul
 | **Quirks** | Confuses himself with Rene Soulier. Poor grip on reality. |
 | **Knowledge** | [Memory spheres](../items/memory-spheres/memory-sphere.md), [echneshment](../mechanics/magic/echneshment.md) magic. |
 | **Values** | Curiosity, knowledge, fairness. |
-| **Ambitions** | Wishes to return to [Oonar](../planes/oonar.md) and find where the [Soulier Cottage](../places/buildings/soulier-cottage.md) once was. |
+| **Ambitions** | Wishes to return to [Oonar](../planes/oonar.md) and find where the [Soulier Cottage](../places/buildings/houses/soulier-cottage.md) once was. |
 | **Dislikes** | Cities, crowds of people, new technology. |

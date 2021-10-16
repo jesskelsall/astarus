@@ -33,7 +33,7 @@ The villagers here are world weary and happy for this slower and simpler life, t
 - [The Malneshitas](../buildings/temples/the-malneshitas.md) (temple to [Malnesh](../../gods/deities/malnesh.md))
 - [Head & Haft](../buildings/inns-taverns/head-and-haft.md) (tavern)
 - [Arnaside Logging Camp](../structures/arnaside-logging-camp.md)
-- [Zanni Flipwit's House](../buildings/zanni-flipwits-house.md)
+- [Zanni Flipwit's House](../buildings/houses/zanni-flipwits-house.md)
 
 ## History
 

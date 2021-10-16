@@ -14,7 +14,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | Rene Soulier (husband)<br>[Naeva Soulier](naeva-soulier.md) (daughter) |
-| **Places** | [Soulier Cottage](../places/buildings/soulier-cottage.md) (home) |
+| **Places** | [Soulier Cottage](../places/buildings/houses/soulier-cottage.md) (home) |
 | **Citizenship** | Elves of Chausain |
 | **Organisation(s)** | |
 |||

@@ -26,7 +26,7 @@
 | [Vivien Bouxelles](../characters/vivien-bouxelles.md) | [Ghost](https://www.dndbeyond.com/monsters/ghost) ||
 | Wisp | [Will-o'-Wisp](https://www.dndbeyond.com/monsters/will-o-wisp) ||
 
-### [Raine's Cottage](../places/buildings/raines-cottage.md)
+### [Raine's Cottage](../places/buildings/houses/raines-cottage.md)
 
 - Party arrives at the behest of [Raine Soulier](../characters/raine-soulier.md).
 - Raine wants the [Dulsenn Crypt Memory Sphere](../items/memory-spheres/dulsenn-crypt-memory-sphere.md) investigating.
@@ -41,7 +41,7 @@
   - Sending will allow communication with Raine.
   - If someone exits, they can have Raine end the spell early.
 
-### [Soulier Cottage](../places/buildings/soulier-cottage.md)
+### [Soulier Cottage](../places/buildings/houses/soulier-cottage.md)
 
 - Rene Soulier
   - [Raine Soulier](../characters/raine-soulier.md)'s ancestor.

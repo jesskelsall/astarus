@@ -65,5 +65,5 @@ Nenra can point the party to the following people for more info:
 
 - [Kulegar Bronhor](kulegar-bronhor.md) at [Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md).
   - Knows more about the attacks.
-- [Zanni Flipwit](zanni-flipwit.md) at [Zanni Flipwit's House](../places/buildings/zanni-flipwits-house.md).
+- [Zanni Flipwit](zanni-flipwit.md) at [Zanni Flipwit's House](../places/buildings/houses/zanni-flipwits-house.md).
   - Was inside when their house was attacked.

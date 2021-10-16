@@ -10,7 +10,7 @@
 | **Alignment** | |
 | **Affiliation** | [Cepine](../lineages/cepine.md) |
 | **Worship** | |
-| **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Ephaine Seren](ephaine-seren.md) (younger sister)<br>Besar Seren (younger brother)<br>Irla Seren (younger sister) |
+| **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Ephaine Seren](ephaine-seren.md) (younger sister)<br>[Besar Seren](besar-seren.md) (younger brother)<br>[Irla Seren](irla-seren.md) (younger sister) |
 | **Acquaintances** | |
 | **From** | [Filisur](../places/villages/filisur.md) |
 | **Places** | |

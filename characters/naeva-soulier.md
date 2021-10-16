@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Corinne Soulier](corinne-soulier.md) (mother)<br>Rene Soulier (father) |
-| **Places** | [Soulier Cottage](../places/buildings/soulier-cottage.md) (home) |
+| **Places** | [Soulier Cottage](../places/buildings/houses/soulier-cottage.md) (home) |
 | **Citizenship** | Elves of Chausain |
 | **Organisation(s)** | |
 |||

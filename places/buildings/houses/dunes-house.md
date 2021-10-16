@@ -3,14 +3,14 @@
 |||
 | --- | --- |
 | **Name** | Dune's House | place.4
-| **Type** | Building |
-| **Location** | [Kuv'narash](../villages/kuvnarash.md) |
+| **Type** | House |
+| **Location** | [Kuv'narash](../../villages/kuvnarash.md) |
 | **Nearby Places** | |
-| **People** | [Dune Under Sunset](../../characters/dune-under-sunset.md) |
+| **People** | [Dune Under Sunset](../../../characters/dune-under-sunset.md) |
 
 ## Summary
 
-Dune's House is the residence of [Dune Under Sunset](../../characters/dune-under-sunset.md). It doubles as a medical centre where Dune treats the injured without question, prejudice, or pay.
+Dune's House is the residence of [Dune Under Sunset](../../../characters/dune-under-sunset.md). It doubles as a medical centre where Dune treats the injured without question, prejudice, or pay.
 
 ### Exterior
 

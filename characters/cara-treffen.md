@@ -17,7 +17,7 @@
 
 ## Summary
 
-Cara Treffen is the owner of the [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) inn in [Northhaven](../places/cities/northhaven.md). She is a Cepina, originally hailing from [Filisur](../places/villages/filisur.md).
+Cara Treffen is the owner of the [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) inn in [Northhaven](../places/cities/northhaven.md). She is a [Cepina](../lineages/cepine.md), originally hailing from [Filisur](../places/villages/filisur.md).
 
 ## Characteristics
 
