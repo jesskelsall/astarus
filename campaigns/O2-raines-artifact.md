@@ -12,7 +12,9 @@
 
 | Session | Date |
 |---| --- |
-| [RA01A](../sessions/RA01.md) | 2021-10-09 |
+| [RA01A](../sessions/RA01A.md) | 2021-10-09 |
+| [RA02](../sessions/RA02.md) | 2021-10-23 |
+| [RA01B](../sessions/RA01B.md) | 2021-11-06 |
 
 ---
 
