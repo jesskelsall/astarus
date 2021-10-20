@@ -110,4 +110,26 @@ Corville turns around immediately and begins climbing the steps back to his thro
 
 Thanea suggests that she could try using her healing magic which she believes is related to her wings. Corville agrees, descending the steps again to meet her. He pulls down the bracer on one of his arms, revealing the inside of his forearm near the wrist. He then uses telekinesis to move a dagger from his pocket to his wrist, Thanea watching as it floats through the air. As it meets his wrist it makes a small incision before floating off to the side and hanging in place. Thanea flinches.
 
-After a moment of hesitation she touches her hand to Corville's lightly bloody wrist, pressing onto the wound gently. Radiant light emerges from under her hand. When she removes it the wound is gone.
+After a moment of hesitation she touches her hand to Corville's lightly bloody wrist, pressing onto the wound gently. She uses Healing Hands, radiant light emerging from under her hand. When she removes it the wound is gone. This confirms Thanea's suspicions that her wings and healing ability are connected. Corville's dagger floats back into his pocket.
+
+## Parting Ways
+
+*[Corville Thornox](../characters/corville-thornox.md):*
+> What you have is undoubtedly unique. Your abilities will be most useful.
+
+Thanea instinctively thanks him for the compliment, not knowing what else to do, still nervous in the situation she finds herself in. Corville ascends the steps as he begins to talk, stopping to stand at the top, looking back down at Thanea.
+
+*[Corville Thornox](../characters/corville-thornox.md):*
+> Well, I wish you well in your meteoric studies. Please stay out of trouble. And it would be a shame for you to die.
+
+*[Thanea Morlay](../characters/thanea-morlay.md):*
+> Yeah, I think so too. Thank you.
+
+Corville ends the anti-magic field around them, Thanea picking up on a slight smell of ozone and shift in the air.
+
+*[Corville Thornox](../characters/corville-thornox.md):*
+> Goodbye, [Thanea Morlay](../characters/thanea-morlay.md).
+
+Corville raises his hand, palm open, a blinding blue flash of light emanating from it. As it subsides, Thanea finds herself back in the place she was in before responding to the letter ([PR36-L-3](../letters/PR36-L-3.md)).
+
+Thanea curses to herself, calling herself an idiot, still beating herself up from appearing in [Supreme Hall](../places/buildings/supreme-hall.md) at the wrong time.

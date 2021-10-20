@@ -89,6 +89,16 @@ While on the road between [Blittergate](../places/towns/blittergate.md) and [Fil
 
 Thanea accidentally activates the letter, causing the magic within it to teleport her into the Tower of Ast.
 
+### [PR36T](../sessions/PR36T.md)
+
+[Thanea Morlay](../characters/thanea-morlay.md) meets with [Corville Thornox](../characters/corville-thornox.md) in [Supreme Hall](../places/buildings/supreme-hall.md). He is surprised to see her as she accepted the invite at the wrong time, but she nonetheless has an audience with him.
+
+Having heard of Thanea's unique powers following [Nature's Battle 28](ended/natures-battle-28.md), and learning that [Allisa Balsatra](../characters/allisa-balsatra.md) was specifically looking to see Thanea, through information gathered by [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md), Corville quizzes Thanea on her powers, going so far as to demand a demonstration of both her Radiant Soul wings and Healing Hands magic.
+
+Corville sternly asks Thanea if she knows of [Allisa Balsatra](../characters/allisa-balsatra.md), [Xavier Raloven](../characters/xavier-raloven.md), or the Veritacris. Thanea hasn't heard any of these names before and says so. Corville asks if she has any relationship with the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md), to which she explains she was found as a child near Bootle and seeking [sanctuary](../organisations/astorrel/sanctuary.md) in [Northhaven](../places/cities/northhaven.md) was her first trip to a city.
+
+Corville believes her, finding her confusion sincere and a relief, though he doesn't show it. He alludes to not knowing what Allisa would want with Thanea, but withholds his knowledge that Allisa believes Thanea is like herself.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will use Message to communicate with [Ahsha Sallas](../characters/ahsha-sallas.md), scolding her for ruining her plans and putting [Thanea Morlay](../characters/thanea-morlay.md) in great danger, now that the [Astornar](../organisations/astornar.md) know that a Veritacris has interest in her.
