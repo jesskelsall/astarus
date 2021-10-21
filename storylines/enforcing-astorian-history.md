@@ -7,7 +7,7 @@
 
 ## Summary
 
-The [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) is built on a lie: [The Arrival](../history/events/the-arrival.md) brought the first humanoid races to [Astarus](../planes/astarus.md). The [Astornos](../organisations/astornos.md) work diligently to enforce this origin story, particularly where elves are involved.
+The [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) is built on a lie: [The Arrival](../history/events/the-third-coming.md) brought the first humanoid races to [Astarus](../planes/astarus.md). The [Astornos](../organisations/astornos.md) work diligently to enforce this origin story, particularly where elves are involved.
 
 ## History
 

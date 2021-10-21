@@ -9,7 +9,7 @@
 | **Pronouns** | |
 | **Age** | |
 | **Class** | Druid (Circle of the Stars) |
-| **Worship** | Pajaru |
+| **Worship** | [Pajaru](../gods/deities/kaldoon.md) |
 | **Relations** | |
 | **Places** | |
 |||

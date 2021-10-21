@@ -1,4 +1,4 @@
-# Kaldoon
+# Kaldoon / Pajaru
 
 |||
 | --- | --- |
@@ -26,3 +26,5 @@ His symbol is a square divided diagonally from the bottom right corner, then the
 ### Representation
 
 He is represented by a golden dragon with red eyes.
+
+[Strigid](../../lineages/strigid.md) startouched are able to see Kaldoon amongst the stars as the dragon constellation.

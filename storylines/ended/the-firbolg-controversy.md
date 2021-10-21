@@ -9,7 +9,7 @@
 
 For some time the classification of firbolgs as people of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md), rather than as part of the forest, has been a topic of controversy. The [Astorrel](../../organisations/astorrel/astorrel.md) have been indecisive in addressing this issue.
 
-The conscription of [Wizira's Father](../../characters/wiziras-father.md) based on their race alone brings this issue to the attention of the [Astornar](../../organisations/astornar.md) who must pass judgement.
+The conscription of [Wizira's Father](../../characters/wiziras-father.md) based on their race alone brings this issue to the attention of the [Astornar](../../organisations/astornar.md) who must [pas](../../history/calendars/astorian-calendar.md)s judgement.
 
 ## History
 

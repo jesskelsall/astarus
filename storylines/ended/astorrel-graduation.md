@@ -7,7 +7,7 @@
 
 ## Summary
 
-Every year the [Astorrel](../../organisations/astorrel/astorrel.md) graduate a cohort of new members in [Northhaven](../../places/cities/northhaven.md). In the year 312 PA, the [Astorrel Agents](../../campaigns/C2-astorrel-agents.md) party graduate as [Astorrel Squad Hands](../../organisations/astorrel/ranks/astorrel-squad-hand.md), and are assigned to [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) together.
+Every year the [Astorrel](../../organisations/astorrel/astorrel.md) graduate a cohort of new members in [Northhaven](../../places/cities/northhaven.md). In the year 312 [PA](../../history/calendars/astorian-calendar.md), the [Astorrel Agents](../../campaigns/C2-astorrel-agents.md) party graduate as [Astorrel Squad Hands](../../organisations/astorrel/ranks/astorrel-squad-hand.md), and are assigned to [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) together.
 
 ## History
 

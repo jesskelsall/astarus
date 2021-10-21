@@ -25,4 +25,4 @@ Following this it takes Tyburn a moment to regain his composure, wiping the tear
 
 Tyburn's bowl is filled entirely with tears. He cries from both eyes when staring into it, and is only able to do so until a teardrop hits the pool. This suggests he has spent a lot of time staring into it. It is not clear how the pool of tears got started.
 
-Tyburn is secretly a worshipper of [Malnesh](../gods/deities/malnesh.md). She has provided him with his divination magic and is using him to further her and [Kaldoon](../gods/deities/kaldoon.md)'s goals. He is building up trust in his visions so that it can be used against the peoples of the Third Coming.
+Tyburn is secretly a worshipper of [Malnesh](../gods/deities/malnesh.md). She has provided him with his divination magic and is using him to further her and [Kaldoon](../gods/deities/kaldoon.md)'s goals. He is building up trust in his visions so that it can be used against the peoples of [the Third Coming](../history/events/the-third-coming.md).

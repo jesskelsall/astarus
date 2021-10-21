@@ -64,7 +64,7 @@ The ruling arch-mages and the [Unicorn Cavalry](../../../organisations/guards/un
 
 ## History
 
-In the wake of the Third Coming, many elves living in modern day [Savnia](savnia.md) were displaced from [Naissance](../../../places/cities/arrepont.md) and its surrounding territory by the sudden influx of new people. Forced south by the new coalition of races that would eventually codify as [Savnia](savnia.md), the elves fled beyond the Vie Marshland and made their stand in the Reime Jungle.
+In the wake of [the Third Coming](../../../history/events/the-third-coming.md), many elves living in modern day [Savnia](savnia.md) were displaced from [Naissance](../../../places/cities/arrepont.md) and its surrounding territory by the sudden influx of new people. Forced south by the new coalition of races that would eventually codify as [Savnia](savnia.md), the elves fled beyond the Vie Marshland and made their stand in the Reime Jungle.
 
 Faced with a new sudden and harsh reality that the elves were no longer the dominant race in western [Kardan](../../../places/continents/kardan.md), many fled even further south to join the [Syntenne Republic](../../syntenne-republic/syntenne-republic.md), embracing their isolationist and historical ways. Those that were left united under a common unicorn banner - Reimatelau.
 
@@ -74,4 +74,4 @@ Eventually with the rise of the [Kavallos Fleet](../../kavallos-fleet/kavallos-f
 
 This started a period of introspection for these elves where they learned to embrace others and celebrate them and their cultures. Impressed by the culture and knowledge of the elves themselves, many people moved to Reimatelau, forming a mixed society that would come to define the state.
 
-Before long Reimatelau was invited to join the [Nil'Savnic Alliance](../nilsavnic-alliance.md). They did so under the conditions that elves displaced by the Third Coming would be able to return to their settlements in [Savnia](savnia.md), and that access to [Arrepont](../../../places/cities/arrepont.md) should be guaranteed to any elf regardless of state or political affiliation.
+Before long Reimatelau was invited to join the [Nil'Savnic Alliance](../nilsavnic-alliance.md). They did so under the conditions that elves displaced by [the Third Coming](../../../history/events/the-third-coming.md) would be able to return to their settlements in [Savnia](savnia.md), and that access to [Arrepont](../../../places/cities/arrepont.md) should be guaranteed to any elf regardless of state or political affiliation.

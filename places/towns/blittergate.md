@@ -16,7 +16,7 @@ Blittergate is the western-most town in the [Kingdom of Astor](../../civilisatio
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Small town with 1 and 2 storey buildings with thatched roofs. Nestled between two lakes and set on flat ground with the forests and mountains visible in the distance. Rough disorganised street plan with long T-shaped market street where the roads pass through the middle of town. Two storey [Astornox](../../organisations/astornox/astornox.md) stronghold building stands out amongst the thatched roofs. Small temple down by [Blittergate Lake](../rivers-lakes/blittergate-lake.md). |
+| Sights | Small town with 1 and 2 storey buildings with thatched roofs. Nestled between two lakes and set on flat ground with the forests and mountains visible in the distance. Rough disorganised street plan with long T-shaped market street where the roads [pas](../../history/calendars/astorian-calendar.md)s through the middle of town. Two storey [Astornox](../../organisations/astornox/astornox.md) stronghold building stands out amongst the thatched roofs. Small temple down by [Blittergate Lake](../rivers-lakes/blittergate-lake.md). |
 | Sounds | Oars in water, market stall chatter, farm animals being sold. |
 | Smells | Fish, livestock. |
 | People | Rural farmers and common townspeople. Fishers. |

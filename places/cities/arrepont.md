@@ -17,17 +17,17 @@ Arrepont (formerly Naissance) is the capital of [Savnia](../../civilisations/nil
 ### Meaning
 
 - *Naissance* is French (elvish) for *birth*.
-- *Arrepont* is a shortening of *arrival point*, adopted by the peoples of The Third Coming.
+- *Arrepont* is a shortening of *arrival point*, adopted by the peoples of [The Third Coming](../../history/events/the-third-coming.md).
 
 ## History
 
-### The Second Coming
+### [The Second Coming](../../history/events/the-second-coming.md)
 
-The site of modern day Arrepont was the place that [Malnesh](../../gods/deities/malnesh.md) brought the elves of Chausain during the event known as The Second Coming. Almost immediately a city of great spiritual importance was founded here that was consistently one of the most influential cities of the new elven lands. 
+The site of modern day Arrepont was the place that [Malnesh](../../gods/deities/malnesh.md) brought the elves of Chausain during the event known as [The Second Coming](../../history/events/the-second-coming.md). Almost immediately a city of great spiritual importance was founded here that was consistently one of the most influential cities of the new elven lands. 
 
-### The Third Coming
+### [The Third Coming](../../history/events/the-third-coming.md)
 
-Around 3,000 years later the insider [gods](../../gods/gods.md) brought the other races of [Oonar](../../planes/oonar.md) to [Astarus](../../planes/astarus.md). These disadvantaged peoples sought their own lands to start over. Their arrival at the same place as The Second Coming shook elven society to its core, questioning the role and omnipotence of [Malnesh](../../gods/deities/malnesh.md).
+Around 3,000 years later the insider [gods](../../gods/gods.md) brought the other races of [Oonar](../../planes/oonar.md) to [Astarus](../../planes/astarus.md). These disadvantaged peoples sought their own lands to start over. Their arrival at the same place as [The Second Coming](../../history/events/the-second-coming.md) shook elven society to its core, questioning the role and omnipotence of [Malnesh](../../gods/deities/malnesh.md).
 
 The elves that stayed in Naissance tried to coexist with the new races, but there were too many of them. This lead to the elves being exiled from Naissance, now Arrepont. A collective effort to take the nearby lands saw the formation of the state of [Savnia](../../civilisations/nilsavnic-alliance/states/savnia.md), with Arrepont as its capital.
 

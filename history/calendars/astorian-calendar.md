@@ -1,8 +1,12 @@
-# Astorian Calendar
+# Astorian Calendar / AA / PA
+
+## Summary
+
+The Astorian Calendar is the date system used in and by the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
 ## Years
 
-The epoch of the date system is the day that the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) was formed.
+The epoch of the date system is the year that the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) was formed.
 
 - Dates before this are **AA** (*ante Astor*).
 - Dates after this are **PA** (*post Astor*).
@@ -17,14 +21,14 @@ The first day of the year does not belong to any month.
 
 | # | Month | Equivalent Months | Associated God |
 | --- | --- | --- | --- |
-| 1 | Balghast | Jan / Feb | [Bhygar](../gods/deities/bhygar.md) |
-| 2 | Melnish | Feb / Mar | [Bhygar](../gods/deities/bhygar.md) |
-| 3 | Nosgorat | Apr / May | [Valnos](../gods/deities/valnos.md) |
-| 4 | Vishantu | May / Jun | [Valnos](../gods/deities/valnos.md) |
-| 5 | Finsbock | Jul / Aug | [Kirrel](../gods/deities/kirrel.md) |
-| 6 | Taledus | Aug / Sep | [Kirrel](../gods/deities/kirrel.md) |
-| 7 | Shavdor | Oct / Nov | [Gormox](../gods/deities/gormox.md) |
-| 8 | Ultux | Nov / Dec | [Gormox](../gods/deities/gormox.md) |
+| 1 | Balghast | Jan / Feb | [Bhygar](../../gods/deities/bhygar.md) |
+| 2 | Melnish | Feb / Mar | [Bhygar](../../gods/deities/bhygar.md) |
+| 3 | Nosgorat | Apr / May | [Valnos](../../gods/deities/valnos.md) |
+| 4 | Vishantu | May / Jun | [Valnos](../../gods/deities/valnos.md) |
+| 5 | Finsbock | Jul / Aug | [Kirrel](../../gods/deities/kirrel.md) |
+| 6 | Taledus | Aug / Sep | [Kirrel](../../gods/deities/kirrel.md) |
+| 7 | Shavdor | Oct / Nov | [Gormox](../../gods/deities/gormox.md) |
+| 8 | Ultux | Nov / Dec | [Gormox](../../gods/deities/gormox.md) |
 
 ## Days
 
@@ -32,13 +36,13 @@ Each week has 7 days.
 
 | # | Day | Equivalent Day | Religious Day |
 | --- | --- | --- | --- |
-| 1 | Bhydag | Monday | [Bhygar](../gods/deities/bhygar.md) |
+| 1 | Bhydag | Monday | [Bhygar](../../gods/deities/bhygar.md) |
 | 2 | Mishdag | Tuesday | |
-| 3 | Valdag | Wednesday | [Valnos](../gods/deities/valnos.md) |
-| 4 | Kirdag | Thursday | [Kirrel](../gods/deities/kirrel.md) |
+| 3 | Valdag | Wednesday | [Valnos](../../gods/deities/valnos.md) |
+| 4 | Kirdag | Thursday | [Kirrel](../../gods/deities/kirrel.md) |
 | 5 | Nurdag | Friday | |
 | 6 | Faldag | Saturday | |
-| 7 | Gordag | Sunday | [Gormox](../gods/deities/gormox.md) |
+| 7 | Gordag | Sunday | [Gormox](../../gods/deities/gormox.md) |
 
 ### Diamodeus
 
@@ -48,15 +52,24 @@ It is a festival day that celebrates the ending of one year and the beginning of
 
 ## Festivals
 
-There is a festival celebrating the border between months where the associated god changes. Each is themed based on the two [gods](../gods/gods.md) and the seasonal implications.
+There is a festival celebrating the border between months where the associated god changes. Each is themed based on the two [gods](../../gods/gods.md) and the seasonal implications.
 
 | Start | End | Significance | Festival |
 | --- | --- | --- | --- |
 | Faldag, 27th of Melnish | Bhydag, 1st of Nosgorat | Spring | Flight of the Hawks |
 | Faldag, 27th of Vishantu | Bhydag, 1st of Finsbock | Summer | Snake Dance |
-| Faldag, 27th of Taledus | Bhydag, 1st of Shavdor | Autumn | [Blade's Rest](../festivals/blades-rest.md) |
+| Faldag, 27th of Taledus | Bhydag, 1st of Shavdor | Autumn | [Blade's Rest](../../festivals/blades-rest.md) |
 | Faldag, 27th of Ultux | Bhydag, 1st of Balghast | Winter | Scribestory |
 | Diamodeus | Diamodeus | Year's End | Diamodeus |
+
+## Date Formats
+
+|| Short Form | Long Form |
+| --- | --- | --- |
+| **Template** | YYY-M-DD | Day, D(o) Month, Year X.A. |
+| **Example 1** | 312-4-28 | Gordag, 28th of Vishantu, 312 P.A. |
+| **Example 2** | 312-5-02 | Mishdag, 2nd of Finsbock, 312 P.A. |
+| **Diamodeus** | 312-D | Diamodeus, 312 P.A. |
 
 ---
 

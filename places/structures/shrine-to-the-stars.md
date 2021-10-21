@@ -12,7 +12,7 @@
 
 The Shrine to the Stars is an ancient set of standing stones set on a ridge on the lower part of the [Foss Peaks](../mountains/foss-peaks.md)' west face. It overlooks [Filisur](../villages/filisur.md), with a rough route up to it available.
 
-Created by the [Strigid](../../lineages/strigid.md) with the help of the giants, the standing stones allowed startouched to communicate with Pajaru, their god amongst the stars. In modern times it is seen by the [Cepine](../../lineages/cepine.md) as the best place for observing the stars.
+Created by the [Strigid](../../lineages/strigid.md) with the help of the giants, the standing stones allowed startouched to communicate with [Pajaru](../../gods/deities/kaldoon.md), their god amongst the stars. In modern times it is seen by the [Cepine](../../lineages/cepine.md) as the best place for observing the stars.
 
 ## Standing Stones
 
@@ -22,10 +22,10 @@ Created by the [Strigid](../../lineages/strigid.md) with the help of the giants,
 | Sounds | Wind. |
 | Smells | Dirt, grass, snow. |
 | People | |
-| Intrigue | A set of standing stones too weathered to have been erected after [The Arrival](../../history/events/the-arrival.md). |
+| Intrigue | A set of standing stones too weathered to have been erected after [The Arrival](../../history/events/the-third-coming.md). |
 
 ## Crypt
 
 The Shrine to the Stars had a crypt built under it for the remains of previous [Devdaha](../villages/devdaha.md) village elders.
 
-It can only be accessed during a clear night by someone startouched who activates their Starry Form. This allows them to see a carved staircase leading down into the horizontal but intact standing stone. These steps are corporeal for as long as Starry Form is active, even to those who cannot see them, allowing them to seemingly pass through the standing stone.
+It can only be accessed during a clear night by someone startouched who activates their Starry Form. This allows them to see a carved staircase leading down into the horizontal but intact standing stone. These steps are corporeal for as long as Starry Form is active, even to those who cannot see them, allowing them to seemingly [pas](../../history/calendars/astorian-calendar.md)s through the standing stone.

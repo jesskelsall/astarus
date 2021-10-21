@@ -62,7 +62,7 @@ Typically speaking there is animosity between the [Astornox](../astornox/astorno
 
 ## Jurisdiction
 
-Like the [Astornox](../astornox/astornox.md), the Astorrel can pass judgement on any people in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) that are not serving military and are not caretakers of [The Order of the Diamond](../the-order-of-the-diamond.md).
+Like the [Astornox](../astornox/astornox.md), the Astorrel can [pas](../../history/calendars/astorian-calendar.md)s judgement on any people in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) that are not serving military and are not caretakers of [The Order of the Diamond](../the-order-of-the-diamond.md).
 
 ### Punishment
 
@@ -128,7 +128,7 @@ Astorrel recruits train in [Dunmore](../../places/cities/dunmore.md), and do not
 
 ### Graduation
 
-*See also: [Astorian Calendar](../../history/astorian-calendar.md)*
+*See also: [Astorian Calendar](../../history/calendars/astorian-calendar.md)*
 
 Each year the recruits that are ready to graduate travel to [Northhaven](../../places/cities/northhaven.md) for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../gods/deities/kirrel.md) months).
 

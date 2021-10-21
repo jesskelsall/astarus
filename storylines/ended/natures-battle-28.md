@@ -7,7 +7,7 @@
 
 ## Summary
 
-In 312 PA the [Nature's Battle](../../mechanics/roleplay/natures-battle.md) tournament once again takes place as part of the [Blade's Rest](../../festivals/blades-rest.md) festival. Both [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) are invited to compete.
+In 312 [PA](../../history/calendars/astorian-calendar.md) the [Nature's Battle](../../mechanics/roleplay/natures-battle.md) tournament once again takes place as part of the [Blade's Rest](../../festivals/blades-rest.md) festival. Both [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) are invited to compete.
 
 ## Bracket
 

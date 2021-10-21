@@ -12,7 +12,7 @@
 
 ## Summary
 
-Formed immediately after The Third Coming, Hochwald is a centre of culture that rivals the first city of [Arrepont](arrepont.md) itself. Idyllic views of [Lake Gondra](../rivers-lakes/lake-gondra.md) and easy trade routes to [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md)'s neighbours have allowed Hochwalders to grow rich and continue to improve the city for everyone.
+Formed immediately after [The Third Coming](../../history/events/the-third-coming.md), Hochwald is a centre of culture that rivals the first city of [Arrepont](arrepont.md) itself. Idyllic views of [Lake Gondra](../rivers-lakes/lake-gondra.md) and easy trade routes to [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md)'s neighbours have allowed Hochwalders to grow rich and continue to improve the city for everyone.
 
 [Lady Crane](../../organisations/lady-crane.md) operates out of Hochwald.
 

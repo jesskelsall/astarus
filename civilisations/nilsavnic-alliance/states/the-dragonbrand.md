@@ -22,7 +22,7 @@
 
 ## Summary
 
-The most northern state of the [Nil'Savnic alliance](../nilsavnic-alliance.md). Following The Third Coming, only the dragonborn clans dared settle this mountainous and snowy region. Here they chose to revert to their ancestors' way of life - close-knit isolated and independent clan settlements.
+The most northern state of the [Nil'Savnic alliance](../nilsavnic-alliance.md). Following [The Third Coming](../../../history/events/the-third-coming.md), only the dragonborn clans dared settle this mountainous and snowy region. Here they chose to revert to their ancestors' way of life - close-knit isolated and independent clan settlements.
 
 ## Places
 

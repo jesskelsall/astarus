@@ -31,7 +31,7 @@ They are represented as a grass snake with green, blue, and teal markings.
 
 ## Worship
 
-*See also: [Astorian Calendar](../../history/astorian-calendar.md)*
+*See also: [Astorian Calendar](../../history/calendars/astorian-calendar.md)*
 
 - Religious day: Kirdag
 - Festival: summer

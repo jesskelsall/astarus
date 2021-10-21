@@ -7,6 +7,6 @@
 
 ## Summary
 
-Through interacting with the [Fall of Chausain Memory Sphere](../../items/memory-spheres/fall-of-chausain-memory-sphere.md), the circumstances of The Second Coming will be revealed.
+Through interacting with the [Fall of Chausain Memory Sphere](../../items/memory-spheres/fall-of-chausain-memory-sphere.md), the circumstances of [The Second Coming](../../history/events/the-second-coming.md) will be revealed.
 
 ## History

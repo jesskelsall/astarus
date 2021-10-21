@@ -15,7 +15,7 @@
 | **Founded** | |
 | **Neighbours** | [Kavallos Fleet](../kavallos-fleet/kavallos-fleet.md) (north west)<br>[Kingdom of Astor](../kingdom-of-astor/kingdom-of-astor.md) (north east)<br>[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (north) |
 | **Alliances** | |
-| **Wars** | Astor-Syntenne War (*88 PA* - current) |
+| **Wars** | Astor-Syntenne War (*88 [PA](../../history/calendars/astorian-calendar.md)* - current) |
 | **Guard Force** | [Republic Guard](../../organisations/guards/republic-guard.md) |
 |||
 | **Image ID** | |

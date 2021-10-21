@@ -20,7 +20,7 @@ Human male
 
 ## Summary
 
-Sandor is a proud armoursmith, happy to sell the armour that the family produces to those who are interested. He hopes to pass the business on to his son [Clyde Wirral](clyde-wirral.md) soon.
+Sandor is a proud armoursmith, happy to sell the armour that the family produces to those who are interested. He hopes to [pas](../history/calendars/astorian-calendar.md)s the business on to his son [Clyde Wirral](clyde-wirral.md) soon.
 
 ## Characteristics
 

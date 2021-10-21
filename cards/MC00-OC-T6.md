@@ -11,6 +11,6 @@
 |:---:|
 | **Downtime Bonus** |
 | **Praise the Bestower** |
-| *While most would say that the [gods](../gods/gods.md) haven't played an active role since The Third Coming, my experiences beg to differ. [Valnos](../gods/deities/valnos.md) clearly rewards our servitude.* |
+| *While most would say that the [gods](../gods/gods.md) haven't played an active role since [The Third Coming](../history/events/the-third-coming.md), my experiences beg to differ. [Valnos](../gods/deities/valnos.md) clearly rewards our servitude.* |
 | During downtime you may spend 1 day working to assist a shrine or temple to [Valnos](../gods/deities/valnos.md), if one is present. |
 | Doing so grants proficiency in a skill of your choice for 1d4 days, or expertise in a skill you are already proficient in. |

@@ -25,7 +25,7 @@ The Meteorics are an affiliation of constructs created by [Kaldoon](../gods/deit
 
 ## History
 
-[Malnesh](../gods/deities/malnesh.md), having brought the elves to [Astarus](../planes/astarus.md) to escape persecution, was unhappy to find the insider [gods](../gods/gods.md) (led by [Bhygar](../gods/deities/bhygar.md)) copying her idea with [The Arrival](../history/events/the-arrival.md).
+[Malnesh](../gods/deities/malnesh.md), having brought the elves to [Astarus](../planes/astarus.md) to escape persecution, was unhappy to find the insider [gods](../gods/gods.md) (led by [Bhygar](../gods/deities/bhygar.md)) copying her idea with [The Arrival](../history/events/the-third-coming.md).
 
 Working with her long time friend [Kaldoon](../gods/deities/kaldoon.md), the pair devised a plan to remove the new races from [Astarus](../planes/astarus.md). With her magic and his combat savviness, the pair created the meteorics as an invasion force to either cause the insider [gods](../gods/gods.md) to remove the races from the planet, or if not, to wipe them out.
 

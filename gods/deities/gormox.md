@@ -31,7 +31,7 @@ He is represented by a brown panther, stalking its prey.
 
 ## Worship
 
-*See also: [Astorian Calendar](../../history/astorian-calendar.md)*
+*See also: [Astorian Calendar](../../history/calendars/astorian-calendar.md)*
 
 - Religious day: Gordag
 - Festival: autumn

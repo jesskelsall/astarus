@@ -9,7 +9,7 @@
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | Ranger |
-| **Worship** | Pajaru |
+| **Worship** | [Pajaru](../gods/deities/kaldoon.md) |
 | **Relations** | |
 | **Places** | |
 |||

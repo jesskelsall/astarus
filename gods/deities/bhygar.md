@@ -31,7 +31,7 @@ He is represented by two robed humans, both holding the same book between them, 
 
 ## Worship
 
-*See also: [Astorian Calendar](../../history/astorian-calendar.md)*
+*See also: [Astorian Calendar](../../history/calendars/astorian-calendar.md)*
 
 - Religious day: Bhydag
 - Festival: winter

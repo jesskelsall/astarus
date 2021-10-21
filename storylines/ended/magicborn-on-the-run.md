@@ -71,7 +71,7 @@ Near the beginning of Grasthwaite Cut, the party sees 2 [Astornox](../../organis
 
 ### [PR11](../../sessions/PR11.md)
 
-The party pass 2 [Astornox](../../organisations/astornox/astornox.md) on horseback without any incident. The guards had no idea of their notoriety and passed by completely unaware.
+The party [pas](../../history/calendars/astorian-calendar.md)s 2 [Astornox](../../organisations/astornox/astornox.md) on horseback without any incident. The guards had no idea of their notoriety and passed by completely unaware.
 
 Torbra took the horse and cart off road in the direction of [Frizthwaite](../../places/villages/frizthwaite.md) to the south west. Stopping for a food break and to discuss their plan of action, the whole party agreed that they should take a less traveled route, first heading to [Frizthwaite](../../places/villages/frizthwaite.md) and then either down the [River Humar](../../places/rivers-lakes/river-humar.md) or along the [Humar Cut](../../places/roads/humar-cut.md).
 

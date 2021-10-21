@@ -4,7 +4,7 @@
 
 ## Premise
 
-> A group of adventurers answer the call of [Raine Soulier](../characters/raine-soulier.md): an enigmatic expert of magical artifacts from before The Second Coming.
+> A group of adventurers answer the call of [Raine Soulier](../characters/raine-soulier.md): an enigmatic expert of magical artifacts from before [The Second Coming](../history/events/the-second-coming.md).
 >
 > Once at his family home in the idyllic hills of [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md), he asks you all to investigate a device that holds memories and can project people into a pocket dimension, creating a historical snapshot to be explored...
 

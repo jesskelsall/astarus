@@ -116,7 +116,7 @@ When Ahsha and [Sharakas](../../characters/sharakas.md) return, they inform the 
 
 The party head back into [Arnaside](../../places/villages/arnaside.md) and tell [Nenra Zossa](../../characters/nenra-zossa.md) and [Kulegar Bronhor](../../characters/kulegar-bronhor.md) of the deal they've made on their behalf. Nenra is wary, but believes it may work, and is willing to give it a try for the sake of the village. In appreciation of their efforts, the village hold a feast that night for the party.
 
-By morning the party heads off for [Northhaven](../../places/cities/northhaven.md), [Clay Mullen](../../characters/clay-mullen.md) driving the coach they hired once again. It takes them 3 days to return to the city. On their return they spend the night in [The Rose Buckler](../../places/buildings/inns-taverns/the-rose-buckler.md) before they report to [Bryce Morton](../../characters/bryce-morton.md) in the morning. Ahsha works with Bryce to write her mission report before Bryce hands her the squad's earnings for her to pass out.
+By morning the party heads off for [Northhaven](../../places/cities/northhaven.md), [Clay Mullen](../../characters/clay-mullen.md) driving the coach they hired once again. It takes them 3 days to return to the city. On their return they spend the night in [The Rose Buckler](../../places/buildings/inns-taverns/the-rose-buckler.md) before they report to [Bryce Morton](../../characters/bryce-morton.md) in the morning. Ahsha works with Bryce to write her mission report before Bryce hands her the squad's earnings for her to [pas](../../history/calendars/astorian-calendar.md)s out.
 
 ### [AA06](../../sessions/AA06.md)
 

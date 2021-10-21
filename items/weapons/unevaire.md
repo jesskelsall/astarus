@@ -24,7 +24,7 @@ Unevaire was created using [echneshment](../../mechanics/magic/echneshment.md), 
 
 It was buried with its original owner in Dulsenn Crypt. In the year of the Fall of Chausain, [Copper Eye](../../organisations/copper-eye.md) members raided the tomb for magical artifacts to take back to Chausain, finding the blade and taking it with them. Through this effort Unevaire made its way into the hand of an elf of Chausain.
 
-During the Battle of Chausain, the sword was in the possession of an elf that was taken by [Malnesh](../../gods/deities/malnesh.md) in the Second Coming.
+During the Battle of Chausain, the sword was in the possession of an elf that was taken by [Malnesh](../../gods/deities/malnesh.md) in [the Second Coming](../../history/events/the-second-coming.md).
 
 Later the sword found its way into the hands of [Vulpes Geen](../../characters/vulpes-geen.md), who wielded it proudly while making an adventurer's name for himself.
 

@@ -24,7 +24,7 @@ Nilliski is an eldritch entity that exists inside [Karmox](../places/mountains/k
 
 ## History
 
-Nilliski has been around since before [The Arrival](../history/events/the-arrival.md).
+Nilliski has been around since before [The Arrival](../history/events/the-third-coming.md).
 
 When [Kardanis](../places/regions/kardanis.md) was settled by humans, Nilliski made a blood pact with the [Schiller family](../organisations/schiller-family.md). They agreed to infuse their heirs with an aspect of Nilliski, [Nills](nills.md), in exchange for wealth and power. This manifested as [Schiller steel](../items/weapons/schiller-steel.md), the iron for which is mined out from [Karmox](../places/mountains/karmox.md) itself. It is famed for its ability to be sharpened into finer bladed weapons which do not dull as easily. With high demand for the steel and limited supply, the [Schiller family](../organisations/schiller-family.md) could set their own price, drastically increasing their wealth and influence over [Kardanis](../places/regions/kardanis.md), as promised.
 

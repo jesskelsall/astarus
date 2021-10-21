@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Humanoids and Rare Varieties | item.2
 | **Weight** | 20 lbs |
-| **Notes** | By Nile-Vestor Caplain, 255 PA |
+| **Notes** | By Nile-Vestor Caplain, 255 [PA](../../history/calendars/astorian-calendar.md) |
 
 > A compendium of books detailing the humanoid races in great detail.
 
