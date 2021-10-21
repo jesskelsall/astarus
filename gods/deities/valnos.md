@@ -31,7 +31,7 @@ She is represented by a large bird of prey, wings wide and pushed forward. She i
 
 ## Worship
 
-*See also: [Astorian Calendar](../../history/calendars/astorian-calendar.md)*
+*See: [Astorian Calendar](../../history/calendars/astorian-calendar.md)*
 
 - Religious day: Valdag
 - Festival: spring

@@ -13,7 +13,7 @@
 
 ## Military Badge
 
-*See also: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
 
 Astorrel Major badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its top edge, and a double strip of gold inlaid inside its bottom edge. The use of gold denotes an officer rank.
 

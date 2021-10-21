@@ -40,7 +40,7 @@ Worshippers tend to gravitate towards one particular god. Which one they choose 
 
 ### Religious Days
 
-*See also: [Astorian calendar](../history/calendars/astorian-calendar.md)*
+*See: [Astorian calendar](../history/calendars/astorian-calendar.md)*
 
 Each insider god has its own day of the week and is the traditional day of worship for them. They also have two concurrent calendar months associated with them; there are festivals held when the second of these months ends and the next god's first month begins.
 

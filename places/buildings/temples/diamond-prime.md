@@ -10,7 +10,7 @@
 
 ## Summary
 
-*See also: [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md)*
+*See: [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md)*
 
 Diamond Prime is the main temple of [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md) in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is located within the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md), and is the most prominent building bordering the [Astor Square](../../structures/astor-square.md).
 

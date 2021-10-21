@@ -110,7 +110,7 @@ The Astorrel is always looking for new potential recruits. Each year they aim to
 
 ### Finding Recruits
 
-*See also: [Magicborn](../../civilisations/kingdom-of-astor/magicborn.md)*
+*See: [Magicborn](../../civilisations/kingdom-of-astor/magicborn.md)*
 
 Astorrel officers look for potential recruits in all sorts of places. Anyone who shows potential may be asked if they wish to join their ranks. An accomplished brawler, seasoned adventurer, gifted [magicborn](../../civilisations/kingdom-of-astor/magicborn.md), or repentant prisoner are all welcome.
 
@@ -128,7 +128,7 @@ Astorrel recruits train in [Dunmore](../../places/cities/dunmore.md), and do not
 
 ### Graduation
 
-*See also: [Astorian Calendar](../../history/calendars/astorian-calendar.md)*
+*See: [Astorian Calendar](../../history/calendars/astorian-calendar.md)*
 
 Each year the recruits that are ready to graduate travel to [Northhaven](../../places/cities/northhaven.md) for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../gods/deities/kirrel.md) months).
 

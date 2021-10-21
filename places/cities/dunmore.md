@@ -22,7 +22,7 @@ Life here is a constant fight. The winds coming from across the sea buffet the c
 
 ## [Astorrel](../../organisations/astorrel/astorrel.md) Training Programme
 
-*See also: [Astorrel](../../organisations/astorrel/astorrel.md)*
+*See: [Astorrel](../../organisations/astorrel/astorrel.md)*
 
 The [Astorrel](../../organisations/astorrel/astorrel.md) sends their recruits here for training, in a process that takes 2-4 years. While here they stay in the [Astorrel](../../organisations/astorrel/astorrel.md) stronghold within the city, which is mostly set underground in the coastal caves. 
 

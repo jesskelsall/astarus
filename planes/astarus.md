@@ -19,7 +19,7 @@ It is dominated by the continent of [Kardan](../places/continents/kardan.md) and
 
 ## Magic
 
-*See also: [Magicborn](../civilisations/kingdom-of-astor/magicborn.md)*
+*See: [Magicborn](../civilisations/kingdom-of-astor/magicborn.md)*
 
 There is magic in this world, though it is uncommon. As a result many people have never seen magic in person before.
 

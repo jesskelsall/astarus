@@ -93,7 +93,7 @@ Despite this, many drigg are happy with their role in life, happy to be contribu
 
 ### Equality and Injustice
 
-*See also: [Magicborn](magicborn.md)*
+*See: [Magicborn](magicborn.md)*
 
 The main injustices in the Kingdom of Astor is the rank based class structure and lack of basic rights for all residents. [Magicborn](magicborn.md) are oppressed far greater than any other group.
 
@@ -121,7 +121,7 @@ Education is not a universal right. It is only available to those who can afford
 
 ## History
 
-*See also: [Timeline](../../history/timeline.md)*
+*See: [Timeline](../../history/timeline.md)*
 
 ### Formation
 

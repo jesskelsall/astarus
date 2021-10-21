@@ -16,7 +16,7 @@ The Carnmere Meteorite landed in the hills on the opposite side of the [River Ca
 
 ## History
 
-*See also: [The Crimson Blades Capture Wrenn](../../../storylines/the-crimson-blades-capture-wrenn.md)*
+*See: [The Crimson Blades Capture Wrenn](../../../storylines/the-crimson-blades-capture-wrenn.md)*
 
 Word reached [Astral squad](../../../organisations/astorrel/squads/astral-squad.md) of strange disappearances in and around Carnmere. Desperate for any sort of lead that might result in a [meteorite](../meteorite.md) find, [Elysia Vanderboss](../../../characters/elysia-vanderboss.md) sent [Wrenn Piznarck](../../../characters/wrenn-piznarck.md) to Carnmere to investigate.
 

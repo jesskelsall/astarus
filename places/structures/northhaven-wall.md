@@ -42,7 +42,7 @@ There is an anti-magic field present in and around the gate house, making it dif
 
 ## Gaining Access
 
-*See also: [Military Badges](../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military Badges](../../civilisations/kingdom-of-astor/military-badges.md)*
 
 Only military members may enter the [Sunset District](../districts/sunset-district.md) of [Northhaven](../cities/northhaven.md). In order to do so they must produce a military badge that belongs to them. It is a punishable crime to use a badge belonging to someone else in order to enter.
 

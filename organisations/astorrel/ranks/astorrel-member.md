@@ -13,7 +13,7 @@
 
 ## Military Badge
 
-*See also: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
 
 Astorrel Member badges are the plain [Astorrel](../astorrel.md) military badge, with no lines denoting rank. It is understood that a plain badge means the lowest rank.
 

@@ -13,7 +13,7 @@
 
 ## Military Badge
 
-*See also: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
 
 Astorrel Squad Lead badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of silver inlaid inside its top and bottom edges. The top strip distinguishes it from the badge of an [Astorrel Squad Hand](astorrel-squad-hand.md).
 
