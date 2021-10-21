@@ -56,8 +56,9 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA12](../sessions/AA12.md) | 2021-07-10 | *Forget What You Saw Here* |
 | [AA13](../sessions/AA13.md) | 2021-09-04 | *Where is [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md)?* |
 | [AA14](../sessions/AA14.md) | 2021-09-18 | *Shadows and the Shady* |
+| [AA15](../sessions/AA15.md) | 2021-10-02 | *Wolf Valley* |
 ||
-| [AA15](../sessions/AA15.md) | 2021-10-02 | |
+| [AA16](../sessions/AA16.md) | 2021-10-30 | |
 
 ## Storylines
 
