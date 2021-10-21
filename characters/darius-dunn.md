@@ -10,7 +10,7 @@
 | **Age** | 17 |
 | **Class** | Cleric |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | |
+| **Relations** | [Sengras Longfoot](sengras-longfoot.md) (pen pal) |
 | **Places** | Eaglesfield (birthplace) |
 |||
 | **Citizenship** | |

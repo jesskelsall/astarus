@@ -19,7 +19,7 @@
 
 ## Summary
 
-Zarrus Maleron is my second player character in The Fog of War, a campaign ran by Ian. He succeeds Daardendrian Strosa.
+Zarrus Maleron is my second player character in The Fog of War, a campaign ran by Ian. He succeeds [Daardendrian Strosa](./tfow-daardendrian-strosa.md).
 
 ## Character Rolls
 
@@ -88,3 +88,83 @@ Zarrus prides himself on how far he has come. His persona as "the blue tiefling"
 - The party will get to stay at Valley Under the Stars, showcasing the inn and Zarrus' hospitality. Food and accommodation is comfortable quality.
 - A fire will engulf the building, destroying it. There is no one at fault - shit just sometimes happens. Perace Teamouse will be killed in the fire.
 - Zarrus will set out to return to The Jade Axe to get his old job back, defeated by the loss of his inn.
+
+## Places
+
+### Pelannor (Planet)
+
+Ian's homebrew campaign setting. The mages in The Anether are aware of its place in its solar system and its connection to other realms.
+
+### Alunkai (Continent)
+
+Zarrus' home continent and the location of Kobac. It sits northwest of Vennon and is close to the equator. As a result it is mostly covered in desert, though its coastlines support port cities. Its real world counterpart is Australia.
+
+It is under the control of the Viceroy Gral state.
+
+### Kobac (City)
+
+Kobac is the capital city of the Viceroy Gral state, located on Alunkai's northeastern coast. Surrounded by desert to the south and west, Kobac is built onto the coastal hillside. Its closely packed white buildings and open markets are reminiscent of real life Santorini.
+
+On the southern hills of the city are aqueducts above the main strip, known as The Drag.
+
+Kobac's population is predominantly native, though its position as a trade city brings people and coin in from Vennon. This is the major contributing factor to Kobac's wealth.
+
+| Race | Rarity |
+| --- | --- |
+| Human | 30% |
+| Drow (Dark Elf) | 30% |
+| Tiefling | 25% |
+| Orc / Half-orc | 15% |
+
+#### The Anether
+
+On the south edge of the city is a distinctive white domed building called The Anether. The roof has a slit cut into it which rotates on occasion. It can often be seen either projecting light into the sky or displaying a large lens shaped spyglass not unlike a telescope.
+
+It is home to a group of mages commissioned by the Viceroy Gral state to achieve the following goals:
+
+1. Conduct meteorological experiments to ensure the city's constant supply of water.
+2. Research the solar system that Pelannor is part of, and the connected known realms.
+3. Serve as a lighthouse for ships navigating the dangerous reefs surrounding the city.
+
+### Vennon (Continent)
+
+Vennon is the continent that the Fog of War campaign takes place on.
+
+### Crestshore (City)
+
+Crestshore is a port city on Vennon. It was the first settlement visited by the Fog of War party, the Reeves Roamers.
+
+### Fort Dresdan (City)
+
+The city that Zarrus calls home at his introduction to the campaign, and home to Valley Under the Stars.
+
+It is split into five districts:
+
+| District | Description |
+| --- | --- |
+| The Eastern Brace | South eastern branch extending outwards.<br>Residential, low to middle class.<br>One of two magical ballista called "Aether's Revolt" placed here. |
+| The Western Brace | South western branch extending outwards.<br>Residential, upper class, working in the Candles and the Rib.<br>One of two magical ballista called "Aether's Revenge" placed here. |
+| The Candles | Home to the Magical Council of Rais and school for the magically gifted.<br>Invite only, heavily guarded and watched over.<br>Five towers with spired roofs of different colours. Landmarks. |
+| The Rib | 
+
+### Ren
+
+
+---
+
+Name & brief description of the town/city that Zarrus' inn is in.
+
+Zarrus Inn would be in the "Eastern Brace" of Fort Dresdan. Fort Dresdan is sperated into 5 districts. They are:
+
+ - The Eastern Brace. This is a residental district on the south eastern jutting branch of Fort Dresdan. Mostly lower to middle class. One of two Magical Ballista called "Aether's Revolt" is placed on this brace.
+ - The Western Brace. This is a residental district on the south western jutting branch of Fort Dresdan. Mostly upper class residents working in the Candles and the Rib live here. One of two Magical Ballista called "Aether's Revenge" is placed on this brace.
+ - The Candles. This is a district of 5 towers with spired roofs of different colours that stand out above Fort Dresdan. Home of the magical council of Rais, it is here that the school for the magically gifted resides. It is guarded and watched, and invite only.
+
+ - The Rib. Central district through which the river Dresdan runs southward through the two braces and down the waterfall that sits to the south of the city. This is where the politics of the city takes place, and is also the main commercial district. Its central feature is a tree that grows out of the centre of a set of bones from the ribcage of dragon felled thousands of years ago, surrounded by plants and greenery.
+ - The Salem. This is where the religious acitivity takes place in the city, and where the temples to the various light dieties are.
+Name & brief description of the town/city in the current direction of travel that Zarrus wishes to return to following the destruction of his inn.
+
+Ren is the home of of most tieflings on Vennon. It sits on the north eastern side of the continent, some way away from where you are. You do know it can only be traversed be either passing through Caer Dunas to Caer Palas under the mountain, or by travelling to Ravenwood Crossing and heading east through the Great Reach - a gap in the silvertip mountains. You do know that Ren isn't the most hospitable of places, and its run by the various Ysun Guilds of which you know of a few (The Tahoramet, and The Red Dawn).
+Direction of travel to the current continent.
+
+15 day journey by boat north east from the port of Kobac to the port of Crestshore on the south of Vennon.
