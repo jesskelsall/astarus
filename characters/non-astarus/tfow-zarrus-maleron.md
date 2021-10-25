@@ -65,23 +65,23 @@ Zarrus Maleron is my second player character in The Fog of War, a campaign ran b
 
 ## History
 
-Zarrus Maleron is originally from [affluent city] on [tiefling continent]. Born to Emilia Maleron (mother, human) and Zolash Maleron (father, tiefling), and with an older sister, Reverence Maleron (tiefling, 26).
+Zarrus Maleron is originally from the city of Kovac on the continent of Alunkai. Born to Emilia Maleron (mother, human) and Zolash Maleron (father, tiefling), and with an older sister, Reverence Maleron (tiefling, 26).
 
 Due to his father's position as a prominent politician, Zarrus was afforded an affluent upbringing. He lived in comfort in the family home within the city, receiving private tutorship which included etiquette, reading & writing common & elvish, and weapon sparring. In his spare time he would read books about far off lands and stargaze, eventually forming an inexplicable magical connection to the stars above. Through this he is able to command minor magical effects at will.
 
 At the age of 20 Zarrus began to feel the weight of expectation and responsibility on his shoulders as his father began preparing him for a public life of politics. When he spoke out about wanting to do something else with his life and feeling that the local politics cared not for the people of the city, Zolash had Zarrus study harder, seeing his son as a failure that needed correcting.
 
-Very quickly Zarrus saw no other option than to leave home. Sneaking out one night with scant supplies and his diary which contains his notes about the stars alongside his personal musings, he followed the guiding lights of the stars by night and slept by day. Eventually the stars pointed him across the seas, so he travelled [direction] to [current continent].
+Very quickly Zarrus saw no other option than to leave home. Sneaking out one night with scant supplies and his diary which contains his notes about the stars alongside his personal musings, he followed the guiding lights of the stars by night and slept by day. Eventually the stars pointed him across the seas, so he travelled by ship northwest to Vennon, arriving in Crestshore.
 
-Initially he found success as a barkeep in The Jade Axe in [town/city not yet visited], working for the owner, Nenith Jadehide, a middle aged dwarf. Nenith took the risk on the unproven tiefling, not minding Zarrus' eccentricities. Soon he came to rely on his attention to detail, sharp eye for customers' needs, and politeness. Zarrus enjoyed the work, fuelled by the smiles and laughter of their patrons. He had found his true calling.
+Initially he found success as a barkeep in The Jade Axe in Ren, working for the owner, Nenith Jadehide, a middle aged dwarf. Nenith took the risk on the unproven tiefling, not minding Zarrus' eccentricities. Soon he came to rely on his attention to detail, sharp eye for customers' needs, and politeness. Zarrus enjoyed the work, fuelled by the smiles and laughter of their patrons. He had found his true calling.
 
 Zarrus spent 2 years toiling away at his job, saving as much money as he could, rarely leaving the inn. During this time his reputation as "the blue tiefling" began to grow, bringing people to the inn who wished to experience his uniqueness and strangeness, both as a tiefling and as a person - his manners and mannerisms proved popular.
 
-When Zarrus shared with Nenith his plan to buy his own inn so he could prove himself as a successful business owner, Nenith and his wife Giridrid were supportive and encouraging. Showing their true colours as his only real friends in this world, they gifted him a sizeable amount of gold. Combined with his own there was now enough to buy an inn and get thing set up. He wasted no time, buying an inn in [town] and naming it Valley Under the Stars.
+When Zarrus shared with Nenith his plan to buy his own inn so he could prove himself as a successful business owner, Nenith and his wife Giridrid were supportive and encouraging. Showing their true colours as his only real friends in this world, they gifted him a sizeable amount of gold. Combined with his own there was now enough to buy an inn and get thing set up. He wasted no time, buying an inn in Fort Dresdan and naming it Valley Under the Stars.
 
 One year later, the inn is thriving, enjoying steady customers. Zarrus has been able to set the inn up as a premium destination, attentively catering to his guests' accommodation and culinary needs. He has recently hired a cook, Perace Teamouse (he/him, halfling), who is now preparing all of Zarrus' signature dishes and allowing him to focus his attention on other parts of the inn.
 
-Zarrus prides himself on how far he has come. His persona as "the blue tiefling" has made him a small time local celebrity, drawing enough people to [town] to sustain his business. He is exceptionally proud of what he has achieved. Each victory proves to himself that he can make it in the world without his parents. He still looks to the stars on clear nights for familiarity and guidance.
+Zarrus prides himself on how far he has come. His persona as "the blue tiefling" has made him a small time local celebrity, drawing enough people to his corner of the Eastern Brace to sustain his business. He is exceptionally proud of what he has achieved. Each victory proves to himself that he can make it in the world without his parents. He still looks to the stars on clear nights for familiarity and guidance.
 
 ### Introduction
 
@@ -134,6 +134,8 @@ Vennon is the continent that the Fog of War campaign takes place on.
 
 Crestshore is a port city on Vennon. It was the first settlement visited by the Fog of War party, the Reeves Roamers.
 
+Travel by boat from Kobac to Crestshore is around 15 days on the sea bearing northeast.
+
 ### Fort Dresdan (City)
 
 The city that Zarrus calls home at his introduction to the campaign, and home to Valley Under the Stars.
@@ -145,26 +147,14 @@ It is split into five districts:
 | The Eastern Brace | South eastern branch extending outwards.<br>Residential, low to middle class.<br>One of two magical ballista called "Aether's Revolt" placed here. |
 | The Western Brace | South western branch extending outwards.<br>Residential, upper class, working in the Candles and the Rib.<br>One of two magical ballista called "Aether's Revenge" placed here. |
 | The Candles | Home to the Magical Council of Rais and school for the magically gifted.<br>Invite only, heavily guarded and watched over.<br>Five towers with spired roofs of different colours. Landmarks. |
-| The Rib | 
+| The Rib | Central, River Dresdan runs south through it, down waterfall between braces.<br>Commercial district, seat of politics.<br>Central feature: tree that grows from centre of ribcage of a complete dragon skeleton, thousands of years ago. Surrounded by greenery. |
+| The Salem | Religious hub. Temples to various light-themed deities. |
 
-### Ren
+### Ren (Settlement)
 
+A settlement on the northeastern side of Vennon. It is a largely inhospitable place, ran by the various Ysun Guilds, including The Tahoramet and The Red Dawn.
 
----
+It is accessed in the following ways:
 
-Name & brief description of the town/city that Zarrus' inn is in.
-
-Zarrus Inn would be in the "Eastern Brace" of Fort Dresdan. Fort Dresdan is sperated into 5 districts. They are:
-
- - The Eastern Brace. This is a residental district on the south eastern jutting branch of Fort Dresdan. Mostly lower to middle class. One of two Magical Ballista called "Aether's Revolt" is placed on this brace.
- - The Western Brace. This is a residental district on the south western jutting branch of Fort Dresdan. Mostly upper class residents working in the Candles and the Rib live here. One of two Magical Ballista called "Aether's Revenge" is placed on this brace.
- - The Candles. This is a district of 5 towers with spired roofs of different colours that stand out above Fort Dresdan. Home of the magical council of Rais, it is here that the school for the magically gifted resides. It is guarded and watched, and invite only.
-
- - The Rib. Central district through which the river Dresdan runs southward through the two braces and down the waterfall that sits to the south of the city. This is where the politics of the city takes place, and is also the main commercial district. Its central feature is a tree that grows out of the centre of a set of bones from the ribcage of dragon felled thousands of years ago, surrounded by plants and greenery.
- - The Salem. This is where the religious acitivity takes place in the city, and where the temples to the various light dieties are.
-Name & brief description of the town/city in the current direction of travel that Zarrus wishes to return to following the destruction of his inn.
-
-Ren is the home of of most tieflings on Vennon. It sits on the north eastern side of the continent, some way away from where you are. You do know it can only be traversed be either passing through Caer Dunas to Caer Palas under the mountain, or by travelling to Ravenwood Crossing and heading east through the Great Reach - a gap in the silvertip mountains. You do know that Ren isn't the most hospitable of places, and its run by the various Ysun Guilds of which you know of a few (The Tahoramet, and The Red Dawn).
-Direction of travel to the current continent.
-
-15 day journey by boat north east from the port of Kobac to the port of Crestshore on the south of Vennon.
+- Through Caer Dunas to Caer Palas under the mountain.
+- Through Ravenwood Crossing, then east through the Great Reach, a gap in the Silvertip Mountains.
