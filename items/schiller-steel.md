@@ -2,9 +2,9 @@
 
 ## Summary
 
-Schiller steel is a type of manufactured steel made from enriched iron mined from the base of [Karmox](../../places/mountains/karmox.md). It is known throughout the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) and the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/dardenn-kingdom.md) for its superior quality.
+Schiller steel is a type of manufactured steel made from enriched iron mined from the base of [Karmox](../places/mountains/karmox.md). It is known throughout the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) and the [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md) for its superior quality.
 
-Known only to the [Schiller Family](../../organisations/schiller-family.md), the location and properties of Schiller steel is due to the influence of [Nilliski](../../characters/nilliski.md), an eldritch entity that lives within [Karmox](../../places/mountains/karmox.md). They have provided them with this ore in exchange for their services, elevating their power and wealth, due to their monopoly on Schiller steel's manufacture and sale.
+Known only to the [Schiller Family](../organisations/schiller-family.md), the location and properties of Schiller steel is due to the influence of [Nilliski](../characters/nilliski.md), an eldritch entity that lives within [Karmox](../places/mountains/karmox.md). They have provided them with this ore in exchange for their services, elevating their power and wealth, due to their monopoly on Schiller steel's manufacture and sale.
 
 ## Appearance
 

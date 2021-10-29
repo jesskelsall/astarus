@@ -67,9 +67,9 @@ There is a festival celebrating the border between months where the associated g
 || Short Form | Long Form |
 | --- | --- | --- |
 | **Template** | YYY-M-DD | Day, D(o) Month, Year X.A. |
-| **Example 1** | 312-4-28 | Gordag, 28th of Vishantu, 312 P.A. |
-| **Example 2** | 312-5-02 | Mishdag, 2nd of Finsbock, 312 P.A. |
-| **Diamodeus** | 312-D | Diamodeus, 312 P.A. |
+| **Example 1** | 312-4-28 | Gordag, 28th of Vishantu, 312 PA |
+| **Example 2** | 312-5-02 | Mishdag, 2nd of Finsbock, 312 PA |
+| **Diamodeus** | 312-D | Diamodeus, 312 PA |
 
 ---
 

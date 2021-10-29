@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Warlock (The Archfey) |
-| **Background** | Criminal / Spy (Criminal Contact) |
+| **Background** | Criminal / Spy |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Mykiel](mykiel.md) (father, deva)<br>[Effie Silttooth](effie-silttooth.md) (Warlock patron) |
 | **Places** | |

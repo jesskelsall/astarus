@@ -10,7 +10,7 @@
 
 ## Summary
 
-A high-end weapon shop that exclusively sells [Schiller steel](../../../items/weapons/schiller-steel.md). It is owned by the [Schiller family](../../../organisations/schiller-family.md) and ran by a shopkeeper that they trust.
+A high-end weapon shop that exclusively sells [Schiller steel](../../../items/schiller-steel.md). It is owned by the [Schiller family](../../../organisations/schiller-family.md) and ran by a shopkeeper that they trust.
 
 ### Exterior
 
@@ -34,4 +34,4 @@ A high-end weapon shop that exclusively sells [Schiller steel](../../../items/we
 
 ## Vendor
 
-Sells [Schiller Steel](../../../items/weapons/schiller-steel.md) weapons, though only to the right people - they typically appear to be "out of stock" when asked.
+Sells [Schiller Steel](../../../items/schiller-steel.md) weapons, though only to the right people - they typically appear to be "out of stock" when asked.

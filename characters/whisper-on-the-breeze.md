@@ -9,7 +9,7 @@
 | **Pronouns** | they/them |
 | **Age** | 22 |
 | **Class** | Rogue (Inquisitive) |
-| **Background** | Pariah (Criminal Contact) |
+| **Background** | Pariah |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Shout on the Breeze](shout-on-the-breeze.md) (adoptive father) |
 | **Places** | [Kuv'narash](../places/villages/kuvnarash.md) (birthplace) |

@@ -10,7 +10,7 @@
 | **Age** | 42  |
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
-| **Relations** | [Vulpes Soon](vulpes-soon.md) (first son)<br>[Vulpes Geex](vulpes-geex.md) (second son)<br>[Vētrall Astérr](vetrall-asterr.md) (friend) |
+| **Relations** | [Vulpes Soon](vulpes-soon.md) (first son)<br>[Vulpes Geex](vulpes-geex.md) (second son)<br>[Nacnar Morwesyrr](nacnar-morwesyrr.md) (friend)<br>[Vētrall Astérr](vetrall-asterr.md) (friend) |
 | **Places** | [The Fox Hole](../places/buildings/the-fox-hole.md) |
 |||
 | **Citizenship** | [Nilus Coast](../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
@@ -30,7 +30,7 @@ Vulpes Geen was the leader of [Familia Vulpes](../organisations/familia-vulpes.m
 | **Face** | Pointy ears, blue eyes. | characteristics.2
 | **Hair** | Grey-orange short fur. |
 | **Body** | 3'4" / 104cm. Athletic. |
-| **Clothes** | [Adamantine armour](https://www.dndbeyond.com/magic-items/adamantine-armor), [Unevaire](../items/weapons/unevaire.md) |
+| **Clothes** | [Adamantine armour](https://www.dndbeyond.com/magic-items/adamantine-armor), [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) |
 | **Voice** | |
 | **Mannerisms** | |
 | | |

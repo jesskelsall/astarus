@@ -34,7 +34,7 @@
 >
 > Whoever gains it from his will should be coming straight here to collect it. **Be ready.**
 >
-> Rumour has it, this could be where [Unevaire](../items/weapons/unevaire.md) is kept.  
+> Rumour has it, this could be where [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) is kept.  
 > If so we will all be rich beyond our wildest dreams.
 >
 > I have a buyer lined up.

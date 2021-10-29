@@ -10,7 +10,7 @@
 | **Age** | 37 |
 | **Class** | Fighter |
 | **Worship** | |
-| **Relations** | |
+| **Relations** | [Marik Kaligavone](marik-kaligavone.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) associate)<br>[Creek](creek.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) contact) |
 | **Places** | |
 |||
 | **Citizenship** | |
@@ -49,8 +49,8 @@ Keranios is a player character in the [Memories of Chausain](../campaigns/C3-mem
 
 ## Character Sheets
 
-### [MC01M](../sessions/MC01M.md)
+### Level 2: [MC01M](../sessions/MC01M.md)
 
 ||||
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/aa1e35ec942235f4-1.jpg" height="500" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/aa1e35ec942235f4-2.jpg" height="500" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/aa1e35ec942235f4-3.jpg" height="500" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/8c075a85ed942631-2-1.jpg" width="300" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/8c075a85ed942631-2-2.jpg" width="300" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/8c075a85ed942631-2-3.jpg" width="300" /> |

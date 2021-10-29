@@ -24,7 +24,7 @@
 
 ## Summary
 
-Raine Villere is the current owner of the [Homestead Memory Sphere](../items/memory-spheres/homestead-memory-sphere.md). They exchanged letters with [Vulpes Geen](vulpes-geen.md) many years ago before Geen decided not to seek help with identifying the [Fall of Chausain Memory Sphere](../items/memory-spheres/fall-of-chausain-memory-sphere.md).
+Raine Villere is the current owner of the [Homestead Memory Sphere](../items/memory-spheres/homestead-memory-sphere.md). They exchanged letters with [Vulpes Geen](vulpes-geen.md) many years ago before Geen decided not to seek help with identifying the [Fall of Chausain Memory Sphere](../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md).
 
 - Raine is a gender neutral French first name.
 - Villere is a French surname with an unknown origin, possibly a habitational name. Latin _villare_ 'farmstead'.

@@ -7,12 +7,12 @@
 | **Name** | Clef Gill | character.4
 | **Lineage** | Elf (High) |
 | **Pronouns** | he/him |
-| **Age** | |
+| **Age** | 264 (dead) |
 | **Class** | |
 | **Background** | |
 | **Worship** | |
-| **Relations** | |
-| **Places** | [The Mistral](../places/ships/the-mistral.md) (captain) |
+| **Relations** | [Oriel Elsandoral](oriel-elsandoral.md) (friend, love interest)<br>Buddy (pet fox, dead) |
+| **Places** | [The Mistral](../places/ships/the-mistral.md) (captain, destroyed) |
 | **Citizenship** | [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md) |
 | **Organisation(s)** | |
 |||
@@ -20,21 +20,21 @@
 
 ## Summary
 
-Clef Gill is the captain of [the Mistral](../places/ships/the-mistral.md).
+Clef Gill was the captain of [the Mistral](../places/ships/the-mistral.md). He was killed when [the Mistral](../places/ships/the-mistral.md) exploded in the [Côtedouce](../places/towns/cotedouce.md) dock.
 
 ## Characteristics
 
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
+| **Face** | Soft dirty golden skin, grey eyes. Sharp glamorous face. | characteristics.2
+| **Hair** | Long straight auburn hair. |
+| **Body** | 5'2" / 159cm, slim build.<br>Small scar on right hand. |
 | **Clothes** | |
 | **Voice** | |
 | **Mannerisms** | |
 | | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
+| **Quirks** | Oblivious to etiquette and social expectations. |
+| **Knowledge** | Seafaring. |
+| **Values** | Believes in soulmates. |
+| **Ambitions** | Very competitive.<br>In love with [Oriel Elsandoral](oriel-elsandoral.md). |
 | **Dislikes** | |

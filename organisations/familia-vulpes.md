@@ -6,7 +6,7 @@
 | --- | --- |
 | **Name** | Familia Vulpes | organisation.2
 | **Civilisation** | |
-| **Leader** | [Vulpes Geen](../characters/vulpes-geen.md) (dead) |
+| **Leader** | [Vulpes Soon](../characters/vulpes-soon.md)<br>[Vulpes Geen](../characters/vulpes-geen.md) (former, dead) |
 | **Patron** | |
 | **Location(s)** | [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 |||
@@ -89,3 +89,24 @@ Members are identified by their [Coin of Family](../items/coin-of-family.md), gi
 Members in good standing with Familia Vulpes and/or those that have been a member for some time are given a [Coin of Friendship](../items/coin-of-friendship.md). This is presented to a potential recruit as an invite to join. Members with one of these coins are encouraged to use it when they find someone of adventuring skill and good moral character.
 
 Those given a [Coin of Friendship](../items/coin-of-friendship.md) accept the offer by travelling to [The Fox Hole](../places/buildings/the-fox-hole.md) and giving it to the Father of the Door. They are accepted without question. Once inside the Mother of the House sets them up with a mentor who shows them the ropes of life as a Familia Vulpes member. This is usually followed by the member being given their own [Coin of Family](../items/coin-of-family.md).
+
+## Members
+
+### Notable Members
+
+- [Vulpes Geen](../characters/vulpes-geen.md) (leader, dead)
+- [Vulpes Soon](../characters/vulpes-soon.md) (leader)
+- [Hanz Peacemaker](../characters/hanz-peacemaker.md) (Father of the Door)
+- [Aneni Veomelo](../characters/aneni-veomelo.md) (Mother of the House)
+
+### Family for Hire
+
+*See: [MC00-OC-F5](../cards/MC00-OC-F5.md)*
+
+When members of Familia Vulpes return to [the Fox Hole](../places/buildings/the-fox-hole.md), there will always be members of the family available to help on their next adventure:
+
+| Character | Lineage | Class | Level |
+| --- | --- | --- |:---:|
+| [Turnuroth Nakris](../characters/turnuroth-nakris.md) | Dragonborn | Fighter | 2 |
+| [Jacquelyn Grisham](../characters/jacquelyn-grisham.md) | Human | Rogue | 2 |
+| [Nainarv Hardhelm](../characters/nainarv-hardhelm.md) | Dwarf | Cleric (Life Domain) | 2 |

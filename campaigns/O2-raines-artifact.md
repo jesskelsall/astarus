@@ -32,7 +32,7 @@
 
 - Party arrives at the behest of [Raine Soulier](../characters/raine-soulier.md).
 - Raine wants the [Dulsenn Crypt Memory Sphere](../items/memory-spheres/dulsenn-crypt-memory-sphere.md) investigating.
-  - Explains what a [memory sphere](../items/memory-spheres/memory-sphere.md) is.
+  - Explains what a [memory sphere](../items/artifacts-of-oonar/memory-spheres/memory-sphere.md) is.
   - Can create the pocket dimension once per day.
   - Party allowed to stay here as long as necessary.
     - Long rest each night.
@@ -72,10 +72,10 @@
 
 - Pitch black.
 - Coffins contain skeletons. Some others found in destroyed parts of crypt.
-- [Unevaire](../items/weapons/unevaire.md) in [Vivien Bouxelles](../characters/vivien-bouxelles.md)' coffin.
+- [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) in [Vivien Bouxelles](../characters/vivien-bouxelles.md)' coffin.
 - Vivien's ghost emerges when her coffin is disturbed.
 - Magic items to be found:
-  - [Unevaire](../items/weapons/unevaire.md)
+  - [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md)
   - [Staff of Adornment](https://www.dndbeyond.com/magic-items/staff-of-adornment)
   - [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/glamoured-studded-leather)
 - Combat:

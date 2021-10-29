@@ -15,13 +15,12 @@
 |||
 | **Citizenship** | [Nilus Coast](../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
 | **Organisation** | [Familia Vulpes](../organisations/familia-vulpes.md) |
-| **Role** | |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Vulpes Soon is the eldest son of [Vulpes Geen](vulpes-geen.md) and inheritor of [Unevaire](../items/weapons/unevaire.md).
+Vulpes Soon is the eldest son of [Vulpes Geen](vulpes-geen.md), taking over from his father as the leader of [Familia Vulpes](../organisations/familia-vulpes.md). He inherited [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) on his death.
 
 ## Characteristics
 

@@ -39,8 +39,9 @@
 | [MC01M](../sessions/MC01M.md) | 2021-09-05 | *Introducing the [Marsh Skimmers](../organisations/marsh-skimmers.md)* |
 | [MC02](../sessions/MC02.md) | 2021-09-19 | *From Wall to Desert* |
 | [MC03](../sessions/MC03.md) | 2021-10-10 | *A Metal Orb* |
+| [MC04](../sessions/MC04.md) | 2021-10-24 | *[Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) in [Côtedouce](../places/towns/cotedouce.md)* |
 ||
-| [MC04](../sessions/MC04.md) | 2021-10-24 | |
+| [MC05](../sessions/MC05.md) | 2021-11-21 | |
 
 ## Storylines
 
@@ -52,6 +53,9 @@
 | [The Shiny Ball](../storylines/the-shiny-ball.md) | [MC01F](../sessions/MC01F.md) | |
 | [Hammersmiths on the Offensive](../storylines/hammersmiths-on-the-offensive.md) | [MC01M](../sessions/MC01M.md) | |
 | [Malnesh Waits Patiently](../storylines/malnesh-waits-patiently.md) | [MC02](../sessions/MC02.md) | |
-| [Escaping the Desert](../storylines/ended/escaping-the-desert.md) | [MC02](../sessions/MC02.md) | [MC03](../sessions/MC03.md) |
+| [Escaping the Desert](../storylines/ended/escaping-the-desert.md) | [MC02](../sessions/MC02.md) | [MC04](../sessions/MC04.md) |
+| [Recovering Syntenne Property](../storylines/recovering-syntenne-property.md) | [MC03](../sessions/MC03.md) | |
 | [Skimming on Thin Ice](../storylines/skimming-on-thin-ice.md) | [MC03](../sessions/MC03.md) | |
-| [The Kavallos Fleet Infiltrates Côtedouce](../storylines/the-kavallos-fleet-infiltrates-cotedouce.md) | [MC03](../sessions/MC03.md) | |
+| [The Kavallos Fleet Attacks Côtedouce](../storylines/the-kavallos-fleet-attacks-cotedouce.md) | [MC03](../sessions/MC03.md) | |
+| [Oriel's Patronage](../storylines/oriels-patronage.md) | [MC04](../sessions/MC04.md) | |
+| [Valan's Attitude Adjustment](../storylines/valans-attitude-adjustment.md) | [MC04](../sessions/MC04.md) | |

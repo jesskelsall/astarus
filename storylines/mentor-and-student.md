@@ -30,3 +30,13 @@ The pair were paid 10 gp each for their efforts and secured 20 gp for [Familia V
 ### [MC02](../sessions/MC02.md)
 
 On their first full day in [Starnov](../places/cities/starnov.md), [Vētrall Astérr](../characters/vetrall-asterr.md) orders [Valan Shadowgaze](../characters/valan-shadowgaze.md) to find them adventuring work. Valan is unhappy at Vētrall, pointing out the hypocrisy of a lesson without supervision. Vētrall explains it away as their teaching style, not letting on to their need for some alone time to visit the [Nilus Vaults](../places/buildings/government/nilus-vaults.md).
+
+### [MC04](../sessions/MC04.md)
+
+Returning to [the Fox Hole](../places/buildings/the-fox-hole.md) in [Trest](../places/towns/trest.md) after being teleported from [Côtedouce](../places/towns/cotedouce.md) by [Oriel Elsandoral](../characters/oriel-elsandoral.md), [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) sleep for the night.
+
+Vētrall wakes to the sight of [Nacnar Morwesyrr](../characters/nacnar-morwesyrr.md). They are exited to see her again, though Nacnar is remorseful at not being present when [Vulpes Geen](../characters/vulpes-geen.md) died, and also missing his funeral.
+
+Nacnar insists that Vētrall eats breakfast following their late wake up. She asks them about their new student, who Vētrall is dismissive of. Nacnar wishes to meet him, so Vētrall collects him from a conversation with [Eight Trees](../characters/eight-trees.md). Nacnar and Valan formally introduce themselves to each other.
+
+When Nacnar asks of their adventures together so far, Vētrall insists they go somewhere more private to talk. Nacnar offers to take them to [Nacnar's House](../places/buildings/houses/nacnars-house.md), so the three leave [the Fox Hole](../places/buildings/the-fox-hole.md) to cross [Trest](../places/towns/trest.md) to it.

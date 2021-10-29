@@ -26,7 +26,7 @@
 
 Ikra is the kobold scale sorcerer in charge of the [blue kobold](../lineages/blue-kobold.md) tribe living out of [Blue Kobold Cave](../places/caves/blue-kobold-cave.md). He is the wisest kobold of the tribe, helping direct complex efforts to ensure the tribe survives. Despite this, they are still jumpy and distrusting.
 
-Ikra was given a [Blue Dragon Scale Necklace](../items/blue-dragon-scale-necklace.md) by their master [Cheorrosdyr](cheorrosdyr.md), who created the [blue kobold](../lineages/blue-kobold.md) tribe. This has acted as a de facto token of leadership.
+Ikra was given a [Blue Dragon Scale Necklace](../items/magic/blue-dragon-scale-necklace.md) by their master [Cheorrosdyr](cheorrosdyr.md), who created the [blue kobold](../lineages/blue-kobold.md) tribe. This has acted as a de facto token of leadership.
 
 ## Characteristics
 

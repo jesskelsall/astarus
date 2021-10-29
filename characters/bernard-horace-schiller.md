@@ -22,7 +22,7 @@
 
 ## Summary
 
-Bernard Horace Schiller is the current head of the [Schiller family](../organisations/schiller-family.md). He is a cold and calculating man, expecting exemplary behaviour from family members, particularly [Noon Schiller](noon-schiller.md). Under his control the [Schiller family](../organisations/schiller-family.md) has seen their wealth grow further, with sales of [Schiller steel](../items/weapons/schiller-steel.md) expanding into the [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md).
+Bernard Horace Schiller is the current head of the [Schiller family](../organisations/schiller-family.md). He is a cold and calculating man, expecting exemplary behaviour from family members, particularly [Noon Schiller](noon-schiller.md). Under his control the [Schiller family](../organisations/schiller-family.md) has seen their wealth grow further, with sales of [Schiller steel](../items/schiller-steel.md) expanding into the [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md).
 
 ## Characteristics
 

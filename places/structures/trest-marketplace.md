@@ -5,7 +5,7 @@
 | **Name** | Trest Marketplace | place.4
 | **Type** | Structure |
 | **Location** | [Trest](../towns/trest.md)<br>[Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md)<br>[Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
-| **Nearby Places** | |
+| **Nearby Places** | [Nomad's Stop](../buildings/inns-taverns/nomads-stop.md) |
 | **People** | |
 
 ## Summary

@@ -1,12 +1,14 @@
 # Blue Kobold Cave
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Blue Kobold Cave |
+| **Name** | Blue Kobold Cave | place.4
 | **Type** | Cave |
-| **Location** | [Walna Forest](../forests/walna-forest.md)<br>[Central Astor](../regions/central-astor.md) |
+| **Location** | [Walna Forest](../forests/walna-forest.md) |
 | **Nearby Places** | [Arnaside](../villages/arnaside.md) |
 | **People** | [Ikra](../../characters/ikra.md) |
+||
+| **Image ID** | `f6e55a28689b4294` |
 
 ## Summary
 
@@ -18,9 +20,11 @@ The inner sanctum features 4 angled hexagonal pillars made of the same surroundi
 
 | Item | Value |
 | --- | ---:|
-| [Blue Dragon Scale Necklace](../../items/blue-dragon-scale-necklace.md) | |
+| [Blue Dragon Scale Necklace](../../items/magic/blue-dragon-scale-necklace.md) | |
 | Large polished turquoise gemstone | 15 gp |
 
 ## Map
 
-<img src="../../images/battlemaps/blue-kobold-cave.png" width="80%" />
+||
+|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/battlemaps/f6e55a28689b4294.png" width="500px" /> |

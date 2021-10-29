@@ -10,7 +10,7 @@
 | **Age** | 24 |
 | **Class** | Druid (Circle of the Land: Mountains) |
 | **Worship** | |
-| **Relations** | |
+| **Relations** | [Keranios](keranios.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) associate)<br>[Creek](creek.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) contact) |
 | **Places** | |
 |||
 | **Citizenship** | [Revenossa](../civilisations/nilsavnic-alliance/states/revenossa.md) |
@@ -47,8 +47,8 @@ TODO
 
 ## Character Sheets
 
-### [MC01M](../sessions/MC01M.md)
+### Level 2: [MC01M](../sessions/MC01M.md)
 
 ||||
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/120bdc0c161929ad-1.jpg" height="500" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/120bdc0c161929ad-2.jpg" height="500" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/120bdc0c161929ad-3.jpg" height="500" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/5e34f2c0018c62f8-2-1.jpg" width="300" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/5e34f2c0018c62f8-2-2.jpg" width="300" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/character-sheets/5e34f2c0018c62f8-2-3.jpg" width="300" /> |

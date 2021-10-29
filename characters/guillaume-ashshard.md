@@ -24,7 +24,7 @@
 
 ## Summary
 
-Guillaume Ashshard was the previous owner of the [Fall of Chausain Memory Sphere](../items/memory-spheres/fall-of-chausain-memory-sphere.md). He was murdered for it by a returner who was in turn killed by [Vulpes Geen](vulpes-geen.md). Geen took the sphere for himself.
+Guillaume Ashshard was the previous owner of the [Fall of Chausain Memory Sphere](../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md). He was murdered for it by a returner who was in turn killed by [Vulpes Geen](vulpes-geen.md). Geen took the sphere for himself.
 
 ## Characteristics
 

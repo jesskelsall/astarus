@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | 107 (dead) |
 | **Class** | Druid (Circle of the Land: Grassland) |
-| **Background** | Outlander (Wanderer) |
+| **Background** | Outlander |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
 | **Relations** | [Wizira's Father](wiziras-father.md) (father)<br>(mother, dead) |
 | **Places** | [Hawkswood](../places/forests/hawkswood.md) (birthplace)<br>[Wizira's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/wiziras-house.md) |

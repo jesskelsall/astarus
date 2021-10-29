@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [MC02](../../sessions/MC02.md) | storyline.2
-| **Session Ended** | |
+| **Session Ended** | [MC04](../../sessions/MC04.md) |
 
 ## Summary
 
@@ -13,7 +13,7 @@ The [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party fin
 
 ### [MC02](../../sessions/MC02.md)
 
-The [Fall of Chausain Memory Sphere](../../items/memory-spheres/fall-of-chausain-memory-sphere.md) malfunctions, spitting the [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party out into the middle of the Kas'ran Desert after they are ejected from its pocket dimension due to falling unconscious.
+The [Fall of Chausain Memory Sphere](../../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md) malfunctions, spitting the [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party out into the middle of the Kas'ran Desert after they are ejected from its pocket dimension due to falling unconscious.
 
 They find themselves waking up face down in the sand in the middle of a sunny day, sweltering in the heat. Looking around they find no signs of anything but dunes as far as the eye can see.
 
@@ -46,3 +46,23 @@ Upon seeing [Côtedouce](../../places/towns/cotedouce.md) on the coast over a du
 The party proceed into [Côtedouce](../../places/towns/cotedouce.md), looking for somewhere to drink and sleep before hoping to catch a ship out of the desert. These plans are scuppered when they are arrested and jailed by the [Republic Guard](../../organisations/guards/republic-guard.md).
 
 Following their escape orchestrated by [Grouper](../../characters/grouper.md), he provides them with information of a [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) plot to sabotage the town's defences ahead of a larger naval attack, advising the party to take this information to the arch-mage [Oriel Elsandoral](../../characters/oriel-elsandoral.md) to earn her trust and secure safe passage out of the town. They take a Kavallos longsword that [Grouper](../../characters/grouper.md) gives them to the arch-mage, offering their services. Oriel explains that if they help prevent this plot from transpiring, they will earn her favour.
+
+### [MC04](../../sessions/MC04.md)
+
+The party make their way to the [Côtedouce](../../places/towns/cotedouce.md) dock, searching for signs of [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) soldiers aboard [the Mistral](../../places/ships/the-mistral.md). When [Marik Kaligavone](../../characters/marik-kaligavone.md), [Valan Shadowgaze](../../characters/valan-shadowgaze.md) and [Vētrall Astérr](../../characters/vetrall-asterr.md) try to sneak onto the ship using the Dust of Disappearance, their cover is blown when Marik casts Druidcraft and her invisibility ends early.
+
+In the ensuing panic, Valan casts Fog Cloud and the group try to climb aboard, Marik falling into the water. Valan and Vētrall find nobody on deck and are unable to open locked doors to areas below deck before the ship explodes.
+
+[Keranios](../../characters/keranios.md), now at the [Côtedouce Coastal Artillery](../../places/structures/cotedouce-coastal-artillery.md), watches as [the Mistral](../../places/ships/the-mistral.md) explodes in the nearby dock. As guards stationed there run to help, he finds himself alone with the cannoneers against advancing [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) soldiers who have created an explosion to cause a distraction to their real goal. He fights on as [Unicorn Cavalry](../../organisations/guards/unicorn-cavalry.md) guards arrive to help.
+
+The rest of the party swim ashore, reviving the unconscious Valan before he drowns. They take off running to the coastal artillery, arriving late to the ensuing combat. More soldiers arrive, including a [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) infiltrator that disguises his appearance to get amongst the party, as well as creating an illusion of a catapult that distracts some of the party momentarily.
+
+As the fight progresses, two of the cannons are destroyed by bombs that ignite the powder kegs next to them. The last surviving cannoneer manages to load and fire a cannon twice at soldiers on the structure, killing them instantly.
+
+Vorkazal the Razor, the [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) captain in charge of the operation, reveals himself and challenges everyone present to battle. He makes short work of Marik's wolf Wild Shape and two [Unicorn Cavalry](../../organisations/guards/unicorn-cavalry.md) guards, but is hit repeatedly by Kera and both [Familia Vulpes](../../organisations/familia-vulpes.md) members with ranged weapons. Both he and the infiltrator are felled, thwarting the fleet's sabotage efforts that night.
+
+On return to [Oriel Elsandoral](../../characters/oriel-elsandoral.md), the arch-mage thanks them for their help, regretting not trusting their word and doing more to help in advance. Now with her favour, she asks what they would like from her in exchange for their services.
+
+The party decides they wish to learn more about the [Fall of Chausain Memory Sphere](../../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md). Oriel's investigation of the [memory sphere](../../items/artifacts-of-oonar/memory-spheres/memory-sphere.md) coupled with the party's descriptions of its contents convinces her of its immense importance, causing her to offer to be their patron, an offer they accept. Oriel offers to teleport them to a [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) capital city of their choosing. She reveals that she knows of [Familia Vulpes](../../organisations/familia-vulpes.md), offering to teleport them instead to [Trest](../../places/towns/trest.md) on [Vētrall Astérr](../../characters/vetrall-asterr.md)'s request.
+
+The party wishes to leave immediately and rest in [Trest](../../places/towns/trest.md). [Oriel Elsandoral](../../characters/oriel-elsandoral.md) teleporting them to the [Trest Marketplace](../../places/structures/trest-marketplace.md) ends their stint in the Kas'ran Desert.

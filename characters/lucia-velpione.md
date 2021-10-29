@@ -9,7 +9,7 @@
 | **Pronouns** | she/they |
 | **Age** | 28 |
 | **Class** | Bard (College of Whispers) |
-| **Background** | Charlatan (False Identity) |
+| **Background** | Charlatan |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge)<br>Atheist |
 | **Relations** | Lucia's Father (father)<br>Lucia's Mother (mother)<br>Lucia's Daughter (daughter) |
 | **Places** | Ballabeg (birthplace)<br>Port Soderick (second home)<br>[Dunmore](../places/cities/dunmore.md) (third home) |
@@ -64,7 +64,7 @@ On the day of her arrival she noticed a man running away from the [Astornox guar
 
 Lucia was shipped off to Kilflynn where she was conscripted into the [Astornox](../organisations/astornox/astornox.md). Before she could be processed to begin her training, the [Astorrel](../organisations/astorrel/astorrel.md) in [Dunmore](../places/cities/dunmore.md) paid a visit, noting her magical potential. They made a request to the [Astornox](../organisations/astornox/astornox.md) to have her released into their custody, which they accepted. Lucia would instead be trained to be an [Astorrel](../organisations/astorrel/astorrel.md).
 
-After 2.5 years of training in [Dunmore](../places/cities/dunmore.md) with her [Astorrel](../organisations/astorrel/astorrel.md) mentor (and now 20), Lucia graduated in a ceremony in [Northhaven](../places/cities/northhaven.md), promoted to [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). She was placed in a squad that called themselves [Pillar Squad](../organisations/astorrel/squads/pillar-squad.md), where she remained for 1.5 years. She was then selected to work under the Major of Phenomena, moving into Spectral Squad to help investigate whether ghosts exist. She excelled, earning herself a promotion to [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md), but turned it down, not wishing to be responsible for others.
+After 2.5 years of training in [Dunmore](../places/cities/dunmore.md) with her [Astorrel](../organisations/astorrel/astorrel.md) mentor (and now 20), Lucia graduated in a ceremony in [Northhaven](../places/cities/northhaven.md), promoted to [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md). She was placed in a squad that called themselves [Pillar Squad](../organisations/astorrel/squads/pillar-squad.md), where she remained for 1.5 years. She was then selected to work under the Major of Phenomena, moving into [Aura Squad](../organisations/astorrel/squads/aura-squad.md) to help investigate whether ghosts exist. She excelled, earning herself a promotion to [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md), but turned it down, not wishing to be responsible for others.
 
 On a later assignment [Aura Squad](../organisations/astorrel/squads/aura-squad.md) was attacked by bandits while investigating a cave. Lucia managed to talk her way out of the situation, escaping back to [Northhaven](../places/cities/northhaven.md). There she told her [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) that the rest of her squad had been ambushed & killed, and that she was lucky to have escaped. She was given a two weeks off to recover, with the expectation that she would be assigned to a new squad thereafter.
 

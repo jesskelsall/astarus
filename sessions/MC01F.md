@@ -255,7 +255,7 @@ Many of the dignitaries stick around for the wake. Much drink is consumed and ma
 
 ## Geen's Will
 
-Early the following morning, [Vulpes Geen](../characters/vulpes-geen.md)'s last will is read between the Vulpes family. [Vulpes Soon](../characters/vulpes-soon.md) gains possession of [Unevaire](../items/weapons/unevaire.md).
+Early the following morning, [Vulpes Geen](../characters/vulpes-geen.md)'s last will is read between the Vulpes family. [Vulpes Soon](../characters/vulpes-soon.md) gains possession of [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md).
 
 When [Vētrall Astérr](../characters/vetrall-asterr.md) finally emerges for breakfast, they find [Valan Shadowgaze](../characters/valan-shadowgaze.md) already up. [Hanz Peacemaker](../characters/hanz-peacemaker.md) is starting his shift as Father of the Door for the day but notices Vētrall and comes over to speak with them.
 

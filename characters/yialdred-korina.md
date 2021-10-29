@@ -9,7 +9,7 @@
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Cleric (Order Domain) |
-| **Background** | Charlatan (False Identity) |
+| **Background** | Charlatan |
 | **Worship** | |
 | **Relations** | |
 | **Places** | Glengariff (birthplace) |
