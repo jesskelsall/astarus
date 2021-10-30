@@ -62,7 +62,7 @@ Typically speaking there is animosity between the [Astornox](../astornox/astorno
 
 ## Jurisdiction
 
-Like the [Astornox](../astornox/astornox.md), the Astorrel can [pas](../../history/calendars/astorian-calendar.md)s judgement on any people in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) that are not serving military and are not caretakers of [The Order of the Diamond](../the-order-of-the-diamond.md).
+Like the [Astornox](../astornox/astornox.md), the Astorrel can pass judgement on any people in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) that are not serving military and are not caretakers of [The Order of the Diamond](../the-order-of-the-diamond.md).
 
 ### Punishment
 

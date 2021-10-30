@@ -46,7 +46,7 @@ While [Wizira](../../characters/wizira.md) manages to hold her breath and re-sur
 
 ### [PR32](../../sessions/PR32.md)
 
-Now on dry land, the party realise that they have no idea where to go next. With no discernible landmarks except for a few trees and the [River Humar](../../places/rivers-lakes/river-humar.md) behind them, they decide to take shelter under a large tree nearby, dry their clothes, and wait for the rain to [pas](../../history/calendars/astorian-calendar.md)s.
+Now on dry land, the party realise that they have no idea where to go next. With no discernible landmarks except for a few trees and the [River Humar](../../places/rivers-lakes/river-humar.md) behind them, they decide to take shelter under a large tree nearby, dry their clothes, and wait for the rain to pass.
 
 After several hours the rain is not letting up but their clothes are drier. When [Torbra Tauff](../../characters/torbra-tauff.md) is trying to figure out which direction to go next, [Thanea Morlay](../../characters/thanea-morlay.md) pulls out her [Meteoric Map of Astor](../../maps/meteoric-map-of-astor.md) and realises that it has been ruined by water damage. Torbra decides the party should head south west.
 
@@ -76,7 +76,7 @@ Having casts Locate Object again the night before, the party follow [Wizira](../
 
 [Wizira](../../characters/wizira.md) and [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) look out over the crater, finding it to be round and disrespectful of the undulating terrain around it. [Torbra Tauff](../../characters/torbra-tauff.md) examines the shore line, finding the same almost carved banks and a lack of reeds that indicate a steadily increasing depth.
 
-When [Wizira](../../characters/wizira.md) casts Detect Magic and finds nothing she begins to swim toward the centre of the lake, much to the vocal worry of the rest of the party. She continues anyway, quickly losing her footing on the bottom. After a while she looks down, observing a dark and murky body of water with no sign of the bottom. As she is looking she notices a large shadow [pas](../../history/calendars/astorian-calendar.md)s underneath her. She tells the party that she is in danger.
+When [Wizira](../../characters/wizira.md) casts Detect Magic and finds nothing she begins to swim toward the centre of the lake, much to the vocal worry of the rest of the party. She continues anyway, quickly losing her footing on the bottom. After a while she looks down, observing a dark and murky body of water with no sign of the bottom. As she is looking she notices a large shadow pass underneath her. She tells the party that she is in danger.
 
 A giant crocodile breaches the surface of the water right next to [Wizira](../../characters/wizira.md), fitting part of her into its mouth.
 

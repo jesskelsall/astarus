@@ -14,4 +14,4 @@
 >
 > Its body is made of a hard dark grey substance that it can shift, loosening the bonds between each particle to shift at a moment's notice. Otherwise it gives the impression of flesh and muscle anatomy in the way it is shaped and moves.
 >
-> Meteoric Hunters are guided by [Meteoric Watchers](meteoric-watcher.md), ruthlessly seeking their prey and ending their lives. They operate cautiously by day and brazenly by night, using their darkened form to [pas](../history/calendars/astorian-calendar.md)s quickly through the darkness. Blind, they rely on their extensive blindsight to follow and attack their prey.
+> Meteoric Hunters are guided by [Meteoric Watchers](meteoric-watcher.md), ruthlessly seeking their prey and ending their lives. They operate cautiously by day and brazenly by night, using their darkened form to pass quickly through the darkness. Blind, they rely on their extensive blindsight to follow and attack their prey.

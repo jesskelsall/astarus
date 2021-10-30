@@ -19,4 +19,4 @@ Astorrel Lieutenant badges look like plain [Astorrel](../astorrel.md) [military 
 
 # Duties
 
-Astorrel Lieutenants create missions which they [pas](../../../history/calendars/astorian-calendar.md)s to their subordinate [Astorrel Squad Sergeants](astorrel-squad-sergeant.md). They also decide on the mission bounty out of their budget.
+Astorrel Lieutenants create missions which they pass to their subordinate [Astorrel Squad Sergeants](astorrel-squad-sergeant.md). They also decide on the mission bounty out of their budget.

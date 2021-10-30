@@ -111,7 +111,7 @@ As the dragons residing here are young, these effects are not particularly stron
 |---|---|
 | **Mechanism** | Threshold crossing. |
 | **Location(s)** | 1 hour through the tunnel. |
-| **Trigger** | The party [pas](../../history/calendars/astorian-calendar.md)s through the section of tunnel. |
+| **Trigger** | The party pass through the section of tunnel. |
 | **Effect** | 8x [ice Mephits](https://www.dndbeyond.com/monsters/ice-mephit) break their stasis on the tunnel's ceiling, descending into the middle of the party to attack. |
 
 ## Chalice Trial

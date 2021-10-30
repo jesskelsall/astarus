@@ -2,7 +2,7 @@
 
 Iron Stomach is a festival game played for fun against another player.
 
-The goal is to out-drink the other player. The first to [pas](../../../history/calendars/astorian-calendar.md)s out or refuse to drink loses.
+The goal is to out-drink the other player. The first to pass out or refuse to drink loses.
 
 ## Intoxication
 
@@ -16,7 +16,7 @@ If a character drinks after exceeding their intoxication threshold they must mak
 
 | Result | Action |
 | --- | --- |
-| [Pas](../../../history/calendars/astorian-calendar.md)s | No effect. |
+| Pass | No effect. |
 | Fail | Gain 1 level of exhaustion. |
 | Fail ≥ 5 | Fall unconscious for 1d4 hours. |
 

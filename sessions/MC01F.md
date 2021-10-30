@@ -237,7 +237,7 @@ On their return, preparations are in place for [Vulpes Geen](../characters/vulpe
 
 [Vētrall Astérr](../characters/vetrall-asterr.md) spots [Vulpes Soon](../characters/vulpes-soon.md), Geen's eldest son, talking quietly to someone at the table. Once the conversation ends they catch Soon, passing on condolences. Soon receives them well but isn't talkative due to his mourning. Vētrall, who knew Geen well but hasn't spoken to Soon in any real capacity, leaves him to his business.
 
-*[Several days [pas](../history/calendars/astorian-calendar.md)s]*
+*[Several days pass]*
 
 After a few days of rest, it is the day of [Vulpes Geen](../characters/vulpes-geen.md)'s funeral.
 

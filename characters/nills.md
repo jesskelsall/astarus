@@ -69,7 +69,7 @@ When appeased, Nills is accommodating and kind, jovial to a point. When her need
 
 ## History
 
-When [Noon Schiller](noon-schiller.md)'s mother was still pregnant with him, the [Schiller Family](../organisations/schiller-family.md) held a secret ceremony to [pas](../history/calendars/astorian-calendar.md)s Nills to him, infusing the unborn child with the essence of [Nilliski](nilliski.md). For the entirety of Noon's life, Nills would be part of him.
+When [Noon Schiller](noon-schiller.md)'s mother was still pregnant with him, the [Schiller Family](../organisations/schiller-family.md) held a secret ceremony to pass Nills to him, infusing the unborn child with the essence of [Nilliski](nilliski.md). For the entirety of Noon's life, Nills would be part of him.
 
 Throughout Noon's life Nills has been there for him, similar to a sister or close friend. Nills often tries to push Noon into a certain course of action for reasons unknown to Noon. Noon usually goes along with Nills' whims, trusting her implicitly and often feeling like her will is directly his own.
 

@@ -20,9 +20,9 @@
 
 ## Summary
 
-Tresenda Pass is a mountain [pas](../../history/calendars/astorian-calendar.md)s that stretches from Fort Maloja in the north to [Blittergate](../towns/blittergate.md) in the south, notorious for its wolves and impassibility during the winter months.
+Tresenda Pass is a mountain pass that stretches from Fort Maloja in the north to [Blittergate](../towns/blittergate.md) in the south, notorious for its wolves and impassibility during the winter months.
 
-The name "Tresenda Pass" can be used to both refer to the road and the valley that the road passes through along its middle. The mountain [pas](../../history/calendars/astorian-calendar.md)s itself is 60 miles in length.
+The name "Tresenda Pass" can be used to both refer to the road and the valley that the road passes through along its middle. The mountain pass itself is 60 miles in length.
 
 | Sensation | Description |
 | ---- | --- |
