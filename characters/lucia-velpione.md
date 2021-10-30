@@ -48,6 +48,15 @@ Lucia Velpione is a player character in the [Purple Rain](../campaigns/C1-purple
 | 4 | - | Bard | d8 | 3 |
 | 5 | - | Bard | d8 | 7 |
 
+## Mixed Lineage
+
+| [Tiefling](https://www.dndbeyond.com/races/tiefling) | [Shifter](https://www.dndbeyond.com/races/shifter) ([Swiftstride](https://www.dndbeyond.com/races/shifter#Swiftstride)) |
+| --- | --- |
+| CHA +2<br>INT +1 | **DEX +2<br>CHA +1** |
+| **Common, Infernal** | **Common** |
+| Infernal Legacy | **Shifting Feature** |
+| **Darkvision**<br>**Hellish Resistance** | **Darkvision**<br>Graceful |
+
 ## History
 
 Lucia Velpione was born in Ballabeg to Lucia's Mother and Lucia's Father, under a full moon. Born as a tiefling in a small community her father was accused of having fallen for a succubus, rumours he did not expressly deny. What little Lucia knows about her mother comes from what the villagers say, though they did not know her name. Her father would not speak of her.
