@@ -1,6 +1,6 @@
 const fs = require('fs')
 const { isUndefined } = require('lodash')
-const { dropRight, flow, keys, last, flatten, set, orderBy, isString, replace, map } = require('lodash/fp')
+const { dropRight, flatten, flow, identity, isString, keys, last, map, orderBy, replace, set } = require('lodash/fp')
 const path = require('path')
 
 // Files not added to the library of potential links.
@@ -17,6 +17,7 @@ const unlinkedFiles = [
 
 const applyAccentReplacements = (contents) => [
   ['Asterr', 'Astérr'],
+  ['Cote', 'Côte'],
   ['Cotedouce', 'Côtedouce'],
   ['Saoirse o Dochartaigh', 'Saoirse ó Dochartaigh'],
   ['Vetrall', 'Vētrall'],
@@ -64,10 +65,12 @@ const readFileTitles = (directory, titles = {}) => {
               isPlural: false,
               filePath,
             }),
-            set([`${title}s`], {
-              isPlural: true,
-              filePath,
-            }),
+            title.length > 2
+              ? set([`${title}s`], {
+                isPlural: true,
+                filePath,
+              })
+              : identity,
           ))
         )(collatedTitles)
       }
@@ -144,6 +147,7 @@ applyLinksToFile = (filePath, fileContents) => {
   const regexTitles = map(flow(
     replace(/\(/g, '\\('),
     replace(/\)/g, '\\)'),
+    replace(/\./g, '\\.'),
   ), orderedTitles)
 
   const splitRegex = new RegExp(`\\b(${regexTitles.join('|')})(s|)\\b`, 'gi')
