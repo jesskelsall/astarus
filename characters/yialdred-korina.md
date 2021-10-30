@@ -42,6 +42,7 @@ Yialdred Korina is a player campaign in the [Astorrel Agents](../campaigns/C2-as
 | 3 | - | Cleric | d8 | 3 |
 | 4 | - | Cleric | d8 | 8 |
 | 5 | - | Cleric | d8 | 2 |
+| 6 | [AA15](../sessions/AA15.md) | Cleric | d8 | 5 |
 
 ## History
 

@@ -46,6 +46,7 @@ Ahsha Sallas is a player character in the [Astorrel Agents](../campaigns/C2-asto
 | 3 | - | Fighter | d10 | 8
 | 4 | - | Fighter | d10 | 4
 | 5 | [AA09](../sessions/AA09.md) | Barbarian | d12 | 5
+| 6 | [AA15](../sessions/AA15.md) | Fighter | d10 | 7 |
 
 ## History
 
