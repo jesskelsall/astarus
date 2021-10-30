@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Cheorrosdyr | character.3
-| **Lineage** | Dragon |
+| **Lineage** | Dragon (Blue) |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | |
