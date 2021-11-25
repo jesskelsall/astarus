@@ -44,7 +44,7 @@ TODO
 
 ## Art
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/art/21eee0441816a677.jpg" height="500" /><br>*Valan Shadowgaze*, [Viktorija](../players/viktorija.md), 2021-08-27
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/art/21eee0441816a677.jpg" height="500" /><br>*Valan Shadowgaze*, [Viktorija](../players/viktorija.md), 2021-11-20
 
 ## Character Sheets
 

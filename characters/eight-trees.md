@@ -8,7 +8,7 @@
 | **Lineage** | Tabaxi |
 | **Pronouns** | he/him |
 | **Age** | 32 |
-| **Class** | |
+| **Class** | Monk |
 | **Worship** | |
 | **Relations** | |
 | **Places** | [The Fox Hole](../places/buildings/the-fox-hole.md) |
@@ -23,6 +23,20 @@
 
 Eight Trees is a member of [Familia Vulpes](../organisations/familia-vulpes.md).
 
+## Character Rolls
+
+### Ability Scores
+
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [3d6 Method](../mechanics/ability-score-method/3d6-method.md) | 14 | 14 | 13 | 12 | 12 | 9 | 74 |
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Monk | d8 | 8 |
+
 ## Characteristics
 
 | | |
@@ -35,7 +49,7 @@ Eight Trees is a member of [Familia Vulpes](../organisations/familia-vulpes.md).
 | **Mannerisms** | Leans on surfaces with elbows, always watching. |
 | | |
 | **Quirks** | Obsessed by halflings, having met one once. Constant wanderlust - doesn't stay in one place for many months. |
-| **Knowledge** | |
+| **Knowledge** | Martial arts. |
 | **Values** | Always prepared. |
 | **Ambitions** | Courageous to a fault. |
 | **Dislikes** | |

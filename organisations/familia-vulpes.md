@@ -110,3 +110,4 @@ When members of Familia Vulpes return to [the Fox Hole](../places/buildings/the-
 | [Turnuroth Nakris](../characters/turnuroth-nakris.md) | Dragonborn | Fighter | 2 |
 | [Jacquelyn Grisham](../characters/jacquelyn-grisham.md) | Human | Rogue | 2 |
 | [Nainarv Hardhelm](../characters/nainarv-hardhelm.md) | Dwarf | Cleric (Life Domain) | 2 |
+| [Eight Trees](../characters/eight-trees.md) | Tabaxi | Monk | 1 |

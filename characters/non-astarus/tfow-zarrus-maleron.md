@@ -38,6 +38,7 @@ Zarrus Maleron is my second player character in The Fog of War, a campaign ran b
 | 3 | - | Druid | d8 | 8 |
 | 4 | - | Druid | d8 | 2 |
 | 5 | - | Druid | d8 | 2 |
+| 6 | 2021-11-09 | Druid | d8 | 6
 
 ## Characteristics
 

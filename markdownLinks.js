@@ -19,6 +19,7 @@ const applyAccentReplacements = (contents) => [
   ['Asterr', 'Astérr'],
   ['Cote', 'Côte'],
   ['Cotedouce', 'Côtedouce'],
+  ['Dunnesland', 'Dünnesland'],
   ['Saoirse o Dochartaigh', 'Saoirse ó Dochartaigh'],
   ['Vetrall', 'Vētrall'],
   ['Zolne', 'Zolné'],
