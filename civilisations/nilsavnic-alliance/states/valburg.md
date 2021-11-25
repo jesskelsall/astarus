@@ -31,8 +31,8 @@ has led to an architectural renaissance that rivals the elven cities of [Reimate
 | Type | Valburg |
 | --- | --- |
 | City | [Hochwald](../../../places/cities/hochwald.md) (capital) |
-| Town | |
-| Village | |
+| Town | Dünnesland<br>Golfmaul |
+| Village | Sonnigeweide |
 | Fort | |
 | Road | |
 | Forest | |

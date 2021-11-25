@@ -8,7 +8,7 @@
 | **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 52 |
-| **Class** | Sorcerer |
+| **Class** | Sorcerer (Shadow Magic) |
 | **Worship** | |
 | **Relations** | [Creek](creek.md) (allied contact) |
 | **Places** | [Starnov](../places/cities/starnov.md) |
@@ -25,6 +25,25 @@ Crucible is a stern and unforgiving [Marsh Skimmers](../organisations/marsh-skim
 
 She is allied with [Creek](creek.md), willing to help him with his business outside of [Murkwallow](../places/cities/murkwallow.md).
 
+## Character Rolls
+
+### Ability Scores
+
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [3d6 Method](../mechanics/ability-score-method/3d6-method.md) | 14 | 14 | 14 | 12 | 9 | 6 | 69 |
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 | - | Sorcerer | d6 | 6 |
+| 2 | - | Sorcerer | d6 | 6 |
+| 3 | - | Sorcerer | d6 | 5 |
+| 4 | - | Sorcerer | d6 | 2 |
+| 5 | - | Sorcerer | d6 | 6 |
+| 6 | - | Sorcerer | d6 | 2 |
+
 ## Characteristics
 
 | | |
@@ -32,7 +51,7 @@ She is allied with [Creek](creek.md), willing to help him with his business outs
 | **Face** | Tan smooth skin, brown eyes. Sharp average face. | characteristics.2
 | **Hair** | Long straight black hair. |
 | **Body** | 5'3" / 162cm, average build. |
-| **Clothes** | Long dark muted coloured robe with belt and pouches. Over knee leather boots with slight heels. |
+| **Clothes** | Long dark muted coloured robe with belt and pouches. Over knee leather boots with slight heels.<br>Dagger of Warning, Vicious Dagger. |
 | **Voice** | Low female register, southern English accent. |
 | **Mannerisms** | Glares judgmentally at the slightest provocation. Shows her emotions on her face readily. Pays others little attention. |
 | | |

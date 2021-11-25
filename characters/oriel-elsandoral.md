@@ -31,7 +31,7 @@ She is the secret patron of the [Memories of Chausain](../campaigns/C3-memories-
 | **Face** | Smooth pale skin brown eyes. Sharp attractive face. | characteristics.2
 | **Hair** | Cropped curled dyed black hair. |
 | **Body** | 5'2" / 160cm, athletic build. |
-| **Clothes** | [Robe of the Lightkeeper](../items/magic/robe-of-the-lightkeeper.md) |
+| **Clothes** | [Robe of the Lightkeeper](../items/magic/enchantments/robe-of-the-lightkeeper.md) |
 | **Voice** | Female register, airy. |
 | **Mannerisms** | Moves very slowly to preserve her graceful nature and her dress. |
 | | |

@@ -7,7 +7,7 @@
 | **Name** | Viola | character.4
 | **Lineage** | Orc |
 | **Pronouns** | she/her |
-| **Age** | 44 |
+| **Age** | 44 (dead) |
 | **Class** | [Thug](https://www.dndbeyond.com/monsters/thug) |
 | **Background** | |
 | **Worship** | |

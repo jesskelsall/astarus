@@ -11,7 +11,7 @@
 | **Class** | Fighter (Eldritch Knight) |
 | **Background** | |
 | **Worship** | |
-| **Relations** | [Vulpes Geen](vulpes-geen.md) (friend, dead)<br>[Vētrall Astérr](vetrall-asterr.md) ([Familia Vulpes](../organisations/familia-vulpes.md) student) |
+| **Relations** | [Vētrall Astérr](vetrall-asterr.md) ([Familia Vulpes](../organisations/familia-vulpes.md) student)<br>[Vulpes Geen](vulpes-geen.md) (friend, dead)<br>[Disanz Brickbrow](disanz-brickbrow.md) (friend) |
 | **Places** | [Nacnar's House](../places/buildings/houses/nacnars-house.md)<br>[The Fox Hole](../places/buildings/the-fox-hole.md) |
 | **Citizenship** | [Reimatelau](../civilisations/nilsavnic-alliance/states/reimatelau.md) |
 | **Organisation(s)** | Reime Rim (retired) |
@@ -29,7 +29,7 @@ Nacnar Morwesyrr is a strict and terse senior figure within [Familia Vulpes](../
 | **Face** | Brown skin, amber eyes. Stern triangular face with prominent cheekbones and pursed lips. | characteristics.2
 | **Hair** | Long brown wavy hair. Loose front strands, bun tying some of her hair together behind her head. |
 | **Body** | 5'4" / 165cm, athletic build. |
-| **Clothes** | Half-plate with helmet. Black fabric pants with many tan belts securing the material in place. Double-bladed scimitar. |
+| **Clothes** | Half-plate with helmet. Black fabric pants with many tan belts securing the material in place.<br>Double-bladed scimitar. |
 | **Voice** | Low female register. Little tone variation. |
 | **Mannerisms** | Rarely smiles, only to friends.<br>Accidentally comes across as threatening. |
 | | |

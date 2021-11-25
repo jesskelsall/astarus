@@ -22,6 +22,8 @@
 
 Nainarv Hardhelm is a member of [Familia Vulpes](../organisations/familia-vulpes.md) willing to join other members of the family on their next adventure.
 
+He is willing to risk life and limb to help others, trusting in his divine powers. He understands his role is to keep others safe while they defeat their enemies.
+
 ## Character Rolls
 
 ### Ability Scores
@@ -43,13 +45,13 @@ Nainarv Hardhelm is a member of [Familia Vulpes](../organisations/familia-vulpes
 | --- | --- |
 | **Face** | Rugged grey skin, green eyes. Oval unremarkable face. | characteristics.2
 | **Hair** | Bald head, ginger beard. |
-| **Body** | 3'8" / 112cm, thin build. |
+| **Body** | 3'8" / 112cm, thin build. Smells of sweat. |
 | **Clothes** | Chain mail, warhammer. |
-| **Voice** | |
-| **Mannerisms** | |
+| **Voice** | Low male register, gravely, northern accent. |
+| **Mannerisms** | Touchy-feely, no concept of personal space. |
 | | |
 | **Quirks** | Very direct, speaks his mind. |
-| **Knowledge** | |
+| **Knowledge** | [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md), Dünnesland, beer. |
 | **Values** | Likes a good laugh and good stories.<br>Loyalty and diligence. |
-| **Ambitions** | |
-| **Dislikes** | |
+| **Ambitions** | Pay off his family's debt through money earned from adventuring. |
+| **Dislikes** | Dishonesty. |

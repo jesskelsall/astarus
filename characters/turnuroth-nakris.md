@@ -46,7 +46,7 @@ Turnuroth Nakris is a member of [Familia Vulpes](../organisations/familia-vulpes
 | **Body** | 6'3" / 192cm, muscular build. |
 | **Clothes** | Chain mail, greatsword, shield. |
 | **Voice** | Female register, gravelly. |
-| **Mannerisms** | |
+| **Mannerisms** | Chivalrous and grandiose. |
 | | |
 | **Quirks** | |
 | **Knowledge** | Good at defusing tensions. |

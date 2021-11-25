@@ -29,3 +29,9 @@ The gateway to the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/
 ## Places
 
 - [Tour de la Côte](../buildings/government/tour-de-la-cote.md)
+
+## History
+
+*See: [Raid of Côtedouce](../../history/events/raid-of-cotedouce.md)*
+
+Following an infiltration aboard [the Mistral](../ships/the-mistral.md), [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) soldiers were able to weaken the [Côtedouce Coastal Artillery](../structures/cotedouce-coastal-artillery.md)'s cannons, paving the way for a full-on naval bombardment the following morning. [Oriel Elsandoral](../../characters/oriel-elsandoral.md) oversaw the evacuation of the town, which is now under the control of the [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md).

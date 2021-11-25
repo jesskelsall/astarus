@@ -7,7 +7,7 @@
 | **Name** | Cork Pop | character.4
 | **Lineage** | Kenku |
 | **Pronouns** | she/her |
-| **Age** | 18 |
+| **Age** | 18 (dead) |
 | **Class** | [Kenku](https://www.dndbeyond.com/monsters/kenku) |
 | **Background** | |
 | **Worship** | |
