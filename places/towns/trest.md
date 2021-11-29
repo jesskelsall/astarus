@@ -27,4 +27,5 @@ The second settlement along the [Nilus Coast](../../civilisations/nilsavnic-alli
 ## Places
 
 - [The Fox Hole](../buildings/the-fox-hole.md) ([Familia Vulpes](../../organisations/familia-vulpes.md) HQ)
+- [Nomad's Stop](../buildings/inns-taverns/nomads-stop.md) (inn)
 - [Trest Marketplace](../structures/trest-marketplace.md)

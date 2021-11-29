@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Capital City** | | civilisation.2
+| **Capital City** | Roana | civilisation.2
 | **Official Languages** | |
 | **Ethnic Groups** | Goliath<br>Orc |
 | **Religion** | |

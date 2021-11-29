@@ -40,3 +40,15 @@ Vētrall wakes to the sight of [Nacnar Morwesyrr](../characters/nacnar-morwesyrr
 Nacnar insists that Vētrall eats breakfast following their late wake up. She asks them about their new student, who Vētrall is dismissive of. Nacnar wishes to meet him, so Vētrall collects him from a conversation with [Eight Trees](../characters/eight-trees.md). Nacnar and Valan formally introduce themselves to each other.
 
 When Nacnar asks of their adventures together so far, Vētrall insists they go somewhere more private to talk. Nacnar offers to take them to [Nacnar's House](../places/buildings/houses/nacnars-house.md), so the three leave [the Fox Hole](../places/buildings/the-fox-hole.md) to cross [Trest](../places/towns/trest.md) to it.
+
+### [MC05](../sessions/MC05.md)
+
+[Nacnar Morwesyrr](../characters/nacnar-morwesyrr.md) leads [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) back to Raine's House where Vētrall can speak of the [memory sphere](../items/artifacts-of-oonar/memory-spheres/memory-sphere.md) in private. Here they confide in Nacnar everything that happened except for the specifics of [Vulpes Geen](../characters/vulpes-geen.md)'s letter ([MC01F-L-3](../letters/MC01F-L-3.md)) and [Oriel Elsandoral](../characters/oriel-elsandoral.md)'s patronage.
+
+Nacnar encourages Vētrall to do what they want with the situation presented to them, making it clear that they must make the decision for themself. Vētrall decides they'd like to finish what Geen started and honour their memory by solving the mystery he entrusted them with.
+
+Nacnar calls Vētrall a mentor on several occasions. She regrets that she won't be able to assist them in their mission, stating that she's getting too old for adventuring and has business elsewhere, but won't elaborate as to what.
+
+She gives Vētrall [Wither](../items/magic/wither.md), her old magical rapier that she used to carry around when Nacnar was Vētrall's mentor. She warns Vētrall of its double edged nature before suggesting that maybe they can teach their new student, [Valan Shadowgaze](../characters/valan-shadowgaze.md), a thing or two about sword fighting.
+
+Nacnar sees the pair out of her house before parting ways with them.

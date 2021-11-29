@@ -55,6 +55,7 @@
 | [Hammersmiths on the Offensive](../storylines/hammersmiths-on-the-offensive.md) | [MC01M](../sessions/MC01M.md) | |
 | [Malnesh Waits Patiently](../storylines/malnesh-waits-patiently.md) | [MC02](../sessions/MC02.md) | |
 | [Escaping the Desert](../storylines/ended/escaping-the-desert.md) | [MC02](../sessions/MC02.md) | [MC04](../sessions/MC04.md) |
+| [Searching for Raine](../storylines/searching-for-raine.md) | [MC02](../sessions/MC02.md) | |
 | [Recovering Syntenne Property](../storylines/recovering-syntenne-property.md) | [MC03](../sessions/MC03.md) | |
 | [Skimming on Thin Ice](../storylines/skimming-on-thin-ice.md) | [MC03](../sessions/MC03.md) | |
 | [The Kavallos Fleet Attacks Côtedouce](../storylines/the-kavallos-fleet-attacks-cotedouce.md) | [MC03](../sessions/MC03.md) | |

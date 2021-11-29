@@ -34,3 +34,13 @@ Rather than going straight to bed, the pair have a night cap and quietly discuss
 They also speak of their disdain for [Creek](../characters/creek.md) and their debt to him. Kera expresses a wish to return to [Kuv'narash](../places/villages/kuvnarash.md) to "rake sand" while Marik dreams of a solitary life in the mountains.
 
 No concrete plans are made that evening.
+
+### [MC05](../sessions/MC05.md)
+
+With a bounty still on their heads, [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) are lead into a trap by [Cork Pop](../characters/cork-pop.md) who brings them to [Viola](../characters/viola.md). Both are also [Marsh Skimmers](../organisations/marsh-skimmers.md). In a courtyard down a back alley they are ambushed, the pair intent on claiming their bounty, declaring it "nothing personal".
+
+Kera quickly dispatches [Cork Pop](../characters/cork-pop.md) before the pair threaten to end her life if [Viola](../characters/viola.md) doesn't give up. [Viola](../characters/viola.md) drops her mace and begs for them to save the kenku. Unfortunately Kera's attack while she was downed put her perilously close to death and she expired.
+
+When Marik suggests they kill [Viola](../characters/viola.md), she darts for the gate, attempting to flee. Marik and Kera slash and burn at her with greatsword and Produce Flame respectively before Kera lands a finishing blow with his horns. He stabs [Viola](../characters/viola.md) multiple times to finish the act. The pair hide the bodies and proceed to return to their inn nonchalantly.
+
+Now aware that their bounty has invited much danger to them, they opt not to seek [Marsh Skimmers](../organisations/marsh-skimmers.md) in [Trest](../places/towns/trest.md) while looking to purchase thieves' tools.
