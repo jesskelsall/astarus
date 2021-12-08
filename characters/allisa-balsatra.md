@@ -46,7 +46,6 @@ Allisa Balsatra is a knowledge seeking [Syntenne Republic](../civilisations/synt
 | 6 | - | Cleric | d8 | 7 |
 | 7 | - | Cleric | d8 | 5 |
 | 8 | - | Cleric | d8 | 5 |
-| 9 | AA11 | Cleric | d8 | 4 |
 
 ## Characteristics
 
