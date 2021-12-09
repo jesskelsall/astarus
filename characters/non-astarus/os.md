@@ -3,7 +3,7 @@
 | Avatar | Name | Race | Class |
 |:---:| --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/9f82606a878e8670.png" height="70" /> | [Aisling Kavanagh](#aisling-kavanagh) | Human | Monk |
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/acae3c3cdd6dddcb.png" height="70" /> | [Allisa Balsatra](#allisa-balsatra) | Aasimar / Elf | Cleric |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/acae3c3cdd6dddcb.png" height="70" /> | [Allisa Balsatra](#allisa-balsatra) | Aasimar | Cleric |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/c13024bd9a3e931c.png" height="70" /> | [Bluefoot](#bluefoot) | Firbolg | Druid |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/81d3db8d3e3009cd.png" height="70" /> | [Elysia Vanderboss](#elysia-vanderboss) | Tiefling | Rogue |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/b2aa89a6831d0359.png" height="70" /> | [Kur Merkys](#kur-merkys) | Tiefling | Sorcerer |
@@ -11,6 +11,7 @@
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/55c516b3fc870b24.png" height="70" /> | [Ophelia Phantom](#ophelia-phantom) | Human | Cleric |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/1c019d0a10e8341a.png" height="70" /> | [Penance Zahiri](#penance-zahiri) | Tiefling | Paladin |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/41e0b0962f18eb6b.png" height="70" /> | [Sparrow on the Autumn Pine](#sparrow-on-the-autumn-pine) | Tabaxi | Ranger |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/a4214a21ac247b88.png" height="70" /> | [Updraft](#updraft) | Kenku | Warlock |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/50e8e14dbe105dba.png" height="70" /> | [Vilnia Kovas](#vilnia-kovas) | Human | Wizard |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/1ae2de2399ee701b.png" height="70" /> | [Zarrus Maleron](#zarrus-maleron) | Tiefling | Druid |
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/tokens/4f524e26b1945fb0.png" height="70" /> | [Zolné Windclaw](#zolné-windclaw) | Leonin | Barbarian |
@@ -42,7 +43,7 @@ In combat Aisling surprises her foes by channelling her ki energy into searing b
 |||
 | --- | --- |
 | **Name** | Allisa Balsatra |
-| **Lineage** | Scourge Aasimar / High Elf |
+| **Lineage** | Scourge Aasimar |
 | **Pronouns** | she/her |
 | **Age** | 129 |
 | **Class** | Cleric (Light Domain) |
@@ -194,6 +195,25 @@ Sparrow is a kind and generous soul with a knack for getting into trouble. He is
 One of twelve tabaxi children, Sparrow wasn't anything special growing up in a small village. After moving to the capital city as a teen he longed for a connection with nature. On long walks in the nearby forest he became acquainted to the wasp hives that lived there, entering into a symbiotic relationship with them, allowing him to care for other creatures while surrounded by the brick and mortar of the city.
 
 In combat Sparrow is the worst nightmare of someone afraid of insects. While his shortbow may appear to be his main danger, the wasp hive grown on his torso allows him to manipulate his environment and enemies by shooting wasps out of the sleeves of his robes. Beyond that he has developed skills which make him well suited to traversing and hiding in the city streets.
+
+## Updraft
+
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/a4214a21ac247b88.png" height="400" /><img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/hero-cards/a4214a21ac247b88.png" height="400" />
+
+|||
+| --- | --- |
+| **Lineage** | Kenku |
+| **Pronouns** | he/him |
+| **Age** | 41 |
+| **Class** | Warlock (The Genie) |
+| **Alignment** | True Neutral |
+| **Character Sheet** | [Click here](https://www.dndbeyond.com/characters/63570277) |
+
+Updraft is a grandiose and discerning warlock with an eye for fine wares. He is a perfectionist, seeking only the finest wares for his wealthy patron, Lady Crane. While he dreams of being a humble hero in a grand conflict, he willingly overlooks how her selfish and aristocratic tendencies have rubbed off on him. Updraft speaks in the voices of nobles he has encountered, fashioned by his perfectionism in a smooth and natural speaking style that few other kenku are capable of.
+
+Growing up on the streets of a busy capital city, Updraft drifted through life until a chance encounter with the lady who would become her patron. In exchange for his service as one of her hands, she would grant him the power of wind magic and eventually, flight, harnessing the power of a djinni she controls. Now Updraft lives in opulence when at Crane Manor, or on the road, persuading nobles to part with whichever rare trinket his Lady currently has her heart set on acquiring.
+
+Preferring to fight from a rooftop or elevated position, Updraft uses his wind magic to disrupt his enemies' movements, allowing others to get their hands dirty on his behalf. At the sign of danger he repositions, vanishing in the blink of an eye or moving at rapid speed, finding a new spot to harass his foe from.
 
 ## Vilnia Kovas
 
