@@ -1,6 +1,6 @@
 # Updraft
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/a4214a21ac247b88.png" height="500" />
 
 |||
 | --- | --- |
@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation(s)** | [Lady Crane](../organisations/lady-crane.md) |
 |||
-| **Image ID** | |
+| **Image ID** | `a4214a21ac247b88` |
 
 ## Summary
 
