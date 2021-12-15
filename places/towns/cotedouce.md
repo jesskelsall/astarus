@@ -16,7 +16,13 @@ Côtedouce is a coastal town of [Reimatelau](../../civilisations/nilsavnic-allia
 
 The gateway to the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) from the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md), the town has guards from both civilisations working together to enforce the safety of the border. The most southern [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) port, it is often the target of [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) raids.
 
-*Côtedouce* comes from the French (elvish) *côte douce*, meaning *gentle coast*.
+## Etymology
+
+| Name | Language | Literal | Meaning | 
+| --- | --- | --- | --- |
+| Côtedouce | [Elvish](../../languages/elvish.md) | côte douce | gentle coast |
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

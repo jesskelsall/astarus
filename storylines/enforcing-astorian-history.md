@@ -21,7 +21,7 @@ When [Canary squad](../organisations/astorrel/squads/canary-squad.md) plus [Yial
 
 [Nia](../characters/gwenhwyfar-carew.md) acts as a friend to the bewildered party who are extremely suspicious of her. After she asks them what happened in the sewers and what they know, to which they reply honestly, she asks them to set Xavier down against a large cask of ale so she can talk to him. [Ahsha Sallas](../characters/ahsha-sallas.md) is wary of [Nia](../characters/gwenhwyfar-carew.md), warning her against killing him.
 
-[Nia](../characters/gwenhwyfar-carew.md) asks for Xavier's cooperation in elvish before casting Detect Thoughts on him, reading his thoughts and memories. Through this she learns of everything Xavier told [Canary squad](../organisations/astorrel/squads/canary-squad.md) in the sewers, and his and [Allisa Balsatra](../characters/allisa-balsatra.md)'s goals in [Eskrigg](../places/cities/eskrigg.md).
+[Nia](../characters/gwenhwyfar-carew.md) asks for Xavier's cooperation in [elvish](../languages/elvish.md) before casting Detect Thoughts on him, reading his thoughts and memories. Through this she learns of everything Xavier told [Canary squad](../organisations/astorrel/squads/canary-squad.md) in the sewers, and his and [Allisa Balsatra](../characters/allisa-balsatra.md)'s goals in [Eskrigg](../places/cities/eskrigg.md).
 
 She chastises the party for how much they know, calling it a complication, and referring to loose ends, before executing [Xavier Raloven](../characters/xavier-raloven.md) by casting Disintegrate on him. The mood in the room goes sombre and [Nia](../characters/gwenhwyfar-carew.md) drops her kind demeanour.
 

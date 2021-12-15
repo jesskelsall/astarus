@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Capital City** | | civilisation.2
-| **Official Languages** | Elvish |
+| **Official Languages** | [Elvish](../../languages/elvish.md) |
 | **Ethnic Groups** | Elf<br>Half-elf |
 | **Religion** | [Malnesh](../../gods/deities/malnesh.md) |
 | **Demonyms** | Syntenni |

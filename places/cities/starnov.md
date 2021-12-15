@@ -6,7 +6,7 @@
 | **Type** | City (capital) |
 | **Location** | [Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
 | **Civilisation** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
-| **Population** | 9,400 |
+| **Population** | 10,400 |
 | **Nearby Places** | [Gulf of Tanelle](../seas-oceans/gulf-of-tanelle.md)<br>[The Western Way](../roads/the-western-way.md) |
 | **People** | |
 

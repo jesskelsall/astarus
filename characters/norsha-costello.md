@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Name** | Norsha Costello | character.3
-| **Lineage** | Half-orc |
+| **Lineage** | Orc / Human |
 | **Pronouns** | they/them |
 | **Age** | 32 |
 | **Class** | |

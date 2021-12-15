@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Capital City** | | civilisation.2
-| **Official Languages** | Common<br>Draconic<br>Elvish |
+| **Official Languages** | Common<br>Draconic<br>[Elvish](../../languages/elvish.md) |
 | **Ethnic Groups** | Dragonborn<br>Goblin<br>Goliath<br>Orc<br>Tabaxi<br>Tiefling |
 | **Religion** | |
 | **Demonyms** | |

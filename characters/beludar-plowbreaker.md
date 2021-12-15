@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Beludar Plowbreaker | character.3
-| **Lineage** | Half-orc |
+| **Lineage** | Orc / Human |
 | **Pronouns** | they/them |
 | **Age** | 33 |
 | **Class** | |

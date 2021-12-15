@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Ahsha Sallas | character.4
-| **Lineage** | Half-orc |
+| **Lineage** | Orc / Human |
 | **Pronouns** | she/her |
 | **Age** | 26 |
 | **Class** | Fighter (Champion)<br>Barbarian |

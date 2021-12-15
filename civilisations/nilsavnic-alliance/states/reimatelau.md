@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Capital City** | | civilisation.2
-| **Official Languages** | Common<br>Elvish |
+| **Official Languages** | Common<br>[Elvish](../../../languages/elvish.md) |
 | **Ethnic Groups** | Elf<br>Half-elf |
 | **Religion** | |
 | **Demonyms** | Reimatelai |

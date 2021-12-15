@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Castien Eladan | character.3
-| **Lineage** | Half-elf |
+| **Lineage** | Elf (Wood) / Human |
 | **Pronouns** | he/him |
 | **Age** | 72 (dead) |
 | **Class** | |

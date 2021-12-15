@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Leofrick de Bolbec | character.3
-| **Lineage** | Half-orc / Elf (Wood) |
+| **Lineage** | Orc / Elf (Wood) |
 | **Pronouns** | he/him |
 | **Age** | 14 |
 | **Class** | |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Tanin Arnous | character.3
-| **Lineage** | Half-orc |
+| **Lineage** | Orc / Human |
 | **Pronouns** | he/him |
 | **Age** | |
 | **Class** | |

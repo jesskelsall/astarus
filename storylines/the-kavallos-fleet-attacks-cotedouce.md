@@ -13,7 +13,7 @@ Having captured [The Mistral](../places/ships/the-mistral.md) on the Kavallos Se
 
 ### [MC03](../sessions/MC03.md)
 
-While in a [Republic Guard](../organisations/guards/republic-guard.md) jail, [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) overhear the guards talking in elvish about [the Mistral](../places/ships/the-mistral.md) being late, there being a problem, and the need for a strong guard presence when it arrives. They don't realise that they are talking about a ship.
+While in a [Republic Guard](../organisations/guards/republic-guard.md) jail, [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) overhear the guards talking in [elvish](../languages/elvish.md) about [the Mistral](../places/ships/the-mistral.md) being late, there being a problem, and the need for a strong guard presence when it arrives. They don't realise that they are talking about a ship.
 
 After escaping the jail and meeting [Grouper](../characters/grouper.md), [Grouper](../characters/grouper.md) offers some information that may help the party leave [Côtedouce](../places/towns/cotedouce.md) to pursue their own goals. He tells them of [the Mistral](../places/ships/the-mistral.md), a ship that docked yesterday. It reported a disease onboard, so [Captain Gill](../characters/clef-gill.md) asked the guards to quarantine the ship, which they did. [Grouper](../characters/grouper.md)'s spies learned that there is no disease, it being used as a cover for [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) spies who infiltrated the ship on the Kavallos Sea. They plan to infiltrate the town and destroy its defences before a larger naval attack arrives.
 

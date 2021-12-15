@@ -1,0 +1,37 @@
+# Christmas Holidays Todo List
+
+- [Nil'Savnic Alliance](civilisations/nilsavnic-alliance/nilsavnic-alliance.md):
+  - States pages:
+    - [Valburg](civilisations/nilsavnic-alliance/states/valburg.md)
+      - King
+      - Lord / Lady
+      - Knight
+    - [Savnia](civilisations/nilsavnic-alliance/states/savnia.md)
+    - [Reimatelau](civilisations/nilsavnic-alliance/states/reimatelau.md)
+    - [Nilus Coast](civilisations/nilsavnic-alliance/states/nilus-coast.md)
+    - [Bay of Splendour](civilisations/nilsavnic-alliance/states/bay-of-splendour.md)
+    - [The Dragonbrand](civilisations/nilsavnic-alliance/states/the-dragonbrand.md)
+    - [Revenossa](civilisations/nilsavnic-alliance/states/revenossa.md)
+    - [City of Respite](civilisations/nilsavnic-alliance/states/city-of-respite.md)
+  - Guard force pages:
+    - [Waldwächter](organisations/guards/waldwachter.md)
+    - [Republic Guard](organisations/guards/republic-guard.md)
+    - [Bay Watch](organisations/guards/bay-watch.md)
+    - [Unicorn Cavalry](organisations/guards/unicorn-cavalry.md)
+    - [Revenucci](organisations/guards/revenucci.md)
+    - [Coastguard](organisations/guards/coastguard.md)
+- Character backstory write up:
+  - [Saoirse ó Dochartaigh](characters/saoirse-o-dochartaigh.md)
+  - [Thanea Morlay](characters/thanea-morlay.md)
+  - [Torbra Tauff](characters/torbra-tauff.md)
+  - [Marik Kaligavone](characters/marik-kaligavone.md)
+  - [Vētrall Astérr](characters/vetrall-asterr.md)
+  - [Valan Shadowgaze](characters/valan-shadowgaze.md)
+  - [Keranios](characters/keranios.md)
+- Physical character sheet scans:
+  - [Nainarv Hardhelm](characters/nainarv-hardhelm.md)
+  - [Turnuroth Nakris](characters/turnuroth-nakris.md)
+  - [Jacquelyn Grisham](characters/jacquelyn-grisham.md)
+  - [Eight Trees](characters/eight-trees.md)
+  - [Updraft](characters/updraft.md)
+  - [Crucible](characters/crucible.md)

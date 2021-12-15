@@ -7,7 +7,7 @@
 | **Location** | [Central Astor](../regions/central-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 2,400 |
-| **Nearby Places** | [Eskside Byway](../roads/eskside-byway.md)<br>[Mocker Swamp](../forests/mocker-swamp.md)<br>[river Esk](../rivers-lakes/river-esk.md)<br>[Winster Forest](../forests/winster-forest.md) |
+| **Nearby Places** | [Eskside Byway](../roads/eskside-byway.md)<br>[Mocker Swamp](../forests/mocker-swamp.md)<br>[River Esk](../rivers-lakes/river-esk.md)<br>[Winster Forest](../forests/winster-forest.md) |
 | **People** | |
 
 ## Summary

@@ -46,7 +46,7 @@ Vētrall Astérr is a player character in the [Memories of Chausain](../campaign
 | **CON +2** | DEX +2 |
 | **DEX +1** | WIS +1 |
 | | Darkvision, Keen Senses<br>**Elf Weapon Training** |
-| **Common, Primordial** | **Common, Elvish** |
+| **Common, Primordial** | **Common, [Elvish](../languages/elvish.md)** |
 | Unending Breath | **Fey Ancestry, Trance** |
 | **Mingle With the Wind** | Speed (35ft), Mask of the Wild |
 

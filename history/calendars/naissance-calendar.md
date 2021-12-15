@@ -8,7 +8,7 @@ The Naissance Calendar is the date system used by the elves of [the Second Comin
 
 The epoch of the date system is the year of [the Second Coming](../events/the-second-coming.md).
 
-All dates use the suffix **DS**, elvish for "since salvation" (*depuis le salut*). Years before the epoch are represented as negative numbers.
+All dates use the suffix **DS**, [elvish](../../languages/elvish.md) for "since salvation" (*depuis le salut*). Years before the epoch are represented as negative numbers.
 
 Each year is 225 days long.
 
@@ -16,7 +16,7 @@ Each year is 225 days long.
 
 There are 8 calendar months, each of which is 28 days long, except for Premifleurs which has a 29th day.
 
-| # | Month | Equivalent Months | From Elvish | Meaning |
+| # | Month | Equivalent Months | From [Elvish](../../languages/elvish.md) | Meaning |
 | --- | --- | --- | --- | --- |
 | 1 | Falmatin | Jan / Feb | *falaises du matin* | Morning cliffs |
 | 2 | Premifleurs | Feb / Mar | *premières fleurs* | First flowers |
@@ -45,7 +45,7 @@ Due to the even division of months by days of the week, each month starts on the
 
 ### Réflexion
 
-The 29th day of Premifleurs is known as Réflexion (elvish for "reflection"), which is a holiday for remembering [Oonar](../../planes/oonar.md), steeped in traditions of [Malnesh](../../gods/deities/malnesh.md).
+The 29th day of Premifleurs is known as Réflexion ([elvish](../../languages/elvish.md) for "reflection"), which is a holiday for remembering [Oonar](../../planes/oonar.md), steeped in traditions of [Malnesh](../../gods/deities/malnesh.md).
 
 In order to facilitate the extra day, 29th Premifleurs uses Réflexion as the day of the week, separating it from the weeks either side of it.
 

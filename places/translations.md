@@ -24,7 +24,7 @@
 | Flussende | Ende des Flusses | River's end |
 | Flussufer || Riverbank |
 | Gipfelwelt | Gipfel der Welt | Top of the world |
-| Golfmaul || Gulf mouth |
+| [Golfmaul](towns/golfmaul.md) || Gulf mouth |
 | Gondblick | Gondra blick | Gondra view |
 | Grünerweg | Grüner weg | Green path |
 | [Hochwald](cities/hochwald.md) || High forest |
@@ -36,7 +36,7 @@
 | Rastplatz || Rest stop |
 | River Trogen || Treacherous river |
 | Seehaus | Haus am See | Lake house |
-| Sonnigeweide | Sonnige weide | Sunny pasture |
+| [Sonnigeweide](villages/sonnigeweide.md) | Sonnige weide | Sunny pasture |
 | Trogenwald || Treacherous woods |
 | Waldrand || Forest edge |
 | Weisserweg | Weißer weg | White path |

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Sarleen Truestriker | character.3
-| **Lineage** | Half-orc |
+| **Lineage** | Orc / Human |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | Monk |

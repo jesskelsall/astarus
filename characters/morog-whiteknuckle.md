@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Name** | Morog Whiteknuckle |
-| **Lineage** | Half-orc |
+| **Lineage** | Orc / Human |
 | **Gender** | Male |
 | **Age** | 33 |
 | **Class** | NPC: Berserker |

@@ -14,10 +14,12 @@
 
 Arrepont (formerly Naissance) is the capital of [Savnia](../../civilisations/nilsavnic-alliance/states/savnia.md) and the oldest city on [Astarus](../../planes/astarus.md).
 
-### Meaning
+## Etymology
 
-- *Naissance* is French (elvish) for *birth*.
-- *Arrepont* is a shortening of *arrival point*, adopted by the peoples of [The Third Coming](../../history/events/the-third-coming.md).
+| Name | Language | Literal | Meaning | 
+| --- | --- | --- | --- |
+| Arrepont | Common | arrival point | point of origin |
+| Naissance | [Elvish](../../languages/elvish.md) | birth | birthplace |
 
 ## History
 

@@ -8,7 +8,7 @@
 | **Official Languages** | |
 | **Ethnic Groups** | |
 | **Religion** | |
-| **Demonyms** | Valburgen |
+| **Demonyms** | Valburger |
 | **Government** | |
 | **Leader** | |
 | **Territories** | |
@@ -16,7 +16,7 @@
 | **Neighbours** | [Bay of Splendour](bay-of-splendour.md) (west)<br>[Nilus Coast](nilus-coast.md) (south west)<br>[Savnia](savnia.md) (south)<br>[The Dragonbrand](the-dragonbrand.md) (north east) |
 | **Alliances** | [Nil'Savnic Alliance](../nilsavnic-alliance.md) |
 | **Wars** | |
-| **Guard Force** | |
+| **Guard Force** | [Waldwächter](../../../organisations/guards/waldwachter.md) |
 |||
 | **Image ID** | `5c15a8286ffbedf8` |
 
@@ -31,11 +31,23 @@ has led to an architectural renaissance that rivals the elven cities of [Reimate
 | Type | Valburg |
 | --- | --- |
 | City | [Hochwald](../../../places/cities/hochwald.md) (capital) |
-| Town | Dünnesland<br>Golfmaul |
-| Village | Sonnigeweide |
+| Town | Dünnesland<br>[Golfmaul](../../../places/towns/golfmaul.md) |
+| Village | [Sonnigeweide](../../../places/villages/sonnigeweide.md) |
 | Fort | |
 | Road | |
-| Forest | |
+| Forest | Schulterwood |
 | Rivers & Lakes | [Lake Gondra](../../../places/rivers-lakes/lake-gondra.md) |
 | Mountains | [Vourpain Peaks](../../../places/mountains/vourpain-peaks.md) |
 | Seas & Oceans | [Gulf of Tanelle](../../../places/seas-oceans/gulf-of-tanelle.md) |
+
+## TODO
+
+> Mixed lineage state made with old human conventions.
+> Only formed after [the Third Coming](../../../history/events/the-third-coming.md).
+>
+> King and court of nobles.
+> Lords + Ladies preside over each settlement.
+> King holds absolute power but is influenced by nobility.
+>
+> Heavy emphasis on agriculture. Alliance breadbasket.
+> Cultural hub of the new world.
