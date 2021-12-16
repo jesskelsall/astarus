@@ -84,8 +84,13 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR38](../sessions/PR38.md) | 2021-10-13 | |
 | [PR39](../sessions/PR39.md) | 2021-10-21 | |
 | [PR40](../sessions/PR40.md) | 2021-11-03 | |
-||
 | [PR41](../sessions/PR41.md) | 2021-11-10 | |
+| [PR42](../sessions/PR42.md) | 2021-11-18 | |
+| [PR43](../sessions/PR43.md) | 2021-11-24 | |
+| [PR44](../sessions/PR44.md) | 2021-12-01 | |
+| [PR45](../sessions/PR45.md) | 2021-12-08 | |
+||
+| [PR46](../sessions/PR46.md) | |
 
 ## Storylines
 
