@@ -11,7 +11,7 @@
 
 ## History
 
-### Pre-Campaign
+### Pre-campaign
 
 Before setting off from [Dunmore](../../places/cities/dunmore.md) to graduate, [Ephaine Seren](../../characters/ephaine-seren.md) entrusted [Ludolf Hornwallis](../../characters/ludolf-hornwallis.md) with her star map. He agreed to return it to her straight after her graduation.
 

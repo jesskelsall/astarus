@@ -32,6 +32,10 @@ Valan immediately curses following the spell's activation, criticising Oriel for
 
 Oriel recomposes herself, continuing the conversation while Valan lies unconscious on the floor, stabilised by her magic. After she reaches an agreement with the party to become their patron, she casts healing magic on him to bring him back to consciousness before she teleports the party to [Trest](../places/towns/trest.md).
 
-####
+### Between sessions
 
-*Session ends on day 2.*
+| Session | Day count by end |
+|:---:| ---:| 
+| [MC04](../sessions/MC04.md) | 2 |
+| [MC05](../sessions/MC05.md) | 3 |
+| [MC06](../sessions/MC06.md) | 5 |

@@ -25,3 +25,4 @@ Formed immediately after [The Third Coming](../../history/events/the-third-comin
 ## Places
 
 - [Lady Crane](../../organisations/lady-crane.md)'s Château ([Lady Crane](../../organisations/lady-crane.md) HQ)
+- [Raphael's Armaments](../buildings/shops/raphaels-armaments.md) (weapons)

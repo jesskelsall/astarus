@@ -44,3 +44,19 @@ Kera quickly dispatches [Cork Pop](../characters/cork-pop.md) before the pair th
 When Marik suggests they kill [Viola](../characters/viola.md), she darts for the gate, attempting to flee. Marik and Kera slash and burn at her with greatsword and Produce Flame respectively before Kera lands a finishing blow with his horns. He stabs [Viola](../characters/viola.md) multiple times to finish the act. The pair hide the bodies and proceed to return to their inn nonchalantly.
 
 Now aware that their bounty has invited much danger to them, they opt not to seek [Marsh Skimmers](../organisations/marsh-skimmers.md) in [Trest](../places/towns/trest.md) while looking to purchase thieves' tools.
+
+### [MC06](../sessions/MC06.md)
+
+Arriving back in [Starnov](../places/cities/starnov.md), [Marik Kaligavone](../characters/marik-kaligavone.md) is given a key by [Juror](../characters/juror.md) who makes it clear that [Crucible](../characters/crucible.md) wants to see her and [Keranios](../characters/keranios.md). They are able to figure out that it is a room key for [the Round Goose](../places/buildings/inns-taverns/the-round-goose.md), where they staked out the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) last they were here.
+
+The pair inform [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) of the danger posed to them and advise them to let them confront [Crucible](../characters/crucible.md) alone. The [Familia Vulpes](../organisations/familia-vulpes.md) members opt to rent a room nearby so they can act if something goes wrong.
+
+Marik and Kera enter the room, finding [Crucible](../characters/crucible.md) there waiting for them. She orders Marik to lock the door and give her the key, but she refuses, causing [Crucible](../characters/crucible.md) to draw her daggers. Marik tries to convince [Crucible](../characters/crucible.md) that they are still completing their mission to retrieve the contents of the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) that Vētrall took, but [Crucible](../characters/crucible.md) is suspicious of anyone that vanishes from a busy street while being watched.
+
+Marik is able to convince [Crucible](../characters/crucible.md) that locking the door is enough, and keeps hold of the key. [Crucible](../characters/crucible.md) gives the pair an ultimatum: return the vault's contents to her within the week or she will hunt them herself. Marik protests to the bounty being left in place, but [Crucible](../characters/crucible.md) doesn't seem to care, wishing for the pair to "surprise her" by succeeding anyway.
+
+Marik tells [Crucible](../characters/crucible.md) that they have earned the trust of their marks and will return to her something better than [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md), a choice of words that Marik soon regrets. [Crucible](../characters/crucible.md) wishes them both luck as they leave the room, not turning their backs to her.
+
+The pair meet up with Vētrall, Valan, and [Nainarv Hardhelm](../characters/nainarv-hardhelm.md) in the tavern area, discussing the meeting candidly around a table. Marik tells Vētrall and Valan that [Crucible](../characters/crucible.md) knows their names.
+
+The group discusses what they might give [Crucible](../characters/crucible.md) instead of the [Fall of Chausain Memory Sphere](../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md), though Marik considers giving her the sphere itself briefly. She offers up her spell scroll, at least to buy them some more time, but it can't be done immediately or it will arouse suspicion. They agree to continue to [Hochwald](../places/cities/hochwald.md) and give something there, which will give them time to decide on what.

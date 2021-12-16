@@ -52,3 +52,13 @@ Nacnar calls Vētrall a mentor on several occasions. She regrets that she won't 
 She gives Vētrall [Wither](../items/magic/wither.md), her old magical rapier that she used to carry around when Nacnar was Vētrall's mentor. She warns Vētrall of its double edged nature before suggesting that maybe they can teach their new student, [Valan Shadowgaze](../characters/valan-shadowgaze.md), a thing or two about sword fighting.
 
 Nacnar sees the pair out of her house before parting ways with them.
+
+### [MC06](../sessions/MC06.md)
+
+[Vētrall Astérr](../characters/vetrall-asterr.md) looks for an opportunity to teach [Valan Shadowgaze](../characters/valan-shadowgaze.md) how to climb a tree. The opportunity does not come on the road to [Starnov](../places/cities/starnov.md), so they try once again after camping under a large oak tree on the way to [Sonnigeweide](../places/villages/sonnigeweide.md).
+
+Valan makes it clear that he already knows how to climb one, having hailed from somewhere with an abundance of trees. When Vētrall advises him to be careful of wasps' nests, Valan begins an argument, pointing out that Vētrall hasn't taught him anything up to this point.
+
+When Valan leaves [the Nasty Huntress](../places/buildings/inns-taverns/the-nasty-huntress.md) abruptly and Vētrall receives his letter ([MC06-L-1](../letters/MC06-L-1.md)) informing them of his intention to leave on mysterious business before returning to them, Vētrall calls Valan a bad student.
+
+[Keranios](../characters/keranios.md) and [Nainarv Hardhelm](../characters/nainarv-hardhelm.md) rebuff this, making Vētrall aware that they are treating an adult like a child, discounting his lived experience prior to joining [Familia Vulpes](../organisations/familia-vulpes.md).

@@ -41,8 +41,9 @@
 | [MC03](../sessions/MC03.md) | 2021-10-10 | *A Metal Orb* |
 | [MC04](../sessions/MC04.md) | 2021-10-24 | *[Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) in [Côtedouce](../places/towns/cotedouce.md)* |
 | [MC05](../sessions/MC05.md) | 2021-11-21 | *Two Sides of the Coin* |
+| [MC06](../sessions/MC06.md) | 2021-12-12 | *[Crucible](../characters/crucible.md)'s Ultimatum* |
 ||
-| [MC06](../sessions/MC06.md) | 2021-12-12 | |
+| [MC07](../sessions/MC07.md) | | |
 
 ## Storylines
 
@@ -61,3 +62,6 @@
 | [The Kavallos Fleet Attacks Côtedouce](../storylines/the-kavallos-fleet-attacks-cotedouce.md) | [MC03](../sessions/MC03.md) | |
 | [Oriel's Patronage](../storylines/oriels-patronage.md) | [MC04](../sessions/MC04.md) | |
 | [Valan's Attitude Adjustment](../storylines/valans-attitude-adjustment.md) | [MC04](../sessions/MC04.md) | |
+| [Wolves Attack Sonnigeweide](../storylines/wolves-attack-sonnigeweide.md) | [MC06](../sessions/MC06.md) | |
+| [Vachel Boucher's Final Piece](../storylines/vachel-bouchers-final-piece.md) | [MC06](../sessions/MC06.md) | |
+| [Valan Will Return](../storylines/valan-will-return.md) | [MC06](../sessions/MC06.md) | |

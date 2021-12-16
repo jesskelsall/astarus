@@ -46,3 +46,14 @@ On return to [Oriel Elsandoral](../characters/oriel-elsandoral.md), the arch-mag
 *See: [Raid of Côtedouce](../history/events/raid-of-cotedouce.md)*
 
 With two of the four cannons destroyed on the [Côtedouce Coastal Artillery](../places/structures/cotedouce-coastal-artillery.md), a battle breaks out the following morning (the [Raid of Côtedouce](../history/events/raid-of-cotedouce.md)). [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) warships destroy the remaining cannons. One ship is destroyed in the process, but the fleet prevails. [Oriel Elsandoral](../characters/oriel-elsandoral.md) helps with the town's defence but as it falls and is raided by the fleet, she goes missing.
+
+### [MC06](../sessions/MC06.md)
+
+While walking through [Starnov](../places/cities/starnov.md), the party hear a town crier delivering the day's news:
+
+> [Côtedouce](../places/towns/cotedouce.md) falls to the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md)!  
+> After a sabotage plot was thwarted, Kavallos ships broke the sea defences and bombarded the [Reimatelau](../civilisations/nilsavnic-alliance/states/reimatelau.md) settlement. Evacuation back to Lorignac is underway. The Alliance Senate will meet to discuss retaliation plans!
+
+The news shocks the party who had assumed that they had saved the town from the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md). [Keranios](../characters/keranios.md) remembers that two of the four coastal artillery cannons were destroyed in the attack, so maybe the attack went ahead anyway and they overpowered the remaining two.
+
+Later that day [Keranios](../characters/keranios.md), [Valan Shadowgaze](../characters/valan-shadowgaze.md), and [Vētrall Astérr](../characters/vetrall-asterr.md) ask around the city for more specific news. They collectively learn that the attack occurred the following morning, four [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) ships overpowered the defences and then seized the town. There was loss of life and a hurried evacuation to the north.

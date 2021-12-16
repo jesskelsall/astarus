@@ -4,7 +4,10 @@
   - States pages:
     - [Valburg](civilisations/nilsavnic-alliance/states/valburg.md)
       - King
+        - King Garridan II
       - Lord / Lady
+        - Lady Helene
+        - [Lady Crane](organisations/lady-crane.md)
       - Knight
     - [Savnia](civilisations/nilsavnic-alliance/states/savnia.md)
     - [Reimatelau](civilisations/nilsavnic-alliance/states/reimatelau.md)
@@ -27,6 +30,7 @@
   - [Marik Kaligavone](characters/marik-kaligavone.md)
   - [Vētrall Astérr](characters/vetrall-asterr.md)
   - [Valan Shadowgaze](characters/valan-shadowgaze.md)
+    - [Algar Stormrage](characters/algar-stormrage.md)
   - [Keranios](characters/keranios.md)
 - Physical character sheet scans:
   - [Nainarv Hardhelm](characters/nainarv-hardhelm.md)
