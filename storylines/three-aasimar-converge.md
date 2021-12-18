@@ -99,6 +99,10 @@ Corville sternly asks Thanea if she knows of [Allisa Balsatra](../characters/all
 
 Corville believes her, finding her confusion sincere and a relief, though he doesn't show it. He alludes to not knowing what Allisa would want with Thanea, but withholds his knowledge that Allisa believes Thanea is like herself.
 
+### [PR37](../sessions/PR37.md)
+
+*See: [Shared Deva Dream 1](../dreams/deva-shared-1.md)*
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will use Message to communicate with [Ahsha Sallas](../characters/ahsha-sallas.md), scolding her for ruining her plans and putting [Thanea Morlay](../characters/thanea-morlay.md) in great danger, now that the [Astornar](../organisations/astornar.md) know that a Veritacris has interest in her.

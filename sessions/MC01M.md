@@ -249,7 +249,7 @@ This will not protect them against other guards in the area that respond to any 
 
 ### Shopping
 
-| Character | Item | Price |
+| Character | Item | Cost |
 | --- | --- | ---:|
 | [Marik Kaligavone](../characters/marik-kaligavone.md) | Light Crossbow | + 12 gp |
 | [Marik Kaligavone](../characters/marik-kaligavone.md) | Scimitar x2 | + 10 gp |

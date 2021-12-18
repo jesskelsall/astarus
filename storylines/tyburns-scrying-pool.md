@@ -11,7 +11,7 @@
 
 ## History
 
-## [PR27](../sessions/PR27.md)
+### [PR27](../sessions/PR27.md)
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) get their first look at [Tyburn Dalvos](../characters/tyburn-dalvos.md)' divination magic when he uses his scrying pool to check on [Wrenn Piznarck](../characters/wrenn-piznarck.md) at the request of [Quinn Mac Domhnail](../characters/quinn-mac-domhnail.md).
 
@@ -20,6 +20,10 @@ While looking into his scrying pool, the liquid goes perfectly still. He stares 
 Once again lucid, Tyburn relays a more cohesive description of Wrenn's situation, noting his apparent surroundings, a person who came to check on him, and the sound of magpies' warning calls.
 
 Following this it takes Tyburn a moment to regain his composure, wiping the tears from his face.
+
+### [PR37](../sessions/PR37.md)
+
+While re-explaining [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md)'s mission brief ([Search for a Meteorite in Tresenda Pass](search-for-a-meteorite-in-tresenda-pass.md)), [Elysia Vanderboss](../characters/elysia-vanderboss.md) once again mentions that their information on the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) initially came from [Tyburn Dalvos](../characters/tyburn-dalvos.md)' scrying bowl. She points to it, still out on Tyburn's desk in the far corner of the room.
 
 ## Planning
 

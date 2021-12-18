@@ -13,17 +13,11 @@
 
 ### [PR00](../../sessions/PR00.md)
 
-#### Deva Dream 1
-
-[Thanea](../../../astarus/people/thanea.md) had a dream of the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor impacting north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). This drove her to leave Grasthwaite for [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and investigate.
+*See: [Thanea Deva Dream 1](../../dreams/deva-thanea-1.md)*
 
 ### [PR06](../../sessions/PR06.md)
 
-#### Deva Dream 2
-
-[Thanea](../../../astarus/people/thanea.md) once again dreams of the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor on its way to impact north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). Looking closer she sees a glowing figure with bright glowing wings (her deva, [Seraphina](../../characters/seraphina.md)) attempting fruitlessly to stop the meteor, latched to its front, flapping their wings and attempting to slow its fall. The meteor impacts all the same.
-
-The dream continues, showing [Thanea](../../../astarus/people/thanea.md) [finding the Goldreach Meteorite](finding-the-goldreach-meteorite.md) in a crater in the forest, before the forest around it begins burning purple flames. She witnesses [The Slippery Weasel](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md)'s interior on fire, as well as the barn at [Hurley Farm](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hurley-farm.md) on fire, with the burning bodies of the rest of the [Purple Rain](../../campaigns/C1-purple-rain.md) party within.
+*See: [Thanea Deva Dream 2](../../dreams/deva-thanea-2.md)*
 
 ### [PR07](../../sessions/PR07.md)
 
@@ -43,17 +37,8 @@ He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they 
 
 ### [PR14](../../sessions/PR14.md)
 
-#### Deva Dream 3
-
-While sleeping along the bank of the [River Humar](../../places/rivers-lakes/river-humar.md) while running from the [Astornox](../../organisations/astornox/astornox.md), [Thanea](../../../astarus/people/thanea.md) dreams of being in [Eskrigg](../../places/cities/eskrigg.md), witnessing 2 smaller meteors being intercepted by deva who attempt to slow them down by physically pushing against them and flapping their glowing wings.
-
-A third larger meteor comes into view, heading directly towards her. Its white glow turns to a purple fiery aura. As the crowded city street turns to panic, she attempts to run with them, falling and getting trampled. As she cowers, [Seraphina](../../characters/seraphina.md) appears to her, offering her a hand. As she accepts, she is rocketed into the air at sudden and remarkable speed, [Seraphina](../../characters/seraphina.md)'s wings propelling them. As she looks down at [Eskrigg](../../places/cities/eskrigg.md) below, she notices an identical pair of glowing wings on her back. She is flying too.
-
-[Seraphina](../../characters/seraphina.md) lets go of her hand, making it clear that they are both flying together. As [Thanea](../../../astarus/people/thanea.md) looks up at the meteor, closer than ever. As she struggles to control her flight, the dream ends.
-
-*[Thanea unlocks her Protector [Aasimar](../lineages/aasimar.md) abilities]*
-
-She wakes up comfortably the following morning.
+*See: [Thanea Deva Dream 3](../../dreams/deva-thanea-3.md)*  
+*[Thanea Morlay unlocks her Protector [Aasimar](../lineages/aasimar.md) abilities]*
 
 ### [PR15](../../sessions/PR15.md)
 
@@ -64,16 +49,6 @@ In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hida
 [Thanea Morlay](../../characters/thanea-morlay.md) uses her downtime in [Northhaven](../../places/cities/northhaven.md) to research her prophetic dreams in [Hawk's Perch](../../places/buildings/hawks-perch.md). She finds mention of those with foresight (seers), with the text suggesting that it may be a form of magical manifestation.
 
 She also tries to research humanoids with wings, but only finds information on aarakocra.
-
-### [AA08](../../sessions/AA08.md)
-
-[Thanea Morlay](../../characters/thanea-morlay.md) feels a sense of déjà vu while walking the streets of [Eskrigg](../../places/cities/eskrigg.md) while waiting for the first round of [Nature's Battle 28](natures-battle-28.md) to commence. She isn't able to figure out why, not yet realising that her previous deva dream took place on these streets.
-
-### [PR23](../../sessions/PR23.md)
-
-[Thanea Morlay](../../characters/thanea-morlay.md) returns to the street in [Eskrigg](../../places/cities/eskrigg.md) that she commuted to [Vorrinel's Stand](../../places/buildings/vorrinels-stand.md) along. She recognises it as the starting point of her third deva dream, triggering a strong sense of déjà vu.
-
-Realising the implication of another prophetic dream coming to fruition and her own feelings that they never end well, she takes off down a back alley, losing [Wizira](../../characters/wizira.md) who was with her. [Wizira](../../characters/wizira.md) eventually finds her slumped against a statue, sobbing to herself. Finding a crying Thanea, [Wizira](../../characters/wizira.md) asks what is wrong. Thanea mumbles a non-answer before the pair return to the [Eskrigg Astorrel Stronghold](../../places/strongholds/eskrigg-astorrel-stronghold.md) for the night.
 
 ### [PR24](../../sessions/PR24.md)
 

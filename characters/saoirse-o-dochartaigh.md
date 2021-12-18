@@ -7,7 +7,7 @@
 | **Name** | Saoirse ó Dochartaigh | character.4
 | **Lineage** | [Aasimar](../lineages/aasimar.md) (human) |
 | **Pronouns** | she/her |
-| **Age** | |
+| **Age** | 16 |
 | **Class** | Warlock (The Archfey) |
 | **Background** | Criminal / Spy |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |

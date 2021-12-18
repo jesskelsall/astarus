@@ -32,3 +32,9 @@ Elysia initially swears when [Torbra Tauff](../characters/torbra-tauff.md) break
 With the failure of their mission, Elysia worries that Phenomena / Meteoric may get dissolved, but if she retains her role as [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) she will acquire [Wizira](../characters/wizira.md)'s replacement, bringing the squad back up to four members.
 
 Before the squad begin two days of downtime between missions, Elysia provides [Torbra Tauff](../characters/torbra-tauff.md) with a letter ([PR36-L-1](../letters/PR36-L-1.md)) addressed to [Wizira](../characters/wizira.md). Torbra swears when she reads the name before pocketing the letter.
+
+### [PR37](../sessions/PR37.md)
+
+[Torbra Tauff](../characters/torbra-tauff.md) uses the first part of her downtime to find a bench in [Astor Square](../places/structures/astor-square.md). Here she sits and reads the letter to [Wizira](../characters/wizira.md) from Heather Pentz ([PR36-L-1](../letters/PR36-L-1.md)). She finds its contents to be sad, realising that Heather has no idea that [Wizira](../characters/wizira.md) has died.
+
+Torbra shares the letter's contents with [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) when they spend their evening in [the Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md).

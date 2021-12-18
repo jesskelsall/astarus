@@ -13,7 +13,7 @@
 
 ### Before the Voices
 
-#### [Purple Rain](../campaigns/C1-purple-rain.md) Prelude
+#### Pre-campaign
 
 Torbra was abandoned as a baby in the Irewood on the opposite side of the [River Humar](../places/rivers-lakes/river-humar.md) from Iredale. Here she was found and adopted by her adoptive parents. Her real parents are unknown.
 

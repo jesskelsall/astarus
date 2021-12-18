@@ -7,7 +7,7 @@
 | **Title** | *An Audience with the General Supreme* |
 | **Players** | [Hannah](../players/hannah.md) ([Thanea Morlay](../characters/thanea-morlay.md)) |
 | **Guests** | |
-| **Storylines** | [The Meteoric Threat](../storylines/the-meteoric-threat.md)<br>[Three Aasimar Converge](../storylines/three-aasimar-converge.md) |
+| **Storylines** | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) |
 
 ## Teleported Somewhere Unfamiliar
 

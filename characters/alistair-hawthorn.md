@@ -51,7 +51,7 @@ He comes from a prestigious family and is the embodiment of the upper class in [
 
 When he was younger, Alistair was stationed in Kilflynn with [Wrenn Piznarck](wrenn-piznarck.md). It was here that they became good friends.
 
-### [Purple Rain](../campaigns/C1-purple-rain.md) Prelude
+### Pre-campaign
 
 *See: [Finding the Goldreach Meteorite](../storylines/ended/finding-the-goldreach-meteorite.md)*
 

@@ -10,7 +10,7 @@
 
 ## Summary
 
-Tenterfell House is a small building inside the [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) used for the Major of Phenomena's work on investigating [the meteoric threat](../../storylines/the-meteoric-threat.md).
+Tenterfell House is a small building inside the [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) used for the Major of Phenomena's work on investigating the meteoric threat.
 
 ### Exterior
 
@@ -44,6 +44,6 @@ Tenterfell House is a small building inside the [Northhaven Astorrel Stronghold]
 
 ## History
 
-While the [Astral Squad](../../organisations/astorrel/squads/astral-squad.md) [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md), [Elysia Vanderboss](../../characters/elysia-vanderboss.md) gained the use of Tenterfell House's third floor, using it as a base of operations. Here the squad could discuss in secret their private efforts to investigate [the meteoric threat](../../storylines/the-meteoric-threat.md).
+While the [Astral Squad](../../organisations/astorrel/squads/astral-squad.md) [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md), [Elysia Vanderboss](../../characters/elysia-vanderboss.md) gained the use of Tenterfell House's third floor, using it as a base of operations. Here the squad could discuss in secret their private efforts to investigate the meteoric threat.
 
 When Elysia was promoted to [Astorrel Squad Sergeant](../../organisations/astorrel/ranks/astorrel-squad-sergeant.md) under the Major of Phenomena [Quinn Mac Domhnail](../../characters/quinn-mac-domhnail.md), he noticed Elysia's affinity for the building, taking it over entirely for other Phenomena operations. The squads under her command continue to operate out of its third floor.

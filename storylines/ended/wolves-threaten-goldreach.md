@@ -11,7 +11,7 @@ Wolves roam the plains and forests surrounding [Goldreach](../../civilisations/k
 
 ## History
 
-### [Purple Rain](../../campaigns/C1-purple-rain.md) Prelude
+### Pre-campaign
 
 6 months prior to the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign, at the beginning of spring, the wolves that live near [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) moved from the north east to north west, making residence in the [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). From here, their numbers swelled.
 

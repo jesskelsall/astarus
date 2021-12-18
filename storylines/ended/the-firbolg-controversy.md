@@ -13,7 +13,7 @@ The conscription of [Wizira's Father](../../characters/wiziras-father.md) based 
 
 ## History
 
-### [Purple Rain](../../campaigns/C1-purple-rain.md) Prelude
+### Pre-campaign
 
 Firbolgs have existed in [South East Kardan](../../places/regions/south-east-kardan.md) for at least as long as the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) has. They keep to themselves in their tribal settlements, deep in the woods of Astor.
 

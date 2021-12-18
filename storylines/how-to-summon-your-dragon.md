@@ -30,3 +30,13 @@ Ethel makes Saoirse aware that [Effie Silttooth](../characters/effie-silttooth.m
 Saoirse attempts to bypass the riddle, asking Ethel to just tell her what she wants, but Ethel refuses, enjoying making Saoirse squirm and curious to see what she will return with. Unable to make her budge, Saoirse leaves. Ethel wishes her good luck.
 
 Later on [the Maiden's Accompaniment](../places/ships/the-maidens-accompaniment.md), Saoirse presents captain [Dinua Costello](../characters/dinua-costello.md) with the riddle as a way of entertaining her. The pair and [Wizira](../characters/wizira.md) debate several answers, Dinua believing that Saoirse already knows the answer. Eventually Saoirse reveals that she doesn't, along with her belief that the correct answer is youth.
+
+### [PR37](../sessions/PR37.md)
+
+With her downtime in [Northhaven](../places/cities/northhaven.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) convinces [Tydrus Tinshield](../characters/tydrus-tinshield.md) to let her run a riddle game in [the Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md). He allows her to place an advert outside on a chalkboard, advertising an 8 gp prize for anyone who can guess her riddle.
+
+Initially this drums up little interest, but by afternoon Saoirse sees a steady stream of guessers. None of the guesses fully satisfy her, so she never gives the prize out. At the end of the day Tydrus asks her if the whole thing was a scam, but Saoirse tells him that nobody guessed correctly. Tydrus keeps Saoirse's 4 gp and his own 4 gp which he contributed.
+
+Meeting back up with the rest of [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md), Saoirse runs the riddle by [Lucia Velpione](../characters/lucia-velpione.md), who answers that she is the thing the riddle speaks of. Saoirse finds her answer to be big headed.
+
+The pair muse over whether "loyalty", one of the answers given at [the Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md), might fit the riddle.

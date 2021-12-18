@@ -67,7 +67,6 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | Name | Started | Ended |
 | --- | --- | --- |
 | [Astorrel Graduation](../storylines/ended/astorrel-graduation.md) | [AA01](../sessions/AA01.md) | [AA01](../sessions/AA01.md) |
-| [Astorrel vs Astornox](../storylines/astorrel-vs-astornox.md) | [AA01](../sessions/AA01.md) | |
 | [Whisper and Valnos](../storylines/ended/whisper-and-valnos.md) | [AA01](../sessions/AA01.md) | [AA04](../sessions/AA04.md) |
 | [Retrieving Ephaine's Star Map](../storylines/ended/retrieving-ephaines-star-map.md) | [AA01](../sessions/AA01.md) | [AA02](../sessions/AA02.md) |
 | [The Rival Squad](../storylines/ended/the-rival-squad.md) | [AA01](../sessions/AA01.md) | [AA08](../sessions/AA08.md) |

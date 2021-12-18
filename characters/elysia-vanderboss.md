@@ -19,7 +19,7 @@
 
 ## Summary
 
-She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of her normal [Astorrel](../organisations/astorrel/astorrel.md) duties she is leading a private effort by the squad to investigating [the meteoric threat](../storylines/the-meteoric-threat.md).
+She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of her normal [Astorrel](../organisations/astorrel/astorrel.md) duties she is leading a private effort by the squad to investigating the meteoric threat.
 
 ## Military Record
 
@@ -42,7 +42,7 @@ She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of
 | **Mannerisms** | No unnecessary movements. Everything carefully considered, guarded. |
 | | |
 | **Quirks** | Treats her squad like a black box. Willing to bend and break the rules for a higher purpose. |
-| **Knowledge** | [The meteoric threat](../storylines/the-meteoric-threat.md). |
+| **Knowledge** | The meteoric threat. |
 | **Values** | Honesty, loyalty, full commitment to the cause. |
 | **Ambitions** | To protect those who can't help themselves. |
 | **Dislikes** | Strangers, the lazy, over-reliance on others. |

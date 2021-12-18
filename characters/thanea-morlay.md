@@ -7,7 +7,7 @@
 | **Name** | Thanea Morlay | character.4
 | **Lineage** | [Aasimar](../lineages/aasimar.md) (human) |
 | **Pronouns** | she/her |
-| **Age** | |
+| **Age** | 18 |
 | **Class** | Sorcerer (Clockwork Soul) |
 | **Background** | |
 | **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |

@@ -80,7 +80,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR35](../sessions/PR35.md) | 2021-09-22 | *Death Lurking Below* |
 | [PR36](../sessions/PR36.md) | 2021-09-29 | *Accepting Defeat* |
 | [PR36T](../sessions/PR36T.md) | 2021-10-03 | *An Audience with the General Supreme* |
-| [PR37](../sessions/PR37.md) | 2021-10-06 | |
+| [PR37](../sessions/PR37.md) | 2021-10-06 | *Enter [Luna](../characters/lucia-velpione.md)* |
 | [PR38](../sessions/PR38.md) | 2021-10-13 | |
 | [PR39](../sessions/PR39.md) | 2021-10-21 | |
 | [PR40](../sessions/PR40.md) | 2021-11-03 | |
@@ -100,25 +100,29 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Wizira's Father Goes Missing](../storylines/ended/wiziras-father-goes-missing.md) | [PR01](../sessions/PR01.md) | [PR20](../sessions/PR20.md) |
 | [Crossing Paths in Goldreach](../storylines/ended/crossing-paths-in-goldreach.md) | [PR01](../sessions/PR01.md) | [PR02](../sessions/PR02.md) |
 | [Finding the Goldreach Meteorite](../storylines/ended/finding-the-goldreach-meteorite.md) | [PR01](../sessions/PR01.md) | [PR11](../sessions/PR11.md) |
-| [The Meteoric Threat](../storylines/the-meteoric-threat.md) | [PR01](../sessions/PR01.md) | |
 | [Torbra's Giant Lineage](../storylines/torbras-giant-lineage.md) | [PR01](../sessions/PR01.md) | |
 | [Wolves Threaten Goldreach](../storylines/ended/wolves-threaten-goldreach.md) | [PR02](../sessions/PR02.md) | [PR08](../sessions/PR08.md) |
+| [Learning About the Meteorics](../storylines/learning-about-the-meteorics.md) | [PR06](../sessions/PR06.md) | |
 | [Saoirse Contracts Meteoridis](../storylines/ended/saoirse-contracts-meteoridis.md) | [PR07](../sessions/PR07.md) | [PR30](../sessions/PR30.md) |
 | [Magicborn on the Run](../storylines/ended/magicborn-on-the-run.md) | [PR08](../sessions/PR08.md) | [PR20](../sessions/PR20.md) |
-| [Saoirse's Aasimar Cleansing](../storylines/saoirses-aasimar-cleansing.md) | [PR10](../sessions/PR10.md) | |
+| [The Corrupted Aasimar](../storylines/the-corrupted-aasimar.md) | [PR10](../sessions/PR10.md) | |
 | [The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md) | [PR12](../sessions/PR12.md) | |
+| [The Meteorics Destroy Eskrigg](../storylines/the-meteorics-destroy-eskrigg.md) | [PR14](../sessions/PR14.md) | |
 | [Escorted by Sarleen](../storylines/ended/escorted-by-sarleen.md) | [PR14](../sessions/PR14.md) | [PR15](../sessions/PR15.md) |
 | [The Firbolg Controversy](../storylines/ended/the-firbolg-controversy.md) | [PR15](../sessions/PR15.md) | [PR20](../sessions/PR20.md) |
 | [Revenge of the Magicborn Hunters](../storylines/revenge-of-the-magicborn-hunters.md) | [PR17](../sessions/PR17.md) | |
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [PR18](../sessions/PR18.md) | [PR20](../sessions/PR20.md) |
-| [Astorrel vs Astornox](../storylines/astorrel-vs-astornox.md) | [PR18](../sessions/PR18.md) | |
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | [PR21](../sessions/PR21.md) |
 | [Nature's Battle 28](../storylines/ended/natures-battle-28.md) | [PR21](../sessions/PR21.md) | [PR26](../sessions/PR26.md) |
 | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/PR25.md) | |
 | [Syntenne Spies in Eskrigg](../storylines/ended/syntenne-spies-in-eskrigg.md) | [PR27](../sessions/PR27.md) | [PR27](../sessions/PR27.md) |
 | [Tyburn's Scrying Pool](../storylines/tyburns-scrying-pool.md) | [PR27](../sessions/PR27.md) | |
+| [Astral Squad Return to Goldreach](../storylines/astral-squad-return-to-goldreach.md) | [PR27](../sessions/PR27.md) | |
 | [Talk to the Morning Chasers](../storylines/ended/talk-to-the-morning-chasers.md) | [PR27](../sessions/PR27.md) | [PR30](../sessions/PR30.md) |
 | [How to Summon Your Dragon](../storylines/how-to-summon-your-dragon.md) | [PR30](../sessions/PR30.md) | |
 | [Investigate the Humar Meteorite Crater](../storylines/ended/investigate-the-humar-meteorite-crater.md) | [PR30](../sessions/PR30.md) | [PR36](../sessions/PR36.md) |
 | [Giving Esme a Childhood](../storylines/giving-esme-a-childhood.md) | [PR32](../sessions/PR32.md) | |
 | [Wizira Dies](../storylines/wizira-dies.md) | [PR35](../sessions/PR35.md) | |
+| [Search for a Meteorite in Tresenda Pass](../storylines/search-for-a-meteorite-in-tresenda-pass.md) | [PR37](../sessions/PR37.md) | |
+| [Genasi in Astor](../storylines/genasi-in-astor.md) | [PR37](../sessions/PR37.md) | |
+| [Reaching Augury Rock](../storylines/reaching-augury-rock.md) | [PR37](../sessions/PR37.md) | |

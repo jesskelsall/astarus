@@ -11,7 +11,7 @@ The [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md
 
 ## History
 
-### [Purple Rain](../../campaigns/C1-purple-rain.md) Prelude
+### Pre-campaign
 
 Two days before the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign begins, a meteor falls from the sky and impacts north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), on the edge of the [Hawkswood](../../places/forests/hawkswood.md) ([Hawkswood North East](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-north-east.md)), punching a hole through a cave ([Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md)) where it came to rest.
 

@@ -13,7 +13,7 @@ Having been captured by the [Goldreach](../../civilisations/kingdom-of-astor/SET
 
 ## History
 
-### [Purple Rain](../../campaigns/C1-purple-rain.md) Prelude
+### Pre-campaign
 
 Nearly two days prior to the start of the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign and the day after the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) crashed down near the town of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), [Wizira](../../characters/wizira.md) returned home from  a bustling [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to find her father missing.
 
