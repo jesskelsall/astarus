@@ -75,6 +75,14 @@ Thanea talks of her first time activating Radiant Soul in the [Nature's Battle 2
 
 *See: [Shared Deva Dream 1](../dreams/deva-shared-1.md)*
 
+### [PR38](../sessions/PR38.md)
+
+Immediately following their shared dream, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) discuss its contents.
+
+Saoirse is worried about the darkness that overtakes her in the dream, declaring that she fucked up what was happening in the dream, and apologises profusely. Thanea tries several times to reassure her that her own deva dreams aren't literal and don't necessarily reflect future events to come.
+
+The pair wonder on the nature of Saoirse's darkness. Thanea asks about [Effie Silttooth](../characters/effie-silttooth.md), Saoirse suggesting that her patron's influence may be having an adverse effect on her somehow. Thanea suggests that Saoirse has two powerful entities vying for her attention, so she should pick whatever feels most right.
+
 ## Planning
 
 Saoirse will continue having deva dreams depicting altered past events that she has already experienced, with [Mykiel](../characters/mykiel.md) present. He will test her devotion and resolve. If she pleases him, he will continue to help her.

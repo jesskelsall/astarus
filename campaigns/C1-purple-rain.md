@@ -81,7 +81,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR36](../sessions/PR36.md) | 2021-09-29 | *Accepting Defeat* |
 | [PR36T](../sessions/PR36T.md) | 2021-10-03 | *An Audience with the General Supreme* |
 | [PR37](../sessions/PR37.md) | 2021-10-06 | *Enter [Luna](../characters/lucia-velpione.md)* |
-| [PR38](../sessions/PR38.md) | 2021-10-13 | |
+| [PR38](../sessions/PR38.md) | 2021-10-13 | *Dream Discussions* |
 | [PR39](../sessions/PR39.md) | 2021-10-21 | |
 | [PR40](../sessions/PR40.md) | 2021-11-03 | |
 | [PR41](../sessions/PR41.md) | 2021-11-10 | |

@@ -103,6 +103,18 @@ Corville believes her, finding her confusion sincere and a relief, though he doe
 
 *See: [Shared Deva Dream 1](../dreams/deva-shared-1.md)*
 
+### [PR38](../sessions/PR38.md)
+
+Immediately following their shared dream, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) discuss its contents.
+
+The pair quickly realise that while their dreams started differently and feature their respective devas, they shared the part of the dream that took place at and around [Augury Rock](../places/structures/augury-rock.md), with them confirming that they saw each other.
+
+They wonder about the third figure ([Allisa Balsatra](../characters/allisa-balsatra.md)). Saoirse initially dismissed her as just part of the dream, but Thanea draws comparisons between the pair and her, suggesting that she might be a real person experiencing the dream alongside them both, meaning that there may be a third [aasimar](../lineages/aasimar.md) in the world somewhere. She goes on to lament at how hard it would be to find such a person if they do indeed exist.
+
+The pair also wonder about their parents, as Saoirse doesn't know her father and Thanea was abandoned as a child before being taken in by her adoptive parents. Saoirse draws unsettling comparisons between her missing father and her male deva, wondering if they could be one in the same, but not liking the possibility as she is supposed to hate her father.
+
+Thanea suggests that Saoirse could write to her mother to ask for details of her father. This could give them clues that might answer questions they both have about their parents.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will use Message to communicate with [Ahsha Sallas](../characters/ahsha-sallas.md), scolding her for ruining her plans and putting [Thanea Morlay](../characters/thanea-morlay.md) in great danger, now that the [Astornar](../organisations/astornar.md) know that a Veritacris has interest in her.
