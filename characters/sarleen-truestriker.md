@@ -24,7 +24,7 @@
 
 ## Summary
 
-Sarleen Truestriker is the [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) of [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md). She was played by [EvA](../players/eva.md).
+Sarleen Truestriker is the [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) of [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md). She was played by [Eva](../players/eva.md).
 
 ## Characteristics
 

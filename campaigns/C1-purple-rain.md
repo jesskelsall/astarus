@@ -31,7 +31,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | Session(s) | Player | Character |
 | --- | --- | --- |
 | [PR00](../sessions/PR00.md) - [PR35](../sessions/PR35.md) | [Sheycara](../players/sheycara.md) | [Wizira](../characters/wizira.md) |
-| [PR14](../sessions/PR14.md) - [PR15](../sessions/PR15.md) | [EvA](../players/eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) |
+| [PR14](../sessions/PR14.md) - [PR15](../sessions/PR15.md) | [Eva](../players/eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) |
 | [PR26](../sessions/PR26.md) | [Dan](../players/dan.md) | [Eremus Vitur](../characters/eremus-vitur.md) |
 | [PR26](../sessions/PR26.md) | [Ian](../players/ian.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) |
 | [PR26](../sessions/PR26.md) | [John](../players/john.md) | [Uther Wildfang](../characters/uther-wildfang.md) |

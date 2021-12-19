@@ -8,7 +8,7 @@
 | [Chloe](chloe.md) | [Noon Schiller](../characters/noon-schiller.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) |
 | [Dan](dan.md) | [Eremus Vitur](../characters/eremus-vitur.md) | Guest |
 | [Derk](derk.md) | [Norma Collarbone](../characters/norma-collarbone.md) | Guest |
-| [EvA](eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) | Guest |
+| [Eva](eva.md) | [Sarleen Truestriker](../characters/sarleen-truestriker.md) | Guest |
 | [Freya](freya.md) | [Ophelia Phantom](../characters/ophelia-phantom.md) | Guest |
 | [Hannah](hannah.md) | [Thanea Morlay](../characters/thanea-morlay.md) | [Purple Rain](../campaigns/C1-purple-rain.md) |
 | [Ian](ian.md) | [Faelon Fireburner](../characters/faelon-fireburner.md) | Guest |
