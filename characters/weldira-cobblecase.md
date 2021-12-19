@@ -10,7 +10,7 @@
 | **Age** | 30 |
 | **Class** | Rogue (Scout) |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
-| **Relations** | [Bluefoot](bluefoot.md) (Hunter partner) |
+| **Relations** | [Bluefoot](bluefoot.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
 | **Places** | |
 |||
 | **Citizenship** | |

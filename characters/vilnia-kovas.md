@@ -10,7 +10,7 @@
 | **Age** | 33 (dead) |
 | **Class** | Wizard (School of Enchantment) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
-| **Relations** | [Kur Merkys](kur-merkys.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md)) |
+| **Relations** | [Kur Merkys](kur-merkys.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
 | **Places** | [Northhaven](../places/cities/northhaven.md) |
 |||
 | **Citizenship** |  |

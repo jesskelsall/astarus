@@ -10,7 +10,7 @@
 | **Age** | 217 |
 | **Class** | Druid (Circle of the Land, Forest) |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
-| **Relations** | |
+| **Relations** | [Weldira Cobblecase](weldira-cobblecase.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
 | **Places** | [Hawkswood](../places/forests/hawkswood.md) (birthplace) |
 |||
 | **Citizenship** | |
