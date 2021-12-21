@@ -26,7 +26,7 @@
 | --- | --- | --- |
 | Crypt Skeleton | [Skeleton](https://www.dndbeyond.com/monsters/skeleton) | `afb5195acb2087a1` |
 | [Copper Eye](../organisations/copper-eye.md) Guard || `dcae962520ab09d9` |
-| [Jonala Shirent](../characters/jonala-shirent.md) | [Character Sheet](https://www.dndbeyond.com/profile/JessRising/characters/59601657) ||
+| [Jonala Shirent](../characters/jonala-shirent.md) | [Character Sheet (3 players)](https://www.dndbeyond.com/profile/JessRising/characters/59601657)<br>[Character Sheet (4 players)](https://www.dndbeyond.com/profile/JessRising/characters/64194957) ||
 | [Vivien Bouxelles](../characters/vivien-bouxelles.md) | [Ghost](https://www.dndbeyond.com/monsters/ghost) ||
 | Wisp | [Will-o'-Wisp](https://www.dndbeyond.com/monsters/will-o-wisp) ||
 
@@ -64,9 +64,11 @@
 - Night, misty.
 - [Jonala Shirent](../characters/jonala-shirent.md) waiting outside of mausoleum with two guards.
   - Half-expecting more [Copper Eye](../organisations/copper-eye.md) backup.
-  - Must identify as [Copper Eye](../organisations/copper-eye.md) somehow.
+  - Must identify as [Copper Eye](../organisations/copper-eye.md):
+    - "Who are you?" "I am forsaken".
+    - Produce a [Copper Eye](../organisations/copper-eye.md) Coin.
   - Willing to kill to be successful this night.
-- [Petjor Yordua](../characters/petjor-yordua.md) arrives with key.
+- [Petjor Yordua](../characters/petjor-yordua.md) arrives with the key and a coin.
   - Opens the door.
 - Jonala and Petjor head inside, guards wait outside.
 

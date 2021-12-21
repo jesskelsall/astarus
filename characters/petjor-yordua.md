@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Petjor Yordua | character.4
-| **Lineage** | Elf (High) |
+| **Lineage** | Human / Elf (High) |
 | **Pronouns** | he/him |
 | **Age** | Dead<br>*534 ([Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md))* |
 | **Class** | |

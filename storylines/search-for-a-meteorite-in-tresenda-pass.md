@@ -34,6 +34,16 @@ She tells the party that the mission will officially start in the morning.
 
 *[End of session: day 0]*
 
+### [PR39](../sessions/PR39.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) set off towards [Tresenda Pass](../places/roads/tresenda-pass.md) on the morning of the first day of their mission. With [Lucia Velpione](../characters/lucia-velpione.md)'s help they secure transport to [Hyceodd](../places/towns/hyceodd.md) by transporting goods by horse and cart (pears). [Luna](../characters/lucia-velpione.md) has to put gold down to take the shipment, but she expects to break even once in [Hyceodd](../places/towns/hyceodd.md).
+
+With [Torbra Tauff](../characters/torbra-tauff.md) at the reins and [Thanea Morlay](../characters/thanea-morlay.md) navigating, the party reach the junction of the [Great Astor Road](../places/roads/great-astor-road.md) and [Humar Cut](../places/roads/humar-cut.md) by nightfall, camping for the night in [Luna](../characters/lucia-velpione.md)'s Tiny Hut, a first for the party.
+
+By morning they continue their journey, crossing the bridge over the [River Carn](../places/rivers-lakes/river-carn.md) during the day.
+
+*[End of session: day 2]*
+
 ## Planning
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).

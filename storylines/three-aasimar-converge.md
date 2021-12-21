@@ -115,6 +115,20 @@ The pair also wonder about their parents, as Saoirse doesn't know her father and
 
 Thanea suggests that Saoirse could write to her mother to ask for details of her father. This could give them clues that might answer questions they both have about their parents.
 
+### [PR39](../sessions/PR39.md)
+
+While in the back of the party's trade goods cart on the way to [Hyceodd](../places/towns/hyceodd.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has Scrying cast on her by [Allisa Balsatra](../characters/allisa-balsatra.md). Seeing her in the cart on the move, [Allisa Balsatra](../characters/allisa-balsatra.md) casts Sending several times to converse with Saoirse.
+
+Allisa makes it clear that she hasn't forgotten about Saoirse after their chance encounter in [Eskrigg](../places/cities/eskrigg.md) during the [Blade's Rest](../festivals/blades-rest.md) Festival. After Allisa asks if Saoirse knows "the angel", it soon becomes clear that she was the third person in Saoirse and [Thanea Morlay](../characters/thanea-morlay.md)'s dream ([Shared Deva Dream 1](../dreams/deva-shared-1.md)), and wants to meet them both.
+
+Throughout this conversation, Saoirse replies to Allisa's messages verbally, drawing confusion from [Lucia Velpione](../characters/lucia-velpione.md) in particular, but also catching Thanea's attention. The pair discuss the unknown voice between messages, wondering how much they should say. Thanea advises caution, as does [Luna](../characters/lucia-velpione.md) who is extremely suspicious of a random person who claims to be her friend and wants to know where she will be next.
+
+Saoirse tells Allisa that they are heading to [Hyceodd](../places/towns/hyceodd.md). Allisa states that she will try to meet them there.
+
+After Allisa states her belief that she was in the same dream as Saoirse and Thanea, Saoirse's next question receives no response as Allisa's magical reserves empty for the day.
+
+Saoirse and Thanea resolve to look for the figure they saw in their dream when they arrive in [Hyceodd](../places/towns/hyceodd.md).
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will use Message to communicate with [Ahsha Sallas](../characters/ahsha-sallas.md), scolding her for ruining her plans and putting [Thanea Morlay](../characters/thanea-morlay.md) in great danger, now that the [Astornar](../organisations/astornar.md) know that a Veritacris has interest in her.

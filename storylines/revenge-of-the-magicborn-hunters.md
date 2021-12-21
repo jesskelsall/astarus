@@ -76,3 +76,17 @@ When [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) and [C
 ### [AA14](../sessions/AA14.md)
 
 [Canary Squad](../organisations/astorrel/squads/canary-squad.md) meet [Bluefoot](../characters/bluefoot.md) and [Weldira Cobblecase](../characters/weldira-cobblecase.md) in [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md). Both have already agreed to help [Kur Merkys](../characters/kur-merkys.md) on his quest for revenge against [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md). [Bluefoot](../characters/bluefoot.md) hints at being a [magicborn](../civilisations/kingdom-of-astor/magicborn.md) hunter, but nobody picks up on it.
+
+### [PR39](../sessions/PR39.md)
+
+As [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) exit the [Northhaven Wall](../places/structures/northhaven-wall.md) on their way to the stables, they are confronted by an irate [Kasdon Tinkermane](../characters/kasdon-tinkermane.md) and Candle in the Wind who keeps a stern watch over him.
+
+Kasdon is immediately argumentative, expressing his disgust that people who killed [Astornox](../organisations/astornox/astornox.md) are allowed to join the military rather than being killed for their crimes. [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) states that the [Astornox](../organisations/astornox/astornox.md) made bad judgement calls, prompting [Thanea Morlay](../characters/thanea-morlay.md) to try and shut her squad up before the situation escalates.
+
+Candle comes down hard on Kasdon who looks to her to prevent him from doing something he'll come to regret. [Luna](../characters/lucia-velpione.md) inflames tensions by teasing Kasdon, calling him a baby being taken care of by Candle, telling him to run along. Kasdon threateningly states his hope that the party doesn't return to [Northhaven](../places/cities/northhaven.md) soon. [Luna](../characters/lucia-velpione.md) is aloof in saying that they'll go at their own pace.
+
+As Kasdon walks off angrily with Candle in tow, he knocks out a citizen carrying planks of wood, demonstrating his monk-like martial prowess.
+
+One of the guards that helps the citizen up expresses astonishment towards [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) that suggests [Astornox Magicborn Hunters](../organisations/astornox/ranks/astornox-magicborn-hunter.md) can be unruly like this. When Thanea tries to relate with the party's experiences with hunters, the guard rudely tells her that "they know who they all are", clearly not holding them in high regard either.
+
+The party briefly considers what riled Kasdon up before coming to the conclusion that they must be hated because they killed an [Astorrel](../organisations/astorrel/astorrel.md) [Magicborn](../civilisations/kingdom-of-astor/magicborn.md) Hunter ([Vilnia Kovas](../characters/vilnia-kovas.md)) while infiltrating [Northhaven](../places/cities/northhaven.md) in search of [sanctuary](../organisations/astorrel/sanctuary.md).
