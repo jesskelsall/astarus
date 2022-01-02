@@ -18,3 +18,12 @@
 | --- | --- | --- |
 | *DM* | [Purple Rain](../campaigns/C1-purple-rain.md) | [PR00](../sessions/PR00.md) - |
 | *DM* | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) | [AA00](../sessions/AA00.md) - |
+| *DM* | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | [MC00](../sessions/MC00.md) - |
+
+## Photos
+
+### August 2021
+
+||||
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dm/ddef4dc2ded696ec-1.jpg" width="300" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dm/ddef4dc2ded696ec-2.jpg" width="300" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/dm/ddef4dc2ded696ec-3.jpg" width="300" /> |

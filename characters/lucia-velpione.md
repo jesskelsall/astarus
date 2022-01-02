@@ -78,3 +78,11 @@ After 2.5 years of training in [Dunmore](../places/cities/dunmore.md) with her [
 On a later assignment [Aura Squad](../organisations/astorrel/squads/aura-squad.md) was attacked by bandits while investigating a cave. Lucia managed to talk her way out of the situation, escaping back to [Northhaven](../places/cities/northhaven.md). There she told her [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) that the rest of her squad had been ambushed & killed, and that she was lucky to have escaped. She was given a two weeks off to recover, with the expectation that she would be assigned to a new squad thereafter.
 
 To her surprise the rest of [Aura Squad](../organisations/astorrel/squads/aura-squad.md) showed up in the middle of the second week, explaining the true version of events - that Lucia had abandoned them. This enraged her Squad Sergeant and their Lieutenant. Both sought to transfer her to another squad, realising that Lucia's relationship with them was not salvageable. As luck would have it, [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) had just suffered the loss of [Wizira](wizira.md), creating an opening for Lucia to drop into.
+
+### Names
+
+Luna doesn't like using her real name with strangers. Below is a list of other aliases she has used:
+
+| Name | Character(s) | Session |
+| --- | --- |:---:|
+| Bertha Halfstring | [Upton McAran](upton-mcaran.md) | [PR40](../sessions/PR40.md) |

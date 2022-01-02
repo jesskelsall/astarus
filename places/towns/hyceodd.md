@@ -12,13 +12,13 @@
 
 ## Summary
 
-Hyceodd is a port town along the [Great Astor Road](../roads/great-astor-road.md), the only settlement between [Northhaven](../cities/northhaven.md) and [Yeatscale](../cities/yeatscale.md). A strategic position where the [River Carn](../rivers-lakes/river-carn.md) meets the [Carneid Inlet](../seas-oceans/carneid-inlet.md), Hyceodd's tall walls and large harbour hint at its prior strategic role in the Astor-Syntenne War.
+Hyceodd is a former fortress come town along the [Great Astor Road](../roads/great-astor-road.md), the only settlement between [Northhaven](../cities/northhaven.md) and [Yeatscale](../cities/yeatscale.md). A strategic position where the [River Carn](../rivers-lakes/river-carn.md) meets the [Carneid Inlet](../seas-oceans/carneid-inlet.md), Hyceodd's tall walls and large harbour hint at its prior strategic role in the Astor-Syntenne War.
 
 These days Hyceodd is increasingly cosmopolitan due to being a destination for immigrants coming from the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) and the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md).
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Town on flat grassland next to the river, surrounded with tall stone walls. Wall perimeter is wide and narrow, creating a wall against the south. Adjoined large harbour, mostly empty except for trade ships. Gridded street layout with 2 and 3 storey medieval buildings. Prominent central temple with a marketplace completely surrounding it. [Astornox](../../organisations/astornox/astornox.md) stronghold surrounded by similarly tall walls. |
+| Sights | Large 20ft wall spanning from forest to river, set amongst flat grassy plains. Second wall ring on the north side of the wall with the town at its centre. Large gatehouses on both sides.<br>Adjoined large harbour, mostly empty except for trade ships.<br>Gridded street layout with 2 and 3 storey medieval buildings. Prominent central temple with a marketplace completely surrounding it. [Astornox](../../organisations/astornox/astornox.md) stronghold surrounded by similarly tall walls. |
 | Sounds | Chatter, trade, dogs barking, children playing, pigeons. |
 | Smells | Fish, excrement, fresh produce. |
 | People | Incredibly varied mix of races. Predominantly poor. |
@@ -26,5 +26,6 @@ These days Hyceodd is increasingly cosmopolitan due to being a destination for i
 
 ## Places
 
-- Temple to the Resistance
 - [Two Anchors House](../buildings/inns-taverns/two-anchors-house.md) (inn)
+- [Temple of the Resistance](../buildings/temples/temple-of-the-resistance.md)
+- [Hyceodd Trade Post](../buildings/stables/hyceodd-trade-post.md)

@@ -44,6 +44,18 @@ By morning they continue their journey, crossing the bridge over the [River Carn
 
 *[End of session: day 2]*
 
+### [PR40](../sessions/PR40.md)
+
+[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) continue towards [Hyceodd](../places/towns/hyceodd.md) along the [Great Astor Road](../places/roads/great-astor-road.md). Rain sets in as a thunderstorm rolls across the area, whipping up strong winds that blow a tree over on the road ahead.
+
+While the party stop their cart and check for danger, three ogres charge down a side path towards them, engaging them in combat. A fourth is soon revealed. The party decisively kills the ogres in the middle of the rain and wind.
+
+[Torbra Tauff](../characters/torbra-tauff.md) heaves the tree from the road, allowing the party to continue along the road. The rain lets up that evening and by morning the weather is clear. By the afternoon of the next day they reach [Hyceodd](../places/towns/hyceodd.md).
+
+The party drop off the cart of pears at the [Hyceodd Trade Post](../places/buildings/stables/hyceodd-trade-post.md) where [Upton McAran](../characters/upton-mcaran.md) pays [Lucia Velpione](../characters/lucia-velpione.md) 45 gp for the cargo.
+
+*[End of session: day 3]*
+
 ## Planning
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).
