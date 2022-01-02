@@ -56,6 +56,12 @@ The party drop off the cart of pears at the [Hyceodd Trade Post](../places/build
 
 *[End of session: day 3]*
 
+### [PR41](../sessions/PR41.md)
+
+[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) spend the afternoon in [Hyceodd](../places/towns/hyceodd.md), resting up before continuing their journey to the [Tresenda Pass](../places/roads/tresenda-pass.md). Here they again discuss the merits of proceeding directly to the pass or going via [Blittergate](../places/towns/blittergate.md) to collect more information about it.
+
+[Jonwen Cryss](../characters/jonwen-cryss.md) provides them a brief description of [Blittergate](../places/towns/blittergate.md) as a quiet farming community, though is unable to provide them anything of use on the [Tresenda Pass](../places/roads/tresenda-pass.md) itself. The party remains undecided about their approach.
+
 ## Planning
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).

@@ -21,6 +21,7 @@ The Crimson Blades is a mercenary organisation based out of Carnmere. Their lead
 | --- | --- |
 | [Stalker](../characters/stalker.md) | Leader |
 | [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) | Commander |
+| [Jonwen Cryss](../characters/jonwen-cryss.md) | Contact - [Hyceodd](../places/towns/hyceodd.md) |
 
 ## History
 

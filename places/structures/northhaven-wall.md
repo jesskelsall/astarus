@@ -10,7 +10,7 @@
 
 ## Summary
 
-The city wall was built during the Astor-Syntenne War to prevent a land-based invasion of the city. It is 10ft thick, on average 35ft tall, and made of stone from the slopes of [Walna Pike](../mountains/walna-pike.md) nearby.
+The city wall was built during the [Astor-Syntenne War](../../history/events/astor-syntenne-war.md) to prevent a land-based invasion of the city. It is 10ft thick, on average 35ft tall, and made of stone from the slopes of [Walna Pike](../mountains/walna-pike.md) nearby.
 
 These days it demarcates the inner [Sunset District](../districts/sunset-district.md), which is for military members only, from the outer [Sunrise District](../districts/sunrise-district.md), which is for everyone else.
 

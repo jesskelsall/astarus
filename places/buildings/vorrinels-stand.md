@@ -10,7 +10,7 @@
 
 ## Summary
 
-Vorrinel's Stand is the large arena in the center of [Eskrigg](../cities/eskrigg.md). It is named for the surname of a famous hero of the Astor-Syntenne War and his heroic stand against the Republic.
+Vorrinel's Stand is the large arena in the center of [Eskrigg](../cities/eskrigg.md). It is named for the surname of a famous hero of the [Astor-Syntenne War](../../history/events/astor-syntenne-war.md) and his heroic stand against the Republic.
 
 ### Exterior
 

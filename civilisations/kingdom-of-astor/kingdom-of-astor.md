@@ -15,7 +15,7 @@
 | **Founded** | *0 [PA](../../history/calendars/astorian-calendar.md)* |
 | **Neighbours** | [Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south)<br>[Dardenn Kingdom](../dardenn-kingdom/dardenn-kingdom.md) (north)<br>[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (west) |
 | **Alliances** | |
-| **Wars** | Astor-Syntenne War (*88 [PA](../../history/calendars/astorian-calendar.md)* - current) |
+| **Wars** | [Astor-Syntenne War](../../history/events/astor-syntenne-war.md) (*88 [PA](../../history/calendars/astorian-calendar.md)* - current) |
 | **Image ID** | `556ce67a6c183e48` |
 
 ## Summary

@@ -129,6 +129,12 @@ After Allisa states her belief that she was in the same dream as Saoirse and Tha
 
 Saoirse and Thanea resolve to look for the figure they saw in their dream when they arrive in [Hyceodd](../places/towns/hyceodd.md).
 
+### [PR40](../sessions/PR40.md)
+
+Now in [Hyceodd](../places/towns/hyceodd.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) consider searching the town for [Allisa Balsatra](../characters/allisa-balsatra.md), but Saoirse recants that she didn't provide them with instructions on how to find her. They entertain [Torbra Tauff](../characters/torbra-tauff.md)'s desire to look inside the [Temple of the Resistance](../places/buildings/temples/temple-of-the-resistance.md), wondering if Allisa is inside, but not finding her there.
+
+They are unaware that Allisa was unable to make it to [Hyceodd](../places/towns/hyceodd.md) safely in time to meet them.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will use Message to communicate with [Ahsha Sallas](../characters/ahsha-sallas.md), scolding her for ruining her plans and putting [Thanea Morlay](../characters/thanea-morlay.md) in great danger, now that the [Astornar](../organisations/astornar.md) know that a Veritacris has interest in her.

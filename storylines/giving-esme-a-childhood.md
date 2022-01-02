@@ -59,3 +59,9 @@ Arriving back in [Northhaven](../places/cities/northhaven.md), [Torbra Tauff](..
 Later that evening Torbra visited the pair at [Lionel's Rest](../places/buildings/inns-taverns/lionels-rest.md). Montel makes it clear that they will depart for Iredale in the morning. After making sure they were okay she wrote a letter to [Hjalmann Craggbeard](../characters/hjalmann-craggbeard.md) and passed it to Montel. In it she explained the pair's need for a new home in Iredale and implored Hjalmann to treat them the way she was treat. Torbra alludes to Esme being like her.
 
 Torbra says her goodbyes to Montel and Esme, giving Montel 5 gp more to aid in their travel and to set up their new life in Iredale.
+
+### [PR40](../sessions/PR40.md)
+
+While in [Hyceodd](../places/towns/hyceodd.md), [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) chat with [Jonwen Cryss](../characters/jonwen-cryss.md) in [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md). Unbeknownst to the party, Jonwen converses with them because he wishes to keep tabs on [Astorrel](../organisations/astorrel/astorrel.md) passing through [Hyceodd](../places/towns/hyceodd.md), wishing to keep them away from [the Crimson Blades](../organisations/the-crimson-blades.md)' operations in the town.
+
+[Jonwen Cryss](../characters/jonwen-cryss.md) ordered the death of [Vensys Leithran](../characters/vensys-leithran.md), leading to the party's encounter with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) on the Humar Estuary.

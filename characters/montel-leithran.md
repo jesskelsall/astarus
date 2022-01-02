@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Montel Leithran | character.3
-| **Lineage** | Elf |
+| **Lineage** | Elf (Wood) |
 | **Pronouns** | he/him |
 | **Age** | 38 |
 | **Class** | |

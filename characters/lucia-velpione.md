@@ -86,3 +86,4 @@ Luna doesn't like using her real name with strangers. Below is a list of other a
 | Name | Character(s) | Session |
 | --- | --- |:---:|
 | Bertha Halfstring | [Upton McAran](upton-mcaran.md) | [PR40](../sessions/PR40.md) |
+| Clarissa | [Jonwen Cryss](jonwen-cryss.md) | [PR41](../sessions/PR41.md) |

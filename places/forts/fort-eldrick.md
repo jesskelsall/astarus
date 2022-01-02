@@ -20,4 +20,4 @@ It is a long wall that stretches from the [River Carn](../rivers-lakes/river-car
 | Sounds | [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) chatting, armour moving, pigeons nesting. |
 | Smells | Sweat, mud, horse manure. |
 | People | [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md). |
-| Intrigue | A large fortification that defends against largely uninhabited estuary land. A relic of the Astor-Syntenne War, standing ever vigilant. |
+| Intrigue | A large fortification that defends against largely uninhabited estuary land. A relic of the [Astor-Syntenne War](../../history/events/astor-syntenne-war.md), standing ever vigilant. |

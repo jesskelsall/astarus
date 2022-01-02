@@ -42,5 +42,5 @@ His surname is anglicised: *McDonnell*.
 | **Quirks** | Cool eye jewellery and an ominous personality to match. |
 | **Knowledge** | All manner of curiosities and phenomena. Intimidation. |
 | **Values** | Knowledge, the might and power of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). |
-| **Ambitions** | To render the [Astornox](../organisations/astornox/astornox.md) obsolete in the Astor-Syntenne war by discovering a super weapon. |
+| **Ambitions** | To render the [Astornox](../organisations/astornox/astornox.md) obsolete in the [Astor-Syntenne war](../history/events/astor-syntenne-war.md) by discovering a super weapon. |
 | **Dislikes** | Traditionalists, inside-the-box thinking. |

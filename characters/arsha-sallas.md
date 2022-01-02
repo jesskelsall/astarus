@@ -43,7 +43,7 @@ Arsha Sallas is a retired [Astornox](../organisations/astornox/astornox.md) sold
 
 ## History
 
-Arsha served in the [Astornox](../organisations/astornox/astornox.md) during the Astor-Syntenne War. He was in active service when the armistice was signed. When the Major of War began downsizing their branch of the [Astornox](../organisations/astornox/astornox.md), he gladly took the citizenship and voluntary retirement offered to him.
+Arsha served in the [Astornox](../organisations/astornox/astornox.md) during the [Astor-Syntenne War](../history/events/astor-syntenne-war.md). He was in active service when the armistice was signed. When the Major of War began downsizing their branch of the [Astornox](../organisations/astornox/astornox.md), he gladly took the citizenship and voluntary retirement offered to him.
 
 Following this he moved to [Mockerkin](../places/towns/mockerkin.md), at that time a growing town, looking for work. He became a mason, working to construct the sorely needed houses. Through this work he met his future wife and mother of his daughter, [Felina Sallas](felina-sallas.md). Within two years she would give birth to [Ahsha Sallas](ahsha-sallas.md).
 
