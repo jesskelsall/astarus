@@ -10,13 +10,12 @@
 
 ## Sessions
 
-| Session | Date |
-|---| --- |
-| [RA01A](../sessions/RA01A.md) | 2021-10-09 |
-| [RA02A](../sessions/RA02A.md) | 2021-10-23 |
-| [RA01B](../sessions/RA01B.md) | 2021-11-06 |
-| [RA02B](../sessions/RA02B.md) | 2021-11-14 |
-| [RA03](../sessions/RA03.md) | 2021-12-19 |
+| Session(s) | Date 1 | Date 2 |
+|---| --- | --- |
+| [RA01](../sessions/RA01.md) | 2021-10-09 | 2021-11-06 |
+| [RA02](../sessions/RA02.md) | 2021-10-23 | 2021-11-14 |
+| [RA03](../sessions/RA03.md) | 2021-12-19 | 2021-12-26 |
+| [RA04](../sessions/RA04.md) | | |
 
 ---
 
