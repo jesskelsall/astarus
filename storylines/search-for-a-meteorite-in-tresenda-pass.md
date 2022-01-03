@@ -74,6 +74,22 @@ After Weldira and [Bluefoot](../characters/bluefoot.md) leave, the party remain 
 
 By the evening they reach the junction leading back to [Hyceodd](../places/towns/hyceodd.md) to the east, marking the southern entrance of the [Tresenda Pass](../places/roads/tresenda-pass.md). They make camp for the night, failing to hear wolves deeper into the pass howling as the sun sets.
 
+*[End of session: day 6]*
+
+## [PR43](../sessions/PR43.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) camps at the south entrance to the [Tresenda Pass](../places/roads/tresenda-pass.md). Wolves can be heard during the night. By day they proceed through the valley, spotting dead deer but not realising what they are until [Thanea Morlay](../characters/thanea-morlay.md) uses Radiant Soul to get a better view of their surroundings from high above. She notices blood on them from the wolves that killed them. While up there she can tell that the party are 1/4 of the way through the pass.
+
+After an otherwise uneventful day of travel, the party camps for the night under [Lucia Velpione](../characters/lucia-velpione.md)'s Tiny Hut. Both Thanea and [Torbra Tauff](../characters/torbra-tauff.md) fail to notice a pack of wolves that take interest in the party's smell beyond the dome, lurking nearby through the night, waiting for daylight.
+
+As the sun rises Torbra notices the 14 wolves and quietly wakes the group. They frantically prepare and plan for what to do next as the magical dome is due to end any second. [Luna](../characters/lucia-velpione.md) shouts at the wolves in an attempt to scare them, instead provoking them as they move to encircle the dome. When Tiny Hut ends, the wolves dive into combat, but they are no match for the party. All of the wolves are killed.
+
+After taking a short rest, the party continues north. [Thanea Morlay](../characters/thanea-morlay.md) relates the [Foss Peaks](../places/mountains/foss-peaks.md) to the northeast to her dream ([Shared Deva Dream 1](../dreams/deva-shared-1.md)), telling the party that they appear to be heading in the right direction. As the trail moves to the eastern edge of the valley and then back west, Thanea suggests leaving the trail and searching the hills to the northeast, feeling confident that this is where her dream took place.
+
+The party prepares to camp for the night before continuing further.
+
+*[End of session: day 8]*
+
 ## Planning
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).
