@@ -85,7 +85,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR39](../sessions/PR39.md) | 2021-10-21 | *Friends in Unlikely Places* |
 | [PR40](../sessions/PR40.md) | 2021-11-03 | *A Storm on the Road* |
 | [PR41](../sessions/PR41.md) | 2021-11-10 | *Hanging in [Hyceodd](../places/towns/hyceodd.md)* |
-| [PR42](../sessions/PR42.md) | 2021-11-18 | |
+| [PR42](../sessions/PR42.md) | 2021-11-18 | *[Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md)* |
 | [PR43](../sessions/PR43.md) | 2021-11-24 | |
 | [PR44](../sessions/PR44.md) | 2021-12-01 | |
 | [PR45](../sessions/PR45.md) | 2021-12-08 | |
@@ -126,3 +126,4 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Search for a Meteorite in Tresenda Pass](../storylines/search-for-a-meteorite-in-tresenda-pass.md) | [PR37](../sessions/PR37.md) | |
 | [Genasi in Astor](../storylines/genasi-in-astor.md) | [PR37](../sessions/PR37.md) | |
 | [Reaching Augury Rock](../storylines/reaching-augury-rock.md) | [PR37](../sessions/PR37.md) | |
+| [Ephaine's Missing Brother](../storylines/ephaines-missing-brother.md) | [PR42](../sessions/PR42.md) | |

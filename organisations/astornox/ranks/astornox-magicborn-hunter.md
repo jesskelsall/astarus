@@ -1,6 +1,6 @@
 # Astornox Magicborn Hunter
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/imageid.png" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/53bea5c7fd2e1e72.png" height="200" />
 
 |||
 | --- | --- |
@@ -9,8 +9,4 @@
 | **Commanding Officers** | [Astornox Major](astornox-major.md) of Conscription |
 | **Subordinates** | None |
 |||
-| **Image ID** | |
-
-## Military Badge
-
-## Duties
+| **Image ID** | `53bea5c7fd2e1e72` |

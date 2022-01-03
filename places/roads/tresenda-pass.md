@@ -1,15 +1,5 @@
 # Tresenda Pass
 
-| []() | |
-| --- | --- |
-| **Name** | Tresenda Pass |
-| **Type** | Road |
-| **Location** | [Southern Astor](../regions/southern-astor.md) / [Western Astor](../regions/western-astor.md) |
-| **Nearby Places** | [Blittergate](../towns/blittergate.md)<br>[Filisur](../villages/filisur.md)<br>Fort Maloja<br>[Great Astor Road](great-astor-road.md)<br>[Hyceodd](../towns/hyceodd.md)<br>Neum Flats<br>Picdale<br>[Picdale Water](../rivers-lakes/picdale-water.md) |
-| **People** | |
-
----
-
 |||
 | --- | --- |
 | **Name** | Tresenda Pass | place.4

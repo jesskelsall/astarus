@@ -38,3 +38,9 @@ Before the squad begin two days of downtime between missions, Elysia provides [T
 [Torbra Tauff](../characters/torbra-tauff.md) uses the first part of her downtime to find a bench in [Astor Square](../places/structures/astor-square.md). Here she sits and reads the letter to [Wizira](../characters/wizira.md) from Heather Pentz ([PR36-L-1](../letters/PR36-L-1.md)). She finds its contents to be sad, realising that Heather has no idea that [Wizira](../characters/wizira.md) has died.
 
 Torbra shares the letter's contents with [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) when they spend their evening in [the Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md).
+
+### [PR42](../sessions/PR42.md)
+
+While in [Blittergate](../places/towns/blittergate.md), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) meets [Weldira Cobblecase](../characters/weldira-cobblecase.md) and [Bluefoot](../characters/bluefoot.md) in [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md). [Bluefoot](../characters/bluefoot.md), with knowledge of the party due to [Nature's Battle 28](ended/natures-battle-28.md) and his involvement with [Kur Merkys](../characters/kur-merkys.md), recognises that [Wizira](../characters/wizira.md) is not present. He asks where she is.
+
+[Torbra Tauff](../characters/torbra-tauff.md) informs him that she died recently. The surprise news causes [Bluefoot](../characters/bluefoot.md) to leave in order to inform [Kur Merkys](../characters/kur-merkys.md) of this development in his plot to seek revenge on [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) for [Vilnia Kovas](../characters/vilnia-kovas.md)' death.

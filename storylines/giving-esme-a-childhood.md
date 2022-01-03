@@ -60,7 +60,7 @@ Later that evening Torbra visited the pair at [Lionel's Rest](../places/building
 
 Torbra says her goodbyes to Montel and Esme, giving Montel 5 gp more to aid in their travel and to set up their new life in Iredale.
 
-### [PR40](../sessions/PR40.md)
+### [PR41](../sessions/PR41.md)
 
 While in [Hyceodd](../places/towns/hyceodd.md), [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) chat with [Jonwen Cryss](../characters/jonwen-cryss.md) in [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md). Unbeknownst to the party, Jonwen converses with them because he wishes to keep tabs on [Astorrel](../organisations/astorrel/astorrel.md) passing through [Hyceodd](../places/towns/hyceodd.md), wishing to keep them away from [the Crimson Blades](../organisations/the-crimson-blades.md)' operations in the town.
 

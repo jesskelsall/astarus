@@ -62,6 +62,18 @@ The party drop off the cart of pears at the [Hyceodd Trade Post](../places/build
 
 [Jonwen Cryss](../characters/jonwen-cryss.md) provides them a brief description of [Blittergate](../places/towns/blittergate.md) as a quiet farming community, though is unable to provide them anything of use on the [Tresenda Pass](../places/roads/tresenda-pass.md) itself. The party remains undecided about their approach.
 
+*[End of session: day 3]*
+
+### [PR42](../sessions/PR42.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) departs [Hyceodd](../places/towns/hyceodd.md) by coach for [Blittergate](../places/towns/blittergate.md), taking [Elysia Vanderboss](../characters/elysia-vanderboss.md)' advise to search for information about the [Tresenda Pass](../places/roads/tresenda-pass.md) before traversing it. The following morning they arrive.
+
+Their first order of business is to find [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md). Once inside they speak with [Reed Dovenby](../characters/reed-dovenby.md), an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) with no practical experience of the pass. When [Weldira Cobblecase](../characters/weldira-cobblecase.md) and [Bluefoot](../characters/bluefoot.md) come over to talk to the party they share some information about the pass. Weldira describes it as a valley with a stream running through of it, full of wolves at this time of year. She suggests killing them when Saoirse asks for a way to ward them off.
+
+After Weldira and [Bluefoot](../characters/bluefoot.md) leave, the party remain at [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md) overnight, enjoying free drinks after Weldira overpaid. By morning they buy winter clothing from the market and size up the transport options. Finding nobody willing to take them through the pass by cart, they opt to travel by foot.
+
+By the evening they reach the junction leading back to [Hyceodd](../places/towns/hyceodd.md) to the east, marking the southern entrance of the [Tresenda Pass](../places/roads/tresenda-pass.md). They make camp for the night, failing to hear wolves deeper into the pass howling as the sun sets.
+
 ## Planning
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).

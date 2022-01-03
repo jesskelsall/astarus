@@ -129,11 +129,17 @@ After Allisa states her belief that she was in the same dream as Saoirse and Tha
 
 Saoirse and Thanea resolve to look for the figure they saw in their dream when they arrive in [Hyceodd](../places/towns/hyceodd.md).
 
-### [PR40](../sessions/PR40.md)
+### [PR41](../sessions/PR41.md)
 
 Now in [Hyceodd](../places/towns/hyceodd.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) consider searching the town for [Allisa Balsatra](../characters/allisa-balsatra.md), but Saoirse recants that she didn't provide them with instructions on how to find her. They entertain [Torbra Tauff](../characters/torbra-tauff.md)'s desire to look inside the [Temple of the Resistance](../places/buildings/temples/temple-of-the-resistance.md), wondering if Allisa is inside, but not finding her there.
 
 They are unaware that Allisa was unable to make it to [Hyceodd](../places/towns/hyceodd.md) safely in time to meet them.
+
+### [PR42](../sessions/PR42.md)
+
+Before leaving [Hyceodd](../places/towns/hyceodd.md), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) spends an hour looking around [Hyceodd](../places/towns/hyceodd.md) for [Allisa Balsatra](../characters/allisa-balsatra.md), using [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md)'s description of her as the basis of their search. Everyone returns without success.
+
+After leaving [Blittergate](../places/towns/blittergate.md) and reaching the bottom of the [Tresenda Pass](../places/roads/tresenda-pass.md), Allisa casts Scrying on Saoirse, observing her with the party as they observe the road sign by nightfall, giving her all the information she needs about their current whereabouts and direction of travel. She sets off to cross [Picdale Water](../places/rivers-lakes/picdale-water.md) and catch up with them in [Tresenda Pass](../places/roads/tresenda-pass.md).
 
 ## Planning
 

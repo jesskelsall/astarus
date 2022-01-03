@@ -34,7 +34,7 @@ Measuring distance is made easier by referring to a map at a defined scale with 
 
 Price depends on method of travel and the route taken.
 
-| [Ability Score Method](ability-score-method/ability-score-method.md) | Cost per Mile | Availability | Notes |
+| Method | Cost per Mile | Availability | Notes |
 | --- | ---:| --- | --- |
 | Supply cart | 0.25 cp | All settlements. | Schedule and breaks dictated by the driver.<br>Must help load/unload at each stop. |
 | Hired cart | 2 cp | All settlements except forts. | |
