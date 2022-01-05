@@ -11,7 +11,7 @@
 | **Class** | Cleric (Light Domain) |
 | **Background** | Sage |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
-| **Relations** | [Minsas](minsas.md) (deva) |
+| **Relations** | [Minsas](minsas.md) (deva)<br>[Levron Udrexe](levron-udrexe.md) (custodian) |
 | **Places** | |
 | **Citizenship** | [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) |
 | **Organisation(s)** | Veritacris |
