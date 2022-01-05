@@ -79,7 +79,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [Nilliski's Unknowable Whims](../storylines/nilliskis-unknowable-whims.md) | [AA10](../sessions/AA10.md) | |
 | [Syntenne Spies in Eskrigg](../storylines/ended/syntenne-spies-in-eskrigg.md) | [AA10](../sessions/AA10.md) | [AA12](../sessions/AA12.md) |
 | [Enforcing Astorian History](../storylines/enforcing-astorian-history.md) | [AA11](../sessions/AA11.md) | |
-| [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [AA11](../sessions/AA11.md) | |
+| [Three Aasimar Converge](../storylines/ended/three-aasimar-converge.md) | [AA11](../sessions/AA11.md) | |
 | [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [AA12](../sessions/AA12.md) | |
 | [The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md) | [AA13](../sessions/AA13.md) | |
 | [Noon's Shadow](../storylines/noons-shadow.md) | [AA13](../sessions/AA13.md) | |

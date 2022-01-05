@@ -87,7 +87,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR41](../sessions/PR41.md) | 2021-11-10 | *Hanging in [Hyceodd](../places/towns/hyceodd.md)* |
 | [PR42](../sessions/PR42.md) | 2021-11-18 | *[Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md)* |
 | [PR43](../sessions/PR43.md) | 2021-11-24 | *Howling in the Pass* |
-| [PR44](../sessions/PR44.md) | 2021-12-01 | |
+| [PR44](../sessions/PR44.md) | 2021-12-01 | *The Night of Eyes* |
 | [PR45](../sessions/PR45.md) | 2021-12-08 | |
 ||
 | [PR46](../sessions/PR46.md) | 2021-01-05 |
@@ -114,7 +114,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Receiving Sanctuary](../storylines/ended/receiving-sanctuary.md) | [PR18](../sessions/PR18.md) | [PR20](../sessions/PR20.md) |
 | [Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md) | [PR20](../sessions/PR20.md) | [PR21](../sessions/PR21.md) |
 | [Nature's Battle 28](../storylines/ended/natures-battle-28.md) | [PR21](../sessions/PR21.md) | [PR26](../sessions/PR26.md) |
-| [Three Aasimar Converge](../storylines/three-aasimar-converge.md) | [PR25](../sessions/PR25.md) | |
+| [Three Aasimar Converge](../storylines/ended/three-aasimar-converge.md) | [PR25](../sessions/PR25.md) | [PR44](../sessions/PR44.md) |
 | [Syntenne Spies in Eskrigg](../storylines/ended/syntenne-spies-in-eskrigg.md) | [PR27](../sessions/PR27.md) | [PR27](../sessions/PR27.md) |
 | [Tyburn's Scrying Pool](../storylines/tyburns-scrying-pool.md) | [PR27](../sessions/PR27.md) | |
 | [Astral Squad Return to Goldreach](../storylines/astral-squad-return-to-goldreach.md) | [PR27](../sessions/PR27.md) | |

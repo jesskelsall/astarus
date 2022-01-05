@@ -7,7 +7,7 @@
 | **Title** | *An Audience with the General Supreme* |
 | **Players** | [Hannah](../players/hannah.md) ([Thanea Morlay](../characters/thanea-morlay.md)) |
 | **Guests** | |
-| **Storylines** | [Three Aasimar Converge](../storylines/three-aasimar-converge.md) |
+| **Storylines** | [Three Aasimar Converge](../storylines/ended/three-aasimar-converge.md) |
 
 ## Teleported Somewhere Unfamiliar
 

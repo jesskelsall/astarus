@@ -90,6 +90,24 @@ The party prepares to camp for the night before continuing further.
 
 *[End of session: day 8]*
 
+## [PR44](../sessions/PR44.md)
+
+The party makes camp for the night, using [Lucia Velpione](../characters/lucia-velpione.md)'s Tiny Hut for protection.
+
+During the night [Torbra Tauff](../characters/torbra-tauff.md) is startled by a [Meteoric Hunter](../creatures/meteoric-hunter.md) scratching its blade arm against the dome, clearly aware of people within. As the rest of the party wake up they compare its appearance to [Meteoric Watchers](../creatures/meteoric-watcher.md), noticing a difference. It is also clear that it can sense their presence by sound, despite the dome being opaque. The hunter teleports away, not seen again that night.
+
+On [Torbra Tauff](../characters/torbra-tauff.md)'s watch she sees a pair of glowing eyes in the distance from a [Meteoric Watcher](../creatures/meteoric-watcher.md), fixed in position. When she wakes the party they attempt to get a better view by throwing rocks under the effect of the Light cantrip at it, but can't throw them far enough. Everyone else goes back to sleep, clearly on edge but feeling safe within the dome.
+
+The eyes disappear and reappear on the opposite side, prompting her to wake the party again. With nothing practical to do about them, [Luna](../characters/lucia-velpione.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) return to bed, but [Thanea Morlay](../characters/thanea-morlay.md) stays up as her worries are preventing her from sleeping.
+
+Once again the eyes move, rapidly joined by more sets, until 60 sets of glowing eyes are staring back, the Meteoric Mind manipulating [meteoric dust](../items/meteoric/meteoric-dust.md) to get a reaction from the party. Torbra shouts everyone awake, bringing her terror to those sleeping. After panicked debate and battle preparations, [Luna](../characters/lucia-velpione.md) and Saoirse go back to sleep. The eyes remain for an hour until disappearing entirely an hour out from sunrise.
+
+In first light of the morning the party fail to spot three [Meteoric Hunters](../creatures/meteoric-hunter.md) lying in wait. As the party begin to debate where they're investigating next within the [Tresenda Pass](../places/roads/tresenda-pass.md), Tiny Hut ends and the hunters teleport into the midst of the party, blasting them with force magic.
+
+The ensuing battle sees heavy hits endured by the party with little damage to counter it, a sense of desperation setting in. [Lucia Velpione](../characters/lucia-velpione.md) shifts into her Swiftstride form for the first time. [Allisa Balsatra](../characters/allisa-balsatra.md) makes an appearance using Dimension Door, coming to the party's aid.
+
+*[End of session: day 9]*
+
 ## Planning
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).
