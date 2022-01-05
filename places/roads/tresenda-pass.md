@@ -21,3 +21,7 @@ The name "Tresenda Pass" can be used to both refer to the road and the valley th
 | Smells | Fresh air. |
 | People | Almost entirely devoid of travellers. [Astornox](../../organisations/astornox/astornox.md) if any. |
 | Intrigue | A picturesque travel route that is more dangerous than it looks. |
+
+## Places
+
+- [Upper Tresenda](../plains/upper-tresenda.md)
