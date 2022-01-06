@@ -108,6 +108,14 @@ The ensuing battle sees heavy hits endured by the party with little damage to co
 
 *[End of session: day 9]*
 
+## [PR45](../sessions/PR45.md)
+
+Following their battle with three [Meteoric Hunters](../creatures/meteoric-hunter.md), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) discuss various topics with [Allisa Balsatra](../characters/allisa-balsatra.md), including [the meteorics](../lineages/the-meteorics.md). It is clear that she doesn't know anything about them, at first wondering if they are merely native creatures to this land.
+
+As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/plains/upper-tresenda.md), one of its northern cliff faces that connects it to the [Foss Peaks](../places/mountains/foss-peaks.md) collapses. The Meteoric Mind's efforts to consume all natural matter in the area and turn it into [meteoric dust](../items/meteoric/meteoric-dust.md) causes part of the cliff face to give way, no longer strengthened by roots and dirt. This happens due to the loss of the [Meteoric Hunters](../creatures/meteoric-hunter.md), the Meteoric Mind feeling it necessary to expand the area it has consumed to replenish its stock of [meteoric dust](../items/meteoric/meteoric-dust.md) for combat to come.
+
+*[End of session: day 9]*
+
 ## Planning
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).

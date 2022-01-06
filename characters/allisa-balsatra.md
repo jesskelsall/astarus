@@ -69,6 +69,19 @@ Within the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-repub
 | **Ambitions** | Wishes to find another [aasimar](../lineages/aasimar.md) or at least confirm she is alone. |
 | **Dislikes** | War, unnecessary conflict. |
 
+### Elven Form
+
+Allisa takes this form using Disguise Self when wanting to present as a high elf, particularly amongst other elves who are uncomfortable with her full face helmet.
+
+| | |
+| --- | --- |
+| **Face** | Peach skin, green eyes. Soft feminine elven face, pointed features. | characteristics.2
+| **Hair** | Black shoulder length. |
+| **Body** | No change. |
+| **Clothes** | Delicate lilac dress, intricate patterns stitched with golden thread near wrists and hem. |
+| **Voice** | No change. |
+| **Mannerisms** | No change. |
+
 ## History
 
 ### Pre-Campaign

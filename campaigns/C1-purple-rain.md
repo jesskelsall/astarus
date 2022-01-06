@@ -88,7 +88,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR42](../sessions/PR42.md) | 2021-11-18 | *[Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md)* |
 | [PR43](../sessions/PR43.md) | 2021-11-24 | *Howling in the Pass* |
 | [PR44](../sessions/PR44.md) | 2021-12-01 | *The Night of Eyes* |
-| [PR45](../sessions/PR45.md) | 2021-12-08 | |
+| [PR45](../sessions/PR45.md) | 2021-12-08 | *The Third [Aasimar](../lineages/aasimar.md)* |
 ||
 | [PR46](../sessions/PR46.md) | 2021-01-05 |
 
