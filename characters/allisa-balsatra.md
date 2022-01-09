@@ -10,7 +10,7 @@
 | **Age** | 129 |
 | **Class** | Cleric (Light Domain) |
 | **Background** | Sage |
-| **Worship** | [Malnesh](../gods/deities/malnesh.md) |
+| **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | [Minsas](minsas.md) (deva)<br>[Levron Udrexe](levron-udrexe.md) (custodian) |
 | **Places** | |
 | **Citizenship** | [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) |
@@ -89,6 +89,8 @@ Allisa takes this form using Disguise Self when wanting to present as a high elf
 Allisa Balsatra was born into a common Syntenne family. At an early age her scourge [aasimar](../lineages/aasimar.md) abilities manifested, causing her eyes and mouth to radiate divine energy and burning heat. This made people keep their distance from her.
 
 Rumours of her quirks reached the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) government who took her in and placed her in a magical acceleration programme, educating her, including in how to control her magical abilities. All of this came naturally to her. The word "[aasimar](../lineages/aasimar.md)" was coined to describe her divine gifts, and she was bestowed with the title [Aasimar](../lineages/aasimar.md) of the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md).
+
+During this training she went through several custodians, each trying to impart the wisdom of [Malnesh](../gods/deities/malnesh.md) upon her. Allisa quietly resented it, not finding any solace in the teachings of the Judge Mother. Then her next mentor, [Levron Udrexe](levron-udrexe.md) taught her of [Valnos](../gods/deities/valnos.md), a god of [the Third Coming](../history/events/the-third-coming.md) not typically worshipped within the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md). Allisa found parallels between her [aasimar](../lineages/aasimar.md) situation and [Valnos](../gods/deities/valnos.md)' qualities, turning her into a believer, and Levron her friend. Levron gifted her a [Citrine Eye Necklace](../items/magic/citrine-eye-necklace.md), a magical focus supposedly imbued with divine power from [Valnos](../gods/deities/valnos.md) herself.
 
 The government were keen for her to take up a public role, grooming her for a leadership position. She was declared a gift from [Malnesh](../gods/deities/malnesh.md), a chosen child, though nobody really knew what she is.
 

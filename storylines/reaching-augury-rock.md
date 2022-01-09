@@ -25,6 +25,14 @@ Allisa is under no illusions that getting [Thanea Morlay](../characters/thanea-m
 
 Thanea expresses a desire to accompany Saoirse there, suggesting they may be able to get a mission that brings them closer to the desert so that they might have a chance. Thanea believes strongly that they will find answers there due to their shared dream.
 
+### [PR46](../sessions/PR46.md)
+
+While ascending the hill to [Upper Tresenda](../places/plains/upper-tresenda.md), [Allisa Balsatra](../characters/allisa-balsatra.md) tells [Torbra Tauff](../characters/torbra-tauff.md) that she would like to take [Thanea Morlay](../characters/thanea-morlay.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) to [Augury Rock](../places/structures/augury-rock.md) at some point in the future. Noting that Torbra is the [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md), Allisa asks if that would be okay, offering to get in touch with her when the time is right. Torbra gives her approval providing Torbra agrees and it does not disrupt their [Astorrel](../organisations/astorrel/astorrel.md) missions.
+
+Just before this, Allisa speaks with [Lucia Velpione](../characters/lucia-velpione.md), asking what she could do for her in exchange for her keeping the two [aasimar](../lineages/aasimar.md) safe. [Luna](../characters/lucia-velpione.md) asks for a magically enhanced rapier, knowing that such things exist. Allisa accepts, telling [Luna](../characters/lucia-velpione.md) that she could acquire such a thing with her Veritacris connections, and will provide her with it if the pair are kept safe and she doesn't cause them any trouble. [Luna](../characters/lucia-velpione.md) is dismissive of the notion of causing them trouble.
+
+Allisa also strikes a deal with [Torbra Tauff](../characters/torbra-tauff.md), offering to arrange a meeting between her and a group of earth genasi from the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md). Torbra asks about the nature of their group, Allisa explaining that they associate like a form of second family. Allisa isn't sure how she will go about making the meeting happen, but will endeavour to do so.
+
 ## Planning
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) will try and get the party to [Augury Rock](../places/structures/augury-rock.md). She could take them directly across the Kas'ran Desert, or teleport them there via a colleague, providing they are able to find or construct a teleportation circle to receive them from.

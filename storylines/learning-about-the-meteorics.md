@@ -118,3 +118,13 @@ Throughout their conversation the topic is touched on several times, until Allis
 Allisa makes it clear that she isn't aware of [the meteorics](../lineages/the-meteorics.md), suggesting that if they originate from her government, it's a part that doesn't share information with its spy network.
 
 [Thanea Morlay](../characters/thanea-morlay.md) makes the link between [the meteorics](../lineages/the-meteorics.md) and [aasimar](../lineages/aasimar.md), explaining that her deva [Seraphina](../characters/seraphina.md) brought her to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to find the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md). This gets Allisa invested too, stating her wish to help the party if they'll have her.
+
+### [PR46](../sessions/PR46.md)
+
+While scouting a hilltop overlooking both the [Tresenda Pass](../places/roads/tresenda-pass.md) and [Upper Tresenda](../places/plains/upper-tresenda.md), [Allisa Balsatra](../characters/allisa-balsatra.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) notice brown grass from distance, incorrectly perceiving the lack of foliage in the bowl valley.
+
+When [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) reach the crest of the hill that leads them into [Upper Tresenda](../places/plains/upper-tresenda.md), [Torbra Tauff](../characters/torbra-tauff.md) notices that the grass on the transition is cut cleanly, with dead growth around the cut mark. This shows the ferocity with which the [meteoric dust](../items/meteoric/meteoric-dust.md) controlled by the Meteoric Mind ripped the foliage in this area apart to create more dust.
+
+The party looks upon [Upper Tresenda](../places/plains/upper-tresenda.md) from the crest of the hill, seeing a lack of greenery across its entire 6 mile diameter. [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) observes a dead tree trunk from distance, the standing remains of a tree consumed for dust. The entire valley has a grey appearance due it being mostly stone and dirt.
+
+The Meteoric Mind has laid its trap for the party, fashioning [meteoric dust](../items/meteoric/meteoric-dust.md) into a [meteorite](../items/meteoric/meteorite.md), convincing [Torbra Tauff](../characters/torbra-tauff.md) that she has seen the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) in the crater pointed out to her by Allisa. Here the pair observe a [Meteoric Hunter](../creatures/meteoric-hunter.md), the sole guardian of the crater, lying in wait for the party to venture too close. It forms its purple glowing eyes, staring straight at Torbra.
