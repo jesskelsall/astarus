@@ -3,9 +3,9 @@
 |||
 | --- | --- |
 | **Name** | Upper Tresenda | place.4
-| **Type** | Plains |
-| **Location** | [Tresenda Pass](../roads/tresenda-pass.md) |
-| **Nearby Places** | [Foss Peaks](../mountains/foss-peaks.md) |
+| **Type** | Valley |
+| **Location** | [Western Astor](../regions/western-astor.md) |
+| **Nearby Places** | [Albulain Valley](albulain-valley.md)<br>[Foss Peaks](../mountains/foss-peaks.md)<br>[Tresenda Pass](../roads/tresenda-pass.md) |
 | **People** | |
 
 ## Summary

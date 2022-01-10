@@ -5,7 +5,7 @@
 | **Name** | Tresenda Pass | place.4
 | **Type** | Road |
 | **Location** | [Southern Astor](../regions/southern-astor.md) / [Western Astor](../regions/western-astor.md) |
-| **Nearby Places** | [Blittergate](../towns/blittergate.md)<br>[Filisur](../villages/filisur.md)<br>Fort Maloja<br>[Great Astor Road](great-astor-road.md)<br>[Hyceodd](../towns/hyceodd.md)<br>Neum Flats<br>Picdale<br>[Picdale Water](../rivers-lakes/picdale-water.md) |
+| **Nearby Places** | [Blittergate](../towns/blittergate.md)<br>[Filisur](../villages/filisur.md)<br>Fort Maloja<br>[Great Astor Road](great-astor-road.md)<br>[Hyceodd](../towns/hyceodd.md)<br>Neum Flats<br>Picdale<br>[Picdale Water](../rivers-lakes/picdale-water.md)<br>[Upper Tresenda](../plains-valleys/upper-tresenda.md) |
 | **People** | |
 
 ## Summary
@@ -21,7 +21,3 @@ The name "Tresenda Pass" can be used to both refer to the road and the valley th
 | Smells | Fresh air. |
 | People | Almost entirely devoid of travellers. [Astornox](../../organisations/astornox/astornox.md) if any. |
 | Intrigue | A picturesque travel route that is more dangerous than it looks. |
-
-## Places
-
-- [Upper Tresenda](../plains/upper-tresenda.md)

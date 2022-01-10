@@ -57,11 +57,11 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA13](../sessions/AA13.md) | 2021-09-04 | *Where is [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md)?* |
 | [AA14](../sessions/AA14.md) | 2021-09-18 | *Shadows and the Shady* |
 | [AA15](../sessions/AA15.md) | 2021-10-02 | *Wolf Valley* |
-| [AA16](../sessions/AA16.md) | 2021-10-30 | |
+| [AA16](../sessions/AA16.md) | 2021-10-30 | *Ephaine Comes Home* |
 | [AA17](../sessions/AA17.md) | 2021-12-04 | |
 | [AA18](../sessions/AA18.md) | 2022-01-08 | |
 ||
-| AA19 | 2022-01-22 | |
+| [AA19](../sessions/AA19.md) | 2022-01-22 | |
 
 ## Storylines
 

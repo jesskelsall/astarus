@@ -4,15 +4,15 @@
 | --- | --- |
 | **Name** | Filisur | place.4
 | **Type** | Village |
-| **Location** | [Western Astor](../regions/western-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md)<br>[Kardanis](../regions/kardanis.md) |
+| **Location** | [Albulain Valley](../plains-valleys/albulain-valley.md)<br>[Western Astor](../regions/western-astor.md)<br>[South East Kardan](../regions/south-east-kardan.md)<br>[Kardanis](../regions/kardanis.md) |
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 260 |
 | **Nearby Places** | Fort Maloja<br>[Tresenda Pass](../roads/tresenda-pass.md)<br>[Shrine to the Stars](../structures/shrine-to-the-stars.md) |
-| **People** | [Adalie Seren](../../characters/adalie-seren.md)<br>[Schaef Seren](../../characters/schaef-seren.md) |
+| **People** | |
 
 ## Summary
 
-Filisur is a small village nestled in the Albulain Valley, home to the [cepine](../../lineages/cepine.md) people.
+Filisur is a small village nestled in the [Albulain Valley](../plains-valleys/albulain-valley.md), home to the [cepine](../../lineages/cepine.md) people.
 
 It is the furthest north west settlement in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) and the penultimate stop along the [Tresenda Pass](../roads/tresenda-pass.md) roads before the Neum Flats, only separated by Fort Maloja.
 
@@ -20,7 +20,7 @@ The people of Filisur lead a simple shepherding life, raising sheep in the sprin
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Gentle bowl valley with green pastures and occasional trees, particularly to the east.<br>Valley slopes down to the lake on the west. Snow capped mountains to east, arid hills and mountains to the west.<br>Humble village nucleus of small shops and houses that supports the farming community. Cobbled stone and wooden homes with thatch roofs.<br>Surrounding area contains dotted shepherding farmsteads. No walls, the surrounding plans are common space for all the farmers to use.  |
+| Sights | Humble village nucleus of small shops and houses that supports the farming community. Cobbled stone and wooden homes with thatch roofs.<br>Surrounding area contains dotted shepherding farmsteads. No walls, the surrounding plans are common space for all the farmers to use.  |
 | Sounds | Sheep bleating, sheepdogs barking. Birds in the trees. |
 | Smells | Grass, flowers. |
 | People | [Cepine](../../lineages/cepine.md) shepherds and farmers. |

@@ -16,7 +16,7 @@ Devdaha Crypt is a secret dungeon-like crypt that runs underneath the [Shrine to
 
 One of the remaining sources of knowledge on [strigid](../../lineages/strigid.md), the crypt is guarded by various magical safeguards, requiring a startouched who has control of their Starry Form to even enter the crypt. It is overseen by [Deorvys](../../characters/deorvys.md) and their offspring [Fraevuth](../../characters/fraevuth.md).
 
-Created by the giants of [Astarus](../../planes/astarus.md) for the [strigid](../../lineages/strigid.md) in [Devdaha](../villages/devdaha.md) from the valley below, the crypt was originally used to bury startouched village elders. Following [the Third Coming](../../history/events/the-third-coming.md) and [the arrival](../../history/events/the-third-coming.md) of the [Cepine](../../lineages/cepine.md) to the Albulain valley, prominent [cepine](../../lineages/cepine.md) were buried in the unused first chamber of the crypt.
+Created by the giants of [Astarus](../../planes/astarus.md) for the [strigid](../../lineages/strigid.md) in [Devdaha](../villages/devdaha.md) from the valley below, the crypt was originally used to bury startouched village elders. Following [the Third Coming](../../history/events/the-third-coming.md) and [the arrival](../../history/events/the-third-coming.md) of the [Cepine](../../lineages/cepine.md) to the [Albulain valley](../plains-valleys/albulain-valley.md), prominent [cepine](../../lineages/cepine.md) were buried in the unused first chamber of the crypt.
 
 *This dungeon was designed for four 6th level characters.*
 
