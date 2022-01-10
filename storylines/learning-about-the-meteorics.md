@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [PR06](../sessions/PR06.md) | storyline.2
+| **Session Started** | [PR06](../sessions/PR06.md) / [AA15](../sessions/AA15.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -90,6 +90,14 @@ Torbra notices the dust coalescing near the corpse. She scoops up what she can i
 When reporting on the failure of their mission ([Investigate the Humar Meteorite Crater](ended/investigate-the-humar-meteorite-crater.md)), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) inform [Elysia Vanderboss](../characters/elysia-vanderboss.md) that before her death, [Wizira](../characters/wizira.md) was leading the party to the [Humar Meteorite Crater](../places/rivers-lakes/humar-meteorite-crater.md) using Locate Object while focusing on [meteoric dust](../items/meteoric/meteoric-dust.md). Together they agree that it is likely that the [meteorite](../items/meteoric/meteorite.md) is still at the bottom of the lake.
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s account of the giant crocodile raises questions about whether its size is to do with its proximity to the [meteorite](../items/meteoric/meteorite.md). [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Torbra Tauff](../characters/torbra-tauff.md) suggest that it may have grown attached to or ingested shards of the [Humar Meteorite](../items/meteoric/meteorites/humar-meteorite.md). Elysia suggests that it is unlike the [Meteoric Watchers](../creatures/meteoric-watcher.md) or the [Meteoric Humanoid](../creatures/meteoric-humanoid.md) due to its lack of an exterior [meteoric dust](../items/meteoric/meteoric-dust.md) appearance.
+
+### [AA15](../sessions/AA15.md)
+
+During their journey up through northern [Tresenda Pass](../places/roads/tresenda-pass.md), [Canary squad](../organisations/astorrel/squads/canary-squad.md) encounters a pack of wolves running away from an unknown foe during their travel by night. Initially expecting the wolves to attack them, they soon realise that they aren't interested in them.
+
+Two [Meteoric Hunters](../creatures/meteoric-hunter.md) give chase to the wolves, killing three before [Noon Schiller](../characters/noon-schiller.md) hits one with an Eldritch Blast. This prompts the hunters to target the party instead, running over before teleporting into melee range. The party gets an intimate view of their quadrupedal dark grey forms, extra blade arms, and strange sand-like makeup that can shift into a liquid or cloud to evade, reshape, and react to incoming damage. They are silent and vicious, attacking with coordinated strikes. [Ephaine Seren](../characters/ephaine-seren.md) realises their intelligence when one adapts to her Starry Form: Archer attack followed up by a more potent Guiding Bolt.
+
+[Ahsha Sallas](../characters/ahsha-sallas.md) learns that her [Schiller Steel](../items/schiller-steel.md) greataxe is able to circumvent the [meteoric dust](../items/meteoric/meteoric-dust.md)'s resistance to slashing damage, the magical blade striking for its full damage. The party is able to kill one, reducing it to a pile of [meteoric dust](../items/meteoric/meteoric-dust.md). The second gets away when it realises it is about to meet the same fate, teleporting into the darkness and running south to safety.
 
 ### [PR44](../sessions/PR44.md)
 

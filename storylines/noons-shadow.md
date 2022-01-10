@@ -32,3 +32,7 @@ Immediately following the defeat of the gnolls, [Nills](../characters/nills.md) 
 Noon explains that the shadow is part of her and always has been.
 
 The following night while camping by the road, Ahsha takes second watch. During it she asks Noon more about the shadow, wondering if it is always around them. Noon remains tight lipped, suggesting he doesn't know how the shadow came to be. It is clear to Ahsha that Noon doesn't like talking about the subject as he stiffens up when questioned.
+
+### [AA15](../sessions/AA15.md)
+
+When [Ahsha Sallas](../characters/ahsha-sallas.md) asks [Noon Schiller](../characters/noon-schiller.md) whether he even needs to sleep, Noon replies that he doesn't, explaining it as one of the benefits of having his shadow.

@@ -41,6 +41,8 @@ A rough description of the squad's members is provided by Bryce, read from a pap
 
 They leave [Northhaven](../places/cities/northhaven.md) west along the [Great Astor Road](../places/roads/great-astor-road.md). Late on their second day they find an overturned cart that was toppled by a griffon, still present and pinning down the couple riding in the cart. The party dismount and confront the griffon, fighting it and its two friends that appear when the first is provoked. Ahsha is able to rescue the couple from inside the collapsed cart.
 
+*[End of session: day 1]*
+
 ### [AA13](../sessions/AA13.md)
 
 After helping [Ulfric Sander](../characters/ulfric-sander.md) and [Selene Sander](../characters/selene-sander.md) out after the griffon attack on their cart, [Canary Squad](../organisations/astorrel/squads/canary-squad.md) continue west to [Hyceodd](../places/towns/hyceodd.md), arriving after another night on the road. They stable their horses and wagon for the night and stay at [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md).
@@ -61,6 +63,8 @@ During the ensuing fight Ephaine uses Starry Form: Archer and Guiding Bolt to bl
 
 After taking several arrows from the circling gnoll pack lord, [Noon Schiller](../characters/noon-schiller.md) calls upon [Nills](../characters/nills.md) with Summon Shadowspawn. [Nills](../characters/nills.md) arrives with a frightening scream that terrifies most of the gnolls and [Ahsha Sallas](../characters/ahsha-sallas.md). [Nills](../characters/nills.md) helps to defeat the pack lord. The gnolls are wiped out.
 
+*[End of session: day 3]*
+
 ### [AA14](../sessions/AA14.md)
 
 [Canary squad](../organisations/astorrel/squads/canary-squad.md) reaches [Blittergate](../places/towns/blittergate.md). They inquire at [the Courteous Cow](../places/buildings/inns-taverns/the-courteous-cow.md) about [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md), but [Beludar Plowbreaker](../characters/beludar-plowbreaker.md) has no information for them, suggesting they visit the [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md) for military specific queries.
@@ -74,3 +78,27 @@ When Ephaine gets bad vibes from [Bluefoot](../characters/bluefoot.md) looking h
 On the next day of travel the wagon is ambushed by two archers on horseback who attempt to kill them. The party is able to fend them off, though one of the archers kills the horse and unconscious archer still sat in the saddle, depriving the party of a precious riding horse as they flee. Shortly after they are blasted in half by [Ephaine Seren](../characters/ephaine-seren.md)'s Guiding Bolt. The party recover their riding horse and continue north.
 
 Entering the [Tresenda Pass](../places/roads/tresenda-pass.md) valley by sunset, Ephaine and [Noon Schiller](../characters/noon-schiller.md) spot a dire wolf howling on a hilltop before 30 to 50 more can be heard replying from deeper into the valley ahead.
+
+*[End of session: day 5]*
+
+### [AA15](../sessions/AA15.md)
+
+On the verge of entering the souther end of [Tresenda Pass](../places/roads/tresenda-pass.md), [Canary squad](../organisations/astorrel/squads/canary-squad.md) opts to camp for the night before proceeding. During the night the sound of large quantities of wolves howling in the valley beyond alerts them to the dangers ahead.
+
+The first day passes without incident, the party familiarising themselves with the geography and wildlife of the valley floor, following the trail. By night they camp at the base of an eastern hill, [Ephaine Seren](../characters/ephaine-seren.md) arranging the wagon defensively with the camp and the horses behind it.
+
+During the night a pack of wolves descends on the party, [Noon Schiller](../characters/noon-schiller.md) and [Yialdred Korina](../characters/yialdred-korina.md) not noticing them until it is too late. Before anyone has a chance to react, a draft horse and the newly acquired riding horse are savaged to death by the wolves. The party is able to scare off or kill the wolves using a variety of means.
+
+With Ahsha tired from staying up for over a day, the decision is made to sleep by day and travel by night. The party camps for the entire following day, resuming their journey with their last draft horse as the sun sets.
+
+The horse eventually tires, prompting the party to abandon the wagon. Ephaine loads up the horse with several bags of feed, leading it through the night as Ahsha tries to figure out the way forward. They camp again during the day, finding themselves further north as expected, but much further west than they realised.
+
+The following night the party hears a pack of nearby wolves break into howls suddenly, the close proximity sounds of growling, snarling, and the death scream of a dire wolf killed by a [Meteoric Hunter](../creatures/meteoric-hunter.md). It is becoming clear that there is a greater danger in the valley.
+
+Another pack of wolves approaches the party, the sound growing closer. As [Canary squad](../organisations/astorrel/squads/canary-squad.md) stands their ground and prepares for combat, the wolves pass by the party under the glow of a torch, running past them, seemingly uninterested. The party watches as two [Meteoric Hunters](../creatures/meteoric-hunter.md) chase down and kill several of the wolves. As the party attacks them, the hunters change their targets, intent on killing the party.
+
+The party soon learns the creatures' abilities and resistances, putting up a good fight against their blades and teleporting. [Ahsha Sallas](../characters/ahsha-sallas.md) uses her [Schiller Steel](../items/schiller-steel.md) greataxe to great effect, killing one of the hunters, turning it into a pile of [meteoric dust](../items/meteoric/meteoric-dust.md). The second flees before it can be killed.
+
+*[End of session: day 7]*
+
+NOTE: it's the night, about to become day 8.

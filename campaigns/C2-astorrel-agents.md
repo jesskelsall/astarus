@@ -59,8 +59,9 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA15](../sessions/AA15.md) | 2021-10-02 | *Wolf Valley* |
 | [AA16](../sessions/AA16.md) | 2021-10-30 | |
 | [AA17](../sessions/AA17.md) | 2021-12-04 | |
+| [AA18](../sessions/AA18.md) | 2022-01-08 | |
 ||
-| [AA18](../sessions/AA18.md) | |
+| AA19 | 2022-01-22 | |
 
 ## Storylines
 
@@ -84,3 +85,4 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md) | [AA13](../sessions/AA13.md) | |
 | [Noon's Shadow](../storylines/noons-shadow.md) | [AA13](../sessions/AA13.md) | |
 | [Ephaine's Missing Brother](../storylines/ephaines-missing-brother.md) | [AA14](../sessions/AA14.md) | |
+| [Learning About the Meteorics](../storylines/learning-about-the-meteorics.md) | [AA15](../sessions/AA15.md) | |

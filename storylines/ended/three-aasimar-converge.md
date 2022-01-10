@@ -115,6 +115,14 @@ The pair also wonder about their parents, as Saoirse doesn't know her father and
 
 Thanea suggests that Saoirse could write to her mother to ask for details of her father. This could give them clues that might answer questions they both have about their parents.
 
+### [AA15](../../sessions/AA15.md)
+
+While travelling by wagon through the [Tresenda Pass](../../places/roads/tresenda-pass.md), [Ahsha Sallas](../../characters/ahsha-sallas.md) is contacted by [Allisa Balsatra](../../characters/allisa-balsatra.md) via Sending. She berates Ahsha for interfering with her business, explaining that she has put [Thanea Morlay](../../characters/thanea-morlay.md) in great danger, alluding to the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) being cruel to those they perceive as too powerful.
+
+When Ahsha is unable to place the unknown voice in her head, Allisa accuses her of getting [Xavier Raloven](../../characters/xavier-raloven.md) killed by [Gwenhwyfar Carew](../../characters/gwenhwyfar-carew.md), showing knowledge of his ultimate fate at the other end of the Disintegrate spell.
+
+When Ahsha attempts to get the sourceless voice to explain who she is to dare invoke the name of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md), Allisa responds no further.
+
 ### [PR39](../../sessions/PR39.md)
 
 While in the back of the party's trade goods cart on the way to [Hyceodd](../../places/towns/hyceodd.md), [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) has Scrying cast on her by [Allisa Balsatra](../../characters/allisa-balsatra.md). Seeing her in the cart on the move, [Allisa Balsatra](../../characters/allisa-balsatra.md) casts Sending several times to converse with Saoirse.
