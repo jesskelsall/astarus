@@ -100,7 +100,7 @@ On [Torbra Tauff](../characters/torbra-tauff.md)'s watch she sees a pair of glow
 
 The eyes disappear and reappear on the opposite side, prompting her to wake the party again. With nothing practical to do about them, [Luna](../characters/lucia-velpione.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) return to bed, but [Thanea Morlay](../characters/thanea-morlay.md) stays up as her worries are preventing her from sleeping.
 
-Once again the eyes move, rapidly joined by more sets, until 60 sets of glowing eyes are staring back, the Meteoric Mind manipulating [meteoric dust](../items/meteoric/meteoric-dust.md) to get a reaction from the party. Torbra shouts everyone awake, bringing her terror to those sleeping. After panicked debate and battle preparations, [Luna](../characters/lucia-velpione.md) and Saoirse go back to sleep. The eyes remain for an hour until disappearing entirely an hour out from sunrise.
+Once again the eyes move, rapidly joined by more sets, until 60 sets of glowing eyes are staring back, the [Meteoric Mind](../creatures/meteoric-mind.md) manipulating [meteoric dust](../items/meteoric/meteoric-dust.md) to get a reaction from the party. Torbra shouts everyone awake, bringing her terror to those sleeping. After panicked debate and battle preparations, [Luna](../characters/lucia-velpione.md) and Saoirse go back to sleep. The eyes remain for an hour until disappearing entirely an hour out from sunrise.
 
 In first light of the morning the party fail to spot three [Meteoric Hunters](../creatures/meteoric-hunter.md) lying in wait. As the party begin to debate where they're investigating next within the [Tresenda Pass](../places/roads/tresenda-pass.md), Tiny Hut ends and the hunters teleport into the midst of the party, blasting them with force magic.
 
@@ -112,7 +112,7 @@ The ensuing battle sees heavy hits endured by the party with little damage to co
 
 Following their battle with three [Meteoric Hunters](../creatures/meteoric-hunter.md), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) discuss various topics with [Allisa Balsatra](../characters/allisa-balsatra.md), including [the meteorics](../lineages/the-meteorics.md). It is clear that she doesn't know anything about them, at first wondering if they are merely native creatures to this land.
 
-As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), one of its northern cliff faces that connects it to the [Foss Peaks](../places/mountains/foss-peaks.md) collapses. The Meteoric Mind's efforts to consume all natural matter in the area and turn it into [meteoric dust](../items/meteoric/meteoric-dust.md) causes part of the cliff face to give way, no longer strengthened by roots and dirt. This happens due to the loss of the [Meteoric Hunters](../creatures/meteoric-hunter.md), the Meteoric Mind feeling it necessary to expand the area it has consumed to replenish its stock of [meteoric dust](../items/meteoric/meteoric-dust.md) for combat to come.
+As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), one of its northern cliff faces that connects it to the [Foss Peaks](../places/mountains/foss-peaks.md) collapses. The [Meteoric Mind](../creatures/meteoric-mind.md)'s efforts to consume all natural matter in the area and turn it into [meteoric dust](../items/meteoric/meteoric-dust.md) causes part of the cliff face to give way, no longer strengthened by roots and dirt. This happens due to the loss of the [Meteoric Hunters](../creatures/meteoric-hunter.md), the [Meteoric Mind](../creatures/meteoric-mind.md) feeling it necessary to expand the area it has consumed to replenish its stock of [meteoric dust](../items/meteoric/meteoric-dust.md) for combat to come.
 
 *[End of session: day 9]*
 
@@ -120,7 +120,7 @@ As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/plain
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) offers to scout ahead for signs of the crashing noise that [Torbra Tauff](../characters/torbra-tauff.md) heard to their north east, explaining that she could transport herself and one other up to the top of the nearest hilltop. She picks [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) when no volunteer is forthcoming, casting Dimension Door.
 
-From the top the pair see [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), noting the brown grass where the slope from the [Tresenda Pass](../places/roads/tresenda-pass.md) valley floor crests at the edge of the bowl valley. Neither are able to tell that this is in fact a lack of grass, ripped away by the Meteoric Mind to convert into more [meteoric dust](../items/meteoric/meteoric-dust.md) for its needs.
+From the top the pair see [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), noting the brown grass where the slope from the [Tresenda Pass](../places/roads/tresenda-pass.md) valley floor crests at the edge of the bowl valley. Neither are able to tell that this is in fact a lack of grass, ripped away by the [Meteoric Mind](../creatures/meteoric-mind.md) to convert into more [meteoric dust](../items/meteoric/meteoric-dust.md) for its needs.
 
 Back with the party, the pair convince the rest of [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) that they should head into [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) and investigate. [Torbra Tauff](../characters/torbra-tauff.md) leads them up the hill, reaching its crest, a view of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) before them.
 
@@ -128,7 +128,7 @@ Here the party begin to notice the lack of wildlife or vegetation in the valley,
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) casts Clairvoyance to get a better view into the valley, noticing the [Tresenda meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) crater. She relays this to the party, causing Torbra to begin running down into the valley, intent on reaching it quickly despite the distance. When Allisa spots a [Meteoric Hunter](../creatures/meteoric-hunter.md), Saoirse tells Torbra to stop.
 
-Torbra spots what appears to be the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md), which is actually the Meteoric Mind giving the appearance of what it thinks the party will respond best to, laying its trap. She also spots the [Meteoric Hunter](../creatures/meteoric-hunter.md) as it crosses in front of the [meteorite](../items/meteoric/meteorite.md), revealing its glowing purple eyes, staring right at her.
+Torbra spots what appears to be the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md), which is actually the [Meteoric Mind](../creatures/meteoric-mind.md) giving the appearance of what it thinks the party will respond best to, laying its trap. She also spots the [Meteoric Hunter](../creatures/meteoric-hunter.md) as it crosses in front of the [meteorite](../items/meteoric/meteorite.md), revealing its glowing purple eyes, staring right at her.
 
 *[End of session: day 9]*
 

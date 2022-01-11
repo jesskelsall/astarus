@@ -3,15 +3,17 @@
 |||
 | --- | --- |
 | **Name** | [Meteoric Hunter*](https://www.dndbeyond.com/monsters/2037915-meteoric-hunter) |
+| **Type** | Construct |
 | **Size** | Medium |
-| **Type** | Construct / Beast |
+| **Alignment** | Neutral Evil |
+| **Combat Rating** | 3 |
 
 ## Description
 
-> A creature formed from [meteoric dust](../items/meteoric/meteoric-dust.md), originating from a [meteorite](../items/meteoric/meteorite.md) that crashed to the ground.
+> Meteoric Hunters are savage creatures made for only one purpose - killing. They excel at hunting down prey that can be used for its biomass, as well as curious people that have seen too much.
 >
-> The Meteoric Hunter has a silhouette resembling a slightly larger wolf, but with two extra front arms that come to sharp blade-like points. Spiny protrusions emerge from its head, back, and the back of its legs. Its head is smooth and comes to a point, not containing any eyes, mouth, or ears.
+> In combat Meteoric Hunters try to focus on the most dangerous threat they can perceive, racing towards the largest sound with a sudden burst of energy. They are blind but are fearless at trying to pin their foe down before cutting it deep with their two blade arms. And if that wasn't bad enough, they can momentarily disassemble the grains that comprise their body, dodging sword and magical bolt alike.
 >
-> Its body is made of a hard dark grey substance that it can shift, loosening the bonds between each particle to shift at a moment's notice. Otherwise it gives the impression of flesh and muscle anatomy in the way it is shaped and moves.
+> Similar to their smaller counterpart, the Meteoric Hunter, [Meteoric Watchers](meteoric-watcher.md) have a bipedal silhouette that resembles a wolf covered in spines across its back and along the back of its legs. Two extra limbs protrude from its shoulders, with elbow-like joints and blade shaped forearms. Their body appears to be made of muscle and bone, but is actually comprised of a hardened dark grey stony material that is hard to penetrate. Their head is featureless and triangular, coming to a point where a snout would be.
 >
-> Meteoric Hunters are guided by [Meteoric Watchers](meteoric-watcher.md), ruthlessly seeking their prey and ending their lives. They operate cautiously by day and brazenly by night, using their darkened form to pass quickly through the darkness. Blind, they rely on their extensive blindsight to follow and attack their prey.
+> Meteoric Hunters move with animalistic grace but can also reshape their body at will, becoming a flowing sand-like liquid that flows through the air, always settling back on a version of its original form.

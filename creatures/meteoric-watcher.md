@@ -3,13 +3,17 @@
 |||
 | --- | --- |
 | **Name** | [Meteoric Watcher*](https://www.dndbeyond.com/monsters/1220220-meteoric-watcher) |
+| **Type** | Construct |
 | **Size** | Medium |
-| **Type** | Construct / Beast |
+| **Alignment** | Lawful Evil |
+| **Combat Rating** | 1 |
 
 ## Description
 
-> A creature that has arrived to this world from a meteor, hatched from the egg-like sphere that fell from the sky.
+> Meteoric Watchers are scouts for [the meteorics](../lineages/the-meteorics.md), sent into new territories to observe and learn about the intelligent races they encounter. Their exceptional vision makes it hard for any detail to escape their gaze.
 >
-> The Meteoric Watcher is a strange creature to describe. Resembling a quadruped at first glance, it has two hind legs, two front blade-like arms, with two humanoid arms behind them. It is dark grey and resembles stone, but moves in a bizarre fashion, resembling a running dog one moment and a rotating construct the next. Its head has no features aside from its ears, and purple glowing eyes.
+> In combat Meteoric Watchers teleport to their prey, slashing them with their blade like arms before teleporting away. They are a nuisance that can be hard to pin down without careful planning. Their purple glowing eyes are also distracting to those fighting around them.
 >
-> Watchers tend to lurk in places devoid of life, only venturing out to learn what they can about other life and intelligent civilisation. They study those who attack them keenly, using hit and run tactics to inflict wounds before teleporting away.
+> With the silhouette of a wolf, Meteoric Watchers are no normal creature. Their quadrupedal frame has two extra limbs protruding from its shoulders, with elbow-like joints and blade shaped forearms. Their body appears to be made of muscle and bone, but is actually comprised of a hardened dark grey stony material that is hard to penetrate. Their heads are devoid of features except for round ear holes and piercing eyes that only appear when they open.
+>
+> Meteoric Watchers move with animalistic grace but can also contort and reconfigure their body as needed, underlying their non-organic nature.
