@@ -40,11 +40,11 @@ He was executed [Gwenhwyfar Carew](gwenhwyfar-carew.md) after being captured by 
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Paladin | d10 | 10 |
-| 2 | - | Paladin | d10 | 2 |
-| 3 | - | Paladin | d10 | 5 |
-| 4 | - | Paladin | d10 | 10 |
-| 5 | - | Paladin | d10 | 8 |
+| 1 || Paladin | d10 | 10 |
+| 2 || Paladin | d10 | 2 |
+| 3 || Paladin | d10 | 5 |
+| 4 || Paladin | d10 | 10 |
+| 5 || Paladin | d10 | 8 |
 
 ## Characteristics
 

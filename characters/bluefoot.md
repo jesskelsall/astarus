@@ -38,12 +38,12 @@ Bluefoot is a [Hawkswood](../places/forests/hawkswood.md) firbolg that has falle
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Druid | d8 | 8 |
-| 2 | - | Druid | d8 | 5 |
-| 3 | - | Druid | d8 | 8 |
-| 4 | - | Druid | d8 | 5 |
-| 5 | - | Druid | d8 | 8 |
-| 6 | - | Druid | d8 | 4 |
+| 1 || Druid | d8 | 8 |
+| 2 || Druid | d8 | 5 |
+| 3 || Druid | d8 | 8 |
+| 4 || Druid | d8 | 5 |
+| 5 || Druid | d8 | 8 |
+| 6 || Druid | d8 | 4 |
 
 ## Characteristics
 

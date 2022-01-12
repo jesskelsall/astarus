@@ -40,7 +40,7 @@ TODO
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Warlock | d8 | 8 |
+| 1 || Warlock | d8 | 8 |
 | 2 | [PR03](../sessions/PR03.md) | Warlock | d8 | 6 |
 | 3 | [PR09](../sessions/PR09.md) | Warlock | d8 | 5 |
 | 4 | [PR19](../sessions/PR19.md) | Warlock | d8 | 3 |

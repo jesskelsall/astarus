@@ -34,8 +34,8 @@ Turnuroth Nakris is a member of [Familia Vulpes](../organisations/familia-vulpes
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Fighter | d10 | 10 |
-| 2 | - | Fighter | d10 | 7 |
+| 1 || Fighter | d10 | 10 |
+| 2 || Fighter | d10 | 7 |
 
 ## Characteristics
 

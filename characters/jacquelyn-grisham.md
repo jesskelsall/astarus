@@ -34,8 +34,8 @@ Jacquelyn Grisham is a member of [Familia Vulpes](../organisations/familia-vulpe
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Rogue | d8 | 8 |
-| 2 | - | Rogue | d8 | 6 |
+| 1 || Rogue | d8 | 8 |
+| 2 || Rogue | d8 | 6 |
 
 ## Characteristics
 

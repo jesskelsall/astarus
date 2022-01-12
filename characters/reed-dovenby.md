@@ -40,10 +40,10 @@ When [Juniper Squad](../organisations/astorrel/squads/juniper-squad.md) has time
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Sorcerer | d6 | 6 |
-| 2 | - | Sorcerer | d6 | 5 |
-| 3 | - | Sorcerer | d6 | 5 |
-| 4 | - | Sorcerer | d6 | 2 |
+| 1 || Sorcerer | d6 | 6 |
+| 2 || Sorcerer | d6 | 5 |
+| 3 || Sorcerer | d6 | 5 |
+| 4 || Sorcerer | d6 | 2 |
 
 ## Characteristics
 

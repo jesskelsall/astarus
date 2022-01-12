@@ -36,8 +36,8 @@ Her surname is pronounced *kal-ig-a-vo-ne*.
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Druid | d8 | 8 |
-| 2 | - | Druid | d8 | 6 |
+| 1 || Druid | d8 | 8 |
+| 2 || Druid | d8 | 6 |
 
 ## History
 

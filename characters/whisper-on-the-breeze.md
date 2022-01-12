@@ -41,10 +41,10 @@ Whisper on the Breeze is a former player character in the [Astorrel Agents](../c
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Rogue | d8 | 8 |
-| 2 | - | Rogue | d8 | 5 |
-| 3 | - | Rogue | d8 | 7 |
-| 4 | - | Rogue | d8 | 6 |
+| 1 || Rogue | d8 | 8 |
+| 2 || Rogue | d8 | 5 |
+| 3 || Rogue | d8 | 7 |
+| 4 || Rogue | d8 | 6 |
 
 ## History
 

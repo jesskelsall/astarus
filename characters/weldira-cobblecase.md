@@ -38,11 +38,11 @@ Weldira Cobblecase is a scheming, slightly unhinged [Astornox Magicborn Hunter](
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Rogue | d8 | 8 |
-| 2 | - | Rogue | d8 | 3 |
-| 3 | - | Rogue | d8 | 2 |
-| 4 | - | Rogue | d8 | 3 |
-| 5 | - | Rogue | d8 | 6 |
+| 1 || Rogue | d8 | 8 |
+| 2 || Rogue | d8 | 3 |
+| 3 || Rogue | d8 | 2 |
+| 4 || Rogue | d8 | 3 |
+| 5 || Rogue | d8 | 6 |
 
 ## Characteristics
 

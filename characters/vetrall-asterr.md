@@ -34,10 +34,10 @@ Vētrall Astérr is a player character in the [Memories of Chausain](../campaign
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Bard | d8 | 8 |
-| 2 | - | Bard | d8 | 8 |
-| 3 | - | Bard | d8 | 5 |
-| 4 | - | Bard | d8 | 8 |
+| 1 || Bard | d8 | 8 |
+| 2 || Bard | d8 | 8 |
+| 3 || Bard | d8 | 5 |
+| 4 || Bard | d8 | 8 |
 
 ## Mixed Lineage
 

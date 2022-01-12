@@ -34,12 +34,12 @@ TODO
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Warlock | d8 | 8 |
-| 2 | - | Warlock | d8 | 6 |
-| 3 | - | Warlock | d8 | 6 |
-| 4 | - | Warlock | d8 | 5 |
-| 5 | - | Warlock | d8 | 4 |
-| 6 | - | Warlock | d8 | 4 |
+| 1 || Warlock | d8 | 8 |
+| 2 || Warlock | d8 | 6 |
+| 3 || Warlock | d8 | 6 |
+| 4 || Warlock | d8 | 5 |
+| 5 || Warlock | d8 | 4 |
+| 6 || Warlock | d8 | 4 |
 
 ## Characteristics
 

@@ -43,14 +43,14 @@ Within the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-repub
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Cleric | d8 | 8 |
-| 2 | - | Cleric | d8 | 5 |
-| 3 | - | Cleric | d8 | 8 |
-| 4 | - | Cleric | d8 | 4 |
-| 5 | - | Cleric | d8 | 2 |
-| 6 | - | Cleric | d8 | 7 |
-| 7 | - | Cleric | d8 | 5 |
-| 8 | - | Cleric | d8 | 5 |
+| 1 || Cleric | d8 | 8 |
+| 2 || Cleric | d8 | 5 |
+| 3 || Cleric | d8 | 8 |
+| 4 || Cleric | d8 | 4 |
+| 5 || Cleric | d8 | 2 |
+| 6 || Cleric | d8 | 7 |
+| 7 || Cleric | d8 | 5 |
+| 8 || Cleric | d8 | 5 |
 
 ## Characteristics
 

@@ -40,10 +40,10 @@ Redwyn Humpledopper is a former player character in the [Astorrel Agents](../cam
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Bard | d8 | 8 |
-| 2 | - | Bard | d8 | 6 |
-| 3 | - | Bard | d8 | 6 |
-| 4 | - | Bard | d8 | 7 |
+| 1 || Bard | d8 | 8 |
+| 2 || Bard | d8 | 6 |
+| 3 || Bard | d8 | 6 |
+| 4 || Bard | d8 | 7 |
 
 ## History
 

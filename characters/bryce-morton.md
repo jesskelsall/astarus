@@ -40,11 +40,11 @@ He is a straightforward person with a military personality. He stands to attenti
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Fighter | d10 | 10 |
-| 2 | - | Fighter | d10 | 5 |
-| 3 | - | Fighter | d10 | 7 |
-| 4 | - | Fighter | d10 | 9 |
-| 5 | - | Fighter | d10 | 2 |
+| 1 || Fighter | d10 | 10 |
+| 2 || Fighter | d10 | 5 |
+| 3 || Fighter | d10 | 7 |
+| 4 || Fighter | d10 | 9 |
+| 5 || Fighter | d10 | 2 |
 
 ## Characteristics
 

@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Meteoric Dust | item.2
-| **Weight** | - |
+| **Weight** ||
 | **Notes** | Meteoric |
 
 ## Description

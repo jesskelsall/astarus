@@ -36,8 +36,8 @@ He is willing to risk life and limb to help others, trusting in his divine power
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Cleric | d8 | 8 |
-| 2 | - | Cleric | d8 | 4 |
+| 1 || Cleric | d8 | 8 |
+| 2 || Cleric | d8 | 4 |
 
 ## Characteristics
 

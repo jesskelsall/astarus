@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Kavallos Fleet Coin | item.2
-| **Weight** | - |
+| **Weight** ||
 | **Notes** | [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) |
 
 ## Description

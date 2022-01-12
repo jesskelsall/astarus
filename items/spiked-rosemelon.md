@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Spiked Rosemelon | item.3
-| **Weight** | - |
+| **Weight** ||
 | **Notes** | Plant |
 | **Item Card(s)** | [MC02-I-4](../cards/MC02-I-4.md) |
 

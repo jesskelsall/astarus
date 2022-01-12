@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Coin of Friendship | item.3
-| **Weight** | - |
+| **Weight** ||
 | **Notes** | [Familia Vulpes](../organisations/familia-vulpes.md) |
 | **Item Card(s)** | [MC01F-I-2](../cards/MC01F-I-2.md) |
 

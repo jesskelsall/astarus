@@ -42,11 +42,11 @@ Lucia Velpione is a player character in the [Purple Rain](../campaigns/C1-purple
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Bard | d8 | 8 |
-| 2 | - | Bard | d8 | 6 |
-| 3 | - | Bard | d8 | 4 |
-| 4 | - | Bard | d8 | 3 |
-| 5 | - | Bard | d8 | 7 |
+| 1 || Bard | d8 | 8 |
+| 2 || Bard | d8 | 6 |
+| 3 || Bard | d8 | 4 |
+| 4 || Bard | d8 | 3 |
+| 5 || Bard | d8 | 7 |
 
 ## Mixed Lineage
 

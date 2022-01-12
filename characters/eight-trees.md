@@ -35,7 +35,7 @@ Eight Trees is a member of [Familia Vulpes](../organisations/familia-vulpes.md).
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Monk | d8 | 8 |
+| 1 || Monk | d8 | 8 |
 
 ## Characteristics
 

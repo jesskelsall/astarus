@@ -37,12 +37,12 @@ She is allied with [Creek](creek.md), willing to help him with his business outs
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Sorcerer | d6 | 6 |
-| 2 | - | Sorcerer | d6 | 6 |
-| 3 | - | Sorcerer | d6 | 5 |
-| 4 | - | Sorcerer | d6 | 2 |
-| 5 | - | Sorcerer | d6 | 6 |
-| 6 | - | Sorcerer | d6 | 2 |
+| 1 || Sorcerer | d6 | 6 |
+| 2 || Sorcerer | d6 | 6 |
+| 3 || Sorcerer | d6 | 5 |
+| 4 || Sorcerer | d6 | 2 |
+| 5 || Sorcerer | d6 | 6 |
+| 6 || Sorcerer | d6 | 2 |
 
 ## Characteristics
 

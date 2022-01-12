@@ -41,7 +41,7 @@ TODO
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Fighter | d10 | 10 |
+| 1 || Fighter | d10 | 10 |
 | 2 | [PR03](../sessions/PR03.md) | Fighter | d10 | 9 |
 | 3 | [PR09](../sessions/PR09.md) | Fighter | d10 | 5 |
 | 4 | [PR19](../sessions/PR19.md) | Fighter | d10 | 9 |

@@ -34,8 +34,8 @@ Keranios is a player character in the [Memories of Chausain](../campaigns/C3-mem
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Fighter | d10 | 10 |
-| 2 | - | Fighter | d10 | 8 |
+| 1 || Fighter | d10 | 10 |
+| 2 || Fighter | d10 | 8 |
 
 ## History
 

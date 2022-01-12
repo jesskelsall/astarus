@@ -36,11 +36,11 @@ Typically she hides her face and tail under layers of fabric to hide her leonin 
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
-| 1 | - | Barbarian | d12 | 12 |
-| 2 | - | Barbarian | d12 | 2 |
-| 3 | - | Barbarian | d12 | 10 |
-| 4 | - | Barbarian | d12 | 4 |
-| 5 | - | Barbarian | d12 | 6 |
+| 1 || Barbarian | d12 | 12 |
+| 2 || Barbarian | d12 | 2 |
+| 3 || Barbarian | d12 | 10 |
+| 4 || Barbarian | d12 | 4 |
+| 5 || Barbarian | d12 | 6 |
 
 ## Characteristics
 
