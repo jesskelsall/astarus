@@ -4,53 +4,6 @@
 
 |||
 | --- | --- |
-| **Name** | Elrick Loweswater | character.3
-| **Lineage** | Halfling |
-| **Pronouns** | he/him |
-| **Age** | 28 |
-| **Class** | Druid |
-| **Worship** | |
-| **Relations** | [Cherish Loweswater](cherish-loweswater.md) (wife) |
-| **Places** | |
-|||
-| **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / Frontier / [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) |
-| **Commanding Officer** | [Taza Finetrick](taza-finetrick.md) |
-| **Subordinates** | |
-|||
-| **Image ID** | `234b3c748acf94f2` |
-
-## Summary
-
-TODO
-
-## Characteristics
-
-| | |
-| --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
-| | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
-
----
-
-# Character Template
-
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/234b3c748acf94f2.png" height="500" />
-
-|||
-| --- | --- |
 | **Name** | Elrick Loweswater | character.4
 | **Lineage** | Halfling |
 | **Pronouns** | he/him |
@@ -67,7 +20,7 @@ TODO
 
 ## Summary
 
-TODO
+Elrick Loweswater is a nomadic druid with little appreciation of others except for his wife, [Cherish Loweswater](cherish-loweswater.md). He is deaf, using sign language or writing to communicate with others. Within the [Astorrel](../organisations/astorrel/astorrel.md) he is known as a gifted user of Wild Shape.
 
 ## Military Record
 
@@ -81,32 +34,32 @@ TODO
 
 | [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [4d6 Lenient Method](../mechanics/ability-score-method/4d6-lenient-method.md) | 18 | 15 | 13 | 11 | 11 | 4 | 72 | 
 
 ### Hit Points
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
+| 1 || Druid | d8 | 8 |
+| 2 || Druid | d8 | 8 |
+| 3 || Druid | d8 | 6 |
+| 4 || Druid | d8 | 5 |
+| 5 || Druid | d8 | 3 |
+| 6 || Druid | d8 | 6 |
 
 ## Characteristics
 
-- 3'2"
-- Dark skin, brown eyes, short light brown hair.
-- Druid	Hemp dress, wooden staff.
-- Quiet and reserved.
-- In animal form often.
-- Deaf.
-
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
+| **Face** | Dark skin, brown eyes. Scarred cheeks, big nose ridge. | characteristics.2
+| **Hair** | Dirty blonde, short and unkempt. Medium sized beard. |
+| **Body** | 3'2" / 96cm, lean. |
+| **Clothes** | Drab off-white hemp robes, roughly stitched. Tied at waist with leather strip. Leather and wooden sandals. Purpleheart wooden staff with autumn leaves and blueberries tied at its end. |
+| **Voice** | None - never learned to talk. |
+| **Mannerisms** | Moves in animalistic ways. Struggles to walk after leaving his Wild Shape. |
 | | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
+| **Quirks** | Always keeps a stern look trained on others. |
+| **Knowledge** | Nature, animals, Wild Shape. |
+| **Values** | The natural balance, [Cherish Loweswater](cherish-loweswater.md)'s companionship. |
+| **Ambitions** | Wants to return to a simple life in the hills. |
+| **Dislikes** | Urban settings, strangers, expectations. |
