@@ -607,5 +607,14 @@
     "zemblelimble",
     "Zolné",
     "zossa"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#00B8D4",
+    "statusBar.foreground": "#000",
+    "statusBarItem.activeBackground": "#18FFFF",
+    "statusBarItem.hoverBackground": "#00E5FF",
+    "titleBar.activeBackground": "#00E5FF",
+    "titleBar.inactiveBackground": "#00B8D4",
+    "titleBar.activeForeground": "#000",
+  }
 }
