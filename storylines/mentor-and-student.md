@@ -15,7 +15,7 @@ When [Valan Shadowgaze](../characters/valan-shadowgaze.md) accepts an invite to 
 
 When [Valan Shadowgaze](../characters/valan-shadowgaze.md) accepts an offer to join [Familia Vulpes](../organisations/familia-vulpes.md), they are introduced that same day to [Vētrall Astérr](../characters/vetrall-asterr.md), their mentor. Vētrall was informed by [Hanz Peacemaker](../characters/hanz-peacemaker.md) that the adventuring guild had thought them experienced and respected enough to take a student under their wing, though they felt like a bad fit for the job.
 
-Introduced by [Aneni Veomelo](../characters/aneni-veomelo.md), the Mother of the House provided them with a mission to kill a brown bear that had once again injured a miner in [Trubska](../places/villages/trubska.md). On completion Vētrall would receive a [Coin of Friendship](../items/coin-of-friendship.md) to give to another, and Valan would receive their [Coin of Family](../items/coin-of-family.md).
+Introduced by [Aneni Veomelo](../characters/aneni-veomelo.md), the Mother of the House provided them with a mission to kill a brown bear that had once again injured a miner in [Trubska](../places/villages/trubska.md). On completion Vētrall would receive a [Coin of Friendship](../items/coins/coin-of-friendship.md) to give to another, and Valan would receive their [Coin of Family](../items/coins/coin-of-family.md).
 
 The pair agreed, heading to [Trubska](../places/villages/trubska.md). Along the way they sized each other up, noting their unusual racial characteristics. A surprise encounter with poisonous snakes on the road humbled Valan's combat abilities.
 

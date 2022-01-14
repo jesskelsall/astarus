@@ -24,3 +24,13 @@ While in [Blittergate](../places/towns/blittergate.md), [Starfall squad](../orga
 Weldira and [Bluefoot](../characters/bluefoot.md) discuss amongst themselves Ephaine, her name coming as a revelation. [Bluefoot](../characters/bluefoot.md) tells Weldira "younger sister", having learned about her from [Tamman Seren](../characters/tamman-seren.md) directly.
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) doesn't understand the context of their discussion and they don't ask.
+
+### [AA16](../sessions/AA16.md)
+
+When [Canary squad](../organisations/astorrel/squads/canary-squad.md) arrive in the [Albulain Valley](../places/plains-valleys/albulain-valley.md) in search of [Kiln squad](../organisations/astorrel/squads/kiln-squad.md), [Ephaine Seren](../characters/ephaine-seren.md) leads them to the [Seren Farmstead](../places/buildings/houses/seren-farmstead.md), keen to reunite with her family and secure the party somewhere safe to stay while in the area.
+
+She meets her father, [Schaef Seren](../characters/schaef-seren.md) who is ecstatic to see her again and keen to meet her strange & gifted colleagues. When Ephaine asks if everyone else is okay, Schaef explains that [Tamman Seren](../characters/tamman-seren.md) isn't here any more. Ephaine fears the worst but Schaef assures her that he isn't dead, though he did leave home suddenly. Ephaine chalks it up to wanting to strike out on his own, a coming of age moment. Schaef explains that [Besar Seren](../characters/besar-seren.md) and [Irla Seren](../characters/irla-seren.md) are here and safe, as is her mother, [Adalie Seren](../characters/adalie-seren.md).
+
+Adalie is cold to both Ephaine and the party, still unhappy with the punishments Schaef endured after Ephaine left, and an increased disdain for the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) military in any form. She voices her upset that Ephaine wears an [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) military badge, telling her that a badge is badge, even if she's not [Astornox](../organisations/astornox/astornox.md). Ephaine defends her actions, telling her that she had no choice in order to survive as a [magicborn](../civilisations/kingdom-of-astor/magicborn.md) running from the [Astornox](../organisations/astornox/astornox.md).
+
+Ephaine learns that Tamman only left recently and without warning, having been instrumental in restoring the flock before that.

@@ -101,4 +101,16 @@ The party soon learns the creatures' abilities and resistances, putting up a goo
 
 *[End of session: day 7]*
 
-NOTE: it's the night, about to become day 8.
+### [AA16](../sessions/AA16.md)
+
+[Canary squad](../organisations/astorrel/squads/canary-squad.md) beds down for the night at the northern extent of the [Tresenda Pass](../places/roads/tresenda-pass.md). Wolves can be heard in the night to the far south, signalling that they have left their territory.
+
+By morning the party makes their way through the narrow part of the valley to the north, eventually emerging to views of the [Albulain Valley](../places/plains-valleys/albulain-valley.md) before them, home to [Filisur](../places/villages/filisur.md), [Ephaine Seren](../characters/ephaine-seren.md)'s home village. She leads the party to the [Seren Farmstead](../places/buildings/houses/seren-farmstead.md) over the next few hours, looking to return home at last and in search of somewhere for the party to stay overnight.
+
+Here they meet the Seren family. [Schaef Seren](../characters/schaef-seren.md) is happy to see Ephaine and to meet the exceptional party members, particularly [Ahsha Sallas](../characters/ahsha-sallas.md) and [Yialdred Korina](../characters/yialdred-korina.md). [Adalie Seren](../characters/adalie-seren.md) is happy to see her daughter again but angry that she has joined the [Astorrel](../organisations/astorrel/astorrel.md) and has brought other members of the military into her home. The party are treated to Ephaine's family's country hospitality over the afternoon and into the evening, being served dinner.
+
+Ahsha asks Schaef if any other military personnel have passed through the area recently. He recalls the [Astornox](../organisations/astornox/astornox.md) army heading south from Fort Maloja for the winter, and some [Astorrel](../organisations/astorrel/astorrel.md) passing through before that. Ephaine asks if they passed through around a month and a half ago, Schaef suggesting that this matches his memory. He didn't meet them himself, but recalls them passing through the middle of the village, suggesting they asks someone there for more information.
+
+As Schaef encourages Ephaine to visit the [Shrine to the Stars](../places/structures/shrine-to-the-stars.md) and the party do so after night falls, [Canary squad](../organisations/astorrel/squads/canary-squad.md) enter the [Devdaha Crypt](../places/dungeons/devdaha-crypt.md), keeping them away from their [Astorrel](../organisations/astorrel/astorrel.md) mission for a time.
+
+*[End of session: day 8]*

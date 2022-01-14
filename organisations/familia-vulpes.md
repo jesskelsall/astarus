@@ -56,7 +56,7 @@ A senior role given to a masculine member, the Father of the Door guards the ent
 
 From a ceremonial standpoint, the Father of the Door opens and closes the door when members come and go. Light conversation keeps them in the loop with the state of the organisation and its members.
 
-They are tasked with ensuring that only members of Familia Vulpes are admitted inside. This is done by checking for a [Coin of Family](../items/coin-of-family.md), though recognising a familiar face is usually enough. This duty extends to welcoming new recruits who show up with a [Coin of Friendship](../items/coin-of-friendship.md), loudly announcing them through the open door to those inside the building:
+They are tasked with ensuring that only members of Familia Vulpes are admitted inside. This is done by checking for a [Coin of Family](../items/coins/coin-of-family.md), though recognising a familiar face is usually enough. This duty extends to welcoming new recruits who show up with a [Coin of Friendship](../items/coins/coin-of-friendship.md), loudly announcing them through the open door to those inside the building:
 
 > Joining us today, please welcome to the family {name}!
 
@@ -82,13 +82,13 @@ Familia Vulpes members are members for life. They are always welcome to return t
 
 It is not uncommon for retired members to offer their assistance in running [The Fox Hole](../places/buildings/the-fox-hole.md) as a chef or other staff. The roles of Father of the Door and Mother of the House are only given to retired members.
 
-Members are identified by their [Coin of Family](../items/coin-of-family.md), given to them upon their joining. This gets them into [The Fox Hole](../places/buildings/the-fox-hole.md) and proves to others who they are. Often flashing their coin is enough to convince guards of their membership.
+Members are identified by their [Coin of Family](../items/coins/coin-of-family.md), given to them upon their joining. This gets them into [The Fox Hole](../places/buildings/the-fox-hole.md) and proves to others who they are. Often flashing their coin is enough to convince guards of their membership.
 
 ### Joining
 
-Members in good standing with Familia Vulpes and/or those that have been a member for some time are given a [Coin of Friendship](../items/coin-of-friendship.md). This is presented to a potential recruit as an invite to join. Members with one of these coins are encouraged to use it when they find someone of adventuring skill and good moral character.
+Members in good standing with Familia Vulpes and/or those that have been a member for some time are given a [Coin of Friendship](../items/coins/coin-of-friendship.md). This is presented to a potential recruit as an invite to join. Members with one of these coins are encouraged to use it when they find someone of adventuring skill and good moral character.
 
-Those given a [Coin of Friendship](../items/coin-of-friendship.md) accept the offer by travelling to [The Fox Hole](../places/buildings/the-fox-hole.md) and giving it to the Father of the Door. They are accepted without question. Once inside the Mother of the House sets them up with a mentor who shows them the ropes of life as a Familia Vulpes member. This is usually followed by the member being given their own [Coin of Family](../items/coin-of-family.md).
+Those given a [Coin of Friendship](../items/coins/coin-of-friendship.md) accept the offer by travelling to [The Fox Hole](../places/buildings/the-fox-hole.md) and giving it to the Father of the Door. They are accepted without question. Once inside the Mother of the House sets them up with a mentor who shows them the ropes of life as a Familia Vulpes member. This is usually followed by the member being given their own [Coin of Family](../items/coins/coin-of-family.md).
 
 ## Members
 

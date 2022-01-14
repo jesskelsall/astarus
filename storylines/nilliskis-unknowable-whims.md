@@ -98,3 +98,27 @@ While riding into the bottom of the [Tresenda Pass](../places/roads/tresenda-pas
 
 *[Nills](../characters/nills.md):*
 > Not yet brother, not yet.
+
+### [AA16](../sessions/AA16.md)
+
+When [Canary Squad](../organisations/astorrel/squads/canary-squad.md) arrives in the [Albulain Valley](../places/plains-valleys/albulain-valley.md) in search of [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md), [Ephaine Seren](../characters/ephaine-seren.md) leads them towards the Schaef Farmstead, using her knowledge of her home village to guide them. [Nills](../characters/nills.md) can be seen to [Noon Schiller](../characters/noon-schiller.md), walking alongside Ephaine for around an hour, exploring the area with her.
+
+That evening the party head up to the Shine to the Stars, led once again by Ephaine, at the suggestion of [Schaef Seren](../characters/schaef-seren.md). Once there they look upon the ancient standing stones, curiously trying to figure out their nature while Ephaine rediscovers this place of power that she was once familiar with.
+
+[Nills](../characters/nills.md) can be seen investigating herself, respectfully observing each stone without touching it, slowly pacing around the area. When Ephaine asks the party to stand back while she tries something, [Nills](../characters/nills.md) moves close to her side, wanting to get the best view possible of whatever happens next.
+
+As Ephaine looks up and views the archer constellation, something arcane changes around the shrine. [Nills](../characters/nills.md) voices her lack of knowledge to Noon:
+
+*[Nills](../characters/nills.md):*
+> What was that?
+
+*[Noon Schiller](../characters/noon-schiller.md):*
+> Aren't you supposed to be the one to know these things?
+
+*[Nills](../characters/nills.md):*
+> Yes [Brother Light](../characters/noon-schiller.md), but there are limits to even my knowledge. When I come across those limits, I look for answers.
+
+*[Noon Schiller](../characters/noon-schiller.md):*
+> I can think of no better way to react.
+
+When Ephaine activates Starry Form: Archer to activate the shrine, [Nills](../characters/nills.md) stays close to her, wanting to get the best view possible. Noon follows [Nills](../characters/nills.md)' lead until Ephaine begins glowing, stepping back to let the magic at play work without disturbance.

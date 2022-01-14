@@ -30,7 +30,7 @@
 > Now for some good news!  
 > The family want you to take a new member under your wing and train them in our ways.
 >
-> As part of this they'd like to give you a [Coin of Friendship](../items/coin-of-friendship.md) so that you can recruit anyone you choose into the family.
+> As part of this they'd like to give you a [Coin of Friendship](../items/coins/coin-of-friendship.md) so that you can recruit anyone you choose into the family.
 >
 > I know it's taken a while to earn everyone's trust, but you're now on your way. You have more friends here than I think even you realise!
 >

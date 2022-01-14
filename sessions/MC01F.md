@@ -17,7 +17,7 @@ Vētrall begins making their way back to [Trest](../places/towns/trest.md).
 
 ## Accepting the Offer
 
-Around mid-morning [Valan Shadowgaze](../characters/valan-shadowgaze.md) makes his way to the top of [Trest](../places/towns/trest.md), arriving outside of [The Fox Hole](../places/buildings/the-fox-hole.md). He is carrying a [Coin of Friendship](../items/coin-of-friendship.md) given to him on his travels, along with the promise that if he finds [Familia Vulpes](../organisations/familia-vulpes.md) in [Trest](../places/towns/trest.md), he'd be able to join the adventuring guild.
+Around mid-morning [Valan Shadowgaze](../characters/valan-shadowgaze.md) makes his way to the top of [Trest](../places/towns/trest.md), arriving outside of [The Fox Hole](../places/buildings/the-fox-hole.md). He is carrying a [Coin of Friendship](../items/coins/coin-of-friendship.md) given to him on his travels, along with the promise that if he finds [Familia Vulpes](../organisations/familia-vulpes.md) in [Trest](../places/towns/trest.md), he'd be able to join the adventuring guild.
 
 He notices [Hanz Peacemaker](../characters/hanz-peacemaker.md) stood near the door to [The Fox Hole](../places/buildings/the-fox-hole.md), and goes over to talk to him. He asks if he is in the right place, to which Hanz tells him that he is. Upon producing the coin, Hanz's eyes light up and a grin forms, excited by the prospect of a new member of the family. He confirms with Valan that he wishes to join. When Valan accepts, Hanz swings the door open and announces to everyone in the banquet hall:
 
@@ -78,8 +78,8 @@ Aneni explains to the pair that she held onto this letter just for them as an in
 
 | Character | Coin |
 | --- | --- |
-| [Vētrall Astérr](../characters/vetrall-asterr.md) | [Coin of Friendship](../items/coin-of-friendship.md) |
-| [Valan Shadowgaze](../characters/valan-shadowgaze.md) | [Coin of Family](../items/coin-of-family.md) |
+| [Vētrall Astérr](../characters/vetrall-asterr.md) | [Coin of Friendship](../items/coins/coin-of-friendship.md) |
+| [Valan Shadowgaze](../characters/valan-shadowgaze.md) | [Coin of Family](../items/coins/coin-of-family.md) |
 
 Vētrall agrees. Understanding that [Trubska](../places/villages/trubska.md) is about a day's travel and with nightfall upon them, they tell Valan that the pair will set off in the morning. They both take spare bunk beds in the lower level of [the Fox Hole](../places/buildings/the-fox-hole.md) for the night.
 
