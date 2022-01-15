@@ -114,3 +114,11 @@ Ahsha asks Schaef if any other military personnel have passed through the area r
 As Schaef encourages Ephaine to visit the [Shrine to the Stars](../places/structures/shrine-to-the-stars.md) and the party do so after night falls, [Canary squad](../organisations/astorrel/squads/canary-squad.md) enter the [Devdaha Crypt](../places/dungeons/devdaha-crypt.md), keeping them away from their [Astorrel](../organisations/astorrel/astorrel.md) mission for a time.
 
 *[End of session: day 8]*
+
+### [AA17](../sessions/AA17.md)
+
+*[End of session: day 9]*
+
+### [AA18](../sessions/AA18.md)
+
+*[End of session: day 10]*
