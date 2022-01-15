@@ -29,4 +29,22 @@ As the early combat ensues, Ephaine uses her spectral archer to shoot at the doo
 
 When Korina uses Channel Divinity: Turn Undead, many of the skeletons on both sides of the room are destroyed instantly, but this has the effect of waking those that remain on the other side. They begin to drop down into the central area, targeting her specifically as the fight continues.
 
-## Planning
+### [AA17](../sessions/AA17.md)
+
+[Canary squad](../organisations/astorrel/squads/canary-squad.md) continue their fight against the reanimated skeletons inside the archer trial room. They are able to dispatch all of the skeletons without difficulty.
+
+Deciding to take a short rest, [Ephaine Seren](../characters/ephaine-seren.md)'s Starry Form: Archer soon ends, causing the door on the far side of the room to raise quickly and slam shut, the conditions no longer met for it remaining open.
+
+The party investigates the body in the middle of the room, carefully moving its cape from over its body by combination of [Ahsha Sallas](../characters/ahsha-sallas.md) attaching a femur to her greataxe, and [Noon Schiller](../characters/noon-schiller.md) more successfully casting Mage Hand. They get a better look at the human-like bones, finding a [Grievous Weapon](../items/magic/enchantments/grievous-weapon.md): Dagger that Noon keeps, and four [Chausain platinum coins](../items/coins/chausain-platinum-coin.md). While the party has no understanding of where the coins are from, Ephaine recognises the [elvish](../languages/elvish.md) written on them. The body is a clear sign that long ago an adventurer from the age of [the Second Coming](../history/events/the-second-coming.md) infiltrated the crypt but was killed by its traps and challenges, laying here ever since. The party lacks the context to figure this out.
+
+Ephaine tries to get the door open again, activating Starry Form: Archer again and shooting the door with a spectral arrow to get it to open, believing that to be the condition required. When the door doesn't open she moves closer to inspect it, causing the door to slide open. She realises that the door has some sort of proximity based trigger to it.
+
+The party proceed inside, traversing the stone corridor as it transitions to ice, following it as it snakes slightly upwards for the next few hours. Eventually it comes to another section of stone corridor at the top of a sudden steep slope. The party find a closed stone door. Exhausted from being awake all night, they choose to sleep here in relative safety.
+
+Ephaine casts Detect Magic and senses a magical presence from the [Quartz Chalice](../items/magic/quartz-chalice.md) beyond the door. [Ahsha Sallas](../characters/ahsha-sallas.md) manages to push the door open, allowing the pair to look inside. Ephaine spots the first of four chalices on a pedestal before them, giving off a magical aura. In this moment the pair are attacked by a chitine lurking in the darkness, beginning combat.
+
+The party defend themselves as they begin to figure out the chalice trial room, watching as seemingly endless chitine descend from magical darkness on the roof above each of the four pedestals bearing identical chalices. While fighting takes place around the first pedestal, Ahsha grabs a chalice and escapes back into the corridor, everyone falling back.
+
+Ephaine puts her Moonbeam to good use, noting that the chitine will blindly run through it and kill themselves, even after observing other chitine do so in front of them. This helps with the party's crowd control strategy. Additionally she fires a Guiding Bolt at the furthest chalice, knocking it from its pedestal, shattering it across the floor. Ahsha similarly smashes hers on the floor when she drops it. The party's suspicion that destroying the chalices will stop the chitine from appearing above each pedestal is proven incorrect.
+
+Ephaine Misty Steps back into the room to try and get her hands on another chalice. Noon casts Summon Shadowspawn to make [Nills](../characters/nills.md) appear and use Dreadful Scream, frightening a lot of chitine. [Yialdred Korina](../characters/yialdred-korina.md) casts Slow to help slow down a few more, the collective effort keeping the worst of the chitine away from Ephaine as she makes a do or die dash through the room, chitine beginning to swarm her as [Nills](../characters/nills.md) stays close.

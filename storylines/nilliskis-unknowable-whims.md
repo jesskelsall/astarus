@@ -122,3 +122,23 @@ As Ephaine looks up and views the archer constellation, something arcane changes
 > I can think of no better way to react.
 
 When Ephaine activates Starry Form: Archer to activate the shrine, [Nills](../characters/nills.md) stays close to her, wanting to get the best view possible. Noon follows [Nills](../characters/nills.md)' lead until Ephaine begins glowing, stepping back to let the magic at play work without disturbance.
+
+### [AA17](../sessions/AA17.md)
+
+While [Canary squad](../organisations/astorrel/squads/canary-squad.md) rests in [Devdaha Crypt](../places/dungeons/devdaha-crypt.md) outside of the door to the chalice trial, [Noon Schiller](../characters/noon-schiller.md) is on watch while everyone else sleeps. [Nills](../characters/nills.md) appears to him, intentionally positioning himself between Noon and the doorway.
+
+*[Nills](../characters/nills.md):*
+> So [Brother Light](../characters/noon-schiller.md), what do you make of all of this?
+
+*[Noon Schiller](../characters/noon-schiller.md):*
+> Intriguing.
+
+*[Nills](../characters/nills.md):*
+> Quite the understatement, don't you think?
+
+Noon shrugs, dismissive of the question, suggesting it is his usual nature to understate.
+
+*[Nills](../characters/nills.md):*
+> Well... good luck with what lies ahead.
+
+[Nills](../characters/nills.md) stands and slowly walks backwards, passing through the stone door. Noon smirks before getting back to his watch.

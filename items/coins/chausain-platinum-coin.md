@@ -9,6 +9,8 @@
 ## Description
 
 > A crescent shaped coin made of silvery platinum, stamped precisely on both sides. The design orients the coin so that the points of the crescent are facing upwards.
+>
+> In [elvish](../../languages/elvish.md) they are stamped with "PLATINUM" on the front, and "CHAUSAIN" on the back.
 
 ## Summary
 
