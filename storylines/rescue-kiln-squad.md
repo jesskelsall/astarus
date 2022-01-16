@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Session Started** | [AA12](../sessions/AA12.md) | storyline.2
+| **Session Started** | [AA12](../sessions/AA12.md) / [PR47](../sessions/PR47.md) | storyline.2
 | **Session Ended** | |
 
 ## Summary
@@ -122,3 +122,19 @@ As Schaef encourages Ephaine to visit the [Shrine to the Stars](../places/struct
 ### [AA18](../sessions/AA18.md)
 
 *[End of session: day 10]*
+
+### [PR47](../sessions/PR47.md)
+
+While [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) is retreating from [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), they are confronted by a large white wolf at the crest of the hill leading back into the north of the [Tresenda Pass](../places/roads/tresenda-pass.md). [Elrick Loweswater](../characters/elrick-loweswater.md), stuck in Wild Shape following the trauma of watching his wife [Cherish Loweswater](../characters/cherish-loweswater.md) die in front of him, catches up to the group he saw approaching the valley where [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) were almost wiped out.
+
+Initially he attacks the party, landing a large bite on [Lucia Velpione](../characters/lucia-velpione.md)'s shoulder and pushing her to the ground, but he remembers who he is and why he is here, relenting and backing up, dropping to his belly submissively. [Luna](../characters/lucia-velpione.md) picks up on his docile behaviour, offering him a ration which he eats. This de-escalates combat. Before this though, [Torbra Tauff](../characters/torbra-tauff.md) lands a deep cutting halberd swing across his left shoulder, which is bleeding readily.
+
+After a false start where Torbra tries to tie up the wolf, the party leave it to its devices as Elrick takes a second ration given by Torbra, intent on returning to [Scratch on Stone](../characters/scratch-on-stone.md) to feed him it. Realising that the party may be able to help, Elrick leads them out of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) and towards a small treeline on the northern extent of the [Tresenda Pass](../places/roads/tresenda-pass.md) valley, where the [Foss Peaks](../places/mountains/foss-peaks.md) meet the valley floor. This depression is more overgrown than the surrounding plains and out of sight.
+
+Here the wolf leads the party to an indent in a short cliff face where [Scratch on Stone](../characters/scratch-on-stone.md) lies, severely wounded. After placing the ration near him, Elrick allows [Luna](../characters/lucia-velpione.md) to take a look within, spotting the seemingly dead body of a tabaxi. Torbra and [Thanea Morlay](../characters/thanea-morlay.md) get a better look, declaring him dead. Once his body is brought out from the indent, Allisa checks him over with her [Citrine Eye Necklace](../items/magic/citrine-eye-necklace.md). Finding life signs, she declares him alive.
+
+The party do what they can to help Scratch. Torbra forces him to drink water, Saoirse pours grain alcohol across his face to sterilise it, Allisa casts Prayer of Healing to seal his head wounds. The wolf remains nearby, growling when Scratch is dropped while being moved, and otherwise lying on his stomach, Elrick desperate for someone else to have survived. At one point he places the ration on his upper chest.
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) consider de-prioritising their mission in order to get [Scratch on Stone](../characters/scratch-on-stone.md) back to civilisation to seek medical help, possibly heading south to [Blittergate](../places/towns/blittergate.md) or [Hyceodd](../places/towns/hyceodd.md) and getting the message from there to [Elysia Vanderboss](../characters/elysia-vanderboss.md) so more help can be brought. Allisa suggests that the three [aasimar](../lineages/aasimar.md) should have enough healing magic to seal all of his wounds, so medical help need only be a warm bed and enough food for him to rest. She suggests taking him north to [Filisur](../places/villages/filisur.md), the closest settlement.
+
+The party agrees to rest overnight, heal Scratch in the morning, then continue their mission before finding someone to help Scratch.

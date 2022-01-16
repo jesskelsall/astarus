@@ -132,6 +132,18 @@ Torbra spots what appears to be the [Tresenda Meteorite](../items/meteoric/meteo
 
 *[End of session: day 9]*
 
+### [PR47](../sessions/PR47.md)
+
+[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) shout at [Torbra Tauff](../characters/torbra-tauff.md) to return to them, fearing danger from the [meteorite](../items/meteoric/meteorite.md) crater seen in the bottom of the bowl shaped valley of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md). After Torbra glances at the party she loses sight of the prowling [Meteoric Watcher](../creatures/meteoric-watcher.md) which teleports away into a hiding spot when it spotted an opening. Torbra runs back to the group, the party agreeing to retreat, rest, and formulate a strategy before returning.
+
+At the crest of the hill they come across a large wolf ([Elrick Loweswater](../characters/elrick-loweswater.md) in Wild Shape) which they initially fight, but [Luna](../characters/lucia-velpione.md) recognises it isn't hostile, appeasing it with food. The party find the wolf strange, following it when it takes a ration and leaves with it. It leads them to [Scratch on Stone](../characters/scratch-on-stone.md) who is on his deathbed, succumbing to his wounds.
+
+They decide that trying to save his life and return him to civilisation is their top priority, but agree that they should try to retrieve the [Tresenda meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) before leaving, as the incoming winter snow will make the task impossible until spring.
+
+The party begins to set up camp where they found Scratch, intent on sleeping there overnight.
+
+*[End of session: day 9]*
+
 ## Planning
 
 [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).

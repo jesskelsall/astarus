@@ -90,8 +90,9 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR44](../sessions/PR44.md) | 2021-12-01 | *The Night of Eyes* |
 | [PR45](../sessions/PR45.md) | 2021-12-08 | *The Third [Aasimar](../lineages/aasimar.md)* |
 | [PR46](../sessions/PR46.md) | 2022-01-05 | *Searching the Hills for a Crater* |
+| [PR47](../sessions/PR47.md) | 2022-01-12 | *The White Wolf* |
 ||
-| [PR47](../sessions/PR47.md) | 2022-01-12 | |
+| [PR48](../sessions/PR48.md) | 2022-01-19 | |
 
 ## Storylines
 
@@ -128,3 +129,4 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Genasi in Astor](../storylines/genasi-in-astor.md) | [PR37](../sessions/PR37.md) | |
 | [Reaching Augury Rock](../storylines/reaching-augury-rock.md) | [PR37](../sessions/PR37.md) | |
 | [Ephaine's Missing Brother](../storylines/ephaines-missing-brother.md) | [PR42](../sessions/PR42.md) | |
+| [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [PR47](../sessions/PR47.md) | |
