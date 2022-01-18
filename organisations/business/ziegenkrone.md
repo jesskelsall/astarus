@@ -1,4 +1,4 @@
-# Organisation Template
+# Ziegenkrone
 
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/imageid.png" height="200" />
 

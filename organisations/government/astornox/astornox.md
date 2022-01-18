@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Astornox | organisation.2
-| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Leader** | [Itharmund Steeleye](../../characters/itharmund-steeleye.md) |
-| **Patron** | [Gormox](../../gods/deities/gormox.md) |
-| **Location(s)** | [South East Kardan](../../places/regions/south-east-kardan.md) |
+| **Name** | Astornox | organisation.4
+| **Civilisation** | Kingdom of Astor |
+| **Leader** | Itharmund Steeleye |
+| **Patron(s)** | Gormox |
+| **Location(s)** | Northhaven Astornox Stronghold (headquarters) |
 |||
 | **Image ID** | `a66efa0a8b232cdc` |
 

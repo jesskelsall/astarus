@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Unicorn Cavalry | organisation.3
-| **Civilisation** | [Reimatelau](../../civilisations/nilsavnic-alliance/states/reimatelau.md) |
+| **Name** | Unicorn Cavalry | organisation.4
+| **Civilisation** | Reimatelau |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Patron(s)** | |
+| **Location(s)** | |
 |||
 | **Image ID** | |
 

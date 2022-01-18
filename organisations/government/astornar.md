@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Astornar | organisation.3
-| **Location** | |
-| **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Leader** | [Corville Thornox](../characters/corville-thornox.md) |
-| **Patron** | [Bhygar](../gods/deities/bhygar.md) |
+| **Name** | Astornar | organisation.4
+| **Civilisation** | Kingdom of Astor |
+| **Leader** | Corville Thornox |
+| **Patron(s)** | Bhygar |
+| **Location(s)** | Northhaven Astornar Stronghold (headquarters) |
 |||
 | **Image ID** | `eddb4bcb29ce3928` |
 

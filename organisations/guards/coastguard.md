@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Coastguard | organisation.3
-| **Civilisation** | [Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
+| **Name** | Coastguard | organisation.4
+| **Civilisation** | Nilus Coast |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Patron(s)** | |
+| **Location(s)** | |
 |||
 | **Image ID** | |
 

@@ -4,19 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Marsh Skimmers | organisation.2
-| **Civilisation** | |
+| **Name** | Marsh Skimmers | organisation.4
+| **Civilisation** | Nil'Savnic Alliance |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Patron(s)** | |
+| **Location(s)** | Murkwallow (home city)<br>Tabaxi's Folly (headquarters) |
 |||
 | **Image ID** | `a8d1966f55290623` |
 
 ## Summary
 
 The Marsh Skimmers are a criminal syndicate that helped found the city of [Murkwallow](../places/cities/murkwallow.md) in the [Scintil Delta](../places/rivers-lakes/scintil-delta.md). They have grown into a large organisation that spans the entire [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), following profit wherever they can find it.
-
-Their headquarters is [Tabaxi's Folly](../places/buildings/tabaxis-folly.md) in [Murkwallow](../places/cities/murkwallow.md).
 
 ## Imagery
 
@@ -67,3 +65,11 @@ As Kenku can mimic any sound or voice they have heard, it is possible for them t
 Songbirds are escorted to their destination by other skimmers. On this journey they leave as many responsibilities to the other skimmers as possible, allowing them to focus on preserving the memory they are due to deliver.
 
 Due to the rise of songbirds within the Marsh Skimmers, some guard forces (notably the [Bay Watch](guards/bay-watch.md)) see kenku travelling with others as criminals by default.
+
+## Members
+
+### Contacts
+
+- Creek (Murkwallow)
+- Crucible (Starnov)
+- Grouper (Cotedouce)

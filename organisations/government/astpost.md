@@ -2,11 +2,11 @@
 
 |||
 | --- | --- |
-| **Name** | Astpost | organisation.2
-| **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Name** | Astpost | organisation.4
+| **Civilisation** | Kingdom of Astor |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | [South East Kardan](../places/regions/south-east-kardan.md) |
+| **Patron(s)** | |
+| **Location(s)** | Northhaven (home city) |
 |||
 | **Image ID** | |
 

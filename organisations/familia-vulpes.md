@@ -5,18 +5,26 @@
 |||
 | --- | --- |
 | **Name** | Familia Vulpes | organisation.2
-| **Civilisation** | |
+| **Civilisation** | Nil'Savnic Alliance |
 | **Leader** | [Vulpes Soon](../characters/vulpes-soon.md)<br>[Vulpes Geen](../characters/vulpes-geen.md) (former, dead) |
 | **Patron** | |
 | **Location(s)** | [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 |||
 | **Image ID** | `75c9f929854a75b6` |
 
+|||
+| --- | --- |
+| **Name** | Familia Vulpes | organisation.4
+| **Civilisation** | Nil'Savnic Alliance |
+| **Leader** | Vulpes Soon |
+| **Patron(s)** | |
+| **Location(s)** | Trest (home town)<br>The Fox Hole (headquarters) |
+|||
+| **Image ID** | `75c9f929854a75b6` |
+
 ## Summary
 
 Familia Vulpes is an adventuring guild formed by the Vulpes family. It is comprised of selfless adventurers who enjoy travelling the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) and helping people in need. The organisation fosters a family-like atmosphere where all of its members are treated well.
-
-Their headquarters is [The Fox Hole](../places/buildings/the-fox-hole.md) in [Trest](../places/towns/trest.md).
 
 ## Imagery
 

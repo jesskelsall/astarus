@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Copper Eye | organisation.3
-| **Civilisation** | Chausain |
+| **Name** | Copper Eye | organisation.4
+| **Civilisation** | Elves of Chausain |
 | **Leader** | |
-| **Patron** | [Malnesh](../gods/deities/malnesh.md) |
-| **Location(s)** | [Oonar](../planes/oonar.md) |
+| **Patron(s)** | Malnesh |
+| **Location(s)** | |
 |||
 | **Image ID** | |
 

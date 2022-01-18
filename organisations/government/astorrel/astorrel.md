@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Astorrel | organisation.2
-| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Leader** | [Levelle Tristwix](../../characters/levelle-tristwix.md) |
-| **Patron** | [Kirrel](../../gods/deities/kirrel.md) |
-| **Location(s)** | [South East Kardan](../../places/regions/south-east-kardan.md) |
+| **Name** | Astorrel | organisation.4
+| **Civilisation** | Kingdom of Astor |
+| **Leader** | Levelle Tristwix |
+| **Patron(s)** | Kirrel |
+| **Location(s)** | Northhaven Astorrel Stronghold (headquarters) |
 |||
 | **Image ID** | `755b46068cccdb49` |
 

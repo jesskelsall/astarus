@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Republic Guard | organisation.3
-| **Civilisation** | [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) |
+| **Name** | Republic Guard | organisation.4
+| **Civilisation** | Syntenne Republic |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | South [Kardan](../../places/continents/kardan.md)<br>[Côtedouce](../../places/towns/cotedouce.md) |
+| **Patron(s)** | |
+| **Location(s)** | Cotedouce (shared jurisdiction) |
 |||
 | **Image ID** | |
 

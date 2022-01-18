@@ -4,10 +4,10 @@
 
 |||
 | --- | --- |
-| **Name** | Lady Crane | organisation.2
-| **Civilisation** | |
+| **Name** | Lady Crane | organisation.4
+| **Civilisation** | Nil'Savnic Alliance |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | |
+| **Patron(s)** | |
+| **Location(s)** | Hochwald (home city)<br>Crane Manor (headquarters) |
 |||
 | **Image ID** | `0a3f94c00979155f` |

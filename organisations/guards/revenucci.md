@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Revenucci | organisation.3
-| **Civilisation** | [Revenossa](../../civilisations/nilsavnic-alliance/states/revenossa.md) |
+| **Name** | Revenucci | organisation.4
+| **Civilisation** | Revenossa |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Patron(s)** | |
+| **Location(s)** | |
 |||
 | **Image ID** | |
 

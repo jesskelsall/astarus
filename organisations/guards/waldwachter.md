@@ -4,11 +4,11 @@
 
 |||
 | --- | --- |
-| **Name** | Waldwächter | organisation.3
-| **Civilisation** | [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md) |
+| **Name** | Waldwächter | organisation.4
+| **Civilisation** | Valburg |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Patron(s)** | |
+| **Location(s)** | |
 |||
 | **Image ID** | |
 

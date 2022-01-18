@@ -2,11 +2,11 @@
 
 |||
 | --- | --- |
-| **Name** | Sunset Delivery | organisation.2
-| **Civilisation** | |
+| **Name** | Sunset Delivery | organisation.4
+| **Civilisation** | Kingdom of Astor |
 | **Leader** | |
-| **Patron** | |
-| **Location(s)** | [South East Kardan](../places/regions/south-east-kardan.md) |
+| **Patron(s)** | |
+| **Location(s)** | Northhaven (home city) |
 |||
 | **Image ID** | |
 
