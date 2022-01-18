@@ -24,7 +24,7 @@
 
 ## Summary
 
-Castien Eladan was a [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) Veritacris working out of [Eskrigg](../places/cities/eskrigg.md). He was killed in unknown circumstances, with his bloated body floating through the [Eskrigg](../places/cities/eskrigg.md) sewers, found by [Canary squad](../organisations/astorrel/squads/canary-squad.md).
+Castien Eladan was a [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) Veritacris working out of [Eskrigg](../places/cities/eskrigg.md). He was killed in unknown circumstances, with his bloated body floating through the [Eskrigg](../places/cities/eskrigg.md) sewers, found by [Canary squad](../organisations/government/astorrel/squads/canary-squad.md).
 
 ## Characteristics
 

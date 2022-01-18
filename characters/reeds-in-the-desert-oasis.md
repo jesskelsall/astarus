@@ -14,7 +14,7 @@
 | **Relations** | |
 | **Places** | |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation(s)** | [Astornox](../organisations/astornox/astornox.md) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
 | **Image ID** | `e9c4cca8d59367cf` |
 
@@ -24,7 +24,7 @@
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Major](../organisations/astornox/ranks/astornox-major.md) | Conscription | [Itharmund Steeleye](itharmund-steeleye.md) | [Bluefoot](bluefoot.md)<br>[Candle in the Dark](candle-in-the-dark.md)<br>[Kasdon Tinkermane](kasdon-tinkermane.md)<br>[Kur Merkys](kur-merkys.md)<br>[Weldira Cobblecase](weldira-cobblecase.md) |
+|| [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md) | Conscription | [Itharmund Steeleye](itharmund-steeleye.md) | [Bluefoot](bluefoot.md)<br>[Candle in the Dark](candle-in-the-dark.md)<br>[Kasdon Tinkermane](kasdon-tinkermane.md)<br>[Kur Merkys](kur-merkys.md)<br>[Weldira Cobblecase](weldira-cobblecase.md) |
 
 ## Characteristics
 

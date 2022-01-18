@@ -17,7 +17,7 @@ The [Fall of Chausain Memory Sphere](../../items/artifacts-of-oonar/memory-spher
 
 They find themselves waking up face down in the sand in the middle of a sunny day, sweltering in the heat. Looking around they find no signs of anything but dunes as far as the eye can see.
 
-After coming to an uneasy agreement, the [Familia Vulpes](../../organisations/familia-vulpes.md) members and [Marsh Skimmers](../../organisations/marsh-skimmers.md) begin marching in a random direction, [Keranios](../../characters/keranios.md) picking north at random. After a day of walking they sleep in the sand overnight, almost freezing from the plummeting temperature.
+After coming to an uneasy agreement, the [Familia Vulpes](../../organisations/familia-vulpes.md) members and [Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md) begin marching in a random direction, [Keranios](../../characters/keranios.md) picking north at random. After a day of walking they sleep in the sand overnight, almost freezing from the plummeting temperature.
 
 The following day they barely make it an hour further before growing too weary to continue, eventually passing out.
 

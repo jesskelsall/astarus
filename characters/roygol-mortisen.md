@@ -8,7 +8,7 @@
 | **Age** | 32 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox Guard Corporal](../organisations/astornox/ranks/astornox-guard-corporal.md)<br><img src="../../images/ranks/astornox-2-guard-corporal.png" height="50" /> |
+| **Affiliation** | [Astornox Guard Corporal](../organisations/government/astornox/ranks/astornox-guard-corporal.md)<br><img src="../../images/ranks/astornox-2-guard-corporal.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | |
@@ -19,7 +19,7 @@
 
 ## Summary
 
-Roygol Mortisen is an [Astornox Guard Corporal](../organisations/astornox/ranks/astornox-guard-corporal.md) based out of [Northhaven](../places/cities/northhaven.md). He is tasked with patrol duty along the [Coastal Trail](../places/roads/coastal-trail.md), checking in on the villages of [Humouth](../places/villages/humouth.md) and [Allonby](../places/villages/allonby.md).
+Roygol Mortisen is an [Astornox Guard Corporal](../organisations/government/astornox/ranks/astornox-guard-corporal.md) based out of [Northhaven](../places/cities/northhaven.md). He is tasked with patrol duty along the [Coastal Trail](../places/roads/coastal-trail.md), checking in on the villages of [Humouth](../places/villages/humouth.md) and [Allonby](../places/villages/allonby.md).
 
 ## Characteristics
 

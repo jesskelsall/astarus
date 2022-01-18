@@ -8,7 +8,7 @@
 | **Age** | 33 |
 | **Class** | NPC: Berserker |
 | **Alignment** | Chaotic Evil |
-| **Affiliation** | [The Crimson Blades](../organisations/the-crimson-blades.md) |
+| **Affiliation** | [The Crimson Blades](../organisations/criminals/the-crimson-blades.md) |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
 | **Relations** | |
 | **Acquaintances** | [Stalker](stalker.md) (leader) |
@@ -17,7 +17,7 @@
 
 ## Summary
 
-Morog Whiteknuckle is a commander in [The Crimson Blades](../organisations/the-crimson-blades.md). He works directly for [Stalker](stalker.md), carrying out his orders.
+Morog Whiteknuckle is a commander in [The Crimson Blades](../organisations/criminals/the-crimson-blades.md). He works directly for [Stalker](stalker.md), carrying out his orders.
 
 ## Characteristics
 

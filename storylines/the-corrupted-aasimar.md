@@ -31,7 +31,7 @@ Later, [Thanea](../../../astarus/people/thanea.md) reads Saoirse's thoughts usin
 
 #### Saoirse Patron Chat 1
 
-While the rest of the party is going to sleep in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) goes into the bathroom and closes the door. She drapes a towel over the oil burning light's glass container, darkening the room. She runs a bath and gets into the bathtub before calling out to [Effie Silttooth](../characters/effie-silttooth.md), telling her that she's lonely, misses her, wishes that they could spend some time together, as well as the adventures & dreams that she's experienced lately.
+While the rest of the party is going to sleep in [sanctuary](../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) goes into the bathroom and closes the door. She drapes a towel over the oil burning light's glass container, darkening the room. She runs a bath and gets into the bathtub before calling out to [Effie Silttooth](../characters/effie-silttooth.md), telling her that she's lonely, misses her, wishes that they could spend some time together, as well as the adventures & dreams that she's experienced lately.
 
 There is a long period where there is no response before the light in the room goes out completely, and Saoirse hears her patron's voice:
 
@@ -85,7 +85,7 @@ The pair wonder on the nature of Saoirse's darkness. Thanea asks about [Effie Si
 
 ### [PR45](../sessions/PR45.md)
 
-Meeting with [Allisa Balsatra](../characters/allisa-balsatra.md) for the first time, [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) discuss with her devas, [aasimar](../lineages/aasimar.md), and what that means for both [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md).
+Meeting with [Allisa Balsatra](../characters/allisa-balsatra.md) for the first time, [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) discuss with her devas, [aasimar](../lineages/aasimar.md), and what that means for both [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md).
 
 Saoirse tells Allisa about how terrifying their dream ([Shared Deva Dream 1](../dreams/deva-shared-1.md)) was from her perspective, her negatively impacting the ending of the dream making her feel awful about herself. She is negative about herself when trying to describe the way her [aasimar](../lineages/aasimar.md) abilities manifest and the bad things happening in all of her dreams.
 

@@ -9,14 +9,14 @@
 | **Pronouns** | he/him |
 | **Age** | 39 |
 | **Class** | Barbarian |
-| **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
+| **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | |
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||

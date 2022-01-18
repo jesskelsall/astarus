@@ -11,10 +11,10 @@
 | **Class** | Warlock (The Celestial) |
 | **Background** | |
 | **Worship** | |
-| **Relations** | [Kasdon Tinkermane](kasdon-tinkermane.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
+| **Relations** | [Kasdon Tinkermane](kasdon-tinkermane.md) ([Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
 | **Places** | [Northhaven](../places/cities/northhaven.md) |
 | **Citizenship** | |
-| **Organisation(s)** | [Astornox](../organisations/astornox/astornox.md) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
 | **Image ID** | |
 
@@ -26,7 +26,7 @@ TODO
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) | Conscription | [Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) ||
+|| [Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) | Conscription | [Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) ||
 
 ## Characteristics
 

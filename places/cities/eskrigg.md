@@ -8,7 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 12,000 |
 | **Nearby Places** | [Eskside Byway](../roads/eskside-byway.md)<br>[Grasthwaite Bend](../roads/grasthwaite-bend.md)<br>[Great Astor Road](../roads/great-astor-road.md) |
-| **People** | [Legacy Aranius](../../characters/legacy-aranius.md) ([Astornox Major](../../organisations/astornox/ranks/astornox-major.md) of Eskrigg) |
+| **People** | [Legacy Aranius](../../characters/legacy-aranius.md) ([Astornox Major](../../organisations/government/astornox/ranks/astornox-major.md) of Eskrigg) |
 
 ## Summary
 
@@ -16,7 +16,7 @@ Eskrigg is a city in [central Astor](../regions/central-astor.md), and the secon
 
 It is a walled city mostly surrounded by the bend of the [river Esk](../rivers-lakes/river-esk.md) before it opens out into the Esk estuary. The [Great Astor Road](../roads/great-astor-road.md) passes straight through it, connecting [Northhaven](northhaven.md) in the west to [Dunmore](dunmore.md) in the east. The surrounding landscape is marshland which is prone to flooding and dangerous wildlife.
 
-The city itself takes up all of the available space on the inside of this river bend, bursting at the seams with its populace. With no space to expand outwards due to the swamp, and the fortifications built during the [Astor-Syntenne War](../../history/events/astor-syntenne-war.md), the city has expanded upwards instead. Life here is tough for those outside of the [Astornox](../../organisations/astornox/astornox.md) and [Astorrel](../../organisations/astorrel/astorrel.md) strongholds, with little personal space or sanitation.
+The city itself takes up all of the available space on the inside of this river bend, bursting at the seams with its populace. With no space to expand outwards due to the swamp, and the fortifications built during the [Astor-Syntenne War](../../history/events/astor-syntenne-war.md), the city has expanded upwards instead. Life here is tough for those outside of the [Astornox](../../organisations/government/astornox/astornox.md) and [Astorrel](../../organisations/government/astorrel/astorrel.md) strongholds, with little personal space or sanitation.
 
 The city is affectionately referred to as *the city where everyone looks up*, the joke being that this is because if you look down, everything is shit.
 

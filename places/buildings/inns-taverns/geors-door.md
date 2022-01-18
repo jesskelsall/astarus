@@ -10,7 +10,7 @@
 
 ## Summary
 
-Geor's Door is the tavern that the [Nature's Battle](../../../mechanics/roleplay/natures-battle.md) [Astorrel](../../../organisations/astorrel/astorrel.md) squads come to after their matches finish in order to wind down and share stories. It is down a nearby backstreet.
+Geor's Door is the tavern that the [Nature's Battle](../../../mechanics/roleplay/natures-battle.md) [Astorrel](../../../organisations/government/astorrel/astorrel.md) squads come to after their matches finish in order to wind down and share stories. It is down a nearby backstreet.
 
 ### Exterior
 

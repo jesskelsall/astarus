@@ -20,7 +20,7 @@
 | Arktis Woods || Arctic woods |
 | Bergschatten || Mountain shadow |
 | Drachbarn | Drachen Nachbarn | Dragon neighbours |
-| Dünnesland || Thin land |
+| [Dünnesland](towns/dunnesland.md) || Thin land |
 | Flussende | Ende des Flusses | River's end |
 | Flussufer || Riverbank |
 | Gipfelwelt | Gipfel der Welt | Top of the world |
@@ -31,12 +31,12 @@
 | Hugelweg || Hill path |
 | Kalterdampf || Cold stream |
 | Königshause || King's house |
-| Lilaweg | Lila weg | Purple path |
+| [Lilaweg](roads/lilaweg.md) | Lila weg | Purple path |
 | Nordostor | Nord-Ost-Tor | North east gate |
 | Rastplatz || Rest stop |
-| River Trogen || Treacherous river |
+| [River Trogen](rivers-lakes/river-trogen.md) || Treacherous river |
 | Seehaus | Haus am See | Lake house |
 | [Sonnigeweide](villages/sonnigeweide.md) | Sonnige weide | Sunny pasture |
-| Trogenwald || Treacherous woods |
+| [Trogenwald](forests/trogenwald.md) || Treacherous woods |
 | Waldrand || Forest edge |
 | Weisserweg | Weißer weg | White path |

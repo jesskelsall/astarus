@@ -10,7 +10,7 @@
 
 ## Summary
 
-Ulburn Astorrel House is an [Astorrel](../../organisations/astorrel/astorrel.md) building in [Ulburn](../villages/ulburn.md) that [Goshawk Squad](../../organisations/astorrel/squads/goshawk-squad.md) and [Spoor Squad](../../organisations/astorrel/squads/spoor-squad.md) operate out of. From here they work together to ensure that the recent growth of [Ulburn](../villages/ulburn.md) isn't having too great an effect on the surrounding ecology.
+Ulburn Astorrel House is an [Astorrel](../../organisations/government/astorrel/astorrel.md) building in [Ulburn](../villages/ulburn.md) that [Goshawk Squad](../../organisations/government/astorrel/squads/goshawk-squad.md) and [Spoor Squad](../../organisations/government/astorrel/squads/spoor-squad.md) operate out of. From here they work together to ensure that the recent growth of [Ulburn](../villages/ulburn.md) isn't having too great an effect on the surrounding ecology.
 
 It is located near the centre of the village, prominently placed for ease of access.
 
@@ -28,7 +28,7 @@ From the outside it is clear that Ulburn Astorrel House is a newer building. It 
 
 ### Interior
 
-Inside the building is laid out much like student accommodation. There is a general use space immediately inside, with a kitchen manned by an [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md). A planning table can be found near the back of the floor. Upstairs is mostly sleeping quarters and washing facilities.
+Inside the building is laid out much like student accommodation. There is a general use space immediately inside, with a kitchen manned by an [Astorrel Member](../../organisations/government/astorrel/ranks/astorrel-member.md). A planning table can be found near the back of the floor. Upstairs is mostly sleeping quarters and washing facilities.
 
 The interior is mostly stone with wooden beams and a vaulted roof providing decoration. A large fireplace in the main room helps to keep the building warm in the colder months.
 
@@ -37,5 +37,5 @@ The interior is mostly stone with wooden beams and a vaulted roof providing deco
 | Sights | Stone floor and walls, wooden beams for support and for roof decoration. Large main room with seating and a meeting table. Kitchen to the left. Upstairs is sleeping quarters and wash facilities. |
 | Sounds | Echo of boots on the floor. Crackling of fire from the kitchen. Quiet chatter. |
 | Smells | Fresh baked bread, stew. |
-| People | 1 [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) in the kitchen, squad members. |
+| People | 1 [Astorrel Member](../../organisations/government/astorrel/ranks/astorrel-member.md) in the kitchen, squad members. |
 | Intrigue | Well catered for communal living space that the squads use as their base. |

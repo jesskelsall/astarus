@@ -14,8 +14,8 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox](../organisations/astornox/astornox.md) War Corporal |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox](../organisations/government/astornox/astornox.md) War Corporal |
 | **Role** | War / 7th Legion |
 | **Commanding Officer** | |
 | **Subordinates** | |
@@ -33,7 +33,7 @@ Cila Green is a quiet no-nonsense soldier that loves a challenge and a competiti
 | **Face** | Fair skin, blue eyes, pursed lip. Scar on right side of face, just missing her eye. | characteristics.2
 | **Hair** | Long blonde hair. |
 | **Body** | 5'6" / 168cm. Petite. |
-| **Clothes** | [Astornox](../organisations/astornox/astornox.md) Corporal's uniform. |
+| **Clothes** | [Astornox](../organisations/government/astornox/astornox.md) Corporal's uniform. |
 | **Voice** | Medium female register. |
 | **Mannerisms** | Prefers not to talk, using facial expressions including grins as needed. |
 | | |

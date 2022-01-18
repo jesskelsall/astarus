@@ -14,17 +14,17 @@
 | **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) |
 | **Role** | Phenomena / Frontier |
 | **Commanding Officer** | |
-| **Subordinates** | [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) |
+| **Subordinates** | [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md) |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Taza Finetrick is the [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) of [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md).
+Taza Finetrick is the [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) of [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md).
 
 ## Characteristics
 

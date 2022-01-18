@@ -14,19 +14,19 @@
 | **Relations** | |
 | **Places** | |
 | **Citizenship** | |
-| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `4d80ad32c15fa53a` |
 
 ## Summary
 
-Scratch on Stone is the confident and knowledgeable [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) for [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md). He lost his left arm and eye in [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) at the hands of a [Meteoric Mind](../creatures/meteoric-mind.md).
+Scratch on Stone is the confident and knowledgeable [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) for [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md). He lost his left arm and eye in [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) at the hands of a [Meteoric Mind](../creatures/meteoric-mind.md).
 
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) | Phenomena / Frontier / [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) | [Taza Finetrick](taza-finetrick.md) ||
+|| [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Phenomena / Frontier / [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md) | [Taza Finetrick](taza-finetrick.md) ||
 
 ## Character Rolls
 
@@ -61,7 +61,7 @@ Scratch on Stone is the confident and knowledgeable [Astorrel Squad Lead](../org
 | **Quirks** | Stoic until the conversation moves to something he knows about, then very chatty. |
 | **Knowledge** | Seemingly endless random trivia. Martial fighting styles. |
 | **Values** | Hard work, perseverence. Not accepting things as they are. |
-| **Ambitions** | Wants to become an [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md). |
+| **Ambitions** | Wants to become an [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md). |
 | **Dislikes** | Disobedience, dishonour. |
 
 ## History

@@ -2,28 +2,28 @@
 
 | | |
 | --- | --- | 
-| **Name** | [Astorrel](../../organisations/astorrel/astorrel.md) Training | skill.1
+| **Name** | [Astorrel](../../organisations/government/astorrel/astorrel.md) Training | skill.1
 | **Stat** | INT |
  
 ## Description
 
-> Your [Astorrel](../../organisations/astorrel/astorrel.md) Training check measures your ability to recall your training on how to safeguard the balance of nature and civilisation within the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+> Your [Astorrel](../../organisations/government/astorrel/astorrel.md) Training check measures your ability to recall your training on how to safeguard the balance of nature and civilisation within the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 >
 > Your modifier represents the quality and comprehensiveness of your training by your mentor(s), and was determined in session zero by a d20 roll. Your Intelligence modifier is then applied.
 
 ## Summary
 
-[Astorrel](../../organisations/astorrel/astorrel.md) Training is an Intelligence based custom skill. In addition to the usual skill bonuses that come from a character's Intelligence modifier and proficiency bonus, an additional bonus is applied to the skill. In D&D Beyond this is applied through the *Misc Bonus* field.
+[Astorrel](../../organisations/government/astorrel/astorrel.md) Training is an Intelligence based custom skill. In addition to the usual skill bonuses that come from a character's Intelligence modifier and proficiency bonus, an additional bonus is applied to the skill. In D&D Beyond this is applied through the *Misc Bonus* field.
 
 ### Initial Modifier
 
-This modifier represents the quality and extent of the character's [Astorrel](../../organisations/astorrel/astorrel.md) Training, particularly prior to their graduation. Not all [Astorrel](../../organisations/astorrel/astorrel.md) in training receive the same attention from their mentors.
+This modifier represents the quality and extent of the character's [Astorrel](../../organisations/government/astorrel/astorrel.md) Training, particularly prior to their graduation. Not all [Astorrel](../../organisations/government/astorrel/astorrel.md) in training receive the same attention from their mentors.
 
-To begin with, each [Astorrel](../../organisations/astorrel/astorrel.md) player character rolls a d20. This number is converted to a modifier using the [Ability Scores and Modifiers Table](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#AbilityScoresandModifiersTable) typically used for ability scores.
+To begin with, each [Astorrel](../../organisations/government/astorrel/astorrel.md) player character rolls a d20. This number is converted to a modifier using the [Ability Scores and Modifiers Table](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#AbilityScoresandModifiersTable) typically used for ability scores.
 
 ### Changing Modifiers
 
-Beyond graduation, [Astorrel](../../organisations/astorrel/astorrel.md) can improve their knowledge by learning through practice in the field, or focused study in their spare time.
+Beyond graduation, [Astorrel](../../organisations/government/astorrel/astorrel.md) can improve their knowledge by learning through practice in the field, or focused study in their spare time.
 
 Player characters can periodically be awarded with an incremental increase to their modifier.
 

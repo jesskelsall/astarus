@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Wizira](../characters/wizira.md)'s death in the jaws of a giant crocodile shocks her [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) mates and sends shockwaves through everyone that knew her.
+[Wizira](../characters/wizira.md)'s death in the jaws of a giant crocodile shocks her [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) mates and sends shockwaves through everyone that knew her.
 
 ## History
 
@@ -25,11 +25,11 @@ Distraught by the death of their friend, the party regroups and works through th
 
 ### [PR36](../sessions/PR36.md)
 
-[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) return to [Northhaven](../places/cities/northhaven.md) to inform [Elysia Vanderboss](../characters/elysia-vanderboss.md) that they are now unable to complete their mission ([Investigate the Humar Meteorite Crater](ended/investigate-the-humar-meteorite-crater.md)).
+[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) return to [Northhaven](../places/cities/northhaven.md) to inform [Elysia Vanderboss](../characters/elysia-vanderboss.md) that they are now unable to complete their mission ([Investigate the Humar Meteorite Crater](ended/investigate-the-humar-meteorite-crater.md)).
 
-Elysia initially swears when [Torbra Tauff](../characters/torbra-tauff.md) breaks the news to her, but otherwise doesn't react poorly. During debrief she calls [Wizira](../characters/wizira.md)'s death "unfortunate", angering [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) who dislikes her cold attitude. Elysia tells them that [Astorrel squad hands](../organisations/astorrel/ranks/astorrel-squad-hand.md) do die in the field occasionally.
+Elysia initially swears when [Torbra Tauff](../characters/torbra-tauff.md) breaks the news to her, but otherwise doesn't react poorly. During debrief she calls [Wizira](../characters/wizira.md)'s death "unfortunate", angering [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) who dislikes her cold attitude. Elysia tells them that [Astorrel squad hands](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) do die in the field occasionally.
 
-With the failure of their mission, Elysia worries that Phenomena / Meteoric may get dissolved, but if she retains her role as [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) she will acquire [Wizira](../characters/wizira.md)'s replacement, bringing the squad back up to four members.
+With the failure of their mission, Elysia worries that Phenomena / Meteoric may get dissolved, but if she retains her role as [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md)'s [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) she will acquire [Wizira](../characters/wizira.md)'s replacement, bringing the squad back up to four members.
 
 Before the squad begin two days of downtime between missions, Elysia provides [Torbra Tauff](../characters/torbra-tauff.md) with a letter ([PR36-L-1](../letters/PR36-L-1.md)) addressed to [Wizira](../characters/wizira.md). Torbra swears when she reads the name before pocketing the letter.
 
@@ -41,6 +41,6 @@ Torbra shares the letter's contents with [Saoirse ó Dochartaigh](../characters/
 
 ### [PR42](../sessions/PR42.md)
 
-While in [Blittergate](../places/towns/blittergate.md), [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) meets [Weldira Cobblecase](../characters/weldira-cobblecase.md) and [Bluefoot](../characters/bluefoot.md) in [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md). [Bluefoot](../characters/bluefoot.md), with knowledge of the party due to [Nature's Battle 28](ended/natures-battle-28.md) and his involvement with [Kur Merkys](../characters/kur-merkys.md), recognises that [Wizira](../characters/wizira.md) is not present. He asks where she is.
+While in [Blittergate](../places/towns/blittergate.md), [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) meets [Weldira Cobblecase](../characters/weldira-cobblecase.md) and [Bluefoot](../characters/bluefoot.md) in [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md). [Bluefoot](../characters/bluefoot.md), with knowledge of the party due to [Nature's Battle 28](ended/natures-battle-28.md) and his involvement with [Kur Merkys](../characters/kur-merkys.md), recognises that [Wizira](../characters/wizira.md) is not present. He asks where she is.
 
-[Torbra Tauff](../characters/torbra-tauff.md) informs him that she died recently. The surprise news causes [Bluefoot](../characters/bluefoot.md) to leave in order to inform [Kur Merkys](../characters/kur-merkys.md) of this development in his plot to seek revenge on [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) for [Vilnia Kovas](../characters/vilnia-kovas.md)' death.
+[Torbra Tauff](../characters/torbra-tauff.md) informs him that she died recently. The surprise news causes [Bluefoot](../characters/bluefoot.md) to leave in order to inform [Kur Merkys](../characters/kur-merkys.md) of this development in his plot to seek revenge on [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) for [Vilnia Kovas](../characters/vilnia-kovas.md)' death.

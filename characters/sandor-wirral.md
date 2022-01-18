@@ -11,7 +11,7 @@ Human male
 | **Age** | 64 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | [Clyde Wirral](clyde-wirral.md) (son) |
 | **Acquaintances** | |

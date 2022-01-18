@@ -9,14 +9,14 @@
 | **Pronouns** | he/him |
 | **Age** | 50 |
 | **Class** | Cleric (Knowledge Domain) |
-| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge)<br>[Malnesh](../gods/deities/malnesh.md) (secretly) |
+| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge)<br>[Malnesh](../gods/deities/malnesh.md) (secretly) |
 | **Relations** | |
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) |
+| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
 | **Subordinates** | |
 |||

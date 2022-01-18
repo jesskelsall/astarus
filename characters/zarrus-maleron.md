@@ -8,7 +8,7 @@
 | **Age** | 26 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel](../organisations/astorrel/astorrel.md) (retired) |
+| **Affiliation** | [Astorrel](../organisations/government/astorrel/astorrel.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Cara Treffen](cara-treffen.md) (employer) |

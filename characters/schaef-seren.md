@@ -37,7 +37,7 @@ Schaef Seren is [Ephaine Seren](ephaine-seren.md)'s father and the head of the S
 | **Knowledge** | [Cepine](../lineages/cepine.md) startouched lore passed down from his grandfather (Oberon Seren).<br>Shepherding, growing vegetables. |
 | **Values** | Hard work, solitude, those driven to succeed.<br>Good humour, good jokes, stories. |
 | **Ambitions** | Wants to provide for his family. Hopes to one day reunite his lost children. |
-| **Dislikes** | [Astornox](../organisations/astornox/astornox.md), the winter, those unfamiliar with manual labour. |
+| **Dislikes** | [Astornox](../organisations/government/astornox/astornox.md), the winter, those unfamiliar with manual labour. |
 
 ## History
 
@@ -47,8 +47,8 @@ The pair formed a close bond, Ephaine often joining Schaef as he herded the fami
 
 ### The Early Winter
 
-When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../organisations/astornox/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox Lieutenant](../organisations/astornox/ranks/astornox-lieutenant.md) and his vanguard who came for his family's sheep in the night.
+When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../organisations/government/astornox/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) and his vanguard who came for his family's sheep in the night.
 
-Tamman was severely beaten for his insolence. As penance, Schaef Seren was forced to herd the best of his remaining livestock back to the [Astornox](../organisations/astornox/astornox.md) garrison. While doing this, an avalanche caused by [Ephaine Seren](ephaine-seren.md) buried the [Astornox](../organisations/astornox/astornox.md) still present near his family home. He returned with the [Astornox](../organisations/astornox/astornox.md) escort to his home.
+Tamman was severely beaten for his insolence. As penance, Schaef Seren was forced to herd the best of his remaining livestock back to the [Astornox](../organisations/government/astornox/astornox.md) garrison. While doing this, an avalanche caused by [Ephaine Seren](ephaine-seren.md) buried the [Astornox](../organisations/government/astornox/astornox.md) still present near his family home. He returned with the [Astornox](../organisations/government/astornox/astornox.md) escort to his home.
 
-By the time he arrived, Ephaine had fled, seeking the [Astorrel](../organisations/astorrel/astorrel.md) for [sanctuary](../organisations/astorrel/sanctuary.md).
+By the time he arrived, Ephaine had fled, seeking the [Astorrel](../organisations/government/astorrel/astorrel.md) for [sanctuary](../organisations/government/astorrel/sanctuary.md).

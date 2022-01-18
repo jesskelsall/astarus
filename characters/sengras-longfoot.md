@@ -14,13 +14,13 @@
 | **Relations** | [Darius Dunn](darius-dunn.md) (pen pal) |
 | **Places** | [Eskrigg](../places/cities/eskrigg.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation(s)** | [Astornox](../organisations/astornox/astornox.md) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Sengras Longfoot is a halfling earth genasi that works for the [Eskrigg](../places/cities/eskrigg.md) [Astornox](../organisations/astornox/astornox.md). He is a peaceful and matter of fact man.
+Sengras Longfoot is a halfling earth genasi that works for the [Eskrigg](../places/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md). He is a peaceful and matter of fact man.
 
 [Darius Dunn](darius-dunn.md) has been in contact with him while investigating the presence and nature of genasi in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
@@ -28,7 +28,7 @@ Sengras Longfoot is a halfling earth genasi that works for the [Eskrigg](../plac
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Lieutenant](../organisations/astornox/ranks/astornox-lieutenant.md) | Settlements / [Eskrigg](../places/cities/eskrigg.md) | [Legacy Aranius](legacy-aranius.md) ||
+|| [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) | Settlements / [Eskrigg](../places/cities/eskrigg.md) | [Legacy Aranius](legacy-aranius.md) ||
 
 ## Characteristics
 
@@ -37,7 +37,7 @@ Sengras Longfoot is a halfling earth genasi that works for the [Eskrigg](../plac
 | **Face** | Dirty sandy grey skin, brown eyes. Square bland face. | characteristics.2
 | **Hair** | Long curled white hair. |
 | **Body** | 3'6" / 107cm, regular build. |
-| **Clothes** | [Astornox](../organisations/astornox/astornox.md) Officer's Uniform |
+| **Clothes** | [Astornox](../organisations/government/astornox/astornox.md) Officer's Uniform |
 | **Voice** | Male register, hoarse. |
 | **Mannerisms** | Occasionally squints. Is always serene. |
 | | |

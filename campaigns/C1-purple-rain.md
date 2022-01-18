@@ -50,7 +50,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR06](../sessions/PR06.md) | 2020-11-11 | *What Lies Beneath the Forest* |
 | [PR07](../sessions/PR07.md) | 2020-11-16 | *Creatures in the Crater* |
 | [PR08](../sessions/PR08.md) | 2020-11-18 | *Returning to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md)* |
-| [PR09](../sessions/PR09.md) | 2020-12-02 | *Not [Astornox](../organisations/astornox/astornox.md), [Astorrel](../organisations/astorrel/astorrel.md)* |
+| [PR09](../sessions/PR09.md) | 2020-12-02 | *Not [Astornox](../organisations/government/astornox/astornox.md), [Astorrel](../organisations/government/astorrel/astorrel.md)* |
 | [PR10](../sessions/PR10.md) | 2020-12-09 | *[Magicborn on the Run](../storylines/ended/magicborn-on-the-run.md)* |
 | [PR11](../sessions/PR11.md) | 2020-12-16 | *Hills, Voices, and Mind Reading* |
 | [PR12](../sessions/PR12.md) | 2021-01-27 | *[The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md)* |
@@ -59,14 +59,14 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR15](../sessions/PR15.md) | 2021-02-13 | *A House of Help* |
 | [PR16](../sessions/PR16.md) | 2021-02-17 | *The [Northhaven Wall](../places/structures/northhaven-wall.md)* |
 | [PR17](../sessions/PR17.md) | 2021-02-24 | *Spotted, Cornered* |
-| [PR18](../sessions/PR18.md) | 2021-03-03 | *[Sanctuary](../organisations/astorrel/sanctuary.md)* |
+| [PR18](../sessions/PR18.md) | 2021-03-03 | *[Sanctuary](../organisations/government/astorrel/sanctuary.md)* |
 | [PR19](../sessions/PR19.md) | 2021-03-10 | *A Revolving Door of Visitors* |
 | [PR20](../sessions/PR20.md) | 2021-03-24 | *[The Firbolg Controversy](../storylines/ended/the-firbolg-controversy.md) Trial* |
 | [PR21](../sessions/PR21.md) | 2021-03-31 | *[Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md)* |
 | [PR22](../sessions/PR22.md) | 2021-04-07 | *Unleashed on [Northhaven](../places/cities/northhaven.md)* |
 | [AA08](../sessions/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)*
-| [PR23](../sessions/PR23.md) | 2021-04-28 | *[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) vs [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md)* |
-| [PR24](../sessions/PR24.md) | 2021-05-05 | *[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) vs [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md)* |
+| [PR23](../sessions/PR23.md) | 2021-04-28 | *[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) vs [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md)* |
+| [PR24](../sessions/PR24.md) | 2021-05-05 | *[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) vs [Gloom Squad](../organisations/government/astorrel/squads/gloom-squad.md)* |
 | [PR25](../sessions/PR25.md) | 2021-06-09 | *[Blade's Rest](../festivals/blades-rest.md) Festival* |
 | [PR26](../sessions/PR26.md) | 2021-06-12 | *Nature's Final* |
 | [PR27](../sessions/PR27.md) | 2021-06-16 | *Let's Get Down to Business* |

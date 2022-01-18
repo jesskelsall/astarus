@@ -20,10 +20,10 @@ The city is set above the cliffs on multiple levels, with staircases and bridges
 
 Life here is a constant fight. The winds coming from across the sea buffet the city regularly, so all of the buildings are made from heavy stone mined from the nearby cliffs. Ships frequently wreck against the cliffs near here, devastating the families that rely on the income, and fuelling sea creature & ghost stories.
 
-## [Astorrel](../../organisations/astorrel/astorrel.md) Training Programme
+## [Astorrel](../../organisations/government/astorrel/astorrel.md) Training Programme
 
-*See: [Astorrel](../../organisations/astorrel/astorrel.md)*
+*See: [Astorrel](../../organisations/government/astorrel/astorrel.md)*
 
-The [Astorrel](../../organisations/astorrel/astorrel.md) sends their recruits here for training, in a process that takes 2-4 years. While here they stay in the [Astorrel](../../organisations/astorrel/astorrel.md) stronghold within the city, which is mostly set underground in the coastal caves. 
+The [Astorrel](../../organisations/government/astorrel/astorrel.md) sends their recruits here for training, in a process that takes 2-4 years. While here they stay in the [Astorrel](../../organisations/government/astorrel/astorrel.md) stronghold within the city, which is mostly set underground in the coastal caves. 
 
-Recruits are set up with their mentors who then take them out into the wilderness to learn about nature. A combination of nearby mountains, forest, jagged coastal terrain, and the sea make this the perfect place to bend recruits near to breaking point in order to see if they are up to the task of becoming an [Astorrel](../../organisations/astorrel/astorrel.md).
+Recruits are set up with their mentors who then take them out into the wilderness to learn about nature. A combination of nearby mountains, forest, jagged coastal terrain, and the sea make this the perfect place to bend recruits near to breaking point in order to see if they are up to the task of becoming an [Astorrel](../../organisations/government/astorrel/astorrel.md).

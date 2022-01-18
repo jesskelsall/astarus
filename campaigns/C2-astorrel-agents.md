@@ -4,7 +4,7 @@
 
 ## Premise
 
-The player characters are freshly graduated members of the [Astorrel](../organisations/astorrel/astorrel.md) who go on missions to maintain the balance of nature and the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md)'s prosperity.
+The player characters are freshly graduated members of the [Astorrel](../organisations/government/astorrel/astorrel.md) who go on missions to maintain the balance of nature and the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md)'s prosperity.
 
 ## Party Members
 
@@ -43,18 +43,18 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 |---| --- | --- |
 | [AA00](../sessions/AA00.md) | 2021-01-02 | *Session Zero* |
 | [AA01](../sessions/AA01.md) | 2021-01-16 | *[Astorrel Graduation](../storylines/ended/astorrel-graduation.md)* |
-| [AA02](../sessions/AA02.md) | 2021-01-30 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md)* |
+| [AA02](../sessions/AA02.md) | 2021-01-30 | *[Canary Squad](../organisations/government/astorrel/squads/canary-squad.md)* |
 | [AA03](../sessions/AA03.md) | 2021-02-13 | *Trouble in [Arnaside](../places/villages/arnaside.md)* |
 | [AA04](../sessions/AA04.md) | 2021-02-27 | *Negotiations in Draconic* |
 | [AA05](../sessions/AA05.md) | 2021-03-13 | *Take Me to Your Leader* |
 | [AA06](../sessions/AA06.md) | 2021-03-27 | *Fruit Cake and Fights* |
 | [AA07](../sessions/AA07.md) | 2021-04-10 | *Dawn of Noon* |
 | [AA08](../sessions/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)* |
-| [AA09](../sessions/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md)* |
+| [AA09](../sessions/AA09.md) | 2021-05-08 | *[Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) vs [Komodo Squad](../organisations/government/astorrel/squads/komodo-squad.md)* |
 | [AA10](../sessions/AA10.md) | 2021-06-12 | *Dark Steel, Darker Sewers* |
 | [AA11](../sessions/AA11.md) | 2021-06-26 | *Syntenne Spy Showdown* |
 | [AA12](../sessions/AA12.md) | 2021-07-10 | *Forget What You Saw Here* |
-| [AA13](../sessions/AA13.md) | 2021-09-04 | *Where is [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md)?* |
+| [AA13](../sessions/AA13.md) | 2021-09-04 | *Where is [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md)?* |
 | [AA14](../sessions/AA14.md) | 2021-09-18 | *Shadows and the Shady* |
 | [AA15](../sessions/AA15.md) | 2021-10-02 | *Wolf Valley* |
 | [AA16](../sessions/AA16.md) | 2021-10-30 | *Ephaine Comes Home* |

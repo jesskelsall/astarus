@@ -5,9 +5,9 @@
 |||
 | --- | --- |
 | **Name** | Schiller Family | organisation.4
-| **Civilisation** | Kardanis |
-| **Leader** | Bernard Horace Schiller |
-| **Patron(s)** | Nilliski |
+| **Civilisation** | [Kardanis](../places/regions/kardanis.md) |
+| **Leader** | [Bernard Horace Schiller](../characters/bernard-horace-schiller.md) |
+| **Patron(s)** | [Nilliski](../characters/nilliski.md) |
 | **Location(s)** | Ballabeg (home village) |
 |||
 | **Image ID** | `bdcd922f44736212` |

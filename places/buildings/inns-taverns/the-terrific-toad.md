@@ -10,4 +10,4 @@
 
 ## Summary
 
-The Terrific Toad is an inn in a district of [Murkwallow](../../cities/murkwallow.md) not controlled by the [Marsh Skimmers](../../../organisations/marsh-skimmers.md).
+The Terrific Toad is an inn in a district of [Murkwallow](../../cities/murkwallow.md) not controlled by the [Marsh Skimmers](../../../organisations/criminals/marsh-skimmers.md).

@@ -14,7 +14,7 @@
 
 ## Summary
 
-Aura Squad is an [Astorrel](../astorrel.md) Squad that investigates spectral phenomena including ghosts. [Lucia Velpione](../../../characters/lucia-velpione.md) was a member before transferring to [Starfall squad](starfall-squad.md).
+Aura Squad is an [Astorrel](../astorrel.md) Squad that investigates spectral phenomena including ghosts. [Lucia Velpione](../../../../characters/lucia-velpione.md) was a member before transferring to [Starfall squad](starfall-squad.md).
 
 ## Missions
 
@@ -25,5 +25,5 @@ Aura Squad is an [Astorrel](../astorrel.md) Squad that investigates spectral phe
 
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
-||| [Lucia Velpione](../../../characters/lucia-velpione.md) | First encountered. |
-| [PR37](../../../sessions/PR37.md) | [Lucia Velpione](../../../characters/lucia-velpione.md) || Lucia moved to [Starfall Squad](starfall-squad.md). |
+||| [Lucia Velpione](../../../../characters/lucia-velpione.md) | First encountered. |
+| [PR37](../../../../sessions/PR37.md) | [Lucia Velpione](../../../../characters/lucia-velpione.md) || Lucia moved to [Starfall Squad](starfall-squad.md). |

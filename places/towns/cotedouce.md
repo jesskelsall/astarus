@@ -8,7 +8,7 @@
 | **Civilisation** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Population** | 1,000 |
 | **Nearby Places** | |
-| **People** | [Oriel Elsandoral](../../characters/oriel-elsandoral.md) (arch-mage)<br>[Grouper](../../characters/grouper.md) ([Marsh Skimmers](../../organisations/marsh-skimmers.md) contact) |
+| **People** | [Oriel Elsandoral](../../characters/oriel-elsandoral.md) (arch-mage)<br>[Grouper](../../characters/grouper.md) ([Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md) contact) |
 
 ## Summary
 

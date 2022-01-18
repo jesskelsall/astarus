@@ -14,8 +14,8 @@
 | **Places** | |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornar](../organisations/astornar.md) |
-| **Rank** | [Astornar](../organisations/astornar.md) General |
+| **Organisation** | [Astornar](../organisations/government/astornar.md) |
+| **Rank** | [Astornar](../organisations/government/astornar.md) General |
 | **Role** | Culture |
 | **Commanding Officer** | [Corville Thornox](corville-thornox.md) |
 | **Subordinates** | |
@@ -33,7 +33,7 @@ TODO
 | **Face** | Pale skin, wide jaw line. Blue eyes. | characteristics.2
 | **Hair** | Long reddish hair in a ponytail. Cut through her left eyebrow. |
 | **Body** | 6'2" / 188cm. Muscular. |
-| **Clothes** | [Astornar](../organisations/astornar.md) General's uniform. |
+| **Clothes** | [Astornar](../organisations/government/astornar.md) General's uniform. |
 | **Voice** | Low female register. Bad German accent. |
 | **Mannerisms** | Plays with her hair a lot. Rarely looks present, but is listening carefully. |
 | | |

@@ -10,7 +10,7 @@
 
 ## Summary
 
-Hawk's Perch is a library in the [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md). It is open to [Astorrel](../../organisations/astorrel/astorrel.md) who have research needs, mission or personal.
+Hawk's Perch is a library in the [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md). It is open to [Astorrel](../../organisations/government/astorrel/astorrel.md) who have research needs, mission or personal.
 
 Books and scrolls can be studied at one of the many tables on each floor. They are not allowed to leave the premises.
 

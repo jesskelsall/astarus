@@ -30,6 +30,6 @@ Realising the implication of another prophetic dream coming to fruition and her 
 
 [Eskrigg](../places/cities/eskrigg.md) will be destroyed by a [meteorite](../items/meteoric/meteorite.md) bombardment that destroys buildings and deploys an unprecedented number of [the meteorics](../lineages/the-meteorics.md). Most of the population will be wiped out entirely.
 
-[Tyburn Dalvos](../characters/tyburn-dalvos.md), conspiring with [Malnesh](../gods/deities/malnesh.md), will fail to see this coming, preventing the [Astorrel](../organisations/astorrel/astorrel.md) from preventing the attack.
+[Tyburn Dalvos](../characters/tyburn-dalvos.md), conspiring with [Malnesh](../gods/deities/malnesh.md), will fail to see this coming, preventing the [Astorrel](../organisations/government/astorrel/astorrel.md) from preventing the attack.
 
 Potentially a section or building in the city will survive. Why it survived will be crucial to countering the meteoric threat.

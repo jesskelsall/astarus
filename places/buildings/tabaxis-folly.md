@@ -10,9 +10,9 @@
 
 ## Summary
 
-*See: [Marsh Skimmers](../../organisations/marsh-skimmers.md)*
+*See: [Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md)*
 
-Tabaxi's Folly is the headquarters of the [Marsh Skimmers](../../organisations/marsh-skimmers.md). A series of underground tunnels and chambers built under most of the city of [Murkwallow](../cities/murkwallow.md).
+Tabaxi's Folly is the headquarters of the [Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md). A series of underground tunnels and chambers built under most of the city of [Murkwallow](../cities/murkwallow.md).
 
 ### Exterior
 
@@ -25,7 +25,7 @@ Entry is made by hidden doors set into the cobblestone under various canal bridg
 | Sights | Pitch black narrow & squat maze of tunnels navigating the entire city. Large central chamber, a 10ft high stone cavern containing wooden benches and a canteen serving food. Candles on each table provide lighting. Wooden doors around edges lead to isolated bars. |
 | Sounds | Distant howl of wind, water drips, coughing. |
 | Smells | Stale water, stone, candle wax. |
-| People | [Marsh Skimmers](../../organisations/marsh-skimmers.md) minding their own business. |
+| People | [Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md) minding their own business. |
 | Intrigue | A subterranean network of tunnels under a city supposedly too muddy for heavy or deep foundations. |
 
 ## Places

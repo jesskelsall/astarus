@@ -18,7 +18,7 @@ These days Hyceodd is increasingly cosmopolitan due to being a destination for i
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Large 20ft wall spanning from forest to river, set amongst flat grassy plains. Second wall ring on the north side of the wall with the town at its centre. Large gatehouses on both sides.<br>Adjoined large harbour, mostly empty except for trade ships.<br>Gridded street layout with 2 and 3 storey medieval buildings.<br>Rectangular marketplace, perpendicular to [Great Astor Road](../roads/great-astor-road.md). [Astornox](../../organisations/astornox/astornox.md) stronghold on far left, marketplace on right hand side.<br>Prominent temple in the middle of the marketplace, with the road running around it on both sides. |
+| Sights | Large 20ft wall spanning from forest to river, set amongst flat grassy plains. Second wall ring on the north side of the wall with the town at its centre. Large gatehouses on both sides.<br>Adjoined large harbour, mostly empty except for trade ships.<br>Gridded street layout with 2 and 3 storey medieval buildings.<br>Rectangular marketplace, perpendicular to [Great Astor Road](../roads/great-astor-road.md). [Astornox](../../organisations/government/astornox/astornox.md) stronghold on far left, marketplace on right hand side.<br>Prominent temple in the middle of the marketplace, with the road running around it on both sides. |
 | Sounds | Chatter, trade, dogs barking, children playing, pigeons. |
 | Smells | Fish, excrement, fresh produce. |
 | People | Incredibly varied mix of races. Predominantly poor. |

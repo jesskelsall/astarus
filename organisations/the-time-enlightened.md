@@ -5,10 +5,10 @@
 |||
 | --- | --- |
 | **Name** | The Time Enlightened | organisation.4
-| **Civilisation** | The Dragonbrand |
+| **Civilisation** | [The Dragonbrand](../civilisations/nilsavnic-alliance/states/the-dragonbrand.md) |
 | **Leader** | |
-| **Patron(s)** | Valnos |
-| **Location(s)** | Lelxuuth (home city)<br>Atrium to Oonar (headquarters) |
+| **Patron(s)** | [Valnos](../gods/deities/valnos.md) |
+| **Location(s)** | [Lelxuuth](../places/cities/lelxuuth.md) (home city)<br>Atrium to [Oonar](../planes/oonar.md) (headquarters) |
 |||
 | **Image ID** | `ed384a67c8230d67` |
 

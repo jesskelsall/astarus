@@ -10,12 +10,12 @@
 | **Age** | 217 |
 | **Class** | Druid (Circle of the Land, Forest) |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
-| **Relations** | [Weldira Cobblecase](weldira-cobblecase.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
+| **Relations** | [Weldira Cobblecase](weldira-cobblecase.md) ([Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
 | **Places** | [Hawkswood](../places/forests/hawkswood.md) (birthplace) |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) |
 | **Role** | Conscription |
 | **Commanding Officer** | [Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) |
 | **Subordinates** | |
@@ -68,10 +68,10 @@ Bluefoot was born into the [Hawkswood](../places/forests/hawkswood.md) firbolg t
 
 Becoming a vocal tribe member on issues of preserving the habitat around him, Bluefoot got into a heated disagreement with the tribe elder, causing him to get kicked out. He endeavoured to join the civilisation that surrounded the forest on both sides.
 
-Bluefoot was spotted by an [Astornox](../organisations/astornox/astornox.md) recruiter looking for those with magic to sign on as a [magicborn](../civilisations/kingdom-of-astor/magicborn.md) hunter. A naïve person, Bluefoot didn't fully comprehend what he was getting himself into. Upon realising, and then learning of the [Astorrel](../organisations/astorrel/astorrel.md) (an organisation that would have better suited him), his spirit was broken.
+Bluefoot was spotted by an [Astornox](../organisations/government/astornox/astornox.md) recruiter looking for those with magic to sign on as a [magicborn](../civilisations/kingdom-of-astor/magicborn.md) hunter. A naïve person, Bluefoot didn't fully comprehend what he was getting himself into. Upon realising, and then learning of the [Astorrel](../organisations/government/astorrel/astorrel.md) (an organisation that would have better suited him), his spirit was broken.
 
 He continues to perform his duties as expected of him, but cares not for the civilisation he interacts with any more. Floating through life, Bluefoot no longer enjoys anything but the embrace of nature.
 
 ### [Schaef Seren](schaef-seren.md)
 
-When [Schaef Seren](schaef-seren.md) left [Filisur](../places/villages/filisur.md) to pursue an [Astornox](../organisations/astornox/astornox.md) career, he met Bluefoot north of [Hyceodd](../places/towns/hyceodd.md). Learning of his desires, Bluefoot explained what [Astornox magicborn hunters](../organisations/astornox/ranks/astornox-magicborn-hunter.md) are, giving Schaef the idea to join their ranks. Bluefoot was able to point him to a recruiter in [Hyceodd](../places/towns/hyceodd.md).
+When [Schaef Seren](schaef-seren.md) left [Filisur](../places/villages/filisur.md) to pursue an [Astornox](../organisations/government/astornox/astornox.md) career, he met Bluefoot north of [Hyceodd](../places/towns/hyceodd.md). Learning of his desires, Bluefoot explained what [Astornox magicborn hunters](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) are, giving Schaef the idea to join their ranks. Bluefoot was able to point him to a recruiter in [Hyceodd](../places/towns/hyceodd.md).

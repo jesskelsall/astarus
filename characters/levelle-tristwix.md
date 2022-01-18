@@ -14,8 +14,8 @@
 | **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Commandant](../organisations/astorrel/ranks/astorrel-commandant.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Commandant](../organisations/government/astorrel/ranks/astorrel-commandant.md) |
 | **Role** | |
 | **Commanding Officer** | [Polgast Mouldylog](polgast-mouldylog.md) |
 | **Subordinates** | [Kasston Tosslefront](kasston-tosslefront.md) (Major of Urban Expansion)<br>[Mindira Flibfae](mindira-flibfae.md) (Major of Forests) |
@@ -24,9 +24,9 @@
 
 ## Summary
 
-Levelle Tristwix is the [Astorrel Commandant](../organisations/astorrel/ranks/astorrel-commandant.md) in charge of the organisation's day-to-day operations.
+Levelle Tristwix is the [Astorrel Commandant](../organisations/government/astorrel/ranks/astorrel-commandant.md) in charge of the organisation's day-to-day operations.
 
-She is a politically savvy commandant who is a big believer in the [Astorrel](../organisations/astorrel/astorrel.md). Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the [Astornox](../organisations/astornox/astornox.md).
+She is a politically savvy commandant who is a big believer in the [Astorrel](../organisations/government/astorrel/astorrel.md). Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the [Astornox](../organisations/government/astornox/astornox.md).
 
 ## Characteristics
 
@@ -35,14 +35,14 @@ She is a politically savvy commandant who is a big believer in the [Astorrel](..
 | **Face** | Pointed features, focused eyes, eye wrinkles. | characteristics.2
 | **Hair** | Fair blonde, topknot. |
 | **Body** | 3'3" (tall for a halfling), medium build. |
-| **Clothes** | [Astorrel officer's uniform](../organisations/astorrel/uniforms/astorrel-officers-uniform.md) |
+| **Clothes** | [Astorrel officer's uniform](../organisations/government/astorrel/uniforms/astorrel-officers-uniform.md) |
 | **Voice** | Posh and slow. |
 | **Mannerisms** | Slow and purposeful. Understated. |
 | | |
 | **Quirks** | Easily commands a room despite her size and slow speech. |
 | **Knowledge** | The natural world, political savvy. |
-| **Values** | Duty to the [Astorrel](../organisations/astorrel/astorrel.md), nature. |
-| **Ambitions** | Less conflict with the [Astornox](../organisations/astornox/astornox.md). |
+| **Values** | Duty to the [Astorrel](../organisations/government/astorrel/astorrel.md), nature. |
+| **Ambitions** | Less conflict with the [Astornox](../organisations/government/astornox/astornox.md). |
 | **Dislikes** | Time wasters. |
 
 ## History

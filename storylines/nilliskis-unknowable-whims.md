@@ -13,7 +13,7 @@
 
 ### [AA10](../sessions/AA10.md)
 
-After [Noon Schiller](../characters/noon-schiller.md) reads the letter given to him ([AA10-L-1](../letters/AA10-L-1.md)), [Nills](../characters/nills.md) appears to nudge Noon towards claiming the [free Schiller steel](ended/free-schiller-steel.md) weapon for one of his new [Astorrel squad hands](../organisations/astorrel/ranks/astorrel-squad-hand.md).
+After [Noon Schiller](../characters/noon-schiller.md) reads the letter given to him ([AA10-L-1](../letters/AA10-L-1.md)), [Nills](../characters/nills.md) appears to nudge Noon towards claiming the [free Schiller steel](ended/free-schiller-steel.md) weapon for one of his new [Astorrel squad hands](../organisations/government/astorrel/ranks/astorrel-squad-hand.md).
 
 *[Nills](../characters/nills.md):*
 > Aww, I think he's the one that's soft! I was beginning to think that father didn't love you. I don't think you need his charity, do you [brother light](../characters/noon-schiller.md)? Though I'm not too sure about your new friends...
@@ -29,7 +29,7 @@ Noon doesn't pick up the meaning, instead opting to leave the shop for now.
 
 ### [AA12](../sessions/AA12.md)
 
-When [Canary squad](../organisations/astorrel/squads/canary-squad.md) and [Yialdred Korina](../characters/yialdred-korina.md) emerge from the [Eskrigg](../places/cities/eskrigg.md) sewers and leave the custody of [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md) via a second Arcane Gate, they take a collective moment to decompress and consider what to do next.
+When [Canary squad](../organisations/government/astorrel/squads/canary-squad.md) and [Yialdred Korina](../characters/yialdred-korina.md) emerge from the [Eskrigg](../places/cities/eskrigg.md) sewers and leave the custody of [Gwenhwyfar Carew](../characters/gwenhwyfar-carew.md) via a second Arcane Gate, they take a collective moment to decompress and consider what to do next.
 
 While [Noon Schiller](../characters/noon-schiller.md) is pacing, [Nills](../characters/nills.md) appears, leaning against the wall. She is initially silent until Noon uses Awakened Mind to converse with her.
 
@@ -101,7 +101,7 @@ While riding into the bottom of the [Tresenda Pass](../places/roads/tresenda-pas
 
 ### [AA16](../sessions/AA16.md)
 
-When [Canary Squad](../organisations/astorrel/squads/canary-squad.md) arrives in the [Albulain Valley](../places/plains-valleys/albulain-valley.md) in search of [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md), [Ephaine Seren](../characters/ephaine-seren.md) leads them towards the Schaef Farmstead, using her knowledge of her home village to guide them. [Nills](../characters/nills.md) can be seen to [Noon Schiller](../characters/noon-schiller.md), walking alongside Ephaine for around an hour, exploring the area with her.
+When [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) arrives in the [Albulain Valley](../places/plains-valleys/albulain-valley.md) in search of [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md), [Ephaine Seren](../characters/ephaine-seren.md) leads them towards the Schaef Farmstead, using her knowledge of her home village to guide them. [Nills](../characters/nills.md) can be seen to [Noon Schiller](../characters/noon-schiller.md), walking alongside Ephaine for around an hour, exploring the area with her.
 
 That evening the party head up to the Shine to the Stars, led once again by Ephaine, at the suggestion of [Schaef Seren](../characters/schaef-seren.md). Once there they look upon the ancient standing stones, curiously trying to figure out their nature while Ephaine rediscovers this place of power that she was once familiar with.
 
@@ -125,7 +125,7 @@ When Ephaine activates Starry Form: Archer to activate the shrine, [Nills](../ch
 
 ### [AA17](../sessions/AA17.md)
 
-While [Canary squad](../organisations/astorrel/squads/canary-squad.md) rests in [Devdaha Crypt](../places/dungeons/devdaha-crypt.md) outside of the door to the chalice trial, [Noon Schiller](../characters/noon-schiller.md) is on watch while everyone else sleeps. [Nills](../characters/nills.md) appears to him, intentionally positioning himself between Noon and the doorway.
+While [Canary squad](../organisations/government/astorrel/squads/canary-squad.md) rests in [Devdaha Crypt](../places/dungeons/devdaha-crypt.md) outside of the door to the chalice trial, [Noon Schiller](../characters/noon-schiller.md) is on watch while everyone else sleeps. [Nills](../characters/nills.md) appears to him, intentionally positioning himself between Noon and the doorway.
 
 *[Nills](../characters/nills.md):*
 > So [Brother Light](../characters/noon-schiller.md), what do you make of all of this?

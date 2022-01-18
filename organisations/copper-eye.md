@@ -7,7 +7,7 @@
 | **Name** | Copper Eye | organisation.4
 | **Civilisation** | Elves of Chausain |
 | **Leader** | |
-| **Patron(s)** | Malnesh |
+| **Patron(s)** | [Malnesh](../gods/deities/malnesh.md) |
 | **Location(s)** | |
 |||
 | **Image ID** | |

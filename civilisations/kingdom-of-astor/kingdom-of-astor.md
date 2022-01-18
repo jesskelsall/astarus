@@ -36,16 +36,16 @@ The Kingdom of Astor is a militocracy. This means that the entire governance str
 
 All of Astor's decision making resides within these military ranks.
 
-Ultimate power resides with the *general supreme*, [Corville Thornox](../../characters/corville-thornox.md). He is the superior officer of the generals of the [Astornar](../../organisations/astornar.md), who in turn are superior officers to the other organisations of the kingdom.
+Ultimate power resides with the *general supreme*, [Corville Thornox](../../characters/corville-thornox.md). He is the superior officer of the generals of the [Astornar](../../organisations/government/astornar.md), who in turn are superior officers to the other organisations of the kingdom.
 
 ## Organisations
 
 Those who are part of one of these organisations are considered to be part of Astor's military, due to their subservience to their superior officer. They can generically describe themselves as a *military member*.
 
-- [Astornar](../../organisations/astornar.md): ruling generals in charge of the kingdom and other organisations.
-- [Astornox](../../organisations/astornox/astornox.md): army, war efforts, local government, guards, protection of the citizens.
-- [Astorrel](../../organisations/astorrel/astorrel.md): upholders of the balance between civilisation and nature.
-- [Astornos](../../organisations/astornos.md): secret spies observing neighbouring civilisations.
+- [Astornar](../../organisations/government/astornar.md): ruling generals in charge of the kingdom and other organisations.
+- [Astornox](../../organisations/government/astornox/astornox.md): army, war efforts, local government, guards, protection of the citizens.
+- [Astorrel](../../organisations/government/astorrel/astorrel.md): upholders of the balance between civilisation and nature.
+- [Astornos](../../organisations/government/astornos.md): secret spies observing neighbouring civilisations.
 
 ## Politics
 

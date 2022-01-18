@@ -4,17 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Marik Kaligavone<br>Stonebreaker (Goliath nickname)<br>*Tempest* ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.3
+| **Name** | Marik Kaligavone<br>Stonebreaker (Goliath nickname)<br>*Tempest* ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) name) | character.3
 | **Lineage** | Goliath |
 | **Pronouns** | she/her |
 | **Age** | 24 |
 | **Class** | Druid (Circle of the Land: Mountains) |
 | **Worship** | |
-| **Relations** | [Keranios](keranios.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) associate)<br>[Creek](creek.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) contact) |
+| **Relations** | [Keranios](keranios.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) associate)<br>[Creek](creek.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact) |
 | **Places** | |
 |||
 | **Citizenship** | [Revenossa](../civilisations/nilsavnic-alliance/states/revenossa.md) |
-| **Organisation** | [Marsh Skimmers](../organisations/marsh-skimmers.md) |
+| **Organisation** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 |||
 | **Image ID** | `5e34f2c0018c62f8` |
 

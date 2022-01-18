@@ -14,9 +14,9 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/astorrel/squads/dolphin-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/government/astorrel/squads/dolphin-squad.md) |
 | **Commanding Officer** | [Emdar Silverstrike](emdar-silverstrike.md) |
 | **Subordinates** | |
 |||

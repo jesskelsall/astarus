@@ -14,14 +14,14 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Marsh Skimmers](../organisations/marsh-skimmers.md) |
+| **Organisation** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 | **Role** | Songbird |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Pouring Grain is a songbird employed by the [Marsh Skimmers](../organisations/marsh-skimmers.md). They work for whoever needs them, present for important conversations before being taken to their destination by other skimmers.
+Pouring Grain is a songbird employed by the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md). They work for whoever needs them, present for important conversations before being taken to their destination by other skimmers.
 
 They don't talk much and are slow to trust other skimmers. Easily spooked and unwilling to get their hands dirty, Pouring Grain can be inventive with their mimicry in a pinch, and will lash out with unflinching violence only when cornered.
 

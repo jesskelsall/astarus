@@ -10,12 +10,12 @@
 | **Age** | 22 |
 | **Class** | Sorcerer (Draconic Bloodline) |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
-| **Relations** | [Vilnia Kovas](vilnia-kovas.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) colleague, dead) |
+| **Relations** | [Vilnia Kovas](vilnia-kovas.md) ([Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) colleague, dead) |
 | **Places** | [Northhaven](../places/cities/northhaven.md) |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) |
 | **Role** | Conscription |
 | **Commanding Officer** | [Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) |
 | **Subordinates** | |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Kur Merkys is an [Astornox magicborn hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) based out of [Northhaven](../places/cities/northhaven.md).
+Kur Merkys is an [Astornox magicborn hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) based out of [Northhaven](../places/cities/northhaven.md).
 
 ## Characteristics
 

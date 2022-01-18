@@ -39,5 +39,5 @@ The inside resembles the Pantheon in Rome in architecture. The entire interior i
 | Sights | Marble interior with pillars around the edges. Larger pillars at the points of the diamond. Stairs going up on the back left wall, down on the back right. Shrines to the [gods](../../../gods/gods.md) in the corners and center. Vast open space in between. |
 | Sounds | Predominant silence. Loud echoing footsteps. Coughing. Occasional loud prayer. |
 | Smells | Incense, candles, cloth, the musk of aged books. |
-| People | Caretakers, worshippers. No [Astornox](../../../organisations/astornox/astornox.md), nobody with a weapon. |
+| People | Caretakers, worshippers. No [Astornox](../../../organisations/government/astornox/astornox.md), nobody with a weapon. |
 | Intrigue | A delicately decorated interior but for the most part an empty chamber. The design is as minimalist as the shell of the building is grand. |

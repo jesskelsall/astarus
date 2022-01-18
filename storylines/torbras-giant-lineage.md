@@ -60,7 +60,7 @@ After the voices stop and the glowing auras subside, [Saoirse](../../../astarus/
 
 ### [PR19](../sessions/PR19.md)
 
-While in [sanctuary](../organisations/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), Torbra is provided paper, ink, and a quill by [Garrick Rose](../characters/garrick-rose.md). She uses her time on [Rune Knight practice](../mechanics/roleplay/rune-knight-practice.md) for the Stone Rune, eventually succeeding in replicating it perfectly.
+While in [sanctuary](../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md), Torbra is provided paper, ink, and a quill by [Garrick Rose](../characters/garrick-rose.md). She uses her time on [Rune Knight practice](../mechanics/roleplay/rune-knight-practice.md) for the Stone Rune, eventually succeeding in replicating it perfectly.
 
 | Stone Rune DC | Roll | Success? |
 |:---:|:---:|:---:|
@@ -76,7 +76,7 @@ As the rune's magic takes hold of the paper, Torbra sees the rune's lines sink i
 
 ### [PR20](../sessions/PR20.md)
 
-During the [Astornar](../organisations/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), the party is asked point-blank if they are [magicborn](../civilisations/kingdom-of-astor/magicborn.md). [Torbra Tauff](../characters/torbra-tauff.md) replies that she isn't sure.
+During the [Astornar](../organisations/government/astornar.md) trial of [the firbolg controversy](ended/the-firbolg-controversy.md), the party is asked point-blank if they are [magicborn](../civilisations/kingdom-of-astor/magicborn.md). [Torbra Tauff](../characters/torbra-tauff.md) replies that she isn't sure.
 
 ### [PR21](../sessions/PR21.md)
 
@@ -111,7 +111,7 @@ On the morning of the [Nature's Battle 28](ended/natures-battle-28.md) final Tor
 
 ### [PR32](../sessions/PR32.md)
 
-[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) meet [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) at [Leithran Shack](../places/buildings/leithran-shack.md), spending the night in their company, learning of their lives and struggles as elves in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). At no point during the evening does anyone notice that Esme is an earth genasi with skin colouration similar to [Torbra Tauff](../characters/torbra-tauff.md)'s. Esme takes a liking to Torbra, wishing to be like her following her use of Giant's Might to grow taller for her amusement.
+[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) meet [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) at [Leithran Shack](../places/buildings/leithran-shack.md), spending the night in their company, learning of their lives and struggles as elves in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). At no point during the evening does anyone notice that Esme is an earth genasi with skin colouration similar to [Torbra Tauff](../characters/torbra-tauff.md)'s. Esme takes a liking to Torbra, wishing to be like her following her use of Giant's Might to grow taller for her amusement.
 
 At the end of Torbra's night watch she returns to the shack and overhears Esme murmuring in her sleep, repeating the same phrase periodically:
 
@@ -128,7 +128,7 @@ Montel also explains that his wife and Esme's mother is of elven descent like hi
 
 Torbra expressed her wish to see them relocated somewhere safe so that Esme could have a childhood. She offers Iredale, her home town, to Montel who appears to like Torbra's description of the place, it's people, and their tolerance for her during her upbringing there.
 
-The party agrees to bring Montel and Esme with them while they complete their [Astorrel](../organisations/astorrel/astorrel.md) mission. They will help guide them out of the Humar Estuary.
+The party agrees to bring Montel and Esme with them while they complete their [Astorrel](../organisations/government/astorrel/astorrel.md) mission. They will help guide them out of the Humar Estuary.
 
 ### [PR36](../sessions/PR36.md)
 

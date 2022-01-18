@@ -14,8 +14,8 @@
 | **Places** | |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Commandant](../organisations/astornox/ranks/astornox-commandant.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox Commandant](../organisations/government/astornox/ranks/astornox-commandant.md) |
 | **Role** | |
 | **Commanding Officer** | [Anton Haverwick](anton-haverwick.md) |
 | **Subordinates** | [Overon Nightingale](overon-nightingale.md) (Major of Settlements)<br>[Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) (Major of Conscription) |
@@ -33,7 +33,7 @@ TODO
 | **Face** | Pale skin, pockmarked face, bulbous chin. Large scar across right eye which is cloudy white. Other eye is brown. | characteristics.2
 | **Hair** | Dark brown braided hair down to his feet. Big dwarven beard of similar length. |
 | **Body** | 4'3" / 130cm. Wide and muscular. |
-| **Clothes** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md)'s uniform. |
+| **Clothes** | [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md)'s uniform. |
 | **Voice** | Deep male register. Scottish accent. |
 | **Mannerisms** | Relaxed and with little regard to the power his rank commands. |
 | | |

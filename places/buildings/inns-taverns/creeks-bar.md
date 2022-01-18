@@ -10,7 +10,7 @@
 
 ## Summary
 
-Creek's Bar is an isolated section of [Tabaxi's Folly](../tabaxis-folly.md), home to the [Marsh Skimmers](../../../organisations/marsh-skimmers.md). It is a series of two rooms that serve as a meeting place for [Creek](../../../characters/creek.md)'s contacts, and for his personal business use.
+Creek's Bar is an isolated section of [Tabaxi's Folly](../tabaxis-folly.md), home to the [Marsh Skimmers](../../../organisations/criminals/marsh-skimmers.md). It is a series of two rooms that serve as a meeting place for [Creek](../../../characters/creek.md)'s contacts, and for his personal business use.
 
 ### Interior
 

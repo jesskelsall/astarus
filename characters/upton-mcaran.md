@@ -14,7 +14,7 @@
 | **Relations** | |
 | **Places** | [Hyceodd Trade Post](../places/buildings/stables/hyceodd-trade-post.md) (owner) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation(s)** | [Astornox](../organisations/astornox/astornox.md) (retired) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
 |||
 | **Image ID** | |
 

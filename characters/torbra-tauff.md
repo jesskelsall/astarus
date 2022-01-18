@@ -10,13 +10,13 @@
 | **Age** | |
 | **Class** | Fighter (Rune Knight) |
 | **Background** | Folk Hero |
-| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
-| **Relations** | [Emelina Tauff](emelina-tauff.md) (adoptive mother)<br>[Ealo Tauff](ealo-tauff.md) (adoptive father)<br>[Einra Craggbeard](einra-craggbeard.md) (childhood friend)<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Astornox Captain](../organisations/astornox/ranks/astornox-captain.md): Iredale)<br>[Teresa Resk](teresa-resk.md) (Hjalmann's wife) |
+| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
+| **Relations** | [Emelina Tauff](emelina-tauff.md) (adoptive mother)<br>[Ealo Tauff](ealo-tauff.md) (adoptive father)<br>[Einra Craggbeard](einra-craggbeard.md) (childhood friend)<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md): Iredale)<br>[Teresa Resk](teresa-resk.md) (Hjalmann's wife) |
 | **Places** | Iredale |
 | **Citizenship** | |
-| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
-| **Image ID** | `c275fac3807fe83b`<br>`e7cc21ea436f896e` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
+| **Image ID** | `c275fac3807fe83b`<br>`e7cc21ea436f896e` ([Sanctuary](../organisations/government/astorrel/sanctuary.md) [Astorrel robes](../organisations/government/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 
@@ -26,8 +26,8 @@ TODO
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
-| [PR27](../sessions/PR27.md) | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR27](../sessions/PR27.md) | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls
 

@@ -10,14 +10,14 @@
 
 ## Summary
 
-The Blittergate Astornox Stronghold is the home of the [Astornox](../../organisations/astornox/astornox.md) presence in [Blittergate](../towns/blittergate.md). It is a large stone tower near the centre of the town, clearly visible from miles around.
+The Blittergate Astornox Stronghold is the home of the [Astornox](../../organisations/government/astornox/astornox.md) presence in [Blittergate](../towns/blittergate.md). It is a large stone tower near the centre of the town, clearly visible from miles around.
 
 It is located 
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Three storey square stone tower with flat roof, adjacent to the road heading north.<br>Large [Astornox](../../organisations/astornox/astornox.md) flag on a pole at its top, smaller flag above the wooden front door, visible from the street. |
+| Sights | Three storey square stone tower with flat roof, adjacent to the road heading north.<br>Large [Astornox](../../organisations/government/astornox/astornox.md) flag on a pole at its top, smaller flag above the wooden front door, visible from the street. |
 | Sounds | [Blittergate](../towns/blittergate.md) villagers, farm animals. |
 | Smells | Mud, manure. |
-| People | [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) infrequently coming and going. |
-| Intrigue | A small [Astornox](../../organisations/astornox/astornox.md) stronghold for a small town. |
+| People | [Astornox guards](../../organisations/government/astornox/ranks/astornox-guard.md) infrequently coming and going. |
+| Intrigue | A small [Astornox](../../organisations/government/astornox/astornox.md) stronghold for a small town. |

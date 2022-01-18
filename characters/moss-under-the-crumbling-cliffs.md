@@ -8,7 +8,7 @@
 | **Age** | 38 |
 | **Class** | Wizard / Druid |
 | **Alignment** | |
-| **Affiliation** | [Astornar](../organisations/astornar.md) |
+| **Affiliation** | [Astornar](../organisations/government/astornar.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |

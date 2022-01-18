@@ -14,9 +14,9 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Urban Expansion / [Gloom Squad](../organisations/astorrel/squads/gloom-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Urban Expansion / [Gloom Squad](../organisations/government/astorrel/squads/gloom-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||

@@ -14,8 +14,8 @@
 | **Places** | [Eskrigg](../places/cities/eskrigg.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) |
 | **Role** | Settlements / [Eskrigg](../places/cities/eskrigg.md) |
 | **Commanding Officer** | [Overon Nightingale](overon-nightingale.md) |
 | **Subordinates** | [Tanin Arnous](tanin-arnous.md) |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Legacy Aranius is a stern [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) who runs [Eskrigg](../places/cities/eskrigg.md) with an iron fist. He expects much of his subordinates and is hash toward them, but is also a suck-up to his superiors. His goal is to get promoted to [Astornox Major](../organisations/astornox/ranks/astornox-major.md).
+Legacy Aranius is a stern [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) who runs [Eskrigg](../places/cities/eskrigg.md) with an iron fist. He expects much of his subordinates and is hash toward them, but is also a suck-up to his superiors. His goal is to get promoted to [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md).
 
 ## Characteristics
 
@@ -33,7 +33,7 @@ Legacy Aranius is a stern [Astornox Captain](../organisations/astornox/ranks/ast
 | **Face** | Red skin, wide face, black eyes. Ram's horns. | characteristics.2
 | **Hair** | Dark grey, swept back. Grey beard to match. |
 | **Body** | 6'1" / 185cm. Muscular, wide frame. |
-| **Clothes** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md)'s uniform. |
+| **Clothes** | [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md)'s uniform. |
 | **Voice** | Deep male register, gruff, foreign accent. |
 | **Mannerisms** | Quiet and reserved. Casts judgement on others, sucks up to superiors. |
 | | |

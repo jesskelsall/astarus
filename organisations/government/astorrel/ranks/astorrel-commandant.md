@@ -13,9 +13,9 @@
 
 ## Military Badge
 
-*See: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military badges](../../../../civilisations/kingdom-of-astor/military-badges.md)*
 
-Astorrel Commandant badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its edges, forming a square. The use of gold denotes an officer rank. The complete enclosure of the gold strip denotes that this is the highest rank of a [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) organisation.
+Astorrel Commandant badges look like plain [Astorrel](../astorrel.md) [military badges](../../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its edges, forming a square. The use of gold denotes an officer rank. The complete enclosure of the gold strip denotes that this is the highest rank of a [Kingdom of Astor](../../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) organisation.
 
 # Duties
 

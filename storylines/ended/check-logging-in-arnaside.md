@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Bryce Morton](../../characters/bryce-morton.md) tasks [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) with investigating the logging operations north of [Arnaside](../../places/villages/arnaside.md). The squad must ensure that logging is proceeding as normal. If there are signs of excessive logging, Bryce expects the squad to return with a list of culprits.
+[Bryce Morton](../../characters/bryce-morton.md) tasks [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) with investigating the logging operations north of [Arnaside](../../places/villages/arnaside.md). The squad must ensure that logging is proceeding as normal. If there are signs of excessive logging, Bryce expects the squad to return with a list of culprits.
 
 In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not been able to log effectively due to the presence of Kobolds deeper into the [Walna Forest](../../places/forests/walna-forest.md) that are laying traps and stealing from the town at night.
 
@@ -17,12 +17,12 @@ In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not
 
 |||
 | --- | --- |
-| **Given To** | [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) |
+| **Given To** | [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) |
 | **Given By** | [Bryce Morton](../../characters/bryce-morton.md) |
 | **Goal** | Ensure logging operations in [Arnaside](../../places/villages/arnaside.md) are proceeding as normal, and no over-logging is occurring. |
 | **Evidence Required** | Names of any responsible for over-logging. |
 | **Time Limit** | 14 days |
-| **Reward** | [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md): 20 gp |
+| **Reward** | [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md): 20 gp |
 
 ## Mission Report
 
@@ -38,7 +38,7 @@ In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not
 | Ahsha and [Sharakas](../../characters/sharakas.md) went into the [Blue Kobold Cave](../../places/caves/blue-kobold-cave.md) and negotiated a peace treaty for [Arnaside](../../places/villages/arnaside.md). | Persuasion | 16 |
 | Account of [Ikra](../../characters/ikra.md), their leader: distrustful, aggressive, ready for violence. | Persuasion | 17 |
 | [Nenra Zossa](../../characters/nenra-zossa.md) agreed to the peace treaty that was negotiated for them. | Persuasion | 16 |
-| The [Astorrel](../../organisations/astorrel/astorrel.md) should help [Arnaside](../../places/villages/arnaside.md) to log responsibly. | Persuasion | 11 |
+| The [Astorrel](../../organisations/government/astorrel/astorrel.md) should help [Arnaside](../../places/villages/arnaside.md) to log responsibly. | Persuasion | 11 |
 | [Arnaside](../../places/villages/arnaside.md) is built around the worship of [Malnesh](../../gods/deities/malnesh.md). | Persuasion | 7 |
 
 ### Squad Performance
@@ -54,7 +54,7 @@ In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not
 
 ### [AA02](../../sessions/AA02.md)
 
-[Bryce Morton](../../characters/bryce-morton.md) gives both of his squads their missions at the same time, in each other's presence. [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) is tasked with heading to [Arnaside](../../places/villages/arnaside.md) and checking on the new logging operation that has started up there, making sure it is proceeding without issue, but not overdoing it. [Ahsha Sallas](../../characters/ahsha-sallas.md) is made acting [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md) for this mission due to her receiving the Exceptional Trainee Bonus.
+[Bryce Morton](../../characters/bryce-morton.md) gives both of his squads their missions at the same time, in each other's presence. [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) is tasked with heading to [Arnaside](../../places/villages/arnaside.md) and checking on the new logging operation that has started up there, making sure it is proceeding without issue, but not overdoing it. [Ahsha Sallas](../../characters/ahsha-sallas.md) is made acting [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md) for this mission due to her receiving the Exceptional Trainee Bonus.
 
 The party heads off under Ahsha's leadership, deciding to head to [Arnaside](../../places/villages/arnaside.md) via the [Coastal Trail](../../places/roads/coastal-trail.md). They make their way out of the [Sunset District](../../places/districts/sunset-district.md), through the south east gate on the [Northhaven Wall](../../places/structures/northhaven-wall.md), and find a stable. After initially looking at buying their own horses which proves too expensive, they decide to hire a coach.
 
@@ -70,11 +70,11 @@ Upon arrival at [Humouth](../../places/villages/humouth.md), the party rents roo
 
 The following morning, Clay expresses a desire to return to [Northhaven](../../places/cities/northhaven.md) and recover from his injuries. The party convinces him to keep going, paying him extra for the trouble.
 
-They return to the road, Clay riding all day to [Allonby](../../places/villages/allonby.md). Here the party speak to the [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) present, particularly [Roygol Mortisen](../../characters/roygol-mortisen.md), who informs them that they don't patrol as far as [Arnaside](../../places/villages/arnaside.md) as the locals refuse their help. The [Astornox](../../organisations/astornox/astornox.md) are happy to hear that the party dealt with the bandits, but don't find their presence along the [Coastal Trail](../../places/roads/coastal-trail.md) too surprising.
+They return to the road, Clay riding all day to [Allonby](../../places/villages/allonby.md). Here the party speak to the [Astornox guards](../../organisations/government/astornox/ranks/astornox-guard.md) present, particularly [Roygol Mortisen](../../characters/roygol-mortisen.md), who informs them that they don't patrol as far as [Arnaside](../../places/villages/arnaside.md) as the locals refuse their help. The [Astornox](../../organisations/government/astornox/astornox.md) are happy to hear that the party dealt with the bandits, but don't find their presence along the [Coastal Trail](../../places/roads/coastal-trail.md) too surprising.
 
 After another night's sleep, once again the party rides until mid afternoon when they reach [Arnaside](../../places/villages/arnaside.md). They begin by visiting [the Malneshitas](../../places/buildings/temples/the-malneshitas.md), the only remarkable building visible.
 
-Here they meet [Nenra Zossa](../../characters/nenra-zossa.md) who has no concept of the [Astorrel](../../organisations/astorrel/astorrel.md). Despite a clear bias against the [Astornox](../../organisations/astornox/astornox.md) and a want of self reliance, she reluctantly accepts the party due to the issues they've been having with creatures attacking the [Arnaside Logging Camp](../../places/structures/arnaside-logging-camp.md) and the village itself. They come from the forest and have injured several of the loggers. She suggests the group speak to [Kulegar Bronhor](../../characters/kulegar-bronhor.md) at the logging camp.
+Here they meet [Nenra Zossa](../../characters/nenra-zossa.md) who has no concept of the [Astorrel](../../organisations/government/astorrel/astorrel.md). Despite a clear bias against the [Astornox](../../organisations/government/astornox/astornox.md) and a want of self reliance, she reluctantly accepts the party due to the issues they've been having with creatures attacking the [Arnaside Logging Camp](../../places/structures/arnaside-logging-camp.md) and the village itself. They come from the forest and have injured several of the loggers. She suggests the group speak to [Kulegar Bronhor](../../characters/kulegar-bronhor.md) at the logging camp.
 
 After confirming that Clay will stay the night here for them, they make their way up to the [Arnaside Logging Camp](../../places/structures/arnaside-logging-camp.md), meeting [Kulegar Bronhor](../../characters/kulegar-bronhor.md) as he repairs a damaged timber cart axel from a kobold attack the night before. Ephaine helps fix it with Mending.
 
@@ -120,4 +120,4 @@ By morning the party heads off for [Northhaven](../../places/cities/northhaven.m
 
 ### [AA06](../../sessions/AA06.md)
 
-With the mission complete, [Ahsha Sallas](../../characters/ahsha-sallas.md) equally distributes the 80 gp mission reward to the rest of [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) (20 gp each).
+With the mission complete, [Ahsha Sallas](../../characters/ahsha-sallas.md) equally distributes the 80 gp mission reward to the rest of [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) (20 gp each).

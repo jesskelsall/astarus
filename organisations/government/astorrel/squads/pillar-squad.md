@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Squad Name** | Pillar Squad | squad.2
-| **Role** | Cities / [Northhaven](../../../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../../../../places/cities/northhaven.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | |
 | **Squad Hands** | |
@@ -14,7 +14,7 @@
 
 ## Summary
 
-Pillar Squad was an [Astorrel](../astorrel.md) Squad that [Lucia Velpione](../../../characters/lucia-velpione.md) started her [Astorrel](../astorrel.md) career in.
+Pillar Squad was an [Astorrel](../astorrel.md) Squad that [Lucia Velpione](../../../../characters/lucia-velpione.md) started her [Astorrel](../astorrel.md) career in.
 
 ## Missions
 
@@ -25,5 +25,5 @@ Pillar Squad was an [Astorrel](../astorrel.md) Squad that [Lucia Velpione](../..
 
 | Session | Removed | Added | Details |
 |:---:| --- | --- | --- |
-||| [Lucia Velpione](../../../characters/lucia-velpione.md) | First encountered. |
-|| [Lucia Velpione](../../../characters/lucia-velpione.md) || Lucia moved to [Aura Squad](aura-squad.md). |
+||| [Lucia Velpione](../../../../characters/lucia-velpione.md) | First encountered. |
+|| [Lucia Velpione](../../../../characters/lucia-velpione.md) || Lucia moved to [Aura Squad](aura-squad.md). |

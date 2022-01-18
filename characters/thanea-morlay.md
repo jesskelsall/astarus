@@ -10,13 +10,13 @@
 | **Age** | 18 |
 | **Class** | Sorcerer (Clockwork Soul) |
 | **Background** | |
-| **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
+| **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Seraphina](seraphina.md) (deva) |
 | **Places** | Bootle (birthplace) |
 | **Citizenship** | |
-| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
-| **Image ID** | `db42750c63a0a387`<br>`d6b2165277f78c23` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
+| **Image ID** | `db42750c63a0a387`<br>`d6b2165277f78c23` ([Sanctuary](../organisations/government/astorrel/sanctuary.md) [Astorrel robes](../organisations/government/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 
@@ -26,7 +26,7 @@ TODO
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls
 

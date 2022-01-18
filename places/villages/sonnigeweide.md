@@ -7,12 +7,12 @@
 | **Location** | [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Civilisation** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Population** | 650 |
-| **Nearby Places** | Dünnesland<br>[Golfmaul](../towns/golfmaul.md)<br>Schulterwood |
+| **Nearby Places** | [Dünnesland](../towns/dunnesland.md)<br>[Golfmaul](../towns/golfmaul.md)<br>Schulterwood |
 | **People** | |
 
 ## Summary
 
-Sonnigeweide is a farming village that lies between Dünnesland and [Golfmaul](../towns/golfmaul.md), further across the plains towards the Schulterwood. Heavily agricultural, the village is known for its two white windmills, its grains, and the hops used extensively in Dünnesland. 
+Sonnigeweide is a farming village that lies between [Dünnesland](../towns/dunnesland.md) and [Golfmaul](../towns/golfmaul.md), further across the plains towards the Schulterwood. Heavily agricultural, the village is known for its two white windmills, its grains, and the hops used extensively in [Dünnesland](../towns/dunnesland.md). 
 
 ## Etymology
 

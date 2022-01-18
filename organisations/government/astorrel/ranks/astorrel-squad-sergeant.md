@@ -13,9 +13,9 @@
 
 ## Military Badge
 
-*See: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military badges](../../../../civilisations/kingdom-of-astor/military-badges.md)*
 
-Astorrel Squad Sergeant badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its bottom edge. The use of gold denotes an officer rank.
+Astorrel Squad Sergeant badges look like plain [Astorrel](../astorrel.md) [military badges](../../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its bottom edge. The use of gold denotes an officer rank.
 
 # Duties
 
@@ -39,4 +39,4 @@ Other Squad Sergeants choose to distribute their mission bounties under other sy
 
 # People
 
-- [Bryce Morton](../../../characters/bryce-morton.md)
+- [Bryce Morton](../../../../characters/bryce-morton.md)

@@ -12,8 +12,8 @@
 | **Places** | [Zenith Spire](../places/buildings/zenith-spire.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Major](../organisations/astorrel/ranks/astorrel-major.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) |
 | **Role** | Dragons |
 | **Commanding Officer** | [Levelle Tristwix](levelle-tristwix.md) |
 | **Subordinates** |  |

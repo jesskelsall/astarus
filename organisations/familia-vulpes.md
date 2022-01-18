@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Familia Vulpes | organisation.2
-| **Civilisation** | Nil'Savnic Alliance |
+| **Civilisation** | [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Leader** | [Vulpes Soon](../characters/vulpes-soon.md)<br>[Vulpes Geen](../characters/vulpes-geen.md) (former, dead) |
 | **Patron** | |
 | **Location(s)** | [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
@@ -15,10 +15,10 @@
 |||
 | --- | --- |
 | **Name** | Familia Vulpes | organisation.4
-| **Civilisation** | Nil'Savnic Alliance |
-| **Leader** | Vulpes Soon |
+| **Civilisation** | [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Leader** | [Vulpes Soon](../characters/vulpes-soon.md) |
 | **Patron(s)** | |
-| **Location(s)** | Trest (home town)<br>The Fox Hole (headquarters) |
+| **Location(s)** | [Trest](../places/towns/trest.md) (home town)<br>[The Fox Hole](../places/buildings/the-fox-hole.md) (headquarters) |
 |||
 | **Image ID** | `75c9f929854a75b6` |
 

@@ -10,13 +10,13 @@
 | **Age** | 16 |
 | **Class** | Warlock (The Archfey) |
 | **Background** | Criminal / Spy |
-| **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
+| **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Mykiel](mykiel.md) (father, deva)<br>[Effie Silttooth](effie-silttooth.md) (Warlock patron) |
 | **Places** | |
 | **Citizenship** | |
-| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
-| **Image ID** | `96456245c79828b5`<br>`9123d71815a8ce99` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
+| **Image ID** | `96456245c79828b5`<br>`9123d71815a8ce99` ([Sanctuary](../organisations/government/astorrel/sanctuary.md) [Astorrel robes](../organisations/government/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 
@@ -26,7 +26,7 @@ TODO
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls
 

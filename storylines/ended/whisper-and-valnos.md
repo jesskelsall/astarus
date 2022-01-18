@@ -80,4 +80,4 @@ Whisper's biological father died while Whisper was very young. Shout is their ad
 
 Shout should be portrayed as someone making hard decisions to support their clan, but ultimately abandons them as the pressure of providing for them becomes too much. He should come across as sympathetic but not in a way that invalidates Whisper's negative feelings towards him.
 
-Ultimately these dreams should lead Whisper to knowing where their father is. There should be a moment prior to this where Whisper thinks they see their father on duty, but it is merely a similar looking tabaxi [Astornox](../../organisations/astornox/astornox.md).
+Ultimately these dreams should lead Whisper to knowing where their father is. There should be a moment prior to this where Whisper thinks they see their father on duty, but it is merely a similar looking tabaxi [Astornox](../../organisations/government/astornox/astornox.md).

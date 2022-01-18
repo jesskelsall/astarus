@@ -14,11 +14,11 @@
 | **Places** | [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md)<br>[Great Sile Woods](../places/forests/great-sile-woods.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) |
 | **Role** | Forest |
 | **Commanding Officer** | [Mindira Flibfae](mindira-flibfae.md) |
-| **Subordinates** | [Birch Squad](../organisations/astorrel/squads/birch-squad.md) |
+| **Subordinates** | [Birch Squad](../organisations/government/astorrel/squads/birch-squad.md) |
 |||
 | **Image ID** | `3e22248438b88633` |
 
@@ -45,10 +45,10 @@ Rowan Great Sile is from the firbolg clan present in the [Great Sile Woods](../p
 
 ## History
 
-Rowan Great Sile was born to the firbolg clan in [Great Sile Woods](../places/forests/great-sile-woods.md). They lived here for 60 years as a patriarchal leader figure before the [Astorrel](../organisations/astorrel/astorrel.md) discovered their location.
+Rowan Great Sile was born to the firbolg clan in [Great Sile Woods](../places/forests/great-sile-woods.md). They lived here for 60 years as a patriarchal leader figure before the [Astorrel](../organisations/government/astorrel/astorrel.md) discovered their location.
 
-The clan wished to be left alone against the wishes of the [Astorrel](../organisations/astorrel/astorrel.md) who simply wanted to learn who they are, their ways, and their influence on the forest. Rowan bargained with them, agreeing to join them and tell them first-hand if they left the clan to exist undisturbed.
+The clan wished to be left alone against the wishes of the [Astorrel](../organisations/government/astorrel/astorrel.md) who simply wanted to learn who they are, their ways, and their influence on the forest. Rowan bargained with them, agreeing to join them and tell them first-hand if they left the clan to exist undisturbed.
 
-While working for the [Astorrel](../organisations/astorrel/astorrel.md), Rowan saw the good that the organisation was trying to do for nature and committed to helping them more fervently. His knowledge and drive propelled him up the ranks as far as [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) under the Major of Forests.
+While working for the [Astorrel](../organisations/government/astorrel/astorrel.md), Rowan saw the good that the organisation was trying to do for nature and committed to helping them more fervently. His knowledge and drive propelled him up the ranks as far as [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) under the Major of Forests.
 
 Currently Rowan works out of the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), helping to coordinate efforts to preserve the forests and their denizens. He still likes to get out into the forests himself wherever possible. This hands on approach makes him a more effective leader.

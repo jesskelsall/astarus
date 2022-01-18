@@ -9,14 +9,14 @@
 | **Pronouns** | he/him |
 | **Age** | 17 |
 | **Class** | Cleric |
-| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
+| **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Sengras Longfoot](sengras-longfoot.md) (pen pal) |
 | **Places** | Eaglesfield (birthplace) |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) |
 | **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
 | **Subordinates** | |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/astorrel/astorrel.md), and is part of [Ruby Squad](../organisations/astorrel/squads/ruby-squad.md).
+Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/government/astorrel/astorrel.md), and is part of [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md).
 
 ## Characteristics
 
@@ -62,10 +62,10 @@ Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/astorrel/asto
 
 ## History
 
-Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme to escape his home life, graduating after only two years.
+Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme to escape his home life, graduating after only two years.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
-- Their parents are high ranking [Astorrel](../organisations/astorrel/astorrel.md). [truth]
+- Their parents are high ranking [Astorrel](../organisations/government/astorrel/astorrel.md). [truth]
 - They are a pacifist. [truth]
 - They were abandoned by their parents. [lie]

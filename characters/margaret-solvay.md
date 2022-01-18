@@ -14,7 +14,7 @@
 | **Places** | [Margaret's Fineries](../places/buildings/shops/margarets-fineries.md) (owner) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) (retired) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) (retired) |
 |||
 | **Image ID** | |
 

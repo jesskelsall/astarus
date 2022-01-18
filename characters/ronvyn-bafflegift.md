@@ -14,8 +14,8 @@
 | **Places** | [Eskrigg Astorrel Stronghold](../places/strongholds/eskrigg-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Captain](../organisations/astorrel/ranks/astorrel-captain.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Captain](../organisations/government/astorrel/ranks/astorrel-captain.md) |
 | **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
@@ -33,7 +33,7 @@ Ronvyn Bafflegift is quietly confident in his own abilities and those of his sub
 | **Face** | Olive skin, scar across lip. Brown eyes. | characteristics.2
 | **Hair** | Black, slicked back, shoulder length. |
 | **Body** | 3'9" / 114cm. Lean. |
-| **Clothes** | [Astorrel officer's uniform](../organisations/astorrel/uniforms/astorrel-officers-uniform.md). |
+| **Clothes** | [Astorrel officer's uniform](../organisations/government/astorrel/uniforms/astorrel-officers-uniform.md). |
 | **Voice** | Male register, posh. |
 | **Mannerisms** | Permanent smile, hands clasped behind back. |
 | | |

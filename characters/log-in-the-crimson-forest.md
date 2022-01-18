@@ -14,8 +14,8 @@
 | **Places** | [Sunrise District](../places/districts/sunrise-district.md) |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Guard Corporal](../organisations/astornox/ranks/astornox-guard-corporal.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox Guard Corporal](../organisations/government/astornox/ranks/astornox-guard-corporal.md) |
 | **Role** | Settlements / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
 | **Subordinates** | [Cedrick Doolahan](cedrick-doolahan.md) |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Log in the Crimson Forest is an [Astornox guard](../organisations/astornox/ranks/astornox-guard.md) stationed in [Northhaven](../places/cities/northhaven.md)'s [Sunset District](../places/districts/sunset-district.md), on general guard patrol.
+Log in the Crimson Forest is an [Astornox guard](../organisations/government/astornox/ranks/astornox-guard.md) stationed in [Northhaven](../places/cities/northhaven.md)'s [Sunset District](../places/districts/sunset-district.md), on general guard patrol.
 
 ## Characteristics
 

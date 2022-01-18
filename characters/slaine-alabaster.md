@@ -41,8 +41,8 @@ Slaine Alabaster is a mischievous and greedy member of [the Morning Chasers](../
 
 ## History
 
-While in Silethwaite with [the Morning Chasers](../organisations/the-morning-chasers.md) who were contracted to [Astral squad](../organisations/astorrel/squads/astral-squad.md), the party found a mysterious clearing in the forest that appeared to have been logged. In it Slaine Alabaster found the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md).
+While in Silethwaite with [the Morning Chasers](../organisations/the-morning-chasers.md) who were contracted to [Astral squad](../organisations/government/astorrel/squads/astral-squad.md), the party found a mysterious clearing in the forest that appeared to have been logged. In it Slaine Alabaster found the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md).
 
-Not feeling it was related to the site, [Janneke Borflast](janneke-borflast.md) allowed Slaine to keep it. When the group returned to [Astral squad](../organisations/astorrel/squads/astral-squad.md), they made no mention of the [meteorite](../items/meteoric/meteorite.md), feeling it was an unrelated treasure which they were entitled to keep.
+Not feeling it was related to the site, [Janneke Borflast](janneke-borflast.md) allowed Slaine to keep it. When the group returned to [Astral squad](../organisations/government/astorrel/squads/astral-squad.md), they made no mention of the [meteorite](../items/meteoric/meteorite.md), feeling it was an unrelated treasure which they were entitled to keep.
 
 Over the following months, Slaine spent more and more time in the presence of the [meteorite](../items/meteoric/meteorite.md), eventually experimenting with some of the [meteoric dust](../items/meteoric/meteoric-dust.md) contained within. As he continued, the compulsions grew stronger, eventually preventing him from letting go of the [meteorite](../items/meteoric/meteorite.md). When Janneke or [Kieran Bennington](kieran-bennington.md) have tried to part him with it, he has lashed out explosively.

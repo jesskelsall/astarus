@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Name** | *Crucible* ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.3
+| **Name** | *Crucible* ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) name) | character.3
 | **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 52 |
@@ -14,14 +14,14 @@
 | **Places** | [Starnov](../places/cities/starnov.md) |
 |||
 | **Citizenship** | |
-| **Organisation** | [Marsh Skimmers](../organisations/marsh-skimmers.md) |
+| **Organisation** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 | **Role** | Contact |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Crucible is a stern and unforgiving [Marsh Skimmers](../organisations/marsh-skimmers.md) contact that operates out of [Starnov](../places/cities/starnov.md). She is a [magicborn](../civilisations/kingdom-of-astor/magicborn.md), naturally gifted in minor magic.
+Crucible is a stern and unforgiving [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact that operates out of [Starnov](../places/cities/starnov.md). She is a [magicborn](../civilisations/kingdom-of-astor/magicborn.md), naturally gifted in minor magic.
 
 She is allied with [Creek](creek.md), willing to help him with his business outside of [Murkwallow](../places/cities/murkwallow.md).
 
@@ -55,7 +55,7 @@ She is allied with [Creek](creek.md), willing to help him with his business outs
 | **Voice** | Low female register, southern English accent. |
 | **Mannerisms** | Glares judgmentally at the slightest provocation. Shows her emotions on her face readily. Pays others little attention. |
 | | |
-| **Quirks** | Believes in the [Marsh Skimmers](../organisations/marsh-skimmers.md) as an organisation more so than any individual skimmer. |
+| **Quirks** | Believes in the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) as an organisation more so than any individual skimmer. |
 | **Knowledge** | [Starnov](../places/cities/starnov.md). |
 | **Values** | Believes actions speak louder than words. |
 | **Ambitions** | Wants to exert control over [Starnov](../places/cities/starnov.md)'s mercantile class. |

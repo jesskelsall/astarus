@@ -8,7 +8,7 @@
 | **Civilisation** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Population** | 10,400 |
 | **Nearby Places** | [Gulf of Tanelle](../seas-oceans/gulf-of-tanelle.md)<br>[The Western Way](../roads/the-western-way.md) |
-| **People** | [Crucible](../../characters/crucible.md) ([Marsh Skimmers](../../organisations/marsh-skimmers.md) contact)<br>[Lonearm](../../characters/lonearm.md) (wealthy citizen) |
+| **People** | [Crucible](../../characters/crucible.md) ([Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md) contact)<br>[Lonearm](../../characters/lonearm.md) (wealthy citizen) |
 
 ## Summary
 

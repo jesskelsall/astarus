@@ -6,7 +6,7 @@
 
 |||
 | --- | --- |
-| **Name** | Grouper ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.4
+| **Name** | Grouper ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) name) | character.4
 | **Lineage** | Elf (Drow) |
 | **Pronouns** | he/him |
 | **Age** | 152 |
@@ -16,14 +16,14 @@
 | **Relations** | |
 | **Places** | [Côtedouce](../places/towns/cotedouce.md) |
 | **Citizenship** | |
-| **Organisation** | [Marsh Skimmers](../organisations/marsh-skimmers.md) |
+| **Organisation** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 | **Role** | Contact |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Grouper is the [Marsh Skimmers](../organisations/marsh-skimmers.md) contact operating in [Côtedouce](../places/towns/cotedouce.md). He is a bit of a rogue agent, often working against the goals of both the [Marsh Skimmers](../organisations/marsh-skimmers.md) and the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md).
+Grouper is the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact operating in [Côtedouce](../places/towns/cotedouce.md). He is a bit of a rogue agent, often working against the goals of both the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) and the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md).
 
 He has bad blood with [Creek](creek.md) and [Crucible](crucible.md).
 

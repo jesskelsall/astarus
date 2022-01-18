@@ -5,10 +5,10 @@
 |||
 | --- | --- |
 | **Name** | Republic Guard | organisation.4
-| **Civilisation** | Syntenne Republic |
+| **Civilisation** | [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) |
 | **Leader** | |
 | **Patron(s)** | |
-| **Location(s)** | Cotedouce (shared jurisdiction) |
+| **Location(s)** | [Côtedouce](../../places/towns/cotedouce.md) (shared jurisdiction) |
 |||
 | **Image ID** | |
 

@@ -42,7 +42,7 @@ He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they 
 
 ### [PR15](../../sessions/PR15.md)
 
-In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md) if they know anything about dreams that become reality. They don't, but mention that Wrenn's squad, [Astral Squad](../../organisations/astorrel/squads/astral-squad.md), contains someone with similar sounding experiences.
+In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md) if they know anything about dreams that become reality. They don't, but mention that Wrenn's squad, [Astral Squad](../../organisations/government/astorrel/squads/astral-squad.md), contains someone with similar sounding experiences.
 
 ### [PR22](../../sessions/PR22.md)
 
@@ -52,7 +52,7 @@ She also tries to research humanoids with wings, but only finds information on a
 
 ### [PR24](../../sessions/PR24.md)
 
-During [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md)'s [Nature's Battle 28](natures-battle-28.md) match against [Gloom Squad](../../organisations/astorrel/squads/gloom-squad.md), [Thanea Morlay](../../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../../characters/norma-collarbone.md) at close range. She digs deep, activating her [aasimar](../../lineages/aasimar.md) Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
+During [Starfall Squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s [Nature's Battle 28](natures-battle-28.md) match against [Gloom Squad](../../organisations/government/astorrel/squads/gloom-squad.md), [Thanea Morlay](../../characters/thanea-morlay.md) comes incredibly close to death while facing off against [Norma Collarbone](../../characters/norma-collarbone.md) at close range. She digs deep, activating her [aasimar](../../lineages/aasimar.md) Radiant Soul feature for the first time. She sprouts yellow-white radiant wings, taking flight over the arena.
 
 This display is a surprise for everyone present, including [Torbra Tauff](../../characters/torbra-tauff.md) and [Wizira](../../characters/wizira.md) who are conscious to see it ([Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) is not). The audience collectively gasps before falling silent, watching as she flies effortlessly around the arena.
 

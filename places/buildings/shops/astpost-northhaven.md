@@ -10,7 +10,7 @@
 
 ## Summary
 
-Astpost Northhaven is the [Northhaven](../../cities/northhaven.md) branch of [Astpost](../../../organisations/astpost.md).
+Astpost Northhaven is the [Northhaven](../../cities/northhaven.md) branch of [Astpost](../../../organisations/government/astpost.md).
 
 ### Exterior
 

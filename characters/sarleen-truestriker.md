@@ -14,9 +14,9 @@
 | **Places** | [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md) |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md)<br>*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) ([Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md)) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) |
+| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md)<br>*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) ([Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md)) |
 | **Commanding Officer** | [Linton Harkness](linton-harkness.md) |
 | **Subordinates** | [Louise Perkins](louise-perkins.md) |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Sarleen Truestriker is the [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) of [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md). She was played by [Eva](../players/eva.md).
+Sarleen Truestriker is the [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) of [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md). She was played by [Eva](../players/eva.md).
 
 ## Characteristics
 

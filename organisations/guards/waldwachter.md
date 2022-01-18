@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Waldwächter | organisation.4
-| **Civilisation** | Valburg |
+| **Civilisation** | [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Leader** | |
 | **Patron(s)** | |
 | **Location(s)** | |

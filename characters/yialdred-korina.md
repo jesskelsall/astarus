@@ -14,7 +14,7 @@
 | **Relations** | |
 | **Places** | Glengariff (birthplace) |
 | **Citizenship** | |
-| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `3856f570c58374b4` |
 
@@ -24,8 +24,8 @@ Yialdred Korina is a player campaign in the [Astorrel Agents](../campaigns/C2-as
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Woodlouse Squad](../organisations/astorrel/squads/woodlouse-squad.md) |||
-| [AA12](../sessions/AA12.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Woodlouse Squad](../organisations/government/astorrel/squads/woodlouse-squad.md) |||
+| [AA12](../sessions/AA12.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 

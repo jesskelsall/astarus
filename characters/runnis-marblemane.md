@@ -14,8 +14,8 @@
 | **Places** | [Ulburn](../places/villages/ulburn.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Lieutenant](../organisations/astornox/ranks/astornox-lieutenant.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) |
 | **Role** | Settlements / Villages |
 | **Commanding Officer** | |
 | **Subordinates** | |

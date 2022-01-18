@@ -25,5 +25,5 @@ Beckermet is known as a farming town, using the vast plans in all directions to 
 | Sights | Sprawling village that extends right to the river's edge. Small docks and watchtowers along its banks. |
 | Sounds | Small bells ringing. Oars in the water. Villagers chatting in the busier streets further in. |
 | Smells | |
-| People | [Astornox guards](../../organisations/astornox/ranks/astornox-guard.md) up the watchtowers. Fishermen and some traders on the docks. |
+| People | [Astornox guards](../../organisations/government/astornox/ranks/astornox-guard.md) up the watchtowers. Fishermen and some traders on the docks. |
 | Intrigue | |

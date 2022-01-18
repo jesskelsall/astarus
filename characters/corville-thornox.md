@@ -14,7 +14,7 @@
 | **Places** | [Supreme Hall](../places/buildings/supreme-hall.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornar](../organisations/astornar.md) |
+| **Organisation** | [Astornar](../organisations/government/astornar.md) |
 | **Rank** | General Supreme |
 | **Role** | |
 | **Commanding Officer** | |
@@ -33,7 +33,7 @@ TODO
 | **Face** | Fair skin, defined cheeks, vibrant turquoise eyes. | characteristics.2
 | **Hair** | Black swept back hair, black full beard. |
 | **Body** | 5'11" / 180cm. Muscular frame. |
-| **Clothes** | [Astornar](../organisations/astornar.md) General's uniform with more gold and large golden multi-spiked decorative pauldrons. |
+| **Clothes** | [Astornar](../organisations/government/astornar.md) General's uniform with more gold and large golden multi-spiked decorative pauldrons. |
 | **Voice** | Deep male register, booming voice. Posh. |
 | **Mannerisms** | Sits and observes. Speaks only when decreeing something. |
 | | |

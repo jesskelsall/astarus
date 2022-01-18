@@ -4,14 +4,14 @@
 | --- | --- |
 | **Campaign(s)** | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | session.3
 | **Date** | 2021-09-05 |
-| **Title** | *Introducing the [Marsh Skimmers](../organisations/marsh-skimmers.md)* |
+| **Title** | *Introducing the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md)* |
 | **Players** | [Becca](../players/becca.md) ([Keranios](../characters/keranios.md))<br>[Sophie](../players/sophie.md) ([Marik Kaligavone](../characters/marik-kaligavone.md)) |
 | **Guests** | |
 | **Storylines** | [Hammersmiths on the Offensive](../storylines/hammersmiths-on-the-offensive.md)<br>[Sword of the Moon](../storylines/sword-of-the-moon.md) |
 
 ## Returning to [Creek](../characters/creek.md)
 
-While away from the [Scintil Delta](../places/rivers-lakes/scintil-delta.md), [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) receive a letter ([MC01M-L-1](../letters/MC01M-L-1.md)) from their [Marsh Skimmers](../organisations/marsh-skimmers.md) contract, [Creek](../characters/creek.md), requesting their presence at [Tabaxi's Folly](../places/buildings/tabaxis-folly.md). Marik reads it to Kera who is illiterate. [Creek](../characters/creek.md) notes their debt to him after he bailed them out of jail earlier in their [Marsh Skimmers](../organisations/marsh-skimmers.md) career.
+While away from the [Scintil Delta](../places/rivers-lakes/scintil-delta.md), [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) receive a letter ([MC01M-L-1](../letters/MC01M-L-1.md)) from their [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contract, [Creek](../characters/creek.md), requesting their presence at [Tabaxi's Folly](../places/buildings/tabaxis-folly.md). Marik reads it to Kera who is illiterate. [Creek](../characters/creek.md) notes their debt to him after he bailed them out of jail earlier in their [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) career.
 
 The pair make their way back to [Murkwallow](../places/cities/murkwallow.md), heading across the [River Scintil](../places/rivers-lakes/river-scintil.md) by boat and into the city. Once there they locate one of the secret entrances hidden under a canal bridge, pressing the secret cobblestone button to unlock the push-in door.
 
@@ -23,7 +23,7 @@ Here they meet [Wedge](../characters/wedge.md) who immediately starts pouring th
 
 When Kera asks if [Creek](../characters/creek.md) is in, [Wedge](../characters/wedge.md) replies that of course he is. [Wedge](../characters/wedge.md) excuses himself to the back room for a moment to see if [Creek](../characters/creek.md) is ready for them. Kera and Marik take a seat at one of the tables while they wait.
 
-## The [Hammersmiths](../organisations/hammersmiths.md) Send an Assassin
+## The [Hammersmiths](../organisations/criminals/hammersmiths.md) Send an Assassin
 
 While [Wedge](../characters/wedge.md) is in the back room, a hooded humanoid figure enters, making their way over to a table on the opposite side of the room. The figure pulls out a wooden dowel and a carving knife, diligently working the wood while they sit hunched forward. Kera and Marik don't recognise them, but it isn't uncommon to find people in [Tabaxi's Folly](../places/buildings/tabaxis-folly.md) that they don't recognise, particularly in the main cafeteria area. They both think nothing of it.
 
@@ -144,9 +144,9 @@ The party finds a room with two single beds. Marik and [Pouring Grain](../charac
 
 *[Long rest]*
 
-## Ambushed by the [Hammersmiths](../organisations/hammersmiths.md)
+## Ambushed by the [Hammersmiths](../organisations/criminals/hammersmiths.md)
 
-Before the party wakes, the [Hammersmiths](../organisations/hammersmiths.md) clear out the inn, setting an ambush for the party when they awake. This is in place by the time they wake.
+Before the party wakes, the [Hammersmiths](../organisations/criminals/hammersmiths.md) clear out the inn, setting an ambush for the party when they awake. This is in place by the time they wake.
 
 [Marik Kaligavone](../characters/marik-kaligavone.md) wakes first, [Pouring Grain](../characters/pouring-grain.md) not long after. Kera is the last to rouse, having drank plenty before coming to bed. Only when everyone is ready does the party emerge from their room.
 
@@ -188,7 +188,7 @@ Marik leads the party out of [Kulevi](../places/towns/kulevi.md), hitting the Ke
 
 ## Delivering the Songbird to [Crucible](../characters/crucible.md)
 
-Upon arriving in [Starnov](../places/cities/starnov.md), the party are met by a dwarf skimmer who takes them to a [Marsh Skimmers](../organisations/marsh-skimmers.md) contact in the city. They lead them to a dark warehouse where they move a heavy box aside, revealing a trapdoor. The dwarf opens it, lights a candle, and descends into a small tunnel. The party follows.
+Upon arriving in [Starnov](../places/cities/starnov.md), the party are met by a dwarf skimmer who takes them to a [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact in the city. They lead them to a dark warehouse where they move a heavy box aside, revealing a trapdoor. The dwarf opens it, lights a candle, and descends into a small tunnel. The party follows.
 
 A brief claustrophobic tunnel leads to an excavated room with a wooden desk, two bookcases behind it, and a few chairs on the opposite side of the 20ft by 15ft space. Sat at the desk is [Crucible](../characters/crucible.md).
 
@@ -196,7 +196,7 @@ A brief claustrophobic tunnel leads to an excavated room with a wooden desk, two
 
 [Crucible](../characters/crucible.md) hands the letter to Marik who reads the plain ink message on the front. Kera plays with one of the three ornate and unique knives on [Crucible](../characters/crucible.md)'s desk, causing her to scold him and tell him to sit down on the other side of the room. This is accompanied by extremely judgemental looks.
 
-[Crucible](../characters/crucible.md) then asks [Pouring Grain](../characters/pouring-grain.md) to recite their message. They recite a conversation they witnessed between [Creek](../characters/creek.md) and [Vulpes Geex](../characters/vulpes-geex.md) wherein Geex swears his allegiance to the [Marsh Skimmers](../organisations/marsh-skimmers.md), promising to provide information on what is happening within [Familia Vulpes](../organisations/familia-vulpes.md), particularly in the wake of [Vulpes Geen](../characters/vulpes-geen.md)'s death. Geex goes one step further, giving [Creek](../characters/creek.md) a "welcoming gift" - word that an inheritor will be travelling to [Starnov](../places/cities/starnov.md)'s [Nilus Vaults](../places/buildings/government/nilus-vaults.md) following the will reading to retrieve an unknown treasure, possibly [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md).
+[Crucible](../characters/crucible.md) then asks [Pouring Grain](../characters/pouring-grain.md) to recite their message. They recite a conversation they witnessed between [Creek](../characters/creek.md) and [Vulpes Geex](../characters/vulpes-geex.md) wherein Geex swears his allegiance to the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md), promising to provide information on what is happening within [Familia Vulpes](../organisations/familia-vulpes.md), particularly in the wake of [Vulpes Geen](../characters/vulpes-geen.md)'s death. Geex goes one step further, giving [Creek](../characters/creek.md) a "welcoming gift" - word that an inheritor will be travelling to [Starnov](../places/cities/starnov.md)'s [Nilus Vaults](../places/buildings/government/nilus-vaults.md) following the will reading to retrieve an unknown treasure, possibly [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md).
 
 With all of the information gleaned from [Pouring Grain](../characters/pouring-grain.md), [Crucible](../characters/crucible.md) dismisses them, and they leave immediately with no acknowledgement to or by the party.
 
@@ -208,9 +208,9 @@ The party is given an ornate key ([MC01M-I-1](../cards/MC01M-I-1.md)) by [Crucib
 
 ## Ambush Planning
 
-### [Marsh Skimmers](../organisations/marsh-skimmers.md) Assistance
+### [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) Assistance
 
-The skimmers attempt to find other [Marsh Skimmers](../organisations/marsh-skimmers.md) in [Starnov](../places/cities/starnov.md) that are willing to help them with the ambush. None are willing to work for less than 20 gp per day, pricing them out.
+The skimmers attempt to find other [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) in [Starnov](../places/cities/starnov.md) that are willing to help them with the ambush. None are willing to work for less than 20 gp per day, pricing them out.
 
 ### Scoping the [Nilus Vaults](../places/buildings/government/nilus-vaults.md)
 

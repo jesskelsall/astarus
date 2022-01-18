@@ -13,21 +13,21 @@
 | **Relations** | |
 | **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md) |
 | **Citizenship** | |
-| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `81d3db8d3e3009cd` |
 
 ## Summary
 
-She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of her normal [Astorrel](../organisations/astorrel/astorrel.md) duties she is leading a private effort by the squad to investigating the meteoric threat.
+She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of her normal [Astorrel](../organisations/government/astorrel/astorrel.md) duties she is leading a private effort by the squad to investigating the meteoric threat.
 
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |||
-| [PR21](../sessions/PR21.md) | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) | Phenomena / Meteoric | [Quinn Mac Domhnail](quinn-mac-domhnail.md) | [Astral Squad](../organisations/astorrel/squads/astral-squad.md) |
-| [PR27](../sessions/PR27.md) | [Astorrel Squad Sergeant](../organisations/astorrel/ranks/astorrel-squad-sergeant.md) | Phenomena / Meteoric | [Quinn Mac Domhnail](quinn-mac-domhnail.md) | [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) |
+|| [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) |||
+| [PR21](../sessions/PR21.md) | [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) | Phenomena / Meteoric | [Quinn Mac Domhnail](quinn-mac-domhnail.md) | [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) |
+| [PR27](../sessions/PR27.md) | [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) | Phenomena / Meteoric | [Quinn Mac Domhnail](quinn-mac-domhnail.md) | [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md)<br>[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) |
 
 
 ## Characteristics

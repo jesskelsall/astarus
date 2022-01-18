@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Bay Watch | organisation.4
-| **Civilisation** | Bay of Splendour |
+| **Civilisation** | [Bay of Splendour](../../civilisations/nilsavnic-alliance/states/bay-of-splendour.md) |
 | **Leader** | |
 | **Patron(s)** | |
 | **Location(s)** | |

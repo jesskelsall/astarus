@@ -20,7 +20,7 @@
 
 ## Summary
 
-Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She raises her younger children while helping the village of [Filisur](../places/villages/filisur.md) stay alert to [Astornox](../organisations/astornox/astornox.md) and natural threats, namely wolves.
+Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She raises her younger children while helping the village of [Filisur](../places/villages/filisur.md) stay alert to [Astornox](../organisations/government/astornox/astornox.md) and natural threats, namely wolves.
 
 ## Characteristics
 
@@ -37,18 +37,18 @@ Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She raises her young
 | **Knowledge** | The [Filisur](../places/villages/filisur.md) valley, seasonal conditions and weather, the edge of the Neum Flats. Some basic knowledge of [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md). |
 | **Values** | Looking after her own, protecting the [Cepine](../lineages/cepine.md) way of life. Staying on the lookout for danger. Conviction and good deeds done. |
 | **Ambitions** | Wants Besar and Irla to have a better upbringing than Ephaine and Tamman. |
-| **Dislikes** | Strangers. [Astornox](../organisations/astornox/astornox.md). |
+| **Dislikes** | Strangers. [Astornox](../organisations/government/astornox/astornox.md). |
 
 ## History
 
-During [Ephaine Seren](ephaine-seren.md)'s childhood Adalie Seren was forced to aid the [Astornox](../organisations/astornox/astornox.md) at Fort Maloja on various errands, typically helping them with the lay of the land and keeping watch out over the Neum Flats. This built within her a bitter resentment of the [Astornox](../organisations/astornox/astornox.md) and by extension the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md), who she sees as occupiers in [Cepine](../lineages/cepine.md) territory.
+During [Ephaine Seren](ephaine-seren.md)'s childhood Adalie Seren was forced to aid the [Astornox](../organisations/government/astornox/astornox.md) at Fort Maloja on various errands, typically helping them with the lay of the land and keeping watch out over the Neum Flats. This built within her a bitter resentment of the [Astornox](../organisations/government/astornox/astornox.md) and by extension the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md), who she sees as occupiers in [Cepine](../lineages/cepine.md) territory.
 
-Her early relationship with Ephaine was one of pragmatism and tough love. She taught Ephaine her survival skills, helping her understand the valley and its changeable seasonal conditions. She expected a lot from her daughter, knowing that the [Astornox](../organisations/astornox/astornox.md) presence would likely only grow throughout their lives.
+Her early relationship with Ephaine was one of pragmatism and tough love. She taught Ephaine her survival skills, helping her understand the valley and its changeable seasonal conditions. She expected a lot from her daughter, knowing that the [Astornox](../organisations/government/astornox/astornox.md) presence would likely only grow throughout their lives.
 
 ### The Early Winter
 
-When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../organisations/astornox/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox Lieutenant](../organisations/astornox/ranks/astornox-lieutenant.md) and his vanguard who came for his family's sheep in the night.
+When [Ephaine Seren](ephaine-seren.md) was 15, during a particularly tough winter in which the [Astornox](../organisations/government/astornox/astornox.md) garrison were forced to overwinter due to the sudden arrival of the late autumn snow, [Tamman Seren](tamman-seren.md) stood up to an [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) and his vanguard who came for his family's sheep in the night.
 
-Tamman was severely beaten for his insolence. During this developing situation, [Ephaine Seren](ephaine-seren.md) caused an avalanche that buried and killed the [Astornox](../organisations/astornox/astornox.md) still present outside their home.
+Tamman was severely beaten for his insolence. During this developing situation, [Ephaine Seren](ephaine-seren.md) caused an avalanche that buried and killed the [Astornox](../organisations/government/astornox/astornox.md) still present outside their home.
 
-In the following aftermath, Adalie helped quickly prepare provisions for Ephaine as she fled home, seeking the [Astornox](../organisations/astornox/astornox.md) for [sanctuary](../organisations/astorrel/sanctuary.md).
+In the following aftermath, Adalie helped quickly prepare provisions for Ephaine as she fled home, seeking the [Astornox](../organisations/government/astornox/astornox.md) for [sanctuary](../organisations/government/astorrel/sanctuary.md).

@@ -69,4 +69,4 @@ She warns the party against discussing this meeting as it would create a diploma
 
 She strikes a deal with the party, exchanging their discretion and any information they gain on the sphere for her patronage, giving them 20 pp to get started with their search.
 
-[Marik Kaligavone](../characters/marik-kaligavone.md) and [Keranios](../characters/keranios.md) are keen to learn more about the [memory sphere](../items/artifacts-of-oonar/memory-spheres/memory-sphere.md), wanting to know if it is valuable so they can use it for leverage against the [Marsh Skimmers](../organisations/marsh-skimmers.md) or simply for outright profit.
+[Marik Kaligavone](../characters/marik-kaligavone.md) and [Keranios](../characters/keranios.md) are keen to learn more about the [memory sphere](../items/artifacts-of-oonar/memory-spheres/memory-sphere.md), wanting to know if it is valuable so they can use it for leverage against the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) or simply for outright profit.

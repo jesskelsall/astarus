@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) were tasked by [Crucible](../characters/crucible.md) to retrieve the contents of [the Metal Fox](../characters/vulpes-geen.md)'s strongbox from the [Nilus Vaults](../places/buildings/government/nilus-vaults.md). After disappearing from [Starnov](../places/cities/starnov.md) they must prove to the [Marsh Skimmers](../organisations/marsh-skimmers.md) that they are still attempting to complete their mission.
+[Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) were tasked by [Crucible](../characters/crucible.md) to retrieve the contents of [the Metal Fox](../characters/vulpes-geen.md)'s strongbox from the [Nilus Vaults](../places/buildings/government/nilus-vaults.md). After disappearing from [Starnov](../places/cities/starnov.md) they must prove to the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) that they are still attempting to complete their mission.
 
 ## History
 
@@ -15,9 +15,9 @@
 
 Immediately after escaping the [Republic Guard](../organisations/guards/republic-guard.md) jail in [Côtedouce](../places/towns/cotedouce.md), [Grouper](../characters/grouper.md) pulls the party into a building to speak with them, hiding them from the guards in the process.
 
-[Grouper](../characters/grouper.md) reveals himself as a member of the [Marsh Skimmers](../organisations/marsh-skimmers.md), and knows exactly who [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) are. He tells them they are in deep trouble for abandoning their mission in [Starnov](../places/cities/starnov.md), the organisation believing their disappearance was organised.
+[Grouper](../characters/grouper.md) reveals himself as a member of the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md), and knows exactly who [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) are. He tells them they are in deep trouble for abandoning their mission in [Starnov](../places/cities/starnov.md), the organisation believing their disappearance was organised.
 
-[Grouper](../characters/grouper.md) makes it clear that they have 5,000 gp bounties on each of their heads within the [Marsh Skimmers](../organisations/marsh-skimmers.md), though he can help clear their names if they are seen to be making their way back to [Crucible](../characters/crucible.md) in [Starnov](../places/cities/starnov.md) to complete their mission of returning to her with the contents of [the Metal Fox](../characters/vulpes-geen.md)'s strongbox within the [Nilus Vaults](../places/buildings/government/nilus-vaults.md).
+[Grouper](../characters/grouper.md) makes it clear that they have 5,000 gp bounties on each of their heads within the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md), though he can help clear their names if they are seen to be making their way back to [Crucible](../characters/crucible.md) in [Starnov](../places/cities/starnov.md) to complete their mission of returning to her with the contents of [the Metal Fox](../characters/vulpes-geen.md)'s strongbox within the [Nilus Vaults](../places/buildings/government/nilus-vaults.md).
 
 When it is revealed that [Vētrall Astérr](../characters/vetrall-asterr.md) didn't receive [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) in the vaults but the [Fall of Chausain Memory Sphere](../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md), Kera and Marik are distraught, but [Grouper](../characters/grouper.md) assures them that the sword was the best case scenario, going so far as to postulate that [Creek](../characters/creek.md) and [Crucible](../characters/crucible.md) weren't expecting what Vētrall found either.
 
@@ -37,13 +37,13 @@ No concrete plans are made that evening.
 
 ### [MC05](../sessions/MC05.md)
 
-With a bounty still on their heads, [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) are lead into a trap by [Cork Pop](../characters/cork-pop.md) who brings them to [Viola](../characters/viola.md). Both are also [Marsh Skimmers](../organisations/marsh-skimmers.md). In a courtyard down a back alley they are ambushed, the pair intent on claiming their bounty, declaring it "nothing personal".
+With a bounty still on their heads, [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) are lead into a trap by [Cork Pop](../characters/cork-pop.md) who brings them to [Viola](../characters/viola.md). Both are also [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md). In a courtyard down a back alley they are ambushed, the pair intent on claiming their bounty, declaring it "nothing personal".
 
 Kera quickly dispatches [Cork Pop](../characters/cork-pop.md) before the pair threaten to end her life if [Viola](../characters/viola.md) doesn't give up. [Viola](../characters/viola.md) drops her mace and begs for them to save the kenku. Unfortunately Kera's attack while she was downed put her perilously close to death and she expired.
 
 When Marik suggests they kill [Viola](../characters/viola.md), she darts for the gate, attempting to flee. Marik and Kera slash and burn at her with greatsword and Produce Flame respectively before Kera lands a finishing blow with his horns. He stabs [Viola](../characters/viola.md) multiple times to finish the act. The pair hide the bodies and proceed to return to their inn nonchalantly.
 
-Now aware that their bounty has invited much danger to them, they opt not to seek [Marsh Skimmers](../organisations/marsh-skimmers.md) in [Trest](../places/towns/trest.md) while looking to purchase thieves' tools.
+Now aware that their bounty has invited much danger to them, they opt not to seek [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) in [Trest](../places/towns/trest.md) while looking to purchase thieves' tools.
 
 ### [MC06](../sessions/MC06.md)
 

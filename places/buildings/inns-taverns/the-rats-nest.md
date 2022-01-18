@@ -23,7 +23,7 @@ Unassuming inn exterior with a wrought iron sign swaying in the breeze.
 | Sights | Typical tavern with a staircase leading to rooms upstairs. Bar to the left. Toilet room straight in front. Gap between the dirt floor and woodwork signals the wood can be moved to reveal a ladder heading deeper. |
 | Sounds | Patrons chatting, mugs on tables. |
 | Smells | Ale, wet wood, dogs, dirt. |
-| People | Commoners, [Astornox guards](../../../organisations/astornox/ranks/astornox-guard.md) enjoying a drink but keeping an eye out. |
+| People | Commoners, [Astornox guards](../../../organisations/government/astornox/ranks/astornox-guard.md) enjoying a drink but keeping an eye out. |
 | Intrigue | Not comment worthy... |
 
 ### Basement

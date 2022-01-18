@@ -16,7 +16,7 @@ Tour de la Côte is the arch-mage tower in the middle of [Côtedouce](../../town
 
 | Name | Language | Literal | Meaning | 
 | --- | --- | --- | --- |
-| Tour de la Côte | [Elvish](../../../languages/elvish.md) | tour de la côte | coast tower |
+| Tour de la Côte | [Elvish](../../../languages/elvish.md) || coast tower |
 
 ## Description
 

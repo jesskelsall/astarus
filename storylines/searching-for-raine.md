@@ -19,4 +19,4 @@ In trying to investigate the [Fall of Chausain Memory Sphere](../items/artifacts
 
 While confiding in [Nacnar Morwesyrr](../characters/nacnar-morwesyrr.md) in Raine's House, [Vētrall Astérr](../characters/vetrall-asterr.md) asks if she knows a "Raine" who lives in [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md). She doesn't, but suggests trying in [Hochwald](../places/cities/hochwald.md). She gives them the name of one of her friends who lives there, [Disanz Brickbrow](../characters/disanz-brickbrow.md). She points out that Disanz can be found by asking around in inns - her reputation as a heavy drinker will point in her direction.
 
-Vētrall convinces the party to head with them to [Hochwald](../places/cities/hochwald.md) to search for Raine, so the party departs for [Starnov](../places/cities/starnov.md) by hired coach, intending to take Lilaweg through to the capitals.
+Vētrall convinces the party to head with them to [Hochwald](../places/cities/hochwald.md) to search for Raine, so the party departs for [Starnov](../places/cities/starnov.md) by hired coach, intending to take [Lilaweg](../places/roads/lilaweg.md) through to the capitals.

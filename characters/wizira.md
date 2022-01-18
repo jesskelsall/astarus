@@ -10,13 +10,13 @@
 | **Age** | 107 (dead) |
 | **Class** | Druid (Circle of the Land: Grassland) |
 | **Background** | Outlander |
-| **Worship** | [Kirrel](../gods/deities/kirrel.md) ([Astorrel](../organisations/astorrel/astorrel.md) pledge) |
+| **Worship** | [Kirrel](../gods/deities/kirrel.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Wizira's Father](wiziras-father.md) (father)<br>(mother, dead) |
 | **Places** | [Hawkswood](../places/forests/hawkswood.md) (birthplace)<br>[Wizira's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/wiziras-house.md) |
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
-| **Image ID** | `b6ddf2e960574729`<br>`bb3dea6e19d5c6c0` ([Sanctuary](../organisations/astorrel/sanctuary.md) [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md)) |
+| **Image ID** | `b6ddf2e960574729`<br>`bb3dea6e19d5c6c0` ([Sanctuary](../organisations/government/astorrel/sanctuary.md) [Astorrel robes](../organisations/government/astorrel/uniforms/astorrel-robes.md)) |
 
 ## Summary
 
@@ -26,7 +26,7 @@ Wizira was a player character in the [Purple Rain](../campaigns/C1-purple-rain.m
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+| [PR21](../sessions/PR21.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 | [PR35](../sessions/PR35.md) | *Dead.* ||||
 
 ## Character Rolls

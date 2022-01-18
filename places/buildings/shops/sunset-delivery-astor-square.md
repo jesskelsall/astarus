@@ -10,7 +10,7 @@
 
 ## Summary
 
-Sunset Delivery Astor Square is the [Northhaven](../../cities/northhaven.md) branch of [Sunset Delivery](../../../organisations/sunset-delivery.md).
+Sunset Delivery Astor Square is the [Northhaven](../../cities/northhaven.md) branch of [Sunset Delivery](../../../organisations/business/sunset-delivery.md).
 
 ### Exterior
 

@@ -14,19 +14,19 @@
 | **Relations** | [Cherish Loweswater](cherish-loweswater.md) (wife, dead) |
 | **Places** | |
 | **Citizenship** | |
-| **Organisation(s)** | [Astorrel](../organisations/astorrel/astorrel.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `234b3c748acf94f2` |
 
 ## Summary
 
-Elrick Loweswater is a nomadic druid with little appreciation of others except for his wife, [Cherish Loweswater](cherish-loweswater.md). He is deaf, using sign language or writing to communicate with others. Within the [Astorrel](../organisations/astorrel/astorrel.md) he is known as a gifted user of Wild Shape.
+Elrick Loweswater is a nomadic druid with little appreciation of others except for his wife, [Cherish Loweswater](cherish-loweswater.md). He is deaf, using sign language or writing to communicate with others. Within the [Astorrel](../organisations/government/astorrel/astorrel.md) he is known as a gifted user of Wild Shape.
 
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Frontier / [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) | [Taza Finetrick](taza-finetrick.md) ||
+|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Frontier / [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md) | [Taza Finetrick](taza-finetrick.md) ||
 
 ## Character Rolls
 

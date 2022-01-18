@@ -12,7 +12,7 @@
 
 ## Details
 
-[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) dreams of an alternate version of events in [The Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md), during [Starfall squad](../organisations/astorrel/squads/starfall-squad.md)'s battle with the [Meteoric Humanoid](../creatures/meteoric-humanoid.md), formally [Slaine Alabaster](../characters/slaine-alabaster.md).
+[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) dreams of an alternate version of events in [The Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md), during [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md)'s battle with the [Meteoric Humanoid](../creatures/meteoric-humanoid.md), formally [Slaine Alabaster](../characters/slaine-alabaster.md).
 
 Her dream takes place through the eyes of [Thanea Morlay](../characters/thanea-morlay.md). She watches the events of the fight unfold, including the initial struggles, [Wizira](../characters/wizira.md) passing out, and Torbra pulling the creature into the hall before getting blasted into the opposite room.
 

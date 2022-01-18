@@ -13,15 +13,15 @@
 
 ## Military Badge
 
-*See: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military badges](../../../../civilisations/kingdom-of-astor/military-badges.md)*
 
-Astorrel Squad Lead badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of silver inlaid inside its top and bottom edges. The top strip distinguishes it from the badge of an [Astorrel Squad Hand](astorrel-squad-hand.md).
+Astorrel Squad Lead badges look like plain [Astorrel](../astorrel.md) [military badges](../../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of silver inlaid inside its top and bottom edges. The top strip distinguishes it from the badge of an [Astorrel Squad Hand](astorrel-squad-hand.md).
 
 # Duties
 
 Astorrel Squad Leads are the fourth member of a mission squad, alongside 3 [Astorrel Squad Hands](astorrel-squad-hand.md).
 
-Their duties are to complete missions given to them by their Squad Sergeant, and lead their Squad Hands. This sees them travelling to locations within the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md), talking with locals, seeing the state of the land, and taking action on their Squad Lead's behalf.
+Their duties are to complete missions given to them by their Squad Sergeant, and lead their Squad Hands. This sees them travelling to locations within the [Kingdom of Astor](../../../../civilisations/kingdom-of-astor/kingdom-of-astor.md), talking with locals, seeing the state of the land, and taking action on their Squad Lead's behalf.
 
 Squads are based out of the city that their Squad Sergeant resides in, and so it is typical that they complete missions in the surrounding area.
 

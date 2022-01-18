@@ -2,9 +2,9 @@
 
 ## Summary
 
-*See: [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md)*
+*See: [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md)*
 
-As part of completing a mission for the [Astorrel](../../organisations/astorrel/astorrel.md), the [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md) for the squad must make a written report which is handed to their superior, typically an [Astorrel Squad Sergeant](../../organisations/astorrel/ranks/astorrel-squad-sergeant.md).
+As part of completing a mission for the [Astorrel](../../organisations/government/astorrel/astorrel.md), the [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md) for the squad must make a written report which is handed to their superior, typically an [Astorrel Squad Sergeant](../../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md).
 
 When completed by a player, the act of making a report follows the mechanics outlined here.
 
@@ -25,7 +25,7 @@ The report starts with what happened on the mission, and what its outcomes are.
 
 ### Squad Performance
 
-The report ends with specific appraisals for each [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md) and the [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md) themself. The player gives their first-hand impression of how each squad member performed on the mission.
+The report ends with specific appraisals for each [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md) and the [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md) themself. The player gives their first-hand impression of how each squad member performed on the mission.
 
 - Each character is assigned a dice from the following pool: d12, d10, d8, d6.
 - The more sides on the dice, the better the appraisal.

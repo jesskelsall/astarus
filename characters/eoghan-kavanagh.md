@@ -14,8 +14,8 @@
 | **Places** | Eaglesfield |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) |
 | **Role** | Settlements / Eaglesfield |
 | **Commanding Officer** | [Overon Nightingale](overon-nightingale.md) |
 | **Subordinates** | |

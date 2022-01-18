@@ -14,8 +14,8 @@
 | **Places** | |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) |
-| **Rank** | [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
+| **Rank** | [Astornox Guard Sergeant](../organisations/government/astornox/ranks/astornox-guard-sergeant.md) |
 | **Role** | Settlements / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
@@ -33,7 +33,7 @@ TODO
 | **Face** | Dark skin, square jaw, clean shaved. | characteristics.2
 | **Hair** | |
 | **Body** | |
-| **Clothes** | [Astornox Guard Sergeant](../organisations/astornox/ranks/astornox-guard-sergeant.md)'s uniform. |
+| **Clothes** | [Astornox Guard Sergeant](../organisations/government/astornox/ranks/astornox-guard-sergeant.md)'s uniform. |
 | **Voice** | Male register. |
 | **Mannerisms** | |
 | | |

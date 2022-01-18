@@ -11,10 +11,10 @@
 | **Class** | Monk (Way of the Drunken Master) |
 | **Background** | |
 | **Worship** | |
-| **Relations** | [Candle in the Dark](candle-in-the-dark.md) ([Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
+| **Relations** | [Candle in the Dark](candle-in-the-dark.md) ([Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
 | **Places** | [Northhaven](../places/cities/northhaven.md) |
 | **Citizenship** | |
-| **Organisation(s)** | [Astornox](../organisations/astornox/astornox.md) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
 | **Image ID** | |
 
@@ -26,7 +26,7 @@ Kasdon Tinkermane is a hotheaded [magicborn](../civilisations/kingdom-of-astor/m
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) | Conscription | [Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) ||
+|| [Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) | Conscription | [Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) ||
 
 ## Characteristics
 
@@ -43,4 +43,4 @@ Kasdon Tinkermane is a hotheaded [magicborn](../civilisations/kingdom-of-astor/m
 | **Knowledge** | Loves discovering new mysteries and solving them. |
 | **Values** | Is a perfectionist. |
 | **Ambitions** | Always tinkering in his free time. |
-| **Dislikes** | Injustice of the [Astornox Magicborn Hunter](../organisations/astornox/ranks/astornox-magicborn-hunter.md) role. |
+| **Dislikes** | Injustice of the [Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) role. |

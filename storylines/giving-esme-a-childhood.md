@@ -13,7 +13,7 @@
 
 ### [PR32](../sessions/PR32.md)
 
-[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) come across [Leithran Shack](../places/buildings/leithran-shack.md) on the Humar Estuary. They hear a male voice ([Montel Leithran](../characters/montel-leithran.md)) calling for help. After some conversation at distance they learn that the person needs help defending against crocodiles. Initially wary of a trap, the party decide to rush to help.
+[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) come across [Leithran Shack](../places/buildings/leithran-shack.md) on the Humar Estuary. They hear a male voice ([Montel Leithran](../characters/montel-leithran.md)) calling for help. After some conversation at distance they learn that the person needs help defending against crocodiles. Initially wary of a trap, the party decide to rush to help.
 
 As they arrive, Montel is bitten by a crocodile and knocked unconscious. The party manage to fend off a collection of crocodiles that were lurking in the surrounding waters, including the one that attacked Montel. As the fight progresses, [Wizira](../characters/wizira.md) manages to pull him back from the brink of death by casting Healing Word.
 
@@ -36,11 +36,11 @@ The party agree to bring Montel and Esme with them as they continue their missio
 
 ### [PR34](../sessions/PR34.md)
 
-[Starfall squad](../organisations/astorrel/squads/starfall-squad.md) continue their search for the [Humar Meteorite crater](../places/rivers-lakes/humar-meteorite-crater.md) with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md).
+[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) continue their search for the [Humar Meteorite crater](../places/rivers-lakes/humar-meteorite-crater.md) with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md).
 
 Along the way they witness many instances of Esme amusing herself as best as she can while Montel keeps her mind off their barren surroundings. During the evening while camping [Torbra Tauff](../characters/torbra-tauff.md) plays sword fighting with Esme using sticks. Montel remarks that Esme will likely want to be an adventurer after the pair's time spent with the party on the Humar Estuary.
 
-When [Thanea Morlay](../characters/thanea-morlay.md) suggests that Montel and Esme keep a good distance to avoid incoming danger, Montel gets panicked, now married to the idea of staying as close to [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) as possible until they get out of the estuary. He again reiterates his unwillingness to fight and his plan to flee with Esme at the first sign of danger.
+When [Thanea Morlay](../characters/thanea-morlay.md) suggests that Montel and Esme keep a good distance to avoid incoming danger, Montel gets panicked, now married to the idea of staying as close to [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) as possible until they get out of the estuary. He again reiterates his unwillingness to fight and his plan to flee with Esme at the first sign of danger.
 
 ### [PR35](../sessions/PR35.md)
 
@@ -52,7 +52,7 @@ When the party hug, Esme hugs [Torbra Tauff](../characters/torbra-tauff.md)'s le
 
 ### [PR36](../sessions/PR36.md)
 
-[Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) lead [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) off the Humar Estuary and through [Fort Eldrick](../places/forts/fort-eldrick.md) without any incident. They are able to pass through without arousing suspicion due to head wraps made by [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md), as well as the squad's plan to claim that the pair are being escorted as part of [Astorrel](../organisations/astorrel/astorrel.md) business. The [Astornox](../organisations/astornox/astornox.md) lead by [Bevan Lancaster](../characters/bevan-lancaster.md) were eventually satisfied that the pair were none of their business.
+[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) lead [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) off the Humar Estuary and through [Fort Eldrick](../places/forts/fort-eldrick.md) without any incident. They are able to pass through without arousing suspicion due to head wraps made by [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md), as well as the squad's plan to claim that the pair are being escorted as part of [Astorrel](../organisations/government/astorrel/astorrel.md) business. The [Astornox](../organisations/government/astornox/astornox.md) lead by [Bevan Lancaster](../characters/bevan-lancaster.md) were eventually satisfied that the pair were none of their business.
 
 Arriving back in [Northhaven](../places/cities/northhaven.md), [Torbra Tauff](../characters/torbra-tauff.md) attempted to lead Montel and Esme through the [Northhaven Wall](../places/structures/northhaven-wall.md) to [Elysia Vanderboss](../characters/elysia-vanderboss.md) in [Tenterfell House](../places/buildings/tenterfell-house.md). The pair were stopped for not having [military badges](../civilisations/kingdom-of-astor/military-badges.md). After an argument with the guards, Torbra fetched Elysia, who was annoyed at being dragged into Torbra's mess. She gave the pair a gold coin and told them to stay at an inn overnight. Montel was visibly shaken and did what he was told.
 
@@ -62,6 +62,6 @@ Torbra says her goodbyes to Montel and Esme, giving Montel 5 gp more to aid in t
 
 ### [PR41](../sessions/PR41.md)
 
-While in [Hyceodd](../places/towns/hyceodd.md), [Starfall Squad](../organisations/astorrel/squads/starfall-squad.md) chat with [Jonwen Cryss](../characters/jonwen-cryss.md) in [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md). Unbeknownst to the party, Jonwen converses with them because he wishes to keep tabs on [Astorrel](../organisations/astorrel/astorrel.md) passing through [Hyceodd](../places/towns/hyceodd.md), wishing to keep them away from [the Crimson Blades](../organisations/the-crimson-blades.md)' operations in the town.
+While in [Hyceodd](../places/towns/hyceodd.md), [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) chat with [Jonwen Cryss](../characters/jonwen-cryss.md) in [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md). Unbeknownst to the party, Jonwen converses with them because he wishes to keep tabs on [Astorrel](../organisations/government/astorrel/astorrel.md) passing through [Hyceodd](../places/towns/hyceodd.md), wishing to keep them away from [the Crimson Blades](../organisations/criminals/the-crimson-blades.md)' operations in the town.
 
 [Jonwen Cryss](../characters/jonwen-cryss.md) ordered the death of [Vensys Leithran](../characters/vensys-leithran.md), leading to the party's encounter with [Montel Leithran](../characters/montel-leithran.md) and [Esme Leithran](../characters/esme-leithran.md) on the Humar Estuary.

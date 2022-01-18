@@ -12,7 +12,7 @@
 
 ## Summary
 
-The Astorrel Map of South East Kardan is a standard issue map given to [Astorrel](../organisations/astorrel/astorrel.md) squads.
+The Astorrel Map of South East Kardan is a standard issue map given to [Astorrel](../organisations/government/astorrel/astorrel.md) squads.
 
 ## Versions
 

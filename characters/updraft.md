@@ -12,7 +12,7 @@
 | **Background** | Urchin |
 | **Worship** | |
 | **Relations** | [Lady Crane](../organisations/lady-crane.md) (patron) |
-| **Places** | Dünnesland |
+| **Places** | [Dünnesland](../places/towns/dunnesland.md) (chosen home town) |
 | **Citizenship** | |
 | **Organisation(s)** | [Lady Crane](../organisations/lady-crane.md) |
 |||
@@ -20,7 +20,9 @@
 
 ## Summary
 
-TODO
+Updraft is a grandiose and discerning warlock with an eye for fine wares. He is a perfectionist, seeking only the finest wares for [Lady Crane](../organisations/lady-crane.md). While he dreams of being a humble hero in a grand conflict, he willingly overlooks how her selfish and aristocratic tendencies have rubbed off on him.
+
+Updraft speaks in the voices of nobles he has encountered, fashioned by his perfectionism into a smooth and natural speaking style that few other kenku are capable of.
 
 ## Character Rolls
 
@@ -45,17 +47,21 @@ TODO
 
 | | |
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
+| **Face** | Golden eyes, oval typical face. | characteristics.2
+| **Hair** | Rough dark blue feathers. |
+| **Body** | 4'4" / 134cm, lean build. |
+| **Clothes** | Light grey robes with white trim. Black tassels, front tongue of material. Purple cummerbund. Long black cape. |
+| **Voice** | Male register, grandiose received pronunciation. |
+| **Mannerisms** | Projects his voice, overly dramatic. |
 | | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
+| **Quirks** | Obsessed with flight and wind magic. |
+| **Knowledge** | Quality wares. |
+| **Values** | Loyal to [Lady Crane](../organisations/lady-crane.md) following her gifts.<br>Perfectionist. |
+| **Ambitions** | Wannabe hero. |
+| **Dislikes** | Injustice, inaction. |
 
 ## History
+
+Growing up on the streets of a busy capital city, Updraft drifted through life until a chance encounter with [Lady Crane](../organisations/lady-crane.md). In exchange for his service as one of her hands, she would grant him the power of wind magic and eventually, flight, harnessing the power of a djinni she controls.
+
+Now Updraft lives in opulence when at Crane Manor, or on the road, persuading nobles to part with whichever rare trinket [Lady Crane](../organisations/lady-crane.md) currently has her heart set on acquiring. He chooses to operate out of [Dünnesland](../places/towns/dunnesland.md), enjoying the vibrant beer town's character as well as its proximity to [Hochwald](../places/cities/hochwald.md).

@@ -14,8 +14,8 @@
 | **Places** | [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Guard Sergeant](../organisations/astorrel/ranks/astorrel-guard-sergeant.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Guard Sergeant](../organisations/government/astorrel/ranks/astorrel-guard-sergeant.md) |
 | **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
 | **Commanding Officer** | |
 | **Subordinates** | [Graf Stozitsk](graf-stozitsk.md)<br>[Sesen Nusk](sesen-nusk.md) |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Garrick Rose is an [Astorrel Guard Sergeant](../organisations/astorrel/ranks/astorrel-guard-sergeant.md) attached to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
+Garrick Rose is an [Astorrel Guard Sergeant](../organisations/government/astorrel/ranks/astorrel-guard-sergeant.md) attached to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
 
 ## Characteristics
 
@@ -33,7 +33,7 @@ Garrick Rose is an [Astorrel Guard Sergeant](../organisations/astorrel/ranks/ast
 | **Face** | Pale, furrowed brow, stern look, crooked nose. Green eyes. | characteristics.2
 | **Hair** | Shaved head (balding), dark eyebrows. |
 | **Body** | 6'0" / 183cm. Lean. |
-| **Clothes** | [Astorrel guard sergeant](../organisations/astorrel/ranks/astorrel-guard-sergeant.md)'s uniform. |
+| **Clothes** | [Astorrel guard sergeant](../organisations/government/astorrel/ranks/astorrel-guard-sergeant.md)'s uniform. |
 | **Voice** | Male register, gravelly. |
 | **Mannerisms** | Rigid, stands to attention. Formal. |
 | | |

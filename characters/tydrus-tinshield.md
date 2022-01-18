@@ -8,7 +8,7 @@
 | **Age** | 118 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
+| **Affiliation** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |

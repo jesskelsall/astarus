@@ -10,7 +10,7 @@
 
 ## Summary
 
-The office of [Bryce Morton](../../characters/bryce-morton.md) in [Auric Rise](auric-rise.md). From here Bryce conducts his duties as [Astorrel Squad Sergeant](../../organisations/astorrel/ranks/astorrel-squad-sergeant.md) for [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) and [Ruby Squad](../../organisations/astorrel/squads/ruby-squad.md).
+The office of [Bryce Morton](../../characters/bryce-morton.md) in [Auric Rise](auric-rise.md). From here Bryce conducts his duties as [Astorrel Squad Sergeant](../../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) for [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) and [Ruby Squad](../../organisations/government/astorrel/squads/ruby-squad.md).
 
 tastefully decorated, predominantly dark wood paneled room, some marble columns decoratively
 decently long (30ft) by 20ft. carpet.

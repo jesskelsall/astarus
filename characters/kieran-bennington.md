@@ -20,7 +20,7 @@
 
 ## Summary
 
-Kieran Bennington is [the Morning Chasers](../organisations/the-morning-chasers.md)' priest, providing them with wisdom and healing. He poses as a monk to disguise his true [magicborn](../civilisations/kingdom-of-astor/magicborn.md) nature, which he has successfully kept hidden from the [Astornox](../organisations/astornox/astornox.md) to date.
+Kieran Bennington is [the Morning Chasers](../organisations/the-morning-chasers.md)' priest, providing them with wisdom and healing. He poses as a monk to disguise his true [magicborn](../civilisations/kingdom-of-astor/magicborn.md) nature, which he has successfully kept hidden from the [Astornox](../organisations/government/astornox/astornox.md) to date.
 
 ## Characteristics
 

@@ -5,10 +5,10 @@
 |||
 | --- | --- |
 | **Name** | The Order of the Diamond | organisation.4
-| **Civilisation** | Kingdom of Astor |
+| **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | |
-| **Patron(s)** | Bhygar, Valnos, Kirrel, Gormox |
-| **Location(s)** | Diamond Prime (headquarters) |
+| **Patron(s)** | [Bhygar](../gods/deities/bhygar.md), [Valnos](../gods/deities/valnos.md), [Kirrel](../gods/deities/kirrel.md), [Gormox](../gods/deities/gormox.md) |
+| **Location(s)** | [Diamond Prime](../places/buildings/temples/diamond-prime.md) (headquarters) |
 |||
 | **Image ID** | `fefd395b90f5a574` |
 
@@ -94,12 +94,12 @@ Each temple and the land it is built upon is owned by The Order of the Diamond i
 
 ### Immunity
 
-The [Astornox](astornox/astornox.md) and [Astorrel](astorrel/astorrel.md) have powers that apply to most parts of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). One glaring exception is that of temples. [Astornox](astornox/astornox.md) and [Astorrel](astorrel/astorrel.md) are not allowed to enter temples in a ranked capacity, meaning that they cannot exercise their power or rank inside of a temple.
+The [Astornox](government/astornox/astornox.md) and [Astorrel](government/astorrel/astorrel.md) have powers that apply to most parts of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). One glaring exception is that of temples. [Astornox](government/astornox/astornox.md) and [Astorrel](government/astorrel/astorrel.md) are not allowed to enter temples in a ranked capacity, meaning that they cannot exercise their power or rank inside of a temple.
 
 While inside, all people, citizens or otherwise, are simply worshippers.
 
-### [Sanctuary](astorrel/sanctuary.md)
+### [Sanctuary](government/astorrel/sanctuary.md)
 
-The Order of the Diamond can take people inside their temples who are wanted by the [Astornox](astornox/astornox.md) or [Astorrel](astorrel/astorrel.md). The caretakers decide how long they may stay, and can forcibly eject anyone overstaying their welcome. It is up to the caretakers to determine how long they may stay.
+The Order of the Diamond can take people inside their temples who are wanted by the [Astornox](government/astornox/astornox.md) or [Astorrel](government/astorrel/astorrel.md). The caretakers decide how long they may stay, and can forcibly eject anyone overstaying their welcome. It is up to the caretakers to determine how long they may stay.
 
-While here, those seeking [sanctuary](astorrel/sanctuary.md) partake of the food and drink left for the caretakers, and help them with their daily duties.
+While here, those seeking [sanctuary](government/astorrel/sanctuary.md) partake of the food and drink left for the caretakers, and help them with their daily duties.

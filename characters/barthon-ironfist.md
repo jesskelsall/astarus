@@ -14,7 +14,7 @@
 | **Places** | [Eskrigg](../places/cities/eskrigg.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
 |||
 | **Image ID** | |
 
@@ -45,4 +45,4 @@ He found [Ahsha Sallas](ahsha-sallas.md) in [Mockerkin](../places/towns/mockerki
 
 Barthon spent several years training Ahsha in the ways of pit fighting, particularly fist fighting, his specialty.
 
-They parted ways when Ahsha decided to join the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme.
+They parted ways when Ahsha decided to join the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme.

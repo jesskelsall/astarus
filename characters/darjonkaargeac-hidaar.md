@@ -14,9 +14,9 @@
 | **Places** | Holmrook (birthplace) |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/astorrel/squads/astral-squad.md)<br>*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) |
+| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md)<br>*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) |
 | **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md)<br>*Former:*<br>[Linton Harkness](linton-harkness.md) |
 | **Subordinates** | *Former:*<br>[Louise Perkins](louise-perkins.md) |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Darjonkaargeac is a loyal [Astorrel](../organisations/astorrel/astorrel.md) and staunch follower of [Valnos](../gods/deities/valnos.md). They are upstanding and respectful, taking their work and the well-being of their squad very seriously.
+Darjonkaargeac is a loyal [Astorrel](../organisations/government/astorrel/astorrel.md) and staunch follower of [Valnos](../gods/deities/valnos.md). They are upstanding and respectful, taking their work and the well-being of their squad very seriously.
 
 Their clan name is pronounced: *dar-jon-kaar-jee-ak*.
 
@@ -40,11 +40,11 @@ Their clan name is pronounced: *dar-jon-kaar-jee-ak*.
 | **Mannerisms** | Military pose, rigid. Moves purposefully. Treats people with respect. |
 | | |
 | **Quirks** | Typically proud and honourable dragonborn. |
-| **Knowledge** | Nature, [Astorrel](../organisations/astorrel/astorrel.md) politics. |
+| **Knowledge** | Nature, [Astorrel](../organisations/government/astorrel/astorrel.md) politics. |
 | **Values** |  Honour, courage, honesty. |
 | **Ambitions** | Facilitate his squad achieving greatness. |
 | **Dislikes** | Liars, cowards. |
 
 ## History
 
-Hidaar and [Wrenn Piznarck](wrenn-piznarck.md) have known each other for years. Both [Astral Squad](../organisations/astorrel/squads/astral-squad.md) and [Goshawk Squad](../organisations/astorrel/squads/goshawk-squad.md) have worked alongside each other before, giving them a chance to become friends.
+Hidaar and [Wrenn Piznarck](wrenn-piznarck.md) have known each other for years. Both [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) and [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) have worked alongside each other before, giving them a chance to become friends.

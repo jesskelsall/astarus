@@ -14,9 +14,9 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Lead](../organisations/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) |
+| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Reozin Ironhide is a [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 28](../storylines/ended/natures-battle-28.md).
+Reozin Ironhide is a [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 28](../storylines/ended/natures-battle-28.md).
 
 ## Characteristics
 
@@ -59,7 +59,7 @@ Reozin Ironhide is a [Mortar Squad](../organisations/astorrel/squads/mortar-squa
 
 ## History
 
-Reozin is an immigrant from the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md). At a young age he was taken in by a pit fighting trainer who brought him to [Eskrigg](../places/cities/eskrigg.md) and began fashioning him into a capable fighter. This mentor saw great potential in him due to his minotaur lineage, not common even in the alliance. Reozin became an accomplished fighter, surprising those he fought with a mastery of two handed weapons rather than relying on his horns. He was scouted by the [Astorrel](../organisations/astorrel/astorrel.md) and joined their ranks looking for further fame and recognition.
+Reozin is an immigrant from the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md). At a young age he was taken in by a pit fighting trainer who brought him to [Eskrigg](../places/cities/eskrigg.md) and began fashioning him into a capable fighter. This mentor saw great potential in him due to his minotaur lineage, not common even in the alliance. Reozin became an accomplished fighter, surprising those he fought with a mastery of two handed weapons rather than relying on his horns. He was scouted by the [Astorrel](../organisations/government/astorrel/astorrel.md) and joined their ranks looking for further fame and recognition.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 

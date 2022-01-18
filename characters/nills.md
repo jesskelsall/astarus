@@ -73,4 +73,4 @@ When [Noon Schiller](noon-schiller.md)'s mother was still pregnant with him, the
 
 Throughout Noon's life Nills has been there for him, similar to a sister or close friend. Nills often tries to push Noon into a certain course of action for reasons unknown to Noon. Noon usually goes along with Nills' whims, trusting her implicitly and often feeling like her will is directly his own.
 
-Nills was responsible for getting Noon to join the [Astorrel](../organisations/astorrel/astorrel.md), to fight with [Dust of Chalk](dust-of-chalk.md), and to volunteer to be transferred to [Canary Squad](../organisations/astorrel/squads/canary-squad.md).
+Nills was responsible for getting Noon to join the [Astorrel](../organisations/government/astorrel/astorrel.md), to fight with [Dust of Chalk](dust-of-chalk.md), and to volunteer to be transferred to [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md).

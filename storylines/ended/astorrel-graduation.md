@@ -7,13 +7,13 @@
 
 ## Summary
 
-Every year the [Astorrel](../../organisations/astorrel/astorrel.md) graduate a cohort of new members in [Northhaven](../../places/cities/northhaven.md). In the year 312 [PA](../../history/calendars/astorian-calendar.md), the [Astorrel Agents](../../campaigns/C2-astorrel-agents.md) party graduate as [Astorrel Squad Hands](../../organisations/astorrel/ranks/astorrel-squad-hand.md), and are assigned to [Canary Squad](../../organisations/astorrel/squads/canary-squad.md) together.
+Every year the [Astorrel](../../organisations/government/astorrel/astorrel.md) graduate a cohort of new members in [Northhaven](../../places/cities/northhaven.md). In the year 312 [PA](../../history/calendars/astorian-calendar.md), the [Astorrel Agents](../../campaigns/C2-astorrel-agents.md) party graduate as [Astorrel Squad Hands](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md), and are assigned to [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) together.
 
 ## History
 
 ### travelling to Graduation
 
-The graduates-to-be all made their way from [Dunmore](../../places/cities/dunmore.md) (where the [Astorrel](../../organisations/astorrel/astorrel.md) training programme is based) to [Northhaven](../../places/cities/northhaven.md) over 8 days. They all traveled separately and arrived at different times.
+The graduates-to-be all made their way from [Dunmore](../../places/cities/dunmore.md) (where the [Astorrel](../../organisations/government/astorrel/astorrel.md) training programme is based) to [Northhaven](../../places/cities/northhaven.md) over 8 days. They all traveled separately and arrived at different times.
 
 Prior to graduation day, the graduates were laid up in [The Mission's End](../../places/buildings/inns-taverns/the-missions-end.md), unable to leave. They stayed here socialising, eating and drinking, while waiting for graduation.
 
@@ -21,9 +21,9 @@ Prior to graduation day, the graduates were laid up in [The Mission's End](../..
 
 The graduates assembled with the rest of their graduate cohort of 100 in [Kirrel Hall](../../places/buildings/kirrel-hall.md), before a stage set up specifically for graduation.
 
-[Mergin Thorgus](../../characters/mergin-thorgus.md), as [Astorrel Captain](../../organisations/astorrel/ranks/astorrel-captain.md) of [Northhaven](../../places/cities/northhaven.md), welcomed everyone to the city.
+[Mergin Thorgus](../../characters/mergin-thorgus.md), as [Astorrel Captain](../../organisations/government/astorrel/ranks/astorrel-captain.md) of [Northhaven](../../places/cities/northhaven.md), welcomed everyone to the city.
 
-[Levelle Tristwix](../../characters/levelle-tristwix.md) delivered the graduation ceremony speech in which they waxed lyrical about the ideals of the [Astorrel](../../organisations/astorrel/astorrel.md).
+[Levelle Tristwix](../../characters/levelle-tristwix.md) delivered the graduation ceremony speech in which they waxed lyrical about the ideals of the [Astorrel](../../organisations/government/astorrel/astorrel.md).
 
 ### Graduation Pledge
 
@@ -52,17 +52,17 @@ Once on stage, [Levelle Tristwix](../../characters/levelle-tristwix.md) affixed 
 
 | Named Graduate | Rank |
 | --- | --- |
-| Aaron Druum | [Astorrel Member](../../organisations/astorrel/ranks/astorrel-member.md) |
-| [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| [Darius Dunn](../../characters/darius-dunn.md) | [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| [Ephaine Seren](../../characters/ephaine-seren.md) | [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) | [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| [Turnuroth Balasar](../../characters/turnuroth-balasar.md) | [Astorrel Squad Sergeant](../../organisations/astorrel/ranks/astorrel-squad-sergeant.md) |
-| [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | [Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md) |
+| Aaron Druum | [Astorrel Member](../../organisations/government/astorrel/ranks/astorrel-member.md) |
+| [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| [Darius Dunn](../../characters/darius-dunn.md) | [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| [Ephaine Seren](../../characters/ephaine-seren.md) | [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) | [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| [Turnuroth Balasar](../../characters/turnuroth-balasar.md) | [Astorrel Squad Sergeant](../../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) |
+| [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
 
 #### Exceptional Trainee Bonus
 
-The top 5 graduates received an extra 10 pp in their graduation purse. They had been identified by the [Astorrel](../../organisations/astorrel/astorrel.md) training programme (through the [Dunmore](../../places/cities/dunmore.md) mentors) as having exceptional potential.
+The top 5 graduates received an extra 10 pp in their graduation purse. They had been identified by the [Astorrel](../../organisations/government/astorrel/astorrel.md) training programme (through the [Dunmore](../../places/cities/dunmore.md) mentors) as having exceptional potential.
 
 This extra coin was added to their purse without fanfare, making it unclear why it was there. The recipients would become aware of this bonus through their superior officer.
 
@@ -70,7 +70,7 @@ This extra coin was added to their purse without fanfare, making it unclear why 
 
 Once the graduate presentation ended, the graduates made their way to the opposite end of [Kirrel Hall](../../places/buildings/kirrel-hall.md) to read from a board who their new superior officer is.
 
-Graduates were assigned to the three [Astorrel](../../organisations/astorrel/astorrel.md) strongholds in [Northhaven](../../places/cities/northhaven.md), [Eskrigg](../../places/cities/eskrigg.md), and [Dunmore](../../places/cities/dunmore.md).
+Graduates were assigned to the three [Astorrel](../../organisations/government/astorrel/astorrel.md) strongholds in [Northhaven](../../places/cities/northhaven.md), [Eskrigg](../../places/cities/eskrigg.md), and [Dunmore](../../places/cities/dunmore.md).
 
 Those assigned to superior officers in [Northhaven](../../places/cities/northhaven.md) were expected to meet with them immediately.
 

@@ -13,7 +13,7 @@ While visiting [Shrine to the Stars](../places/structures/shrine-to-the-stars.md
 
 ### [AA16](../sessions/AA16.md)
 
-[Ephaine Seren](../characters/ephaine-seren.md), encouraged on by her father [Schaef Seren](../characters/schaef-seren.md), leads [Canary squad](../organisations/astorrel/squads/canary-squad.md) up the hills to the east of the [Seren Farmstead](../places/buildings/houses/seren-farmstead.md), arriving at the [Shrine to the Stars](../places/structures/shrine-to-the-stars.md). Knowing this place to be a place with the best views of the stars, she shows [Noon Schiller](../characters/noon-schiller.md) how the standing stones align with the stars above. The sky is crystal clear, owing to the presence of a crystal dragon lair nearby.
+[Ephaine Seren](../characters/ephaine-seren.md), encouraged on by her father [Schaef Seren](../characters/schaef-seren.md), leads [Canary squad](../organisations/government/astorrel/squads/canary-squad.md) up the hills to the east of the [Seren Farmstead](../places/buildings/houses/seren-farmstead.md), arriving at the [Shrine to the Stars](../places/structures/shrine-to-the-stars.md). Knowing this place to be a place with the best views of the stars, she shows [Noon Schiller](../characters/noon-schiller.md) how the standing stones align with the stars above. The sky is crystal clear, owing to the presence of a crystal dragon lair nearby.
 
 Ephaine searches the stars, finding herself drawn to the archer constellation which is reaching out to her. As she notices this, [Pajaru](../gods/deities/kaldoon.md) sends a pulse of his energy to the shrine, allowing the secret passageway to be accessed. Ephaine, Noon, and Korina all sense this arcane change in the area, as does [Nills](../characters/nills.md) who wonders aloud what it is to Noon, not knowing precisely what this place holds.
 
@@ -31,7 +31,7 @@ When Korina uses Channel Divinity: Turn Undead, many of the skeletons on both si
 
 ### [AA17](../sessions/AA17.md)
 
-[Canary squad](../organisations/astorrel/squads/canary-squad.md) continue their fight against the reanimated skeletons inside the archer trial room. They are able to dispatch all of the skeletons without difficulty.
+[Canary squad](../organisations/government/astorrel/squads/canary-squad.md) continue their fight against the reanimated skeletons inside the archer trial room. They are able to dispatch all of the skeletons without difficulty.
 
 Deciding to take a short rest, [Ephaine Seren](../characters/ephaine-seren.md)'s Starry Form: Archer soon ends, causing the door on the far side of the room to raise quickly and slam shut, the conditions no longer met for it remaining open.
 
@@ -51,7 +51,7 @@ Ephaine Misty Steps back into the room to try and get her hands on another chali
 
 ### [AA18](../sessions/AA18.md)
 
-[Canary squad](../organisations/astorrel/squads/canary-squad.md) continue to battle through the chalice trial in [Devdaha Crypt](../places/dungeons/devdaha-crypt.md), fighting desperately for their lives while being overwhelmed by chitine.
+[Canary squad](../organisations/government/astorrel/squads/canary-squad.md) continue to battle through the chalice trial in [Devdaha Crypt](../places/dungeons/devdaha-crypt.md), fighting desperately for their lives while being overwhelmed by chitine.
 
 [Ephaine Seren](../characters/ephaine-seren.md) manages to dodge a horde of chitine while casting Misty Step to reach one of the [Quartz Chalices](../items/magic/quartz-chalice.md), returning to the entrance doorway while everyone else begins retreating through it. While almost there she casts a healing spell while holding it, causing it to activate. She watches as it begins to glow and cast a Moonbeam with the chalice at its centre. This shocks her as she begins to burn in the radiant glow. [Ahsha Sallas](../characters/ahsha-sallas.md) watches as the magical darkness above the pedestal above Ephaine disappears.
 

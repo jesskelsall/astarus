@@ -22,6 +22,8 @@ const applyAccentReplacements = (contents) => [
   ['Dunnesland', 'Dünnesland'],
   ['Saoirse o Dochartaigh', 'Saoirse ó Dochartaigh'],
   ['Vetrall', 'Vētrall'],
+  ['Waldwachter', 'Waldwächter'],
+  ['Waldwachters', 'Waldwächters'],
   ['Zolne', 'Zolné'],
 ].reduce(
   (updatedContent, [from, to]) => updatedContent.replace(new RegExp(from, 'g'), to),

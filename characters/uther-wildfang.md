@@ -14,9 +14,9 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Dunmore](../places/cities/dunmore.md) / [Komodo Squad](../organisations/astorrel/squads/komodo-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Cities / [Dunmore](../places/cities/dunmore.md) / [Komodo Squad](../organisations/government/astorrel/squads/komodo-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||

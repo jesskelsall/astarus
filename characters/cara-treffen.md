@@ -8,7 +8,7 @@
 | **Age** | 51 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Cepine](../lineages/cepine.md)<br>[Astorrel](../organisations/astorrel/astorrel.md) (retired) |
+| **Affiliation** | [Cepine](../lineages/cepine.md)<br>[Astorrel](../organisations/government/astorrel/astorrel.md) (retired) |
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Zarrus Maleron](zarrus-maleron.md) (employee) |

@@ -11,7 +11,7 @@
 | **Class** | |
 | **Background** | |
 | **Worship** | |
-| **Relations** | [Lonearm](lonearm.md) (employer)<br>[Crucible](crucible.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) contact) |
+| **Relations** | [Lonearm](lonearm.md) (employer)<br>[Crucible](crucible.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact) |
 | **Places** | [Starnov](../places/cities/starnov.md) |
 | **Citizenship** | |
 | **Organisation(s)** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Juror is a member of the [Marsh Skimmers](../organisations/marsh-skimmers.md) and servant to [Lonearm](lonearm.md).
+Juror is a member of the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) and servant to [Lonearm](lonearm.md).
 
 ## Characteristics
 

@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Vetiti Scientiam | organisation.4
-| **Civilisation** | Kingdom of Astor |
+| **Civilisation** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | |
 | **Patron(s)** | |
 | **Location(s)** | |
@@ -18,4 +18,4 @@ Vetiti Scientiam is an organisation founded to collect, research, and proliferat
 
 ## Members
 
-- Etheldreda Dowsing
+- [Etheldreda Dowsing](../characters/etheldreda-dowsing.md)

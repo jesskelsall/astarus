@@ -37,7 +37,7 @@ This is a clear manifestation of her compulsion to stay near to [Meteoric Dust](
 
 ### [PR19](../../sessions/PR19.md)
 
-While in [sanctuary](../../organisations/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md), Torbra questions Saoirse directly about why she carries the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor around everywhere she goes. She explains that she wants to protect it and probably likes it more than the rest of the party. Thanea defends her, noting that [Elysia Vanderboss](../../characters/elysia-vanderboss.md) considers the [meteorite](../../items/meteoric/meteorite.md) and pouch of [meteoric dust](../../items/meteoric/meteoric-dust.md) to be important.
+While in [sanctuary](../../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md), Torbra questions Saoirse directly about why she carries the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor around everywhere she goes. She explains that she wants to protect it and probably likes it more than the rest of the party. Thanea defends her, noting that [Elysia Vanderboss](../../characters/elysia-vanderboss.md) considers the [meteorite](../../items/meteoric/meteorite.md) and pouch of [meteoric dust](../../items/meteoric/meteoric-dust.md) to be important.
 
 When [Elysia Vanderboss](../../characters/elysia-vanderboss.md) visits a second time she sees Saoirse in the bathroom clutching the [meteorite](../../items/meteoric/meteorite.md), refusing to leave. When Elysia leaves she gives Saoirse a perplexed look.
 
@@ -59,7 +59,7 @@ Hours before the [Nature's Battle 28](natures-battle-28.md) final, [Saoirse ó D
 
 ### [PR26](../../sessions/PR26.md)
 
-[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) fights in the [Nature's Battle 28](natures-battle-28.md) final while under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md) she ingested. She casts Meteoric Blast for the first time. Following [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md)'s defeat, during which she was knocked unconscious, she is revived by an [Astorrel member](../../organisations/astorrel/ranks/astorrel-member.md). Startled and still freaking out due to the dust's effects, she runs out of the arena.
+[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) fights in the [Nature's Battle 28](natures-battle-28.md) final while under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md) she ingested. She casts Meteoric Blast for the first time. Following [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s defeat, during which she was knocked unconscious, she is revived by an [Astorrel member](../../organisations/government/astorrel/ranks/astorrel-member.md). Startled and still freaking out due to the dust's effects, she runs out of the arena.
 
 ### [PR27](../../sessions/PR27.md)
 

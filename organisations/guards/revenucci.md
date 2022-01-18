@@ -5,7 +5,7 @@
 |||
 | --- | --- |
 | **Name** | Revenucci | organisation.4
-| **Civilisation** | Revenossa |
+| **Civilisation** | [Revenossa](../../civilisations/nilsavnic-alliance/states/revenossa.md) |
 | **Leader** | |
 | **Patron(s)** | |
 | **Location(s)** | |

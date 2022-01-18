@@ -14,16 +14,16 @@
 | **Relations** | |
 | **Places** | [Fort Eldrick](../places/forts/fort-eldrick.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation(s)** | [Astornox](../organisations/astornox/astornox.md) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Bevan Lancaster is an approachable and curious [Astornox captain](../organisations/astornox/ranks/astornox-captain.md) who oversees [Fort Eldrick](../places/forts/fort-eldrick.md). He is mostly fair providing the [Astornox](../organisations/astornox/astornox.md) are able to do their job without issue.
+Bevan Lancaster is an approachable and curious [Astornox captain](../organisations/government/astornox/ranks/astornox-captain.md) who oversees [Fort Eldrick](../places/forts/fort-eldrick.md). He is mostly fair providing the [Astornox](../organisations/government/astornox/astornox.md) are able to do their job without issue.
 
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) | Defence / [Fort Eldrick](../places/forts/fort-eldrick.md) |||
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Defence / [Fort Eldrick](../places/forts/fort-eldrick.md) |||

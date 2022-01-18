@@ -4,17 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Keranios<br>*Kera* (nickname)<br>*Calm* ([Marsh Skimmers](../organisations/marsh-skimmers.md) name) | character.3
+| **Name** | Keranios<br>*Kera* (nickname)<br>*Calm* ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) name) | character.3
 | **Lineage** | Minotaur |
 | **Pronouns** | he/him |
 | **Age** | 37 |
 | **Class** | Fighter |
 | **Worship** | |
-| **Relations** | [Marik Kaligavone](marik-kaligavone.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) associate)<br>[Creek](creek.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) contact) |
+| **Relations** | [Marik Kaligavone](marik-kaligavone.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) associate)<br>[Creek](creek.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact) |
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Marsh Skimmers](../organisations/marsh-skimmers.md) |
+| **Organisation** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 |||
 | **Image ID** | `8c075a85ed942631` |
 

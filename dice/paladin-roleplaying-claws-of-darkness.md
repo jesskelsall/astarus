@@ -23,6 +23,6 @@
 | **d12** | 1 |
 | **d20** | 2 |
 ||
-| **Associations** | [Astornox](../organisations/astornox/astornox.md) (early [Purple Rain](../campaigns/C1-purple-rain.md)) |
+| **Associations** | [Astornox](../organisations/government/astornox/astornox.md) (early [Purple Rain](../campaigns/C1-purple-rain.md)) |
 ||
 | **Image ID** | `d430ab4a9ae25271` |

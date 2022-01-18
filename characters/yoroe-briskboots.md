@@ -14,9 +14,9 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Yoroe Briskboots is a [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 28](../storylines/ended/natures-battle-28.md).
+Yoroe Briskboots is a [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 28](../storylines/ended/natures-battle-28.md).
 
 ## Characteristics
 
@@ -33,7 +33,7 @@ Yoroe Briskboots is a [Mortar Squad](../organisations/astorrel/squads/mortar-squ
 | **Face** | Fair skin, gnomish features with prominent ears. Silver eyes. | characteristics.2
 | **Hair** | Silvery hair styled into a chignon (shee-nyon). |
 | **Body** | 3'0" / 91cm. Athletic build. |
-| **Clothes** | [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md). |
+| **Clothes** | [Astorrel robes](../organisations/government/astorrel/uniforms/astorrel-robes.md). |
 | **Voice** | High female register. Local accent. |
 | **Mannerisms** | Cocky and smiley. Has a swagger to her movements which exudes confidence. |
 | | |
@@ -59,10 +59,10 @@ Yoroe Briskboots is a [Mortar Squad](../organisations/astorrel/squads/mortar-squ
 
 ## History
 
-Originally from the village of Wolsty, Yoroe had a hard home life and wished to escape to somewhere less hostile. She found herself joining the [Astorrel](../organisations/astorrel/astorrel.md) where she learned of [Kirrel](../gods/deities/kirrel.md)'s teachings through her mentor, taking a shining to both the organisation and her mentor. They had a brief relationship before she realised that he wasn't the nicest of people. Despite this her conviction to the [Astorrel](../organisations/astorrel/astorrel.md) cause only grew stronger, guiding her forward.
+Originally from the village of Wolsty, Yoroe had a hard home life and wished to escape to somewhere less hostile. She found herself joining the [Astorrel](../organisations/government/astorrel/astorrel.md) where she learned of [Kirrel](../gods/deities/kirrel.md)'s teachings through her mentor, taking a shining to both the organisation and her mentor. They had a brief relationship before she realised that he wasn't the nicest of people. Despite this her conviction to the [Astorrel](../organisations/government/astorrel/astorrel.md) cause only grew stronger, guiding her forward.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
 - She was romantically involved with her mentor. [truth]
-- She believes so strongly in the [Astorrel](../organisations/astorrel/astorrel.md) that she doesn't suffer well those who don't. [truth]
+- She believes so strongly in the [Astorrel](../organisations/government/astorrel/astorrel.md) that she doesn't suffer well those who don't. [truth]
 - She is trouble to anyone that tries to befriend her. [lie]

@@ -14,7 +14,7 @@
 | **Places** | [The Rat's Nest](../places/buildings/inns-taverns/the-rats-nest.md) (innkeeper) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
 |||
 | **Image ID** | |
 

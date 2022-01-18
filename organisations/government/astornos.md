@@ -5,9 +5,9 @@
 |||
 | --- | --- |
 | **Name** | Astornos | organisation.4
-| **Civilisation** | Kingdom of Astor |
+| **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | |
-| **Patron(s)** | Valnos |
+| **Patron(s)** | [Valnos](../../gods/deities/valnos.md) |
 | **Location(s)** | |
 |||
 | **Image ID** | `929def63cb75419e` |

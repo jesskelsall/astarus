@@ -14,9 +14,9 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Aisling Kavanagh is a [Mortar Squad](../organisations/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 28](../storylines/ended/natures-battle-28.md).
+Aisling Kavanagh is a [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) member created specifically to compete in [Nature's Battle 28](../storylines/ended/natures-battle-28.md).
 
 Her name is pronounced: *ash-ling kav-an-ah*.
 
@@ -61,11 +61,11 @@ Her name is pronounced: *ash-ling kav-an-ah*.
 
 ## History
 
-Aisling was born into a wealthy family, her father [Eoghan Kavanagh](eoghan-kavanagh.md) being an [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md). The Kavanagh family is well respected throughout the kingdom, and own a lucrative hot spring in the town of Eaglesfield where they live.
+Aisling was born into a wealthy family, her father [Eoghan Kavanagh](eoghan-kavanagh.md) being an [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md). The Kavanagh family is well respected throughout the kingdom, and own a lucrative hot spring in the town of Eaglesfield where they live.
 
 She was her father's favourite of his two twin children. Naturally gifted in fighting, she took a shining to martial arts from a young age and began honing her skills.
 
-Due to her witnessing her father looking down on her brother [Diarmuid Kavanagh](diarmuid-kavanagh.md), she has vowed to out-shine her father, driving her and her brother to join the [Astorrel](../organisations/astorrel/astorrel.md) rather than the [Astornox](../organisations/astornox/astornox.md). It is very important to her that she does it together with Diarmuid in order to prove to her father that he isn't as weak as he believes.
+Due to her witnessing her father looking down on her brother [Diarmuid Kavanagh](diarmuid-kavanagh.md), she has vowed to out-shine her father, driving her and her brother to join the [Astorrel](../organisations/government/astorrel/astorrel.md) rather than the [Astornox](../organisations/government/astornox/astornox.md). It is very important to her that she does it together with Diarmuid in order to prove to her father that he isn't as weak as he believes.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 

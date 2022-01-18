@@ -14,9 +14,9 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / Frontier / [Kiln Squad](../organisations/astorrel/squads/kiln-squad.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
+| **Role** | Phenomena / Frontier / [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md) |
 | **Commanding Officer** | [Taza Finetrick](taza-finetrick.md) |
 | **Subordinates** | |
 |||

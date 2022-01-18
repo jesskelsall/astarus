@@ -6,7 +6,7 @@
 | **Type** | House |
 | **Location** | [Filisur](../../villages/filisur.md) |
 | **Nearby Places** | |
-| **People** | [Schaef Seren](../../../characters/schaef-seren.md)<br>[Adalie Seren](../../../characters/adalie-seren.md)<br>[Besar Seren](../../../characters/besar-seren.md)<br>[Irla Seren](../../../characters/irla-seren.md)<br>Comet (black border collie dog, male)<br>Nebula (brown border collie dog, female) |
+| **People** | [Schaef Seren](../../../characters/schaef-seren.md)<br>[Adalie Seren](../../../characters/adalie-seren.md)<br>[Besar Seren](../../../characters/besar-seren.md)<br>[Irla Seren](../../../characters/irla-seren.md)<br>[Nebula](../../../characters/nebula.md) (sheepdog)<br>[Comet](../../../characters/comet.md) (sheepdog) |
 
 ## Summary
 

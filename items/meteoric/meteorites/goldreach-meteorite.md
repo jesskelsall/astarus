@@ -7,7 +7,7 @@
 | **Closest Settlement** | [Goldreach](../../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md)
 | **Produced** | [Meteoric Watcher](../../../creatures/meteoric-watcher.md) x3 |
 | **[Meteoridis](../../../mechanics/roleplay/meteoridis.md)** | [Saoirse ó Dochartaigh](../../../characters/saoirse-o-dochartaigh.md) |
-| **Found By** | [Starfall Squad](../../../organisations/astorrel/squads/starfall-squad.md) |
+| **Found By** | [Starfall Squad](../../../organisations/government/astorrel/squads/starfall-squad.md) |
 | **Current Owner** | [Saoirse ó Dochartaigh](../../../characters/saoirse-o-dochartaigh.md) |
 
 ## Summary
@@ -18,7 +18,7 @@ The Goldreach Meteorite fell to the ground north west of [Goldreach](../../../ci
 
 *See: [Finding the Goldreach Meteorite](../../../storylines/ended/finding-the-goldreach-meteorite.md)*
 
-Prior to the meteor's landing, [Tyburn Dalvos](../../../characters/tyburn-dalvos.md) of [Astral Squad](../../../organisations/astorrel/squads/astral-squad.md) predicted its arrival and landing area of [Goldreach](../../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). [Elysia Vanderboss](../../../characters/elysia-vanderboss.md), then [Astral Squad](../../../organisations/astorrel/squads/astral-squad.md)'s [Astorrel Squad Lead](../../../organisations/astorrel/ranks/astorrel-squad-lead.md), dispatched [Wrenn Piznarck](../../../characters/wrenn-piznarck.md) to [Goldreach](../../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to attempt to retrieve it. He set off 3 days before it landed, arriving 2 days after it did.
+Prior to the meteor's landing, [Tyburn Dalvos](../../../characters/tyburn-dalvos.md) of [Astral Squad](../../../organisations/government/astorrel/squads/astral-squad.md) predicted its arrival and landing area of [Goldreach](../../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). [Elysia Vanderboss](../../../characters/elysia-vanderboss.md), then [Astral Squad](../../../organisations/government/astorrel/squads/astral-squad.md)'s [Astorrel Squad Lead](../../../organisations/government/astorrel/ranks/astorrel-squad-lead.md), dispatched [Wrenn Piznarck](../../../characters/wrenn-piznarck.md) to [Goldreach](../../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to attempt to retrieve it. He set off 3 days before it landed, arriving 2 days after it did.
 
 Wrenn convinced the [Purple Rain](../../../campaigns/C1-purple-rain.md) party to help him locate it. They eventually found it in the [Hawkswood Wolf Cave](../../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), fighting 2 of the 3 [Meteoric Watchers](../../../creatures/meteoric-watcher.md) it had produced, killing both.
 

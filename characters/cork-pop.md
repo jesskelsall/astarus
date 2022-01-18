@@ -11,10 +11,10 @@
 | **Class** | [Kenku](https://www.dndbeyond.com/monsters/kenku) |
 | **Background** | |
 | **Worship** | |
-| **Relations** | [Viola](viola.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) associate) |
+| **Relations** | [Viola](viola.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) associate) |
 | **Places** | [Trest](../places/towns/trest.md) |
 | **Citizenship** | |
-| **Organisation(s)** | [Marsh Skimmers](../organisations/marsh-skimmers.md) |
+| **Organisation(s)** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 |||
 | **Image ID** | |
 

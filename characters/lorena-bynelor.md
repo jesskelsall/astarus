@@ -29,7 +29,7 @@ Lorena Bynelor is the Knight of [Golfmaul](../places/towns/golfmaul.md). She is 
 | **Face** | Rough pink skin, brown eyes. Oblong common face. Large piercing on right ear. | characteristics.2
 | **Hair** | Short braided blonde hair. |
 | **Body** | 5'6" / 164cm. Athletic build. |
-| **Clothes** | Plate armour, immaculately polished. Ornate rapier. |
+| **Clothes** | Plate armour, immaculately polished. [Waldwächter](../organisations/guards/waldwachter.md) tabard. Ornate rapier.  |
 | **Voice** | Female register, southern English accent. |
 | **Mannerisms** | Conscious of her pose and posture. Rarely talks about other people. |
 | | |
@@ -37,4 +37,4 @@ Lorena Bynelor is the Knight of [Golfmaul](../places/towns/golfmaul.md). She is 
 | **Knowledge** | |
 | **Values** | Will always prioritise her needs. |
 | **Ambitions** | Dreams of becoming a Lady. |
-| **Dislikes** | Shows little empathy towards others. |
+| **Dislikes** | Getting her hands dirty. |

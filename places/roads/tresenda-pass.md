@@ -19,5 +19,5 @@ The name "Tresenda Pass" can be used to both refer to the road and the valley th
 | Sights | Quiet dirt trail along undulating gentle hills. Thick grass, with some trees to the south, but ferns and wildflowers to the north. Set into a bowl shaped valley surrounded by snow topped hills that obscure the sun at sunrise and sunset. Views of the [Foss Peaks](../mountains/foss-peaks.md) to the north. |
 | Sounds | Rustling of grass, birds, wolves howling in the night. |
 | Smells | Fresh air. |
-| People | Almost entirely devoid of travellers. [Astornox](../../organisations/astornox/astornox.md) if any. |
+| People | Almost entirely devoid of travellers. [Astornox](../../organisations/government/astornox/astornox.md) if any. |
 | Intrigue | A picturesque travel route that is more dangerous than it looks. |

@@ -11,10 +11,10 @@
 | **Class** | [Thug](https://www.dndbeyond.com/monsters/thug) |
 | **Background** | |
 | **Worship** | |
-| **Relations** | [Cork Pop](cork-pop.md) ([Marsh Skimmers](../organisations/marsh-skimmers.md) associate) |
+| **Relations** | [Cork Pop](cork-pop.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) associate) |
 | **Places** | [Trest](../places/towns/trest.md) |
 | **Citizenship** | |
-| **Organisation(s)** | [Marsh Skimmers](../organisations/marsh-skimmers.md) |
+| **Organisation(s)** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 |||
 | **Image ID** | |
 

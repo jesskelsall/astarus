@@ -14,7 +14,7 @@
 | **Places** | [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md) (innkeeper) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) (retired) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) (retired) |
 |||
 | **Image ID** | |
 

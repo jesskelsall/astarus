@@ -20,7 +20,7 @@ Formed immediately after [The Third Coming](../../history/events/the-third-comin
 
 | Name | Language | Literal | Meaning | 
 | --- | --- | --- | --- |
-| Hochwald | [Valburgisch](../../languages/valburgisch.md) | hochwald | high forest |
+| Hochwald | [Valburgisch](../../languages/valburgisch.md) || high forest |
 
 ## Places
 

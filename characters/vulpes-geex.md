@@ -21,7 +21,7 @@
 
 ## Summary
 
-Vulpes Geex is the second son of [Vulpes Geen](vulpes-geen.md). He has agreed to join the [Marsh Skimmers](../organisations/marsh-skimmers.md) as an informant, reporting on what is happening within [Familia Vulpes](../organisations/familia-vulpes.md).
+Vulpes Geex is the second son of [Vulpes Geen](vulpes-geen.md). He has agreed to join the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) as an informant, reporting on what is happening within [Familia Vulpes](../organisations/familia-vulpes.md).
 
 ## Characteristics
 

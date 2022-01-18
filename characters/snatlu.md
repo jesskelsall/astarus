@@ -12,8 +12,8 @@
 | **Places** | |
 |||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) |
 | **Role** | Dragons |
 | **Commanding Officer** | [Kleachanshtojak Yrlyassa](kleachanshtojak-yrlyassa.md) |
 | **Subordinates** | |

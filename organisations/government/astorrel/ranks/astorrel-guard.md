@@ -13,12 +13,12 @@
 
 ## Military Badge
 
-*See: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military badges](../../../../civilisations/kingdom-of-astor/military-badges.md)*
 
-[Astorrel Squad Hand](astorrel-squad-hand.md) badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of silver inlaid inside its bottom edge.
+[Astorrel Squad Hand](astorrel-squad-hand.md) badges look like plain [Astorrel](../astorrel.md) [military badges](../../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of silver inlaid inside its bottom edge.
 
 # Duties
 
-Astorrel Guards are charged with protecting [Astorrel](../astorrel.md) strongholds such as the [Northhaven Astorrel Stronghold](../../../places/strongholds/northhaven-astorrel-stronghold.md). They prevent those without permission to enter from doing so, and keep the peace within.
+Astorrel Guards are charged with protecting [Astorrel](../astorrel.md) strongholds such as the [Northhaven Astorrel Stronghold](../../../../places/strongholds/northhaven-astorrel-stronghold.md). They prevent those without permission to enter from doing so, and keep the peace within.
 
 They are attached to an [Astorrel Guard Sergeant](astorrel-guard-sergeant.md) who runs their shift and provides them with orders.

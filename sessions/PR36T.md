@@ -13,7 +13,7 @@
 
 [Thanea Morlay](../characters/thanea-morlay.md) appears inside of [Supreme Hall](../places/buildings/supreme-hall.md) near the doors after having teleported by using the letter ([PR36-L-3](../letters/PR36-L-3.md)) she possesses. A brief smell of ozone indicates that magic was just at work. As she arrives it crumbles into ashes in her hands, falling between them.
 
-Startled, she drinks in her surroundings, noticing [Corville Thornox](../characters/corville-thornox.md) sat on his throne. Next to him stands [Patricia Wilbenotel](../characters/patricia-wilbenotel.md) who is engaging in quiet conversation with him. Noticing Thanea's arrival, the pair stop talking and stare towards her. Thanea recognises their armour as [Astornar](../organisations/astornar.md) and Patricia as one of the generals that judged the [Astornar](../organisations/astornar.md) trial for [the firbolg controversy](../storylines/ended/the-firbolg-controversy.md).
+Startled, she drinks in her surroundings, noticing [Corville Thornox](../characters/corville-thornox.md) sat on his throne. Next to him stands [Patricia Wilbenotel](../characters/patricia-wilbenotel.md) who is engaging in quiet conversation with him. Noticing Thanea's arrival, the pair stop talking and stare towards her. Thanea recognises their armour as [Astornar](../organisations/government/astornar.md) and Patricia as one of the generals that judged the [Astornar](../organisations/government/astornar.md) trial for [the firbolg controversy](../storylines/ended/the-firbolg-controversy.md).
 
 Thanea begins to panic, muttering to herself:
 
@@ -34,7 +34,7 @@ As Thanea approaches the base of the steps, Corville stands before raising a han
 
 Corville tells her it is okay, causing her to stop babbling. He asks her if she knows who he is, to which she replies correctly, noting that she can at least read his name on the letter.
 
-Corville descends the steps slowly, stopping at the first step. He starts by congratulating [Starfall squad](../organisations/astorrel/squads/starfall-squad.md) on their efforts in [Nature's Battle 28](../storylines/ended/natures-battle-28.md), saying that they fought valiantly. Thanea thanks him, saying they gave it their all but regretted not being able to win, and they'd like to do better next time. Knowing that the option won't be available again, Corville stifles a wry grin.
+Corville descends the steps slowly, stopping at the first step. He starts by congratulating [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) on their efforts in [Nature's Battle 28](../storylines/ended/natures-battle-28.md), saying that they fought valiantly. Thanea thanks him, saying they gave it their all but regretted not being able to win, and they'd like to do better next time. Knowing that the option won't be available again, Corville stifles a wry grin.
 
 He asks Thanea why he has summoned her here. Thanea expects that it is because she grew wings and flew above the arena, earning a confirming nod. Thanea readily tells him that it was a first for her and due to her feeling in danger, before offering to tell him anything he wants to know.
 
@@ -45,7 +45,7 @@ Thanea explains that she has no idea how rare this is or if others exist, despit
 
 Thanea recants her [Eskrigg](../places/cities/eskrigg.md) deva dream wherein she took flight on radiant wings, a feeling that would later become familiar to her. When Corville asks if her dream has "come to pass", Thanea explains that she has had other dreams before that have come true, though the dream specifics and the final play of events don't match exactly. She believes that her [Eskrigg](../places/cities/eskrigg.md) dream represented her time in [Nature's Battle 28](../storylines/ended/natures-battle-28.md), particularly her first use of Radiant Soul. She alludes to [Seraphina](../characters/seraphina.md) being present in many of her dreams, and it was her who gave her the power to manifest her wings.
 
-She then talks of her first deva dream of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and its influence on her choice to leave her forest home to pursue it. Corville makes Thanea aware that he knows of the meteoric work that the [Astorrel](../organisations/astorrel/astorrel.md) are currently doing. When Corville asks her if the [meteorites](../items/meteoric/meteorite.md) are related to her powers she tells him that she isn't sure, concealing her feelings that there may be a connection. Corville hopes that they are not linked.
+She then talks of her first deva dream of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and its influence on her choice to leave her forest home to pursue it. Corville makes Thanea aware that he knows of the meteoric work that the [Astorrel](../organisations/government/astorrel/astorrel.md) are currently doing. When Corville asks her if the [meteorites](../items/meteoric/meteorite.md) are related to her powers she tells him that she isn't sure, concealing her feelings that there may be a connection. Corville hopes that they are not linked.
 
 ## Demonstrating Her Wings
 

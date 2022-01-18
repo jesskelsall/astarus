@@ -43,7 +43,7 @@ She is devout and wise, devoting her life to [Malnesh](../gods/deities/malnesh.m
 
 ## History
 
-Nenra lived most of her life in Eaglesfield. She spent a lot of time watching the Eaglesfield [Astornox](../organisations/astornox/astornox.md) training new soldiers for the war (Syntenne-Astor war) effort.
+Nenra lived most of her life in Eaglesfield. She spent a lot of time watching the Eaglesfield [Astornox](../organisations/government/astornox/astornox.md) training new soldiers for the war (Syntenne-Astor war) effort.
 
 Eventually she couldn't watch new hopeful recruits get churned up by the system anymore, and moved outside of the town.
 

@@ -23,6 +23,6 @@
 | **d12** | 1 |
 | **d20** | 2 |
 ||
-| **Associations** | [Astornox](../organisations/astornox/astornox.md) |
+| **Associations** | [Astornox](../organisations/government/astornox/astornox.md) |
 ||
 | **Image ID** | `818c6d74ee1d7700` |

@@ -14,8 +14,8 @@
 | **Places** | Ballabeg (birthplace) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/astornox/astornox.md) (retired) |
-| **Rank** | [Astornox Captain](../organisations/astornox/ranks/astornox-captain.md) |
+| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
+| **Rank** | [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) |
 | **Role** | Settlements / Baldrine |
 |||
 | **Image ID** | |

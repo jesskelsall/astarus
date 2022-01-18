@@ -14,8 +14,8 @@
 | **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md) (receptionist) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Member](../organisations/astorrel/ranks/astorrel-member.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Member](../organisations/government/astorrel/ranks/astorrel-member.md) |
 | **Role** | Phenomena |
 | **Commanding Officer** | |
 | **Subordinates** | |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Amarin Hutchinson is the short-tempered receptionist of [Tenterfell House](../places/buildings/tenterfell-house.md). She works behind the front desk, helping with matters of the building and directing [Astorrel](../organisations/astorrel/astorrel.md) to where they need to be.
+Amarin Hutchinson is the short-tempered receptionist of [Tenterfell House](../places/buildings/tenterfell-house.md). She works behind the front desk, helping with matters of the building and directing [Astorrel](../organisations/government/astorrel/astorrel.md) to where they need to be.
 
 ## Characteristics
 
@@ -33,7 +33,7 @@ Amarin Hutchinson is the short-tempered receptionist of [Tenterfell House](../pl
 | **Face** | | characteristics.2
 | **Hair** | |
 | **Body** | |
-| **Clothes** | [Astorrel robes](../organisations/astorrel/uniforms/astorrel-robes.md) |
+| **Clothes** | [Astorrel robes](../organisations/government/astorrel/uniforms/astorrel-robes.md) |
 | **Voice** | Female register, old and irate. |
 | **Mannerisms** | Quick to get annoyed. Hates small talk and stupid questions. |
 | | |

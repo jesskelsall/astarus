@@ -18,8 +18,8 @@ Arrepont (formerly Naissance) is the capital of [Savnia](../../civilisations/nil
 
 | Name | Language | Literal | Meaning | 
 | --- | --- | --- | --- |
-| Arrepont | Common | arrival point | point of origin |
-| Naissance | [Elvish](../../languages/elvish.md) | birth | birthplace |
+| Arrepont | Common | arrival point ||
+| Naissance | [Elvish](../../languages/elvish.md) || birth |
 
 ## History
 

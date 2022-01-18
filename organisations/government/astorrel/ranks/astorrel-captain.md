@@ -13,9 +13,9 @@
 
 ## Military Badge
 
-*See: [Military badges](../../../civilisations/kingdom-of-astor/military-badges.md)*
+*See: [Military badges](../../../../civilisations/kingdom-of-astor/military-badges.md)*
 
-Astorrel Captain badges look like plain [Astorrel](../astorrel.md) [military badges](../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its top and bottom edges. The use of gold denotes an officer rank.
+Astorrel Captain badges look like plain [Astorrel](../astorrel.md) [military badges](../../../../civilisations/kingdom-of-astor/military-badges.md), but with a strip of gold inlaid inside its top and bottom edges. The use of gold denotes an officer rank.
 
 # Duties
 

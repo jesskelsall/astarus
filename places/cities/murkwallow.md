@@ -14,7 +14,7 @@
 
 The antithesis of [Hochwald](hochwald.md) or [Arrepont](arrepont.md), Murkwallow is as appealing as its name sounds. Situated on a marshy island in the [Scintil Delta](../rivers-lakes/scintil-delta.md), when the residents aren't backstabbing each other or the neighbouring states' guard forces aren't trying a power grab, the whole damned place is trying to sink into the mud.
 
-The [Marsh Skimmers](../../organisations/marsh-skimmers.md) are headquartered in Murkwallow.
+The [Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md) are headquartered in Murkwallow.
 
 | Sensation | Description |
 | ---- | --- |
@@ -26,6 +26,6 @@ The [Marsh Skimmers](../../organisations/marsh-skimmers.md) are headquartered in
 
 ## Places
 
-- [Tabaxi's Folly](../buildings/tabaxis-folly.md) ([Marsh Skimmers](../../organisations/marsh-skimmers.md) HQ)
+- [Tabaxi's Folly](../buildings/tabaxis-folly.md) ([Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md) HQ)
   - [Creek's Bar](../buildings/inns-taverns/creeks-bar.md)
 - [The Terrific Toad](../buildings/inns-taverns/the-terrific-toad.md) (inn)

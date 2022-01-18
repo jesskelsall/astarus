@@ -11,16 +11,16 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [The Terrific Toad](../places/buildings/inns-taverns/the-terrific-toad.md) (patron) |
+| **Places** | |
 |||
 | **Citizenship** | [The Dragonbrand](../civilisations/nilsavnic-alliance/states/the-dragonbrand.md) |
-| **Organisation** | [Hammersmiths](../organisations/hammersmiths.md) |
+| **Organisation** | |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Thelraar Avrae is a nervous member of the [Hammersmiths](../organisations/hammersmiths.md), way in over her head in the criminal world. She is nervous and jumpy.
+Thelraar Avrae is a nervous and jumpy former criminal, having fled from a false start with the [Hammersmiths](../organisations/criminals/hammersmiths.md). Now she is trying to lay low and figure out what to do with her life.
 
 ## Characteristics
 
@@ -35,6 +35,6 @@ Thelraar Avrae is a nervous member of the [Hammersmiths](../organisations/hammer
 | | |
 | **Quirks** | Quiet and reserved. Secretly an alcoholic.<br>Doesn't make eye contact when lying. |
 | **Knowledge** | |
-| **Values** | Her own life above her criminal role. |
+| **Values** | Her own life above the criminal way of life. |
 | **Ambitions** | |
 | **Dislikes** | The higher stakes side of criminal life. |

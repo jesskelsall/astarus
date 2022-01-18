@@ -26,7 +26,7 @@
 >
 > Things are moving quickly. I know you're in the area.
 >
-> *{The [Hammersmiths](../organisations/hammersmiths.md) are moving closer.}*
+> *{The [Hammersmiths](../organisations/criminals/hammersmiths.md) are moving closer.}*
 >
 > Don't forget the debt you both owe us.
 >

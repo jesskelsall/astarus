@@ -14,8 +14,8 @@
 | **Places** | [Dunmore](../places/cities/dunmore.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Captain](../organisations/astorrel/ranks/astorrel-captain.md) |
+| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
+| **Rank** | [Astorrel Captain](../organisations/government/astorrel/ranks/astorrel-captain.md) |
 | **Role** | Cities / [Dunmore](../places/cities/dunmore.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
@@ -33,7 +33,7 @@ Tamosha Goldron is a reserved Captain that enjoys the relative solitude that com
 | **Face** | Green skin, wide face, yellow eyes. Prominent tusks. | characteristics.2
 | **Hair** | Mousy brown, tied back. |
 | **Body** | 6'3" / 191cm. Stocky and curvy. |
-| **Clothes** | [Astorrel officer's uniform](../organisations/astorrel/uniforms/astorrel-officers-uniform.md). |
+| **Clothes** | [Astorrel officer's uniform](../organisations/government/astorrel/uniforms/astorrel-officers-uniform.md). |
 | **Voice** | Low female register. |
 | **Mannerisms** | Keeps to herself and only speaks when spoken to. |
 | | |

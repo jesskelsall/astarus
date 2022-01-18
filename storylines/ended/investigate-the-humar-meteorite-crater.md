@@ -7,30 +7,30 @@
 
 ## Summary
 
-[Astral squad](../../organisations/astorrel/squads/astral-squad.md) found a mysterious crater on the Humar Estuary, along with several shards of the [Humar Meteorite](../../items/meteoric/meteorites/humar-meteorite.md). What happened to the rest of it?
+[Astral squad](../../organisations/government/astorrel/squads/astral-squad.md) found a mysterious crater on the Humar Estuary, along with several shards of the [Humar Meteorite](../../items/meteoric/meteorites/humar-meteorite.md). What happened to the rest of it?
 
 ## Mission
 
 |||
 | --- | --- |
-| **Given To** | [Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) |
+| **Given To** | [Starfall Squad](../../organisations/government/astorrel/squads/starfall-squad.md) |
 | **Given By** | [Elysia Vanderboss](../../characters/elysia-vanderboss.md) |
 | **Goal** | Search for more evidence of [the meteorics](../../lineages/the-meteorics.md) at the [Humar Meteorite crater](../../places/rivers-lakes/humar-meteorite-crater.md). |
 | **Evidence Required** | Any meteoric evidence available. |
 | **Time Limit** | 7 days |
-| **Reward** | [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md): 20 gp<br>[Astorrel Squad Hand](../../organisations/astorrel/ranks/astorrel-squad-hand.md): 15 gp |
+| **Reward** | [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md): 20 gp<br>[Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md): 15 gp |
 
 ## History
 
 ### [PR30](../../sessions/PR30.md)
 
-Following the completion of [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md)'s first mission ([Talk to the Morning Chasers](talk-to-the-morning-chasers.md)), [Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) debate which of the four offered missions to take next. [Torbra Tauff](../../characters/torbra-tauff.md) as [Astorrel Squad Lead](../../organisations/astorrel/ranks/astorrel-squad-lead.md) makes the decision to head to the Humar Estuary. This is partially motivated by its quick mission deadline and relatively high ratio pay.
+Following the completion of [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s first mission ([Talk to the Morning Chasers](talk-to-the-morning-chasers.md)), [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) debate which of the four offered missions to take next. [Torbra Tauff](../../characters/torbra-tauff.md) as [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md) makes the decision to head to the Humar Estuary. This is partially motivated by its quick mission deadline and relatively high ratio pay.
 
 ### [PR31](../../sessions/PR31.md)
 
 #### Day 1
 
-[Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) gear up for their mission to the Humar Estuary. [Torbra Tauff](../../characters/torbra-tauff.md) considers how they might get there, first considering hiring a horse and cart before deciding to try and buy a rowing boat.
+[Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) gear up for their mission to the Humar Estuary. [Torbra Tauff](../../characters/torbra-tauff.md) considers how they might get there, first considering hiring a horse and cart before deciding to try and buy a rowing boat.
 
 The party head to the west of the [Sunset District](../../places/districts/sunset-district.md), down to the docks lined with ships of all sizes conducting commerce. She finds several businesses that will sell her a boat for 50 gp. As an alternative she looks for a ship that might be willing to drop them off along their route.
 
@@ -54,7 +54,7 @@ Travelling for most of the day, the party eventually see disturbances in the wat
 
 ### [PR33](../../sessions/PR33.md)
 
-[Starfall squad](../../organisations/astorrel/squads/starfall-squad.md) meet [Montel Leithran](../../characters/montel-leithran.md) and [Esme Leithran](../../characters/esme-leithran.md) in [Leithran Shack](../../places/buildings/leithran-shack.md). They spend the night together, getting to know each other, particularly the pair's struggles as elves trying to make a home in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+[Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) meet [Montel Leithran](../../characters/montel-leithran.md) and [Esme Leithran](../../characters/esme-leithran.md) in [Leithran Shack](../../places/buildings/leithran-shack.md). They spend the night together, getting to know each other, particularly the pair's struggles as elves trying to make a home in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
 During this time [Thanea Morlay](../../characters/thanea-morlay.md) asks them if they have seen anything strange or suspicious on their travels since leaving [Hyceodd](../../places/towns/hyceodd.md). [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) casts Minor Illusion to create images of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) and [Meteoric Watchers](../../creatures/meteoric-watcher.md). Montel replies that he has seen nothing of the kind, or anything crater-like.
 
@@ -62,7 +62,7 @@ During this time [Thanea Morlay](../../characters/thanea-morlay.md) asks them if
 
 #### Day 4
 
-[Starfall Squad](../../organisations/astorrel/squads/starfall-squad.md) leave [Leithran Shack](../../places/buildings/leithran-shack.md) in the morning with [Montel Leithran](../../characters/montel-leithran.md) and [Esme Leithran](../../characters/esme-leithran.md), who will accompany them while they complete their mission.
+[Starfall Squad](../../organisations/government/astorrel/squads/starfall-squad.md) leave [Leithran Shack](../../places/buildings/leithran-shack.md) in the morning with [Montel Leithran](../../characters/montel-leithran.md) and [Esme Leithran](../../characters/esme-leithran.md), who will accompany them while they complete their mission.
 
 [Wizira](../../characters/wizira.md) finds a forked stick for use with her Locate Object spell but is unable to detect a [meteorite](../../items/meteoric/meteorite.md) within its area of effect. [Thanea Morlay](../../characters/thanea-morlay.md) uses Radiant Soul to fly high into the clear sky, getting the party's bearings two thirds of the way down the Humar Estuary peninsula. [Torbra Tauff](../../characters/torbra-tauff.md) decides that they should proceed south west.
 
@@ -96,7 +96,7 @@ Distraught by the death of their friend, the party regroups and works through th
 
 Returning to [Northhaven](../../places/cities/northhaven.md), [Torbra Tauff](../../characters/torbra-tauff.md) breaks the news to [Elysia Vanderboss](../../characters/elysia-vanderboss.md) that [Wizira](../../characters/wizira.md) is dead and so they returned, defeated. Eventually Elysia gets the squad back to [Tenterfell House](../../places/buildings/tenterfell-house.md) for a debrief.
 
-In it she chastises the squad for wasting their time with [Montel Leithran](../../characters/montel-leithran.md) and [Esme Leithran](../../characters/esme-leithran.md) instead of completing their mission. She is remorseless that [Wizira](../../characters/wizira.md) died, noting that it is an occupational hazard of being [Astorrel](../../organisations/astorrel/astorrel.md).
+In it she chastises the squad for wasting their time with [Montel Leithran](../../characters/montel-leithran.md) and [Esme Leithran](../../characters/esme-leithran.md) instead of completing their mission. She is remorseless that [Wizira](../../characters/wizira.md) died, noting that it is an occupational hazard of being [Astorrel](../../organisations/government/astorrel/astorrel.md).
 
 The party is able to provide Elysia with some useful information. They noted that the crater had filled with more water, was now home to a giant crocodile, and that before her death [Wizira](../../characters/wizira.md) had been casting Locate Object while thinking about [meteoric dust](../../items/meteoric/meteoric-dust.md) to locate the [meteorite](../../items/meteoric/meteorite.md). This pointed to the [Humar Meteorite](../../items/meteoric/meteorites/humar-meteorite.md) still being at the bottom of the lake.
 

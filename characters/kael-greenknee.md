@@ -8,7 +8,7 @@
 | **Age** | 99 |
 | **Class** | |
 | **Alignment** | |
-| **Affiliation** | [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) (mentor)<br><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
+| **Affiliation** | [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) (mentor)<br><img src="../../images/ranks/astorrel-5-lieutenant.png" height="50" /> |
 | **Commanding Officer** | |
 | **Subordinates** | |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
@@ -19,7 +19,7 @@
 
 ## Summary
 
-Kael Greenknee is an [Astorrel Lieutenant](../organisations/astorrel/ranks/astorrel-lieutenant.md) working for the [Dunmore](../places/cities/dunmore.md) [Astorrel](../organisations/astorrel/astorrel.md). He is a mentor in the [Astorrel](../organisations/astorrel/astorrel.md) recruitment programme, tasked with training recruits and teaching them various useful skills.
+Kael Greenknee is an [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) working for the [Dunmore](../places/cities/dunmore.md) [Astorrel](../organisations/government/astorrel/astorrel.md). He is a mentor in the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme, tasked with training recruits and teaching them various useful skills.
 
 He was the mentor of [Ahsha Sallas](ahsha-sallas.md) when she joined the programme. Initially they didn't get on well, arguing often before eventually outright fighting. After this they made their peace with each other and developed a friendship. Kael sees great potential in Ahsha and favoured her over other recruits.
 

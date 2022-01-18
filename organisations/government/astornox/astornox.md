@@ -5,18 +5,18 @@
 |||
 | --- | --- |
 | **Name** | Astornox | organisation.4
-| **Civilisation** | Kingdom of Astor |
-| **Leader** | Itharmund Steeleye |
-| **Patron(s)** | Gormox |
-| **Location(s)** | Northhaven Astornox Stronghold (headquarters) |
+| **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Leader** | [Itharmund Steeleye](../../../characters/itharmund-steeleye.md) |
+| **Patron(s)** | [Gormox](../../../gods/deities/gormox.md) |
+| **Location(s)** | [Northhaven Astornox Stronghold](../../../places/strongholds/northhaven-astornox-stronghold.md) (headquarters) |
 |||
 | **Image ID** | `a66efa0a8b232cdc` |
 
 ## Summary
 
-The Astornox is a military organisation of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the largest organisation in Astor, encompassing a variety of duties including: army and war efforts, guards and peacekeeping, protection from natural threats, local government, and punishment.
+The Astornox is a military organisation of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is empowered to carry out its duties by the [Astornar](../astornar.md). It is the largest organisation in Astor, encompassing a variety of duties including: army and war efforts, guards and peacekeeping, protection from natural threats, local government, and punishment.
 
-Its name is a combination of Astor and [Gormox](../../gods/deities/gormox.md), its patron god.
+Its name is a combination of Astor and [Gormox](../../../gods/deities/gormox.md), its patron god.
 
 ## Imagery
 
@@ -61,7 +61,7 @@ There is a rigid command structure, explicit orders given, and an expectation of
 
 The Astornox operate out of their own buildings, often in areas sectioned off from everyone else.
 
-The symbol of the Astornox is that of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md), set inside a grey triangle, face up. Medium to high ranking members wear a pin just like the [Astornar](../astornar.md) do, but it is not typically seen on lower ranking members due to cost.
+The symbol of the Astornox is that of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md), set inside a grey triangle, face up. Medium to high ranking members wear a pin just like the [Astornar](../astornar.md) do, but it is not typically seen on lower ranking members due to cost.
 
 ## Imagery
 
