@@ -8,7 +8,7 @@
 | **Civilisation** | [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Leader** | Lachunkulic Vyre |
 | **Patron(s)** | |
-| **Location(s)** | [Dünnesland](../../places/towns/dunnesland.md) (home town)<br>The Brew's Lair (headquarters, tavern) |
+| **Location(s)** | [Dünnesland](../../places/towns/dunnesland.md) (home town)<br>[The Brew's Lair](../../places/buildings/inns-taverns/the-brews-lair.md) (headquarters, tavern) |
 |||
 | **Image ID** | |
 
@@ -18,7 +18,7 @@ Dragonbrew is the largest brewing company in the [Nil'Savnic Alliance](../../civ
 
 Despite its origins in [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md), Dragonbrew is owned and operated predominantly dragonborn, one of the biggest groups of their lineage to not live in [the Dragonbrand](../../civilisations/nilsavnic-alliance/states/the-dragonbrand.md).
 
-The Brew's Lair is Dragonbrew's largest tavern and the site of their main brewery.
+[The Brew's Lair](../../places/buildings/inns-taverns/the-brews-lair.md) is Dragonbrew's largest tavern and the site of their main brewery.
 
 Dragonbrew is a homage to [Brewdog](https://en.wikipedia.org/wiki/BrewDog).
 

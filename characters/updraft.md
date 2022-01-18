@@ -12,7 +12,7 @@
 | **Background** | Urchin |
 | **Worship** | |
 | **Relations** | [Lady Crane](../organisations/lady-crane.md) (patron) |
-| **Places** | [Dünnesland](../places/towns/dunnesland.md) (chosen home town) |
+| **Places** | [Dünnesland](../places/towns/dunnesland.md) (chosen home town)<br>[The Corner House](../places/buildings/inns-taverns/the-corner-house.md) (favourite inn) |
 | **Citizenship** | |
 | **Organisation(s)** | [Lady Crane](../organisations/lady-crane.md) |
 |||

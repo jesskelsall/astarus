@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Gerhard Zinder](gerhard-zinder.md) (owner) |
-| **Places** | The Corner House (frequents) |
+| **Places** | [The Corner House](../places/buildings/inns-taverns/the-corner-house.md) (frequents) |
 | **Citizenship** | |
 | **Organisation(s)** | |
 |||
@@ -20,7 +20,7 @@
 
 Fritzi is the companion dog of [Gerhard Zinder](gerhard-zinder.md), Lord of [Dünnesland](../places/towns/dunnesland.md).
 
-Rarely in the presence of her owner, Fritzi is allowed to wander [Dünnesland](../places/towns/dunnesland.md) as she pleases. Most let her do so due to the position of her owner. She enjoys lying down in The Corner House after pleading for food scraps.
+Rarely in the presence of her owner, Fritzi is allowed to wander [Dünnesland](../places/towns/dunnesland.md) as she pleases. Most let her do so due to the position of her owner. She enjoys lying down in [The Corner House](../places/buildings/inns-taverns/the-corner-house.md) after pleading for food scraps.
 
 ## Characteristics
 

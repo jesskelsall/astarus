@@ -39,6 +39,6 @@ Dünnesland is inspired by [San Gimignano](https://en.wikipedia.org/wiki/San_Gim
 
 ## Places
 
-- The Corner House (inn)
-- The Brew's Lair (tavern)
-- Ziegenturm (tavern)
+- [The Corner House](../buildings/inns-taverns/the-corner-house.md) (inn)
+- [The Brew's Lair](../buildings/inns-taverns/the-brews-lair.md) (tavern)
+- [Ziegenturm](../buildings/inns-taverns/ziegenturm.md) (tavern)

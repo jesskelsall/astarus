@@ -8,7 +8,7 @@
 | **Civilisation** | [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Leader** | Mystyn Monhenn |
 | **Patron(s)** | |
-| **Location(s)** | [Dünnesland](../../places/towns/dunnesland.md) (home town)<br>Ziegenturm (tavern) |
+| **Location(s)** | [Dünnesland](../../places/towns/dunnesland.md) (home town)<br>[Ziegenturm](../../places/buildings/inns-taverns/ziegenturm.md) (tavern) |
 |||
 | **Image ID** | |
 
@@ -16,7 +16,7 @@
 
 Ziegenkrone is a large beer company that sells exclusively in [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md). They brew traditional dwarven ale using recipes and techniques from before [The Third Coming](../../history/events/the-third-coming.md), known for its nuanced flavours and ease of drinking due to a lack of alcohol content.
 
-While Ziegenturm is Ziegenkrone's flagship tavern, the actual location of their brewery is a closely guarded secret.
+While [Ziegenturm](../../places/buildings/inns-taverns/ziegenturm.md) is Ziegenkrone's flagship tavern, the actual location of their brewery is a closely guarded secret.
 
 ## Etymology
 
