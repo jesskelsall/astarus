@@ -8,7 +8,7 @@
 | **Civilisation** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Population** | 650 |
 | **Nearby Places** | [Dünnesland](../towns/dunnesland.md)<br>[Golfmaul](../towns/golfmaul.md)<br>Schulterwood |
-| **People** | |
+| **People** | Rowan Stonesworn (farmer, dead) |
 
 ## Summary
 
