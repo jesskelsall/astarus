@@ -63,6 +63,6 @@
 | [The Kavallos Fleet Attacks Côtedouce](../storylines/the-kavallos-fleet-attacks-cotedouce.md) | [MC03](../sessions/MC03.md) | |
 | [Oriel's Patronage](../storylines/oriels-patronage.md) | [MC04](../sessions/MC04.md) | |
 | [Valan's Attitude Adjustment](../storylines/valans-attitude-adjustment.md) | [MC04](../sessions/MC04.md) | |
-| [Wolves Attack Sonnigeweide](../storylines/wolves-attack-sonnigeweide.md) | [MC06](../sessions/MC06.md) | |
+| [Wolves Attack Sonnigeweide](../storylines/wolves-attack-sonnigeweide.md) | [MC06](../sessions/MC06.md) | [MC07](../sessions/MC07.md) |
 | [Vachel Boucher's Final Piece](../storylines/vachel-bouchers-final-piece.md) | [MC06](../sessions/MC06.md) | |
 | [Valan Will Return](../storylines/valan-will-return.md) | [MC06](../sessions/MC06.md) | |
