@@ -22,6 +22,8 @@
 
 Scratch on Stone is the confident and knowledgeable [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) for [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md). He lost his left arm and eye in [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) at the hands of a [Meteoric Mind](../creatures/meteoric-mind.md).
 
+Scratch wields [Verlust](../items/magic/verlust.md), a [Dragonsbreath Weapon](../items/magic/enchantments/dragonsbreath-weapon.md).
+
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
