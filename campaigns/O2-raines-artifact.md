@@ -15,7 +15,8 @@
 | [RA01](../sessions/RA01.md) | 2021-10-09 | 2021-11-06 |
 | [RA02](../sessions/RA02.md) | 2021-10-23 | 2021-11-14 |
 | [RA03](../sessions/RA03.md) | 2021-12-19 | 2021-12-26 |
-| [RA04](../sessions/RA04.md) | | |
+| [RA04](../sessions/RA04.md) | 2022-01-29 | TBC |
+| [RA05](../sessions/RA05.md) | TBC | |
 
 ---
 
