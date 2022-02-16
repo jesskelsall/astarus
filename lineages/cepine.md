@@ -20,11 +20,15 @@ Their territory is within the borders of the [Kingdom of Astor](../civilisations
 - [Albulain Valley](../places/plains-valleys/albulain-valley.md):
   - [Filisur](../places/villages/filisur.md) (village)
 
-## People
+## Names
 
-- [Adalie Seren](../characters/adalie-seren.md)
-- [Besar Seren](../characters/besar-seren.md)
-- [Ephaine Seren](../characters/ephaine-seren.md)
-- [Irla Seren](../characters/irla-seren.md)
-- [Schaef Seren](../characters/schaef-seren.md)
-- [Tamman Seren](../characters/tamman-seren.md)
+| Family | Masculine | Feminine |
+| --- | --- | --- |
+||| Berdine |
+| Dullus || Freida |
+| Ganel | Farolf ||
+| Marbel | Huber ||
+| Engad | Josef | Edel |
+| Bever | Medwin | Trula |
+|| Weber ||
+|| Stefan | Tilla |

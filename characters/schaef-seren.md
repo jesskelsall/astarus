@@ -1,7 +1,5 @@
 # Schaef Seren
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
-
 |||
 | --- | --- |
 | **Name** | Schaef Seren | character.4
@@ -11,7 +9,7 @@
 | **Class** | |
 | **Background** | |
 | **Worship** | |
-| **Relations** | [Adalie Seren](adalie-seren.md) (wife)<br>[Tamman Seren](tamman-seren.md) (son)<br>[Ephaine Seren](ephaine-seren.md) (daughter)<br>[Besar Seren](besar-seren.md) (son)<br>[Irla Seren](irla-seren.md) (daughter) |
+| **Relations** | [Adalie Seren](adalie-seren.md) (wife)<br>[Tamman Seren](tamman-seren.md) (son)<br>[Ephaine Seren](ephaine-seren.md) (daughter)<br>[Besar Seren](besar-seren.md) (son)<br>[Irla Seren](irla-seren.md) (daughter)<br>[Arnel Levat](arnel-levat.md) (friend) |
 | **Places** | [Seren Farmstead](../places/buildings/houses/seren-farmstead.md) |
 | **Citizenship** | |
 | **Organisation(s)** | |

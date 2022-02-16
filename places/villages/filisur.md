@@ -8,7 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 260 |
 | **Nearby Places** | Fort Maloja<br>[Tresenda Pass](../roads/tresenda-pass.md)<br>[Shrine to the Stars](../structures/shrine-to-the-stars.md) |
-| **People** | |
+| **People** | [Vonda Rojen](../../characters/vonda-rojen.md) |
 
 ## Summary
 
@@ -28,4 +28,9 @@ The people of Filisur lead a simple shepherding life, raising sheep in the sprin
 
 ## Places
 
-- [Seren Farmstead](../buildings/houses/seren-farmstead.md)
+- Village centre:
+  - [The Kissing Stones](../buildings/inns-taverns/the-kissing-stones.md) (inn)
+  - [Fresk House](../buildings/houses/fresk-house.md) (doctor)
+- Surrounding farmland:
+  - [Seren Farmstead](../buildings/houses/seren-farmstead.md)
+  - [Trint Farmstead](../buildings/houses/trint-farmstead.md)

@@ -5,12 +5,12 @@
 | **Name** | Seren Farmstead | place.4
 | **Type** | House |
 | **Location** | [Filisur](../../villages/filisur.md) |
-| **Nearby Places** | |
+| **Nearby Places** | [Trint Farmstead](trint-farmstead.md) |
 | **People** | [Schaef Seren](../../../characters/schaef-seren.md)<br>[Adalie Seren](../../../characters/adalie-seren.md)<br>[Besar Seren](../../../characters/besar-seren.md)<br>[Irla Seren](../../../characters/irla-seren.md)<br>[Nebula](../../../characters/nebula.md) (sheepdog)<br>[Comet](../../../characters/comet.md) (sheepdog) |
 
 ## Summary
 
-The Seren Farmstead is home to the Seren family, [Ephaine Seren](../../../characters/ephaine-seren.md)'s parents and siblings. It is a humble rural farmstead in the traditional [cepine](../../../lineages/cepine.md) style, allowing for their seasonal shepherding lifestyle.
+The Seren Farmstead is home to the Seren family, [Ephaine Seren](../../../characters/ephaine-seren.md)'s parents and siblings. It is a humble rural farmstead in the traditional [cepine](../../../lineages/cepine.md) style, allowing for their seasonal shepherding lifestyle. It can be found in the northeast of the [Albulain valley](../../plains-valleys/albulain-valley.md).
 
 ### Exterior
 
