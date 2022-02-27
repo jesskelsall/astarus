@@ -1,6 +1,6 @@
 # Kirrel
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/527b4be9705967bf.png" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/c1d777eef55cd7ab.png" height="200" />
 
 |||
 | --- | --- |
@@ -11,7 +11,7 @@
 | **Nickname** | *The Generous* |
 | **Associations** | Health, Generosity, Fortune |
 |||
-| **Image ID** | `527b4be9705967bf` |
+| **Image ID** | `c1d777eef55cd7ab` |
 
 ## Teachings
 
@@ -24,6 +24,11 @@ Kirrel reminds people that nature's bounty allows society to thrive, and so it m
 ### Symbol
 
 Their symbol is a square partitioned by three wave-shaped lines. The top section is green, the bottom is blue, and the sections in between are teal.
+
+| [Astarus](../../planes/astarus.md) | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/c1d777eef55cd7ab.png" height="150" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/527b4be9705967bf.png" height="150" /> |
+| `c1d777eef55cd7ab` | `527b4be9705967bf` |
 
 ### Representation
 

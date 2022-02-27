@@ -1,5 +1,7 @@
 # Kaldoon / Pajaru
 
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/181fcbc6fe221c29.png" height="200" />
+
 |||
 | --- | --- |
 | **Religion** | |
@@ -9,7 +11,7 @@
 | **Nickname** | |
 | **Associations** | Tenacity, Passion, Strength. |
 |||
-| **Image ID** | |
+| **Image ID** | `181fcbc6fe221c29` |
 
 ## Teachings
 
@@ -22,6 +24,11 @@ Kaldoon is the embodiment of doing whatever it takes to prevail. His followers a
 ### Symbol
 
 His symbol is a square divided diagonally from the bottom right corner, then the bottom right section is divided in this way twice more. Each section has its own colour, running from gold in the top-left, through oranges to red in the bottom right.
+
+| [Astarus](../../planes/astarus.md) |
+|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/181fcbc6fe221c29.png" height="150" /> |
+| `181fcbc6fe221c29` |
 
 ### Representation
 

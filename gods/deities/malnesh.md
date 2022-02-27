@@ -1,6 +1,6 @@
 # Malnesh
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/imageid.png" height="200" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/8a488411a47e8785.png" height="200" />
 
 |||
 | --- | --- |
@@ -11,7 +11,7 @@
 | **Nickname** | *The Judge Mother* |
 | **Associations** | Courage, Happiness, Community. |
 |||
-| **Image ID** | |
+| **Image ID** | `8a488411a47e8785` |
 
 ## Teachings
 
@@ -27,6 +27,11 @@ Her symbol is a black half-circle, flat side down, containing two teardrops. The
 
 - Blue teardrop: grieving for those lost.
 - Red teardrop: blood, life, lineage.
+
+| [Astarus](../../planes/astarus.md) | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/8a488411a47e8785.png" height="150" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/674f5a92dc6c8e07.png" height="150" /> |
+| `8a488411a47e8785` | `674f5a92dc6c8e07` |
 
 ### Representation
 
