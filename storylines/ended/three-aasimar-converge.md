@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Session Started** | [PR25](../../sessions/PR25.md) / [AA11](../../sessions/AA11.md) | storyline.2
-| **Session Ended** | [PR44](../../sessions/PR44.md) |
+| **Session Ended** | [PR44](../../sessions/PR44.md) / [AA15](../../sessions/AA15.md) |
 
 ## Summary
 

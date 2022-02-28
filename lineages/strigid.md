@@ -19,13 +19,6 @@ Following [The Arrival](../history/events/the-third-coming.md), strigid society 
 - [Bhirpani](../characters/bhirpani.md)
 - [Hanispur](../characters/hanispur.md)
 
----
-
-## TODO
-
-History  
-Religion - [Pajaru](../gods/deities/kaldoon.md), star god
-
 ## Names
 
 - Bhingri

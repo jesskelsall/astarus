@@ -30,7 +30,7 @@ Nills is referred to by [Noon Schiller](noon-schiller.md) as *Sister Shadow*.
 
 ## Characteristics
 
-Nills is [Noon's shadow](../storylines/noons-shadow.md) come to life. She appears as dark as a shadow, with white piercing eyes and mouth. On closer inspection she is part smoke, part eldritch tentacles - not a corporeal form in the normal sense.
+Nills is [Noon's shadow](../storylines/cancelled/noons-shadow.md) come to life. She appears as dark as a shadow, with white piercing eyes and mouth. On closer inspection she is part smoke, part eldritch tentacles - not a corporeal form in the normal sense.
 
 | | |
 | --- | --- |

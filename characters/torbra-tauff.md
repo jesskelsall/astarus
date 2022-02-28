@@ -46,6 +46,7 @@ TODO
 | 3 | [PR09](../sessions/PR09.md) | Fighter | d10 | 5 |
 | 4 | [PR19](../sessions/PR19.md) | Fighter | d10 | 9 |
 | 5 | [PR30](../sessions/PR30.md) | Fighter | d10 | 4 |
+| 6 | PR49 | Fighter | d10 | 5 |
 
 ## History
 

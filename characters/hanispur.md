@@ -11,7 +11,7 @@
 | **Class** | Ranger |
 | **Worship** | [Pajaru](../gods/deities/kaldoon.md) |
 | **Relations** | |
-| **Places** | |
+| **Places** | [Devdaha](../places/villages/devdaha.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

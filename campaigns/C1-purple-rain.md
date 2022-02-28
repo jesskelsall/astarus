@@ -130,5 +130,5 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Search for a Meteorite in Tresenda Pass](../storylines/search-for-a-meteorite-in-tresenda-pass.md) | [PR37](../sessions/PR37.md) | |
 | [Genasi in Astor](../storylines/genasi-in-astor.md) | [PR37](../sessions/PR37.md) | |
 | [Reaching Augury Rock](../storylines/reaching-augury-rock.md) | [PR37](../sessions/PR37.md) | |
-| [Ephaine's Missing Brother](../storylines/ephaines-missing-brother.md) | [PR42](../sessions/PR42.md) | |
+| [Ephaine's Missing Brother](../storylines/cancelled/ephaines-missing-brother.md) | [PR42](../sessions/PR42.md) | [PR42](../sessions/PR42.md) |
 | [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [PR47](../sessions/PR47.md) | |
