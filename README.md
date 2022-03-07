@@ -1,6 +1,6 @@
 # Astarus
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/556ce67a6c183e48.png" height="100" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/181fcbc6fe221c29.png" height="100" />
 
 Astarus is a homebrew *Dungeons & Dragons* campaign setting created by me, Jessica Kelsall.
 
