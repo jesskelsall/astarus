@@ -2,7 +2,6 @@
 
 | Player | Character(s) | Role |
 | --- | --- | --- |
-| [Becca](becca.md) | [Keranios](../characters/keranios.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |
 | [Billie](billie.md) | [Ahsha Sallas](../characters/ahsha-sallas.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) |
 | [Brooke](brooke.md) | [Whisper on the Breeze](../characters/whisper-on-the-breeze.md)<br>[Yialdred Korina](../characters/yialdred-korina.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) |
 | [Chloe](chloe.md) | [Noon Schiller](../characters/noon-schiller.md) | [Astorrel Agents](../campaigns/C2-astorrel-agents.md) |
@@ -23,4 +22,5 @@
 | [Sheycara](sheycara.md) | [Wizira](../characters/wizira.md)<br>[Lucia Velpione](../characters/lucia-velpione.md) | [Purple Rain](../campaigns/C1-purple-rain.md) |
 | [Sophie](sophie.md) | [Marik Kaligavone](../characters/marik-kaligavone.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |
 | [Tiva](tiva.md) | [Brian](../characters/brian.md) | Guest |
+| [Tristan](tristan.md) | [Keranios](../characters/keranios.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |
 | [Viktorija](viktorija.md) | [Valan Shadowgaze](../characters/valan-shadowgaze.md) | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) |

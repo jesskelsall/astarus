@@ -8,10 +8,10 @@
 
 ## Party Members
 
-| [Becca](../players/becca.md) | [Rin](../players/rin.md) | [Sophie](../players/sophie.md) | [Viktorija](../players/viktorija.md) |
+| [Rin](../players/rin.md) | [Sophie](../players/sophie.md) | [Tristan](../players/tristan.md) | [Viktorija](../players/viktorija.md) |
 |:---:|:---:|:---:|:---:|
-| [Keranios](../characters/keranios.md) | [Vētrall Astérr](../characters/vetrall-asterr.md) | [Marik Kaligavone](../characters/marik-kaligavone.md) | [Valan Shadowgaze](../characters/valan-shadowgaze.md) |
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/8c075a85ed942631.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/47336984c5f7be18.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5e34f2c0018c62f8.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/cf0352e2558c24f5.png" height="400" /> |
+| [Vētrall Astérr](../characters/vetrall-asterr.md) | [Marik Kaligavone](../characters/marik-kaligavone.md) | [Keranios](../characters/keranios.md) | [Valan Shadowgaze](../characters/valan-shadowgaze.md) |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/47336984c5f7be18.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/5e34f2c0018c62f8.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/8c075a85ed942631.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/cf0352e2558c24f5.png" height="400" /> |
 
 ## Format
 

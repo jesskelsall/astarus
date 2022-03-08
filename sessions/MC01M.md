@@ -5,7 +5,7 @@
 | **Campaign(s)** | [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) | session.3
 | **Date** | 2021-09-05 |
 | **Title** | *Introducing the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md)* |
-| **Players** | [Becca](../players/becca.md) ([Keranios](../characters/keranios.md))<br>[Sophie](../players/sophie.md) ([Marik Kaligavone](../characters/marik-kaligavone.md)) |
+| **Players** | [Sophie](../players/sophie.md) ([Marik Kaligavone](../characters/marik-kaligavone.md))<br>[Tristan](../players/tristan.md) ([Keranios](../characters/keranios.md)) |
 | **Guests** | |
 | **Storylines** | [Hammersmiths on the Offensive](../storylines/hammersmiths-on-the-offensive.md)<br>[Sword of the Moon](../storylines/sword-of-the-moon.md) |
 
@@ -204,7 +204,7 @@ With all of the information gleaned from [Pouring Grain](../characters/pouring-g
 
 The party is given an ornate key ([MC01M-I-1](../cards/MC01M-I-1.md)) by [Crucible](../characters/crucible.md) and the location of the lockbox it opens: `JB-305`.
 
-*[Becca](../players/becca.md) and [Sophie](../players/sophie.md) are informed that the remaining hour of the session is to be used for ambush planning. Whatever they plan will be worked into the [MC02](MC02.md) prep so that their characters are introduced to [Rin](../players/rin.md) and [Viktorija](../players/viktorija.md)'s as part of their chosen ambush tactic.*
+*[Sophie](../players/sophie.md) and [Tristan](../players/tristan.md) are informed that the remaining hour of the session is to be used for ambush planning. Whatever they plan will be worked into the [MC02](MC02.md) prep so that their characters are introduced to [Rin](../players/rin.md) and [Viktorija](../players/viktorija.md)'s as part of their chosen ambush tactic.*
 
 ## Ambush Planning
 

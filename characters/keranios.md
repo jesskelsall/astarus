@@ -20,7 +20,7 @@
 
 ## Summary
 
-Keranios is a player character in the [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) campaign, played by [Becca](../players/becca.md).
+Keranios is a player character in the [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) campaign, played by [Tristan](../players/tristan.md).
 
 ## Character Rolls
 
@@ -39,13 +39,13 @@ Keranios is a player character in the [Memories of Chausain](../campaigns/C3-mem
 
 ## History
 
-*To be provided by [Becca](../players/becca.md).*
+*To be provided by [Tristan](../players/tristan.md).*
 
 ---
 
 ## Art
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/art/13d7a37b45c77117.jpg" height="500" /><br>*Keranios*, [Becca](../players/becca.md), 2021-08-08
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/art/13d7a37b45c77117.jpg" height="500" /><br>*Keranios*, [Tristan](../players/tristan.md), 2021-08-08
 
 ## Character Sheets
 
