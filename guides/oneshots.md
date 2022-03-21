@@ -1,4 +1,4 @@
-# Guide - Oneshots
+# Guide to Oneshots
 
 ## Introduction
 

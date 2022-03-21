@@ -1,4 +1,4 @@
-# Guide - Hype
+# Guide to Hype
 
 ## Introduction
 
