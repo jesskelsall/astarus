@@ -7,7 +7,7 @@
 | **Name** | Raine Soulier | character.4
 | **Lineage** | Elf (High) |
 | **Pronouns** | he/him |
-| **Age** | Dead<br>*359 ([Soulier Cottage Memory Sphere](../items/artifacts-of-oonar/memory-spheres/soulier-cottage-memory-sphere.md))* |
+| **Age** | Dead<br>*359 ([Mémoire de Chalet](../items/echneshment/memory-spheres/memoire-de-chalet.md))* |
 | **Class** | Wizard |
 | **Background** | |
 | **Worship** | |
@@ -20,9 +20,9 @@
 
 ## Summary
 
-Raine Soulier is a reclusive and kind hearted elf that descends from Rene Soulier. He is an expert on [memory spheres](../items/artifacts-of-oonar/memory-spheres/memory-sphere.md) and possesses some [echneshment](../mechanics/magic/echneshment.md) magical knowledge.
+Raine Soulier is a reclusive and kind hearted elf that descends from Rene Soulier. He is an expert on [memory spheres](../items/echneshment/memory-spheres/memory-sphere.md) and possesses some [echneshment](../mechanics/magic/echneshment.md) magical knowledge.
 
-Raine possesses the [Soulier Cottage Memory Sphere](../items/artifacts-of-oonar/memory-spheres/soulier-cottage-memory-sphere.md). He spends a worryingly large amount of time within it as an escape from the real world, wishing for the life his ancestor once had.
+Raine possesses [Mémoire de Chalet](../items/echneshment/memory-spheres/memoire-de-chalet.md). He spends a worryingly large amount of time within it as an escape from the real world, wishing for the life his ancestor once had.
 
 ## Characteristics
 
@@ -36,7 +36,7 @@ Raine possesses the [Soulier Cottage Memory Sphere](../items/artifacts-of-oonar/
 | **Mannerisms** | Visibly lost in thought, stares into the distance. Keeps his hands in the other sleeve of his robes. |
 | | |
 | **Quirks** | Confuses himself with Rene Soulier. Poor grip on reality. |
-| **Knowledge** | [Memory spheres](../items/artifacts-of-oonar/memory-spheres/memory-sphere.md), [echneshment](../mechanics/magic/echneshment.md) magic. |
+| **Knowledge** | [Memory spheres](../items/echneshment/memory-spheres/memory-sphere.md), [echneshment](../mechanics/magic/echneshment.md) magic. |
 | **Values** | Curiosity, knowledge, fairness. |
-| **Ambitions** | Wishes to return to [Oonar](../planes/oonar.md) and find where the [Soulier Cottage](../places/buildings/houses/soulier-cottage.md) once was. |
+| **Ambitions** | Wishes to return to [Oonar](../celestial-objects/oonar.md) and find where the [Soulier Cottage](../places/buildings/houses/soulier-cottage.md) once was. |
 | **Dislikes** | Cities, crowds of people, new technology. |

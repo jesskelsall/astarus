@@ -1,6 +1,6 @@
 # Purple Rain
 
-*Purple Rain* is the first long term campaign set in the [Astarus](../planes/astarus.md) homebrew setting.
+*Purple Rain* is the first long term campaign set in the [Astarus](../celestial-objects/astarus.md) homebrew setting.
 
 ## Premise
 

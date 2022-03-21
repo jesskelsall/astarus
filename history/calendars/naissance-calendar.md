@@ -2,7 +2,7 @@
 
 ## Summary
 
-The Naissance Calendar is the date system used by the elves of [the Second Coming](../events/the-second-coming.md) following their arrival on [Astarus](../../planes/astarus.md). It is in use by the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) and the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md).
+The Naissance Calendar is the date system used by the elves of [the Second Coming](../events/the-second-coming.md) following their arrival on [Astarus](../../celestial-objects/astarus.md). It is in use by the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) and the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md).
 
 ## Years
 
@@ -45,7 +45,7 @@ Due to the even division of months by days of the week, each month starts on the
 
 ### Réflexion
 
-The 29th day of Premifleurs is known as Réflexion ([elvish](../../languages/elvish.md) for "reflection"), which is a holiday for remembering [Oonar](../../planes/oonar.md), steeped in traditions of [Malnesh](../../gods/deities/malnesh.md).
+The 29th day of Premifleurs is known as Réflexion ([elvish](../../languages/elvish.md) for "reflection"), which is a holiday for remembering [Oonar](../../celestial-objects/oonar.md), steeped in traditions of [Malnesh](../../gods/deities/malnesh.md).
 
 In order to facilitate the extra day, 29th Premifleurs uses Réflexion as the day of the week, separating it from the weeks either side of it.
 
@@ -60,7 +60,7 @@ In order to facilitate the extra day, 29th Premifleurs uses Réflexion as the da
 
 ## History
 
-When the Elves of Chausain arrived on [Astarus](../../planes/astarus.md) during [the Second Coming](../events/the-second-coming.md), they soon realised that their calendar which worked for [Oonar](../../planes/oonar.md)'s seasons and lunar cycle didn't match [Astarus](../../planes/astarus.md)' own.
+When the Elves of Chausain arrived on [Astarus](../../celestial-objects/astarus.md) during [the Second Coming](../events/the-second-coming.md), they soon realised that their calendar which worked for [Oonar](../../celestial-objects/oonar.md)'s seasons and lunar cycle didn't match [Astarus](../../celestial-objects/astarus.md)' own.
 
 With each lunar cycle lasting 28 days and the year appearing to be 225 days long, an eight month calendar was established. Each month was named after a settlement, farmstead, or geographic nickname from within the Elves of Chausain territory, as tribute paid to places prominent elves once frequented.
 

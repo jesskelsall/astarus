@@ -6,7 +6,7 @@ Memory spheres are half clockwork, half [echneshment](../../../mechanics/magic/e
 
 ## Design
 
-The typical memory sphere is 4 to 5 inches in diameter and made of a core of gold and platinum clockwork parts. This was then surrounded with a shell of gold, platinum, or extremely rarely, [stibnite](stibnite.md), forming a perfect sphere. Sometimes this sphere would be decorated with artistic relief.
+The typical memory sphere is 4 to 5 inches in diameter and made of a core of gold and platinum clockwork parts. This was then surrounded with a shell of gold, platinum, or extremely rarely, [stibnite](../../stibnite.md), forming a perfect sphere. Sometimes this sphere would be decorated with artistic relief.
 
 ## Usage
 
@@ -40,7 +40,7 @@ Finally, a riskier advanced technique can be used to transport a number of peopl
 
 ## Rarity
 
-Following [the Second Coming](../../../history/events/the-second-coming.md), few memory spheres made it to [Astarus](../../../planes/astarus.md), and the techniques for creating and accessing them have been largely forgotten. A tiny amount of elves that knew [echneshment](../../../mechanics/magic/echneshment.md) reached [Astarus](../../../planes/astarus.md), and those that do were unable to train many successors in the art due to its complexity and lack of spheres to practice on.
+Following [the Second Coming](../../../history/events/the-second-coming.md), few memory spheres made it to [Astarus](../../../celestial-objects/astarus.md), and the techniques for creating and accessing them have been largely forgotten. A tiny amount of elves that knew [echneshment](../../../mechanics/magic/echneshment.md) reached [Astarus](../../../celestial-objects/astarus.md), and those that do were unable to train many successors in the art due to its complexity and lack of spheres to practice on.
 
 Those memory spheres that still exist are exceptionally prized and considered priceless artifacts. Those who make it their business to know of memory spheres have a short list of known ones to memorise.
 
@@ -52,5 +52,7 @@ Other private collectors beg to differ, collecting them for their rarity and uni
 
 ## Known Spheres
 
-- [Fall of Chausain Memory Sphere](fall-of-chausain-memory-sphere.md)
-- [Homestead Memory Sphere](homestead-memory-sphere.md)
+- [Mémoire de Chalet](memoire-de-chalet.md)
+- [Mémoire de Cimetière](memoire-de-cimetiere.md)
+- [Mémoire de Défaite](memoire-de-defaite.md)
+- [Mémoire de Requiem](memoire-de-requiem.md)

@@ -20,7 +20,7 @@
 
 The Order of the Diamond believes in the four insider [gods](../gods/gods.md) and their teachings. They work together to hold the world in balance. They are treated fairly equally, as four corners of a diamond, though [Bhygar](../gods/deities/bhygar.md) is given more emphasis as he is a greater deity and head of the pantheon.
 
-The [gods](../gods/gods.md) created [Astarus](../planes/astarus.md), prepared it, and brought the races to it so that they could settle and thrive. Now the [gods](../gods/gods.md) take up more of a "caretaker" role, keeping the forces in balance and avoiding influencing mortal affairs.
+The [gods](../gods/gods.md) created [Astarus](../celestial-objects/astarus.md), prepared it, and brought the races to it so that they could settle and thrive. Now the [gods](../gods/gods.md) take up more of a "caretaker" role, keeping the forces in balance and avoiding influencing mortal affairs.
 
 ## Imagery
 

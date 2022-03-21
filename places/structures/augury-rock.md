@@ -10,7 +10,7 @@
 
 ## Summary
 
-Augury Rock is a medium sized rock, deep in the middle of the Kas'ran Desert. It has divine significance to the [aasimar](../../lineages/aasimar.md) of [Astarus](../../planes/astarus.md).
+Augury Rock is a medium sized rock, deep in the middle of the Kas'ran Desert. It has divine significance to the [aasimar](../../lineages/aasimar.md) of [Astarus](../../celestial-objects/astarus.md).
 
 ## Description
 
@@ -24,7 +24,7 @@ Augury Rock is a medium sized rock, deep in the middle of the Kas'ran Desert. It
 
 ## History
 
-The insider [gods](../../gods/gods.md) [Bhygar](../../gods/deities/bhygar.md), [Valnos](../../gods/deities/valnos.md), [Kirrel](../../gods/deities/kirrel.md) and [Gormox](../../gods/deities/gormox.md) chose this rock as a sacred place, binding what little connection they have to [Astarus](../../planes/astarus.md) to it. It was chosen because it is unsuspecting, remote, yet accessible for those with enough determination.
+The insider [gods](../../gods/gods.md) [Bhygar](../../gods/deities/bhygar.md), [Valnos](../../gods/deities/valnos.md), [Kirrel](../../gods/deities/kirrel.md) and [Gormox](../../gods/deities/gormox.md) chose this rock as a sacred place, binding what little connection they have to [Astarus](../../celestial-objects/astarus.md) to it. It was chosen because it is unsuspecting, remote, yet accessible for those with enough determination.
 
 The three deva ([Minsas](../../characters/minsas.md), [Seraphina](../../characters/seraphina.md), [Mykiel](../../characters/mykiel.md)) were created here by the [gods](../../gods/gods.md) and sent to protect their [aasimar](../../lineages/aasimar.md). Only here are they able to appear at will and speak, allowing them to communicate directly with their [aasimar](../../lineages/aasimar.md).
 

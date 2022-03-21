@@ -1,6 +1,6 @@
 # Memories of Chausain
 
-*Memories of Chausain* is the third long term campaign set in the [Astarus](../planes/astarus.md) homebrew setting.
+*Memories of Chausain* is the third long term campaign set in the [Astarus](../celestial-objects/astarus.md) homebrew setting.
 
 ## Premise
 

@@ -7,7 +7,7 @@
 | **Name** | Naeva Soulier | character.4
 | **Lineage** | Elf (High) |
 | **Pronouns** | she/her |
-| **Age** | Dead<br>*8* ([Soulier Cottage Memory Sphere](../items/artifacts-of-oonar/memory-spheres/soulier-cottage-memory-sphere.md)) |
+| **Age** | Dead<br>*8* ([Mémoire de Chalet](../items/echneshment/memory-spheres/memoire-de-chalet.md)) |
 | **Class** | |
 | **Background** | |
 | **Worship** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Naeva Soulier was the daughter of Corinne and Rene soulier. In the [Soulier Cottage Memory Sphere](../items/artifacts-of-oonar/memory-spheres/soulier-cottage-memory-sphere.md) she was a young girl, learning to write.
+Naeva Soulier was the daughter of Corinne and Rene soulier. In [Mémoire de Chalet](../items/echneshment/memory-spheres/memoire-de-chalet.md) she was a young girl, learning to write.
 
 ## Characteristics
 

@@ -20,9 +20,9 @@
 
 ## Summary
 
-Vivien Bouxelles was the original owner of [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md). She was buried with the longsword in [Dulsenn Graveyard](../places/structures/dulsenn-graveyard.md) alongside unknown dead elves.
+Vivien Bouxelles was the original owner of [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md). She was buried with the longsword in [Dulsenn Graveyard](../places/structures/dulsenn-graveyard.md) alongside unknown dead elves.
 
-In the [Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md), her ghost haunts the crypt, attempting to kill those who would take [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) from her body.
+In the [Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md), her ghost haunts the crypt, attempting to kill those who would take [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md) from her body.
 
 ## Characteristics
 

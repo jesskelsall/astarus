@@ -25,7 +25,7 @@ Bhygar's duality between life and death instills a sort of nihilism between his 
 
 His symbol is a grey circle containing two overlapping circles - white on the left, black on the right, with the overlapping portion also in grey.
 
-| [Astarus](../../planes/astarus.md) | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
+| [Astarus](../../celestial-objects/astarus.md) | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 |:---:|:---:|
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/b6be2a41891d77e5.png" height="150" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/e4dc1974ee3fc83b.png" height="150" /> |
 | `b6be2a41891d77e5` | `e4dc1974ee3fc83b` |

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Sea of Songs |
 | **Type** | Sea |
-| **Location** | [Astarus](../../planes/astarus.md) |
+| **Location** | [Astarus](../../celestial-objects/astarus.md) |
 | **Nearby Places** | [Kardan](../continents/kardan.md)<br>[Kardanis](../regions/kardanis.md) |
 | **People** | |
 

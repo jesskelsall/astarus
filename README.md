@@ -15,6 +15,6 @@ Here you will find all of my notes on the setting, its events, and the stories t
 | [Memories of Chausain](./campaigns/C3-memories-of-chausain.md) | Third campaign. |
 | [Raine's Artifact](./campaigns/O2-raines-artifact.md) | Repeatable oneshot story. |
 ||
-| [Astarus](./planes/astarus.md) | Prime plane ("the world"). |
+| [Astarus](./celestial-objects/astarus.md) | The planet. |
 | [Kingdom of Astor](./civilisations/kingdom-of-astor/kingdom-of-astor.md) | Civilisation, setting for first two campaigns. |
 | [Nil'Savnic Alliance](./civilisations/nilsavnic-alliance/nilsavnic-alliance.md) | Civilisation, setting for third campaign. |

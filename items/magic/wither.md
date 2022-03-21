@@ -32,4 +32,4 @@ Wither is a [Grievous Weapon](enchantments/grievous-weapon.md), given to [Vētra
 
 Wither has travelled extensively with [Nacnar Morwesyrr](../../characters/nacnar-morwesyrr.md) as part of her adventuring career. An old favourite of hers, she kept it in good condition over the years. In combat she would typically favour her double-bladed scimitar.
 
-Following [Vētrall Astérr](../../characters/vetrall-asterr.md) becoming a [Familia Vulpes](../../organisations/familia-vulpes.md) mentor and learning of their quest to find out more about the [Fall of Chausain Memory Sphere](../artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md), Nacnar gave Wither to Vētrall to "do as you please with".
+Following [Vētrall Astérr](../../characters/vetrall-asterr.md) becoming a [Familia Vulpes](../../organisations/familia-vulpes.md) mentor and learning of their quest to find out more about [Mémoire de Défaite](../echneshment/memory-spheres/memoire-de-defaite.md), Nacnar gave Wither to Vētrall to "do as you please with".

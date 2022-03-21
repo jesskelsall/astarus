@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Dulsenn Graveyard | place.4
 | **Type** | Structure |
-| **Location** | Elves of Chausain<br>[Oonar](../../planes/oonar.md) |
+| **Location** | Elves of Chausain<br>[Oonar](../../celestial-objects/oonar.md) |
 | **Period** | Pre Second Coming |
 | **Nearby Places** | |
 | **People** | [Vivien Bouxelles](../../characters/vivien-bouxelles.md) (buried, ghost) |
@@ -13,7 +13,7 @@
 
 The Dulsenn Graveyard was a burial complex used for preserving and honouring the remains of dead elves, in keeping with the traditions of [Malnesh](../../gods/deities/malnesh.md). Its mausoleum lead to a crypt containing mostly unidentified remains, which grew restless as memories of the dead faded immediately.
 
-[Vivien Bouxelles](../../characters/vivien-bouxelles.md) was one of the notable dead in the crypt. Her ghost haunted it, helping to animate the other dead to protect her blade, [Unevaire](../../items/artifacts-of-oonar/weapons/unevaire.md).
+[Vivien Bouxelles](../../characters/vivien-bouxelles.md) was one of the notable dead in the crypt. Her ghost haunted it, helping to animate the other dead to protect her blade, [Mémoire de Unevaire](../../items/echneshment/weapons/memoire-de-unevaire.md).
 
 The graveyard is the subject of the [Dulsenn Graveyard Memory Sphere](../../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md).
 

@@ -1,7 +1,5 @@
 # Corinne Soulier
 
-# Character Template
-
 <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
 
 |||
@@ -9,7 +7,7 @@
 | **Name** | Corinne Soulier | character.4
 | **Lineage** | Elf (Wood) |
 | **Pronouns** | she/her |
-| **Age** | Dead<br>*144 ([Soulier Cottage Memory Sphere](../items/artifacts-of-oonar/memory-spheres/soulier-cottage-memory-sphere.md))* |
+| **Age** | Dead<br>*144 ([Mémoire de Chalet](../items/echneshment/memory-spheres/memoire-de-chalet.md))* |
 | **Class** | |
 | **Background** | |
 | **Worship** | |
@@ -22,7 +20,7 @@
 
 ## Summary
 
-Corinne Soulier was a jovial & caring wife and mother. In the [Soulier Cottage Memory Sphere](../items/artifacts-of-oonar/memory-spheres/soulier-cottage-memory-sphere.md) she was a relatively new mother of a young family, making dinner.
+Corinne Soulier was a jovial & caring wife and mother. In [Mémoire de Chalet](../items/echneshment/memory-spheres/memoire-de-chalet.md) she was a relatively new mother of a young family, making dinner.
 
 ## Characteristics
 

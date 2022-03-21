@@ -1,10 +1,10 @@
 # Gods
 
-On [Astarus](../planes/astarus.md) the influence of the gods is minimal. Most people believe that they exist, but there is very rarely any indication of this outside of their belief.
+On [Astarus](../celestial-objects/astarus.md) the influence of the gods is minimal. Most people believe that they exist, but there is very rarely any indication of this outside of their belief.
 
 ## Insider Gods
 
-It is said that the insider gods created [Astarus](../planes/astarus.md), prepared it, and brought the races to it so that they could settle and thrive. Now they take up more of a "caretaker" role, keeping the forces in balance and avoiding influencing mortal affairs.
+It is said that the insider gods created [Astarus](../celestial-objects/astarus.md), prepared it, and brought the races to it so that they could settle and thrive. Now they take up more of a "caretaker" role, keeping the forces in balance and avoiding influencing mortal affairs.
 
 - [Bhygar](deities/bhygar.md)
 - [Valnos](deities/valnos.md)

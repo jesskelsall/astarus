@@ -12,7 +12,7 @@
 
 ## Summary
 
-The Humar Meteorite is the first known [meteorite](../meteorite.md) to land on [Astarus](../../../planes/astarus.md). The crater was found by [Astral squad](../../../organisations/government/astorrel/squads/astral-squad.md) under the leadership of [Elysia Vanderboss](../../../characters/elysia-vanderboss.md), sparking their curiosity into the phenomena.
+The Humar Meteorite is the first known [meteorite](../meteorite.md) to land on [Astarus](../../../celestial-objects/astarus.md). The crater was found by [Astral squad](../../../organisations/government/astorrel/squads/astral-squad.md) under the leadership of [Elysia Vanderboss](../../../characters/elysia-vanderboss.md), sparking their curiosity into the phenomena.
 
 ## History
 

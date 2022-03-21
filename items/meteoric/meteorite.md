@@ -14,7 +14,7 @@
 
 ## Summary
 
-Meteorites are the delivery method used to bring [the meteorics](../../lineages/the-meteorics.md) to [Astarus](../../planes/astarus.md) from the plane that [Malnesh](../../gods/deities/malnesh.md) and [Kaldoon](../../gods/deities/kaldoon.md) operate from.
+Meteorites are the delivery method used to bring [the meteorics](../../lineages/the-meteorics.md) to [Astarus](../../celestial-objects/astarus.md) from the plane that [Malnesh](../../gods/deities/malnesh.md) and [Kaldoon](../../gods/deities/kaldoon.md) operate from.
 
 ## Properties
 
@@ -33,7 +33,7 @@ With some effort, meteorites can be broken down into [meteoric dust](meteoric-du
 
 ## Travel
 
-Meteorites fall to [Astarus](../../planes/astarus.md) in the same fashion as a regular meteor would. Its trail is white or purple, depending on the aggression poured into its creation (purple is more aggressive).
+Meteorites fall to [Astarus](../../celestial-objects/astarus.md) in the same fashion as a regular meteor would. Its trail is white or purple, depending on the aggression poured into its creation (purple is more aggressive).
 
 Meteorites typically fall to the ground during the night, when they are least likely to be seen. Their impact site is carefully chosen by [Kaldoon](../../gods/deities/kaldoon.md), targeting the edge of small settlements where the emergent meteorics can best analyse their surroundings with minimal risk to being discovered.
 

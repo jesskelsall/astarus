@@ -1,6 +1,6 @@
 # Raine's Artifact
 
-*Raine's Artifact* is the second oneshot set in the [Astarus](../planes/astarus.md) homebrew setting.
+*Raine's Artifact* is the second oneshot set in the [Astarus](../celestial-objects/astarus.md) homebrew setting.
 
 ## Premise
 
@@ -34,8 +34,8 @@
 ### [Raine's Cottage](../places/buildings/houses/raines-cottage.md)
 
 - Party arrives at the behest of [Raine Soulier](../characters/raine-soulier.md).
-- Raine wants the [Dulsenn Crypt Memory Sphere](../items/memory-spheres/dulsenn-crypt-memory-sphere.md) investigating.
-  - Explains what a [memory sphere](../items/artifacts-of-oonar/memory-spheres/memory-sphere.md) is.
+- Raine wants [Mémoire de Cimetière](../items/echneshment/memory-spheres/memoire-de-cimetiere.md) investigating.
+  - Explains what a [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md) is.
   - Can create the pocket dimension once per day.
   - Party allowed to stay here as long as necessary.
     - Long rest each night.
@@ -77,10 +77,10 @@
 
 - Pitch black.
 - Coffins contain skeletons. Some others found in destroyed parts of crypt.
-- [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) in [Vivien Bouxelles](../characters/vivien-bouxelles.md)' coffin.
+- [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md) in [Vivien Bouxelles](../characters/vivien-bouxelles.md)' coffin.
 - Vivien's ghost emerges when her coffin is disturbed.
 - Magic items to be found:
-  - [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md)
+  - [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md)
   - [Staff of Adornment](https://www.dndbeyond.com/magic-items/staff-of-adornment)
   - [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/glamoured-studded-leather)
 - Combat:

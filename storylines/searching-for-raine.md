@@ -7,13 +7,13 @@
 
 ## Summary
 
-In trying to investigate the [Fall of Chausain Memory Sphere](../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md), [Vulpes Geen](../characters/vulpes-geen.md) had brief correspondence with [Raine Soulier](../characters/raine-soulier.md). A brief mention of Raine in his letter to [Vētrall Astérr](../characters/vetrall-asterr.md) gives the party a lead for more answers.
+In trying to investigate [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md), [Vulpes Geen](../characters/vulpes-geen.md) had brief correspondence with [Raine Soulier](../characters/raine-soulier.md). A brief mention of Raine in his letter to [Vētrall Astérr](../characters/vetrall-asterr.md) gives the party a lead for more answers.
 
 ## History
 
 ### [MC02](../sessions/MC02.md)
 
-[Vētrall Astérr](../characters/vetrall-asterr.md) opens the lead lined box, discovering the [Fall of Chausain Memory sphere](../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md) left to them by [Vulpes Geen](../characters/vulpes-geen.md). They open the letter ([MC02-L-1](../letters/MC02-L-1.md)) and read it. Here they find mention of "Raine in [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md)", but do not recognise the name.
+[Vētrall Astérr](../characters/vetrall-asterr.md) opens the lead lined box, discovering [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) left to them by [Vulpes Geen](../characters/vulpes-geen.md). They open the letter ([MC02-L-1](../letters/MC02-L-1.md)) and read it. Here they find mention of "Raine in [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md)", but do not recognise the name.
 
 ### [MC05](../sessions/MC05.md)
 

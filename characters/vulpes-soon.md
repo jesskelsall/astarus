@@ -20,7 +20,7 @@
 
 ## Summary
 
-Vulpes Soon is the eldest son of [Vulpes Geen](vulpes-geen.md), taking over from his father as the leader of [Familia Vulpes](../organisations/familia-vulpes.md). He inherited [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) on his death.
+Vulpes Soon is the eldest son of [Vulpes Geen](vulpes-geen.md), taking over from his father as the leader of [Familia Vulpes](../organisations/familia-vulpes.md). He inherited [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md) on his death.
 
 ## Characteristics
 

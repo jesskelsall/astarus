@@ -1,6 +1,6 @@
 # Ability Score Method
 
-There are various ways to roll a character's ability score. Campaigns in the [Astarus](../../planes/astarus.md) setting often use different methods.
+There are various ways to roll a character's ability score. Campaigns in the [Astarus](../../celestial-objects/astarus.md) setting often use different methods.
 
 ## Methods
 

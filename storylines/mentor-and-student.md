@@ -43,7 +43,7 @@ When Nacnar asks of their adventures together so far, Vētrall insists they go s
 
 ### [MC05](../sessions/MC05.md)
 
-[Nacnar Morwesyrr](../characters/nacnar-morwesyrr.md) leads [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) back to Raine's House where Vētrall can speak of the [memory sphere](../items/artifacts-of-oonar/memory-spheres/memory-sphere.md) in private. Here they confide in Nacnar everything that happened except for the specifics of [Vulpes Geen](../characters/vulpes-geen.md)'s letter ([MC01F-L-3](../letters/MC01F-L-3.md)) and [Oriel Elsandoral](../characters/oriel-elsandoral.md)'s patronage.
+[Nacnar Morwesyrr](../characters/nacnar-morwesyrr.md) leads [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) back to Raine's House where Vētrall can speak of the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md) in private. Here they confide in Nacnar everything that happened except for the specifics of [Vulpes Geen](../characters/vulpes-geen.md)'s letter ([MC01F-L-3](../letters/MC01F-L-3.md)) and [Oriel Elsandoral](../characters/oriel-elsandoral.md)'s patronage.
 
 Nacnar encourages Vētrall to do what they want with the situation presented to them, making it clear that they must make the decision for themself. Vētrall decides they'd like to finish what Geen started and honour their memory by solving the mystery he entrusted them with.
 

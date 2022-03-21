@@ -1,6 +1,6 @@
 # Astorrel Agents
 
-*Astorrel Agents* was the second long term campaign set in the [Astarus](../planes/astarus.md) homebrew setting.
+*Astorrel Agents* was the second long term campaign set in the [Astarus](../celestial-objects/astarus.md) homebrew setting.
 
 ## Premise
 
@@ -94,7 +94,7 @@ Astorrel Agents was conceived around November/December 2020 with the goal of pro
 
 After successfully finding players for the [Purple Rain](C1-purple-rain.md) campaign through Instagram's transgender community, I revisited my list of applicants. While the [Purple Rain](C1-purple-rain.md) players were selected from European applicants, Astorrel Agents was North American by contrast. This necessitated scheduling sessions for weekend evenings so that everyone would be available to play.
 
-World building and planning took place that winter, with session zero starting at the beginning of the year. Players were encouraged to create characters that fit the [Astarus](../planes/astarus.md) setting and would fit into the [Astorrel](../organisations/government/astorrel/astorrel.md) military hierarchy as freshly graduated recruits.
+World building and planning took place that winter, with session zero starting at the beginning of the year. Players were encouraged to create characters that fit the [Astarus](../celestial-objects/astarus.md) setting and would fit into the [Astorrel](../organisations/government/astorrel/astorrel.md) military hierarchy as freshly graduated recruits.
 
 ### Running
 

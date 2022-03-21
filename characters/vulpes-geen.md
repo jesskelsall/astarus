@@ -30,7 +30,7 @@ Vulpes Geen was the leader of [Familia Vulpes](../organisations/familia-vulpes.m
 | **Face** | Pointy ears, blue eyes. | characteristics.2
 | **Hair** | Grey-orange short fur. |
 | **Body** | 3'4" / 104cm. Athletic. |
-| **Clothes** | [Adamantine armour](https://www.dndbeyond.com/magic-items/adamantine-armor), [Unevaire](../items/artifacts-of-oonar/weapons/unevaire.md) |
+| **Clothes** | [Adamantine armour](https://www.dndbeyond.com/magic-items/adamantine-armor), [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md) |
 | **Voice** | |
 | **Mannerisms** | |
 | | |

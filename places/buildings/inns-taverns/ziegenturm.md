@@ -42,8 +42,8 @@ Ziegenturm is the flagship inn for the [Ziegenkrone](../../../organisations/busi
 
 ## Hanging Blades
 
-The blades hanging from the rafters in Ziegenturm are all dwarvish and originate from [Oonar](../../../planes/oonar.md), brought here through [The Third Coming](../../../history/events/the-third-coming.md). While dwarves don't tend to favour bladed weapons, the dwarves that settled [Valburg](../../../civilisations/nilsavnic-alliance/states/valburg.md) did, so there were enough to source.
+The blades hanging from the rafters in Ziegenturm are all dwarvish and originate from [Oonar](../../../celestial-objects/oonar.md), brought here through [The Third Coming](../../../history/events/the-third-coming.md). While dwarves don't tend to favour bladed weapons, the dwarves that settled [Valburg](../../../civilisations/nilsavnic-alliance/states/valburg.md) did, so there were enough to source.
 
-Each blade belongs to a dwarf that has since passed, creating a ceiling full of shrines to the original settlers from [Oonar](../../../planes/oonar.md). Families return here to raise a mug to the memory of their relatives.
+Each blade belongs to a dwarf that has since passed, creating a ceiling full of shrines to the original settlers from [Oonar](../../../celestial-objects/oonar.md). Families return here to raise a mug to the memory of their relatives.
 
 Occasionally the partying dislodges a blade, causing it to fall on patrons below. While this does result in unfortunate deaths from time to time, those that survive being struck are rewarded with free beers at Ziegenturm for the next full month. Some consider the falling blade to be a jealous request to stop partying so hard by the dwarf who once wielded it.

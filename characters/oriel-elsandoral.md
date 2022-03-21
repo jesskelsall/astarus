@@ -22,7 +22,7 @@
 
 Oriel Elsandoral is the arch-mage of [Côtedouce](../places/towns/cotedouce.md). She is a kind and compassionate leader, willing to speak with anyone about matters that trouble them, but resistant to change.
 
-She is the secret patron of the [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) party as they search for information about the [Fall of Chausain Memory Sphere](../items/artifacts-of-oonar/memory-spheres/fall-of-chausain-memory-sphere.md).
+She is the secret patron of the [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) party as they search for information about [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md).
 
 ## Characteristics
 

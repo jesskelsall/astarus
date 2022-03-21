@@ -14,7 +14,7 @@
 
 ## Summary
 
-The Copper Eye was a secret organisation within the Elves of Chausain that conspired to bring about the fall of Chausain to force [Malnesh](../gods/deities/malnesh.md) into saving the elven race from the humans of [Oonar](../planes/oonar.md).
+The Copper Eye was a secret organisation within the Elves of Chausain that conspired to bring about the fall of Chausain to force [Malnesh](../gods/deities/malnesh.md) into saving the elven race from the humans of [Oonar](../celestial-objects/oonar.md).
 
 ## Imagery
 
@@ -31,9 +31,9 @@ Due to their clandestine nature, this armour was designed to blend into Chausain
 
 ## Mission
 
-The Copper Eye believed that the Elves of Chausain have no chance against the humans of [Oonar](../planes/oonar.md), seeing their conflicts as an inevitable slide towards defeat.
+The Copper Eye believed that the Elves of Chausain have no chance against the humans of [Oonar](../celestial-objects/oonar.md), seeing their conflicts as an inevitable slide towards defeat.
 
-They have tangible proof that drives a strong belief that [Malnesh](../gods/deities/malnesh.md) favours the Elves of Chausain to the point that [Malnesh](../gods/deities/malnesh.md) herself would be willing to step in to save the city of Chausain and its people by taking them all to the afterlife ([Astarus](../planes/astarus.md)). As a result the Copper Eye conspired in secret to force this eventuality, for the good of all elves.
+They have tangible proof that drives a strong belief that [Malnesh](../gods/deities/malnesh.md) favours the Elves of Chausain to the point that [Malnesh](../gods/deities/malnesh.md) herself would be willing to step in to save the city of Chausain and its people by taking them all to the afterlife ([Astarus](../celestial-objects/astarus.md)). As a result the Copper Eye conspired in secret to force this eventuality, for the good of all elves.
 
 Their tasks included providing the humans with strategic information about the Elves of Chausain, sabotaging elven intelligence, and preparing Chausain itself with the supplies it needs for the afterlife, including procuring magical items from outside of the city walls.
 

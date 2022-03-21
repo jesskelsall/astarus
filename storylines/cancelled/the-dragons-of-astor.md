@@ -7,11 +7,11 @@
 
 ## Summary
 
-After meeting dragons on two occasions, questions are raised as to whether there are still dragons on [Astarus](../../planes/astarus.md).
+After meeting dragons on two occasions, questions are raised as to whether there are still dragons on [Astarus](../../celestial-objects/astarus.md).
 
 ## Planning
 
-This storyline would have seen the [Astorrel Agents](../../campaigns/C2-astorrel-agents.md) campaign investigate the existence of dragons on [Astarus](../../planes/astarus.md), taking them to distant and inhospitable lands in search of the elusive beings.
+This storyline would have seen the [Astorrel Agents](../../campaigns/C2-astorrel-agents.md) campaign investigate the existence of dragons on [Astarus](../../celestial-objects/astarus.md), taking them to distant and inhospitable lands in search of the elusive beings.
 
 Prior to this, the existence of dragons has been hinted at and revealed:
 

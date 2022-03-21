@@ -25,7 +25,7 @@ Valnos is the persistent advancement of society, determined to create a better t
 
 Her symbol is an eye shape (pointed oval) in yellow or gold, with an eight-pointed star at its centre.
 
-| [Astarus](../../planes/astarus.md) | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
+| [Astarus](../../celestial-objects/astarus.md) | [The Order of the Diamond](../../organisations/the-order-of-the-diamond.md) |
 |:---:|:---:|
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/72f2f8ff426d7ac8.png" height="150" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/symbols/a51347a25084e8dc.png" height="150" /> |
 | `72f2f8ff426d7ac8` | `a51347a25084e8dc` |

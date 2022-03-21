@@ -7,7 +7,7 @@
 
 ## Summary
 
-Three [aasimar](../../lineages/aasimar.md) exist on [Astarus](../../planes/astarus.md), the only ones to have existed on this world. Their destinies are intertwined, their paths are destined to cross.
+Three [aasimar](../../lineages/aasimar.md) exist on [Astarus](../../celestial-objects/astarus.md), the only ones to have existed on this world. Their destinies are intertwined, their paths are destined to cross.
 
 - [Allisa Balsatra](../../characters/allisa-balsatra.md) (Scourge)
 - [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) (Fallen)
@@ -19,7 +19,7 @@ Three [aasimar](../../lineages/aasimar.md) exist on [Astarus](../../planes/astar
 
 Within the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md) [Allisa Balsatra](../../characters/allisa-balsatra.md) is a known [aasimar](../../lineages/aasimar.md), a word invented to describe her. The republic know of no other [aasimar](../../lineages/aasimar.md).
 
-As a result she was prepared for a high government office within the republic. She refused the call, opting to join the Veritacris instead. Secretly she wished to search [Astarus](../../planes/astarus.md) for another [aasimar](../../lineages/aasimar.md). This has been her driving goal for over 100 years and has taken her through: the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md), the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/dardenn-kingdom.md), and finally the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+As a result she was prepared for a high government office within the republic. She refused the call, opting to join the Veritacris instead. Secretly she wished to search [Astarus](../../celestial-objects/astarus.md) for another [aasimar](../../lineages/aasimar.md). This has been her driving goal for over 100 years and has taken her through: the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md), the [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), the [Dardenn Kingdom](../../civilisations/dardenn-kingdom/dardenn-kingdom.md), and finally the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
 Learning of the significance of the [Nature's Battle](../../mechanics/roleplay/natures-battle.md) tournament, Allisa and her subordinates [Xavier Raloven](../../characters/xavier-raloven.md) and [Castien Eladan](../../characters/castien-eladan.md) plotted to move into [Eskrigg](../../places/cities/eskrigg.md) so they could watch the tournament, feeling it was a good chance to see exceptional individuals from Astor. They infiltrated [Barthon Ironfist](../../characters/barthon-ironfist.md)'s pit fighting ring, coercing him into helping them or lose his family.
 

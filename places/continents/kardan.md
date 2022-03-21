@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Kardan |
 | **Type** | Continent |
-| **Location** | [Astarus](../../planes/astarus.md) |
+| **Location** | [Astarus](../../celestial-objects/astarus.md) |
 | **Nearby Places** | [Sea of Songs](../seas-oceans/sea-of-songs.md) |
 | **People** | |
 
 ## Summary
 
-Kardan is the name given to the main continent on which all [Astarus](../../planes/astarus.md) [campaigns](../../../campaigns/README.md) begin.
+Kardan is the name given to the main continent on which all [Astarus](../../celestial-objects/astarus.md) [campaigns](../../../campaigns/README.md) begin.
 
 ## Places
 

@@ -1,8 +1,22 @@
-# Soulier Cottage Memory Sphere
+# Mémoire de Chalet
+
+|||
+| --- | --- |
+| **Name** | Mémoire de Chalet | item.2
+| **Weight** | 1 lb |
+| **Notes** | [Memory Sphere](memory-sphere.md) |
 
 ## Summary
 
-The Soulier Cottage Memory Sphere is a [memory sphere](memory-sphere.md) containing a tender family moment as Rene Soulier returns to his idyllic family cottage.
+*See: [Raine's Artifact](../../../campaigns/O2-raines-artifact.md)*
+
+Mémoire de Chalet is a [memory sphere](memory-sphere.md) containing a tender family moment as Rene Soulier returns to his idyllic family cottage.
+
+## Etymology
+
+| Name | Language | Literal | Meaning | 
+| --- | --- | --- | --- |
+| Mémoire de Chalet | [Elvish](../../../languages/elvish.md) || cottage memory |
 
 ## Memories
 
