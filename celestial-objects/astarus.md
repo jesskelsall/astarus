@@ -4,8 +4,9 @@
 | --- | --- |
 | **Name** | Astarus | celestial.1
 | **Type** | Planet |
-| **Day length** | 24 hours |
-| **Year length** | 225 days |
+| **Orbital period** | 225 days |
+| **Rotation period** | 24 hours |
+| **Axial tilt** | 17° |
 | **Moons** | [Celanor](celanor.md) |
 
 ## Summary
@@ -14,9 +15,19 @@ Astarus is the main planet that campaigns and oneshots take place on.
 
 It is a small planet with a single moon, [Celanor](celanor.md). Originally populated by [Kaldoon](../gods/deities/kaldoon.md), several migration events have brought disadvantaged and discriminated against races and cultures to Astarus, under the promise of a new beginning.
 
-## Landmasses
+## Land
 
 Astarus is dominated by [Kardan](../places/continents/kardan.md), the single continent that accounts for most of its land. It occupies roughly half of the planet's surface.
+
+Due to a small axial tilt, Astarus has four distinct seasons. The winter cycle is particularly strongly felt in the northern reaches of [Kardan](../places/continents/kardan.md).
+
+## Sky
+
+The sky during the day and night is comparable to Earth's.
+
+During the day the sky is blue, with orange and purple tones around sunrise and sunset. The sun is bright and yellow-white.
+
+During the night the sky is dark blue or black, with visible stars, constellations, and faint traces of nebulae.
 
 ## Civilisations
 
@@ -24,7 +35,7 @@ The races of Astarus arrived or were created at different points in the planet's
 
 | Event | God(s) | Race(s) |
 | --- | --- | --- |
-| [The First Coming](../history/events/the-first-coming.md) | [Kaldoon](../gods/deities/kaldoon.md) | Dragon<br>Giant<br>Minotaur<br>[Strigid](../lineages/strigid.md) |
+| [The First Coming](../history/events/the-first-coming.md) | [Kaldoon](../gods/deities/kaldoon.md) | Dragon<br>Giant<br>Leonin<br>Minotaur<br>[Strigid](../lineages/strigid.md) |
 | [The Second Coming](../history/events/the-second-coming.md) | [Malnesh](../gods/deities/malnesh.md) | Elf |
 | [The Third Coming](../history/events/the-third-coming.md) | [Bhygar](../gods/deities/bhygar.md)<br>[Valnos](../gods/deities/valnos.md)<br>[Kirrel](../gods/deities/kirrel.md)<br>[Gormox](../gods/deities/gormox.md) | Dragonborn<br>Gnome<br>Goliath<br>Halfling<br>Human<br>Orc<br>Tabaxi<br>Tiefling<br>*(not exhaustive)* |
 
