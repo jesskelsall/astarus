@@ -91,7 +91,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR45](../sessions/PR45.md) | 2021-12-08 | *The Third [Aasimar](../lineages/aasimar.md)* |
 | [PR46](../sessions/PR46.md) | 2022-01-05 | *Searching the Hills for a Crater* |
 | [PR47](../sessions/PR47.md) | 2022-01-12 | *The White Wolf* |
-| [PR48](../sessions/PR48.md) | 2022-01-19 | |
+| [PR48](../sessions/PR48.md) | 2022-01-19 | *What Lies in the Crater* |
 | PR49 | 2022-02-09 | |
 ||
 | [PR50](../sessions/PR50.md) | 2022-02-16 | |

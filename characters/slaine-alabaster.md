@@ -7,7 +7,7 @@
 | **Name** | Slaine Alabaster | character.3
 | **Lineage** | Human |
 | **Pronouns** | he/him |
-| **Age** | 23 |
+| **Age** | 23 (dead) |
 | **Class** | |
 | **Worship** | |
 | **Relations** | [Janneke Borflast](janneke-borflast.md) (leader)<br>[Kieran Bennington](kieran-bennington.md) (member) |
@@ -20,7 +20,11 @@
 
 ## Summary
 
-Slaine Alabaster is a mischievous and greedy member of [the Morning Chasers](../organisations/the-morning-chasers.md) who contracted [Meteoridis](../mechanics/roleplay/meteoridis.md) from the [Silethwaite meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md). It has been slowly consuming him ever since.
+Slaine Alabaster was a mischievous and greedy member of [the Morning Chasers](../organisations/the-morning-chasers.md) who contracted [Meteoridis](../mechanics/roleplay/meteoridis.md) from the [Silethwaite meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md). It has been slowly consuming him ever since.
+
+*See: [Talk to the Morning Chasers](../storylines/ended/talk-to-the-morning-chasers.md)*
+
+Slaine died when [Wizira](wizira.md) cast Dispel Magic on the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md) in his possession. Doing so caused the [meteorite](../items/meteoric/meteorite.md) to consume his body, killing him in the process and turning him into a [Meteoric Humanoid](../creatures/meteoric-humanoid.md).
 
 ## Characteristics
 

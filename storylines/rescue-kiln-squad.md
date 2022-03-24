@@ -138,3 +138,11 @@ The party do what they can to help Scratch. Torbra forces him to drink water, Sa
 [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) consider de-prioritising their mission in order to get [Scratch on Stone](../characters/scratch-on-stone.md) back to civilisation to seek medical help, possibly heading south to [Blittergate](../places/towns/blittergate.md) or [Hyceodd](../places/towns/hyceodd.md) and getting the message from there to [Elysia Vanderboss](../characters/elysia-vanderboss.md) so more help can be brought. Allisa suggests that the three [aasimar](../lineages/aasimar.md) should have enough healing magic to seal all of his wounds, so medical help need only be a warm bed and enough food for him to rest. She suggests taking him north to [Filisur](../places/villages/filisur.md), the closest settlement.
 
 The party agrees to rest overnight, heal Scratch in the morning, then continue their mission before finding someone to help Scratch.
+
+### [PR48](../sessions/PR48.md)
+
+[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) manages to get the dire wolf ([Elrick Loweswater](../characters/elrick-loweswater.md)) to keep away from [Scratch on Stone](../characters/scratch-on-stone.md) for long enough for [Lucia Velpione](../characters/lucia-velpione.md) to ritual cast Tiny Hut so that he can be kept warm and safe overnight.
+
+By morning both [Thanea Morlay](../characters/thanea-morlay.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) use Healing Hands to provide him with more healing magic. This buys him more time and helps to seal some of his remaining open wounds.
+
+The party departs for [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md), intent on returning to Scratch so that they can get him medical help. [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) pens a note with [Torbra Tauff](../characters/torbra-tauff.md)'s writing supplies. It explains that he is being looked after by [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) who will return soon.

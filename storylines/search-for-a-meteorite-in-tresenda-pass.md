@@ -144,6 +144,22 @@ The party begins to set up camp where they found Scratch, intent on sleeping the
 
 *[End of session: day 9]*
 
+### [PR48](../sessions/PR48.md)
+
+[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) camps overnight with [Scratch on Stone](../characters/scratch-on-stone.md) and the dire wolf ([Elrick Loweswater](../characters/elrick-loweswater.md)), resting after their battle that morning with the [Meteoric Hunters](../creatures/meteoric-hunter.md).
+
+By morning they resolve to return to [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) to retrieve the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) and fight [the meteorics](../lineages/the-meteorics.md) that may be guarding it. They discuss how best to use their weapons and spells as well any perceived weaknesses of the [Meteoric Hunters](../creatures/meteoric-hunter.md).
+
+Arriving in the valley, nobody notices anything different. [Torbra Tauff](../characters/torbra-tauff.md) leads the party back down into the valley to the crater, where a [meteorite](../items/meteoric/meteorite.md) (the [Meteoric Mind](../creatures/meteoric-mind.md) presenting what it believes the party will find enticing) and a pristine [meteorite](../items/meteoric/meteorite.md) crater floor made of [meteoric dust](../items/meteoric/meteoric-dust.md). No creatures are seen.
+
+[Lucia Velpione](../characters/lucia-velpione.md) volunteers to approach the [meteorite](../items/meteoric/meteorite.md). [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) offers caution. [Luna](../characters/lucia-velpione.md) casts Identify by touching the [meteorite](../items/meteoric/meteorite.md), but doesn't find it to be a magical object (as it is a creature).
+
+The [Meteoric Mind](../creatures/meteoric-mind.md) springs its trap, turning the [meteorite](../items/meteoric/meteorite.md) and gravel crater floor into its constituent [meteoric dust](../items/meteoric/meteoric-dust.md). The floor swirls underneath [Luna](../characters/lucia-velpione.md), [Torbra Tauff](../characters/torbra-tauff.md), and [Thanea Morlay](../characters/thanea-morlay.md) while the mind forms the visage of a humanoid, [Gillian Close](../characters/gillian-close.md). It uses its dust to form two [Meteoric Hunters](../creatures/meteoric-hunter.md) and one [Meteoric Watcher](../creatures/meteoric-watcher.md), who immediately begin attacking the party.
+
+The party slowly discover the anti-magic bubble present around the [Meteoric Mind](../creatures/meteoric-mind.md), which neutralises Saoirse's Eldritch Blasts aimed at it, and [Allisa Balsatra](../characters/allisa-balsatra.md)'s Fireball which indirectly targeted it.
+
+*[End of session: day 10]*
+
 ## Planning
 
 [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).
