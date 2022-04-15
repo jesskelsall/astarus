@@ -47,7 +47,7 @@ Lucia Velpione is a player character in the [Purple Rain](../campaigns/C1-purple
 | 3 || Bard | d8 | 4 |
 | 4 || Bard | d8 | 3 |
 | 5 || Bard | d8 | 7 |
-| 6 | PR49 | Rogue | d8 | 6 |
+| 6 | [PR49](../sessions/PR49.md) | Rogue | d8 | 6 |
 
 ## Mixed Lineage
 

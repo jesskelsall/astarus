@@ -45,6 +45,7 @@ TODO
 | 3 | [PR09](../sessions/PR09.md) | Warlock | d8 | 5 |
 | 4 | [PR19](../sessions/PR19.md) | Warlock | d8 | 3 |
 | 5 | [PR30](../sessions/PR30.md) | Warlock | d8 | 7 |
+| 6 | [PR49](../sessions/PR49.md) | Cleric | d8 | 4 |
 
 ## History
 

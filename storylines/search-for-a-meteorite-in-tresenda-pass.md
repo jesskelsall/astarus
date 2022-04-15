@@ -160,6 +160,20 @@ The party slowly discover the anti-magic bubble present around the [Meteoric Min
 
 *[End of session: day 10]*
 
+## [PR49](../sessions/PR49.md)
+
+The battle against the [Meteoric Mind](../creatures/meteoric-mind.md) continues to rage in [Upper Tresenda](../places/plains-valleys/upper-tresenda.md).
+
+[The meteorics](../lineages/the-meteorics.md) initially have the upper hand until one of the [Meteoric Hunters](../creatures/meteoric-hunter.md) is whittled down. The [Meteoric Mind](../creatures/meteoric-mind.md) disassembles it and forms two more [Meteoric Watchers](../creatures/meteoric-watcher.md) in its place. This allows [Thanea Morlay](../characters/thanea-morlay.md) to score a calculated Fireball on all three, dealing an important blow to the mind's capabilities.
+
+[Allisa Balsatra](../characters/allisa-balsatra.md)'s spells keep the party safe. When [Thanea Morlay](../characters/thanea-morlay.md) gets knocked unconscious by the other hunter, she casts Aid to restore her. She casts Guardian of Faith to protect the party under a visage of [Valnos](../gods/deities/valnos.md)' wings, and casts Hold Person to neutralise the hunter. This allows everyone else to shine with their attacks.
+
+The [Meteoric Mind](../creatures/meteoric-mind.md) reassembles its meteorics a second time, producing four [Meteoric Drones](../creatures/meteoric-drone.md). Another Fireball takes care of two instantly, also destroying the mind in the process. The last two drones are picked off quickly by the increasingly confident party.
+
+In the aftermath the party begins searching the crater for signs of life or loot.
+
+*[End of session: day 10]*
+
 ## Planning
 
 [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) will be able to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) high up in a corner of [Tresenda Pass](../places/roads/tresenda-pass.md). It will still be present inside a large crater, guarded by a sizeable amount of [meteoric watchers](../creatures/meteoric-watcher.md).

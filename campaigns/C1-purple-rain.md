@@ -92,9 +92,10 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR46](../sessions/PR46.md) | 2022-01-05 | *Searching the Hills for a Crater* |
 | [PR47](../sessions/PR47.md) | 2022-01-12 | *The White Wolf* |
 | [PR48](../sessions/PR48.md) | 2022-01-19 | *What Lies in the Crater* |
-| PR49 | 2022-02-09 | |
-||
+| [PR49](../sessions/PR49.md) | 2022-02-09 | *The [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md)* |
 | [PR50](../sessions/PR50.md) | 2022-02-16 | |
+||
+| [PR51](../sessions/PR51.md) | 2022-04-20 | |
 
 ## Storylines
 

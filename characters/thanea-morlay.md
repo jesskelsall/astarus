@@ -45,7 +45,7 @@ TODO
 | 3 | [PR09](../sessions/PR09.md) | Sorcerer | d6 | 5 |
 | 4 | [PR19](../sessions/PR19.md) | Sorcerer | d6 | 5 |
 | 5 | [PR30](../sessions/PR30.md) | Sorcerer | d6 | 3 |
-| 6 | PR49 | Sorcerer | d6 | 5 |
+| 6 | [PR49](../sessions/PR49.md) | Sorcerer | d6 | 5 |
 
 ## History
 

@@ -146,3 +146,9 @@ The party agrees to rest overnight, heal Scratch in the morning, then continue t
 By morning both [Thanea Morlay](../characters/thanea-morlay.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) use Healing Hands to provide him with more healing magic. This buys him more time and helps to seal some of his remaining open wounds.
 
 The party departs for [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) to find the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md), intent on returning to Scratch so that they can get him medical help. [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) pens a note with [Torbra Tauff](../characters/torbra-tauff.md)'s writing supplies. It explains that he is being looked after by [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) who will return soon.
+
+### [PR49](../sessions/PR49.md)
+
+After defeating the [Meteoric Mind](../creatures/meteoric-mind.md) in the [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) [meteorite](../items/meteoric/meteorite.md) crater, [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) search for signs of life or loot.
+
+[Lucia Velpione](../characters/lucia-velpione.md) finds a metal belt buckle and a Potion of Healing, both formerly belonging to [Cherish Loweswater](../characters/cherish-loweswater.md). [Torbra Tauff](../characters/torbra-tauff.md) finds [Scratch on Stone](../characters/scratch-on-stone.md)'s lost longsword, [Verlust](../items/magic/verlust.md). She quickly notes its fiery magic after swinging it.

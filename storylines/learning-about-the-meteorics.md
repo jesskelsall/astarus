@@ -146,3 +146,13 @@ Finding no signs of danger and an unguarded [meteorite](../items/meteoric/meteor
 It deconstructs the false [meteorite](../items/meteoric/meteorite.md) and gravel crater floor and creates a form for itself in the image of [Gillian Close](../characters/gillian-close.md). As combat begins it forms two [Meteoric Hunters](../creatures/meteoric-hunter.md) and one [Meteoric Watcher](../creatures/meteoric-watcher.md) to fight the party. These advanced tactics and manipulation of the dust is a revelation to the party.
 
 Both [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and Allisa cast spells that target or pass close to the [Meteoric Mind](../creatures/meteoric-mind.md), but disappear when they get close as its anti-magic bubble is present. Most notably Allisa's Fireball vanishes while arcing through the air.
+
+## [PR49](../sessions/PR49.md)
+
+[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) battle the [Meteoric Mind](../creatures/meteoric-mind.md) and the other meteorics it forms. Over the course of the battle they watch as the mind manipulates its pool of [meteoric dust](../items/meteoric/meteoric-dust.md) lining the crater floor, pulling [Lucia Velpione](../characters/lucia-velpione.md) and [Torbra Tauff](../characters/torbra-tauff.md) to the floor as the dust surges in a clear pattern.
+
+The party also witnesses the [Meteoric Mind](../creatures/meteoric-mind.md) disassemble both [Meteoric Hunters](../creatures/meteoric-hunter.md) and [Meteoric Watchers](../creatures/meteoric-watcher.md) and assemble new [Meteoric Watchers](../creatures/meteoric-watcher.md) and [Meteoric Drones](../creatures/meteoric-drone.md) using plumes of [meteoric dust](../items/meteoric/meteoric-dust.md) rising from the crater floor.
+
+Late in the encounter, [Meteoric Drones](../creatures/meteoric-drone.md) are formed. Two of the four die to [Thanea Morlay](../characters/thanea-morlay.md)'s Fireball before they have a chance to act, but the party learns of their ability to fly and Magic Missile volleys from their four arms, before they are swiftly defeated.
+
+As the Fireball destroys the [Meteoric Mind](../creatures/meteoric-mind.md)'s remaining magical energy, the stirring dust in the crater stops moving. The remaining meteorics continue fighting regardless, but once they are defeated, the threat of the crater and its dust is gone.
