@@ -128,6 +128,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [Investigate the Humar Meteorite Crater](../storylines/ended/investigate-the-humar-meteorite-crater.md) | [PR30](../sessions/PR30.md) | [PR36](../sessions/PR36.md) |
 | [Giving Esme a Childhood](../storylines/giving-esme-a-childhood.md) | [PR32](../sessions/PR32.md) | |
 | [Wizira Dies](../storylines/wizira-dies.md) | [PR35](../sessions/PR35.md) | |
+| [Weaponising the Angel](../storylines/weaponising-the-angel.md) | [PR36](../sessions/PR36.md) |
 | [Search for a Meteorite in Tresenda Pass](../storylines/search-for-a-meteorite-in-tresenda-pass.md) | [PR37](../sessions/PR37.md) | |
 | [Genasi in Astor](../storylines/genasi-in-astor.md) | [PR37](../sessions/PR37.md) | |
 | [Reaching Augury Rock](../storylines/reaching-augury-rock.md) | [PR37](../sessions/PR37.md) | |
