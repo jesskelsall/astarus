@@ -30,6 +30,12 @@ While [Torbra Tauff](../characters/torbra-tauff.md) is providing a debrief on th
 
 Once the meeting is over, [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) led by [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) departs that same day.
 
-## Planning
+### Between Sessions
 
-[Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) will be back in [Northhaven](../places/cities/northhaven.md) when [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) next return. They will have slain the remaining [Meteoric Watcher](../creatures/meteoric-watcher.md) and returned with a bag of its dust.
+[Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) travel to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and begin retracing [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md)'s footsteps. Asking the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) [Astornox](../organisations/government/astornox/astornox.md) about the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), they are met with uncooperative guards who harbour the same ill will towards both [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) and the [Astorrel](../organisations/government/astorrel/astorrel.md) that [Alistair Hawthorn](../characters/alistair-hawthorn.md) does.
+
+With the help of locals they are able to find the [Hawkswood Wolf Cave](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). The rotting wolf corpses suggest it remains untouched. Within the central chamber they find the [meteorite](../items/meteoric/meteorite.md) crater and a lone [Meteoric Watcher](../creatures/meteoric-watcher.md). After a short battle they are able to destroy it and gather its [meteoric dust](../items/meteoric/meteoric-dust.md) to bring back.
+
+[Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) insists on having their squad return the bodies in the crater to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) so that the dead can be properly accounted for. This softens the [Astornox](../organisations/government/astornox/astornox.md)'s stance towards the squad, allowing them to leave on fair terms.
+
+[Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) return to [Northhaven](../places/cities/northhaven.md) after 14 days. Hidaar files their mission report and hands over a pouch of [meteoric dust](../items/meteoric/meteoric-dust.md). This nets each squad member an extra 30 gp in pay.

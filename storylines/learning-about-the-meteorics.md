@@ -147,7 +147,7 @@ It deconstructs the false [meteorite](../items/meteoric/meteorite.md) and gravel
 
 Both [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and Allisa cast spells that target or pass close to the [Meteoric Mind](../creatures/meteoric-mind.md), but disappear when they get close as its anti-magic bubble is present. Most notably Allisa's Fireball vanishes while arcing through the air.
 
-## [PR49](../sessions/PR49.md)
+### [PR49](../sessions/PR49.md)
 
 [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) battle the [Meteoric Mind](../creatures/meteoric-mind.md) and the other meteorics it forms. Over the course of the battle they watch as the mind manipulates its pool of [meteoric dust](../items/meteoric/meteoric-dust.md) lining the crater floor, pulling [Lucia Velpione](../characters/lucia-velpione.md) and [Torbra Tauff](../characters/torbra-tauff.md) to the floor as the dust surges in a clear pattern.
 

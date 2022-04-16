@@ -30,7 +30,7 @@ Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/government/as
 
 | Appearance | Description |
 | --- | --- |
-| Face | Light red skin, yellow eyes. Chiseled chin. |
+| Face | Light red skin, yellow eyes. Chiselled chin. |
 | Hair | Silver-white shoulder length on the right side, clean shaven on the left. No left eyebrow. |
 | Body | 5'8". Slim bean pole. |
 | Clothes | Key lime coloured robes with dusty orange trim, leather boots. |
