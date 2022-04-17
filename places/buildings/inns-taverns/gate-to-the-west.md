@@ -5,7 +5,7 @@
 | **Name** | Gate to the West | place.4
 | **Type** | Inn |
 | **Location** | [Blittergate](../../towns/blittergate.md) |
-| **Nearby Places** | [Blittergate Astornox Stronghold](../../strongholds/blittergate-astornox-stronghold.md)<br>[The Courteous Cow](the-courteous-cow.md) |
+| **Nearby Places** | [Blittergate Astornox Stronghold](../../strongholds/blittergate-astornox-stronghold.md)<br>[Fresk House](../houses/fresk-house.md)<br>[The Courteous Cow](the-courteous-cow.md) |
 | **People** | [Reed Dovenby](../../../characters/reed-dovenby.md) (host) |
 
 ## Summary

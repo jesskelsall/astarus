@@ -5,7 +5,7 @@
 | **Name** | The Kissing Stones | place.4
 | **Type** | Inn |
 | **Location** | [Filisur](../../villages/filisur.md) |
-| **Nearby Places** | [Fresk House](../houses/fresk-house.md) |
+| **Nearby Places** | |
 | **People** | [Arnel Levat](../../../characters/arnel-levat.md) (owner, innkeeper)<br>[Romy Levat](../../../characters/romy-levat.md) |
 
 ## Summary

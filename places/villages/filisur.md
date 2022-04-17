@@ -30,7 +30,6 @@ The people of Filisur lead a simple shepherding life, raising sheep in the sprin
 
 - Village centre:
   - [The Kissing Stones](../buildings/inns-taverns/the-kissing-stones.md) (inn)
-  - [Fresk House](../buildings/houses/fresk-house.md) (doctor)
 - Surrounding farmland:
   - [Seren Farmstead](../buildings/houses/seren-farmstead.md)
   - [Trint Farmstead](../buildings/houses/trint-farmstead.md)

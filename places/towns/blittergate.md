@@ -27,4 +27,5 @@ Blittergate is the western-most town in the [Kingdom of Astor](../../civilisatio
 - [Blittergate Astornox Stronghold](../strongholds/blittergate-astornox-stronghold.md)
 - [The Courteous Cow](../buildings/inns-taverns/the-courteous-cow.md) (inn)
 - [Gate to the West](../buildings/inns-taverns/gate-to-the-west.md) (military inn)
+- [Fresk House](../buildings/houses/fresk-house.md) (doctor)
 - Temple to the Lakes

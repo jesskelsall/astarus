@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Fresk House | place.4
 | **Type** | House |
-| **Location** | [Filisur](../../villages/filisur.md) |
-| **Nearby Places** | [The Kissing Stones](../inns-taverns/the-kissing-stones.md) |
+| **Location** | [Blittergate](../../towns/blittergate.md) |
+| **Nearby Places** | [Blittergate Astornox Stronghold](../../strongholds/blittergate-astornox-stronghold.md)<br>[Gate to the West](../inns-taverns/gate-to-the-west.md)<br>[The Courteous Cow](../inns-taverns/the-courteous-cow.md) |
 | **People** | [Marlene Fresk](../../../characters/marlene-fresk.md) (owner) |
 
 ## Summary
 
-Fresk House is the home of [Marlene Fresk](../../../characters/marlene-fresk.md) and the de-factor doctor's surgery in [Filisur](../../villages/filisur.md).
+Fresk House is the home of [Marlene Fresk](../../../characters/marlene-fresk.md) and the de-facto doctor's surgery in [Blittergate](../../towns/blittergate.md).
 
 ### Interior
 

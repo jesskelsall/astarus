@@ -5,7 +5,7 @@
 | **Name** | Blittergate Astornox Stronghold | place.4
 | **Type** | Stronghold |
 | **Location** | [Blittergate](../towns/blittergate.md) |
-| **Nearby Places** | [Gate to the West](../buildings/inns-taverns/gate-to-the-west.md)<br>[The Courteous Cow](../buildings/inns-taverns/the-courteous-cow.md) |
+| **Nearby Places** | [Fresk House](../buildings/houses/fresk-house.md)<br>[Gate to the West](../buildings/inns-taverns/gate-to-the-west.md)<br>[The Courteous Cow](../buildings/inns-taverns/the-courteous-cow.md) |
 | **People** | |
 
 ## Summary
