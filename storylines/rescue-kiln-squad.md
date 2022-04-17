@@ -152,3 +152,23 @@ The party departs for [Upper Tresenda](../places/plains-valleys/upper-tresenda.m
 After defeating the [Meteoric Mind](../creatures/meteoric-mind.md) in the [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) [meteorite](../items/meteoric/meteorite.md) crater, [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) search for signs of life or loot.
 
 [Lucia Velpione](../characters/lucia-velpione.md) finds a metal belt buckle and a Potion of Healing, both formerly belonging to [Cherish Loweswater](../characters/cherish-loweswater.md). [Torbra Tauff](../characters/torbra-tauff.md) finds [Scratch on Stone](../characters/scratch-on-stone.md)'s lost longsword, [Verlust](../items/magic/verlust.md). She quickly notes its fiery magic after swinging it.
+
+### [PR50](../sessions/PR50.md)
+
+[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) continue searching the [meteorite](../items/meteoric/meteorite.md) crater in [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) for loot. [Thanea Morlay](../characters/thanea-morlay.md) finds the breastplate of [Gillian Close](../characters/gillian-close.md)'s half-plate armour.
+
+The party returns to [Scratch on Stone](../characters/scratch-on-stone.md) and the dire wolf ([Elrick Loweswater](../characters/elrick-loweswater.md)) in the cliffside inset at the northern edge of the [Tresenda Pass](../places/roads/tresenda-pass.md) valley. The wolf is keeping him safe, and Scratch remains in bad condition. When he coughs awake, he is able to give his name and squad name - [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md).
+
+Both the dire wolf and Scratch respond with non-specific sorrow when presented the breastplate, both recognising both who owned it and what it represents by itself. Scratch regains partial memories of [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md)'s tragic battle against the [Meteoric Mind](../creatures/meteoric-mind.md).
+
+Scratch keeps a tight grip on [Verlust](../items/magic/verlust.md), his sword that he lost in the crater. The dire wolf grabs it from [Torbra Tauff](../characters/torbra-tauff.md) insistently and places it on Scratch's chest.
+
+The party resolves to get Scratch medical help as a matter of urgency, deciding to head south to [Blittergate](../places/towns/blittergate.md). [Allisa Balsatra](../characters/allisa-balsatra.md) parts ways with the party, confident that they will meet again. By tying Scratch onto the back of the dire wolf, they are able to proceed south, the wolf happy to follow along, Elrick recognising the party as his best chance to help Scratch recover.
+
+Over the next four days the party return south to [Blittergate](../places/towns/blittergate.md), clearing the [Tresenda Pass](../places/roads/tresenda-pass.md) without incident or snowfall. Along the way [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md)'s Healing Hands give them brief opportunities to talk to Scratch, though he remains pained when doing so and continues coughing profusely when exerting himself. They learn of [Cherish Loweswater](../characters/cherish-loweswater.md), the dire wolf's name is Elrick, and he is Cherish's husband. The party disagrees on what that means - Elrick is either a druid trapped in his wild shape, or Cherish is a druid who had a relationship with Elrick the dire wolf.
+
+Arriving back at [Blittergate](../places/towns/blittergate.md), the dire wolf quickly catches the attention of the [Astornox guards](../organisations/government/astornox/ranks/astornox-guard.md) on duty at the [Blittergate Astornox Stronghold](../places/strongholds/blittergate-astornox-stronghold.md). They are talked down from attacking the wolf before the party gets them to summon their medic, [Marlene Fresk](../characters/marlene-fresk.md). They proceed to [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md) while awaiting assistance.
+
+Marlene is shocked at the state of Scratch, dumbfounded that he is even alive. He orders Torbra to place him on a table inside while she and [Thanea Morlay](../characters/thanea-morlay.md) fetch medical supplies from [Fresk House](../places/buildings/houses/fresk-house.md).
+
+Once back at the inn Marlene begins examining Scratch's wounds while using Thanea as an assistant. When she applies Keoghtom's Ointment to his face, he screams and attempts to stand up. Torbra fails to hold him down, causing Marlene to pin him against his open shoulder wounds while she continues treatment.
