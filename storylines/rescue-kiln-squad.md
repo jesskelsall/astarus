@@ -22,6 +22,24 @@
 
 ## History
 
+### Between Sessions
+
+[Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md) were tasked by [Taza Finetrick](../characters/taza-finetrick.md) with conducting wildlife research on the Neum Flats, in particular evidence that [Rocs](https://www.dndbeyond.com/monsters/16998-roc) exist and live around the flats. They mustered out of [Northhaven](../places/cities/northhaven.md) and headed for the [Tresenda Pass](../places/roads/tresenda-pass.md), aiming for the northern route across the flats.
+
+While travelling up the [Tresenda Pass](../places/roads/tresenda-pass.md) valley, the squad encountered a [Meteoric Watcher](../creatures/meteoric-watcher.md) during the night, successfully pursuing it before killing it. The unexplainable creature was cause for concern, with [Cherish Loweswater](../characters/cherish-loweswater.md) suggesting to [Scratch on Stone](../characters/scratch-on-stone.md) that they turn back and report what they've found already. [Gillian Close](../characters/gillian-close.md) argued it is their duty to search for more information. Initially conflicted and personally wishing to continue with their original mission, Scratch sided with Gillian.
+
+[Kiln squad](../organisations/government/astorrel/squads/kiln-squad.md) spent three days surveying the valley, eventually finding tracks that lead them to [Upper Tresenda](../places/plains-valleys/upper-tresenda.md). At the sight of the barren valley, Scratch had second thoughts about continuing, but Gillian once again convinced him that they've came this far and should continue.
+
+Finding the [meteorite](../items/meteoric/meteorite.md) crater in the bottom of the valley, [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md) walked into the [Meteoric Mind](../creatures/meteoric-mind.md)'s trap, drawn in by the appearance of the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md). As the [meteoric dust](../items/meteoric/meteoric-dust.md) comprising the crater floor began to stir and [Meteoric Hunters](../creatures/meteoric-hunter.md) were constructed, the squad held their ground and fought.
+
+[Cherish Loweswater](../characters/cherish-loweswater.md) was quickly knocked unconscious and sank into the dust. [Elrick Loweswater](../characters/elrick-loweswater.md) reacted in anguish by wild shaping into a white dire wolf and going on the attack, while [Scratch on Stone](../characters/scratch-on-stone.md) attempted to pull Cherish out. [Gillian Close](../characters/gillian-close.md) was focused by the [Meteoric Hunters](../creatures/meteoric-hunter.md), dying instantly to a blade arm thrust through the front of her head.
+
+The [Meteoric Hunters](../creatures/meteoric-hunter.md) then turned their attention to Scratch, pushing him to the ground and pinning him there. The [meteoric dust](../items/meteoric/meteoric-dust.md) swelled and ripped at his left side, taking his arm, left eye, and much of his fur & skin. His magic sword [Verlust](../items/magic/verlust.md), held in the arm he lost, was lost to the crater. Elrick charged in, killing one of the hunters in the process, before grabbing Scratch with his teeth and escaping with him. The remaining [Meteoric Hunter](../creatures/meteoric-hunter.md) attempted to give chase but its damaged legs disintegrated, allowing the pair a chance to slip away and out of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md).
+
+Elrick dragged Scratch to a hiding spot amongst the treeline on the north edge of the [Tresenda Pass](../places/roads/tresenda-pass.md) valley, placing him in a cliffside inset for protection from the elements. He found himself unable to exit his wild shape due to the traumatic loss of his wife Cherish and the subsequent events. Staying a wolf for longer than expected made it difficult for him to tell whether he was a person or an animal.
+
+Over the next week or so, Elrick hunted game for himself and Scratch to eat, having to rip meat from bone and drop it into Scratch's mouth for him. At one point the dire wolf rips open Scratch's backpack in an attempt to provide Scratch with water, but is unable to uncork the waterskin, and Scratch isn't conscious enough to do it himself.
+
 ### [AA12](../sessions/AA12.md)
 
 After returning to [Northhaven](../places/cities/northhaven.md), [Bryce Morton](../characters/bryce-morton.md) gives [Canary squad](../organisations/government/astorrel/squads/canary-squad.md), now including [Yialdred Korina](../characters/yialdred-korina.md) and lead by [Ahsha Sallas](../characters/ahsha-sallas.md), their next mission. Following their exploits in [Eskrigg](../places/cities/eskrigg.md) ([Syntenne Spies in Eskrigg](ended/syntenne-spies-in-eskrigg.md)), which he does not know the details of, he explains that he is sending them on a mission far from [Northhaven](../places/cities/northhaven.md) for their own good while the notoriety he perceives around them is high.
@@ -172,3 +190,6 @@ Arriving back at [Blittergate](../places/towns/blittergate.md), the dire wolf qu
 Marlene is shocked at the state of Scratch, dumbfounded that he is even alive. He orders Torbra to place him on a table inside while she and [Thanea Morlay](../characters/thanea-morlay.md) fetch medical supplies from [Fresk House](../places/buildings/houses/fresk-house.md).
 
 Once back at the inn Marlene begins examining Scratch's wounds while using Thanea as an assistant. When she applies Keoghtom's Ointment to his face, he screams and attempts to stand up. Torbra fails to hold him down, causing Marlene to pin him against his open shoulder wounds while she continues treatment.
+
+## Planning
+

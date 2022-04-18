@@ -100,7 +100,7 @@ World building and planning took place that winter, with session zero starting a
 
 Sessions were ran at 19:00 GMT every other Saturday. This time meant that the North American players were playing around the middle of the day.
 
-Adherence to the schedule was initially very strong, with no missed sessions until I took a break in May 2021 to move house. This time saw [Nature's Battle](../mechanics/roleplay/natures-battle.md) 27 used as a way to reduce my planning commitments across both campaigns while still maintaining regular sessions. A gap in sessions happened June/July 2021 following the death of my grandmother.
+Adherence to the schedule was initially very strong, with no missed sessions until I took a break in May 2021 to move house. This time saw [Nature's Battle 28](../storylines/ended/natures-battle-28.md) used as a way to reduce my planning commitments across both campaigns while still maintaining regular sessions. A gap in sessions happened June/July 2021 following the death of my grandmother.
 
 Towards the end of 2021 sessions were cancelled for various reasons, mostly due to low energy from the players and myself. This continued trend threatened the campaign as I doubted my resolve to push through. Anxiety over whether the next session would even take place made it difficult to plan.
 
@@ -108,7 +108,7 @@ Towards the end of 2021 sessions were cancelled for various reasons, mostly due 
 
 #### [Brooke](../players/brooke.md) → [Chloe](../players/chloe.md)
 
-Just prior to [Nature's Battle](../mechanics/roleplay/natures-battle.md) 27, [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) were given their next mission. This would see [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) as acting [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) on a mission to investigate [Astornox](../organisations/government/astornox/astornox.md) / [Astorrel](../organisations/government/astorrel/astorrel.md) relationships in [Ulburn](../places/villages/ulburn.md).
+Just prior to [Nature's Battle 28](../storylines/ended/natures-battle-28.md), [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) were given their next mission. This would see [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) as acting [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) on a mission to investigate [Astornox](../organisations/government/astornox/astornox.md) / [Astorrel](../organisations/government/astorrel/astorrel.md) relationships in [Ulburn](../places/villages/ulburn.md).
 
 [Brooke](../players/brooke.md) was caught off guard by being placed into a leadership position within the campaign, triggering due to real life parallels. As a result the second half of [AA06](../sessions/AA06.md) was padded out to avoid starting that mission, especially as the tournament was due to start next session.
 
@@ -118,7 +118,7 @@ I offered a spot on the campaign to [Chloe](../players/chloe.md), who previously
 
 #### [Logan](../players/logan.md) → [Brooke](../players/brooke.md)
 
-Following [Nature's Battle](../mechanics/roleplay/natures-battle.md) 27, [Logan](../players/logan.md) did not respond when questioned about attending the next session, and didn't show up at the scheduled time. With [Lily](../players/lily.md)'s help we attempted to reach out to her as we grew increasingly worried about her well being.
+Following [Nature's Battle 28](../storylines/ended/natures-battle-28.md), [Logan](../players/logan.md) did not respond when questioned about attending the next session, and didn't show up at the scheduled time. With [Lily](../players/lily.md)'s help we attempted to reach out to her as we grew increasingly worried about her well being.
 
 While we weren't able to interact with [Logan](../players/logan.md) directly, we observed that she deleted her Instagram account, then eventually left the Overlapping Interests Discord server before deleting her Discord account on a separate date. This suggested a clear wish to disappear and ghost us. Her decision was reluctantly accepted.
 
