@@ -2,20 +2,25 @@
 
 |||
 | --- | --- |
-| **Name** | Foltra Gerketick | character.3
+| **Name** | Foltra Gerketick | character.4
 | **Lineage** | Gnome |
 | **Pronouns** | she/her |
 | **Age** | |
 | **Class** | |
+| **Background** | |
 | **Worship** | |
 | **Relations** | |
 | **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) |
-| **Role** | Training |
-| **Commanding Officer** | [Levelle Tristwix](levelle-tristwix.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | |
+
+## Summary
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) | Training | [Levelle Tristwix](levelle-tristwix.md) ||

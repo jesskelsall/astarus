@@ -2,21 +2,17 @@
 
 |||
 | --- | --- |
-| **Name** | Kleachanshtojak Yrlyassa | character.3
+| **Name** | Kleachanshtojak Yrlyassa | character.4
 | **Lineage** | Dragonborn |
 | **Pronouns** | she/her |
 | **Age** | 27 |
 | **Class** | |
+| **Background** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md) |
-|||
+| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) |
-| **Role** | Dragons |
-| **Commanding Officer** | [Levelle Tristwix](levelle-tristwix.md) |
-| **Subordinates** |  |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | |
 
@@ -25,19 +21,8 @@
 Her clan name is pronounced: *klee-chansh-toe-[jack](../players/jack.md)*.  
 Her name is pronounced: *yerl-yassa*.
 
-## Characteristics
+## Military Record
 
-| | |
-| --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
-| | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) | Dragons | [Levelle Tristwix](levelle-tristwix.md) ||

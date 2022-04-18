@@ -4,27 +4,41 @@
 
 |||
 | --- | --- |
-| **Name** | Legacy Aranius | character.3
+| **Name** | Legacy Aranius | character.4
 | **Lineage** | Tiefling |
 | **Pronouns** | he/him |
 | **Age** | 53 |
 | **Class** | |
+| **Background** | |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
 | **Relations** | |
-| **Places** | [Eskrigg](../places/cities/eskrigg.md) |
-|||
+| **Places** | [Eskrigg](../places/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md) Stronghold |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
-| **Rank** | [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) |
-| **Role** | Settlements / [Eskrigg](../places/cities/eskrigg.md) |
-| **Commanding Officer** | [Overon Nightingale](overon-nightingale.md) |
-| **Subordinates** | [Tanin Arnous](tanin-arnous.md) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
-| **Image ID** | `5e9c14168c5fb14c` |
+| **Image ID** | |
 
 ## Summary
 
 Legacy Aranius is a stern [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) who runs [Eskrigg](../places/cities/eskrigg.md) with an iron fist. He expects much of his subordinates and is hash toward them, but is also a suck-up to his superiors. His goal is to get promoted to [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Eskrigg](../places/cities/eskrigg.md) | [Overon Nightingale](overon-nightingale.md) | [Tanin Arnous](tanin-arnous.md) |
+
+## Character Rolls
+
+### Ability Scores
+
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
 
 ## Characteristics
 

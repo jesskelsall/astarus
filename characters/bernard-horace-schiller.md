@@ -1,22 +1,18 @@
 # Bernard Horace Schiller
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
-
 |||
 | --- | --- |
-| **Name** | Bernard Horace Schiller | character.3
+| **Name** | Bernard Horace Schiller | character.4
 | **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 54 |
 | **Class** | |
+| **Background** | |
 | **Worship** | [Nilliski](nilliski.md) |
 | **Relations** | [Noon Schiller](noon-schiller.md) (son)<br>[Schiller family](../organisations/schiller-family.md) (family) |
-| **Places** | Ballabeg (birthplace) |
-|||
+| **Places** | Baldrine<br>Ballabeg (birthplace) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
-| **Rank** | [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) |
-| **Role** | Settlements / Baldrine |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
 |||
 | **Image ID** | |
 
@@ -24,21 +20,9 @@
 
 Bernard Horace Schiller is the current head of the [Schiller family](../organisations/schiller-family.md). He is a cold and calculating man, expecting exemplary behaviour from family members, particularly [Noon Schiller](noon-schiller.md). Under his control the [Schiller family](../organisations/schiller-family.md) has seen their wealth grow further, with sales of [Schiller steel](../items/schiller-steel.md) expanding into the [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md).
 
-## Characteristics
+## Military Record
 
-| | |
-| --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
-| | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
-
-## History
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / Baldrine |||
+|| *Retired* ||||

@@ -24,13 +24,13 @@ Marlene Fresk is a stern and calculating medic assigned to [Blittergate](../plac
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) | Settlements / [Blittergate](../places/towns/blittergate.md) | TODO ||
+|| [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) | Settlements / [Blittergate](../places/towns/blittergate.md) | [Godrick Becker](godrick-becker.md) ||
 
 ## Characteristics
 
 | | |
 | --- | --- |
-| **Face** | Smooth pale skin, horizontal scar across nose and left cheek. Pointed jaw, cute features. | characteristics.2
+| **Face** | Smooth pale skin, brown eyes, horizontal scar across nose and left cheek. Pointed jaw, cute features. | characteristics.2
 | **Hair** | Straight black hair, shoulder length. Tidy cut. |
 | **Body** | 5'9" / 175cm. Thin build. |
 | **Clothes** | Leather dungarees and boots. White hemp jerkin.<br>Cream wool cowl fastened in middle of chest with aromatic cedar wooden doughnut pendant and twine. |

@@ -4,27 +4,29 @@
 
 |||
 | --- | --- |
-| **Name** | Overon Nightingale | character.3
+| **Name** | Overon Nightingale | character.4
 | **Lineage** | Human |
 | **Pronouns** | they/them |
 | **Age** | 41 |
 | **Class** | |
+| **Background** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | |
-|||
+| **Places** | [Northhaven Astornox Stronghold](../places/strongholds/northhaven-astornox-stronghold.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
-| **Rank** | [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md) |
-| **Role** | Settlements |
-| **Commanding Officer** | [Itharmund Steeleye](itharmund-steeleye.md) |
-| **Subordinates** | [Alistair Hawthorn](alistair-hawthorn.md) (Captain of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md))<br>[Aodhan ó Dochartaigh](aodhan-o-dochartaigh.md) (Captain of [Dunmore](../places/cities/dunmore.md))<br>[Eoghan Kavanagh](eoghan-kavanagh.md) (Captain of Eaglesfield)<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) (Captain of Iredale)<br>[Legacy Aranius](legacy-aranius.md) (Captain of [Eskrigg](../places/cities/eskrigg.md)) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
 | **Image ID** | `eea895a57e291184` |
 
 ## Summary
 
-TODO
+Overon Nightingale is the [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md) of Settlements, in charge of all civic government functions throughout the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md) | Settlements | [Itharmund Steeleye](itharmund-steeleye.md) | *Captains:*<br>[Alistair Hawthorn](alistair-hawthorn.md) ([Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md))<br>[Aodhan ó Dochartaigh](aodhan-o-dochartaigh.md) ([Dunmore](../places/cities/dunmore.md))<br>[Eoghan Kavanagh](eoghan-kavanagh.md) (Eaglesfield)<br>[Godrick Becker](godrick-becker.md) ([Blittergate](../places/towns/blittergate.md))<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) (Iredale)<br>[Legacy Aranius](legacy-aranius.md) ([Eskrigg](../places/cities/eskrigg.md)) |
 
 ## Characteristics
 

@@ -1,44 +1,25 @@
 # Kasston Tosslefront
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
-
 |||
 | --- | --- |
-| **Name** | Kasston Tosslefront | character.3
+| **Name** | Kasston Tosslefront | character.4
 | **Lineage** | Gnome |
 | **Pronouns** | he/him |
 | **Age** | 153 |
 | **Class** | |
+| **Background** | |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
 | **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
-|||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) |
-| **Role** | Urban Expansion |
-| **Commanding Officer** | [Levelle Tristwix](levelle-tristwix.md) |
-| **Subordinates** | [Linton Harkness](linton-harkness.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | |
 
 ## Summary
 
-TODO
+## Military Record
 
-## Characteristics
-
-| | |
-| --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
-| | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) | Urban Expansion | [Levelle Tristwix](levelle-tristwix.md) | [Linton Harkness](linton-harkness.md) |

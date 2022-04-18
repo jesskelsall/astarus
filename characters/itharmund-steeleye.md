@@ -4,27 +4,29 @@
 
 |||
 | --- | --- |
-| **Name** | Itharmund Steeleye | character.3
+| **Name** | Itharmund Steeleye | character.4
 | **Lineage** | Dwarf |
 | **Pronouns** | he/him |
 | **Age** | 181 |
 | **Class** | |
+| **Background** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | |
-|||
+| **Places** | [Northhaven Astornox Stronghold](../places/strongholds/northhaven-astornox-stronghold.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
-| **Rank** | [Astornox Commandant](../organisations/government/astornox/ranks/astornox-commandant.md) |
-| **Role** | |
-| **Commanding Officer** | [Anton Haverwick](anton-haverwick.md) |
-| **Subordinates** | [Overon Nightingale](overon-nightingale.md) (Major of Settlements)<br>[Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) (Major of Conscription) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
 | **Image ID** | `75330ea6f353349f` |
 
 ## Summary
 
-TODO
+Itharmund Steeleye is the [Astornox Commandant](../organisations/government/astornox/ranks/astornox-commandant.md), in charge of the largest organisation of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astornox Commandant](../organisations/government/astornox/ranks/astornox-commandant.md) || [Anton Haverwick](anton-haverwick.md) | *Majors:*<br>[Overon Nightingale](overon-nightingale.md) (Settlements)<br>[Reeds in the Desert Oasis](reeds-in-the-desert-oasis.md) (Conscription) |
 
 ## Characteristics
 

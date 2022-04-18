@@ -1,24 +1,18 @@
 # Eoghan Kavanagh
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
-
 |||
 | --- | --- |
-| **Name** | Eoghan Kavanagh | character.3
+| **Name** | Eoghan Kavanagh | character.4
 | **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 56 |
 | **Class** | |
+| **Background** | |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
 | **Relations** | [Aisling Kavanagh](aisling-kavanagh.md) (daughter)<br>[Diarmuid Kavanagh](diarmuid-kavanagh.md) (son) |
 | **Places** | Eaglesfield |
-|||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
-| **Rank** | [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) |
-| **Role** | Settlements / Eaglesfield |
-| **Commanding Officer** | [Overon Nightingale](overon-nightingale.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
 | **Image ID** | |
 
@@ -26,19 +20,8 @@
 
 Eoghan Kavanagh is a strict father with high expectations of his two children.
 
-## Characteristics
+## Military Record
 
-| | |
-| --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
-| | |
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / Eaglesfield | [Overon Nightingale](overon-nightingale.md) ||

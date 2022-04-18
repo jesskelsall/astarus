@@ -4,21 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Levelle Tristwix | character.3
+| **Name** | Levelle Tristwix | character.4
 | **Lineage** | Halfling |
 | **Pronouns** | they/them |
 | **Age** | 57 |
 | **Class** | Druid |
+| **Background** | |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | [Grant Thackeray](grant-thackeray.md) (old squad-mate, friend) |
 | **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
-|||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Commandant](../organisations/government/astorrel/ranks/astorrel-commandant.md) |
-| **Role** | |
-| **Commanding Officer** | [Polgast Mouldylog](polgast-mouldylog.md) |
-| **Subordinates** | [Kasston Tosslefront](kasston-tosslefront.md) (Major of Urban Expansion)<br>[Mindira Flibfae](mindira-flibfae.md) (Major of Forests) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `29b6e2129e252c9f` |
 
@@ -27,6 +23,12 @@
 Levelle Tristwix is the [Astorrel Commandant](../organisations/government/astorrel/ranks/astorrel-commandant.md) in charge of the organisation's day-to-day operations.
 
 She is a politically savvy commandant who is a big believer in the [Astorrel](../organisations/government/astorrel/astorrel.md). Despite her slow and posh manner of speaking, she easily commands a room. She'd like to see less conflict with the [Astornox](../organisations/government/astornox/astornox.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Commandant](../organisations/government/astorrel/ranks/astorrel-commandant.md) || [Polgast Mouldylog](polgast-mouldylog.md) | *Majors:*<br>[Foltra Gerketick](foltra-gerketick.md) (Training)<br>[Kasston Tosslefront](kasston-tosslefront.md) (Urban Expansion)<br>[Kleachanshtojak Yrlyassa](kleachanshtojak-yrlyassa.md) (Dragons)<br>[Mindira Flibfae](mindira-flibfae.md) (Forests)<br>[Quinn Mac Domhnail](quinn-mac-domhnail.md) (Phenomena) |
 
 ## Characteristics
 

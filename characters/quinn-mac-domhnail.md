@@ -4,21 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Quinn Mac Domhnail | character.3
+| **Name** | Quinn Mac Domhnail | character.4
 | **Lineage** | Human |
 | **Pronouns** | he/him |
 | **Age** | 43 |
 | **Class** | |
+| **Background** | |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | |
 | **Places** | |
-|||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) |
-| **Role** | Phenomena |
-| **Commanding Officer** | [Levelle Tristwix](levelle-tristwix.md) |
-| **Subordinates** | [Elysia Vanderboss](elysia-vanderboss.md) (Meteoric) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `061d35828fe6b2d5` |
 
@@ -27,6 +23,12 @@
 Quinn Mac Domhnail is a mysterious and foreboding [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md), in charge of [Astorrel](../organisations/government/astorrel/astorrel.md) operations to expand the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md)'s understanding of the world. His insatiable curiosity for new knowledge and pride in Astor manifests as a stern and demanding but calm persona.
 
 His surname is anglicised: *McDonnell*.
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Major](../organisations/government/astorrel/ranks/astorrel-major.md) | Phenomena | [Levelle Tristwix](levelle-tristwix.md) | [Elysia Vanderboss](elysia-vanderboss.md) (Meteoric) |
 
 ## Characteristics
 
