@@ -193,3 +193,30 @@ Once back at the inn Marlene begins examining Scratch's wounds while using Thane
 
 ## Planning
 
+[Cherish Loweswater](../characters/cherish-loweswater.md) and [Gillian Close](../characters/gillian-close.md) are dead, having died in [Upper Tresenda](../places/plains-valleys/upper-tresenda.md).
+
+### [Elrick Loweswater](../characters/elrick-loweswater.md)
+
+In [Blittergate](../places/towns/blittergate.md), [Godrick Becker](../characters/godrick-becker.md) will insist that [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) step aside so that his [Astornox](../organisations/government/astornox/astornox.md) can put down the dire wolf ([Elrick Loweswater](../characters/elrick-loweswater.md)) in their care, seeing it as nothing more than a threat to the town.
+
+If they accept, [Astornox guards](../organisations/government/astornox/ranks/astornox-guard.md) will fight the dire wolf and ultimately "kill" it, causing Elrick's wild shape to end. The sudden switch after so long wild shaped will knock him unconscious for at least 6 hours, after which he will attempt to communicate in sign language or ask for writing implements. He is able to recant an abridged version of events concerning the fate of [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md).
+
+If they refuse he will order [Marlene Fresk](../characters/marlene-fresk.md) to stop treating [Scratch on Stone](../characters/scratch-on-stone.md) and return to [Blittergate Astornox Stronghold](../places/strongholds/blittergate-astornox-stronghold.md). Beyond this point the [Blittergate](../places/towns/blittergate.md) [Astornox](../organisations/government/astornox/astornox.md) will refuse to help further, declaring Scratch's condition an [Astorrel](../organisations/government/astorrel/astorrel.md) matter.
+
+### [Scratch on Stone](../characters/scratch-on-stone.md)
+
+[Scratch on Stone](../characters/scratch-on-stone.md) requires urgent medical attention. The healing magic applied by [Allisa Balsatra](../characters/allisa-balsatra.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) has not saved his life, it has merely prolonged his time before death.
+
+If [Marlene Fresk](../characters/marlene-fresk.md) is able to provide medical attention (see above), she is able to save Scratch's life. In order to do this she insists on keeping him at [Fresk House](../places/buildings/houses/fresk-house.md) for a prolonged period of recovery, meaning [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) will need to leave him in her care while they return to [Northhaven](../places/cities/northhaven.md).
+
+If [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) stay another night in [Blittergate](../places/towns/blittergate.md), [Effie Silttooth](../characters/effie-silttooth.md) will speak to Saoirse, noting that her new friend won't live long enough to provide a lasting friendship. She will offer to save his life if she discards the [Citrine Eye Necklace](../items/magic/citrine-eye-necklace.md) by dropping it in the [Blittergate](../places/towns/blittergate.md) well before dawn.
+
+If Saoirse does as Effie asks, Scratch will be lucid in the morning, having made a miraculous recovery. His bloody and scarred wounds will still need addressing, but these aren't life threatening. He is then able to tell the party about [Elrick Loweswater](../characters/elrick-loweswater.md) and what happened to [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md) in [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), having regained his memories. He offers the party [Verlust](../items/magic/verlust.md) as thanks for saving his life.
+
+|||||
+|---|---|---|---|
+| **Saviour** | [Effie Silttooth](../characters/effie-silttooth.md) | [Marlene Fresk](../characters/marlene-fresk.md) | Nobody |
+| **Lucidity** | Fully conscious | Briefly, with healing magic. | Unconscious |
+| **Offering** | [Verlust](../items/magic/verlust.md) | - | - |
+| **Survives?** | Yes | Yes | No |
+| **Future** | Warlock<br>(The Hexblade) | Paladin<br>(Oath of the Watchers) | - |
