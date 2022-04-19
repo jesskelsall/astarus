@@ -4,7 +4,7 @@
 | --- | --- |
 | **To** | [Purple Rain](../campaigns/C1-purple-rain.md) | letter.1
 | **From** | [Mergin Thorgus](../characters/mergin-thorgus.md) |
-| **Date** | 312-5-06 |
+| **Date** | 312-5-06 [PA](../history/calendars/astorian-calendar.md) |
 | **Session Given** | [PR19](../sessions/PR19.md) |
 |||
 | **Image ID** | `70b3f1fb4465ba45` |

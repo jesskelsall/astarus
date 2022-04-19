@@ -4,7 +4,7 @@
 | --- | --- |
 | **To** | [Thanea Morlay](../characters/thanea-morlay.md) | letter.1
 | **From** | [Corville Thornox](../characters/corville-thornox.md) |
-| **Date** | 312-7-04 |
+| **Date** | 312-7-04 [PA](../history/calendars/astorian-calendar.md) |
 | **Session Given** | [PR36](../sessions/PR36.md) |
 |||
 | **Image ID** | `27de71cb07d94519` |

@@ -4,7 +4,7 @@
 | --- | --- |
 | **To** | [Noon Schiller](../characters/noon-schiller.md) | letter.1
 | **From** | [Bernard Horace Schiller](../characters/bernard-horace-schiller.md) |
-| **Date** | 312-6-28 |
+| **Date** | 312-6-28 [PA](../history/calendars/astorian-calendar.md) |
 | **Session Given** | [AA10](../sessions/AA10.md) |
 |||
 | **Image ID** | `7e982bcd540eccf0` |

@@ -4,7 +4,7 @@
 | --- | --- |
 | **To** | [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) | letter.1
 | **From** | [Liabella Peacock](../characters/liabella-peacock.md) |
-| **Date** | 312-6-17 |
+| **Date** | 312-6-17 [PA](../history/calendars/astorian-calendar.md) |
 | **Session Given** | [PR21](../sessions/PR21.md) |
 |||
 | **Image ID** | `6cacb0fce9de619b` |

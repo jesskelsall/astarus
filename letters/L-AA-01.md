@@ -4,7 +4,7 @@
 | --- | --- |
 | **To** | [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) | letter.1
 | **From** | [Liabella Peacock](../characters/liabella-peacock.md) |
-| **Date** | 312-6-02 |
+| **Date** | 312-6-02 [PA](../history/calendars/astorian-calendar.md) |
 | **Session Given** | [AA06](../sessions/AA06.md) |
 |||
 | **Image ID** | `6e18c8fc837a1d16` |
