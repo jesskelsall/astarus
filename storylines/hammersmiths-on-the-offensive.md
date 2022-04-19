@@ -13,7 +13,7 @@ The [Hammersmiths](../organisations/criminals/hammersmiths.md) have began openly
 
 ### [MC01M](../sessions/MC01M.md)
 
-In [Creek](../characters/creek.md)'s letter to [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) ([MC01M-L-1](../letters/MC01M-L-1.md)), [Creek](../characters/creek.md) added a secret message in invisible ink that warned the pair of [Hammersmiths](../organisations/criminals/hammersmiths.md) closing in on [Murkwallow](../places/cities/murkwallow.md), and to be careful.
+In [Creek](../characters/creek.md)'s letter to [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) ([L-MC-04](../letters/L-MC-04.md)), [Creek](../characters/creek.md) added a secret message in invisible ink that warned the pair of [Hammersmiths](../organisations/criminals/hammersmiths.md) closing in on [Murkwallow](../places/cities/murkwallow.md), and to be careful.
 
 After returning to [Tabaxi's Folly](../places/buildings/tabaxis-folly.md), a young female human Hammersmith assassin tried to kill [Wedge](../characters/wedge.md) with a shortsword. Kera and Marik fought her off, knocking her unconscious and tying her up. [Creek](../characters/creek.md) then entered the bar from his back room and executed her by slitting her throat with a butterfly knife.
 

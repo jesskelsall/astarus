@@ -13,7 +13,7 @@ After [Noon Schiller](../../characters/noon-schiller.md) competed in [Nature's B
 
 ## [AA10](../../sessions/AA10.md)
 
-On the day of the [Nature's Battle 28](natures-battle-28.md) final, [Noon Schiller](../../characters/noon-schiller.md) comes down for breakfast in the [Eskrigg Astorrel Stronghold](../../places/strongholds/eskrigg-astorrel-stronghold.md) and is given a letter ([AA10-L-1](../../letters/AA10-L-1.md)) by an [Astorrel member](../../organisations/government/astorrel/ranks/astorrel-member.md). This provides Noon with the "family rate" prices for all weapons offered, as well as the provision to gain one free of charge for his own use.
+On the day of the [Nature's Battle 28](natures-battle-28.md) final, [Noon Schiller](../../characters/noon-schiller.md) comes down for breakfast in the [Eskrigg Astorrel Stronghold](../../places/strongholds/eskrigg-astorrel-stronghold.md) and is given a letter ([L-AA-02](../../letters/L-AA-02.md)) by an [Astorrel member](../../organisations/government/astorrel/ranks/astorrel-member.md). This provides Noon with the "family rate" prices for all weapons offered, as well as the provision to gain one free of charge for his own use.
 
 He informs [Ahsha Sallas](../../characters/ahsha-sallas.md) and [Ephaine Seren](../../characters/ephaine-seren.md) that he has the means of acquiring [Schiller steel](../../items/schiller-steel.md) should they want to buy weapons made of it. Ahsha realises that Noon is part of the family that makes the weapons. The party gets excited at the prospect and chooses to spend their morning looking at examples of the weapons.
 

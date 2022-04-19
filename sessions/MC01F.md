@@ -11,7 +11,7 @@
 
 ## A Letter for Vētrall
 
-While away from [Trest](../places/towns/trest.md), [Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter from [Hanz Peacemaker](../characters/hanz-peacemaker.md) ([MC01F-L-1](../letters/MC01F-L-1.md)). It details the death of [Vulpes Geen](../characters/vulpes-geen.md), with whom Vētrall was close. Hanz informs Vētrall of the Vulpes family's funeral plans and urges them to return to [The Fox Hole](../places/buildings/the-fox-hole.md) as soon as possible.
+While away from [Trest](../places/towns/trest.md), [Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter from [Hanz Peacemaker](../characters/hanz-peacemaker.md) ([L-MC-01](../letters/L-MC-01.md)). It details the death of [Vulpes Geen](../characters/vulpes-geen.md), with whom Vētrall was close. Hanz informs Vētrall of the Vulpes family's funeral plans and urges them to return to [The Fox Hole](../places/buildings/the-fox-hole.md) as soon as possible.
 
 Vētrall begins making their way back to [Trest](../places/towns/trest.md).
 
@@ -72,7 +72,7 @@ Vētrall takes a piece himself. Understanding which pieces will be less bitter, 
 
 ## A Request From Nearby
 
-As dinner wraps up and plates are taken away, [Aneni Veomelo](../characters/aneni-veomelo.md) returns to speak to the pair. She explains that [Familia Vulpes](../organisations/familia-vulpes.md) recently received a letter from [Trubska](../places/villages/trubska.md) asking for help. She passes the already opened letter to [Vētrall Astérr](../characters/vetrall-asterr.md) ([MC01F-L-2](../letters/MC01F-L-2.md)). They read [Oronar Redtooth](../characters/oronar-redtooth.md)'s words about a brown bear plaguing the villagers and the call for help.
+As dinner wraps up and plates are taken away, [Aneni Veomelo](../characters/aneni-veomelo.md) returns to speak to the pair. She explains that [Familia Vulpes](../organisations/familia-vulpes.md) recently received a letter from [Trubska](../places/villages/trubska.md) asking for help. She passes the already opened letter to [Vētrall Astérr](../characters/vetrall-asterr.md) ([L-MC-02](../letters/L-MC-02.md)). They read [Oronar Redtooth](../characters/oronar-redtooth.md)'s words about a brown bear plaguing the villagers and the call for help.
 
 Aneni explains to the pair that she held onto this letter just for them as an introductory adventure through which Vētrall could show [Valan Shadowgaze](../characters/valan-shadowgaze.md) the ropes. Upon their success and return she will present the pair with coins:
 
@@ -259,7 +259,7 @@ Early the following morning, [Vulpes Geen](../characters/vulpes-geen.md)'s last 
 
 When [Vētrall Astérr](../characters/vetrall-asterr.md) finally emerges for breakfast, they find [Valan Shadowgaze](../characters/valan-shadowgaze.md) already up. [Hanz Peacemaker](../characters/hanz-peacemaker.md) is starting his shift as Father of the Door for the day but notices Vētrall and comes over to speak with them.
 
-He hands Vētrall a letter ([MC01F-L-3](../letters/MC01F-L-3.md)), plainly explaining that this came with Geen's will. Hanz doesn't cause any commotion, trying to keep the letter private out of respect for Vētrall.
+He hands Vētrall a letter ([L-MC-03](../letters/L-MC-03.md)), plainly explaining that this came with Geen's will. Hanz doesn't cause any commotion, trying to keep the letter private out of respect for Vētrall.
 
 Vētrall takes the letter to a private corner, opening it and reading it. It is a letter from [Vulpes Geen](../characters/vulpes-geen.md) that contains an ornate key ([MC01F-I-3](../cards/MC01F-I-3.md)) for a strongbox (`FV-1286`) in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/cities/starnov.md). Geen warns Vētrall not to open it inside the building due to his personal feelings about the aura of the place.
 

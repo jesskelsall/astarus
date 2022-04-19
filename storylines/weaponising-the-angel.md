@@ -13,7 +13,7 @@ After seeing [Thanea Morlay](../characters/thanea-morlay.md) compete in [Nature'
 
 ### [PR36](../sessions/PR36.md)
 
-On return to [Northhaven](../places/cities/northhaven.md), [Elysia Vanderboss](../characters/elysia-vanderboss.md) informs [Thanea Morlay](../characters/thanea-morlay.md) that she has received a letter ([PR36-L-3](../letters/PR36-L-3.md)). She waits to open it in private. After doing so and confused by the wording concerning her invite of an audience with General Supreme [Corville Thornox](../characters/corville-thornox.md), she accidentally accepts the invite, getting teleported to [Supreme Hall](../places/buildings/supreme-hall.md).
+On return to [Northhaven](../places/cities/northhaven.md), [Elysia Vanderboss](../characters/elysia-vanderboss.md) informs [Thanea Morlay](../characters/thanea-morlay.md) that she has received a letter ([L-PR-06](../letters/L-PR-06.md)). She waits to open it in private. After doing so and confused by the wording concerning her invite of an audience with General Supreme [Corville Thornox](../characters/corville-thornox.md), she accidentally accepts the invite, getting teleported to [Supreme Hall](../places/buildings/supreme-hall.md).
 
 ### [PR36T](../sessions/PR36T.md)
 

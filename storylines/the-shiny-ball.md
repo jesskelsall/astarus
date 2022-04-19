@@ -13,7 +13,7 @@
 
 ### [MC01F](../sessions/MC01F.md)
 
-[Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter ([MC01F-L-1](../letters/MC01F-L-1.md)) from [Hanz Peacemaker](../characters/hanz-peacemaker.md) informing them that [Vulpes Geen](../characters/vulpes-geen.md) has passed away, and that they should come back to [The Fox Hole](../places/buildings/the-fox-hole.md) for his funeral. Vētrall does so.
+[Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter ([L-MC-01](../letters/L-MC-01.md)) from [Hanz Peacemaker](../characters/hanz-peacemaker.md) informing them that [Vulpes Geen](../characters/vulpes-geen.md) has passed away, and that they should come back to [The Fox Hole](../places/buildings/the-fox-hole.md) for his funeral. Vētrall does so.
 
 While there, Hanz informs Vētrall that the Vulpes family is starting to bicker about what will happen to Geen's possessions. Vētrall finds the situation sad and not in the spirit of his legacy.
 
@@ -25,7 +25,7 @@ Vētrall makes their way to [Starnov](../places/cities/starnov.md) with their st
 
 ### [MC02](../sessions/MC02.md)
 
-Once in [Starnov](../places/cities/starnov.md), [Vētrall Astérr](../characters/vetrall-asterr.md) goes alone to the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) to unlock [Vulpes Geen](../characters/vulpes-geen.md)'s lockbox. They enter and proceed to the locker, opening it to find a lead lined box ([MC02-I-1](../cards/MC02-I-1.md)) containing [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) and a letter from Geen ([MC02-L-1](../letters/MC02-L-1.md)). They add the box to their backpack before leaving.
+Once in [Starnov](../places/cities/starnov.md), [Vētrall Astérr](../characters/vetrall-asterr.md) goes alone to the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) to unlock [Vulpes Geen](../characters/vulpes-geen.md)'s lockbox. They enter and proceed to the locker, opening it to find a lead lined box ([MC02-I-1](../cards/MC02-I-1.md)) containing [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) and a letter from Geen ([L-MC-06](../letters/L-MC-06.md)). They add the box to their backpack before leaving.
 
 When [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) cause a scene to try and steal what they think is [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md) from Vētrall, the sphere malfunctions, causing Chausain Guards to appear in the street, surrounding the group including [Valan Shadowgaze](../characters/valan-shadowgaze.md) who came across the commotion at the perfect time.
 
@@ -37,7 +37,7 @@ Eventually only [Valan Shadowgaze](../characters/valan-shadowgaze.md) remains. A
 
 The party are teleported to the middle of the Kas'ran Desert by the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md), now mechanically broken and inert ([MC02-I-3](../cards/MC02-I-3.md)). At this point Vētrall hasn't opened the chest at all.
 
-When the party wake up in [Dune's House](../places/buildings/houses/dunes-house.md) in [Kuv'narash](../places/villages/kuvnarash.md), Vētrall excuses themself to open the box in the privacy of a nearby outhouse. They find [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) and a letter from [Vulpes Geen](../characters/vulpes-geen.md) ([MC02-L-1](../letters/MC02-L-1.md)) explaining his storied relationship with the sphere.
+When the party wake up in [Dune's House](../places/buildings/houses/dunes-house.md) in [Kuv'narash](../places/villages/kuvnarash.md), Vētrall excuses themself to open the box in the privacy of a nearby outhouse. They find [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) and a letter from [Vulpes Geen](../characters/vulpes-geen.md) ([L-MC-06](../letters/L-MC-06.md)) explaining his storied relationship with the sphere.
 
 ### [MC03](../sessions/MC03.md)
 

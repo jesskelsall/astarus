@@ -13,7 +13,7 @@
 
 ### [AA10](../../sessions/AA10.md)
 
-After [Noon Schiller](../../characters/noon-schiller.md) reads the letter given to him ([AA10-L-1](../../letters/AA10-L-1.md)), [Nills](../../characters/nills.md) appears to nudge Noon towards claiming the [free Schiller steel](../ended/free-schiller-steel.md) weapon for one of his new [Astorrel squad hands](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md).
+After [Noon Schiller](../../characters/noon-schiller.md) reads the letter given to him ([L-AA-02](../../letters/L-AA-02.md)), [Nills](../../characters/nills.md) appears to nudge Noon towards claiming the [free Schiller steel](../ended/free-schiller-steel.md) weapon for one of his new [Astorrel squad hands](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md).
 
 *[Nills](../../characters/nills.md):*
 > Aww, I think he's the one that's soft! I was beginning to think that father didn't love you. I don't think you need his charity, do you [brother light](../../characters/noon-schiller.md)? Though I'm not too sure about your new friends...

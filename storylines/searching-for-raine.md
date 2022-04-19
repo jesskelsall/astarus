@@ -13,7 +13,7 @@ In trying to investigate [Mémoire de Défaite](../items/echneshment/memory-sphe
 
 ### [MC02](../sessions/MC02.md)
 
-[Vētrall Astérr](../characters/vetrall-asterr.md) opens the lead lined box, discovering [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) left to them by [Vulpes Geen](../characters/vulpes-geen.md). They open the letter ([MC02-L-1](../letters/MC02-L-1.md)) and read it. Here they find mention of "Raine in [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md)", but do not recognise the name.
+[Vētrall Astérr](../characters/vetrall-asterr.md) opens the lead lined box, discovering [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) left to them by [Vulpes Geen](../characters/vulpes-geen.md). They open the letter ([L-MC-06](../letters/L-MC-06.md)) and read it. Here they find mention of "Raine in [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md)", but do not recognise the name.
 
 ### [MC05](../sessions/MC05.md)
 

@@ -85,7 +85,7 @@ While on the road between [Blittergate](../../places/towns/blittergate.md) and [
 
 ### [PR36](../../sessions/PR36.md)
 
-[Thanea Morlay](../../characters/thanea-morlay.md) receives a letter ([PR36-L-3](../../letters/PR36-L-3.md)) inviting her to an audience with [Corville Thornox](../../characters/corville-thornox.md), General Supreme of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It states that he wishes to discuss [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s performance in [Nature's Battle 28](natures-battle-28.md), but this is a half-truth.
+[Thanea Morlay](../../characters/thanea-morlay.md) receives a letter ([L-PR-06](../../letters/L-PR-06.md)) inviting her to an audience with [Corville Thornox](../../characters/corville-thornox.md), General Supreme of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It states that he wishes to discuss [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s performance in [Nature's Battle 28](natures-battle-28.md), but this is a half-truth.
 
 Thanea accidentally activates the letter, causing the magic within it to teleport her into the Tower of Ast.
 

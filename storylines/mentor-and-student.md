@@ -43,7 +43,7 @@ When Nacnar asks of their adventures together so far, Vētrall insists they go s
 
 ### [MC05](../sessions/MC05.md)
 
-[Nacnar Morwesyrr](../characters/nacnar-morwesyrr.md) leads [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) back to Raine's House where Vētrall can speak of the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md) in private. Here they confide in Nacnar everything that happened except for the specifics of [Vulpes Geen](../characters/vulpes-geen.md)'s letter ([MC01F-L-3](../letters/MC01F-L-3.md)) and [Oriel Elsandoral](../characters/oriel-elsandoral.md)'s patronage.
+[Nacnar Morwesyrr](../characters/nacnar-morwesyrr.md) leads [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) back to Raine's House where Vētrall can speak of the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md) in private. Here they confide in Nacnar everything that happened except for the specifics of [Vulpes Geen](../characters/vulpes-geen.md)'s letter ([L-MC-03](../letters/L-MC-03.md)) and [Oriel Elsandoral](../characters/oriel-elsandoral.md)'s patronage.
 
 Nacnar encourages Vētrall to do what they want with the situation presented to them, making it clear that they must make the decision for themself. Vētrall decides they'd like to finish what Geen started and honour their memory by solving the mystery he entrusted them with.
 
@@ -59,6 +59,6 @@ Nacnar sees the pair out of her house before parting ways with them.
 
 Valan makes it clear that he already knows how to climb one, having hailed from somewhere with an abundance of trees. When Vētrall advises him to be careful of wasps' nests, Valan begins an argument, pointing out that Vētrall hasn't taught him anything up to this point.
 
-When Valan leaves [the Nasty Huntress](../places/buildings/inns-taverns/the-nasty-huntress.md) abruptly and Vētrall receives his letter ([MC06-L-1](../letters/MC06-L-1.md)) informing them of his intention to leave on mysterious business before returning to them, Vētrall calls Valan a bad student.
+When Valan leaves [the Nasty Huntress](../places/buildings/inns-taverns/the-nasty-huntress.md) abruptly and Vētrall receives his letter ([L-MC-08](../letters/L-MC-08.md)) informing them of his intention to leave on mysterious business before returning to them, Vētrall calls Valan a bad student.
 
 [Keranios](../characters/keranios.md) and [Nainarv Hardhelm](../characters/nainarv-hardhelm.md) rebuff this, making Vētrall aware that they are treating an adult like a child, discounting his lived experience prior to joining [Familia Vulpes](../organisations/familia-vulpes.md).

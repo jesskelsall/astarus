@@ -13,7 +13,7 @@
 
 ### [MC01F](../sessions/MC01F.md)
 
-[Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter ([MC01F-L-1](../letters/MC01F-L-1.md)) from [Hanz Peacemaker](../characters/hanz-peacemaker.md) informing them that [Vulpes Geen](../characters/vulpes-geen.md) has passed away, and that they should come back to [The Fox Hole](../places/buildings/the-fox-hole.md) for his funeral. Vētrall does so.
+[Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter ([L-MC-01](../letters/L-MC-01.md)) from [Hanz Peacemaker](../characters/hanz-peacemaker.md) informing them that [Vulpes Geen](../characters/vulpes-geen.md) has passed away, and that they should come back to [The Fox Hole](../places/buildings/the-fox-hole.md) for his funeral. Vētrall does so.
 
 While there, Hanz informs Vētrall that the Vulpes family is starting to bicker about what will happen to Geen's possessions. Vētrall finds the situation sad and not in the spirit of his legacy.
 
@@ -21,7 +21,7 @@ After returning from [Trubska](../places/villages/trubska.md), Vētrall is at [T
 
 ### [MC01M](../sessions/MC01M.md)
 
-[Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) learn about a [Familia Vulpes](../organisations/familia-vulpes.md) in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/cities/starnov.md) that is due to be opened soon, through a letter [Creek](../characters/creek.md) sends to [Crucible](../characters/crucible.md) ([MC01M-L-2](../letters/MC01M-L-2.md)). [Vulpes Geex](../characters/vulpes-geex.md) has provided the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) intel that suggests that following the reading of [Vulpes Geen](../characters/vulpes-geen.md)'s will, a member of [Familia Vulpes](../organisations/familia-vulpes.md) will head to [Starnov](../places/cities/starnov.md) to claim the box's contents bequeathed to them. Geex suggests the box may contain [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md).
+[Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) learn about a [Familia Vulpes](../organisations/familia-vulpes.md) in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/cities/starnov.md) that is due to be opened soon, through a letter [Creek](../characters/creek.md) sends to [Crucible](../characters/crucible.md) ([L-MC-05](../letters/L-MC-05.md)). [Vulpes Geex](../characters/vulpes-geex.md) has provided the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) intel that suggests that following the reading of [Vulpes Geen](../characters/vulpes-geen.md)'s will, a member of [Familia Vulpes](../organisations/familia-vulpes.md) will head to [Starnov](../places/cities/starnov.md) to claim the box's contents bequeathed to them. Geex suggests the box may contain [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md).
 
 This potential is of great interest to [Creek](../characters/creek.md), who has sent Kera and Marik to [Crucible](../characters/crucible.md) as muscle for an ambush mission. The pair are put to work by [Crucible](../characters/crucible.md) who promises them 1,000 gp each if they can return the contents of the box to her intact.
 

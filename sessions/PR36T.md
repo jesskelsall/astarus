@@ -11,7 +11,7 @@
 
 ## Teleported Somewhere Unfamiliar
 
-[Thanea Morlay](../characters/thanea-morlay.md) appears inside of [Supreme Hall](../places/buildings/supreme-hall.md) near the doors after having teleported by using the letter ([PR36-L-3](../letters/PR36-L-3.md)) she possesses. A brief smell of ozone indicates that magic was just at work. As she arrives it crumbles into ashes in her hands, falling between them.
+[Thanea Morlay](../characters/thanea-morlay.md) appears inside of [Supreme Hall](../places/buildings/supreme-hall.md) near the doors after having teleported by using the letter ([L-PR-06](../letters/L-PR-06.md)) she possesses. A brief smell of ozone indicates that magic was just at work. As she arrives it crumbles into ashes in her hands, falling between them.
 
 Startled, she drinks in her surroundings, noticing [Corville Thornox](../characters/corville-thornox.md) sat on his throne. Next to him stands [Patricia Wilbenotel](../characters/patricia-wilbenotel.md) who is engaging in quiet conversation with him. Noticing Thanea's arrival, the pair stop talking and stare towards her. Thanea recognises their armour as [Astornar](../organisations/government/astornar.md) and Patricia as one of the generals that judged the [Astornar](../organisations/government/astornar.md) trial for [the firbolg controversy](../storylines/ended/the-firbolg-controversy.md).
 
@@ -130,6 +130,6 @@ Corville ends the anti-magic field around them, Thanea picking up on a slight sm
 *[Corville Thornox](../characters/corville-thornox.md):*
 > Goodbye, [Thanea Morlay](../characters/thanea-morlay.md).
 
-Corville raises his hand, palm open, a blinding blue flash of light emanating from it. As it subsides, Thanea finds herself back in the place she was in before responding to the letter ([PR36-L-3](../letters/PR36-L-3.md)).
+Corville raises his hand, palm open, a blinding blue flash of light emanating from it. As it subsides, Thanea finds herself back in the place she was in before responding to the letter ([L-PR-06](../letters/L-PR-06.md)).
 
 Thanea curses to herself, calling herself an idiot, still beating herself up from appearing in [Supreme Hall](../places/buildings/supreme-hall.md) at the wrong time.

@@ -31,13 +31,13 @@ This table shows the [Astorrel](../../organisations/government/astorrel/astorrel
 
 ### [AA06](../../sessions/AA06.md)
 
-Returning to [Bryce Morton](../../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 28 ([AA06-L-1](../../letters/AA06-L-1.md)).
+Returning to [Bryce Morton](../../characters/bryce-morton.md) to begin their next mission, [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) is given their invite to Nature's Battle 28 ([L-AA-01](../../letters/L-AA-01.md)).
 
 After discussing how competing will affect their next mission, Bryce reassures them that the tournament is their priority if they choose to compete - the mission can wait. After a discussion they choose to compete, responding to [Liabella Peacock](../../characters/liabella-peacock.md) by letter sent from [Astpost Northhaven](../../places/buildings/shops/astpost-northhaven.md).
 
 ### [PR21](../../sessions/PR21.md)
 
-Immediately following the [Purple Rain](../../campaigns/C1-purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../../organisations/government/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 28 ([PR21-L-1](../../letters/PR21-L-1.md)).
+Immediately following the [Purple Rain](../../campaigns/C1-purple-rain.md) party's [Astorrel graduation](astorrel-graduation.md) as [Starfall Squad](../../organisations/government/astorrel/squads/starfall-squad.md), [Levelle Tristwix](../../characters/levelle-tristwix.md) hands them their invite to Nature's Battle 28 ([L-PR-03](../../letters/L-PR-03.md)).
 
 The party is excited at the prospect of competing.
 
