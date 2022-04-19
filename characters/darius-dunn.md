@@ -4,47 +4,31 @@
 
 |||
 | --- | --- |
-| **Name** | Darius Dunn | character.3
+| **Name** | Darius Dunn | character.4
 | **Lineage** | Genasi (Fire) |
 | **Pronouns** | he/him |
 | **Age** | 17 |
-| **Class** | Cleric |
+| **Class** | Cleric (Peace Domain) |
+| **Background** | Noble |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Sengras Longfoot](sengras-longfoot.md) (pen pal) |
 | **Places** | Eaglesfield (birthplace) |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `94fe4e7c79cbcd9a` |
 
 ## Summary
 
+Darius Dunn is a meek and polite pacifist with parents in high places within the [Astornox](../organisations/government/astornox/astornox.md).
+
 Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/government/astorrel/astorrel.md), and is part of [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md).
 
-## Characteristics
+## Military Record
 
-| Appearance | Description |
-| --- | --- |
-| Face | Light red skin, yellow eyes. Chiselled chin. |
-| Hair | Silver-white shoulder length on the right side, clean shaven on the left. No left eyebrow. |
-| Body | 5'8". Slim bean pole. |
-| Clothes | Key lime coloured robes with dusty orange trim, leather boots. |
-| Equipment | Wooden staff with a large topaz gem on its end. |
-| Mannerisms | Stiff upright and rarely moving. Stares a lot. |
-
-| Personality | Description |
-| --- | --- |
-| Voice | Airy voice with a posh accent. |
-| Quirks | Very mature and knowledgeable for someone of their age. Only speaks when spoken to. |
-| Knowledge | Well studied in academia and magic. |
-| Values | Compassion, logic, and negotiation. |
-| Ambitions | Wishes to usher in an age of peace in Astor. |
-| Dislikes | Fighting. |
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -56,13 +40,33 @@ Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/government/as
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d8 | 8 | 8 | 3 | 4 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 || Cleric | d8 | 8 |
+| 2 || Cleric | d8 | 8 |
+| 3 || Cleric | d8 | 3 |
+| 4 || Cleric | d8 | 4 |
+
+## Characteristics
+
+| | |
+| --- | --- |
+| **Face** | Light red skin, yellow eyes. Chiselled chin. | characteristics.2
+| **Hair** | Silver-white shoulder length on the right side, clean shaven on the left. No left eyebrow. |
+| **Body** |  5'8". Slim bean pole. |
+| **Clothes** | Key lime coloured robes with dusty orange trim, leather boots.<br>Wooden staff with a large topaz gem on its end. |
+| **Voice** | Airy voice with a posh accent. |
+| **Mannerisms** | Stiff upright and rarely moving. Stares a lot. |
+| | |
+| **Quirks** | Very mature and knowledgeable for someone of their age.<br>Only speaks when spoken to. |
+| **Knowledge** | Well studied in academia and magic. |
+| **Values** | Compassion, logic, and negotiation. |
+| **Ambitions** | Wishes to usher in an age of peace in Astor.<br>Wants to learn more about genasi and unite all the genasi he can find. |
+| **Dislikes** | Fighting. |
 
 ## History
 
-Born into the family of a city captain, Darius' mother's fire elemental lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme to escape his home life, graduating after only two years.
+Born into the family of a city captain, Darius' fire genasi lineage caused problems when their child was born with red skin. Shunned by his parents, Darius spent his youth reading books and wishing for a fairer world with less war and conflict. After discovering his magical powers at the age of 15, he entered into the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme to escape his home life, graduating after only two years.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 

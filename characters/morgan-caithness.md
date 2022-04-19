@@ -4,21 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Morgan Caithness | character.3
+| **Name** | Morgan Caithness | character.4
 | **Lineage** | Human |
 | **Pronouns** | she/her |
 | **Age** | 29 |
-| **Class** | Fighter |
+| **Class** | Fighter (Champion) |
+| **Background** | Outlander |
 | **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | |
 | **Places** | Kilflynn (birthplace) |
-|||
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `e7a36c7e28f97107` |
 
@@ -26,25 +22,11 @@
 
 Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/government/astorrel/astorrel.md), and is part of [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md).
 
-## Characteristics
+## Military Record
 
-| Appearance | Description |
-| --- | --- |
-| Face | Tired, big nose, big jaw, cold blue eyes. |
-| Hair | Long black hair in a plat. |
-| Body | 6'2". Large bodied but muscly. |
-| Clothes | Scale plate armour with a grey-blue shirt, brown pants, and leather boots. |
-| Equipment | A huge greataxe. |
-| Mannerisms | Timid and mindful of her immediate surroundings. |
-
-| Personality | Description |
-| --- | --- |
-| Voice | Fast spoken and sheepish. Mumbles and stutters. |
-| Quirks | Laser focused in combat, a hulking timid mess otherwise. |
-| Knowledge | Wilderness survival, lumber. |
-| Values | Money, safety, family. |
-| Ambitions | Wants to provide a better life for her lumber working family. |
-| Dislikes | [Magicborn](../civilisations/kingdom-of-astor/magicborn.md), those who talk but do not act. |
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -56,9 +38,29 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/governme
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d10 | 10 | 3 | 2 | 8 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 || Fighter | d10 | 10 |
+| 2 || Fighter | d10 | 3 |
+| 3 || Fighter | d10 | 2 |
+| 4 || Fighter | d10 | 8 |
+
+## Characteristics
+
+| | |
+| --- | --- |
+| **Face** | Tired, big nose, big jaw, cold blue eyes. | characteristics.2
+| **Hair** | Long black hair in a plat. |
+| **Body** | 6'2". Large bodied but muscly. |
+| **Clothes** | Scale plate armour with a grey-blue shirt, brown pants, and leather boots.<br>A huge greataxe. |
+| **Voice** | Fast spoken and sheepish. Mumbles and stutters. |
+| **Mannerisms** | Timid and mindful of her immediate surroundings. |
+| | |
+| **Quirks** | Laser focused in combat, a hulking timid mess otherwise. |
+| **Knowledge** | Wilderness survival, lumber. |
+| **Values** | Money, safety, family. |
+| **Ambitions** | Wants to provide a better life for her lumber working family.  |
+| **Dislikes** | [Magicborn](../civilisations/kingdom-of-astor/magicborn.md), those who talk but do not act. |
 
 ## History
 

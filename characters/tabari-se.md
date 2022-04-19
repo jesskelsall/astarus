@@ -4,21 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Tabari Se | character.3
+| **Name** | Tabari Se | character.4
 | **Lineage** | Halfling |
 | **Pronouns** | he/him |
 | **Age** | 41 |
-| **Class** | Monk / Sorcerer |
+| **Class** | Monk (Way of the Open Hand) / Warlock |
+| **Background** | Outlander |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | |
-| **Places** | |
-|||
+| **Places** | Effrontée (birthplace) |
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) |
-| **Commanding Officer** | [Bryce Morton](bryce-morton.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `0e9d44f0b522c033` |
 
@@ -26,25 +22,11 @@
 
 Tabari Se is a new Squad Hand in the [Astorrel](../organisations/government/astorrel/astorrel.md), and is part of [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md).
 
-## Characteristics
+## Military Record
 
-| Appearance | Description |
-| --- | --- |
-| Face | Pointed features, pointed nose, permanent scowl. |
-| Hair | Bald head. Large bushy grey eyebrows. |
-| Body | 4'10" (extremely tall halfling) Lean and extremely muscular. |
-| Clothes | Green open vest with grey trim. Green tunic over cropped grey pants. Canvas sandals. |
-| Equipment | Wooden quarterstaff. |
-| Mannerisms | Permanent scowl, but often looks aloof or disinterested. |
-
-| Personality | Description |
-| --- | --- |
-| Voice | Mute. His thoughts sound deep and poorly spoken. |
-| Quirks | Hard to read his personality or feelings due to being mute and his permanent scowl. |
-| Knowledge | Exceptional martial arts knowledge. |
-| Values | Combat prowess, challenge. |
-| Ambitions | To hone his fighting style and challenge interesting opponents. |
-| Dislikes | Talk. |
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -56,9 +38,29 @@ Tabari Se is a new Squad Hand in the [Astorrel](../organisations/government/asto
 
 ### Hit Points
 
-| Hit Die | 1 | 2 | 3 | 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| d8 | 8 | 2 | 8 | 6 |
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
+| 1 || Monk | d8 | 8 |
+| 2 || Monk | d8 | 2 |
+| 3 || Monk | d8 | 8 |
+| 4 || Monk | d8 | 6 |
+
+## Characteristics
+
+| | |
+| --- | --- |
+| **Face** | Pointed features, pointed nose, permanent scowl. | characteristics.2
+| **Hair** | Bald head. Large bushy grey eyebrows. |
+| **Body** | 4'10" (extremely tall halfling) Lean and extremely muscular. |
+| **Clothes** | Green open vest with grey trim. Green tunic over cropped grey pants. Canvas sandals.<br>Wooden quarterstaff. |
+| **Voice** | Mute. His thoughts sound deep and poorly spoken. |
+| **Mannerisms** | Permanent scowl, but often looks aloof or disinterested. |
+| | |
+| **Quirks** | Hard to read his personality or feelings due to being mute and his permanent scowl. |
+| **Knowledge** | Exceptional martial arts knowledge. |
+| **Values** | Combat prowess, challenge. |
+| **Ambitions** | To hone his fighting style and challenge interesting opponents. |
+| **Dislikes** | Talk. |
 
 ## History
 

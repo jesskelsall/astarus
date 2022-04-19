@@ -26,7 +26,7 @@ Legacy Aranius is a stern [Astornox Captain](../organisations/government/astorno
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Eskrigg](../places/cities/eskrigg.md) | [Overon Nightingale](overon-nightingale.md) | [Tanin Arnous](tanin-arnous.md) |
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Eskrigg](../places/cities/eskrigg.md) | [Overon Nightingale](overon-nightingale.md) | *Lieutenants:*<br>[Sengras Longfoot](sengras-longfoot.md)<br>[Tanin Arnous](tanin-arnous.md) |
 
 ## Character Rolls
 
