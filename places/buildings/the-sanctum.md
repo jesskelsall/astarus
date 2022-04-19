@@ -10,8 +10,6 @@
 
 ## Summary
 
-TODO
-
 The Sanctum is the building in the [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md) in which the stronghold's sanctuaries are located. [Astorrel Guard Sergeants](../../organisations/government/astorrel/ranks/astorrel-guard-sergeant.md) that offer [sanctuary](../../organisations/government/astorrel/sanctuary.md) look after those offered [sanctuary](../../organisations/government/astorrel/sanctuary.md) here.
 
 ### Exterior

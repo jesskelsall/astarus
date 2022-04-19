@@ -14,6 +14,7 @@
 ||
 |:---:|
 | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/letters/5bc126600a9e2431.jpg" height="500" /> |
+| Front, UV light. |
 
 ## Transcript
 

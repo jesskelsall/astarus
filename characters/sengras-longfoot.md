@@ -1,7 +1,5 @@
 # Sengras Longfoot
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
-
 |||
 | --- | --- |
 | **Name** | Sengras Longfoot | character.4
@@ -20,7 +18,7 @@
 
 ## Summary
 
-Sengras Longfoot is a halfling earth genasi that works for the [Eskrigg](../places/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md). He is a peaceful and matter of fact man.
+Sengras Longfoot is a melancholic yet well spoken earth genasi that works for the [Eskrigg](../places/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md).
 
 [Darius Dunn](darius-dunn.md) has been in contact with him while investigating the presence and nature of genasi in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 

@@ -39,4 +39,8 @@ The following morning, [Darius Dunn](../characters/darius-dunn.md) casts Sending
 
 ## Planning
 
+When [Torbra Tauff](../characters/torbra-tauff.md) next speaks to [Darius Dunn](../characters/darius-dunn.md), he will ask for her help with the following tasks as and when relevant, cautioning her to be careful how and where she is communicating:
+- Write to any genasi she knows, passing along Darius' address.
+- Inform Darius of anyone from outside of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) willing to speak about the outside world.
+
 Genasi will be heavily employed in efforts to defeat [the meteorics](../lineages/the-meteorics.md) in [Eskrigg](../places/cities/eskrigg.md), due to their abilities not being suppressed by anti-magic fields.
