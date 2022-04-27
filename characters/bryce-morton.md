@@ -29,7 +29,7 @@ He is a straightforward person with a military personality. He stands to attenti
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
 || [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/cities/northhaven.md) / Summit Squad |||
-|| [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) | Cities / [Northhaven](../places/cities/northhaven.md) | [Samantha Ilis](samantha-ilis.md) | [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md)<br>[Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) |
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) | Cities / [Northhaven](../places/cities/northhaven.md) | [Samantha Ilis](samantha-ilis.md) | [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md)<br>[Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) |
 
 ## Character Rolls
 

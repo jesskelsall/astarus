@@ -6,7 +6,7 @@
 | **Type** | Building |
 | **Location** | [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
 | **Nearby Places** | [The Mission's End](inns-taverns/the-missions-end.md) |
-| **People** | *Ground floor:*<br>[Amarin Hutchinson](../../characters/amarin-hutchinson.md)<br><br>*Third floor:*<br>[Elysia Vanderboss](../../characters/elysia-vanderboss.md)<br>[Starfall Squad](../../organisations/government/astorrel/squads/starfall-squad.md)<br>[Astral Squad](../../organisations/government/astorrel/squads/astral-squad.md)<br> |
+| **People** | *Ground floor:*<br>[Amarin Hutchinson](../../characters/amarin-hutchinson.md) (receptionist)<br>[Taza Finetrick](../../characters/taza-finetrick.md) ([Kiln Squad](../../organisations/government/astorrel/squads/kiln-squad.md))<br><br>*Third floor:*<br>[Elysia Vanderboss](../../characters/elysia-vanderboss.md) ([Starfall Squad](../../organisations/government/astorrel/squads/starfall-squad.md), [Astral Squad](../../organisations/government/astorrel/squads/astral-squad.md)) |
 
 ## Summary
 
@@ -31,6 +31,16 @@ Tenterfell House is a small building inside the [Northhaven Astorrel Stronghold]
 | Smells | Dust, musty wood. |
 | People | [Astorrel member](../../organisations/government/astorrel/ranks/astorrel-member.md) working the front desk. Indifferent to people who commonly come and go. |
 | Intrigue | Looks old fashioned compared to the other buildings in the stronghold that have seen revisions over time. |
+
+### Interior - Ground Floor
+
+| Sensation | Description |
+| ---- | --- |
+| Sights | Large rectangular space with rows of wooden desks. Raw wooden floorboards full of knots. Dim lightning through a few small windows on the back and right walls. Brick wall on left with four doors, each leading into individual offices. Offices with nicer desk, bookcase, four chairs, diagonal skylight of frosted glass. |
+| Sounds | Quill scribbling, shifting papers, creaking floorboards. Quiet chatter. |
+| Smells | Body odour, paper, ink. |
+| People | [Astorrel members](../../organisations/government/astorrel/ranks/astorrel-member.md) writing documents. |
+| Intrigue | Resembles an early 20th century office. |
 
 ### Interior - Third Floor
 

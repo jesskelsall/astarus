@@ -94,8 +94,9 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR48](../sessions/PR48.md) | 2022-01-19 | *What Lies in the Crater* |
 | [PR49](../sessions/PR49.md) | 2022-02-09 | *The [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md)* |
 | [PR50](../sessions/PR50.md) | 2022-02-16 | *Urgently Seeking Aid* |
+| [PR51](../sessions/PR51.md) | 2022-04-20 | *Not on My Watch* |
 ||
-| [PR51](../sessions/PR51.md) | 2022-04-20 | |
+| [PR52](../sessions/PR52.md) | 2022-04-27 ||
 
 ## Storylines
 

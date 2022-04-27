@@ -1,20 +1,18 @@
-# Etheldreda Dowsing
-
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
+# Etheldreda Dowsing / Ethel
 
 |||
 | --- | --- |
-| **Name** | Etheldreda "Ethel" Dowsing | character.3
+| **Name** | Etheldreda Dowsing<br>*Ethel* | character.4
 | **Lineage** | Halfling |
 | **Pronouns** | she/her |
 | **Age** | 69 |
 | **Class** | |
-| **Worship** | |
-| **Relations** | [Effie Silttooth](effie-silttooth.md) (Warlock patron) |
-| **Places** | [Ethel's Wares](../places/buildings/shops/ethels-wares.md) |
-|||
+| **Background** | |
+| **Worship** | [Effie Silttooth](effie-silttooth.md) (Warlock patron) |
+| **Relations** | |
+| **Places** | [Ethel's Wares](../places/buildings/shops/ethels-wares.md) (owner) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
-| **Organisation** | [Vetiti Scientiam](../organisations/vetiti-scientiam.md)<br>[Astornox](../organisations/government/astornox/astornox.md) (retired) |
+| **Organisation(s)** | [Vetiti Scientiam](../organisations/vetiti-scientiam.md)<br>[Astornox](../organisations/government/astornox/astornox.md) (retired) |
 |||
 | **Image ID** | |
 

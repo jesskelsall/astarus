@@ -23,11 +23,11 @@ That night, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) sea
 
 After a moment of browsing in which she bothers the only other patron currently in the store, Saoirse meets [Etheldreda Dowsing](../characters/etheldreda-dowsing.md), the store's owner. Initially they make small talk about her wares for sale, but once the patron leaves, she uses Prestidigitation to roll down the store's blinds. Her demeanour changes from a happy and semi-senile old woman to a sharp and discerning [magicborn](../civilisations/kingdom-of-astor/magicborn.md).
 
-Ethel makes Saoirse aware that [Effie Silttooth](../characters/effie-silttooth.md) made her aware that Saoirse would be coming, though the pair never acknowledge their shared patron directly. She explains that she has something for Saoirse, but first she must do something for her:
+[Ethel](../characters/etheldreda-dowsing.md) makes Saoirse aware that [Effie Silttooth](../characters/effie-silttooth.md) made her aware that Saoirse would be coming, though the pair never acknowledge their shared patron directly. She explains that she has something for Saoirse, but first she must do something for her:
 
 > You will have what you seek when you provide me something owned by few, coveted by many, and difficult to share.
 
-Saoirse attempts to bypass the riddle, asking Ethel to just tell her what she wants, but Ethel refuses, enjoying making Saoirse squirm and curious to see what she will return with. Unable to make her budge, Saoirse leaves. Ethel wishes her good luck.
+Saoirse attempts to bypass the riddle, asking [Ethel](../characters/etheldreda-dowsing.md) to just tell her what she wants, but [Ethel](../characters/etheldreda-dowsing.md) refuses, enjoying making Saoirse squirm and curious to see what she will return with. Unable to make her budge, Saoirse leaves. [Ethel](../characters/etheldreda-dowsing.md) wishes her good luck.
 
 Later on [the Maiden's Accompaniment](../places/ships/the-maidens-accompaniment.md), Saoirse presents captain [Dinua Costello](../characters/dinua-costello.md) with the riddle as a way of entertaining her. The pair and [Wizira](../characters/wizira.md) debate several answers, Dinua believing that Saoirse already knows the answer. Eventually Saoirse reveals that she doesn't, along with her belief that the correct answer is youth.
 
