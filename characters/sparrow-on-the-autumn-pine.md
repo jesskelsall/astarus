@@ -9,7 +9,7 @@
 | **Pronouns** | he/him |
 | **Age** | 30 |
 | **Class** | Ranger (Swarmkeeper) |
-| **Background** | TODO |
+| **Background** | Urchin |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
 | **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md)<br>[Northhaven](../places/cities/northhaven.md) (birthplace) |
@@ -35,11 +35,18 @@ Sparrow on the Autumn Pine is a city-dwelling naturist with a penchant for wasps
 
 | [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [4d6 Method](../mechanics/ability-score-method/4d6-method.md) | 14 | 13 | 11 | 10 | 9 | 8 | 65 |
 
 ### Hit Points
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
+| 1 || Ranger | d10 | 10 |
+| 2 || Ranger | d10 | 6 |
+| 3 || Ranger | d10 | 3 |
+| 4 || Ranger | d10 | 9 |
+| 5 || Ranger | d10 | 10 |
+| 6 || Ranger | d10 | 6 |
 
 ## Characteristics
 
@@ -53,9 +60,9 @@ Sparrow on the Autumn Pine is a city-dwelling naturist with a penchant for wasps
 
 | Personality | Description |
 | --- | --- |
-| Voice | Stealthy whisper-like. |
-| Quirks | Is a walking wasp's nest. |
-| Knowledge | |
-| Values | |
-| Ambitions | |
-| Dislikes | |
+| Voice | Male register, eastern european accent. Slightly whispered. |
+| Quirks | Always surrounded by an amount of wasps which enter/exit his robe. |
+| Knowledge | Wasps, flowers, urban design, urban nature. |
+| Values | The beauty of nature and how it survives despite increasing urbanisation. |
+| Ambitions | Wants to see out his [Astorrel](../organisations/government/astorrel/astorrel.md) service then retire to a quiet village. |
+| Dislikes | Large crowds, deforestation. |

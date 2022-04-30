@@ -5,11 +5,11 @@
 |||
 | --- | --- |
 | **Name** | Darjonkaargeac Hidaar | character.4
-| **Lineage** | Dragonborn (Silver) TODO |
+| **Lineage** | Dragonborn (Metallic, Silver) |
 | **Pronouns** | they/them |
 | **Age** | 44 |
-| **Class** | Paladin (TODO) |
-| **Background** | TODO |
+| **Class** | Paladin (Oath of Devotion) |
+| **Background** | Outlander |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | [Wrenn Piznarck](wrenn-piznarck.md) (friend) |
 | **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md)<br>Holmrook (birthplace) |
@@ -37,11 +37,18 @@ Their clan name is pronounced: *dar-jon-kaar-jee-ak*.
 
 | [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [4d6 Method](../mechanics/ability-score-method/4d6-method.md) | 15 | 14 | 13 | 13 | 12 | 6 | 73 |
 
 ### Hit Points
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
+| 1 || Paladin | d10 | 10 |
+| 2 || Paladin | d10 | 8 |
+| 3 || Paladin | d10 | 2 |
+| 4 || Paladin | d10 | 4 |
+| 5 || Paladin | d10 | 6 |
+| 6 || Paladin | d10 | 6 |
 
 ## Characteristics
 
@@ -50,7 +57,7 @@ Their clan name is pronounced: *dar-jon-kaar-jee-ak*.
 | **Face** | Silver scales. Long scaly face with sharp teeth. Light blue eyes. Keeps mouth closed. Stern look. | characteristics.2
 | **Hair** | None |
 | **Body** | 6'6" / 198cm, muscular. |
-| **Clothes** | Chain mail armour. Yellow tabard over it with [Valnos](../gods/deities/valnos.md) symbol. Longsword and shield. |
+| **Clothes** | Chain mail armour. Yellow tabard over it with [Valnos](../gods/deities/valnos.md) symbol.<br>Longsword and [Sentinel Shield](https://www.dndbeyond.com/magic-items/5403-sentinel-shield). |
 | **Voice** | Deep and growly. |
 | **Mannerisms** | Military pose, rigid. Moves purposefully. Treats people with respect. |
 | | |

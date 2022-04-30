@@ -5,11 +5,11 @@
 |||
 | --- | --- |
 | **Name** | Alos Varkann | character.4
-| **Lineage** | Dwarf |
+| **Lineage** | Dwarf (Mountain) |
 | **Pronouns** | he/him |
 | **Age** | 39 |
-| **Class** | Barbarian (TODO) |
-| **Background** | TODO |
+| **Class** | Barbarian (Path of the Berserker) |
+| **Background** | Sailor |
 | **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | |
 | **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md) |
@@ -35,11 +35,18 @@ Alos Varkann is a no-nonsense, snarky dwarf with a can-do attitude. He is goal o
 
 | [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
 | --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [4d6 Method](../mechanics/ability-score-method/4d6-method.md) | 17 | 13 | 11 | 10 | 10 | 10 | 71 |
 
 ### Hit Points
 
 | Level | After Session | Class | Hit Die | Roll |
 |:---:|:---:| --- | --- |:---:|
+| 1 || Barbarian | d12 | 12 |
+| 2 || Barbarian | d12 | 2 |
+| 3 || Barbarian | d12 | 5 |
+| 4 || Barbarian | d12 | 11 |
+| 5 || Barbarian | d12 | 8 |
+| 6 || Barbarian | d12 | 4 |
 
 ## Characteristics
 
