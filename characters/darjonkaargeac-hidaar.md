@@ -4,21 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Darjonkaargeac Hidaar | character.3
-| **Lineage** | Dragonborn (Silver) |
+| **Name** | Darjonkaargeac Hidaar | character.4
+| **Lineage** | Dragonborn (Silver) TODO |
 | **Pronouns** | they/them |
 | **Age** | 44 |
-| **Class** | Paladin |
+| **Class** | Paladin (TODO) |
+| **Background** | TODO |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
-| **Relations** | |
-| **Places** | Holmrook (birthplace) |
-|||
+| **Relations** | [Wrenn Piznarck](wrenn-piznarck.md) (friend) |
+| **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md)<br>Holmrook (birthplace) |
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md)<br>*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) |
-| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md)<br>*Former:*<br>[Linton Harkness](linton-harkness.md) |
-| **Subordinates** | *Former:*<br>[Louise Perkins](louise-perkins.md) |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `0a64ffd6aaf731b7` |
 
@@ -27,6 +23,25 @@
 Darjonkaargeac is a loyal [Astorrel](../organisations/government/astorrel/astorrel.md) and staunch follower of [Valnos](../gods/deities/valnos.md). They are upstanding and respectful, taking their work and the well-being of their squad very seriously.
 
 Their clan name is pronounced: *dar-jon-kaar-jee-ak*.
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) | [Linton Harkness](linton-harkness.md) | [Louise Perkins](louise-perkins.md) |
+| [PR27](../sessions/PR27.md) | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+
+## Character Rolls
+
+### Ability Scores
+
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
 
 ## Characteristics
 

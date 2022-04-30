@@ -4,21 +4,17 @@
 
 |||
 | --- | --- |
-| **Name** | Xavier Raloven | character.3
-| **Lineage** | Elf |
+| **Name** | Xavier Raloven | character.4
+| **Lineage** | Elf (Wood) |
 | **Pronouns** | he/him |
 | **Age** | 81 (dead) |
 | **Class** | Paladin (Oath of the Crown) |
+| **Background** | Urchin |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | |
 | **Places** | |
-|||
 | **Citizenship** | [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) |
-| **Organisation** | Veritacris |
-| **Rank** | |
-| **Role** | |
-| **Commanding Officer** | [Allisa Balsatra](allisa-balsatra.md) |
-| **Subordinates** | |
+| **Organisation(s)** | Veritacris |
 |||
 | **Image ID** | `92ce630e748d6bff` |
 
@@ -27,6 +23,12 @@
 Xavier Raloven was a loyal Veritacris, working to further the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)'s information about the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
 He was executed [Gwenhwyfar Carew](gwenhwyfar-carew.md) after being captured by [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) in [Eskrigg](../places/cities/eskrigg.md).
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+||| [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) | [Allisa Balsatra](allisa-balsatra.md) ||
 
 ## Character Rolls
 
@@ -45,8 +47,6 @@ He was executed [Gwenhwyfar Carew](gwenhwyfar-carew.md) after being captured by 
 | 3 || Paladin | d10 | 5 |
 | 4 || Paladin | d10 | 10 |
 | 5 || Paladin | d10 | 8 |
-
-## Characteristics
 
 | | |
 | --- | --- |

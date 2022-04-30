@@ -4,27 +4,42 @@
 
 |||
 | --- | --- |
-| **Name** | Sparrow on the Autumn Pine | character.3
+| **Name** | Sparrow on the Autumn Pine | character.4
 | **Lineage** | Tabaxi |
 | **Pronouns** | he/him |
 | **Age** | 30 |
 | **Class** | Ranger (Swarmkeeper) |
+| **Background** | TODO |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
-| **Places** | [Northhaven](../places/cities/northhaven.md) (birthplace) |
-|||
+| **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md)<br>[Northhaven](../places/cities/northhaven.md) (birthplace) |
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md)<br>*Former:*<br>Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) |
-| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md)<br>*Former:*<br>[Linton Harkness](linton-harkness.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `41e0b0962f18eb6b` |
 
 ## Summary
 
 Sparrow on the Autumn Pine is a city-dwelling naturist with a penchant for wasps. He is very familiar with [Northhaven](../places/cities/northhaven.md) and sneaking around urban areas.
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) | [Linton Harkness](linton-harkness.md) ||
+| [PR27](../sessions/PR27.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+
+## Character Rolls
+
+### Ability Scores
+
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
 
 ## Characteristics
 

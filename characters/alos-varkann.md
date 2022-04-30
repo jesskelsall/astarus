@@ -4,27 +4,42 @@
 
 |||
 | --- | --- |
-| **Name** | Alos Varkann | character.3
+| **Name** | Alos Varkann | character.4
 | **Lineage** | Dwarf |
 | **Pronouns** | he/him |
 | **Age** | 39 |
-| **Class** | Barbarian |
+| **Class** | Barbarian (TODO) |
+| **Background** | TODO |
 | **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | |
-| **Places** | |
-|||
+| **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md) |
 | **Citizenship** | |
-| **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
-| **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md)<br>*Former:*<br>Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) |
-| **Commanding Officer** | [Elysia Vanderboss](elysia-vanderboss.md) |
-| **Subordinates** | |
+| **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
 | **Image ID** | `601e5a966741b4ba` |
 
 ## Summary
 
 Alos Varkann is a no-nonsense, snarky dwarf with a can-do attitude. He is goal oriented, chomping at the bit for his next challenge. He greets all situations the same way - without fear and with his trusty axes.
+
+## Military Record
+
+| Session | Rank | Role | Commanding Officer | Subordinates |
+|:---:| --- | --- | --- | --- |
+|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) |||
+| [PR27](../sessions/PR27.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+
+## Character Rolls
+
+### Ability Scores
+
+| [Ability Score Method](../mechanics/ability-score-method/ability-score-method.md) | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### Hit Points
+
+| Level | After Session | Class | Hit Die | Roll |
+|:---:|:---:| --- | --- |:---:|
 
 ## Characteristics
 
