@@ -20,7 +20,7 @@
 
 ## Summary
 
-Clef Gill was the captain of [the Mistral](../places/ships/the-mistral.md). He was killed when [the Mistral](../places/ships/the-mistral.md) exploded in the [Côtedouce](../places/towns/cotedouce.md) dock.
+Clef Gill was the captain of [the Mistral](../places/ships/the-mistral.md). He was killed when [the Mistral](../places/ships/the-mistral.md) exploded in the [Côtedouce](../places/settlements/towns/cotedouce.md) dock.
 
 ## Characteristics
 

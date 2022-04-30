@@ -8,7 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | [Itharmund Steeleye](../../../characters/itharmund-steeleye.md) |
 | **Patron(s)** | [Gormox](../../../gods/deities/gormox.md) |
-| **Location(s)** | [Northhaven Astornox Stronghold](../../../places/strongholds/northhaven-astornox-stronghold.md) (headquarters) |
+| **Location(s)** | [Northhaven Astornox Stronghold](../../../places/settlements/strongholds/northhaven-astornox-stronghold.md) (headquarters) |
 |||
 | **Image ID** | `a66efa0a8b232cdc` |
 

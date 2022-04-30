@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | [Montel Leithran](montel-leithran.md) (father)<br>[Vensys Leithran](vensys-leithran.md) (mother, dead) |
-| **Places** | Humar Estuary Water Shack<br>[Hyceodd](../places/towns/hyceodd.md) (birthplace) |
+| **Places** | Humar Estuary Water Shack<br>[Hyceodd](../places/settlements/towns/hyceodd.md) (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -41,6 +41,6 @@ TODO
 
 ## History
 
-Born to [Vensys Leithran](vensys-leithran.md) and [Montel Leithran](montel-leithran.md) in [Hyceodd](../places/towns/hyceodd.md).
+Born to [Vensys Leithran](vensys-leithran.md) and [Montel Leithran](montel-leithran.md) in [Hyceodd](../places/settlements/towns/hyceodd.md).
 
 TODO EXPAND

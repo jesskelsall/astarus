@@ -19,7 +19,7 @@
 
 > From the office of the General of Culture  
 > Tower of Ast  
-> [Northhaven Astornar Stronghold](../places/strongholds/northhaven-astornar-stronghold.md)  
+> [Northhaven Astornar Stronghold](../places/settlements/strongholds/northhaven-astornar-stronghold.md)  
 > [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md)
 >
 > Valdag, 17th of Taledus 312 [PA](../history/calendars/astorian-calendar.md)
@@ -32,7 +32,7 @@
 >
 > In light of the exceptional circumstances under which you have joined the [Astorrel](../organisations/government/astorrel/astorrel.md) following the conclusion over the [Astornar](../organisations/government/astornar.md) trial over [the firbolg controversy](../storylines/ended/the-firbolg-controversy.md), [Levelle Tristwix](../characters/levelle-tristwix.md) and I are keen to see your squad compete alongside seven other squads from this year's graduate cohort. Doing so would help our efforts to alleviate some of the tensions between the [Astornox](../organisations/government/astornox/astornox.md) and the [Astorrel](../organisations/government/astorrel/astorrel.md).
 >
-> This is an excellent opportunity for new graduates to make names for themselves through honour and glory, competing in [Eskrigg](../places/cities/eskrigg.md) in Astor's most prominent arena, [Vorrinel's Stand](../places/buildings/vorrinels-stand.md). The tournament is the centrepiece of the festival, taking place over all three days. It is typically attended by thousands of [Astornox](../organisations/government/astornox/astornox.md), citizens, and people of Astor alike. If that's not enough incentive for you, the winning squad will receive the favour of the [Astornar](../organisations/government/astornar.md) and 100 platinum coins.
+> This is an excellent opportunity for new graduates to make names for themselves through honour and glory, competing in [Eskrigg](../places/settlements/cities/eskrigg.md) in Astor's most prominent arena, [Vorrinel's Stand](../places/buildings/government/vorrinels-stand.md). The tournament is the centrepiece of the festival, taking place over all three days. It is typically attended by thousands of [Astornox](../organisations/government/astornox/astornox.md), citizens, and people of Astor alike. If that's not enough incentive for you, the winning squad will receive the favour of the [Astornar](../organisations/government/astornar.md) and 100 platinum coins.
 >
 > Should you wish to accept, please write back to me in good time. My office will then begin taking care of travel and accommodation arrangements.
 >

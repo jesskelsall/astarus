@@ -11,13 +11,13 @@
 
 ## A Letter for Vētrall
 
-While away from [Trest](../places/towns/trest.md), [Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter from [Hanz Peacemaker](../characters/hanz-peacemaker.md) ([L-MC-01](../letters/L-MC-01.md)). It details the death of [Vulpes Geen](../characters/vulpes-geen.md), with whom Vētrall was close. Hanz informs Vētrall of the Vulpes family's funeral plans and urges them to return to [The Fox Hole](../places/buildings/the-fox-hole.md) as soon as possible.
+While away from [Trest](../places/settlements/towns/trest.md), [Vētrall Astérr](../characters/vetrall-asterr.md) gets a letter from [Hanz Peacemaker](../characters/hanz-peacemaker.md) ([L-MC-01](../letters/L-MC-01.md)). It details the death of [Vulpes Geen](../characters/vulpes-geen.md), with whom Vētrall was close. Hanz informs Vētrall of the Vulpes family's funeral plans and urges them to return to [The Fox Hole](../places/buildings/the-fox-hole.md) as soon as possible.
 
-Vētrall begins making their way back to [Trest](../places/towns/trest.md).
+Vētrall begins making their way back to [Trest](../places/settlements/towns/trest.md).
 
 ## Accepting the Offer
 
-Around mid-morning [Valan Shadowgaze](../characters/valan-shadowgaze.md) makes his way to the top of [Trest](../places/towns/trest.md), arriving outside of [The Fox Hole](../places/buildings/the-fox-hole.md). He is carrying a [Coin of Friendship](../items/coins/coin-of-friendship.md) given to him on his travels, along with the promise that if he finds [Familia Vulpes](../organisations/familia-vulpes.md) in [Trest](../places/towns/trest.md), he'd be able to join the adventuring guild.
+Around mid-morning [Valan Shadowgaze](../characters/valan-shadowgaze.md) makes his way to the top of [Trest](../places/settlements/towns/trest.md), arriving outside of [The Fox Hole](../places/buildings/the-fox-hole.md). He is carrying a [Coin of Friendship](../items/coins/coin-of-friendship.md) given to him on his travels, along with the promise that if he finds [Familia Vulpes](../organisations/familia-vulpes.md) in [Trest](../places/settlements/towns/trest.md), he'd be able to join the adventuring guild.
 
 He notices [Hanz Peacemaker](../characters/hanz-peacemaker.md) stood near the door to [The Fox Hole](../places/buildings/the-fox-hole.md), and goes over to talk to him. He asks if he is in the right place, to which Hanz tells him that he is. Upon producing the coin, Hanz's eyes light up and a grin forms, excited by the prospect of a new member of the family. He confirms with Valan that he wishes to join. When Valan accepts, Hanz swings the door open and announces to everyone in the banquet hall:
 
@@ -72,7 +72,7 @@ Vētrall takes a piece himself. Understanding which pieces will be less bitter, 
 
 ## A Request From Nearby
 
-As dinner wraps up and plates are taken away, [Aneni Veomelo](../characters/aneni-veomelo.md) returns to speak to the pair. She explains that [Familia Vulpes](../organisations/familia-vulpes.md) recently received a letter from [Trubska](../places/villages/trubska.md) asking for help. She passes the already opened letter to [Vētrall Astérr](../characters/vetrall-asterr.md) ([L-MC-02](../letters/L-MC-02.md)). They read [Oronar Redtooth](../characters/oronar-redtooth.md)'s words about a brown bear plaguing the villagers and the call for help.
+As dinner wraps up and plates are taken away, [Aneni Veomelo](../characters/aneni-veomelo.md) returns to speak to the pair. She explains that [Familia Vulpes](../organisations/familia-vulpes.md) recently received a letter from [Trubska](../places/settlements/villages/trubska.md) asking for help. She passes the already opened letter to [Vētrall Astérr](../characters/vetrall-asterr.md) ([L-MC-02](../letters/L-MC-02.md)). They read [Oronar Redtooth](../characters/oronar-redtooth.md)'s words about a brown bear plaguing the villagers and the call for help.
 
 Aneni explains to the pair that she held onto this letter just for them as an introductory adventure through which Vētrall could show [Valan Shadowgaze](../characters/valan-shadowgaze.md) the ropes. Upon their success and return she will present the pair with coins:
 
@@ -81,19 +81,19 @@ Aneni explains to the pair that she held onto this letter just for them as an in
 | [Vētrall Astérr](../characters/vetrall-asterr.md) | [Coin of Friendship](../items/coins/coin-of-friendship.md) |
 | [Valan Shadowgaze](../characters/valan-shadowgaze.md) | [Coin of Family](../items/coins/coin-of-family.md) |
 
-Vētrall agrees. Understanding that [Trubska](../places/villages/trubska.md) is about a day's travel and with nightfall upon them, they tell Valan that the pair will set off in the morning. They both take spare bunk beds in the lower level of [the Fox Hole](../places/buildings/the-fox-hole.md) for the night.
+Vētrall agrees. Understanding that [Trubska](../places/settlements/villages/trubska.md) is about a day's travel and with nightfall upon them, they tell Valan that the pair will set off in the morning. They both take spare bunk beds in the lower level of [the Fox Hole](../places/buildings/the-fox-hole.md) for the night.
 
 *[Long rest]*
 
 In the morning the pair reconvene over breakfast, partaking of the platter of cooked bacon, eggs, and fresh baked bread laid out in three areas of the lodge table.
 
-Before heading out, Vētrall heads down into [Trest](../places/towns/trest.md) to buy a new component pouch (25 gp) before they set off. Valan uses this time to explore [Trest](../places/towns/trest.md), following the hustle bustle of commerce to the [Trest Marketplace](../places/structures/trest-marketplace.md) which is busy taking in shipments and setting up for the day's sales.
+Before heading out, Vētrall heads down into [Trest](../places/settlements/towns/trest.md) to buy a new component pouch (25 gp) before they set off. Valan uses this time to explore [Trest](../places/settlements/towns/trest.md), following the hustle bustle of commerce to the [Trest Marketplace](../places/structures/trest-marketplace.md) which is busy taking in shipments and setting up for the day's sales.
 
-Now well fed and supplied, the pair meet back up at [the Fox Hole](../places/buildings/the-fox-hole.md) and make their way a few buildings west before finding the trail to [Trubska](../places/villages/trubska.md) emerging between two buildings.
+Now well fed and supplied, the pair meet back up at [the Fox Hole](../places/buildings/the-fox-hole.md) and make their way a few buildings west before finding the trail to [Trubska](../places/settlements/villages/trubska.md) emerging between two buildings.
 
-## North to [Trubska](../places/villages/trubska.md)
+## North to [Trubska](../places/settlements/villages/trubska.md)
 
-Heading north along the trail, [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) ascend the hilly road towards the [Nilus Peaks](../places/mountains/nilus-peaks.md). Vētrall leads the way, taking point on the day's travel.
+Heading north along the trail, [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) ascend the hilly road towards the [Nilus Peaks](../places/topography/mountains/nilus-peaks.md). Vētrall leads the way, taking point on the day's travel.
 
 About half way along the route Vētrall steps in some innocuous tufts of grass on the roadside, almost stepping directly on a poisonous snake. The snake coils out of the way and instinctively lunges to take a bite with its fangs.
 
@@ -113,7 +113,7 @@ Valan reflects on feeling helpless in the fight, taking a near fatal hit almost 
 
 ## Meeting the [Coastguard](../organisations/guards/coastguard.md)
 
-By late afternoon the pair arrive in [Trubska](../places/villages/trubska.md). It is a quiet village with a few labourers coming and going, but nobody pays them any mind. Exploring deeper into the village they come across the stone fountain and next to it [the Three Goats](../places/buildings/inns-taverns/the-three-goats.md) inn. They head inside.
+By late afternoon the pair arrive in [Trubska](../places/settlements/villages/trubska.md). It is a quiet village with a few labourers coming and going, but nobody pays them any mind. Exploring deeper into the village they come across the stone fountain and next to it [the Three Goats](../places/buildings/inns-taverns/the-three-goats.md) inn. They head inside.
 
 Inside a collection of miners are eating their dinner, drinking, and quietly conversing across their tables. [Valan Shadowgaze](../characters/valan-shadowgaze.md) notices a table full of [Coastguard](../organisations/guards/coastguard.md), identified by their leathers, weapons, and turquoise leather pauldrons.
 
@@ -143,7 +143,7 @@ Oronar is like a different person this morning. He is still drunk and reeks of b
 
 The pair make their way north east across rolling fields, heading vaguely in the direction given to them. They proceed for several hours before coming across a dragonborn labourer walking the same way as them over to their right some 60ft. They attempt to shout to him but he is unable to hear them over the gentle wind blowing in the wrong direction.
 
-Not deterred they follow him to the northern mining camp. A mine set into the side of a partially excavated hill attached to a wooden shack entrance, the site is surrounded by large tents held up with wooden structures. Inside labourers are preparing tools and moving supplies while others load up two carts hitched to horses, ready to head down to [Trest](../places/towns/trest.md) for sale.
+Not deterred they follow him to the northern mining camp. A mine set into the side of a partially excavated hill attached to a wooden shack entrance, the site is surrounded by large tents held up with wooden structures. Inside labourers are preparing tools and moving supplies while others load up two carts hitched to horses, ready to head down to [Trest](../places/settlements/towns/trest.md) for sale.
 
 The pair briefly converse with the labourers who are able to point them more precisely in the direction that the bear attacked one of their own from.
 
@@ -202,7 +202,7 @@ He lets loose an arrow, scoring a critical hit. The accuracy and force of the ar
 
 *[Initiative order ends]*
 
-The pair celebrate the bear's death before briefly considering investigating the cave for more bears, but decide not to. Vētrall tells Valan that they need to cut the bear's head off so they can take it back to [Trubska](../places/villages/trubska.md) as proof that the deed is done. Valan begrudgingly agrees to cut it off. The process is hard work and results in a rough and gory cut at a dramatic diagonal angle - no good for wall mounting.
+The pair celebrate the bear's death before briefly considering investigating the cave for more bears, but decide not to. Vētrall tells Valan that they need to cut the bear's head off so they can take it back to [Trubska](../places/settlements/villages/trubska.md) as proof that the deed is done. Valan begrudgingly agrees to cut it off. The process is hard work and results in a rough and gory cut at a dramatic diagonal angle - no good for wall mounting.
 
 An argument quickly breaks out over who will be carrying the head back to the village. Vētrall, still upset over the blood on their fine clothes after the axe beak battle, insists that their student should carry it. Valan puts up a fair fight but eventually succumbs, feeling that the pair need to get on with the task.
 
@@ -216,7 +216,7 @@ On the way back Valan asks Vētrall about their ability to levitate. Vētrall re
 
 ## A Deed Well Done
 
-The pair spend the rest of the day trekking back to [Trubska](../places/villages/trubska.md), where they enter [the Three Goats](../places/buildings/inns-taverns/the-three-goats.md) inn to find [Oronar Redtooth](../characters/oronar-redtooth.md). Vētrall grabs the bear head and kicks the door open while holding the head over their own in triumph. This startles the [Coastguard](../organisations/guards/coastguard.md) inside who instinctively jump to their feet and grab their weapons before realising who it is.
+The pair spend the rest of the day trekking back to [Trubska](../places/settlements/villages/trubska.md), where they enter [the Three Goats](../places/buildings/inns-taverns/the-three-goats.md) inn to find [Oronar Redtooth](../characters/oronar-redtooth.md). Vētrall grabs the bear head and kicks the door open while holding the head over their own in triumph. This startles the [Coastguard](../organisations/guards/coastguard.md) inside who instinctively jump to their feet and grab their weapons before realising who it is.
 
 [Lionhunter](../characters/lionhunter.md) insists that Vētrall leaves the bear head outside due to the now partially congealed blood getting everywhere.
 
@@ -226,7 +226,7 @@ The pair remain at the inn overnight. They are once again given free accommodati
 
 *[Long rest]*
 
-In the morning the pair make the journey back down the trail to [Trest](../places/towns/trest.md), going straight into [The Fox Hole](../places/buildings/the-fox-hole.md). Presenting the 20 gp to [Hanz Peacemaker](../characters/hanz-peacemaker.md), he introduced their pair as they entered:
+In the morning the pair make the journey back down the trail to [Trest](../places/settlements/towns/trest.md), going straight into [The Fox Hole](../places/buildings/the-fox-hole.md). Presenting the 20 gp to [Hanz Peacemaker](../characters/hanz-peacemaker.md), he introduced their pair as they entered:
 
 *[Hanz Peacemaker](../characters/hanz-peacemaker.md):*
 > Returning to us, [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md), who have shared 20 gold with their family!
@@ -241,7 +241,7 @@ On their return, preparations are in place for [Vulpes Geen](../characters/vulpe
 
 After a few days of rest, it is the day of [Vulpes Geen](../characters/vulpes-geen.md)'s funeral.
 
-On the day Vētrall is asked to be a pallbearer, carring Geen's coffin from [The Fox Hole](../places/buildings/the-fox-hole.md) down to the water's edge of the [Gulf of Tanelle](../places/seas-oceans/gulf-of-tanelle.md) to the south west. A 200 strong congregation of Vulpes family, [Familia Vulpes](../organisations/familia-vulpes.md) members, and dignitaries from [Trest](../places/towns/trest.md) and [Starnov](../places/cities/starnov.md) follow the procession down a gently sloping path to the water's edge. [Valan Shadowgaze](../characters/valan-shadowgaze.md) is accompanied by [Eight Trees](../characters/eight-trees.md). The portrait of Geen is held aloft the entire way, and several members play drums and instruments.
+On the day Vētrall is asked to be a pallbearer, carring Geen's coffin from [The Fox Hole](../places/buildings/the-fox-hole.md) down to the water's edge of the [Gulf of Tanelle](../places/topography/seas-oceans/gulf-of-tanelle.md) to the south west. A 200 strong congregation of Vulpes family, [Familia Vulpes](../organisations/familia-vulpes.md) members, and dignitaries from [Trest](../places/settlements/towns/trest.md) and [Starnov](../places/settlements/cities/starnov.md) follow the procession down a gently sloping path to the water's edge. [Valan Shadowgaze](../characters/valan-shadowgaze.md) is accompanied by [Eight Trees](../characters/eight-trees.md). The portrait of Geen is held aloft the entire way, and several members play drums and instruments.
 
 Down on the water's edge a pedestal is waiting for the coffin. Vētrall helps place the coffin down before joining the rest of the congregation. A 600 year old high elf Judge Mother of [Malnesh](../gods/deities/malnesh.md) gives a sermon about how the legacy of Geen lives on through everyone, and it is now their responsibility to remember him and honour that legacy so that he may continue to live.
 
@@ -249,7 +249,7 @@ After the service, the journey is made in reverse back to [The Fox Hole](../plac
 
 Once there, a huge banquet is put on by [Aneni Veomelo](../characters/aneni-veomelo.md) and the kitchen staff. Geen's coffin is placed in the middle of the lodge table and surrounded by the wreaths of flowers, with his portrait placed on top. The banquet is laid out around this, filling the entire table with food and drink.
 
-Many of the dignitaries stick around for the wake. Much drink is consumed and many songs are sang. Vētrall debuts a song they were thinking up on their travel to and from [Trubska](../places/villages/trubska.md). As the night unfolds, word of the song goes around, prompting those who missed it to ask for an encore. In all Vētrall plays it over ten times that night.
+Many of the dignitaries stick around for the wake. Much drink is consumed and many songs are sang. Vētrall debuts a song they were thinking up on their travel to and from [Trubska](../places/settlements/villages/trubska.md). As the night unfolds, word of the song goes around, prompting those who missed it to ask for an encore. In all Vētrall plays it over ten times that night.
 
 *[Long rest]*
 
@@ -261,15 +261,15 @@ When [Vētrall Astérr](../characters/vetrall-asterr.md) finally emerges for bre
 
 He hands Vētrall a letter ([L-MC-03](../letters/L-MC-03.md)), plainly explaining that this came with Geen's will. Hanz doesn't cause any commotion, trying to keep the letter private out of respect for Vētrall.
 
-Vētrall takes the letter to a private corner, opening it and reading it. It is a letter from [Vulpes Geen](../characters/vulpes-geen.md) that contains an ornate key ([MC01F-I-3](../cards/MC01F-I-3.md)) for a strongbox (`FV-1286`) in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/cities/starnov.md). Geen warns Vētrall not to open it inside the building due to his personal feelings about the aura of the place.
+Vētrall takes the letter to a private corner, opening it and reading it. It is a letter from [Vulpes Geen](../characters/vulpes-geen.md) that contains an ornate key ([MC01F-I-3](../cards/MC01F-I-3.md)) for a strongbox (`FV-1286`) in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/settlements/cities/starnov.md). Geen warns Vētrall not to open it inside the building due to his personal feelings about the aura of the place.
 
-Returning to the banquet hall, Vētrall finds [Valan Shadowgaze](../characters/valan-shadowgaze.md) eating baked potatoes for breakfast. They tell Valan that they should hit the road to [Starnov](../places/cities/starnov.md) today as they have business there, choosing not to disclose what exactly.
+Returning to the banquet hall, Vētrall finds [Valan Shadowgaze](../characters/valan-shadowgaze.md) eating baked potatoes for breakfast. They tell Valan that they should hit the road to [Starnov](../places/settlements/cities/starnov.md) today as they have business there, choosing not to disclose what exactly.
 
 Before heading out the pair stock up on supplies. Vētrall purchases a shortbow, quiver, a full set of arrows, and a length of rope.
 
-## Off to [Starnov](../places/cities/starnov.md)
+## Off to [Starnov](../places/settlements/cities/starnov.md)
 
-The pair hit the road to [Starnov](../places/cities/starnov.md). Their travel is skipped over in order to begin the next session in [Starnov](../places/cities/starnov.md) itself.
+The pair hit the road to [Starnov](../places/settlements/cities/starnov.md). Their travel is skipped over in order to begin the next session in [Starnov](../places/settlements/cities/starnov.md) itself.
 
 ---
 

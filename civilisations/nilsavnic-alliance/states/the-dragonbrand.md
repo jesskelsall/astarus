@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Capital City** | [Lelxuuth](../../../places/cities/lelxuuth.md) | civilisation.2
+| **Capital City** | [Lelxuuth](../../../places/settlements/cities/lelxuuth.md) | civilisation.2
 | **Official Languages** | Draconic |
 | **Ethnic Groups** | Dragonborn |
 | **Religion** | |
@@ -28,12 +28,12 @@ The most northern state of the [Nil'Savnic alliance](../nilsavnic-alliance.md). 
 
 | Type | The Dragonbrand |
 | --- | --- |
-| City | [Lelxuuth](../../../places/cities/lelxuuth.md) |
+| City | [Lelxuuth](../../../places/settlements/cities/lelxuuth.md) |
 | Town | |
 | Village | |
 | Fort | |
 | Road | |
 | Forest | |
-| Rivers & Lakes | [Lake Alassau](../../../places/rivers-lakes/lake-alassau.md)<br>[River Alassau](../../../places/rivers-lakes/river-alassau.md)<br>[River Scintil](../../../places/rivers-lakes/river-scintil.md) |
-| Mountains | [Ciel Mountains](../../../places/mountains/ciel-mountains.md) |
-| Seas & Oceans | [Bay of Knives](../../../places/seas-oceans/bay-of-knives.md) |
+| Rivers & Lakes | [Lake Alassau](../../../places/topography/rivers-lakes/lake-alassau.md)<br>[River Alassau](../../../places/topography/rivers-lakes/river-alassau.md)<br>[River Scintil](../../../places/topography/rivers-lakes/river-scintil.md) |
+| Mountains | [Ciel Mountains](../../../places/topography/mountains/ciel-mountains.md) |
+| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-oceans/bay-of-knives.md) |

@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
 | **Relations** | |
-| **Places** | [Eskrigg](../places/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md) Stronghold |
+| **Places** | [Eskrigg](../places/settlements/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md) Stronghold |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
@@ -20,13 +20,13 @@
 
 ## Summary
 
-Legacy Aranius is a stern [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) who runs [Eskrigg](../places/cities/eskrigg.md) with an iron fist. He expects much of his subordinates and is hash toward them, but is also a suck-up to his superiors. His goal is to get promoted to [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md).
+Legacy Aranius is a stern [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) who runs [Eskrigg](../places/settlements/cities/eskrigg.md) with an iron fist. He expects much of his subordinates and is hash toward them, but is also a suck-up to his superiors. His goal is to get promoted to [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md).
 
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Eskrigg](../places/cities/eskrigg.md) | [Overon Nightingale](overon-nightingale.md) | *Lieutenants:*<br>[Sengras Longfoot](sengras-longfoot.md)<br>[Tanin Arnous](tanin-arnous.md) |
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Eskrigg](../places/settlements/cities/eskrigg.md) | [Overon Nightingale](overon-nightingale.md) | *Lieutenants:*<br>[Sengras Longfoot](sengras-longfoot.md)<br>[Tanin Arnous](tanin-arnous.md) |
 
 ## Character Rolls
 

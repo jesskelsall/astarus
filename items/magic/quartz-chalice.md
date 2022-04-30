@@ -24,6 +24,6 @@
 
 ## Summary
 
-Quartz chalices can be found in the chalice trial room of [Devdaha Crypt](../../places/dungeons/devdaha-crypt.md). They were placed there by [Deorvys](../../characters/deorvys.md) to guard the crypt's final room from those who are not worthy, including startouched of insufficient ability. They are guarded by Chitine and while incredibly useful to solving the puzzle, are not required to progress to the next room.
+Quartz chalices can be found in the chalice trial room of [Devdaha Crypt](../../places/structures/dungeons/devdaha-crypt.md). They were placed there by [Deorvys](../../characters/deorvys.md) to guard the crypt's final room from those who are not worthy, including startouched of insufficient ability. They are guarded by Chitine and while incredibly useful to solving the puzzle, are not required to progress to the next room.
 
 If kept safe, the quartz chalices can be taken from the dungeon as loot and used in combat, though their fragile nature makes them limited use wondrous items.

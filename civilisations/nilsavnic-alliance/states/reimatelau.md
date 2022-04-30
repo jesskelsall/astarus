@@ -40,7 +40,7 @@ Each arch-mage consults their citizens and advisors frequently. They are expecte
 
 Reimatelau is a fully integrated member of the [Nil'Savnic Alliance](../nilsavnic-alliance.md), representing the interests of elves within the alliance, particularly in matters of heritage.
 
-The [Syntenne Republic](../../syntenne-republic/syntenne-republic.md) sees Reimatelau as traitors to the legacy of the Elves of Chausain, typically distrusting them. Despite this they have several uneasy agreements of mutual benefit, such as both having a guard presence in [Côtedouce](../../../places/towns/cotedouce.md), and Reimatelau providing access to [Arrepont](../../../places/cities/arrepont.md) through [Savnia](savnia.md).
+The [Syntenne Republic](../../syntenne-republic/syntenne-republic.md) sees Reimatelau as traitors to the legacy of the Elves of Chausain, typically distrusting them. Despite this they have several uneasy agreements of mutual benefit, such as both having a guard presence in [Côtedouce](../../../places/settlements/towns/cotedouce.md), and Reimatelau providing access to [Arrepont](../../../places/settlements/cities/arrepont.md) through [Savnia](savnia.md).
 
 ## Culture
 
@@ -53,7 +53,7 @@ The ruling arch-mages and the [Unicorn Cavalry](../../../organisations/guards/un
 | Type | Reimatelau |
 | --- | --- |
 | City | Vouxelles (capital)<br>Lorignac<br>Ternant |
-| Town | Banquesèche<br>[Côtedouce](../../../places/towns/cotedouce.md) |
+| Town | Banquesèche<br>[Côtedouce](../../../places/settlements/towns/cotedouce.md) |
 | Village | |
 | Fort | |
 | Road | Jungle Crossing |
@@ -64,14 +64,14 @@ The ruling arch-mages and the [Unicorn Cavalry](../../../organisations/guards/un
 
 ## History
 
-In the wake of [the Third Coming](../../../history/events/the-third-coming.md), many elves living in modern day [Savnia](savnia.md) were displaced from [Naissance](../../../places/cities/arrepont.md) and its surrounding territory by the sudden influx of new people. Forced south by the new coalition of races that would eventually codify as [Savnia](savnia.md), the elves fled beyond the Vie Marshland and made their stand in the Reime Jungle.
+In the wake of [the Third Coming](../../../history/events/the-third-coming.md), many elves living in modern day [Savnia](savnia.md) were displaced from [Naissance](../../../places/settlements/cities/arrepont.md) and its surrounding territory by the sudden influx of new people. Forced south by the new coalition of races that would eventually codify as [Savnia](savnia.md), the elves fled beyond the Vie Marshland and made their stand in the Reime Jungle.
 
-Faced with a new sudden and harsh reality that the elves were no longer the dominant race in western [Kardan](../../../places/continents/kardan.md), many fled even further south to join the [Syntenne Republic](../../syntenne-republic/syntenne-republic.md), embracing their isolationist and historical ways. Those that were left united under a common unicorn banner - Reimatelau.
+Faced with a new sudden and harsh reality that the elves were no longer the dominant race in western [Kardan](../../../places/topography/continents-islands/kardan.md), many fled even further south to join the [Syntenne Republic](../../syntenne-republic/syntenne-republic.md), embracing their isolationist and historical ways. Those that were left united under a common unicorn banner - Reimatelau.
 
-For decades there were on and off wars on the edge of the jungle and up as far as Vouvant as Reimatelau tried to regain control of the now renamed city of [Arrepont](../../../places/cities/arrepont.md) from [Savnia](savnia.md).
+For decades there were on and off wars on the edge of the jungle and up as far as Vouvant as Reimatelau tried to regain control of the now renamed city of [Arrepont](../../../places/settlements/cities/arrepont.md) from [Savnia](savnia.md).
 
 Eventually with the rise of the [Kavallos Fleet](../../kavallos-fleet/kavallos-fleet.md) and other neighbouring powers such as the [Kingdom of Astor](../../kingdom-of-astor/kingdom-of-astor.md), [Savnia](savnia.md) and the [Nilus Coast](nilus-coast.md) entered into an alliance - the [Nil'Savnic Alliance](../nilsavnic-alliance.md). Unable to hold their own against a neighbour growing in size, Reimatelau sued for peace, realising that they would be better off embracing their new neighbours rather than resisting them.
 
 This started a period of introspection for these elves where they learned to embrace others and celebrate them and their cultures. Impressed by the culture and knowledge of the elves themselves, many people moved to Reimatelau, forming a mixed society that would come to define the state.
 
-Before long Reimatelau was invited to join the [Nil'Savnic Alliance](../nilsavnic-alliance.md). They did so under the conditions that elves displaced by [the Third Coming](../../../history/events/the-third-coming.md) would be able to return to their settlements in [Savnia](savnia.md), and that access to [Arrepont](../../../places/cities/arrepont.md) should be guaranteed to any elf regardless of state or political affiliation.
+Before long Reimatelau was invited to join the [Nil'Savnic Alliance](../nilsavnic-alliance.md). They did so under the conditions that elves displaced by [the Third Coming](../../../history/events/the-third-coming.md) would be able to return to their settlements in [Savnia](savnia.md), and that access to [Arrepont](../../../places/settlements/cities/arrepont.md) should be guaranteed to any elf regardless of state or political affiliation.

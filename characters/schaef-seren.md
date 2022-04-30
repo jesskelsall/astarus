@@ -18,7 +18,7 @@
 
 ## Summary
 
-Schaef Seren is [Ephaine Seren](ephaine-seren.md)'s father and the head of the Schaef family. He is a shepherd in [Filisur](../places/villages/filisur.md), providing for his family.
+Schaef Seren is [Ephaine Seren](ephaine-seren.md)'s father and the head of the Schaef family. He is a shepherd in [Filisur](../places/settlements/villages/filisur.md), providing for his family.
 
 ## Characteristics
 

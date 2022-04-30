@@ -11,12 +11,12 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Dunmore](../places/cities/dunmore.md) |
+| **Places** | [Dunmore](../places/settlements/cities/dunmore.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Captain](../organisations/government/astorrel/ranks/astorrel-captain.md) |
-| **Role** | Cities / [Dunmore](../places/cities/dunmore.md) |
+| **Role** | Cities / [Dunmore](../places/settlements/cities/dunmore.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Tamosha Goldron is a reserved Captain that enjoys the relative solitude that comes with being stationed in [Dunmore](../places/cities/dunmore.md). They prefer the day-to-day business to rubbing shoulders with the higher-ups.
+Tamosha Goldron is a reserved Captain that enjoys the relative solitude that comes with being stationed in [Dunmore](../places/settlements/cities/dunmore.md). They prefer the day-to-day business to rubbing shoulders with the higher-ups.
 
 ## Characteristics
 

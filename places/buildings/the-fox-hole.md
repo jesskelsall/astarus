@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | The Fox Hole | place.4
 | **Type** | Building |
-| **Location** | [Trest](../towns/trest.md)<br>[Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md)<br>[Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Location** | [Trest](../settlements/towns/trest.md)<br>[Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md)<br>[Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Nearby Places** | |
 | **People** | [Vulpes Geen](../../characters/vulpes-geen.md) (dead)<br>[Vulpes Soon](../../characters/vulpes-soon.md)<br>[Aneni Veomelo](../../characters/aneni-veomelo.md) (Mother of the House)<br>[Hanz Peacemaker](../../characters/hanz-peacemaker.md) (Father of the Door) |
 
@@ -16,7 +16,7 @@ The Fox Hole is the headquarters of [Familia Vulpes](../../organisations/familia
 
 Entry is limited to [Familia Vulpes](../../organisations/familia-vulpes.md) members who have either a [Coin of Family](../../items/coins/coin-of-family.md) or a [Coin of Friendship](../../items/coins/coin-of-friendship.md), making it a haven to like-minded adventurers that want to rest, share a story, and look for their next challenge.
 
-The viking-style lodge sits at the top of [Trest](../towns/trest.md), overlooking the town from its crested hill top. It is the most recognisable building in [Trest](../towns/trest.md) and easy to see from both the [Trest Marketplace](../structures/trest-marketplace.md) and various alleys throughout the town.
+The viking-style lodge sits at the top of [Trest](../settlements/towns/trest.md), overlooking the town from its crested hill top. It is the most recognisable building in [Trest](../settlements/towns/trest.md) and easy to see from both the [Trest Marketplace](../structures/trest-marketplace.md) and various alleys throughout the town.
 
 ### Exterior
 

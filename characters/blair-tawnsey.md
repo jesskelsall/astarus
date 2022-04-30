@@ -17,7 +17,7 @@
 
 ## Summary
 
-Blair Tawnsey is the head waiter of [The Alley](../places/buildings/shops/the-alley.md) in [Northhaven](../places/cities/northhaven.md).
+Blair Tawnsey is the head waiter of [The Alley](../places/buildings/shops/the-alley.md) in [Northhaven](../places/settlements/cities/northhaven.md).
 
 ## Characteristics
 

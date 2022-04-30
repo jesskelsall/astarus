@@ -20,7 +20,7 @@
 
 ## Summary
 
-Dinua Costello is the captain of [the Maiden's Accompaniment](../places/ships/the-maidens-accompaniment.md), a trade ship that operates in [South East Kardan](../places/regions/south-east-kardan.md). She is a kind and curious person who loves a good story to break up the monotony of her work.
+Dinua Costello is the captain of [the Maiden's Accompaniment](../places/ships/the-maidens-accompaniment.md), a trade ship that operates in [Southeastern Kardan](../places/regions/southeastern-kardan.md). She is a kind and curious person who loves a good story to break up the monotony of her work.
 
 ## Characteristics
 

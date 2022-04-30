@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | Farmhand (wife, dead) |
-| **Places** | [Sonnigeweide](../places/villages/sonnigeweide.md) |
+| **Places** | [Sonnigeweide](../places/settlements/villages/sonnigeweide.md) |
 | **Citizenship** | [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Organisation(s)** | |
 |||
@@ -18,7 +18,7 @@
 
 ## Summary
 
-Rowan Stonesworn was an agricultural farmer that owned a small farmstead northwest of [Sonnigeweide](../places/villages/sonnigeweide.md). His wife was killed by wolves from the Schulterwood and ultimately met the same fate.
+Rowan Stonesworn was an agricultural farmer that owned a small farmstead northwest of [Sonnigeweide](../places/settlements/villages/sonnigeweide.md). His wife was killed by wolves from the Schulterwood and ultimately met the same fate.
 
 ## Characteristics
 

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Ziegenturm | place.4
 | **Type** | Tavern |
-| **Location** | [Dünnesland](../../towns/dunnesland.md) |
+| **Location** | [Dünnesland](../../settlements/towns/dunnesland.md) |
 | **Nearby Places** | [The Corner House](the-corner-house.md) |
 | **People** | |
 

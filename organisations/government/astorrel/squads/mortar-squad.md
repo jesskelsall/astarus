@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Mortar Squad | squad.2
-| **Role** | Cities / [Eskrigg](../../../../places/cities/eskrigg.md) |
+| **Role** | Cities / [Eskrigg](../../../../places/settlements/cities/eskrigg.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | [Reozin Ironhide](../../../../characters/reozin-ironhide.md) |
 | **Squad Hands** | [Aisling Kavanagh](../../../../characters/aisling-kavanagh.md)<br>[Diarmuid Kavanagh](../../../../characters/diarmuid-kavanagh.md)<br>[Yoroe Briskboots](../../../../characters/yoroe-briskboots.md) |

@@ -13,9 +13,9 @@ The [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md
 
 ### Pre-campaign
 
-Two days before the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign begins, a meteor falls from the sky and impacts north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), on the edge of the [Hawkswood](../../places/forests/hawkswood.md) ([Hawkswood North East](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-north-east.md)), punching a hole through a cave ([Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md)) where it came to rest.
+Two days before the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign begins, a meteor falls from the sky and impacts north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), on the edge of the [Hawkswood](../../places/topography/forests/hawkswood.md) ([Hawkswood North East](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-north-east.md)), punching a hole through a cave ([Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md)) where it came to rest.
 
-Since then, many people have came to [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to find it, including [Wrenn Piznarck](../../characters/wrenn-piznarck.md), who arrived from [Northhaven](../../places/cities/northhaven.md) in search of the [meteorite](../../items/meteoric/meteorite.md). Nobody has managed to find it yet.
+Since then, many people have came to [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to find it, including [Wrenn Piznarck](../../characters/wrenn-piznarck.md), who arrived from [Northhaven](../../places/settlements/cities/northhaven.md) in search of the [meteorite](../../items/meteoric/meteorite.md). Nobody has managed to find it yet.
 
 ### [PR01](../../sessions/PR01.md)
 
@@ -27,7 +27,7 @@ The party doesn't initially take him up on his offer. Wrenn tells them to find h
 
 The party meets [Wrenn Piznarck](../../characters/wrenn-piznarck.md) at [Alistair Hawthorn's House](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md) on [Flute Street](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/flute-street.md) as instructed, so that they may help him find the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md).
 
-He tells them what he has found out so far - that it appeared to come down to the north west, around the edge of the [Hawkswood](../../places/forests/hawkswood.md), and that nobody has found a crater of any kind yet. He also explains that he will not be accompanying them and will be waiting here for their return, but that his crow familiar will be keeping an eye on them.
+He tells them what he has found out so far - that it appeared to come down to the north west, around the edge of the [Hawkswood](../../places/topography/forests/hawkswood.md), and that nobody has found a crater of any kind yet. He also explains that he will not be accompanying them and will be waiting here for their return, but that his crow familiar will be keeping an eye on them.
 
 ### [PR04](../../sessions/PR04.md)
 

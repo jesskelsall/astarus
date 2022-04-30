@@ -63,7 +63,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR19](../sessions/PR19.md) | 2021-03-10 | *A Revolving Door of Visitors* |
 | [PR20](../sessions/PR20.md) | 2021-03-24 | *[The Firbolg Controversy](../storylines/ended/the-firbolg-controversy.md) Trial* |
 | [PR21](../sessions/PR21.md) | 2021-03-31 | *[Accepting the Astorrel's Offer](../storylines/ended/accepting-the-astorrels-offer.md)* |
-| [PR22](../sessions/PR22.md) | 2021-04-07 | *Unleashed on [Northhaven](../places/cities/northhaven.md)* |
+| [PR22](../sessions/PR22.md) | 2021-04-07 | *Unleashed on [Northhaven](../places/settlements/cities/northhaven.md)* |
 | [AA08](../sessions/AA08.md) | 2021-04-24 | *[Nature's Battle](../mechanics/roleplay/natures-battle.md)*
 | [PR23](../sessions/PR23.md) | 2021-04-28 | *[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) vs [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md)* |
 | [PR24](../sessions/PR24.md) | 2021-05-05 | *[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) vs [Gloom Squad](../organisations/government/astorrel/squads/gloom-squad.md)* |
@@ -84,7 +84,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR38](../sessions/PR38.md) | 2021-10-13 | *Dream Discussions* |
 | [PR39](../sessions/PR39.md) | 2021-10-21 | *Friends in Unlikely Places* |
 | [PR40](../sessions/PR40.md) | 2021-11-03 | *A Storm on the Road* |
-| [PR41](../sessions/PR41.md) | 2021-11-10 | *Hanging in [Hyceodd](../places/towns/hyceodd.md)* |
+| [PR41](../sessions/PR41.md) | 2021-11-10 | *Hanging in [Hyceodd](../places/settlements/towns/hyceodd.md)* |
 | [PR42](../sessions/PR42.md) | 2021-11-18 | *[Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md)* |
 | [PR43](../sessions/PR43.md) | 2021-11-24 | *Howling in the Pass* |
 | [PR44](../sessions/PR44.md) | 2021-12-01 | *The Night of Eyes* |

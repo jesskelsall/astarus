@@ -11,9 +11,9 @@
 
 ## Returning to [Creek](../characters/creek.md)
 
-While away from the [Scintil Delta](../places/rivers-lakes/scintil-delta.md), [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) receive a letter ([L-MC-04](../letters/L-MC-04.md)) from their [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contract, [Creek](../characters/creek.md), requesting their presence at [Tabaxi's Folly](../places/buildings/tabaxis-folly.md). Marik reads it to Kera who is illiterate. [Creek](../characters/creek.md) notes their debt to him after he bailed them out of jail earlier in their [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) career.
+While away from the [Scintil Delta](../places/topography/rivers-lakes/scintil-delta.md), [Keranios](../characters/keranios.md) and [Marik Kaligavone](../characters/marik-kaligavone.md) receive a letter ([L-MC-04](../letters/L-MC-04.md)) from their [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contract, [Creek](../characters/creek.md), requesting their presence at [Tabaxi's Folly](../places/buildings/tabaxis-folly.md). Marik reads it to Kera who is illiterate. [Creek](../characters/creek.md) notes their debt to him after he bailed them out of jail earlier in their [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) career.
 
-The pair make their way back to [Murkwallow](../places/cities/murkwallow.md), heading across the [River Scintil](../places/rivers-lakes/river-scintil.md) by boat and into the city. Once there they locate one of the secret entrances hidden under a canal bridge, pressing the secret cobblestone button to unlock the push-in door.
+The pair make their way back to [Murkwallow](../places/settlements/cities/murkwallow.md), heading across the [River Scintil](../places/topography/rivers-lakes/river-scintil.md) by boat and into the city. Once there they locate one of the secret entrances hidden under a canal bridge, pressing the secret cobblestone button to unlock the push-in door.
 
 Once inside, the door is closed behind them, causing the tunnel to go pitch black. Marik leads, casting Produce Flame to create a light source to lead the way with. Kera is amused by the secret entrance.
 
@@ -60,11 +60,11 @@ Marik retrieves her rope.
 
 [Creek](../characters/creek.md) has business for the pair, alluding to the letter that brought them both here. He makes it clear that the events that this job will set into motion could be incredibly lucrative. If they play their part, he is willing to call their debt even. The pair agree to help.
 
-He details the job. There is a songbird ([Pouring Grain](../characters/pouring-grain.md)) being held captive by a blue dragonborn ([Thelraar Avrae](../characters/thelraar-avrae.md)) in [the Terrific Toad](../places/buildings/inns-taverns/the-terrific-toad.md) here in [Murkwallow](../places/cities/murkwallow.md). Their job is to free the songbird and escort them to [Starnov](../places/cities/starnov.md). The pair aren't familiar with songbirds outside of Kera knowing that they are kenku, and neither inquire about who in [Starnov](../places/cities/starnov.md) to bring them to. [Creek](../characters/creek.md) makes it clear that the songbird should be kept out of sight of any guards they come across.
+He details the job. There is a songbird ([Pouring Grain](../characters/pouring-grain.md)) being held captive by a blue dragonborn ([Thelraar Avrae](../characters/thelraar-avrae.md)) in [the Terrific Toad](../places/buildings/inns-taverns/the-terrific-toad.md) here in [Murkwallow](../places/settlements/cities/murkwallow.md). Their job is to free the songbird and escort them to [Starnov](../places/settlements/cities/starnov.md). The pair aren't familiar with songbirds outside of Kera knowing that they are kenku, and neither inquire about who in [Starnov](../places/settlements/cities/starnov.md) to bring them to. [Creek](../characters/creek.md) makes it clear that the songbird should be kept out of sight of any guards they come across.
 
 Kera suggests that [Creek](../characters/creek.md) increases [Wedge](../characters/wedge.md)'s pay as he is having a particularly bad day. [Creek](../characters/creek.md) grins, taking his words under advisement. When the pair leave, Marik chastises Kera for bringing that up while they are being given important business.
 
-The pair head out of [Tabaxi's Folly](../places/buildings/tabaxis-folly.md) and across [Murkwallow](../places/cities/murkwallow.md).
+The pair head out of [Tabaxi's Folly](../places/buildings/tabaxis-folly.md) and across [Murkwallow](../places/settlements/cities/murkwallow.md).
 
 ## Finding the Songbird
 
@@ -93,15 +93,15 @@ The three begin to leave, doing their best to blend in and look nonchalant. A sm
 
 Once the skimmers are outside, Marik hears the sound of two coins hitting the cobbled street. She follows the sound, arriving at [the alley](../places/buildings/shops/the-alley.md), where she finds [Pouring Grain](../characters/pouring-grain.md) waiting for her. This is her first exposure to mimicry. The three reconvene.
 
-Some time is spent in [Murkwallow](../places/cities/murkwallow.md) gathering supplies before hitting the road south east to [Starnov](../places/cities/starnov.md). Knowing that the journey will take an amount of days, Kera buys 8 day rations (4 gp) which Marik holds on to. These supplement the skimmers existing rations, providing food for their escort.
+Some time is spent in [Murkwallow](../places/settlements/cities/murkwallow.md) gathering supplies before hitting the road south east to [Starnov](../places/settlements/cities/starnov.md). Knowing that the journey will take an amount of days, Kera buys 8 day rations (4 gp) which Marik holds on to. These supplement the skimmers existing rations, providing food for their escort.
 
 ## Heading South East
 
-The party exits [Murkwallow](../places/cities/murkwallow.md) by boat. Once on the south side of the [Scintil Delta](../places/rivers-lakes/scintil-delta.md), they assess their transportation options along the Emerald Way. Deciding that it is best not to attract attention they opt to travel on foot. Marik leads the way while Kera watches the rear.
+The party exits [Murkwallow](../places/settlements/cities/murkwallow.md) by boat. Once on the south side of the [Scintil Delta](../places/topography/rivers-lakes/scintil-delta.md), they assess their transportation options along the Emerald Way. Deciding that it is best not to attract attention they opt to travel on foot. Marik leads the way while Kera watches the rear.
 
 An uneventful day passes walking along the Emerald Way, enjoying the rolling grassy fields with views of the Scintil Swamp to the west.
 
-Half way to [Kulevi](../places/towns/kulevi.md) they stop for the night, setting up a camp and lighting a bonfire.
+Half way to [Kulevi](../places/settlements/towns/kulevi.md) they stop for the night, setting up a camp and lighting a bonfire.
 
 ## Wolves in the Night
 
@@ -128,15 +128,15 @@ Kera remains awake on watch for the rest of the night, taking a point of exhaust
 
 After packing up camp the party eat rations for breakfast. Marik passes one to [Pouring Grain](../characters/pouring-grain.md) who pecks at it messily, wasting food much to Marik's disappointment.
 
-The party hits the road together, remaining in the same formation. By afternoon they arrive at the Key to the North road, following it south toward [Kulevi](../places/towns/kulevi.md).
+The party hits the road together, remaining in the same formation. By afternoon they arrive at the Key to the North road, following it south toward [Kulevi](../places/settlements/towns/kulevi.md).
 
 About 30 minutes later they encounter three guards of the [Bay Watch](../organisations/guards/bay-watch.md) riding on horseback, patrolling northward along the road. Not spotting them until they are in good visual range, Kera hides [Pouring Grain](../characters/pouring-grain.md) behind them as they walk.
 
-The guards notice a kenku with the party, stopping to chat to the group. The guards are pleasant and inquire where the party is going, to which they honestly answer that they are going to [Starnov](../places/cities/starnov.md) via [Kulevi](../places/towns/kulevi.md). When the guards question the kenku, the skimmers are able to convince the guards that [Pouring Grain](../characters/pouring-grain.md) is just one of their party members. The guards opt not to press the issue and move on, giving the kenku a final glance as they ride off.
+The guards notice a kenku with the party, stopping to chat to the group. The guards are pleasant and inquire where the party is going, to which they honestly answer that they are going to [Starnov](../places/settlements/cities/starnov.md) via [Kulevi](../places/settlements/towns/kulevi.md). When the guards question the kenku, the skimmers are able to convince the guards that [Pouring Grain](../characters/pouring-grain.md) is just one of their party members. The guards opt not to press the issue and move on, giving the kenku a final glance as they ride off.
 
-## Staying Overnight in [Kulevi](../places/towns/kulevi.md)
+## Staying Overnight in [Kulevi](../places/settlements/towns/kulevi.md)
 
-By early evening the party arrives in [Kulevi](../places/towns/kulevi.md). Kera wishes to check out the clothing stores but they have already closed for the day. The party finds an inn to stay at: [The Quail's Nest](../places/buildings/inns-taverns/the-quails-nest.md).
+By early evening the party arrives in [Kulevi](../places/settlements/towns/kulevi.md). Kera wishes to check out the clothing stores but they have already closed for the day. The party finds an inn to stay at: [The Quail's Nest](../places/buildings/inns-taverns/the-quails-nest.md).
 
 Once inside they order drinks and ask about a room for the night. Single and double rooms are offered. Kera insists that one double room will be fine, offering to sleep on the floor.
 
@@ -184,11 +184,11 @@ Fortunately for the party the guards are slow and quickly lose them. The party i
 
 From the rooftop she meows to get Kera's attention and signal which direction the party should go, but he is unaware that it is Marik, not paying her much attention. Marik gets frustrated, jumping from the roof to Kera's shoulder. She barely makes it, grabbing his shoulder with her front legs but falling down his back with her hind legs. She then jumps down and transforms back into her regular goliath form in front of him, proving her identity.
 
-Marik leads the party out of [Kulevi](../places/towns/kulevi.md), hitting the Key to the North road to [Starnov](../places/cities/starnov.md). By the afternoon of the second day, the party arrives.
+Marik leads the party out of [Kulevi](../places/settlements/towns/kulevi.md), hitting the Key to the North road to [Starnov](../places/settlements/cities/starnov.md). By the afternoon of the second day, the party arrives.
 
 ## Delivering the Songbird to [Crucible](../characters/crucible.md)
 
-Upon arriving in [Starnov](../places/cities/starnov.md), the party are met by a dwarf skimmer who takes them to a [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact in the city. They lead them to a dark warehouse where they move a heavy box aside, revealing a trapdoor. The dwarf opens it, lights a candle, and descends into a small tunnel. The party follows.
+Upon arriving in [Starnov](../places/settlements/cities/starnov.md), the party are met by a dwarf skimmer who takes them to a [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact in the city. They lead them to a dark warehouse where they move a heavy box aside, revealing a trapdoor. The dwarf opens it, lights a candle, and descends into a small tunnel. The party follows.
 
 A brief claustrophobic tunnel leads to an excavated room with a wooden desk, two bookcases behind it, and a few chairs on the opposite side of the 20ft by 15ft space. Sat at the desk is [Crucible](../characters/crucible.md).
 
@@ -196,7 +196,7 @@ A brief claustrophobic tunnel leads to an excavated room with a wooden desk, two
 
 [Crucible](../characters/crucible.md) hands the letter to Marik who reads the plain ink message on the front. Kera plays with one of the three ornate and unique knives on [Crucible](../characters/crucible.md)'s desk, causing her to scold him and tell him to sit down on the other side of the room. This is accompanied by extremely judgemental looks.
 
-[Crucible](../characters/crucible.md) then asks [Pouring Grain](../characters/pouring-grain.md) to recite their message. They recite a conversation they witnessed between [Creek](../characters/creek.md) and [Vulpes Geex](../characters/vulpes-geex.md) wherein Geex swears his allegiance to the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md), promising to provide information on what is happening within [Familia Vulpes](../organisations/familia-vulpes.md), particularly in the wake of [Vulpes Geen](../characters/vulpes-geen.md)'s death. Geex goes one step further, giving [Creek](../characters/creek.md) a "welcoming gift" - word that an inheritor will be travelling to [Starnov](../places/cities/starnov.md)'s [Nilus Vaults](../places/buildings/government/nilus-vaults.md) following the will reading to retrieve an unknown treasure, possibly [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md).
+[Crucible](../characters/crucible.md) then asks [Pouring Grain](../characters/pouring-grain.md) to recite their message. They recite a conversation they witnessed between [Creek](../characters/creek.md) and [Vulpes Geex](../characters/vulpes-geex.md) wherein Geex swears his allegiance to the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md), promising to provide information on what is happening within [Familia Vulpes](../organisations/familia-vulpes.md), particularly in the wake of [Vulpes Geen](../characters/vulpes-geen.md)'s death. Geex goes one step further, giving [Creek](../characters/creek.md) a "welcoming gift" - word that an inheritor will be travelling to [Starnov](../places/settlements/cities/starnov.md)'s [Nilus Vaults](../places/buildings/government/nilus-vaults.md) following the will reading to retrieve an unknown treasure, possibly [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md).
 
 With all of the information gleaned from [Pouring Grain](../characters/pouring-grain.md), [Crucible](../characters/crucible.md) dismisses them, and they leave immediately with no acknowledgement to or by the party.
 
@@ -210,7 +210,7 @@ The party is given an ornate key ([MC01M-I-1](../cards/MC01M-I-1.md)) by [Crucib
 
 ### [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) Assistance
 
-The skimmers attempt to find other [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) in [Starnov](../places/cities/starnov.md) that are willing to help them with the ambush. None are willing to work for less than 20 gp per day, pricing them out.
+The skimmers attempt to find other [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) in [Starnov](../places/settlements/cities/starnov.md) that are willing to help them with the ambush. None are willing to work for less than 20 gp per day, pricing them out.
 
 ### Scoping the [Nilus Vaults](../places/buildings/government/nilus-vaults.md)
 

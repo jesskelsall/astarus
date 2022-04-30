@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Arnaside Logging Camp |
 | **Type** | Structure |
-| **Location** | [Arnaside](../villages/arnaside.md) |
+| **Location** | [Arnaside](../settlements/villages/arnaside.md) |
 | **Nearby Places** | |
 | **People** | [Kulegar Bronhor](../../characters/kulegar-bronhor.md) |
 
 ## Summary
 
-The Arnaside Logging Camp is where the village of [Arnaside](../villages/arnaside.md) organises its logging of [Walna Forest](../forests/walna-forest.md).
+The Arnaside Logging Camp is where the village of [Arnaside](../settlements/villages/arnaside.md) organises its logging of [Walna Forest](../topography/forests/walna-forest.md).
 
 | Sensation | Description |
 | ---- | --- |
@@ -26,7 +26,7 @@ The night before the party arrives, the [blue kobolds](../../lineages/blue-kobol
 
 ## Planning
 
-### Trouble in [Arnaside](../villages/arnaside.md)
+### Trouble in [Arnaside](../settlements/villages/arnaside.md)
 
 When the party first arrives at the logging camp, several loggers are cleaning up after the chaos of the kobold attack the night before.
 

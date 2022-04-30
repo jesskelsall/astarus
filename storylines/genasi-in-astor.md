@@ -13,7 +13,7 @@ There are other genasi in the [Kingdom of Astor](../civilisations/kingdom-of-ast
 
 ### [PR37](../sessions/PR37.md)
 
-[Torbra Tauff](../characters/torbra-tauff.md) uses her downtime in [Northhaven](../places/cities/northhaven.md) to do research on the word "genasi", given to her by [Montel Leithran](../characters/montel-leithran.md). She once again heads to the [Hawk's Perch](../places/buildings/hawks-perch.md) in the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
+[Torbra Tauff](../characters/torbra-tauff.md) uses her downtime in [Northhaven](../places/settlements/cities/northhaven.md) to do research on the word "genasi", given to her by [Montel Leithran](../characters/montel-leithran.md). She once again heads to the [Hawk's Perch](../places/buildings/government/hawks-perch.md) in the [Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md).
 
 Here she has little luck finding the word in use, but catches the attention of [Flavian Giltrop](../characters/flavian-giltrop.md), the librarian. She tells him of the word and how she came to know of it, but lies about why she is looking for it, claiming to be interested in learning more about [Simanelli Tyrol](../characters/simanelli-tyrol.md). Flavian doesn't fully believe her, so questions her quietly about what she'd do with the information she seeks. When Torbra says it would depend on what she learns, Flavian is happy enough to tell her more.
 
@@ -21,11 +21,11 @@ She asks Torbra to leave 5 gp on the counter and return first thing in the morni
 
 ### [PR39](../sessions/PR39.md)
 
-[Torbra Tauff](../characters/torbra-tauff.md) returns to [Hawk's Perch](../places/buildings/hawks-perch.md) in the early hours of the morning and is let in by [Flavian Giltrop](../characters/flavian-giltrop.md). Not long after arriving, [Darius Dunn](../characters/darius-dunn.md) arrives to meet her.
+[Torbra Tauff](../characters/torbra-tauff.md) returns to [Hawk's Perch](../places/buildings/government/hawks-perch.md) in the early hours of the morning and is let in by [Flavian Giltrop](../characters/flavian-giltrop.md). Not long after arriving, [Darius Dunn](../characters/darius-dunn.md) arrives to meet her.
 
 Darius notes that he is aware of Torbra due to [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md)'s participation in the [Nature's Battle 28](ended/natures-battle-28.md) tournament, but wasn't aware of her elemental lineage. The pair introduce themselves formally. Darius explains to Torbra that he has an affinity for fire, providing a brief demonstration where he harnesses fire in the palm of his hand.
 
-Darius asserts that Torbra has an affinity for earth, explaining that he knows because he met another ([Flavian Giltrop](../characters/flavian-giltrop.md)) in [Eskrigg](../places/cities/eskrigg.md) while there for the tournament, after a period of exchanging letters. He provides Flavian's details so that Torbra may write to him herself.
+Darius asserts that Torbra has an affinity for earth, explaining that he knows because he met another ([Flavian Giltrop](../characters/flavian-giltrop.md)) in [Eskrigg](../places/settlements/cities/eskrigg.md) while there for the tournament, after a period of exchanging letters. He provides Flavian's details so that Torbra may write to him herself.
 
 When Torbra begins to speak of what she learned about genasi from [Montel Leithran](../characters/montel-leithran.md), Darius indicates that they shouldn't speak so openly about the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md), so he ushers Torbra upstairs. The pair speak quietly between two bookshelves away from Flavian's ear.
 
@@ -43,4 +43,4 @@ When [Torbra Tauff](../characters/torbra-tauff.md) next speaks to [Darius Dunn](
 - Write to any genasi she knows, passing along Darius' address.
 - Inform Darius of anyone from outside of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) willing to speak about the outside world.
 
-Genasi will be heavily employed in efforts to defeat [the meteorics](../lineages/the-meteorics.md) in [Eskrigg](../places/cities/eskrigg.md), due to their abilities not being suppressed by anti-magic fields.
+Genasi will be heavily employed in efforts to defeat [the meteorics](../lineages/the-meteorics.md) in [Eskrigg](../places/settlements/cities/eskrigg.md), due to their abilities not being suppressed by anti-magic fields.

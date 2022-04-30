@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Cork Pop](cork-pop.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) associate) |
-| **Places** | [Trest](../places/towns/trest.md) |
+| **Places** | [Trest](../places/settlements/towns/trest.md) |
 | **Citizenship** | |
 | **Organisation(s)** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 |||
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Viola is a Marsh Skimmer that works closely with [Cork Pop](cork-pop.md) out of [Trest](../places/towns/trest.md).
+Viola is a Marsh Skimmer that works closely with [Cork Pop](cork-pop.md) out of [Trest](../places/settlements/towns/trest.md).
 
 ## Characteristics
 

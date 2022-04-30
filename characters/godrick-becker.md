@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) |
 | **Relations** | |
-| **Places** | [Blittergate Astornox Stronghold](../places/strongholds/blittergate-astornox-stronghold.md) |
+| **Places** | [Blittergate Astornox Stronghold](../places/settlements/strongholds/blittergate-astornox-stronghold.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
@@ -18,13 +18,13 @@
 
 ## Summary
 
-Godrick Becker is the pleasant [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) of [Blittergate](../places/towns/blittergate.md). He has old fashioned sensibilities and is stuck in his world view.
+Godrick Becker is the pleasant [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) of [Blittergate](../places/settlements/towns/blittergate.md). He has old fashioned sensibilities and is stuck in his world view.
 
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Blittergate](../places/towns/blittergate.md) | [Overon Nightingale](overon-nightingale.md) | [Marlene Fresk](marlene-fresk.md) |
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Blittergate](../places/settlements/towns/blittergate.md) | [Overon Nightingale](overon-nightingale.md) | [Marlene Fresk](marlene-fresk.md) |
 
 ## Characteristics
 
@@ -40,5 +40,5 @@ Godrick Becker is the pleasant [Astornox Captain](../organisations/government/as
 | **Quirks** | Struggles to accept or process concepts he is unfamiliar with. |
 | **Knowledge** | Civic matters, countryside farming. Local wildlife. |
 | **Values** | Tradition, military hierarchy, familiarity, politeness. |
-| **Ambitions** | Wants to keep [Blittergate](../places/towns/blittergate.md) quite and safe for the last of his years. |
+| **Ambitions** | Wants to keep [Blittergate](../places/settlements/towns/blittergate.md) quite and safe for the last of his years. |
 | **Dislikes** | The ever-changing world, disobedience, lack of conviction. |

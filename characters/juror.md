@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Lonearm](lonearm.md) (employer)<br>[Crucible](crucible.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact) |
-| **Places** | [Starnov](../places/cities/starnov.md) |
+| **Places** | [Starnov](../places/settlements/cities/starnov.md) |
 | **Citizenship** | |
 | **Organisation(s)** | |
 |||

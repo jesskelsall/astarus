@@ -26,7 +26,7 @@
 
 Alistair Hawthorn is the [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). He is the commanding officer there, overseeing the protection of the town and the use of its standing military presence.
 
-His job is to make sure that nothing bad happens in the town, so his role is varied and includes keeping the peace, dealing with local wildlife, and looking out for [magicborn](../civilisations/kingdom-of-astor/magicborn.md) that can be sent off to [Northhaven](../places/cities/northhaven.md) for processing.
+His job is to make sure that nothing bad happens in the town, so his role is varied and includes keeping the peace, dealing with local wildlife, and looking out for [magicborn](../civilisations/kingdom-of-astor/magicborn.md) that can be sent off to [Northhaven](../places/settlements/cities/northhaven.md) for processing.
 
 He comes from a prestigious family and is the embodiment of the upper class in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), ruling through rank and reputation alike.
 
@@ -57,4 +57,4 @@ When he was younger, Alistair was stationed in Kilflynn with [Wrenn Piznarck](wr
 
 Following the impact of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), Alistair saw an influx of people into [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). This put him on edge as more people typically means more trouble.
 
-Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the town from [Northhaven](../places/cities/northhaven.md) to investigate the [meteorite](../items/meteoric/meteorite.md). He agreed to host him in his home while he had business in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
+Not long after, his friend [Wrenn Piznarck](wrenn-piznarck.md) arrived in the town from [Northhaven](../places/settlements/cities/northhaven.md) to investigate the [meteorite](../items/meteoric/meteorite.md). He agreed to host him in his home while he had business in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).

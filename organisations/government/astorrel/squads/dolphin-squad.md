@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Dolphin Squad | squad.2
-| **Role** | Cities / [Northhaven](../../../../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../../../../places/settlements/cities/northhaven.md) |
 | **Commanding Officer** | [Emdar Silverstrike](../../../../characters/emdar-silverstrike.md) |
 | **Squad Lead** | |
 | **Squad Hands** | [Dust of Chalk](../../../../characters/dust-of-chalk.md)<br>[Kathmera Frozeneyes](../../../../characters/kathmera-frozeneyes.md)<br>[Panafiz Zemblelimble](../../../../characters/panafiz-zemblelimble.md)<br>[Whisper on the Breeze](../../../../characters/whisper-on-the-breeze.md) |
@@ -20,7 +20,7 @@ Dolphin Squad is the [Astorrel](../astorrel.md) squad that [Noon Schiller](../..
 
 | Mission | Status |
 | --- | --- |
-| Survey Fish in [Picdale Water](../../../../places/rivers-lakes/picdale-water.md) | Finished |
+| Survey Fish in [Picdale Water](../../../../places/topography/rivers-lakes/picdale-water.md) | Finished |
 
 ## Changes
 

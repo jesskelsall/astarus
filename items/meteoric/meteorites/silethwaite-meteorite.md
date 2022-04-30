@@ -16,7 +16,7 @@ The Silethwaite Meteorite was the second [meteorite](../meteorite.md) that [Astr
 
 ## History
 
-When [Astral squad](../../../organisations/government/astorrel/squads/astral-squad.md) heard rumours of a meteor that landed near Silethwaite, they considered making a trip to the village to investigate. Not being able to make the journey due to their [Astorrel](../../../organisations/government/astorrel/astorrel.md) commitments, they instead recruited a local [Northhaven](../../../places/cities/northhaven.md) adventuring group called [the Morning Chasers](../../../organisations/the-morning-chasers.md) to look for them.
+When [Astral squad](../../../organisations/government/astorrel/squads/astral-squad.md) heard rumours of a meteor that landed near Silethwaite, they considered making a trip to the village to investigate. Not being able to make the journey due to their [Astorrel](../../../organisations/government/astorrel/astorrel.md) commitments, they instead recruited a local [Northhaven](../../../places/settlements/cities/northhaven.md) adventuring group called [the Morning Chasers](../../../organisations/the-morning-chasers.md) to look for them.
 
 When [the Morning Chasers](../../../organisations/the-morning-chasers.md) returned they spoke of strange creatures attacking the locals. Additionally the adventurers managed to locate a large animal den on the outskirts of the forest, though there were no signs of the creatures.
 

@@ -11,7 +11,7 @@
 | **Class** | Barbarian (Path of the Ancestral Guardian) |
 | **Worship** | |
 | **Relations** | [Dune under Sunset](dune-under-sunset.md) (friend) |
-| **Places** | [Kuv'narash](../places/villages/kuvnarash.md)<br>Kas'ran Desert |
+| **Places** | [Kuv'narash](../places/settlements/villages/kuvnarash.md)<br>Kas'ran Desert |
 |||
 | **Citizenship** | |
 | **Organisation** | |

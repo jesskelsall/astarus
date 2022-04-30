@@ -30,7 +30,7 @@
 >
 > As a welcoming gift, Geex provides us this gem:
 >
-> [The Metal Fox](../characters/vulpes-geen.md) is holding something in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/cities/starnov.md). What he does not know.
+> [The Metal Fox](../characters/vulpes-geen.md) is holding something in the [Nilus Vaults](../places/buildings/government/nilus-vaults.md) in [Starnov](../places/settlements/cities/starnov.md). What he does not know.
 >
 > Whoever gains it from his will should be coming straight here to collect it. **Be ready.**
 >

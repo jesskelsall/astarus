@@ -17,7 +17,7 @@
 
 ## Summary
 
-Zarrus Maleron is the innkeeper at the [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) in [Northhaven](../places/cities/northhaven.md). He works for [Cara Treffen](cara-treffen.md), the owner.
+Zarrus Maleron is the innkeeper at the [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) in [Northhaven](../places/settlements/cities/northhaven.md). He works for [Cara Treffen](cara-treffen.md), the owner.
 
 Zarrus is polite but eccentric, providing a unique social interaction to the guests of the inn - one which they typically welcome. He speaks with odd inflection and describes things in a roundabout manner.
 

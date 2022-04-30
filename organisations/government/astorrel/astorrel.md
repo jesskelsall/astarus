@@ -8,7 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | [Levelle Tristwix](../../../characters/levelle-tristwix.md) |
 | **Patron(s)** | [Kirrel](../../../gods/deities/kirrel.md) |
-| **Location(s)** | [Northhaven Astorrel Stronghold](../../../places/strongholds/northhaven-astorrel-stronghold.md) (headquarters) |
+| **Location(s)** | [Northhaven Astorrel Stronghold](../../../places/settlements/strongholds/northhaven-astorrel-stronghold.md) (headquarters) |
 |||
 | **Image ID** | `755b46068cccdb49` |
 
@@ -124,21 +124,21 @@ Recruits are trained by the Astorrel for between two and four years, depending o
 
 They learn combat training, wilderness survival, how to read and write, the history of the world, and all manner of things relating to nature and the delicate balance Astor keeps with it through the Astorrel.
 
-Astorrel recruits train in [Dunmore](../../../places/cities/dunmore.md), and do not typically travel to [Northhaven](../../../places/cities/northhaven.md) prior to their graduation.
+Astorrel recruits train in [Dunmore](../../../places/settlements/cities/dunmore.md), and do not typically travel to [Northhaven](../../../places/settlements/cities/northhaven.md) prior to their graduation.
 
 ### Graduation
 
 *See: [Astorian Calendar](../../../history/calendars/astorian-calendar.md)*
 
-Each year the recruits that are ready to graduate travel to [Northhaven](../../../places/cities/northhaven.md) for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../../gods/deities/kirrel.md) months).
+Each year the recruits that are ready to graduate travel to [Northhaven](../../../places/settlements/cities/northhaven.md) for the graduation ceremony. It takes place in the month of Finsbock or Taledus (one of the [Kirrel](../../../gods/deities/kirrel.md) months).
 
 Prior to the ceremony, the Astorrel officers decide which rank each recruit will start at, and which existing officers will become their superior officers.
 
-The ceremony is witnessed by existing [Astorrel members](ranks/astorrel-member.md), including all of the officers present in [Northhaven](../../../places/cities/northhaven.md) at the time. During the show of faith, [Astornox](../astornox/astornox.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
+The ceremony is witnessed by existing [Astorrel members](ranks/astorrel-member.md), including all of the officers present in [Northhaven](../../../places/settlements/cities/northhaven.md) at the time. During the show of faith, [Astornox](../astornox/astornox.md) and some [Astornar](../astornar.md) witness them while they are in the Military District.
 
 ### Pledge
 
-At the start of the ceremony, all recruits are assembled in [Kirrel Hall](../../../places/buildings/kirrel-hall.md) for the pledge. This is comprised of a speech from the Commandant followed by a pledge to the organisation, instilling a sense of duty and commitment.
+At the start of the ceremony, all recruits are assembled in [Kirrel Hall](../../../places/buildings/government/kirrel-hall.md) for the pledge. This is comprised of a speech from the Commandant followed by a pledge to the organisation, instilling a sense of duty and commitment.
 
 ### Show of Faith
 

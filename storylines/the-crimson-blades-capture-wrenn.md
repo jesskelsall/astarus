@@ -15,11 +15,11 @@ While the [Purple Rain](../campaigns/C1-purple-rain.md) party are on the run fro
 
 Prior to [PR12](../sessions/PR12.md), [Stalker](../characters/stalker.md) sends [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../characters/wrenn-piznarck.md). They trailed him to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../organisations/government/astornox/astornox.md) while staying at [Alistair Hawthorn's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md).
 
-When the party fled [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to seek [sanctuary](../organisations/government/astorrel/sanctuary.md) at the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), Morog sensed an opportunity and went in pursuit of Wrenn.
+When the party fled [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to seek [sanctuary](../organisations/government/astorrel/sanctuary.md) at the [Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md), Morog sensed an opportunity and went in pursuit of Wrenn.
 
 ### [PR12](../sessions/PR12.md)
 
-[Morog Whiteknuckle](../characters/morog-whiteknuckle.md) and his entourage caught up to the party and Wrenn not far from [Frizthwaite](../places/villages/frizthwaite.md). Using their faster horses, they were able to close the gap to the group quickly, who sensed an impending battle.
+[Morog Whiteknuckle](../characters/morog-whiteknuckle.md) and his entourage caught up to the party and Wrenn not far from [Frizthwaite](../places/settlements/villages/frizthwaite.md). Using their faster horses, they were able to close the gap to the group quickly, who sensed an impending battle.
 
 Despite seeing the attack coming, the party were quickly overwhelmed despite trying to hide behind their overturned cart. Initially evading capture, Wrenn was put to sleep by [Thanea](../../../astarus/people/thanea.md) who was trying to prevent bandits from tying him up.
 
@@ -37,7 +37,7 @@ Not long after being captured, Wrenn is woken up by the movement of the horse he
 
 > Help! Captured by bandits. Please help my friends! Hunted by [Astornox](../organisations/government/astornox/astornox.md). They know information that will save Astor. Get them to Elysia!
 
-> Captured near [Frizthwaite](../places/villages/frizthwaite.md). Heading to [Northhaven](../places/cities/northhaven.md) by boat or road. Blue firbolg, grey human--
+> Captured near [Frizthwaite](../places/settlements/villages/frizthwaite.md). Heading to [Northhaven](../places/settlements/cities/northhaven.md) by boat or road. Blue firbolg, grey human--
 
 Shortly thereafter Morog notices that Wrenn is muttering to himself and confiscates his copper wire before restraining him more thoroughly.
 
@@ -45,11 +45,11 @@ Shortly thereafter Morog notices that Wrenn is muttering to himself and confisca
 
 Without Wrenn, the party reflects on what to do next. [Thanea](../../../astarus/people/thanea.md) points out that she read his mind and knows the names of the people he wanted to take them too, suggesting that they don't need him any more.
 
-The group decides to press on to [Northhaven](../places/cities/northhaven.md) without him.
+The group decides to press on to [Northhaven](../places/settlements/cities/northhaven.md) without him.
 
 ### [PR14](../sessions/PR14.md)
 
-[Sarleen Truestriker](../characters/sarleen-truestriker.md) reveals to the party that [Wrenn Piznarck](../characters/wrenn-piznarck.md) contacted [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) after he was captured by [The Crimson Blades](../organisations/criminals/the-crimson-blades.md), imploring him to help the party reach [Northhaven](../places/cities/northhaven.md) without him.
+[Sarleen Truestriker](../characters/sarleen-truestriker.md) reveals to the party that [Wrenn Piznarck](../characters/wrenn-piznarck.md) contacted [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) after he was captured by [The Crimson Blades](../organisations/criminals/the-crimson-blades.md), imploring him to help the party reach [Northhaven](../places/settlements/cities/northhaven.md) without him.
 
 ### [PR15](../sessions/PR15.md)
 
@@ -61,13 +61,13 @@ While in [sanctuary](../organisations/government/astorrel/sanctuary.md), the par
 
 ### [PR19](../sessions/PR19.md)
 
-[Carras Southroot](../characters/carras-southroot.md) and [Norsha Costello](../characters/norsha-costello.md) visit the party in [sanctuary](../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/the-sanctum.md). They ask about the circumstances of [Wrenn Piznarck](../characters/wrenn-piznarck.md)'s disappearance. The party tell them that he was taken by [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) of [the Crimson Blades](../organisations/criminals/the-crimson-blades.md) east of [Frizthwaite](../places/villages/frizthwaite.md).
+[Carras Southroot](../characters/carras-southroot.md) and [Norsha Costello](../characters/norsha-costello.md) visit the party in [sanctuary](../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/government/the-sanctum.md). They ask about the circumstances of [Wrenn Piznarck](../characters/wrenn-piznarck.md)'s disappearance. The party tell them that he was taken by [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) of [the Crimson Blades](../organisations/criminals/the-crimson-blades.md) east of [Frizthwaite](../places/settlements/villages/frizthwaite.md).
 
 Carras and Norsha confer to each other, Carras noting that [the Crimson Blades](../organisations/criminals/the-crimson-blades.md) are known to operate around Carnmere.
 
 ### [PR27](../sessions/PR27.md)
 
-[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) are present for their first [Astorrel](../organisations/government/astorrel/astorrel.md) briefing at [Tenterfell House](../places/buildings/tenterfell-house.md) when [Quinn Mac Domhnail](../characters/quinn-mac-domhnail.md) arrives, looking for [Elysia Vanderboss](../characters/elysia-vanderboss.md)' help with a matter he is taking care of for [Levelle Tristwix](../characters/levelle-tristwix.md). He would like [Tyburn Dalvos](../characters/tyburn-dalvos.md) to try and scry on [Wrenn Piznarck](../characters/wrenn-piznarck.md).
+[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) are present for their first [Astorrel](../organisations/government/astorrel/astorrel.md) briefing at [Tenterfell House](../places/buildings/government/tenterfell-house.md) when [Quinn Mac Domhnail](../characters/quinn-mac-domhnail.md) arrives, looking for [Elysia Vanderboss](../characters/elysia-vanderboss.md)' help with a matter he is taking care of for [Levelle Tristwix](../characters/levelle-tristwix.md). He would like [Tyburn Dalvos](../characters/tyburn-dalvos.md) to try and scry on [Wrenn Piznarck](../characters/wrenn-piznarck.md).
 
 With Elysia's blessing, Tyburn looks into his scrying pool. He sees [Wrenn Piznarck](../characters/wrenn-piznarck.md) chained up in a dark basement, visited by his captor who descends the basement stairs towards him. Wrenn sits in a pool of his own blood, chained to the wall. Tyburn notices that he is missing one of his legs.
 
@@ -77,9 +77,9 @@ Quinn, unhappy with the cryptic information provided, leaves to relay what he le
 
 ### [AA13](../sessions/AA13.md)
 
-While in [Hyceodd](../places/towns/hyceodd.md) searching for the missing [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md), [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) ask the [Hyceodd](../places/towns/hyceodd.md) [Astorrel](../organisations/government/astorrel/astorrel.md) what they know. They speak of [Kiln squad](../organisations/government/astorrel/squads/kiln-squad.md) helping them with local gang issues, suggesting that the gang could be or have ties to [the Crimson Blades](../organisations/criminals/the-crimson-blades.md), a notorious criminal organisation based out of Carnmere.
+While in [Hyceodd](../places/settlements/towns/hyceodd.md) searching for the missing [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md), [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) ask the [Hyceodd](../places/settlements/towns/hyceodd.md) [Astorrel](../organisations/government/astorrel/astorrel.md) what they know. They speak of [Kiln squad](../organisations/government/astorrel/squads/kiln-squad.md) helping them with local gang issues, suggesting that the gang could be or have ties to [the Crimson Blades](../organisations/criminals/the-crimson-blades.md), a notorious criminal organisation based out of Carnmere.
 
-The [Astornox Guard Sergeant](../organisations/government/astornox/ranks/astornox-guard-sergeant.md) that [Ahsha Sallas](../characters/ahsha-sallas.md) and [Yialdred Korina](../characters/yialdred-korina.md) are talking to tell them about a bulletin the [Hyceodd](../places/towns/hyceodd.md) [Astornox](../organisations/government/astornox/astornox.md) received a while ago about a captured [Astorrel](../organisations/government/astorrel/astorrel.md) ([Wrenn Piznarck](../characters/wrenn-piznarck.md)) that has likely been taken by [the Crimson Blades](../organisations/criminals/the-crimson-blades.md). Word went out looking for a basement that they could be chained up in, hoping that the [Astornox](../organisations/government/astornox/astornox.md) may know of such a place and ultimately find him. 
+The [Astornox Guard Sergeant](../organisations/government/astornox/ranks/astornox-guard-sergeant.md) that [Ahsha Sallas](../characters/ahsha-sallas.md) and [Yialdred Korina](../characters/yialdred-korina.md) are talking to tell them about a bulletin the [Hyceodd](../places/settlements/towns/hyceodd.md) [Astornox](../organisations/government/astornox/astornox.md) received a while ago about a captured [Astorrel](../organisations/government/astorrel/astorrel.md) ([Wrenn Piznarck](../characters/wrenn-piznarck.md)) that has likely been taken by [the Crimson Blades](../organisations/criminals/the-crimson-blades.md). Word went out looking for a basement that they could be chained up in, hoping that the [Astornox](../organisations/government/astornox/astornox.md) may know of such a place and ultimately find him. 
 
 ## Planning
 

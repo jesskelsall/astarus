@@ -8,11 +8,11 @@
 
 ## Summary
 
-[Thanea Morlay](../characters/thanea-morlay.md) is given a dream by [Seraphina](../characters/seraphina.md) of an attack on [Eskrigg](../places/cities/eskrigg.md) by [the meteorics](../lineages/the-meteorics.md) in the coming winter.
+[Thanea Morlay](../characters/thanea-morlay.md) is given a dream by [Seraphina](../characters/seraphina.md) of an attack on [Eskrigg](../places/settlements/cities/eskrigg.md) by [the meteorics](../lineages/the-meteorics.md) in the coming winter.
 
 ## Details
 
-[Thanea Morlay](../characters/thanea-morlay.md) is in [Eskrigg](../places/cities/eskrigg.md), on a city centre street. The road is narrow and packed with people. The buildings are tall and foreboding, hastily built wherever they fit.
+[Thanea Morlay](../characters/thanea-morlay.md) is in [Eskrigg](../places/settlements/cities/eskrigg.md), on a city centre street. The road is narrow and packed with people. The buildings are tall and foreboding, hastily built wherever they fit.
 
 The weather is cold, and is getting towards sunset.
 

@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Everything Else |
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../streets/crafters-course.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
 | **People** | [Nilus Cray](../../../characters/nilus-cray.md) |
 
 ## Summary
 
-Everything Else is a general store on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md).
+Everything Else is a general store on [Crafters Course](../../settlements/streets/crafters-course.md) in the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md).
 
 It caters to those who need standard survival equipment and provisions. If you can't find it somewhere else, this is the next place to try.
 

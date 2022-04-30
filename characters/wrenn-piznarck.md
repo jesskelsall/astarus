@@ -12,7 +12,7 @@
 | **Background** | Sage |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Darjonkaargeac Hidaar](darjonkaargeac-hidaar.md) (friend)<br>[Alistair Hawthorn](alistair-hawthorn.md) (former friend) |
-| **Places** | [Northhaven](../places/cities/northhaven.md) (birthplace) |
+| **Places** | [Northhaven](../places/settlements/cities/northhaven.md) (birthplace) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md)<br>[Astornox](../organisations/government/astornox/astornox.md) (retired) |
 |||
@@ -27,7 +27,7 @@ TODO
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
 || [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) | War / 11th Legion |||
-|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
+|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 | [PR27](../sessions/PR27.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | - |||
 
 ## Character Rolls

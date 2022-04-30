@@ -14,7 +14,7 @@
 | **Background** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | |
-| **Places** | [Côtedouce](../places/towns/cotedouce.md) |
+| **Places** | [Côtedouce](../places/settlements/towns/cotedouce.md) |
 | **Citizenship** | |
 | **Organisation** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 | **Role** | Contact |
@@ -23,7 +23,7 @@
 
 ## Summary
 
-Grouper is the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact operating in [Côtedouce](../places/towns/cotedouce.md). He is a bit of a rogue agent, often working against the goals of both the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) and the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md).
+Grouper is the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact operating in [Côtedouce](../places/settlements/towns/cotedouce.md). He is a bit of a rogue agent, often working against the goals of both the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) and the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md).
 
 He has bad blood with [Creek](creek.md) and [Crucible](crucible.md).
 

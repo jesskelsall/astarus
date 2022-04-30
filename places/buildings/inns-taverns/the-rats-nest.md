@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | The Rat's Nest |
 | **Type** | Inn |
-| **Location** | [Sunrise District](../../districts/sunrise-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Sunrise District](../../settlements/districts/sunrise-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
 | **Nearby Places** | |
 | **People** | [Rufus Glintock](../../../characters/rufus-glintock.md) (innkeeper)<br>[Vorrick Pumpitibeg](../../../characters/vorrick-pumpitibeg.md) (pit fighting barkeep)<br>[Allynna Oriphine](../../../characters/allynna-oriphine.md) (pit fighter)<br>[Clatter](../../../characters/clatter.md) (pit fighter)<br>[Travis Derk](../../../characters/travis-derk.md) (pit fighter) |
 
 ## Summary
 
-The Rat's Nest is an unassuming inn deep in the heart of [Northhaven](../../cities/northhaven.md)'s [Sunset District](../../districts/sunset-district.md). It has an underground reputation for its literal underground pit fighting ring, accessible to those looking for a fight.
+The Rat's Nest is an unassuming inn deep in the heart of [Northhaven](../../settlements/cities/northhaven.md)'s [Sunset District](../../settlements/districts/sunset-district.md). It has an underground reputation for its literal underground pit fighting ring, accessible to those looking for a fight.
 
 ### Exterior
 

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | The Malneshitas |
 | **Type** | Temple |
-| **Location** | [Arnaside](../../villages/arnaside.md) |
+| **Location** | [Arnaside](../../settlements/villages/arnaside.md) |
 | **Nearby Places** | [Head & Haft](../inns-taverns/head-and-haft.md) |
 | **People** | [Nenra Zossa](../../../characters/nenra-zossa.md) |
 
@@ -12,7 +12,7 @@
 
 ### Exterior
 
-A medium sized cobbled stone building with a pitched roof covered in grass. Just over 1 storey tall before the roof begins, unlike the other buildings in [Arnaside](../../villages/arnaside.md) which are slightly shorter. No windows.
+A medium sized cobbled stone building with a pitched roof covered in grass. Just over 1 storey tall before the roof begins, unlike the other buildings in [Arnaside](../../settlements/villages/arnaside.md) which are slightly shorter. No windows.
 
 A large wooden door denotes the entrance. Above it hangs the symbol of [Malnesh](../../../gods/deities/malnesh.md), delicately fashioned out of painted stone.
 
@@ -22,7 +22,7 @@ A large wooden door denotes the entrance. Above it hangs the symbol of [Malnesh]
 | Sounds | Seagulls on the roof. |
 | Smells | |
 | People | |
-| Intrigue | The tallest building in [Arnaside](../../villages/arnaside.md). |
+| Intrigue | The tallest building in [Arnaside](../../settlements/villages/arnaside.md). |
 
 ### Interior
 
@@ -44,6 +44,6 @@ A staircase to the back right leads down to the crypt.
 
 ## Planning
 
-### Trouble in [Arnaside](../../villages/arnaside.md)
+### Trouble in [Arnaside](../../settlements/villages/arnaside.md)
 
 [Nenra Zossa](../../../characters/nenra-zossa.md) is inside the Malneshitas when the [players](../../../../players/logan.md) first enter. Two other Malneshi are present, meditating quietly.

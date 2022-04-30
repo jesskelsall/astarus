@@ -20,7 +20,7 @@
 
 ## Summary
 
-Zanni Flipwit is a Malneshi resident of the village of [Arnaside](../places/villages/arnaside.md).
+Zanni Flipwit is a Malneshi resident of the village of [Arnaside](../places/settlements/villages/arnaside.md).
 
 ## Characteristics
 
@@ -41,7 +41,7 @@ Zanni Flipwit is a Malneshi resident of the village of [Arnaside](../places/vill
 
 ## Planning
 
-### Trouble in [Arnaside](../places/villages/arnaside.md)
+### Trouble in [Arnaside](../places/settlements/villages/arnaside.md)
 
 Zanni's house was attacked last week by the kobolds while she was inside. She is able to tell the party the following information:
 

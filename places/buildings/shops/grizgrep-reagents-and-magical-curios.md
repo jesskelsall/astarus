@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Grizgrep Reagents & Magical Curios |
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../streets/crafters-course.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
 | **People** | [Ormila Grizgrep](../../../characters/ormila-grizgrep.md) |
 
 ## Summary
 
-Grizgrep Reagents & Magical Curios is a shop that specialises in selling magical reagents needed for spell material components. It is located on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md).
+Grizgrep Reagents & Magical Curios is a shop that specialises in selling magical reagents needed for spell material components. It is located on [Crafters Course](../../settlements/streets/crafters-course.md) in the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md).
 
 A delicately decorated sign hangs above the shop, taking up its entire length. There is also a folding chalkboard that lists a bunch of magical components in different coloured chalks:
 

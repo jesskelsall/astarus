@@ -10,7 +10,7 @@
 
 TODO Clean up
 
-[Vachel Boucher](../../../characters/vachel-boucher.md) created a piano piece to express their mournful and awesome feelings of the fall of Chausain and the ensuing Second Coming. This was captured on this [memory sphere](memory-sphere.md) in [Arrepont](../../../places/cities/arrepont.md) within decades of the elves' arrival.
+[Vachel Boucher](../../../characters/vachel-boucher.md) created a piano piece to express their mournful and awesome feelings of the fall of Chausain and the ensuing Second Coming. This was captured on this [memory sphere](memory-sphere.md) in [Arrepont](../../../places/settlements/cities/arrepont.md) within decades of the elves' arrival.
 
 Vachel would later die of distress, not able to settle on [Astarus](../../../celestial-objects/astarus.md).
 

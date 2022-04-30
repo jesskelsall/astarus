@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) |
+| **Role** | Cities / [Eskrigg](../places/settlements/cities/eskrigg.md) / [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
@@ -59,10 +59,10 @@ Reozin Ironhide is a [Mortar Squad](../organisations/government/astorrel/squads/
 
 ## History
 
-Reozin is an immigrant from the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md). At a young age he was taken in by a pit fighting trainer who brought him to [Eskrigg](../places/cities/eskrigg.md) and began fashioning him into a capable fighter. This mentor saw great potential in him due to his minotaur lineage, not common even in the alliance. Reozin became an accomplished fighter, surprising those he fought with a mastery of two handed weapons rather than relying on his horns. He was scouted by the [Astorrel](../organisations/government/astorrel/astorrel.md) and joined their ranks looking for further fame and recognition.
+Reozin is an immigrant from the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md). At a young age he was taken in by a pit fighting trainer who brought him to [Eskrigg](../places/settlements/cities/eskrigg.md) and began fashioning him into a capable fighter. This mentor saw great potential in him due to his minotaur lineage, not common even in the alliance. Reozin became an accomplished fighter, surprising those he fought with a mastery of two handed weapons rather than relying on his horns. He was scouted by the [Astorrel](../organisations/government/astorrel/astorrel.md) and joined their ranks looking for further fame and recognition.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 
-- He has a reputation from the [Eskrigg](../places/cities/eskrigg.md) pit fighting scene. [truth]
+- He has a reputation from the [Eskrigg](../places/settlements/cities/eskrigg.md) pit fighting scene. [truth]
 - He is trouble to anyone that tries to befriend him. [truth]
 - He started a fight with one of his fellow trainees. [lie]

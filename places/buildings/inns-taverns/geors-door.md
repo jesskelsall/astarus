@@ -4,8 +4,8 @@
 | --- | --- |
 | **Name** | Geor's Door |
 | **Type** | Tavern |
-| **Location** | [Eskrigg](../../cities/eskrigg.md) |
-| **Nearby Places** | [Vorrinel's Stand](../vorrinels-stand.md) |
+| **Location** | [Eskrigg](../../settlements/cities/eskrigg.md) |
+| **Nearby Places** | [Vorrinel's Stand](../government/vorrinels-stand.md) |
 | **People** | |
 
 ## Summary

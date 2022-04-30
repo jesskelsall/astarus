@@ -11,12 +11,12 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Auric Rise](../places/buildings/auric-rise.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
+| **Places** | [Auric Rise](../places/buildings/government/auric-rise.md)<br>[Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../places/settlements/cities/northhaven.md) |
 | **Commanding Officer** | [Samantha Ilis](samantha-ilis.md) |
 | **Subordinates** | [Dolphin Squad](../organisations/government/astorrel/squads/dolphin-squad.md) |
 |||

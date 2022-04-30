@@ -13,11 +13,11 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Frizthwaite](../places/villages/frizthwaite.md) |
+| **Places** | [Frizthwaite](../places/settlements/villages/frizthwaite.md) |
 
 ## Summary
 
-Oleg Purley is a dock worker in [Frizthwaite](../places/villages/frizthwaite.md), responsible for the fishing and rowboats there.
+Oleg Purley is a dock worker in [Frizthwaite](../places/settlements/villages/frizthwaite.md), responsible for the fishing and rowboats there.
 
 ## Characteristics
 
@@ -42,4 +42,4 @@ Oleg Purley is a dock worker in [Frizthwaite](../places/villages/frizthwaite.md)
 
 ### [Purple Rain](../campaigns/C1-purple-rain.md)
 
-The party will find Oleg by the riverside in [Frizthwaite](../places/villages/frizthwaite.md). He can help them procure a boat from his dock.
+The party will find Oleg by the riverside in [Frizthwaite](../places/settlements/villages/frizthwaite.md). He can help them procure a boat from his dock.

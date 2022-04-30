@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Tour de la Côte | place.4
 | **Type** | Building |
-| **Location** | [Côtedouce](../../towns/cotedouce.md) |
+| **Location** | [Côtedouce](../../settlements/towns/cotedouce.md) |
 | **Nearby Places** | |
 | **People** | [Oriel Elsandoral](../../../characters/oriel-elsandoral.md) (arch-mage) |
 
 ## Summary
 
-Tour de la Côte is the arch-mage tower in the middle of [Côtedouce](../../towns/cotedouce.md). It looms large over the port town.
+Tour de la Côte is the arch-mage tower in the middle of [Côtedouce](../../settlements/towns/cotedouce.md). It looms large over the port town.
 
 ## Etymology
 

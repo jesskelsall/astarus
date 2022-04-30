@@ -17,7 +17,7 @@
 
 ## Summary
 
-Ormila Grizgrep is the owner of the [Grizgrep Reagents & Magical Curios](../places/buildings/shops/grizgrep-reagents-and-magical-curios.md) magical reagents shop on [Crafters Course](../places/streets/crafters-course.md).
+Ormila Grizgrep is the owner of the [Grizgrep Reagents & Magical Curios](../places/buildings/shops/grizgrep-reagents-and-magical-curios.md) magical reagents shop on [Crafters Course](../places/settlements/streets/crafters-course.md).
 
 She is a friendly and excitable gnome that takes pleasure in meeting new [magicborn](../civilisations/kingdom-of-astor/magicborn.md) and helping them use their abilities. Her eye-catching store and dress sense shows the efforts that she goes to in order to attract new customers to her store.
 

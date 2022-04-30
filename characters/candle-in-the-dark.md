@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Kasdon Tinkermane](kasdon-tinkermane.md) ([Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
-| **Places** | [Northhaven](../places/cities/northhaven.md) |
+| **Places** | [Northhaven](../places/settlements/cities/northhaven.md) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
@@ -40,7 +40,7 @@ TODO
 | **Mannerisms** | Polite and respectful. |
 | | |
 | **Quirks** | Sleeps fully dressed, ready to run. |
-| **Knowledge** | Currently obsessed with [Northhaven](../places/cities/northhaven.md). |
+| **Knowledge** | Currently obsessed with [Northhaven](../places/settlements/cities/northhaven.md). |
 | **Values** | Is an example of modesty. |
 | **Ambitions** | |
 | **Dislikes** | Always does what she is told not to. |

@@ -19,7 +19,7 @@
 
 > From the office of the General Supreme  
 > Tower of Ast  
-> [Northhaven Astornar Stronghold](../places/strongholds/northhaven-astornar-stronghold.md)  
+> [Northhaven Astornar Stronghold](../places/settlements/strongholds/northhaven-astornar-stronghold.md)  
 > [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md)
 >
 > Kirdag, 4th of Shavdor 312 [PA](../history/calendars/astorian-calendar.md)

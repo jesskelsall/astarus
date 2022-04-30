@@ -13,7 +13,7 @@
 
 ### [AA13](../../sessions/AA13.md)
 
-While fighting gnolls that ambushed [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) during the night on their journey to [Blittergate](../../places/towns/blittergate.md), [Noon Schiller](../../characters/noon-schiller.md) calls upon [Nills](../../characters/nills.md) by casting Summon Shadowspawn, asking for her help in combat. The entire party sees [Nills](../../characters/nills.md) for the first time and hears Noon conversing with her:
+While fighting gnolls that ambushed [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) during the night on their journey to [Blittergate](../../places/settlements/towns/blittergate.md), [Noon Schiller](../../characters/noon-schiller.md) calls upon [Nills](../../characters/nills.md) by casting Summon Shadowspawn, asking for her help in combat. The entire party sees [Nills](../../characters/nills.md) for the first time and hears Noon conversing with her:
 
 *[Noon Schiller](../../characters/noon-schiller.md):*
 > I think we could do with your help on this one [sister shadow](../../characters/nills.md).

@@ -20,7 +20,7 @@
 
 ## Summary
 
-Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She raises her younger children while helping the village of [Filisur](../places/villages/filisur.md) stay alert to [Astornox](../organisations/government/astornox/astornox.md) and natural threats, namely wolves.
+Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She raises her younger children while helping the village of [Filisur](../places/settlements/villages/filisur.md) stay alert to [Astornox](../organisations/government/astornox/astornox.md) and natural threats, namely wolves.
 
 ## Characteristics
 
@@ -34,7 +34,7 @@ Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She raises her young
 | **Mannerisms** | Keeps her hands clasped when not busy. Eye contact is judgemental or absent. Stares at strangers. |
 | | |
 | **Quirks** | An untrusting person with a strong eye for danger and trouble. |
-| **Knowledge** | The [Filisur](../places/villages/filisur.md) valley, seasonal conditions and weather, the edge of the Neum Flats. Some basic knowledge of [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md). |
+| **Knowledge** | The [Filisur](../places/settlements/villages/filisur.md) valley, seasonal conditions and weather, the edge of the Neum Flats. Some basic knowledge of [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md). |
 | **Values** | Looking after her own, protecting the [Cepine](../lineages/cepine.md) way of life. Staying on the lookout for danger. Conviction and good deeds done. |
 | **Ambitions** | Wants Besar and Irla to have a better upbringing than Ephaine and Tamman. |
 | **Dislikes** | Strangers. [Astornox](../organisations/government/astornox/astornox.md). |

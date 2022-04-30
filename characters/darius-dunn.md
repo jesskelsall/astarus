@@ -28,7 +28,7 @@ Darius Dunn is a new Squad Hand in the [Astorrel](../organisations/government/as
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 

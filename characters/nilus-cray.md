@@ -17,7 +17,7 @@
 
 ## Summary
 
-Nilus Cray is the owner of [Everything Else](../places/buildings/shops/everything-else.md), a general goods store on [Crafters Course](../places/streets/crafters-course.md).
+Nilus Cray is the owner of [Everything Else](../places/buildings/shops/everything-else.md), a general goods store on [Crafters Course](../places/settlements/streets/crafters-course.md).
 
 They are very straightforward and show little emotion or care for the world around them. They enjoy staring out of the window and people watching.
 

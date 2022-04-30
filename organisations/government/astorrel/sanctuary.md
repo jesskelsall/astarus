@@ -12,7 +12,7 @@ Sanctuary is available at all [Astorrel](astorrel.md) strongholds. Each strongho
 
 | City | Stronghold | Sanctuary |
 | --- | --- | --- |
-| [Northhaven](../../../places/cities/northhaven.md) | [Northhaven Astorrel Stronghold](../../../places/strongholds/northhaven-astorrel-stronghold.md) | [The Sanctum](../../../places/buildings/the-sanctum.md) |
+| [Northhaven](../../../places/settlements/cities/northhaven.md) | [Northhaven Astorrel Stronghold](../../../places/settlements/strongholds/northhaven-astorrel-stronghold.md) | [The Sanctum](../../../places/buildings/government/the-sanctum.md) |
 
 In order to receive sanctuary, those seeking it must travel themselves to an [Astorrel](astorrel.md) stronghold. At its gatehouse the [Astorrel Guard Sergeant](ranks/astorrel-guard-sergeant.md) on duty is able to offer sanctuary.
 

@@ -37,4 +37,4 @@ Askad Greybelt is the innkeeper of [the Nasty Huntress](../places/buildings/inns
 | **Knowledge** | Baking, cooking. |
 | **Values** | Shares everything she owns.<br>Makes anyone who speaks feel like the most important person in the world. |
 | **Ambitions** | Keeping her local patrons well fed and happy. |
-| **Dislikes** | The cold. [Sonnigeweide](../places/villages/sonnigeweide.md)'s wealthier residents. |
+| **Dislikes** | The cold. [Sonnigeweide](../places/settlements/villages/sonnigeweide.md)'s wealthier residents. |

@@ -6,13 +6,13 @@
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | |
 | **Patron(s)** | |
-| **Location(s)** | [Northhaven](../../places/cities/northhaven.md) (home city) |
+| **Location(s)** | [Northhaven](../../places/settlements/cities/northhaven.md) (home city) |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Astpost is an organisation of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It acts as the postal service for military organisations that need to send letters and packages to individuals across [South East Kardan](../../places/regions/south-east-kardan.md).
+Astpost is an organisation of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It acts as the postal service for military organisations that need to send letters and packages to individuals across [Southeastern Kardan](../../places/regions/southeastern-kardan.md).
 
 Given someone's name, rank, and location, they are able to deliver for cheaper rates than [Sunset Delivery](../business/sunset-delivery.md). Their services are only available for those with a military badge, and they only deliver to established military strongholds across the kingdom.
 
@@ -27,8 +27,8 @@ Example:
 
 > [Bryce Morton](../../characters/bryce-morton.md)  
 > [Astorrel Squad Sergeant](astorrel/ranks/astorrel-squad-sergeant.md)  
-> Cities / [Northhaven](../../places/cities/northhaven.md)  
-> [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md)
+> Cities / [Northhaven](../../places/settlements/cities/northhaven.md)  
+> [Northhaven Astorrel Stronghold](../../places/settlements/strongholds/northhaven-astorrel-stronghold.md)
 
 ## Process
 

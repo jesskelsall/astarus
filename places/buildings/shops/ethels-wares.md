@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Ethel's Wares |
 | **Type** | Shop |
-| **Location** | [Sunrise District](../../districts/sunrise-district.md) |
+| **Location** | [Sunrise District](../../settlements/districts/sunrise-district.md) |
 | **Nearby Places** | [Northhaven Wall](../../structures/northhaven-wall.md) |
 | **People** | [Etheldreda Dowsing](../../../characters/etheldreda-dowsing.md) (owner) |
 
@@ -12,7 +12,7 @@
 
 Ethel's Wares is a shop near the [Northhaven Wall](../../structures/northhaven-wall.md)'s southern gate. From here [Ethel](../../../characters/etheldreda-dowsing.md) gives the impression of a general store, but secretly provides magical advice, insight, and supplies to those in her inner circle. This includes servants of [Effie Silttooth](../../../characters/effie-silttooth.md) and other [Vetiti Scientiam](../../../organisations/vetiti-scientiam.md) members.
 
-It is located in the first street to the left when exiting the gate into the [Sunrise District](../../districts/sunrise-district.md), 2 doors down.
+It is located in the first street to the left when exiting the gate into the [Sunrise District](../../settlements/districts/sunrise-district.md), 2 doors down.
 
 ### Exterior
 

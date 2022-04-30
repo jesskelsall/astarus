@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Guard](../organisations/government/astorrel/ranks/astorrel-guard.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../places/settlements/cities/northhaven.md) |
 | **Commanding Officer** | [Garrick Rose](garrick-rose.md) |
 | **Subordinates** | |
 |||

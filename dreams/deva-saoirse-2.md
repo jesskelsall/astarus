@@ -12,7 +12,7 @@
 
 ## Details
 
-She feels uncomfortably warm, like her skin is on fire. She opens her eyes, finding herself lying on her side on the arena floor in [Vorrinel's Stand](../places/buildings/vorrinels-stand.md). She watches as in slight slow motion the events of [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) vs [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) play out. The events transpiring are those that took place while she was unconscious mid-fight.
+She feels uncomfortably warm, like her skin is on fire. She opens her eyes, finding herself lying on her side on the arena floor in [Vorrinel's Stand](../places/buildings/government/vorrinels-stand.md). She watches as in slight slow motion the events of [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) vs [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) play out. The events transpiring are those that took place while she was unconscious mid-fight.
 
 Saoirse is unable to move, frozen in place but able to look with her eyes. As her skin continues to burn from [Diarmuid Kavanagh](../characters/diarmuid-kavanagh.md)'s fire that knocked her out, the burning subsides, replaced by a pleasant cooling sensation. The gravel around her begins to be illuminated with white-yellow light as the glowing hand of [Mykiel](../characters/mykiel.md) reaches down into her view, offering it to her. She looks up at him but struggles to fight against his radiant light.
 

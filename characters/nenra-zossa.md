@@ -20,9 +20,9 @@
 
 ## Summary
 
-Nenra Zossa is the leader of the village of [Arnaside](../places/villages/arnaside.md), styled as the *[Arnaside](../places/villages/arnaside.md) daughter of the Judge Mother*. She can typically be found in [the Malneshitas](../places/buildings/temples/the-malneshitas.md).
+Nenra Zossa is the leader of the village of [Arnaside](../places/settlements/villages/arnaside.md), styled as the *[Arnaside](../places/settlements/villages/arnaside.md) daughter of the Judge Mother*. She can typically be found in [the Malneshitas](../places/buildings/temples/the-malneshitas.md).
 
-She is devout and wise, devoting her life to [Malnesh](../gods/deities/malnesh.md). Her late husband, Grice Zossa, had the idea of forming [Arnaside](../places/villages/arnaside.md) 15 years ago. She looks after it as both its spiritual and civic leader.
+She is devout and wise, devoting her life to [Malnesh](../gods/deities/malnesh.md). Her late husband, Grice Zossa, had the idea of forming [Arnaside](../places/settlements/villages/arnaside.md) 15 years ago. She looks after it as both its spiritual and civic leader.
 
 ## Characteristics
 
@@ -49,17 +49,17 @@ Eventually she couldn't watch new hopeful recruits get churned up by the system 
 
 She claims that she and her husband were visited by [Malnesh](../gods/deities/malnesh.md) one starry night out on the plains, who instructed them on how to honour the dead. From that day they both devoted themselves to [Malnesh](../gods/deities/malnesh.md) fully.
 
-After he died of old age 4 years ago, she has been running [Arnaside](../places/villages/arnaside.md) by herself, though with the help of everyone around her.
+After he died of old age 4 years ago, she has been running [Arnaside](../places/settlements/villages/arnaside.md) by herself, though with the help of everyone around her.
 
 ## Planning
 
-### Trouble in [Arnaside](../places/villages/arnaside.md)
+### Trouble in [Arnaside](../places/settlements/villages/arnaside.md)
 
-Nenra Zossa is in [the Malneshitas](../places/buildings/temples/the-malneshitas.md) when the party arrives in [Arnaside](../places/villages/arnaside.md).
+Nenra Zossa is in [the Malneshitas](../places/buildings/temples/the-malneshitas.md) when the party arrives in [Arnaside](../places/settlements/villages/arnaside.md).
 
 When the party enters the temple, at first she assumes that they are here to join the village as Malneshi.
 
-She is acutely aware that creatures in the [Walna Forest](../places/forests/walna-forest.md) are disrupting the village's ability to log wood, but believes that her worship will help the village weather the situation.
+She is acutely aware that creatures in the [Walna Forest](../places/topography/forests/walna-forest.md) are disrupting the village's ability to log wood, but believes that her worship will help the village weather the situation.
 
 Nenra can point the party to the following people for more info:
 

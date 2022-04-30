@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
-| **Places** | [Zenith Spire](../places/buildings/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
+| **Places** | [Zenith Spire](../places/buildings/government/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||

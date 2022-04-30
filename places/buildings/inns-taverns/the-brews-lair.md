@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | The Brew's Lair | place.4
 | **Type** | Tavern |
-| **Location** | [Dünnesland](../../towns/dunnesland.md) |
+| **Location** | [Dünnesland](../../settlements/towns/dunnesland.md) |
 | **Nearby Places** | [The Corner House](the-corner-house.md) |
 | **People** | |
 
@@ -21,10 +21,10 @@ The brewery is located beneath the main chamber.
 | Sensation | Description |
 | ---- | --- |
 | Sights | Stone brick building with no windows on front. Orange clay tiles slope upwards. Large rectangular tower emerges from middle of roof.<br>Grey flags with [Dragonbrew](../../../organisations/business/dragonbrew.md) logo (black dragon head in profile inset in shield). Large one flying above tower. Two smaller ones each side of entrance.<br>Wooden double door in middle of building.<br>Marketplace directly outside. |
-| Sounds | Usual [Dünnesland](../../towns/dunnesland.md) chatter, hand carts. |
+| Sounds | Usual [Dünnesland](../../settlements/towns/dunnesland.md) chatter, hand carts. |
 | Smells | |
 | People | Middle class townsfolk. |
-| Intrigue | The largest tower in [Dünnesland](../../towns/dunnesland.md) sprouts from the middle of a large square building. |
+| Intrigue | The largest tower in [Dünnesland](../../settlements/towns/dunnesland.md) sprouts from the middle of a large square building. |
 
 ### Interior
 

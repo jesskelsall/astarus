@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Sea of Songs](../places/seas-oceans/sea-of-songs.md) |
+| **Places** | [Sea of Songs](../places/topography/seas-oceans/sea-of-songs.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -41,6 +41,6 @@ Simanelli Tyrol (Captain Tyrol) was a legendary figure from the early days of th
 
 ## History
 
-Over 300 years ago, Captain Tyrol gained a reputation as a capable ship captain, discovering [Kardanis](../places/regions/kardanis.md) and helping the fledgling [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) create its first maps of [South East Kardan](../places/regions/south-east-kardan.md)'s coastlines.
+Over 300 years ago, Captain Tyrol gained a reputation as a capable ship captain, discovering [Kardanis](../places/topography/continents-islands/kardanis.md) and helping the fledgling [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) create its first maps of [Southeastern Kardan](../places/regions/southeastern-kardan.md)'s coastlines.
 
-He was keen to explore what lay across the [Sea of Songs](../places/seas-oceans/sea-of-songs.md), so he gathered up the best crew he could find and set sail to the east. He and his crew were never seen or heard from again.
+He was keen to explore what lay across the [Sea of Songs](../places/topography/seas-oceans/sea-of-songs.md), so he gathered up the best crew he could find and set sail to the east. He and his crew were never seen or heard from again.

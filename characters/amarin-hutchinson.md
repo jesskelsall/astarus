@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md) (receptionist) |
+| **Places** | [Tenterfell House](../places/buildings/government/tenterfell-house.md) (receptionist) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Amarin Hutchinson is the short-tempered receptionist of [Tenterfell House](../places/buildings/tenterfell-house.md). She works behind the front desk, helping with matters of the building and directing [Astorrel](../organisations/government/astorrel/astorrel.md) to where they need to be.
+Amarin Hutchinson is the short-tempered receptionist of [Tenterfell House](../places/buildings/government/tenterfell-house.md). She works behind the front desk, helping with matters of the building and directing [Astorrel](../organisations/government/astorrel/astorrel.md) to where they need to be.
 
 ## Characteristics
 

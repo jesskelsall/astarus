@@ -11,12 +11,12 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Hawk's Perch](../places/buildings/hawks-perch.md) |
+| **Places** | [Hawk's Perch](../places/buildings/government/hawks-perch.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) (master librarian) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../places/settlements/cities/northhaven.md) |
 | **Commanding Officer** | [Mergin Thorgus](mergin-thorgus.md) |
 | **Subordinates** | |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Flavian Giltrop is in charge of [Hawk's Perch](../places/buildings/hawks-perch.md) as the head librarian.
+Flavian Giltrop is in charge of [Hawk's Perch](../places/buildings/government/hawks-perch.md) as the head librarian.
 
 ## Characteristics
 

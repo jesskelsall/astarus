@@ -20,7 +20,7 @@
 
 ## Summary
 
-Curtis Donovan is the no-nonsense pragmatic innkeeper of [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md). He is fed up with the discrimination against elves he has seen rising on the streets of [Hyceodd](../places/towns/hyceodd.md).
+Curtis Donovan is the no-nonsense pragmatic innkeeper of [Two Anchors House](../places/buildings/inns-taverns/two-anchors-house.md). He is fed up with the discrimination against elves he has seen rising on the streets of [Hyceodd](../places/settlements/towns/hyceodd.md).
 
 ## Characteristics
 

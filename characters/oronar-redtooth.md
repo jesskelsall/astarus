@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Trubska](../places/villages/trubska.md) |
+| **Places** | [Trubska](../places/settlements/villages/trubska.md) |
 |||
 | **Citizenship** | [Nilus Coast](../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
 | **Organisation** | [Coastguard](../organisations/guards/coastguard.md) |
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Oronar Redtooth is a [Coastguard](../organisations/guards/coastguard.md) responsible for the village of [Trubska](../places/villages/trubska.md). He is a responsibility shirking drunk who is largely incapable of getting much done.
+Oronar Redtooth is a [Coastguard](../organisations/guards/coastguard.md) responsible for the village of [Trubska](../places/settlements/villages/trubska.md). He is a responsibility shirking drunk who is largely incapable of getting much done.
 
 ## Characteristics
 

@@ -19,6 +19,6 @@
 
 # Duties
 
-Astorrel Guards are charged with protecting [Astorrel](../astorrel.md) strongholds such as the [Northhaven Astorrel Stronghold](../../../../places/strongholds/northhaven-astorrel-stronghold.md). They prevent those without permission to enter from doing so, and keep the peace within.
+Astorrel Guards are charged with protecting [Astorrel](../astorrel.md) strongholds such as the [Northhaven Astorrel Stronghold](../../../../places/settlements/strongholds/northhaven-astorrel-stronghold.md). They prevent those without permission to enter from doing so, and keep the peace within.
 
 They are attached to an [Astorrel Guard Sergeant](astorrel-guard-sergeant.md) who runs their shift and provides them with orders.

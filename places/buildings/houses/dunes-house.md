@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Dune's House | place.4
 | **Type** | House |
-| **Location** | [Kuv'narash](../../villages/kuvnarash.md) |
+| **Location** | [Kuv'narash](../../settlements/villages/kuvnarash.md) |
 | **Nearby Places** | |
 | **People** | [Dune Under Sunset](../../../characters/dune-under-sunset.md) |
 

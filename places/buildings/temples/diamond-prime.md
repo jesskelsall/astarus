@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Diamond Prime |
 | **Type** | Temple |
-| **Location** | [Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
 | **Nearby Places** | [Astor Square](../../structures/astor-square.md) |
 | **People** | |
 
@@ -12,7 +12,7 @@
 
 *See: [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md)*
 
-Diamond Prime is the main temple of [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md) in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is located within the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md), and is the most prominent building bordering the [Astor Square](../../structures/astor-square.md).
+Diamond Prime is the main temple of [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md) in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is located within the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md), and is the most prominent building bordering the [Astor Square](../../structures/astor-square.md).
 
 It is by far the biggest temple in the kingdom, a shining beacon to the power of the [gods](../../../gods/gods.md) and their subjects devotion to them. It is the tallest building in the surrounding area.
 
@@ -28,7 +28,7 @@ From the outside the building looms large over [Astor Square](../../structures/a
 | Sounds | Birds, echoing footsteps. Few sounds of people. |
 | Smells | Incense and candle wax. |
 | People | Citizens dressed in robes, caretakers. One posted at each door. |
-| Intrigue | The most impressively built building in [Northhaven](../../cities/northhaven.md), it is as huge as it is plain. The quality of the marble and geometry is striking. |
+| Intrigue | The most impressively built building in [Northhaven](../../settlements/cities/northhaven.md), it is as huge as it is plain. The quality of the marble and geometry is striking. |
 
 ### Interior
 

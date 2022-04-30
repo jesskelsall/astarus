@@ -12,7 +12,7 @@
 | **Background** | Outlander |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | [Wrenn Piznarck](wrenn-piznarck.md) (friend) |
-| **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md)<br>Holmrook (birthplace) |
+| **Places** | [Tenterfell House](../places/buildings/government/tenterfell-house.md)<br>Holmrook (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -28,7 +28,7 @@ Their clan name is pronounced: *dar-jon-kaar-jee-ak*.
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) | [Linton Harkness](linton-harkness.md) | [Louise Perkins](louise-perkins.md) |
+|| [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Urban Expansion / [Ulburn](../places/settlements/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) | [Linton Harkness](linton-harkness.md) | [Louise Perkins](louise-perkins.md) |
 | [PR27](../sessions/PR27.md) | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls

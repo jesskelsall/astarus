@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | The Kissing Stones | place.4
 | **Type** | Inn |
-| **Location** | [Filisur](../../villages/filisur.md) |
+| **Location** | [Filisur](../../settlements/villages/filisur.md) |
 | **Nearby Places** | |
 | **People** | [Arnel Levat](../../../characters/arnel-levat.md) (owner, innkeeper)<br>[Romy Levat](../../../characters/romy-levat.md) |
 
 ## Summary
 
-The Kissing Stones is the only inn in [Filisur](../../villages/filisur.md)'s village centre. It is named for the uniquely shaped stile on the wall out front, a remnant from before the village centre was built.
+The Kissing Stones is the only inn in [Filisur](../../settlements/villages/filisur.md)'s village centre. It is named for the uniquely shaped stile on the wall out front, a remnant from before the village centre was built.
 
 Its interior is inspired by Japanese [Izakaya](https://en.wikipedia.org/wiki/Izakaya) alley restaurants.
 

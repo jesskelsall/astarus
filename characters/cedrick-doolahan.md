@@ -11,12 +11,12 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Sunset District](../places/districts/sunset-district.md) |
+| **Places** | [Sunset District](../places/settlements/districts/sunset-district.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
 | **Rank** | [Astornox Guard](../organisations/government/astornox/ranks/astornox-guard.md) |
-| **Role** | Settlements / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Settlements / [Northhaven](../places/settlements/cities/northhaven.md) |
 | **Commanding Officer** | [Log in the Crimson Forest](log-in-the-crimson-forest.md) |
 | **Subordinates** | |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-[Log in the Crimson Forest](log-in-the-crimson-forest.md) is an [Astornox guard](../organisations/government/astornox/ranks/astornox-guard.md) stationed in [Northhaven](../places/cities/northhaven.md)'s [Sunset District](../places/districts/sunset-district.md), on general guard patrol.
+[Log in the Crimson Forest](log-in-the-crimson-forest.md) is an [Astornox guard](../organisations/government/astornox/ranks/astornox-guard.md) stationed in [Northhaven](../places/settlements/cities/northhaven.md)'s [Sunset District](../places/settlements/districts/sunset-district.md), on general guard patrol.
 
 ## Characteristics
 

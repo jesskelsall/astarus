@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | The Round Goose | place.4
 | **Type** | Inn |
-| **Location** | [Starnov](../../cities/starnov.md)<br>[Nilus Coast](../../../civilisations/nilsavnic-alliance/states/nilus-coast.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Location** | [Starnov](../../settlements/cities/starnov.md)<br>[Nilus Coast](../../../civilisations/nilsavnic-alliance/states/nilus-coast.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Nearby Places** | [Nilus Vaults](../government/nilus-vaults.md) |
 | **People** | |
 

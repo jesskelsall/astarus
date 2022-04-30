@@ -19,7 +19,7 @@
 
 ## Summary
 
-Moss Under the Crumbling Cliffs is the owner of the magic shop [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) in [Northhaven](../places/cities/northhaven.md).
+Moss Under the Crumbling Cliffs is the owner of the magic shop [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) in [Northhaven](../places/settlements/cities/northhaven.md).
 
 She is a confident, stern and mysterious woman that speaks evasively and condescendingly to those she doesn't know. Her instinct is to trust no-one, and so she judges harshly and watches carefully. She never leaves the counter while someone is in her store.
 

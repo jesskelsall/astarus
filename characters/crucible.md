@@ -11,7 +11,7 @@
 | **Class** | Sorcerer (Shadow Magic) |
 | **Worship** | |
 | **Relations** | [Creek](creek.md) (allied contact) |
-| **Places** | [Starnov](../places/cities/starnov.md) |
+| **Places** | [Starnov](../places/settlements/cities/starnov.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
@@ -21,9 +21,9 @@
 
 ## Summary
 
-Crucible is a stern and unforgiving [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact that operates out of [Starnov](../places/cities/starnov.md). She is a [magicborn](../civilisations/kingdom-of-astor/magicborn.md), naturally gifted in minor magic.
+Crucible is a stern and unforgiving [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact that operates out of [Starnov](../places/settlements/cities/starnov.md). She is a [magicborn](../civilisations/kingdom-of-astor/magicborn.md), naturally gifted in minor magic.
 
-She is allied with [Creek](creek.md), willing to help him with his business outside of [Murkwallow](../places/cities/murkwallow.md).
+She is allied with [Creek](creek.md), willing to help him with his business outside of [Murkwallow](../places/settlements/cities/murkwallow.md).
 
 ## Character Rolls
 
@@ -56,7 +56,7 @@ She is allied with [Creek](creek.md), willing to help him with his business outs
 | **Mannerisms** | Glares judgmentally at the slightest provocation. Shows her emotions on her face readily. Pays others little attention. |
 | | |
 | **Quirks** | Believes in the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) as an organisation more so than any individual skimmer. |
-| **Knowledge** | [Starnov](../places/cities/starnov.md). |
+| **Knowledge** | [Starnov](../places/settlements/cities/starnov.md). |
 | **Values** | Believes actions speak louder than words. |
-| **Ambitions** | Wants to exert control over [Starnov](../places/cities/starnov.md)'s mercantile class. |
+| **Ambitions** | Wants to exert control over [Starnov](../places/settlements/cities/starnov.md)'s mercantile class. |
 | **Dislikes** | Those who have yet to prove themselves. Assumes everyone is incompetent until proven otherwise. |

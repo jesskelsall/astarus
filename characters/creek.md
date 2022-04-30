@@ -23,7 +23,7 @@
 
 Creek is an enigmatic [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) contact that operates out of [Creek's Bar](../places/buildings/inns-taverns/creeks-bar.md) in [Tabaxi's Folly](../places/buildings/tabaxis-folly.md). He works closely with [Wedge](wedge.md) who operates his bar.
 
-[Keranios](keranios.md) and [Marik Kaligavone](marik-kaligavone.md) both owe Creek a debt which puts them at his service. Creek has close ties to [Crucible](crucible.md) who operates out of [Starnov](../places/cities/starnov.md).
+[Keranios](keranios.md) and [Marik Kaligavone](marik-kaligavone.md) both owe Creek a debt which puts them at his service. Creek has close ties to [Crucible](crucible.md) who operates out of [Starnov](../places/settlements/cities/starnov.md).
 
 ## Characteristics
 

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Head & Haft |
 | **Type** | Tavern |
-| **Location** | [Arnaside](../../villages/arnaside.md) |
+| **Location** | [Arnaside](../../settlements/villages/arnaside.md) |
 | **Nearby Places** | [The Malneshitas](../temples/the-malneshitas.md) |
 | **People** | [Sharakas](../../../characters/sharakas.md) (barkeep) |
 
@@ -12,9 +12,9 @@
 
 ### Exterior
 
-*See: [Arnaside](../../villages/arnaside.md)*
+*See: [Arnaside](../../settlements/villages/arnaside.md)*
 
-Looks just like all of the other buildings in [Arnaside](../../villages/arnaside.md).
+Looks just like all of the other buildings in [Arnaside](../../settlements/villages/arnaside.md).
 
 ### Interior
 
@@ -28,7 +28,7 @@ Typically the bar has a few patrons. It closes once it gets dark.
 | Sounds | Wind howling against the roof, creaking wood. Quiet chatter when patrons are in. |
 | Smells | Peat, wet wood. |
 | People | Drigg patrons enjoying a quiet drink and a chat. |
-| Intrigue | The closest thing [Arnaside](../../villages/arnaside.md) has to a modern village, though the tavern isn't up to any reasonable standard. |
+| Intrigue | The closest thing [Arnaside](../../settlements/villages/arnaside.md) has to a modern village, though the tavern isn't up to any reasonable standard. |
 
 ## Places
 
@@ -36,4 +36,4 @@ Typically the bar has a few patrons. It closes once it gets dark.
 
 No beer is available. Sheep milk and water is however.
 
-[Arnaside](../../villages/arnaside.md) doesn't use coin, so offers to pay are seen as strange.
+[Arnaside](../../settlements/villages/arnaside.md) doesn't use coin, so offers to pay are seen as strange.

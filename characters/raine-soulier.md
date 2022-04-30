@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | Rene Soulier (ancestor)<br>[Corinne Soulier](corinne-soulier.md) (ancestor)<br>[Naeva Soulier](naeva-soulier.md) (ancestor) |
-| **Places** | [Raine's Cottage](../places/buildings/houses/raines-cottage.md) (home)<br>[Arrepont](../places/cities/arrepont.md) (birthplace) |
+| **Places** | [Raine's Cottage](../places/buildings/houses/raines-cottage.md) (home)<br>[Arrepont](../places/settlements/cities/arrepont.md) (birthplace) |
 | **Citizenship** | [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md) |
 | **Organisation(s)** | |
 |||

@@ -20,7 +20,7 @@
 
 ## Summary
 
-Brother Verrick is the head caretaker of the [Temple of the Resistance](../places/buildings/temples/temple-of-the-resistance.md) in [Hyceodd](../places/towns/hyceodd.md).
+Brother Verrick is the head caretaker of the [Temple of the Resistance](../places/buildings/temples/temple-of-the-resistance.md) in [Hyceodd](../places/settlements/towns/hyceodd.md).
 
 ## Characteristics
 

@@ -14,7 +14,7 @@ During the Fall of Chausain, [Malnesh](../../gods/deities/malnesh.md) appeared i
 
 When it became apparent to [Malnesh](../../gods/deities/malnesh.md) that her favoured elves, the Elves of Chausain, were about to be defeated by their human enemies, [Malnesh](../../gods/deities/malnesh.md) conspired to intervene. During the Fall of Chausain, when the inner city wall was breached, [Malnesh](../../gods/deities/malnesh.md) appeared in the city, looming large over it.
 
-She used her magic to pull every single elf in Chausain to [Astarus](../../celestial-objects/astarus.md), placing them on the future site of central [Naissance](../../places/cities/arrepont.md). Each elf was only brought with the clothes on their back and any possessions they carried or held.
+She used her magic to pull every single elf in Chausain to [Astarus](../../celestial-objects/astarus.md), placing them on the future site of central [Naissance](../../places/settlements/cities/arrepont.md). Each elf was only brought with the clothes on their back and any possessions they carried or held.
 
 The feat of moving an entire city of people to another world drained much of [Malnesh](../../gods/deities/malnesh.md)'s power. She used most of her reserves helping the elves establish themselves before retreating to a more passive role, choosing to watch over [Astarus](../../celestial-objects/astarus.md) as her primary concern.
 

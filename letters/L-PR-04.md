@@ -22,7 +22,7 @@
 > I'm so relieved to have heard from you!  
 > It's been so incredibly stressful lately trying to piece together what happened to you and your friends since you all left [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) that night.
 > 
-> I heard that you'd made it to [Northhaven](../places/cities/northhaven.md) after news of a blue firbolg in [sanctuary](../organisations/government/astorrel/sanctuary.md) reached us here. It just had to be you, I knew it!
+> I heard that you'd made it to [Northhaven](../places/settlements/cities/northhaven.md) after news of a blue firbolg in [sanctuary](../organisations/government/astorrel/sanctuary.md) reached us here. It just had to be you, I knew it!
 > 
 > Then news of the trial and word that the [Astornox](../organisations/government/astornox/astornox.md) won. My heart sank, I feared the worst for you. Surely you had been conscripted and I'd never hear from you again.
 > 
@@ -31,7 +31,7 @@
 > 
 > The consequences of what happened here are still being felt.  
 > I am so sorry about what happened to your father.  
-> Captain Hawthorn has been taking out his misery on the village. I was involved so the persecution has been harsh. At this rate I'll have to move. Maybe to [Northhaven](../places/cities/northhaven.md) so I can be closer to you?
+> Captain Hawthorn has been taking out his misery on the village. I was involved so the persecution has been harsh. At this rate I'll have to move. Maybe to [Northhaven](../places/settlements/cities/northhaven.md) so I can be closer to you?
 > 
 > Stay safe,  
 > Heather Pentz

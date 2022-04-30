@@ -18,7 +18,7 @@ Each squad receives a letter from the [Astornar](../../organisations/government/
 
 ### Logistics
 
-The tournament itself takes place in an arena, traditionally [Vorrinel's Stand](../../places/buildings/vorrinels-stand.md) in [Eskrigg](../../places/cities/eskrigg.md). As the [Astorrel](../../organisations/government/astorrel/astorrel.md) squads can be based anywhere in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md), travel arrangements are made to bring them to the hosting city. Where possible the [Astorrel](../../organisations/government/astorrel/astorrel.md) and/or [Astornar](../../organisations/government/astornar.md) arrange for magical teleportation for the competitors, sparing them the time and danger required for over-land travel.
+The tournament itself takes place in an arena, traditionally [Vorrinel's Stand](../../places/buildings/government/vorrinels-stand.md) in [Eskrigg](../../places/settlements/cities/eskrigg.md). As the [Astorrel](../../organisations/government/astorrel/astorrel.md) squads can be based anywhere in the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md), travel arrangements are made to bring them to the hosting city. Where possible the [Astorrel](../../organisations/government/astorrel/astorrel.md) and/or [Astornar](../../organisations/government/astornar.md) arrange for magical teleportation for the competitors, sparing them the time and danger required for over-land travel.
 
 Competitors are provided accommodation in the [Astorrel](../../organisations/government/astorrel/astorrel.md) stronghold of the host city, with their well being catered to for the duration.
 

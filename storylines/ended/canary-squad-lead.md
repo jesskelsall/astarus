@@ -34,7 +34,7 @@ Until he has made his decision, Bryce will be making one squad member per missio
 | [Ruby Squad](../../organisations/government/astorrel/squads/ruby-squad.md) | [Darius Dunn](../../characters/darius-dunn.md) | Investigate Bear Attacks in Hartsgarth | 30 gp | 10 days |
 | [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) | [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Check Logging in Arnaside](check-logging-in-arnaside.md) | 20 gp | 14 days |
 
-The party begins their journey to [Arnaside](../../places/villages/arnaside.md) so that they can complete their mission in good time and return as soon as possible. Ahsha takes charge of deciding how the group will get there (hired coach), and converses with [Clay Mullen](../../characters/clay-mullen.md) to hire his services to this end.
+The party begins their journey to [Arnaside](../../places/settlements/villages/arnaside.md) so that they can complete their mission in good time and return as soon as possible. Ahsha takes charge of deciding how the group will get there (hired coach), and converses with [Clay Mullen](../../characters/clay-mullen.md) to hire his services to this end.
 
 ### [AA06](../../sessions/AA06.md)
 
@@ -44,7 +44,7 @@ With the squad invited to compete in [Nature's Battle 28](natures-battle-28.md),
 
 | Squad | Acting Lead | Mission | Bounty | Time Limit |
 | --- | --- | --- | ---:| --- |
-| [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) | [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | Independent Investigation of [Ulburn](../../places/villages/ulburn.md) | 25 gp | *Flexible* |
+| [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) | [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) | Independent Investigation of [Ulburn](../../places/settlements/villages/ulburn.md) | 25 gp | *Flexible* |
 
 ### [AA08](../../sessions/AA08.md)
 
@@ -52,6 +52,6 @@ For the [Nature's Battle 28](natures-battle-28.md) tournament [Bryce Morton](../
 
 ### [AA12](../../sessions/AA12.md)
 
-In the wake of [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md)'s exploits in [Eskrigg](../../places/cities/eskrigg.md) ([Syntenne Spies in Eskrigg](syntenne-spies-in-eskrigg.md)), [Bryce Morton](../../characters/bryce-morton.md) receives orders from [Levelle Tristwix](../../characters/levelle-tristwix.md), who in turn receives orders from the [Astornar](../../organisations/government/astornar.md), to promote [Ahsha Sallas](../../characters/ahsha-sallas.md) to [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md). Bryce congratulates her on her promotion but makes sure to mention that the decision wasn't his, and that he would have preferred more time to evaluate all squad hands before coming to his own decision.
+In the wake of [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md)'s exploits in [Eskrigg](../../places/settlements/cities/eskrigg.md) ([Syntenne Spies in Eskrigg](syntenne-spies-in-eskrigg.md)), [Bryce Morton](../../characters/bryce-morton.md) receives orders from [Levelle Tristwix](../../characters/levelle-tristwix.md), who in turn receives orders from the [Astornar](../../organisations/government/astornar.md), to promote [Ahsha Sallas](../../characters/ahsha-sallas.md) to [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md). Bryce congratulates her on her promotion but makes sure to mention that the decision wasn't his, and that he would have preferred more time to evaluate all squad hands before coming to his own decision.
 
 Immediately the squad is given their next mission ([Rescue Kiln Squad](../rescue-kiln-squad.md)), with Ahsha leading [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) on it.

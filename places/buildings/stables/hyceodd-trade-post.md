@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Hyceodd Trade Post | place.4
 | **Type** | Stables |
-| **Location** | [Hyceodd](../../towns/hyceodd.md) |
+| **Location** | [Hyceodd](../../settlements/towns/hyceodd.md) |
 | **Nearby Places** | |
 | **People** | [Upton McAran](../../../characters/upton-mcaran.md) (owner) |
 
 ## Summary
 
-The Hyceodd Trade Post is a trade stop in [Hyceodd](../../towns/hyceodd.md) that deals with over-land trade by horse and cart. It is part of a network that organises trade along the [Great Astor road](../../roads/great-astor-road.md).
+The Hyceodd Trade Post is a trade stop in [Hyceodd](../../settlements/towns/hyceodd.md) that deals with over-land trade by horse and cart. It is part of a network that organises trade along the [Great Astor road](../../roads/great-astor-road.md).
 
 ## Description
 
@@ -18,11 +18,11 @@ The Hyceodd Trade Post is a trade stop in [Hyceodd](../../towns/hyceodd.md) that
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Two story cobbled stone and timber building along the [Great Astor Road](../../roads/great-astor-road.md), two buildings down from the [Hyceodd](../../towns/hyceodd.md) northern gatehouse. Large opening for horses and carts to enter directly from the road. |
+| Sights | Two story cobbled stone and timber building along the [Great Astor Road](../../roads/great-astor-road.md), two buildings down from the [Hyceodd](../../settlements/towns/hyceodd.md) northern gatehouse. Large opening for horses and carts to enter directly from the road. |
 | Sounds | Horses, carts, workers shouting occasionally. |
 | Smells | Horse manure, mud. |
 | People | Cart drivers, traders. |
-| Intrigue | A hub of activity for trade in [Hyceodd](../../towns/hyceodd.md). |
+| Intrigue | A hub of activity for trade in [Hyceodd](../../settlements/towns/hyceodd.md). |
 
 ### Interior
 

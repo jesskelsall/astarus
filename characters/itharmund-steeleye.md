@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Northhaven Astornox Stronghold](../places/strongholds/northhaven-astornox-stronghold.md) |
+| **Places** | [Northhaven Astornox Stronghold](../places/settlements/strongholds/northhaven-astornox-stronghold.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||

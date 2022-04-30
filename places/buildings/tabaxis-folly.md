@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Tabaxi's Folly | place.4
 | **Type** | Building |
-| **Location** | [Murkwallow](../cities/murkwallow.md)<br>[Scintil Delta](../rivers-lakes/scintil-delta.md)<br>[Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Location** | [Murkwallow](../settlements/cities/murkwallow.md)<br>[Scintil Delta](../topography/rivers-lakes/scintil-delta.md)<br>[Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Nearby Places** | |
 | **People** | |
 
@@ -12,7 +12,7 @@
 
 *See: [Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md)*
 
-Tabaxi's Folly is the headquarters of the [Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md). A series of underground tunnels and chambers built under most of the city of [Murkwallow](../cities/murkwallow.md).
+Tabaxi's Folly is the headquarters of the [Marsh Skimmers](../../organisations/criminals/marsh-skimmers.md). A series of underground tunnels and chambers built under most of the city of [Murkwallow](../settlements/cities/murkwallow.md).
 
 ### Exterior
 

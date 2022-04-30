@@ -4,7 +4,7 @@
 
 As part of [AA01](../../sessions/AA01.md) the [Astorrel Agents](../../campaigns/C2-astorrel-agents.md) players were given two truths and a lie about various characters in their [Astorrel](../../organisations/government/astorrel/astorrel.md) graduate cohort, including the other [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) members.
 
-These are designed to provide some rumours and stories that were heard about other trainees while training in [Dunmore](../../places/cities/dunmore.md).
+These are designed to provide some rumours and stories that were heard about other trainees while training in [Dunmore](../../places/settlements/cities/dunmore.md).
 
 ## Characters
 

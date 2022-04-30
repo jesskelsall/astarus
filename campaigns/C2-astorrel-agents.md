@@ -44,7 +44,7 @@ The player characters are freshly graduated members of the [Astorrel](../organis
 | [AA00](../sessions/AA00.md) | 2021-01-02 | *Session Zero* |
 | [AA01](../sessions/AA01.md) | 2021-01-16 | *[Astorrel Graduation](../storylines/ended/astorrel-graduation.md)* |
 | [AA02](../sessions/AA02.md) | 2021-01-30 | *[Canary Squad](../organisations/government/astorrel/squads/canary-squad.md)* |
-| [AA03](../sessions/AA03.md) | 2021-02-13 | *Trouble in [Arnaside](../places/villages/arnaside.md)* |
+| [AA03](../sessions/AA03.md) | 2021-02-13 | *Trouble in [Arnaside](../places/settlements/villages/arnaside.md)* |
 | [AA04](../sessions/AA04.md) | 2021-02-27 | *Negotiations in Draconic* |
 | [AA05](../sessions/AA05.md) | 2021-03-13 | *Take Me to Your Leader* |
 | [AA06](../sessions/AA06.md) | 2021-03-27 | *Fruit Cake and Fights* |
@@ -108,7 +108,7 @@ Towards the end of 2021 sessions were cancelled for various reasons, mostly due 
 
 #### [Brooke](../players/brooke.md) → [Chloe](../players/chloe.md)
 
-Just prior to [Nature's Battle 28](../storylines/ended/natures-battle-28.md), [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) were given their next mission. This would see [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) as acting [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) on a mission to investigate [Astornox](../organisations/government/astornox/astornox.md) / [Astorrel](../organisations/government/astorrel/astorrel.md) relationships in [Ulburn](../places/villages/ulburn.md).
+Just prior to [Nature's Battle 28](../storylines/ended/natures-battle-28.md), [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) were given their next mission. This would see [Whisper on the Breeze](../characters/whisper-on-the-breeze.md) as acting [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) on a mission to investigate [Astornox](../organisations/government/astornox/astornox.md) / [Astorrel](../organisations/government/astorrel/astorrel.md) relationships in [Ulburn](../places/settlements/villages/ulburn.md).
 
 [Brooke](../players/brooke.md) was caught off guard by being placed into a leadership position within the campaign, triggering due to real life parallels. As a result the second half of [AA06](../sessions/AA06.md) was padded out to avoid starting that mission, especially as the tournament was due to start next session.
 

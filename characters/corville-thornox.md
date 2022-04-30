@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Supreme Hall](../places/buildings/supreme-hall.md) |
+| **Places** | [Supreme Hall](../places/buildings/government/supreme-hall.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astornar](../organisations/government/astornar.md) |

@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md) |
+| **Places** | [Tenterfell House](../places/buildings/government/tenterfell-house.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||

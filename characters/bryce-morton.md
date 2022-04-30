@@ -12,7 +12,7 @@
 | **Background** | Knight |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
-| **Places** | [Bryce Morton's Office](../places/buildings/bryce-mortons-office.md) |
+| **Places** | [Bryce Morton's Office](../places/buildings/government/bryce-mortons-office.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Bryce is a career [Astorrel](../organisations/government/astorrel/astorrel.md), looking for promotion. Despite this his methods are very hands-off, preferring to let his squads get on with their missions alone, and getting irritated when his assistance is called upon. His preference would be to stay inside of the [Northhaven Astorrel stronghold](../places/strongholds/northhaven-astorrel-stronghold.md).
+Bryce is a career [Astorrel](../organisations/government/astorrel/astorrel.md), looking for promotion. Despite this his methods are very hands-off, preferring to let his squads get on with their missions alone, and getting irritated when his assistance is called upon. His preference would be to stay inside of the [Northhaven Astorrel stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md).
 
 He is a straightforward person with a military personality. He stands to attention and talks straightforwardly. In his quarters he can also be stern or pensive.
 
@@ -28,8 +28,8 @@ He is a straightforward person with a military personality. He stands to attenti
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/cities/northhaven.md) / Summit Squad |||
-| [AA01](../sessions/AA01.md) | [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) | Cities / [Northhaven](../places/cities/northhaven.md) | [Samantha Ilis](samantha-ilis.md) | [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md)<br>[Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) |
+|| [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / Summit Squad |||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) | [Samantha Ilis](samantha-ilis.md) | [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md)<br>[Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) |
 
 ## Character Rolls
 

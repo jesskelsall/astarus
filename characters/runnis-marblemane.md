@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Ulburn](../places/villages/ulburn.md) |
+| **Places** | [Ulburn](../places/settlements/villages/ulburn.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |

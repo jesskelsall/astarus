@@ -11,7 +11,7 @@
 | **Class** | Wizard (School of Enchantment) |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | [Kur Merkys](kur-merkys.md) ([Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
-| **Places** | [Northhaven](../places/cities/northhaven.md) |
+| **Places** | [Northhaven](../places/settlements/cities/northhaven.md) |
 |||
 | **Citizenship** |  |
 | **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Vilnia Kovas is an [Astornox magicborn hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) based out of [Northhaven](../places/cities/northhaven.md).
+Vilnia Kovas is an [Astornox magicborn hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) based out of [Northhaven](../places/settlements/cities/northhaven.md).
 
 ## Characteristics
 
@@ -61,7 +61,7 @@ Vilnia Kovas is an [Astornox magicborn hunter](../organisations/government/astor
 
 ## History
 
-Vilnia grew up in [Dunmore](../places/cities/dunmore.md) where she had a quiet and humble family upbringing. A social outcast that was instead fascinated with books and eager to read, she came across an arcane tome in a second-hand bookshop and was immediately taken by it. Soon she discovered that she was able to access its arcane knowledge, discovering that she is [magicborn](../civilisations/kingdom-of-astor/magicborn.md). In particular she was drawn to magic that she could use to converse with others.
+Vilnia grew up in [Dunmore](../places/settlements/cities/dunmore.md) where she had a quiet and humble family upbringing. A social outcast that was instead fascinated with books and eager to read, she came across an arcane tome in a second-hand bookshop and was immediately taken by it. Soon she discovered that she was able to access its arcane knowledge, discovering that she is [magicborn](../civilisations/kingdom-of-astor/magicborn.md). In particular she was drawn to magic that she could use to converse with others.
 
 Keen to learn more she joined the [Astornox](../organisations/government/astornox/astornox.md). Her magical prowess developed more towards ice magic as she climbed the ladder, eventually drawing the attention of the [Astornox magicborn hunters](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) who offered her a position. She has spent the last few years rounding up [magicborn on the run](../storylines/ended/magicborn-on-the-run.md), feeling increasingly confident of her abilities, and keen to progress her [Astornox](../organisations/government/astornox/astornox.md) career further.
 

@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Viola](viola.md) ([Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) associate) |
-| **Places** | [Trest](../places/towns/trest.md) |
+| **Places** | [Trest](../places/settlements/towns/trest.md) |
 | **Citizenship** | |
 | **Organisation(s)** | [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md) |
 |||
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Cork Pop is a Marsh Skimmer that works closely with [Viola](viola.md) out of [Trest](../places/towns/trest.md).
+Cork Pop is a Marsh Skimmer that works closely with [Viola](viola.md) out of [Trest](../places/settlements/towns/trest.md).
 
 ## Characteristics
 

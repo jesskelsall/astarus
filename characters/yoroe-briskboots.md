@@ -16,7 +16,7 @@
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) / [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) |
+| **Role** | Cities / [Eskrigg](../places/settlements/cities/eskrigg.md) / [Mortar Squad](../organisations/government/astorrel/squads/mortar-squad.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||

@@ -8,7 +8,7 @@
 
 ## Summary
 
-All three [aasimar](../lineages/aasimar.md) share their first dream together, showing the ritual they must perform together at [Augury Rock](../places/structures/augury-rock.md).
+All three [aasimar](../lineages/aasimar.md) share their first dream together, showing the ritual they must perform together at [Augury Rock](../places/topography/landmarks/augury-rock.md).
 
 ## Details
 
@@ -24,7 +24,7 @@ Thanea continues to give chase, the same series of events playing out on repeat.
 
 ### [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md)
 
-Saoirse finds herself in the streets of the [Sunrise District](../places/districts/sunrise-district.md) of [Northhaven](../places/cities/northhaven.md), searching for [Ethel's Wares](../places/buildings/shops/ethels-wares.md) amongst the streets near the [Northhaven Wall](../places/structures/northhaven-wall.md). She turns a corner onto what she knows is the correct street, but as she approaches the shop front, she finds it to be a different building, as if the shop had never existed.
+Saoirse finds herself in the streets of the [Sunrise District](../places/settlements/districts/sunrise-district.md) of [Northhaven](../places/settlements/cities/northhaven.md), searching for [Ethel's Wares](../places/buildings/shops/ethels-wares.md) amongst the streets near the [Northhaven Wall](../places/structures/northhaven-wall.md). She turns a corner onto what she knows is the correct street, but as she approaches the shop front, she finds it to be a different building, as if the shop had never existed.
 
 She turns around, trying to double-check where she is, but as she does so she finds herself several streets away again, her position reset. She tries with extra determination to reach the shop again, but the same situation plays out several times in a row, a loop that she cannot break.
 
@@ -48,11 +48,11 @@ Saoirse initially has the same experience, but a competing inky blackness begins
 
 Saoirse opens her mouth to speak but her words get lost in the sandstorm.
 
-Both Saoirse and Thanea are lead by the hand by their devas deeper into the sandstorm. After a moment the pair emerge from the sandstorm suddenly, entering the eye of the storm, an area of desert devoid of wind. In its centre is [Augury Rock](../places/structures/augury-rock.md), a prominent rock set into the sand at a slight angle, some smaller desert rocks supporting it on its highest side. Amongst these smaller rocks is a dead tree, battered and gnarled by the desert storms.
+Both Saoirse and Thanea are lead by the hand by their devas deeper into the sandstorm. After a moment the pair emerge from the sandstorm suddenly, entering the eye of the storm, an area of desert devoid of wind. In its centre is [Augury Rock](../places/topography/landmarks/augury-rock.md), a prominent rock set into the sand at a slight angle, some smaller desert rocks supporting it on its highest side. Amongst these smaller rocks is a dead tree, battered and gnarled by the desert storms.
 
 Glancing across the area, both notice each other, about 200ft away, 1/3 of the way round the edge of the eye of the storm, with the swirling vortex of sand behind them. They both see radiant glowing winged creatures leading each other by the hand. They then both look further round and see a third figure bathed in a radiant glow ([Allisa Balsatra](../characters/allisa-balsatra.md)), being led by a similar radiant figure with wings ([Minsas](../characters/minsas.md)).
 
-Each person's deva leads them over to [Augury Rock](../places/structures/augury-rock.md), letting go of their hands as they reach its edge and take their first step onto it. Thanea hesitates, looking back at [Seraphina](../characters/seraphina.md) who doesn't react. She then goes ahead, stepping further onto the rock. Saoirse moves round the rock to Thanea and grabs her hand, the pair proceeding further onto the rock together.
+Each person's deva leads them over to [Augury Rock](../places/topography/landmarks/augury-rock.md), letting go of their hands as they reach its edge and take their first step onto it. Thanea hesitates, looking back at [Seraphina](../characters/seraphina.md) who doesn't react. She then goes ahead, stepping further onto the rock. Saoirse moves round the rock to Thanea and grabs her hand, the pair proceeding further onto the rock together.
 
 Allisa reaches the centre of the rock and stops, stretching both of her arms out, one at each of the others. At this range both can now make out her appearance, particularly her full-face metal helmet. Both grab a hand each, forming a triangle with their arms, each person holding the hands of the other two with their arms outstretched.
 

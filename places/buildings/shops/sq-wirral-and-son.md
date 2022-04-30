@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | S.Q. Wirral & Son |
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../streets/crafters-course.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md) |
 | **People** | [Sandor Wirral](../../../characters/sandor-wirral.md) (owner)<br>[Clyde Wirral](../../../characters/clyde-wirral.md) (apprentice) |
 
 ## Summary
 
-S.Q. Wirral & Son is an armoursmith on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md).
+S.Q. Wirral & Son is an armoursmith on [Crafters Course](../../settlements/streets/crafters-course.md) in the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md).
 
 It is ran by [Sandor Wirral](../../../characters/sandor-wirral.md) and his son, [Clyde Wirral](../../../characters/clyde-wirral.md). The family have been in the armoursmithing business for three generations, soon to be four.
 

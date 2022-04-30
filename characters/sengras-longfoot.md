@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Darius Dunn](darius-dunn.md) (pen pal) |
-| **Places** | [Eskrigg](../places/cities/eskrigg.md) |
+| **Places** | [Eskrigg](../places/settlements/cities/eskrigg.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
@@ -18,7 +18,7 @@
 
 ## Summary
 
-Sengras Longfoot is a melancholic yet well spoken earth genasi that works for the [Eskrigg](../places/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md).
+Sengras Longfoot is a melancholic yet well spoken earth genasi that works for the [Eskrigg](../places/settlements/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md).
 
 [Darius Dunn](darius-dunn.md) has been in contact with him while investigating the presence and nature of genasi in the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
@@ -26,7 +26,7 @@ Sengras Longfoot is a melancholic yet well spoken earth genasi that works for th
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) | Settlements / [Eskrigg](../places/cities/eskrigg.md) | [Legacy Aranius](legacy-aranius.md) ||
+|| [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) | Settlements / [Eskrigg](../places/settlements/cities/eskrigg.md) | [Legacy Aranius](legacy-aranius.md) ||
 
 ## Characteristics
 

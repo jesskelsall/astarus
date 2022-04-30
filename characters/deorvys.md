@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Fraevuth](fraevuth.md) (child) |
-| **Places** | [Devdaha Crypt](../places/dungeons/devdaha-crypt.md) |
+| **Places** | [Devdaha Crypt](../places/structures/dungeons/devdaha-crypt.md) |
 | **Citizenship** | |
 | **Organisation(s)** | |
 |||
@@ -20,4 +20,4 @@
 
 ## Summary
 
-Deorvys is a crystal dragon charged with protecting [Devdaha Crypt](../places/dungeons/devdaha-crypt.md) from races that came to [Astarus](../celestial-objects/astarus.md) from [the Second Coming](../history/events/the-second-coming.md) onwards. They are willing to protect the existence of [strigid](../lineages/strigid.md) with their life.
+Deorvys is a crystal dragon charged with protecting [Devdaha Crypt](../places/structures/dungeons/devdaha-crypt.md) from races that came to [Astarus](../celestial-objects/astarus.md) from [the Second Coming](../history/events/the-second-coming.md) onwards. They are willing to protect the existence of [strigid](../lineages/strigid.md) with their life.

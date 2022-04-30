@@ -12,7 +12,7 @@
 
 ## Summary
 
-The Meteoric Map of Astor is a crude recreation of an [Astorrel Map of South East Kardan](astorrel-map-of-south-east-kardan.md), created so that it could be drawn on. It shows the location of [meteorite](../items/meteoric/meteorite.md) impact sites known to [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) prior to the [Purple Rain](../campaigns/C1-purple-rain.md) campaign, with the potential impact site of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) circled.
+The Meteoric Map of Astor is a crude recreation of an [Astorrel Map of Southeastern Kardan](astorrel-map-of-southeastern-kardan.md), created so that it could be drawn on. It shows the location of [meteorite](../items/meteoric/meteorite.md) impact sites known to [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) prior to the [Purple Rain](../campaigns/C1-purple-rain.md) campaign, with the potential impact site of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) circled.
 
 ## History
 
@@ -20,19 +20,19 @@ The map belonged to [Wrenn Piznarck](../characters/wrenn-piznarck.md) who showed
 
 ## Mistakes
 
-The map is incomplete, not showing all settlements featured on the [Astorrel Map of South East Kardan](astorrel-map-of-south-east-kardan.md). There are also several incorrectly named settlements.
+The map is incomplete, not showing all settlements featured on the [Astorrel Map of Southeastern Kardan](astorrel-map-of-southeastern-kardan.md). There are also several incorrectly named settlements.
 
-These mistakes are down to my iteration on [South East Kardan](../places/regions/south-east-kardan.md) and not realising I had already named some of the settlements.
+These mistakes are down to my iteration on [Southeastern Kardan](../places/regions/southeastern-kardan.md) and not realising I had already named some of the settlements.
 
-| Meteoric Map of Astor | [Astorrel Map of South East Kardan](astorrel-map-of-south-east-kardan.md) |
+| Meteoric Map of Astor | [Astorrel Map of Southeastern Kardan](astorrel-map-of-southeastern-kardan.md) |
 | --- | --- |
-| Almsthwaite | [Mockerkin](../places/towns/mockerkin.md) |
+| Almsthwaite | [Mockerkin](../places/settlements/towns/mockerkin.md) |
 | Bootle (west) | Hartsgarth |
 | Dunriven | 
 | Eskside | *Removed.*
 | Fossgarth | Carnmere |
-| Grachside | [Yeatscale](../places/cities/yeatscale.md) |
-| Leece | [Ulburn](../places/villages/ulburn.md) |
+| Grachside | [Yeatscale](../places/settlements/cities/yeatscale.md) |
+| Leece | [Ulburn](../places/settlements/villages/ulburn.md) |
 
 ## Versions
 

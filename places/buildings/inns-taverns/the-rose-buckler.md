@@ -4,17 +4,17 @@
 | --- | --- |
 | **Name** | The Rose Buckler |
 | **Type** | Inn |
-| **Location** | [Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md) |
+| **Location** | [Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
+| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Northhaven Astornox Stronghold](../../settlements/strongholds/northhaven-astornox-stronghold.md) |
 | **People** | [Tydrus Tinshield](../../../characters/tydrus-tinshield.md) (owner, innkeeper)<br>[Jaxon Ultari](../../../characters/jaxon-ultari.md) (patron, gambler) |
 
 ## Summary
 
-The Rose Buckler is an inn in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md). It is ran by the innkeeper, [Tydrus Tinshield](../../../characters/tydrus-tinshield.md).
+The Rose Buckler is an inn in the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md). It is ran by the innkeeper, [Tydrus Tinshield](../../../characters/tydrus-tinshield.md).
 
 It styles itself as a traditional run-of-the-mill inn. Despite a predominantly stone exterior with many segmented windows, its swinging sign and interior resembles a standard cobble stone and wooden tavern. Despite the rustic aesthetic, the building quality is noticeably higher than most taverns, giving it the appearance of a strange knock-off.
 
-Due to its proximity to the [Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md), it is popular with [Astornox](../../../organisations/government/astornox/astornox.md), both active and retired. As a result it has a reputation for hard drinkers and unruly, if not friendly, behaviour by its patrons. It has one of the finest selection of ales in [Northhaven](../../cities/northhaven.md), and lodging is cheap and cheerful.
+Due to its proximity to the [Northhaven Astornox Stronghold](../../settlements/strongholds/northhaven-astornox-stronghold.md), it is popular with [Astornox](../../../organisations/government/astornox/astornox.md), both active and retired. As a result it has a reputation for hard drinkers and unruly, if not friendly, behaviour by its patrons. It has one of the finest selection of ales in [Northhaven](../../settlements/cities/northhaven.md), and lodging is cheap and cheerful.
 
 | Sensation | Description |
 | ---- | --- |
@@ -22,7 +22,7 @@ Due to its proximity to the [Northhaven Astornox Stronghold](../../strongholds/n
 | Sounds | Loud chatter, wooden mugs being slammed and hit together. Periodic shouts and cheers. |
 | Smells | Strong smell of ale and body odour. Wet wood. Wet dog. |
 | People | [Astornox](../../../organisations/government/astornox/astornox.md) citizens, other rough and tumble citizens. Plainer looking people. |
-| Intrigue | The [Sunset District](../../districts/sunset-district.md) is so affluent that a cheap and cheerful inn experience is a sought after curiosity. |
+| Intrigue | The [Sunset District](../../settlements/districts/sunset-district.md) is so affluent that a cheap and cheerful inn experience is a sought after curiosity. |
 
 ## Vendor
 

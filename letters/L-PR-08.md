@@ -19,8 +19,8 @@
 ## Transcript
 
 > [Sengras Longfoot](../characters/sengras-longfoot.md)  
-> [Eskrigg](../places/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md) Stronghold  
-> [Eskrigg](../places/cities/eskrigg.md)
+> [Eskrigg](../places/settlements/cities/eskrigg.md) [Astornox](../organisations/government/astornox/astornox.md) Stronghold  
+> [Eskrigg](../places/settlements/cities/eskrigg.md)
 >
 > Kirdag, 25th Shavdor 312
 >
@@ -30,9 +30,9 @@
 >
 > Being selected for such a prestigious event is an incredible honour in and of itself. Making it to the tournament final shows equal measures of skill and resolve. There is no doubt in my mind that [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md)'s performance captured the imagination of many festival goers - myself included.
 >
-> I wish you all well on your [Astorrel](../organisations/government/astorrel/astorrel.md) missions. May they all be swift and safe. As an [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) for the [Eskrigg](../places/cities/eskrigg.md) guard, I know first hand the value of uneventful days.
+> I wish you all well on your [Astorrel](../organisations/government/astorrel/astorrel.md) missions. May they all be swift and safe. As an [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) for the [Eskrigg](../places/settlements/cities/eskrigg.md) guard, I know first hand the value of uneventful days.
 >
-> If you find yourselves in [Eskrigg](../places/cities/eskrigg.md) again, I would very much like the opportunity to meet you all.
+> If you find yourselves in [Eskrigg](../places/settlements/cities/eskrigg.md) again, I would very much like the opportunity to meet you all.
 >
 > With [Gormox](../gods/deities/gormox.md)'s desire,  
 > [Sengras Longfoot](../characters/sengras-longfoot.md)  

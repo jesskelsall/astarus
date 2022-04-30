@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | [Nenra Zossa](nenra-zossa.md) (friend) |
-| **Places** | Eaglesfield (birthplace)<br>[Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md)<br>[Arnaside](../places/villages/arnaside.md) |
+| **Places** | Eaglesfield (birthplace)<br>[Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md)<br>[Arnaside](../places/settlements/villages/arnaside.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Kulegar Bronhor is the logger that runs the [Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md) in [Arnaside](../places/villages/arnaside.md).
+Kulegar Bronhor is the logger that runs the [Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md) in [Arnaside](../places/settlements/villages/arnaside.md).
 
 ## Characteristics
 
@@ -41,13 +41,13 @@ Kulegar Bronhor is the logger that runs the [Arnaside Logging Camp](../places/st
 
 ## History
 
-Kulegar is originally from Eaglesfield. He became friends with [Nenra Zossa](nenra-zossa.md) and her late husband Grice while they were practising Malneshi there. He agreed to help form [Arnaside](../places/villages/arnaside.md) when Grice suggested it.
+Kulegar is originally from Eaglesfield. He became friends with [Nenra Zossa](nenra-zossa.md) and her late husband Grice while they were practising Malneshi there. He agreed to help form [Arnaside](../places/settlements/villages/arnaside.md) when Grice suggested it.
 
-Since moving to [Arnaside](../places/villages/arnaside.md), Kulegar has been working to leverage logging as a material that the village can trade with the outside world for supplies they can't make or grow themselves.
+Since moving to [Arnaside](../places/settlements/villages/arnaside.md), Kulegar has been working to leverage logging as a material that the village can trade with the outside world for supplies they can't make or grow themselves.
 
 ## Planning
 
-### Trouble in [Arnaside](../places/villages/arnaside.md)
+### Trouble in [Arnaside](../places/settlements/villages/arnaside.md)
 
 Kulegar is helping the other loggers tidy up the kobolds' mess when the party arrives. He is determining that a broken wheel on the logging cart that was attacked cannot be repaired.
 

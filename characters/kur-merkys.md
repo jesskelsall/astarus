@@ -11,7 +11,7 @@
 | **Class** | Sorcerer (Draconic Bloodline) |
 | **Worship** | [Gormox](../gods/deities/gormox.md) |
 | **Relations** | [Vilnia Kovas](vilnia-kovas.md) ([Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) colleague, dead) |
-| **Places** | [Northhaven](../places/cities/northhaven.md) |
+| **Places** | [Northhaven](../places/settlements/cities/northhaven.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) |
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Kur Merkys is an [Astornox magicborn hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) based out of [Northhaven](../places/cities/northhaven.md).
+Kur Merkys is an [Astornox magicborn hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) based out of [Northhaven](../places/settlements/cities/northhaven.md).
 
 ## Characteristics
 

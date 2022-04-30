@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | [Levelle Tristwix](levelle-tristwix.md) (old squad-mate, friend)<br>[Redwyn Humpledopper](redwyn-humpledopper.md) (student) |
 | **From** | |
-| **Places** | [Dunmore](../places/cities/dunmore.md) |
+| **Places** | [Dunmore](../places/settlements/cities/dunmore.md) |
 
 ## Summary
 

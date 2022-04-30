@@ -20,7 +20,7 @@
 
 ## Summary
 
-Leofrick de Bolbec is the innkeeper of [the Terrific Toad](../places/buildings/inns-taverns/the-terrific-toad.md) in [Murkwallow](../places/cities/murkwallow.md).
+Leofrick de Bolbec is the innkeeper of [the Terrific Toad](../places/buildings/inns-taverns/the-terrific-toad.md) in [Murkwallow](../places/settlements/cities/murkwallow.md).
 
 ## Characteristics
 

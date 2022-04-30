@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Capital City** | [Starnov](../../../places/cities/starnov.md) | civilisation.2
+| **Capital City** | [Starnov](../../../places/settlements/cities/starnov.md) | civilisation.2
 | **Official Languages** | |
 | **Ethnic Groups** | |
 | **Religion** | |
@@ -22,18 +22,18 @@
 
 ## Summary
 
-One of the two founding states of the [Nil'Savnic Alliance](../nilsavnic-alliance.md), the entire state runs between the [Nilus Peaks](../../../places/mountains/nilus-peaks.md) to its north and the [Gulf of Tanelle](../../../places/seas-oceans/gulf-of-tanelle.md) to its south. Easy access to the seas provides prosperity through seafaring trade, though at the cost of being the first land targeted by [Kavallos Fleet](../../kavallos-fleet/kavallos-fleet.md) raids.
+One of the two founding states of the [Nil'Savnic Alliance](../nilsavnic-alliance.md), the entire state runs between the [Nilus Peaks](../../../places/topography/mountains/nilus-peaks.md) to its north and the [Gulf of Tanelle](../../../places/topography/seas-oceans/gulf-of-tanelle.md) to its south. Easy access to the seas provides prosperity through seafaring trade, though at the cost of being the first land targeted by [Kavallos Fleet](../../kavallos-fleet/kavallos-fleet.md) raids.
 
 ## Places
 
 | Type | Nilus Coast |
 | --- | --- |
-| City | [Starnov](../../../places/cities/starnov.md) (capital)<br>Bavorov |
-| Town | Losina<br>Temelin<br>[Trest](../../../places/towns/trest.md) |
-| Village | Bavnin<br>Sviny<br>[Trubska](../../../places/villages/trubska.md) |
+| City | [Starnov](../../../places/settlements/cities/starnov.md) (capital)<br>Bavorov |
+| Town | Losina<br>Temelin<br>[Trest](../../../places/settlements/towns/trest.md) |
+| Village | Bavnin<br>Sviny<br>[Trubska](../../../places/settlements/villages/trubska.md) |
 | Fort | |
 | Road | [The Western Way](../../../places/roads/the-western-way.md) |
 | Forest | |
 | Rivers & Lakes | River Bav |
-| Mountains | [Nilus Peaks](../../../places/mountains/nilus-peaks.md) |
-| Seas & Oceans | [Gulf of Tanelle](../../../places/seas-oceans/gulf-of-tanelle.md)<br>[The Twilight Expanse](../../../places/seas-oceans/the-twilight-expanse.md) |
+| Mountains | [Nilus Peaks](../../../places/topography/mountains/nilus-peaks.md) |
+| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-oceans/gulf-of-tanelle.md)<br>[The Twilight Expanse](../../../places/topography/seas-oceans/the-twilight-expanse.md) |

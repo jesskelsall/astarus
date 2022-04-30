@@ -11,12 +11,12 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md) |
+| **Places** | [Ulburn Astorrel House](../places/buildings/government/ulburn-astorrel-house.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) |
-| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) |
+| **Role** | Urban Expansion / [Ulburn](../places/settlements/villages/ulburn.md) |
 | **Commanding Officer** | [Linton Harkness](linton-harkness.md) |
 | **Subordinates** | [Louise Perkins](louise-perkins.md) |
 |||

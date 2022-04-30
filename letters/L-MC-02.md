@@ -32,4 +32,4 @@
 > You know where to find me!
 >
 > [Oronar Redtooth](../characters/oronar-redtooth.md)  
-> [Trubska](../places/villages/trubska.md) [Coastguard](../organisations/guards/coastguard.md)
+> [Trubska](../places/settlements/villages/trubska.md) [Coastguard](../organisations/guards/coastguard.md)

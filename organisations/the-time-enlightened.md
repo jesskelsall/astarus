@@ -8,7 +8,7 @@
 | **Civilisation** | [The Dragonbrand](../civilisations/nilsavnic-alliance/states/the-dragonbrand.md) |
 | **Leader** | |
 | **Patron(s)** | [Valnos](../gods/deities/valnos.md) |
-| **Location(s)** | [Lelxuuth](../places/cities/lelxuuth.md) (home city)<br>Atrium to [Oonar](../celestial-objects/oonar.md) (headquarters) |
+| **Location(s)** | [Lelxuuth](../places/settlements/cities/lelxuuth.md) (home city)<br>Atrium to [Oonar](../celestial-objects/oonar.md) (headquarters) |
 |||
 | **Image ID** | `ed384a67c8230d67` |
 

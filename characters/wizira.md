@@ -12,7 +12,7 @@
 | **Background** | Outlander |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Wizira's Father](wiziras-father.md) (father)<br>(mother, dead) |
-| **Places** | [Hawkswood](../places/forests/hawkswood.md) (birthplace)<br>[Wizira's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/wiziras-house.md) |
+| **Places** | [Hawkswood](../places/topography/forests/hawkswood.md) (birthplace)<br>[Wizira's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/wiziras-house.md) |
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -66,11 +66,11 @@ Wizira was a player character in the [Purple Rain](../campaigns/C1-purple-rain.m
 
 ## History
 
-[Wizira's Father](wiziras-father.md) and mother raised their young daughter amongst their native [Hawkswood](../places/forests/hawkswood.md) firbolg clan.
+[Wizira's Father](wiziras-father.md) and mother raised their young daughter amongst their native [Hawkswood](../places/topography/forests/hawkswood.md) firbolg clan.
 
 At the age of 10, Wizira's mother was killed in unknown circumstances. The clan blamed her father for her murder, exiling him from the clan and their lands before he had a chance to explain what happened, forcing the pair to leave suddenly and without their belongings. In the following years her father would insist that he had nothing to do with her murder, but he was unwilling to explain further. The circumstances of her death remain shrouded in mystery.
 
-The pair migrated south, setting up a new homestead, still within the [Hawkswood](../places/forests/hawkswood.md). After 3 years of struggling to survive they had a comfortable life with a cabin for them both to live in. [Wizira's Father](wiziras-father.md) started teaching her how to fend for herself in the wild, placing an emphasis on resorting to violence only when no other option was available.
+The pair migrated south, setting up a new homestead, still within the [Hawkswood](../places/topography/forests/hawkswood.md). After 3 years of struggling to survive they had a comfortable life with a cabin for them both to live in. [Wizira's Father](wiziras-father.md) started teaching her how to fend for herself in the wild, placing an emphasis on resorting to violence only when no other option was available.
 
 By the age of 17, [Wizira's Father](wiziras-father.md)'s mental health had deteriorated to the point where Wizira was providing for the pair. His grief over the loss of his wife and their exile had weighed heavy on him despite their new life. Wizira was forced to mature early, causing her deep seated distrust of others and a feeling of imminent danger by default.
 

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Landing Date** | 311-4-12 | meteor.1
 | **Landing Location** | Humar Estuary |
-| **Closest Settlement** | [Fort Eldrick](../../../places/forts/fort-eldrick.md) |
+| **Closest Settlement** | [Fort Eldrick](../../../places/settlements/forts/fort-eldrick.md) |
 | **Produced** | *Unknown.* |
 | **[Meteoridis](../../../mechanics/roleplay/meteoridis.md)** | *Unknown.* |
 | **Found By** | *Unknown.* |
@@ -16,7 +16,7 @@ The Humar Meteorite is the first known [meteorite](../meteorite.md) to land on [
 
 ## History
 
-While out on an unrelated [Astorrel](../../../organisations/government/astorrel/astorrel.md) mission on Humar Estuary, [Astral squad](../../../organisations/government/astorrel/squads/astral-squad.md) came across a large crater in the marshes with water pooled at the bottom. On investigation they found shards of the [meteorite](../meteorite.md). Not knowing what the grey brittle substance was they returned to [Northhaven](../../../places/cities/northhaven.md) to conduct private research into what they had found.
+While out on an unrelated [Astorrel](../../../organisations/government/astorrel/astorrel.md) mission on Humar Estuary, [Astral squad](../../../organisations/government/astorrel/squads/astral-squad.md) came across a large crater in the marshes with water pooled at the bottom. On investigation they found shards of the [meteorite](../meteorite.md). Not knowing what the grey brittle substance was they returned to [Northhaven](../../../places/settlements/cities/northhaven.md) to conduct private research into what they had found.
 
 ## [Timeline](../../../history/timeline.md)
 

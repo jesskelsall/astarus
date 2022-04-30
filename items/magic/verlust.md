@@ -31,4 +31,4 @@ Verlust is a [Dragonsbreath Weapon](enchantments/dragonsbreath-weapon.md) owned 
 
 [Scratch on Stone](../../characters/scratch-on-stone.md) inherited Verlust before joining the [Astorrel](../../organisations/government/astorrel/astorrel.md).
 
-When he lost his left arm, eye, and ear in [Upper Tresenda](../../places/plains-valleys/upper-tresenda.md) to the [Meteoric Mind](../../creatures/meteoric-mind.md), Verlust was left behind.
+When he lost his left arm, eye, and ear in [Upper Tresenda](../../places/topography/valleys/upper-tresenda.md) to the [Meteoric Mind](../../creatures/meteoric-mind.md), Verlust was left behind.

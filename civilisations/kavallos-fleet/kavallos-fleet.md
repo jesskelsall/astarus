@@ -20,7 +20,7 @@
 
 ## Summary
 
-The Kavallos Fleet is a island nation of seafaring peoples located on the Kavallos Islands off the coast of southwestern [Kardan](../../places/continents/kardan.md). They are largely militaristic, believing in [Kaldoon](../../gods/deities/kaldoon.md)'s principles of survival of the fittest.
+The Kavallos Fleet is a island nation of seafaring peoples located on the Kavallos Islands off the coast of southwestern [Kardan](../../places/topography/continents-islands/kardan.md). They are largely militaristic, believing in [Kaldoon](../../gods/deities/kaldoon.md)'s principles of survival of the fittest.
 
 ## Imagery
 

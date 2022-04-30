@@ -4,21 +4,21 @@
 | --- | --- |
 | **Name** | Raid of Côtedouce | event.2
 | **Date** | 3254-7-08 [DS](../calendars/naissance-calendar.md) |
-| **Location** | [Côtedouce](../../places/towns/cotedouce.md) |
+| **Location** | [Côtedouce](../../places/settlements/towns/cotedouce.md) |
 
 ## Summary
 
-Following a [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) raid on the town's coastal defences the night before, [Côtedouce](../../places/towns/cotedouce.md)'s remaining defences were overwhelmed the following day by warships, culminating in the town being raided and its loss to [Reimatelau](../../civilisations/nilsavnic-alliance/states/reimatelau.md).
+Following a [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) raid on the town's coastal defences the night before, [Côtedouce](../../places/settlements/towns/cotedouce.md)'s remaining defences were overwhelmed the following day by warships, culminating in the town being raided and its loss to [Reimatelau](../../civilisations/nilsavnic-alliance/states/reimatelau.md).
 
 ## History
 
 ### The Week Before
 
-On the Kavallos Sea [the Mistral](../../places/ships/the-mistral.md) was intercepted by a [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) warship and boarded by Vorkazal the Razor and his most loyal soldiers. They took control of the ship, tying up [Captain Gill](../../characters/clef-gill.md) and his crew before making their way to [Côtedouce](../../places/towns/cotedouce.md) as the supply ship had planned.
+On the Kavallos Sea [the Mistral](../../places/ships/the-mistral.md) was intercepted by a [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) warship and boarded by Vorkazal the Razor and his most loyal soldiers. They took control of the ship, tying up [Captain Gill](../../characters/clef-gill.md) and his crew before making their way to [Côtedouce](../../places/settlements/towns/cotedouce.md) as the supply ship had planned.
 
 ### The Day Before
 
-[The Mistral](../../places/ships/the-mistral.md) arrives in port at [Côtedouce](../../places/towns/cotedouce.md). On its arrival [Captain Gill](../../characters/clef-gill.md) is coerced into calling for quarantine conditions for the ship, citing a virulent disease that was spreading amongst the crew. [Oriel Elsandoral](../../characters/oriel-elsandoral.md) approves the quarantine measures, preventing any people or cargo from entering or exiting the ship for the time being. Extra [Unicorn Cavalry](../../organisations/guards/unicorn-cavalry.md) guards are deployed to the dock to enforce the quarantine.
+[The Mistral](../../places/ships/the-mistral.md) arrives in port at [Côtedouce](../../places/settlements/towns/cotedouce.md). On its arrival [Captain Gill](../../characters/clef-gill.md) is coerced into calling for quarantine conditions for the ship, citing a virulent disease that was spreading amongst the crew. [Oriel Elsandoral](../../characters/oriel-elsandoral.md) approves the quarantine measures, preventing any people or cargo from entering or exiting the ship for the time being. Extra [Unicorn Cavalry](../../organisations/guards/unicorn-cavalry.md) guards are deployed to the dock to enforce the quarantine.
 
 Under these measures the lack of crew visible on the top deck does not arouse suspicion. [Captain Gill](../../characters/clef-gill.md) is taken back below deck and is tied up again.
 
@@ -37,7 +37,7 @@ Here they are met with little resistance, most of the guards running to the dock
 
 As the infiltrator and Vorkazal the Razor himself arrive, many of the soldiers have already been dispatched, but they have managed to destroy two of the structure's four cannons. The infiltrator dies trying to destroy the other two while Vorkazal dies an honourable death in battle, surrounded by his enemies.
 
-[Oriel Elsandoral](../../characters/oriel-elsandoral.md) watches the events unfold from the [Tour de la Côte](../../places/buildings/government/tour-de-la-cote.md), assisting as much as she can with her spells from extreme range. When the party returns to her she realises the goals of the attacks - to destroy the cannons. During their conversation she expends more magic to punish [Valan Shadowgaze](../../characters/valan-shadowgaze.md) and to teleport the party to [Trest](../../places/towns/trest.md) following their new agreement.
+[Oriel Elsandoral](../../characters/oriel-elsandoral.md) watches the events unfold from the [Tour de la Côte](../../places/buildings/government/tour-de-la-cote.md), assisting as much as she can with her spells from extreme range. When the party returns to her she realises the goals of the attacks - to destroy the cannons. During their conversation she expends more magic to punish [Valan Shadowgaze](../../characters/valan-shadowgaze.md) and to teleport the party to [Trest](../../places/settlements/towns/trest.md) following their new agreement.
 
 ### The Morning Of
 
@@ -49,4 +49,4 @@ As the fleet comes ashore on rowing boats, they outclass the combined [Unicorn C
 
 [Oriel Elsandoral](../../characters/oriel-elsandoral.md) helps to coordinate evacuation efforts but is cut off by [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) soldiers. She holds them off while a group of civilians flees before having to retreat herself, heading east into the Kas'ran Desert. Her fate is unknown to the town's guards who live to tell the tale.
 
-The [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) raid the town, killing anyone who remains, and looting any food and valuables they find. They raise their banner on the [Tour de la Côte](../../places/buildings/government/tour-de-la-cote.md), a symbol of their strength. The town remains occupied by the fleet, a precious foothold on [Kardan](../../places/continents/kardan.md) from which they can strike other targets along the coast.
+The [Kavallos Fleet](../../civilisations/kavallos-fleet/kavallos-fleet.md) raid the town, killing anyone who remains, and looting any food and valuables they find. They raise their banner on the [Tour de la Côte](../../places/buildings/government/tour-de-la-cote.md), a symbol of their strength. The town remains occupied by the fleet, a precious foothold on [Kardan](../../places/topography/continents-islands/kardan.md) from which they can strike other targets along the coast.

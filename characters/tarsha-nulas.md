@@ -17,7 +17,7 @@
 
 ## Summary
 
-Tarsha Nulas is the owner of [Adventures for Adventurers](../places/buildings/shops/adventures-for-adventurers.md), a bookshop on [Crafters Course](../places/streets/crafters-course.md).
+Tarsha Nulas is the owner of [Adventures for Adventurers](../places/buildings/shops/adventures-for-adventurers.md), a bookshop on [Crafters Course](../places/settlements/streets/crafters-course.md).
 
 ## Characteristics
 

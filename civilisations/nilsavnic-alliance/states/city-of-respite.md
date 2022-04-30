@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Capital City** | [Respite](../../../places/cities/respite.md) | civilisation.2
+| **Capital City** | [Respite](../../../places/settlements/cities/respite.md) | civilisation.2
 | **Official Languages** | |
 | **Ethnic Groups** | Tiefling |
 | **Religion** | None |
@@ -22,18 +22,18 @@
 
 ## Summary
 
-The City of Respite is a small city state in the [Nil'Savnic Alliance](../nilsavnic-alliance.md). It occupies the Sibling Peninsula, which aside from [Respite](../../../places/cities/respite.md) (city) is used entirely for agriculture.
+The City of Respite is a small city state in the [Nil'Savnic Alliance](../nilsavnic-alliance.md). It occupies the Sibling Peninsula, which aside from [Respite](../../../places/settlements/cities/respite.md) (city) is used entirely for agriculture.
 
 ## Places
 
 | Type | City of Respite |
 | --- | --- |
-| City | [Respite](../../../places/cities/respite.md) |
+| City | [Respite](../../../places/settlements/cities/respite.md) |
 | Town | |
 | Village | |
 | Fort | |
 | Road | |
 | Forest | |
-| Rivers & Lakes | [Lake Alassau](../../../places/rivers-lakes/lake-alassau.md)<br>[River Alassau](../../../places/rivers-lakes/river-alassau.md) |
+| Rivers & Lakes | [Lake Alassau](../../../places/topography/rivers-lakes/lake-alassau.md)<br>[River Alassau](../../../places/topography/rivers-lakes/river-alassau.md) |
 | Mountains | |
-| Seas & Oceans | [Bay of Knives](../../../places/seas-oceans/bay-of-knives.md) |
+| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-oceans/bay-of-knives.md) |

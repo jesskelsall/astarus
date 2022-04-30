@@ -20,7 +20,7 @@
 
 ## Summary
 
-Lionhunter is the innkeeper of [the Three Goats](../places/buildings/inns-taverns/the-three-goats.md) inn in [Trubska](../places/villages/trubska.md).
+Lionhunter is the innkeeper of [the Three Goats](../places/buildings/inns-taverns/the-three-goats.md) inn in [Trubska](../places/settlements/villages/trubska.md).
 
 ## Characteristics
 

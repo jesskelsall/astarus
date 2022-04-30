@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | |
-| **Places** | [Golfmaul](../places/towns/golfmaul.md)<br>[Sonnigeweide](../places/villages/sonnigeweide.md) |
+| **Places** | [Golfmaul](../places/settlements/towns/golfmaul.md)<br>[Sonnigeweide](../places/settlements/villages/sonnigeweide.md) |
 | **Citizenship** | [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Organisation(s)** | [Waldwächter](../organisations/guards/waldwachter.md) |
 |||
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Lorena Bynelor is the Knight of [Golfmaul](../places/towns/golfmaul.md). She is self centred and dreams of elevating her rank.
+Lorena Bynelor is the Knight of [Golfmaul](../places/settlements/towns/golfmaul.md). She is self centred and dreams of elevating her rank.
 
 ## Characteristics
 

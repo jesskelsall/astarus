@@ -51,7 +51,7 @@ He is willing to risk life and limb to help others, trusting in his divine power
 | **Mannerisms** | Touchy-feely, no concept of personal space. |
 | | |
 | **Quirks** | Very direct, speaks his mind. |
-| **Knowledge** | [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md), [Dünnesland](../places/towns/dunnesland.md), beer. |
+| **Knowledge** | [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md), [Dünnesland](../places/settlements/towns/dunnesland.md), beer. |
 | **Values** | Likes a good laugh and good stories.<br>Loyalty and diligence. |
 | **Ambitions** | Pay off his family's debt through money earned from adventuring. |
 | **Dislikes** | Dishonesty. |

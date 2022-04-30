@@ -26,7 +26,7 @@
 
 ### [Purple Rain](../../campaigns/C1-purple-rain.md)
 
-[Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) will find a clearing in the [Great Sile Woods](../../places/forests/great-sile-woods.md) that was home to a group of [Meteoric Watchers](../../creatures/meteoric-watcher.md). They either cleared the trees or it was logged beforehand and they adopted the space.
+[Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) will find a clearing in the [Great Sile Woods](../../places/topography/forests/great-sile-woods.md) that was home to a group of [Meteoric Watchers](../../creatures/meteoric-watcher.md). They either cleared the trees or it was logged beforehand and they adopted the space.
 
 Deeper into the forest is the Great Sile firbolgs, who have been fighting off the watchers for some time, though they have not told the [Astorrel](../../organisations/government/astorrel/astorrel.md) about this to date. The watchers' numbers have steadily been growing. 
 

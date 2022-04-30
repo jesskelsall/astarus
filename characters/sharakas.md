@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | |
-| **Places** | [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md)<br>[Arnaside](../places/villages/arnaside.md) |
+| **Places** | [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md)<br>[Arnaside](../places/settlements/villages/arnaside.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Sharakas is the innkeeper of the [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md) in [Arnaside](../places/villages/arnaside.md). He is a *Malneshi*.
+Sharakas is the innkeeper of the [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md) in [Arnaside](../places/settlements/villages/arnaside.md). He is a *Malneshi*.
 
 He is a bit of a coward, having previously chosen to run from his problems, renouncing his clan in the process of doing so. As a result he is conflicted about his choices, but hopes he can do [Malnesh](../gods/deities/malnesh.md) proud.
 
@@ -45,11 +45,11 @@ He is a bit of a coward, having previously chosen to run from his problems, reno
 
 ## History
 
-Sharakas used to live in [Eskrigg](../places/cities/eskrigg.md) with other members of the Vilranthiath (vil-ranth-iath) clan. Many of them shared a claustrophobic house on the 3rd floor of a poor part of the city.
+Sharakas used to live in [Eskrigg](../places/settlements/cities/eskrigg.md) with other members of the Vilranthiath (vil-ranth-iath) clan. Many of them shared a claustrophobic house on the 3rd floor of a poor part of the city.
 
 He got disillusioned with all of the needless death from poverty around him, and couldn't understand why nobody cared. Eventually he came across someone preaching in the street about [Malnesh](../gods/deities/malnesh.md), and joined the faith.
 
-Eventually he came to believe he had no opportunities in [Eskrigg](../places/cities/eskrigg.md) and his clan had accepted their lot in life. He decided to move to [Arnaside](../places/villages/arnaside.md) when word of the village reached the local Malneshi.
+Eventually he came to believe he had no opportunities in [Eskrigg](../places/settlements/cities/eskrigg.md) and his clan had accepted their lot in life. He decided to move to [Arnaside](../places/settlements/villages/arnaside.md) when word of the village reached the local Malneshi.
 
 ## Planning
 

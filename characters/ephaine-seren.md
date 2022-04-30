@@ -12,7 +12,7 @@
 | **Background** | Acolyte |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Schaef Seren](schaef-seren.md) (father)<br>[Adalie Seren](adalie-seren.md) (mother)<br>[Tamman Seren](tamman-seren.md) (older brother)<br>[Besar Seren](besar-seren.md) (younger brother)<br>[Irla Seren](irla-seren.md) (younger sister)<br>[Ludolf Hornwallis](ludolf-hornwallis.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) mentor) |
-| **Places** | [Filisur](../places/villages/filisur.md) (birthplace) |
+| **Places** | [Filisur](../places/settlements/villages/filisur.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -26,7 +26,7 @@ Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -49,9 +49,9 @@ Ephaine Seren is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 ## History
 
-Ephaine Seren was born in the village of [Filisur](../places/villages/filisur.md) to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../lineages/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
+Ephaine Seren was born in the village of [Filisur](../places/settlements/villages/filisur.md) to Father Seren (human father) and Mother Seren (human mother), who are part of the [Cepine](../lineages/cepine.md) mountain people. She was born on a cold winter's evening when the stars shine brightest, and so they whispered of her birth.
 
-She grew up in the cycle of [Filisur](../places/villages/filisur.md), set in the [Albulain Valley](../places/plains-valleys/albulain-valley.md): during the spring the families here raised sheep while an [Astornox](../organisations/government/astornox/astornox.md) garrison watched the border region. By autumn the sheep were sheared, the grasses cut & baled, and the [Astornox](../organisations/government/astornox/astornox.md) garrison moved back into the kingdom's interior to avoid the winter snows.
+She grew up in the cycle of [Filisur](../places/settlements/villages/filisur.md), set in the [Albulain Valley](../places/topography/valleys/albulain-valley.md): during the spring the families here raised sheep while an [Astornox](../organisations/government/astornox/astornox.md) garrison watched the border region. By autumn the sheep were sheared, the grasses cut & baled, and the [Astornox](../organisations/government/astornox/astornox.md) garrison moved back into the kingdom's interior to avoid the winter snows.
 
 At an early age, through the old [Cepine](../lineages/cepine.md) customs, Seren was brought to the shepherd's mountain shrine where the stars are worshipped. Here she heard her first whispers from the heavens who had favoured her. She would be a blessing to her little valley, if she could stay hidden.
 
@@ -67,9 +67,9 @@ The [Astornox](../organisations/government/astornox/astornox.md) present saw thi
 
 [Adalie Seren](adalie-seren.md) rushed to her children, helping to get Tamman inside the house. The torches showing the flock of sheep being lead away had stopped and turned about, returning to their home. It was only a matter of time until the [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) arrived and discovered what had happened. Ephaine had to leave, but there was little time to prepare. Her mother hastily prepared her with meagre provisions before she set off.
 
-Ephaine sought the [Astorrel](../organisations/government/astorrel/astorrel.md), knowing that they would be able to offer her [sanctuary](../organisations/government/astorrel/sanctuary.md) from the wrath of the [Astornox](../organisations/government/astornox/astornox.md). If anyone knew she was [magicborn](../civilisations/kingdom-of-astor/magicborn.md), she would be hunted relentlessly and conscripted. Only the [Astorrel](../organisations/government/astorrel/astorrel.md) could save her now. Due to the harsh winter conditions the journey to the nearest [Astorrel](../organisations/government/astorrel/astorrel.md) stronghold in [Northhaven](../places/cities/northhaven.md) took the best part of two weeks. While travelling the treacherous [Tresenda Pass](../places/roads/tresenda-pass.md), she discovered more of her magical ability, drawing upon it to keep her alive.
+Ephaine sought the [Astorrel](../organisations/government/astorrel/astorrel.md), knowing that they would be able to offer her [sanctuary](../organisations/government/astorrel/sanctuary.md) from the wrath of the [Astornox](../organisations/government/astornox/astornox.md). If anyone knew she was [magicborn](../civilisations/kingdom-of-astor/magicborn.md), she would be hunted relentlessly and conscripted. Only the [Astorrel](../organisations/government/astorrel/astorrel.md) could save her now. Due to the harsh winter conditions the journey to the nearest [Astorrel](../organisations/government/astorrel/astorrel.md) stronghold in [Northhaven](../places/settlements/cities/northhaven.md) took the best part of two weeks. While travelling the treacherous [Tresenda Pass](../places/roads/tresenda-pass.md), she discovered more of her magical ability, drawing upon it to keep her alive.
 
-Reaching [Northhaven](../places/cities/northhaven.md), she sought [sanctuary](../organisations/government/astorrel/sanctuary.md) and was subsequently accepted to the [Astorrel](../organisations/government/astorrel/astorrel.md) training programme, placing her outside of the jurisdiction of the [Astornox](../organisations/government/astornox/astornox.md).
+Reaching [Northhaven](../places/settlements/cities/northhaven.md), she sought [sanctuary](../organisations/government/astorrel/sanctuary.md) and was subsequently accepted to the [Astorrel](../organisations/government/astorrel/astorrel.md) training programme, placing her outside of the jurisdiction of the [Astornox](../organisations/government/astornox/astornox.md).
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 

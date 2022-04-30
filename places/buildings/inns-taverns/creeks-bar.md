@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Creek's Bar | place.4
 | **Type** | Tavern |
-| **Location** | [Tabaxi's Folly](../tabaxis-folly.md)<br>[Murkwallow](../../cities/murkwallow.md)<br>[Scintil Delta](../../rivers-lakes/scintil-delta.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Location** | [Tabaxi's Folly](../tabaxis-folly.md)<br>[Murkwallow](../../settlements/cities/murkwallow.md)<br>[Scintil Delta](../../topography/rivers-lakes/scintil-delta.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Nearby Places** | |
 | **People** | [Creek](../../../characters/creek.md) (owner)<br>[Wedge](../../../characters/wedge.md) (barkeep) |
 

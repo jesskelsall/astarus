@@ -18,7 +18,7 @@
 
 ## Summary
 
-Ethel is another patron of [Effie Silttooth](effie-silttooth.md) who runs a store in the [Sunrise District](../places/districts/sunrise-district.md) of [Northhaven](../places/cities/northhaven.md). From here she supports Effie's followers. She is also secretly a member of [Vetiti Scientiam](../organisations/vetiti-scientiam.md).
+Ethel is another patron of [Effie Silttooth](effie-silttooth.md) who runs a store in the [Sunrise District](../places/settlements/districts/sunrise-district.md) of [Northhaven](../places/settlements/cities/northhaven.md). From here she supports Effie's followers. She is also secretly a member of [Vetiti Scientiam](../organisations/vetiti-scientiam.md).
 
 ## Characteristics
 

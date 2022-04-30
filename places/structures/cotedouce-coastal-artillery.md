@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Côtedouce Coastal Artillery | place.4
 | **Type** | Structure |
-| **Location** | [Côtedouce](../towns/cotedouce.md) |
+| **Location** | [Côtedouce](../settlements/towns/cotedouce.md) |
 | **Nearby Places** | |
 | **People** | |
 ||

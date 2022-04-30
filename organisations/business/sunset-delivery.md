@@ -6,13 +6,13 @@
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | |
 | **Patron(s)** | |
-| **Location(s)** | [Northhaven](../../places/cities/northhaven.md) (home city) |
+| **Location(s)** | [Northhaven](../../places/settlements/cities/northhaven.md) (home city) |
 |||
 | **Image ID** | |
 
 ## Summary
 
-Sunset Delivery is a private delivery company that exists within the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It provides postal services for those who can afford it, sending letters and packages to individuals across [South East Kardan](../../places/regions/south-east-kardan.md).
+Sunset Delivery is a private delivery company that exists within the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It provides postal services for those who can afford it, sending letters and packages to individuals across [Southeastern Kardan](../../places/regions/southeastern-kardan.md).
 
 Given someone's name and settlement, they are able to deliver to almost anywhere within the kingdom. As this is done by private couriers, sometimes travelling with only your delivery, prices are higher than [Astpost](../government/astpost.md), and considerably so when delivering off the beaten track.
 
@@ -38,7 +38,7 @@ Sometimes couriers aren't able to deliver. They can be killed on the journey, go
 
 As a benchmark, sending a letter directly from one city to the next costs 5 sp. The less travelled the route, the more it will cost.
 
-As an example, getting a letter from [Northhaven](../../places/cities/northhaven.md) to [Filisur](../../places/villages/filisur.md) costs 6 gp.
+As an example, getting a letter from [Northhaven](../../places/settlements/cities/northhaven.md) to [Filisur](../../places/settlements/villages/filisur.md) costs 6 gp.
 
 ## Branches
 

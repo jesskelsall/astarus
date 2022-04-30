@@ -27,7 +27,7 @@ Measuring distance is made easier by referring to a map at a defined scale with 
 | Scale | Miles per Hex | Maps |
 | --- | ---: | --- |
 | Province scale | 1 mi | |
-| Kingdom scale | 6 mi | [Astorrel Map of South East Kardan](../maps/astorrel-map-of-south-east-kardan.md) |
+| Kingdom scale | 6 mi | [Astorrel Map of Southeastern Kardan](../maps/astorrel-map-of-southeastern-kardan.md) |
 | Continent scale | 60 mi | |
 
 ## Cost
@@ -50,23 +50,23 @@ Price depends on method of travel and the route taken.
 
 Journey value can be thought of as the base cost of the distance and route type. It can be easily multiplied by the method cost to produce the final cost.
 
-### From [Northhaven](../places/cities/northhaven.md)
+### From [Northhaven](../places/settlements/cities/northhaven.md)
 
 | Destination | Miles | Journey Value |
 | --- | ---:| ---:|
 | ***West***
-| [Blittergate](../places/towns/blittergate.md) | 114 mi | 129 |
+| [Blittergate](../places/settlements/towns/blittergate.md) | 114 mi | 129 |
 | Carnmere | 84 mi | 105 |
-| [Fort Eldrick](../places/forts/fort-eldrick.md) | 30 mi | 45 |
+| [Fort Eldrick](../places/settlements/forts/fort-eldrick.md) | 30 mi | 45 |
 | Hartsgarth | 66 mi | 78 |
-| [Hyceodd](../places/towns/hyceodd.md) | 72 mi | 75 |
+| [Hyceodd](../places/settlements/towns/hyceodd.md) | 72 mi | 75 |
 | Silethwaite | 162 mi | 177 |
-| [Ulburn](../places/villages/ulburn.md) | 18 mi | 36 |
-| [Yeatscale](../places/cities/yeatscale.md) | 186 mi | 189 |
+| [Ulburn](../places/settlements/villages/ulburn.md) | 18 mi | 36 |
+| [Yeatscale](../places/settlements/cities/yeatscale.md) | 186 mi | 189 |
 | ***South***
-| [Allonby](../places/villages/allonby.md) | 72 mi | 144 |
-| [Arnaside](../places/villages/arnaside.md) | 102 mi | 204 |
-| [Humouth](../places/villages/humouth.md) | 54 mi | 108 |
+| [Allonby](../places/settlements/villages/allonby.md) | 72 mi | 144 |
+| [Arnaside](../places/settlements/villages/arnaside.md) | 102 mi | 204 |
+| [Humouth](../places/settlements/villages/humouth.md) | 54 mi | 108 |
 
 ### Journey Value Calculation
 

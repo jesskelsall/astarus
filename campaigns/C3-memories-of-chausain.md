@@ -39,7 +39,7 @@
 | [MC01M](../sessions/MC01M.md) | 2021-09-05 | *Introducing the [Marsh Skimmers](../organisations/criminals/marsh-skimmers.md)* |
 | [MC02](../sessions/MC02.md) | 2021-09-19 | *From Wall to Desert* |
 | [MC03](../sessions/MC03.md) | 2021-10-10 | *A Metal Orb* |
-| [MC04](../sessions/MC04.md) | 2021-10-24 | *[Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) in [Côtedouce](../places/towns/cotedouce.md)* |
+| [MC04](../sessions/MC04.md) | 2021-10-24 | *[Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) in [Côtedouce](../places/settlements/towns/cotedouce.md)* |
 | [MC05](../sessions/MC05.md) | 2021-11-21 | *Two Sides of the Coin* |
 | [MC06](../sessions/MC06.md) | 2021-12-12 | *[Crucible](../characters/crucible.md)'s Ultimatum* |
 | [MC07](../sessions/MC07.md) | 2022-01-16 | *Wolves of the Schulterwood* |

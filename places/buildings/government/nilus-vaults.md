@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Nilus Vaults | place.4
 | **Type** | Building |
-| **Location** | [Starnov](../../cities/starnov.md)<br>[Nilus Coast](../../../civilisations/nilsavnic-alliance/states/nilus-coast.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Location** | [Starnov](../../settlements/cities/starnov.md)<br>[Nilus Coast](../../../civilisations/nilsavnic-alliance/states/nilus-coast.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Nearby Places** | [The Round Goose](../inns-taverns/the-round-goose.md) |
 | **People** | |
 

@@ -13,15 +13,15 @@ After seeing [Thanea Morlay](../characters/thanea-morlay.md) compete in [Nature'
 
 ### [PR36](../sessions/PR36.md)
 
-On return to [Northhaven](../places/cities/northhaven.md), [Elysia Vanderboss](../characters/elysia-vanderboss.md) informs [Thanea Morlay](../characters/thanea-morlay.md) that she has received a letter ([L-PR-06](../letters/L-PR-06.md)). She waits to open it in private. After doing so and confused by the wording concerning her invite of an audience with General Supreme [Corville Thornox](../characters/corville-thornox.md), she accidentally accepts the invite, getting teleported to [Supreme Hall](../places/buildings/supreme-hall.md).
+On return to [Northhaven](../places/settlements/cities/northhaven.md), [Elysia Vanderboss](../characters/elysia-vanderboss.md) informs [Thanea Morlay](../characters/thanea-morlay.md) that she has received a letter ([L-PR-06](../letters/L-PR-06.md)). She waits to open it in private. After doing so and confused by the wording concerning her invite of an audience with General Supreme [Corville Thornox](../characters/corville-thornox.md), she accidentally accepts the invite, getting teleported to [Supreme Hall](../places/buildings/government/supreme-hall.md).
 
 ### [PR36T](../sessions/PR36T.md)
 
-Now in [Supreme Hall](../places/buildings/supreme-hall.md), [Thanea Morlay](../characters/thanea-morlay.md) meets [Corville Thornox](../characters/corville-thornox.md) and [Patricia Wilbenotel](../characters/patricia-wilbenotel.md), who were discussing her at the time of her appearance. Patricia leaves so that Corville can speak with Thanea privately.
+Now in [Supreme Hall](../places/buildings/government/supreme-hall.md), [Thanea Morlay](../characters/thanea-morlay.md) meets [Corville Thornox](../characters/corville-thornox.md) and [Patricia Wilbenotel](../characters/patricia-wilbenotel.md), who were discussing her at the time of her appearance. Patricia leaves so that Corville can speak with Thanea privately.
 
 Corville is interested in Thanea's unique abilities, getting her to demonstrate her Radiant Soul wings to him. He compares his Kalashtar powers to her own, noting that they are both able to exhibit magical effects despite being in the presence of an anti-magic field. He interrogates Thanea on her origin and background, ensuring she is not a [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) spy. He is content with her answers through which she conveys her orphan and forest upbringings.
 
-Before they part, Corville praises Thanea's abilities, noting that they will come useful. He wishes her well, advising she stays out of trouble while working on meteoric research for the [Astorrel](../organisations/government/astorrel/astorrel.md). Thanea is sent back to the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md)
+Before they part, Corville praises Thanea's abilities, noting that they will come useful. He wishes her well, advising she stays out of trouble while working on meteoric research for the [Astorrel](../organisations/government/astorrel/astorrel.md). Thanea is sent back to the [Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md)
 
 ### Between Sessions
 

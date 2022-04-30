@@ -14,12 +14,12 @@
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | |
-| **From** | [Northhaven](../places/cities/northhaven.md) |
+| **From** | [Northhaven](../places/settlements/cities/northhaven.md) |
 | **Places** | [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) |
 
 ## Summary
 
-Jaxon Ultari is an [Astornox Guard Sergeant](../organisations/government/astornox/ranks/astornox-guard-sergeant.md) based out of [Northhaven](../places/cities/northhaven.md).
+Jaxon Ultari is an [Astornox Guard Sergeant](../organisations/government/astornox/ranks/astornox-guard-sergeant.md) based out of [Northhaven](../places/settlements/cities/northhaven.md).
 
 He frequents [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) where he likes to gamble playing [Twenties](../mechanics/roleplay/games/twenties.md).
 

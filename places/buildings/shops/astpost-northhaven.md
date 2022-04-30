@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Astpost Northhaven |
 | **Type** | Shop |
-| **Location** | [Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Northhaven Astornox Stronghold](../../strongholds/northhaven-astornox-stronghold.md) |
+| **Location** | [Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
+| **Nearby Places** | [Northhaven Astornox Stronghold](../../settlements/strongholds/northhaven-astornox-stronghold.md) |
 | **People** | |
 
 ## Summary
 
-Astpost Northhaven is the [Northhaven](../../cities/northhaven.md) branch of [Astpost](../../../organisations/government/astpost.md).
+Astpost Northhaven is the [Northhaven](../../settlements/cities/northhaven.md) branch of [Astpost](../../../organisations/government/astpost.md).
 
 ### Exterior
 

@@ -18,7 +18,7 @@
 
 ## Summary
 
-Brenner Trint is a focused and no-nonsense shepherd, head of the Trint Family. He works with his wife to farm sheep wool for cloth production for [Filisur](../places/villages/filisur.md).
+Brenner Trint is a focused and no-nonsense shepherd, head of the Trint Family. He works with his wife to farm sheep wool for cloth production for [Filisur](../places/settlements/villages/filisur.md).
 
 ## Characteristics
 

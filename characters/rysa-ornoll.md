@@ -12,12 +12,12 @@
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Bill Sprig](bill-sprig.md) (employee, hostler) |
-| **From** | [Humouth](../places/villages/humouth.md) |
+| **From** | [Humouth](../places/settlements/villages/humouth.md) |
 | **Places** | [The Keeper's Reprise](../places/buildings/inns-taverns/the-keepers-reprise.md) (owner, innkeeper) |
 
 ## Summary
 
-Rysa Ornoll is the owner and innkeeper of [The Keeper's Reprise](../places/buildings/inns-taverns/the-keepers-reprise.md) in [Humouth](../places/villages/humouth.md). She works with [Bill Sprig](bill-sprig.md), the inn's hostler.
+Rysa Ornoll is the owner and innkeeper of [The Keeper's Reprise](../places/buildings/inns-taverns/the-keepers-reprise.md) in [Humouth](../places/settlements/villages/humouth.md). She works with [Bill Sprig](bill-sprig.md), the inn's hostler.
 
 ## Characteristics
 

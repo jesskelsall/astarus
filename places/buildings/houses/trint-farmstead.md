@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Trint Farmstead | place.4
 | **Type** | House |
-| **Location** | [Filisur](../../villages/filisur.md) |
+| **Location** | [Filisur](../../settlements/villages/filisur.md) |
 | **Nearby Places** | [Seren Farmstead](seren-farmstead.md) |
 | **People** | [Brenner Trint](../../../characters/brenner-trint.md)<br>[Ingram Trint](../../../characters/ingram-trint.md)<br>[Schatzi](../../../characters/schatzi.md) (sheepdog) |
 
 ## Summary
 
-The Trint Farmstead is home to the Trint family. It is a humble rural farmstead in the traditional [cepine](../../../lineages/cepine.md) style, allowing for their seasonal shepherding lifestyle. It can be found in the east of the [Albulain valley](../../plains-valleys/albulain-valley.md).
+The Trint Farmstead is home to the Trint family. It is a humble rural farmstead in the traditional [cepine](../../../lineages/cepine.md) style, allowing for their seasonal shepherding lifestyle. It can be found in the east of the [Albulain valley](../../topography/valleys/albulain-valley.md).
 
 ## Description
 

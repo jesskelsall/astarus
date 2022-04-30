@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | [Zolné Windclaw](zolne-windclaw.md) (friend) |
-| **Places** | [Dune's House](../places/buildings/houses/dunes-house.md)<br>[Kuv'narash](../places/villages/kuvnarash.md) |
+| **Places** | [Dune's House](../places/buildings/houses/dunes-house.md)<br>[Kuv'narash](../places/settlements/villages/kuvnarash.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Dune Under Sunset is the resident healer in [Kuv'narash](../places/villages/kuvnarash.md), providing aid to residents and travellers alike. They believe in helping everyone without judgement or compensation.
+Dune Under Sunset is the resident healer in [Kuv'narash](../places/settlements/villages/kuvnarash.md), providing aid to residents and travellers alike. They believe in helping everyone without judgement or compensation.
 
 ## Characteristics
 
@@ -37,4 +37,4 @@ Dune Under Sunset is the resident healer in [Kuv'narash](../places/villages/kuvn
 | **Knowledge** | Medicine. |
 | **Values** | Gives everyone the benefit of the doubt. Would rather act than talk or think. |
 | **Ambitions** | Wants good health for his fellow villagers. |
-| **Dislikes** | Posturing. Insulting tabaxi or [Kuv'narash](../places/villages/kuvnarash.md). |
+| **Dislikes** | Posturing. Insulting tabaxi or [Kuv'narash](../places/settlements/villages/kuvnarash.md). |

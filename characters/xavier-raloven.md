@@ -22,7 +22,7 @@
 
 Xavier Raloven was a loyal Veritacris, working to further the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md)'s information about the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
-He was executed [Gwenhwyfar Carew](gwenhwyfar-carew.md) after being captured by [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) in [Eskrigg](../places/cities/eskrigg.md).
+He was executed [Gwenhwyfar Carew](gwenhwyfar-carew.md) after being captured by [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) in [Eskrigg](../places/settlements/cities/eskrigg.md).
 
 ## Military Record
 

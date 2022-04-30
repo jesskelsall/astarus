@@ -26,7 +26,7 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/governme
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -64,7 +64,7 @@ Morgan Caithness is a new Squad Hand in the [Astorrel](../organisations/governme
 
 ## History
 
-Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/cities/eskrigg.md) she joined the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme on the promise of good pay for completing missions.
+Her family has lived for generations as loggers on the outskirts of [Hawkswood](../places/topography/forests/hawkswood.md) near Hawksglass. It is a squalid existence with no clear way that they could pull themselves out of poverty. Morgan left home to find paying opportunities so she could provide for her family. Upon arriving at [Eskrigg](../places/settlements/cities/eskrigg.md) she joined the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme on the promise of good pay for completing missions.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 

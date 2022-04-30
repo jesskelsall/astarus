@@ -12,7 +12,7 @@
 | **Background** | Urchin |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
-| **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md)<br>[Northhaven](../places/cities/northhaven.md) (birthplace) |
+| **Places** | [Tenterfell House](../places/buildings/government/tenterfell-house.md)<br>[Northhaven](../places/settlements/cities/northhaven.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -20,13 +20,13 @@
 
 ## Summary
 
-Sparrow on the Autumn Pine is a city-dwelling naturist with a penchant for wasps. He is very familiar with [Northhaven](../places/cities/northhaven.md) and sneaking around urban areas.
+Sparrow on the Autumn Pine is a city-dwelling naturist with a penchant for wasps. He is very familiar with [Northhaven](../places/settlements/cities/northhaven.md) and sneaking around urban areas.
 
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) | [Linton Harkness](linton-harkness.md) ||
+|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Urban Expansion / [Ulburn](../places/settlements/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) | [Linton Harkness](linton-harkness.md) ||
 | [PR27](../sessions/PR27.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls

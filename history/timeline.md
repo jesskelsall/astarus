@@ -16,7 +16,7 @@
 | -224 | | 88 [PA](calendars/astorian-calendar.md) | The [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) declares war on the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md); the [Astor-Syntenne War](events/astor-syntenne-war.md) begins. |
 | -69 | | 247 [PA](calendars/astorian-calendar.md) | Astor's General Supreme issues an order to all [Astornox](../organisations/government/astornox/astornox.md): conscript any and all [magicborn](../civilisations/kingdom-of-astor/magicborn.md). |
 | -28 | | 284 [PA](calendars/astorian-calendar.md) | The [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) agrees to an armistice with the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md). |
-| -15 | | 297 [PA](calendars/astorian-calendar.md) | The village of [Arnaside](../places/villages/arnaside.md) was formed. |
+| -15 | | 297 [PA](calendars/astorian-calendar.md) | The village of [Arnaside](../places/settlements/villages/arnaside.md) was formed. |
 | 0 | 3,254 [DS](calendars/naissance-calendar.md) | 312 [PA](calendars/astorian-calendar.md) | **Current day**<br>[Purple Rain](../campaigns/C1-purple-rain.md), [Astorrel Agents](../campaigns/C2-astorrel-agents.md), and [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) begin. |
 
 ## Days

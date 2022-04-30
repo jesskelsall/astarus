@@ -66,4 +66,4 @@ With each lunar cycle lasting 28 days and the year appearing to be 225 days long
 
 As there was an extra day to spare, this was added to Premifleurs as the 29th day of the month, Premifleurs being the month that [the Second Coming](../events/the-second-coming.md) fell under.
 
-Since [the Third Coming](../events/the-third-coming.md), all civilisations on [Kardan](../../places/continents/kardan.md) have adopted the Naissance Calendar except for the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) who use their own [Astorian Calendar](astorian-calendar.md).
+Since [the Third Coming](../events/the-third-coming.md), all civilisations on [Kardan](../../places/topography/continents-islands/kardan.md) have adopted the Naissance Calendar except for the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) who use their own [Astorian Calendar](astorian-calendar.md).

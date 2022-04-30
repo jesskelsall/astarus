@@ -17,7 +17,7 @@
 
 ## Summary
 
-Mordus Shren is the owner and innkeeper of [The Greedy Trout](../places/buildings/inns-taverns/the-greedy-trout.md), the inn in [Frizthwaite](../places/villages/frizthwaite.md).
+Mordus Shren is the owner and innkeeper of [The Greedy Trout](../places/buildings/inns-taverns/the-greedy-trout.md), the inn in [Frizthwaite](../places/settlements/villages/frizthwaite.md).
 
 ## Characteristics
 

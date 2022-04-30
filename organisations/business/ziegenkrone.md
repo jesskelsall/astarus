@@ -8,7 +8,7 @@
 | **Civilisation** | [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Leader** | Mystyn Monhenn |
 | **Patron(s)** | |
-| **Location(s)** | [Dünnesland](../../places/towns/dunnesland.md) (home town)<br>[Ziegenturm](../../places/buildings/inns-taverns/ziegenturm.md) (tavern) |
+| **Location(s)** | [Dünnesland](../../places/settlements/towns/dunnesland.md) (home town)<br>[Ziegenturm](../../places/buildings/inns-taverns/ziegenturm.md) (tavern) |
 |||
 | **Image ID** | |
 

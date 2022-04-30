@@ -44,18 +44,18 @@ Praying once again at the shrine to [Valnos](../../gods/deities/valnos.md), she 
 
 #### Whisper [Valnos](../../gods/deities/valnos.md) Chat 3
 
-While staying in [Arnaside](../../places/villages/arnaside.md) overnight in the [Head & Haft](../../places/buildings/inns-taverns/head-and-haft.md), [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) wakes up. They see their party sleeping inside the tavern, but a light outside distracts them. They make their way to the door quietly and step outside.
+While staying in [Arnaside](../../places/settlements/villages/arnaside.md) overnight in the [Head & Haft](../../places/buildings/inns-taverns/head-and-haft.md), [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) wakes up. They see their party sleeping inside the tavern, but a light outside distracts them. They make their way to the door quietly and step outside.
 
 It is quiet out and the wind is notably absent. Looking around they see a hawk on the edge of the next building over's roof, resembling the shrine to [Valnos](../../gods/deities/valnos.md) in [Diamond Prime](../../places/buildings/temples/diamond-prime.md) - golden and shining through its many gemstones. It is casting light around it.
 
 As Whisper approaches it, there is a flash of light. They suddenly find themself high in the sky above a desert landscape bathed in sunlight. To their side they see a large hawk who they presume is [Valnos](../../gods/deities/valnos.md). Getting their bearings they realise that they are also a bird, flying alongside [Valnos](../../gods/deities/valnos.md) over the desert.
 
-As they fly together they approach a village ([Kuv'narash](../../places/villages/kuvnarash.md)) and descend.
+As they fly together they approach a village ([Kuv'narash](../../places/settlements/villages/kuvnarash.md)) and descend.
 
 *[Valnos](../../gods/deities/valnos.md):*
-> This is [Kuv'narash](../../places/villages/kuvnarash.md).
+> This is [Kuv'narash](../../places/settlements/villages/kuvnarash.md).
 
-It is made of dried dirt, a maze of connected buildings with open windows. The people here are predominantly the lesser races of [South East Kardan](../../places/regions/south-east-kardan.md) - mostly tabaxi and dragonborn. The people they fly past look poor and are simply trying to make ends meet.
+It is made of dried dirt, a maze of connected buildings with open windows. The people here are predominantly the lesser races of [Southeastern Kardan](../../places/regions/southeastern-kardan.md) - mostly tabaxi and dragonborn. The people they fly past look poor and are simply trying to make ends meet.
 
 Flying through the streets, Whisper and Valnos descend on a building, landing on its window sill. This open hole in the side of the building gives them a view inside. Here Whisper sees a family of tabaxi, living in cramped conditions. The colour of their fur and markings is immediately recognisable to Whisper, matching their own.
 

@@ -7,7 +7,7 @@
 
 ## Summary
 
-Having captured [The Mistral](../places/ships/the-mistral.md) on the Kavallos Sea, [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) soldiers attempt to infiltrate the town of [Côtedouce](../places/towns/cotedouce.md) in preparation for a larger attack from the sea.
+Having captured [The Mistral](../places/ships/the-mistral.md) on the Kavallos Sea, [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) soldiers attempt to infiltrate the town of [Côtedouce](../places/settlements/towns/cotedouce.md) in preparation for a larger attack from the sea.
 
 ## History
 
@@ -15,7 +15,7 @@ Having captured [The Mistral](../places/ships/the-mistral.md) on the Kavallos Se
 
 While in a [Republic Guard](../organisations/guards/republic-guard.md) jail, [Vētrall Astérr](../characters/vetrall-asterr.md) and [Valan Shadowgaze](../characters/valan-shadowgaze.md) overhear the guards talking in [elvish](../languages/elvish.md) about [the Mistral](../places/ships/the-mistral.md) being late, there being a problem, and the need for a strong guard presence when it arrives. They don't realise that they are talking about a ship.
 
-After escaping the jail and meeting [Grouper](../characters/grouper.md), [Grouper](../characters/grouper.md) offers some information that may help the party leave [Côtedouce](../places/towns/cotedouce.md) to pursue their own goals. He tells them of [the Mistral](../places/ships/the-mistral.md), a ship that docked yesterday. It reported a disease onboard, so [Captain Gill](../characters/clef-gill.md) asked the guards to quarantine the ship, which they did. [Grouper](../characters/grouper.md)'s spies learned that there is no disease, it being used as a cover for [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) spies who infiltrated the ship on the Kavallos Sea. They plan to infiltrate the town and destroy its defences before a larger naval attack arrives.
+After escaping the jail and meeting [Grouper](../characters/grouper.md), [Grouper](../characters/grouper.md) offers some information that may help the party leave [Côtedouce](../places/settlements/towns/cotedouce.md) to pursue their own goals. He tells them of [the Mistral](../places/ships/the-mistral.md), a ship that docked yesterday. It reported a disease onboard, so [Captain Gill](../characters/clef-gill.md) asked the guards to quarantine the ship, which they did. [Grouper](../characters/grouper.md)'s spies learned that there is no disease, it being used as a cover for [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) spies who infiltrated the ship on the Kavallos Sea. They plan to infiltrate the town and destroy its defences before a larger naval attack arrives.
 
 [Grouper](../characters/grouper.md) gives the party a Kavallos longsword as proof, advising them to either defend the town or bring the plot to the attention of its arch-mage [Oriel Elsandoral](../characters/oriel-elsandoral.md). They choose to do the latter, travelling to the [Tour de la Côte](../places/buildings/government/tour-de-la-cote.md) and meeting with her after convincing a guard outside of the story.
 
@@ -25,7 +25,7 @@ Oriel is troubled by their story, especially as she is close friends with [Capta
 
 ### [MC04](../sessions/MC04.md)
 
-The party make their way to the [Côtedouce](../places/towns/cotedouce.md) dock, searching for signs of [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) soldiers aboard [the Mistral](../places/ships/the-mistral.md). When [Marik Kaligavone](../characters/marik-kaligavone.md), [Valan Shadowgaze](../characters/valan-shadowgaze.md) and [Vētrall Astérr](../characters/vetrall-asterr.md) try to sneak onto the ship using the Dust of Disappearance, their cover is blown when Marik casts Druidcraft and her invisibility ends early.
+The party make their way to the [Côtedouce](../places/settlements/towns/cotedouce.md) dock, searching for signs of [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) soldiers aboard [the Mistral](../places/ships/the-mistral.md). When [Marik Kaligavone](../characters/marik-kaligavone.md), [Valan Shadowgaze](../characters/valan-shadowgaze.md) and [Vētrall Astérr](../characters/vetrall-asterr.md) try to sneak onto the ship using the Dust of Disappearance, their cover is blown when Marik casts Druidcraft and her invisibility ends early.
 
 In the ensuing panic, Valan casts Fog Cloud and the group try to climb aboard, Marik falling into the water. Valan and Vētrall find nobody on deck and are unable to open locked doors to areas below deck before the ship explodes.
 
@@ -49,9 +49,9 @@ With two of the four cannons destroyed on the [Côtedouce Coastal Artillery](../
 
 ### [MC06](../sessions/MC06.md)
 
-While walking through [Starnov](../places/cities/starnov.md), the party hear a town crier delivering the day's news:
+While walking through [Starnov](../places/settlements/cities/starnov.md), the party hear a town crier delivering the day's news:
 
-> [Côtedouce](../places/towns/cotedouce.md) falls to the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md)!  
+> [Côtedouce](../places/settlements/towns/cotedouce.md) falls to the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md)!  
 > After a sabotage plot was thwarted, Kavallos ships broke the sea defences and bombarded the [Reimatelau](../civilisations/nilsavnic-alliance/states/reimatelau.md) settlement. Evacuation back to Lorignac is underway. The Alliance Senate will meet to discuss retaliation plans!
 
 The news shocks the party who had assumed that they had saved the town from the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md). [Keranios](../characters/keranios.md) remembers that two of the four coastal artillery cannons were destroyed in the attack, so maybe the attack went ahead anyway and they overpowered the remaining two.

@@ -11,12 +11,12 @@
 | **Class** | |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | |
-| **Places** | [Eskrigg Astorrel Stronghold](../places/strongholds/eskrigg-astorrel-stronghold.md) |
+| **Places** | [Eskrigg Astorrel Stronghold](../places/settlements/strongholds/eskrigg-astorrel-stronghold.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Captain](../organisations/government/astorrel/ranks/astorrel-captain.md) |
-| **Role** | Cities / [Eskrigg](../places/cities/eskrigg.md) |
+| **Role** | Cities / [Eskrigg](../places/settlements/cities/eskrigg.md) |
 | **Commanding Officer** | |
 | **Subordinates** | |
 |||
@@ -24,7 +24,7 @@
 
 ## Summary
 
-Ronvyn Bafflegift is quietly confident in his own abilities and those of his subordinates. He is smiley and approachable, coming across as casual. He is content as the Captain of [Eskrigg](../places/cities/eskrigg.md).
+Ronvyn Bafflegift is quietly confident in his own abilities and those of his subordinates. He is smiley and approachable, coming across as casual. He is content as the Captain of [Eskrigg](../places/settlements/cities/eskrigg.md).
 
 ## Characteristics
 

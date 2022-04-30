@@ -13,7 +13,7 @@ Furious with [Valan Shadowgaze](../characters/valan-shadowgaze.md)'s contempt fo
 
 ### [MC04](../sessions/MC04.md)
 
-Returning to [Oriel Elsandoral](../characters/oriel-elsandoral.md), the party relay their experiences of fending off the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) attack on [Côtedouce](../places/towns/cotedouce.md) that night. The arch-mage has been crying at the loss of life and destruction she witnesses in her town, also fearing for [Captain Gill](../characters/clef-gill.md)'s life.
+Returning to [Oriel Elsandoral](../characters/oriel-elsandoral.md), the party relay their experiences of fending off the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) attack on [Côtedouce](../places/settlements/towns/cotedouce.md) that night. The arch-mage has been crying at the loss of life and destruction she witnesses in her town, also fearing for [Captain Gill](../characters/clef-gill.md)'s life.
 
 She laments at not trusting the party sooner and regrets only being able to help so much, the projection of her magic from the [Tour de la Côte](../places/buildings/government/tour-de-la-cote.md) placing a heavy toll on her magical abilities.
 
@@ -30,7 +30,7 @@ Valan fails his saving throw, cursing him for 30 days.
 
 Valan immediately curses following the spell's activation, criticising Oriel for casting a spell on him. He immediately succumbs to the spell's effect, falling unconscious in front of Oriel and the party.
 
-Oriel recomposes herself, continuing the conversation while Valan lies unconscious on the floor, stabilised by her magic. After she reaches an agreement with the party to become their patron, she casts healing magic on him to bring him back to consciousness before she teleports the party to [Trest](../places/towns/trest.md).
+Oriel recomposes herself, continuing the conversation while Valan lies unconscious on the floor, stabilised by her magic. After she reaches an agreement with the party to become their patron, she casts healing magic on him to bring him back to consciousness before she teleports the party to [Trest](../places/settlements/towns/trest.md).
 
 ### Between sessions
 

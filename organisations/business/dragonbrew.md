@@ -8,7 +8,7 @@
 | **Civilisation** | [Valburg](../../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Leader** | Lachunkulic Vyre |
 | **Patron(s)** | |
-| **Location(s)** | [Dünnesland](../../places/towns/dunnesland.md) (home town)<br>[The Brew's Lair](../../places/buildings/inns-taverns/the-brews-lair.md) (headquarters, tavern) |
+| **Location(s)** | [Dünnesland](../../places/settlements/towns/dunnesland.md) (home town)<br>[The Brew's Lair](../../places/buildings/inns-taverns/the-brews-lair.md) (headquarters, tavern) |
 |||
 | **Image ID** | |
 

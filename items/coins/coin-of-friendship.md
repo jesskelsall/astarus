@@ -11,7 +11,7 @@
 
 > A large silver coin used by [Familia Vulpes](../../organisations/familia-vulpes.md) to invite others to the organisation.
 > 
-> A relief of the organisation’s symbol is stamped into one side, and a view of the [Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md) from [Trest](../../places/towns/trest.md) on the back.
+> A relief of the organisation’s symbol is stamped into one side, and a view of the [Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md) from [Trest](../../places/settlements/towns/trest.md) on the back.
 
 - [MC01F-I-2](../../cards/MC01F-I-2.md)
 

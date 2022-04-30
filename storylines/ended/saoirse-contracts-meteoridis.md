@@ -37,17 +37,17 @@ This is a clear manifestation of her compulsion to stay near to [Meteoric Dust](
 
 ### [PR19](../../sessions/PR19.md)
 
-While in [sanctuary](../../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/the-sanctum.md), Torbra questions Saoirse directly about why she carries the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor around everywhere she goes. She explains that she wants to protect it and probably likes it more than the rest of the party. Thanea defends her, noting that [Elysia Vanderboss](../../characters/elysia-vanderboss.md) considers the [meteorite](../../items/meteoric/meteorite.md) and pouch of [meteoric dust](../../items/meteoric/meteoric-dust.md) to be important.
+While in [sanctuary](../../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/government/the-sanctum.md), Torbra questions Saoirse directly about why she carries the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor around everywhere she goes. She explains that she wants to protect it and probably likes it more than the rest of the party. Thanea defends her, noting that [Elysia Vanderboss](../../characters/elysia-vanderboss.md) considers the [meteorite](../../items/meteoric/meteorite.md) and pouch of [meteoric dust](../../items/meteoric/meteoric-dust.md) to be important.
 
 When [Elysia Vanderboss](../../characters/elysia-vanderboss.md) visits a second time she sees Saoirse in the bathroom clutching the [meteorite](../../items/meteoric/meteorite.md), refusing to leave. When Elysia leaves she gives Saoirse a perplexed look.
 
 ### [PR20](../../sessions/PR20.md)
 
-[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) learns that there is something magical about the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), but the anti-magic field present inside [The Sanctum](../../places/buildings/the-sanctum.md) makes it impossible for her to learn any more than that.
+[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) learns that there is something magical about the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), but the anti-magic field present inside [The Sanctum](../../places/buildings/government/the-sanctum.md) makes it impossible for her to learn any more than that.
 
 ### [PR22](../../sessions/PR22.md)
 
-[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md), now out of the anti-magic field of [The Sanctum](../../places/buildings/the-sanctum.md), decides to experiment with the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) and the [meteoric dust](../../items/meteoric/meteoric-dust.md) she has collected. She finds that ingesting some of the dust will enhance her magical abilities, but it also has psychedelic effects.
+[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md), now out of the anti-magic field of [The Sanctum](../../places/buildings/government/the-sanctum.md), decides to experiment with the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) and the [meteoric dust](../../items/meteoric/meteoric-dust.md) she has collected. She finds that ingesting some of the dust will enhance her magical abilities, but it also has psychedelic effects.
 
 *[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) learns how to ingest [meteoric dust](../../items/meteoric/meteoric-dust.md) to induce the [meteoric dust effect](../../items/meteoric/meteoric-dust-effect.md)]*
 
@@ -63,7 +63,7 @@ Hours before the [Nature's Battle 28](natures-battle-28.md) final, [Saoirse ó D
 
 ### [PR27](../../sessions/PR27.md)
 
-Having ran from the arena, [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) looks for a quiet spot on the streets of [Eskrigg](../../places/cities/eskrigg.md). She slumps against a wall half way along a quiet street, closing her eyes to put her warped vision at rest. She is startled by passers by and eventually disturbed by [Allisa Balsatra](../../characters/allisa-balsatra.md) and [Xavier Raloven](../../characters/xavier-raloven.md), who she struggles to see properly.
+Having ran from the arena, [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) looks for a quiet spot on the streets of [Eskrigg](../../places/settlements/cities/eskrigg.md). She slumps against a wall half way along a quiet street, closing her eyes to put her warped vision at rest. She is startled by passers by and eventually disturbed by [Allisa Balsatra](../../characters/allisa-balsatra.md) and [Xavier Raloven](../../characters/xavier-raloven.md), who she struggles to see properly.
 
 Allisa recognises that Saoirse is in a bad way before trying to help her by placing her hand on her cheek. Saoirse grabs Allisa's wrist, causing her to relent before moving on.
 
@@ -95,9 +95,9 @@ In [the Dog's Groke](../../places/buildings/inns-taverns/the-dogs-groke.md) afte
 
 This troubles Elysia who keeps an eye on Saoirse, particularly after she retrieves Torbra's iron pot of [meteoric dust](../../items/meteoric/meteoric-dust.md).
 
-While heading back to [Tenterfell House](../../places/buildings/tenterfell-house.md), Elysia tells Saoirse to stay with her as she wants her to meet someone that may be able to help her.
+While heading back to [Tenterfell House](../../places/buildings/government/tenterfell-house.md), Elysia tells Saoirse to stay with her as she wants her to meet someone that may be able to help her.
 
-Back at [Tenterfell House](../../places/buildings/tenterfell-house.md) Saoirse once again speaks with Elysia, asking directly for her help in combating the compulsions she feels. Elysia tells her that [Mergin Thorgus](../../characters/mergin-thorgus.md) owes her a favour, so she leaves immediately to retrieve him.
+Back at [Tenterfell House](../../places/buildings/government/tenterfell-house.md) Saoirse once again speaks with Elysia, asking directly for her help in combating the compulsions she feels. Elysia tells her that [Mergin Thorgus](../../characters/mergin-thorgus.md) owes her a favour, so she leaves immediately to retrieve him.
 
 On their return Mergin speaks to Saoirse about how she feels, finding it unlikely to be a simple matter of weakness. When Saoirse off-handedly uses the word "curse" to describe how she feels, Mergin has an idea. He casts Remove Curse on her rather suddenly, causing her to fall unconscious.
 

@@ -20,7 +20,7 @@
 > Capt. [Hjalmann Craggbeard](../characters/hjalmann-craggbeard.md)  
 > Iredale [Astornox](../organisations/government/astornox/astornox.md) Stronghold  
 > Iredale  
-> [Northern Astor](../places/regions/northern-astor.md)
+> Northern Astor
 >
 > Mishdag, 23rd of Shavdor, 312 [PA](../history/calendars/astorian-calendar.md)
 >

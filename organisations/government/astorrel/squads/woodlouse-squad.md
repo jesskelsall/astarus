@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Squad Name** | Woodlouse Squad | squad.2
-| **Role** | Cities / [Eskrigg](../../../../places/cities/eskrigg.md) |
+| **Role** | Cities / [Eskrigg](../../../../places/settlements/cities/eskrigg.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | |
 | **Squad Hands** | |

@@ -46,7 +46,7 @@ In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hida
 
 ### [PR22](../../sessions/PR22.md)
 
-[Thanea Morlay](../../characters/thanea-morlay.md) uses her downtime in [Northhaven](../../places/cities/northhaven.md) to research her prophetic dreams in [Hawk's Perch](../../places/buildings/hawks-perch.md). She finds mention of those with foresight (seers), with the text suggesting that it may be a form of magical manifestation.
+[Thanea Morlay](../../characters/thanea-morlay.md) uses her downtime in [Northhaven](../../places/settlements/cities/northhaven.md) to research her prophetic dreams in [Hawk's Perch](../../places/buildings/government/hawks-perch.md). She finds mention of those with foresight (seers), with the text suggesting that it may be a form of magical manifestation.
 
 She also tries to research humanoids with wings, but only finds information on aarakocra.
 

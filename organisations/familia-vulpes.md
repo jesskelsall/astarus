@@ -18,7 +18,7 @@
 | **Civilisation** | [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Leader** | [Vulpes Soon](../characters/vulpes-soon.md) |
 | **Patron(s)** | |
-| **Location(s)** | [Trest](../places/towns/trest.md) (home town)<br>[The Fox Hole](../places/buildings/the-fox-hole.md) (headquarters) |
+| **Location(s)** | [Trest](../places/settlements/towns/trest.md) (home town)<br>[The Fox Hole](../places/buildings/the-fox-hole.md) (headquarters) |
 |||
 | **Image ID** | `75c9f929854a75b6` |
 
@@ -60,7 +60,7 @@ High level decisions are made by the Vulpes Family. As the organisation rarely n
 
 ### Father of the Door
 
-A senior role given to a masculine member, the Father of the Door guards the entrance to [The Fox Hole](../places/buildings/the-fox-hole.md) in [Trest](../places/towns/trest.md). Their role is both practical and ceremonial.
+A senior role given to a masculine member, the Father of the Door guards the entrance to [The Fox Hole](../places/buildings/the-fox-hole.md) in [Trest](../places/settlements/towns/trest.md). Their role is both practical and ceremonial.
 
 From a ceremonial standpoint, the Father of the Door opens and closes the door when members come and go. Light conversation keeps them in the loop with the state of the organisation and its members.
 

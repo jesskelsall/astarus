@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Squad Name** | Juniper Squad | squad.2
-| **Role** | Forests / [Great Sile Woods](../../../../places/forests/great-sile-woods.md) |
+| **Role** | Forests / [Great Sile Woods](../../../../places/topography/forests/great-sile-woods.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | |
 | **Squad Hands** | [Reed Dovenby](../../../../characters/reed-dovenby.md) |
@@ -14,7 +14,7 @@
 
 ## Summary
 
-Juniper Squad are responsible for various aspects of the [Great Sile Woods](../../../../places/forests/great-sile-woods.md), completing missions in and around it.
+Juniper Squad are responsible for various aspects of the [Great Sile Woods](../../../../places/topography/forests/great-sile-woods.md), completing missions in and around it.
 
 ## Changes
 

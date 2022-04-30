@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Lionel's Rest |
 | **Type** | Inn |
-| **Location** | [Sunrise District](../../districts/sunrise-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Sunrise District](../../settlements/districts/sunrise-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
 | **Nearby Places** | [Northhaven Wall](../../structures/northhaven-wall.md) |
 | **People** | |
 

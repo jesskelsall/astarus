@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | The Dog's Groke |
 | **Type** | Inn |
-| **Location** | [Sunrise District](../../districts/sunrise-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Sunrise District](../../settlements/districts/sunrise-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
 | **Nearby Places** | |
 | **People** | [The Morning Chasers](../../../organisations/the-morning-chasers.md) |
 

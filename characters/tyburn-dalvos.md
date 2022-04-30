@@ -12,7 +12,7 @@
 | **Background** | Acolyte |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md)<br>[Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | |
-| **Places** | [Tenterfell House](../places/buildings/tenterfell-house.md) |
+| **Places** | [Tenterfell House](../places/buildings/government/tenterfell-house.md) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -30,7 +30,7 @@ Tyburn has entered into a pact with [Malnesh](../gods/deities/malnesh.md), actin
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) |||
+|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) |||
 | [PR27](../sessions/PR27.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Phenomena / Meteoric / [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) | [Elysia Vanderboss](elysia-vanderboss.md) ||
 
 ## Character Rolls

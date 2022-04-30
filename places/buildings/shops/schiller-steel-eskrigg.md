@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Schiller Steel Eskrigg |
 | **Type** | Shop |
-| **Location** | [Eskrigg](../../cities/eskrigg.md) |
+| **Location** | [Eskrigg](../../settlements/cities/eskrigg.md) |
 | **Nearby Places** | |
 | **People** | [Callum Briar](../../../characters/callum-briar.md) (shopkeeper) |
 

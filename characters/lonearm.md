@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Juror](juror.md) (servant) |
-| **Places** | [Starnov](../places/cities/starnov.md) |
+| **Places** | [Starnov](../places/settlements/cities/starnov.md) |
 | **Citizenship** | |
 | **Organisation(s)** | |
 |||
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Lonearm is a wealthy citizen living in [Starnov](../places/cities/starnov.md).
+Lonearm is a wealthy citizen living in [Starnov](../places/settlements/cities/starnov.md).
 
 ## Characteristics
 

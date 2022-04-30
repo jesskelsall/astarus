@@ -11,7 +11,7 @@
 | **Class** | Bard (College of Glamour) |
 | **Worship** | |
 | **Relations** | [Nacnar Morwesyrr](nacnar-morwesyrr.md) (Familiar Vulpes mentor)<br>[Vulpes Geen](vulpes-geen.md) (friend, dead)<br>[Valan Shadowgaze](valan-shadowgaze.md) ([Familia Vulpes](../organisations/familia-vulpes.md) student) |
-| **Places** | [Respite](../places/cities/respite.md) (birthplace) |
+| **Places** | [Respite](../places/settlements/cities/respite.md) (birthplace) |
 |||
 | **Citizenship** | [City of Respite](../civilisations/nilsavnic-alliance/states/city-of-respite.md) |
 | **Organisation** | [Familia Vulpes](../organisations/familia-vulpes.md) |

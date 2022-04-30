@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Filisur](../places/villages/filisur.md) |
+| **Places** | [Filisur](../places/settlements/villages/filisur.md) |
 | **Citizenship** | |
 | **Organisation(s)** | |
 |||
@@ -18,7 +18,7 @@
 
 ## Summary
 
-Vonda Rojen is a solemn and reflective elderly [cepine](../lineages/cepine.md) living in [Filisur](../places/villages/filisur.md). She is the current oldest living [cepine](../lineages/cepine.md).
+Vonda Rojen is a solemn and reflective elderly [cepine](../lineages/cepine.md) living in [Filisur](../places/settlements/villages/filisur.md). She is the current oldest living [cepine](../lineages/cepine.md).
 
 ## Characteristics
 

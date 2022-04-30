@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Coastal Trail |
 | **Type** | Road |
-| **Location** | [Central Astor](../regions/central-astor.md) |
-| **Nearby Places** | [Allonby](../villages/allonby.md)<br>[Arnaside](../villages/arnaside.md)<br>[Duskmere](../rivers-lakes/duskmere.md)<br>Fort Knowe<br>[Humouth](../villages/humouth.md)<br>[Northhaven](../cities/northhaven.md)<br>[Sea of Songs](../seas-oceans/sea-of-songs.md)<br>[Walna Forest](../forests/walna-forest.md) |
+| **Location** | [Southeastern Kardan](../regions/southeastern-kardan.md) |
+| **Nearby Places** | [Allonby](../settlements/villages/allonby.md)<br>[Arnaside](../settlements/villages/arnaside.md)<br>[Duskmere](../topography/rivers-lakes/duskmere.md)<br>Fort Knowe<br>[Humouth](../settlements/villages/humouth.md)<br>[Northhaven](../settlements/cities/northhaven.md)<br>[Sea of Songs](../topography/seas-oceans/sea-of-songs.md)<br>[Walna Forest](../topography/forests/walna-forest.md) |
 | **People** | |
 

@@ -24,7 +24,7 @@
 
 ### [PR27](../sessions/PR27.md)
 
-Following the end of [Nature's Battle 28](ended/natures-battle-28.md), [Elysia Vanderboss](../characters/elysia-vanderboss.md), now a [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md), summons both of her squads to [Tenterfell House](../places/buildings/tenterfell-house.md) - [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) and [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md). Here she briefs them on their mission to understand and combat the meteoric threat.
+Following the end of [Nature's Battle 28](ended/natures-battle-28.md), [Elysia Vanderboss](../characters/elysia-vanderboss.md), now a [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md), summons both of her squads to [Tenterfell House](../places/buildings/government/tenterfell-house.md) - [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) and [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md). Here she briefs them on their mission to understand and combat the meteoric threat.
 
 While [Torbra Tauff](../characters/torbra-tauff.md) is providing a debrief on their time in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), she mistakenly suggests that one of the [Meteoric Watchers](../creatures/meteoric-watcher.md) got away from them. This causes Elysia to send [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) back to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to search for it and make sure that no other meteoric evidence was missed.
 
@@ -38,4 +38,4 @@ With the help of locals they are able to find the [Hawkswood Wolf Cave](../civil
 
 [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) insists on having their squad return the bodies in the crater to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) so that the dead can be properly accounted for. This softens the [Astornox](../organisations/government/astornox/astornox.md)'s stance towards the squad, allowing them to leave on fair terms.
 
-[Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) return to [Northhaven](../places/cities/northhaven.md) after 14 days. Hidaar files their mission report and hands over a pouch of [meteoric dust](../items/meteoric/meteoric-dust.md). This nets each squad member an extra 30 gp in pay.
+[Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) return to [Northhaven](../places/settlements/cities/northhaven.md) after 14 days. Hidaar files their mission report and hands over a pouch of [meteoric dust](../items/meteoric/meteoric-dust.md). This nets each squad member an extra 30 gp in pay.

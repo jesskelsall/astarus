@@ -12,7 +12,7 @@
 
 ## Summary
 
-The Morning Chasers are adventurers for hire based out of [The Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md) in [Northhaven](../places/cities/northhaven.md).
+The Morning Chasers are adventurers for hire based out of [The Dog's Groke](../places/buildings/inns-taverns/the-dogs-groke.md) in [Northhaven](../places/settlements/cities/northhaven.md).
 
 ## Members
 

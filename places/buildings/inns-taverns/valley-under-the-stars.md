@@ -4,17 +4,17 @@
 | --- | --- |
 | **Name** | Valley Under the Stars |
 | **Type** | Inn |
-| **Location** | [Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
-| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Northhaven Astorrel Stronghold](../../strongholds/northhaven-astorrel-stronghold.md) |
+| **Location** | [Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
+| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) |
 | **People** | [Cara Treffen](../../../characters/cara-treffen.md) (owner)<br>[Zarrus Maleron](../../../characters/zarrus-maleron.md) (innkeeper) |
 
 ## Summary
 
-The Valley Under the Stars is an inn in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md). It is owned by [Cara Treffen](../../../characters/cara-treffen.md). [Zarrus Maleron](../../../characters/zarrus-maleron.md) is the innkeeper.
+The Valley Under the Stars is an inn in the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md). It is owned by [Cara Treffen](../../../characters/cara-treffen.md). [Zarrus Maleron](../../../characters/zarrus-maleron.md) is the innkeeper.
 
-It follows the building style of the [Sunset District](../../districts/sunset-district.md), with a marble exterior and interior elements, with cushioned seating. The ground floor is divided into a bar with seating, and a restaurant where food is served. Greater attention is paid to customers needs here.
+It follows the building style of the [Sunset District](../../settlements/districts/sunset-district.md), with a marble exterior and interior elements, with cushioned seating. The ground floor is divided into a bar with seating, and a restaurant where food is served. Greater attention is paid to customers needs here.
 
-Due to its upmarket nature, as well as the owner and staff being retired [Astorrel](../../../organisations/government/astorrel/astorrel.md), it is popular with the organisation. [Astorrel](../../../organisations/government/astorrel/astorrel.md) with the disposable income and a wish for a more pleasant stay frequent here when back from missions, or when visiting [Northhaven](../../cities/northhaven.md) from a different [Astorrel](../../../organisations/government/astorrel/astorrel.md) stronghold.
+Due to its upmarket nature, as well as the owner and staff being retired [Astorrel](../../../organisations/government/astorrel/astorrel.md), it is popular with the organisation. [Astorrel](../../../organisations/government/astorrel/astorrel.md) with the disposable income and a wish for a more pleasant stay frequent here when back from missions, or when visiting [Northhaven](../../settlements/cities/northhaven.md) from a different [Astorrel](../../../organisations/government/astorrel/astorrel.md) stronghold.
 
 | Sensation | Description |
 | ---- | --- |

@@ -30,7 +30,7 @@
 >
 > While I must thank you for dressing appropriately during the tournament as requested, it pained me to learn that you were not wielding your [Schiller steel](../items/schiller-steel.md) blade. I hope there is good reason for this - this is a rebellion that I cannot tolerate, even if it is by her design.
 >
-> To this end I'm authorising a new [Schiller steel](../items/schiller-steel.md) weapon of your choosing to be delivered to you in [Northhaven](../places/cities/northhaven.md). Choose carefully from our family catalogue enclosed. I will not have you embarrass our family further by wielding someone else's metal.
+> To this end I'm authorising a new [Schiller steel](../items/schiller-steel.md) weapon of your choosing to be delivered to you in [Northhaven](../places/settlements/cities/northhaven.md). Choose carefully from our family catalogue enclosed. I will not have you embarrass our family further by wielding someone else's metal.
 >
 > If you wish to order other weapons so that your squad may keep you safe, get in contact through the usual channels and a means of payment will be arranged.
 >

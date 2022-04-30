@@ -14,11 +14,11 @@
 | **Worship** | |
 | **Relations** | |
 | **Acquaintances** | [Ahsha Sallas](ahsha-sallas.md) (scouted) |
-| **From** | [Eskrigg](../places/cities/eskrigg.md) |
+| **From** | [Eskrigg](../places/settlements/cities/eskrigg.md) |
 | **Places** | |
 
 ## Summary
 
-Jorren Grieger is an [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) working for the [Eskrigg](../places/cities/eskrigg.md) [Astorrel](../organisations/government/astorrel/astorrel.md) as a scout. His job is to find potential [Astorrel](../organisations/government/astorrel/astorrel.md) talent and convince them to join their ranks.
+Jorren Grieger is an [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) working for the [Eskrigg](../places/settlements/cities/eskrigg.md) [Astorrel](../organisations/government/astorrel/astorrel.md) as a scout. His job is to find potential [Astorrel](../organisations/government/astorrel/astorrel.md) talent and convince them to join their ranks.
 
-After [Ahsha Sallas](ahsha-sallas.md) began making a name for herself in the [Eskrigg](../places/cities/eskrigg.md) pit fighting scene, he watched her successfully win a fight before approaching her with an offer to join the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme, which she accepted.
+After [Ahsha Sallas](ahsha-sallas.md) began making a name for herself in the [Eskrigg](../places/settlements/cities/eskrigg.md) pit fighting scene, he watched her successfully win a fight before approaching her with an offer to join the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme, which she accepted.

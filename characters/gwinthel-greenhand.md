@@ -40,4 +40,4 @@ Gwinthel Greenhand is a potion brewer who is about to open their own shop on Cra
 
 ## History
 
-Gwinthel Greenhand has bought a store on [Crafters Course](../places/streets/crafters-course.md) after the previous owner died. She is planning on opening an alchemical shop there, "Glug by Gwinthel".
+Gwinthel Greenhand has bought a store on [Crafters Course](../places/settlements/streets/crafters-course.md) after the previous owner died. She is planning on opening an alchemical shop there, "Glug by Gwinthel".

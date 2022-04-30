@@ -7,9 +7,9 @@
 
 ## Summary
 
-[Bryce Morton](../../characters/bryce-morton.md) tasks [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) with investigating the logging operations north of [Arnaside](../../places/villages/arnaside.md). The squad must ensure that logging is proceeding as normal. If there are signs of excessive logging, Bryce expects the squad to return with a list of culprits.
+[Bryce Morton](../../characters/bryce-morton.md) tasks [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) with investigating the logging operations north of [Arnaside](../../places/settlements/villages/arnaside.md). The squad must ensure that logging is proceeding as normal. If there are signs of excessive logging, Bryce expects the squad to return with a list of culprits.
 
-In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not been able to log effectively due to the presence of Kobolds deeper into the [Walna Forest](../../places/forests/walna-forest.md) that are laying traps and stealing from the town at night.
+In reality, the people of [Arnaside](../../places/settlements/villages/arnaside.md) have not been able to log effectively due to the presence of Kobolds deeper into the [Walna Forest](../../places/topography/forests/walna-forest.md) that are laying traps and stealing from the town at night.
 
 ## Mission
 
@@ -19,7 +19,7 @@ In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not
 | --- | --- |
 | **Given To** | [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) |
 | **Given By** | [Bryce Morton](../../characters/bryce-morton.md) |
-| **Goal** | Ensure logging operations in [Arnaside](../../places/villages/arnaside.md) are proceeding as normal, and no over-logging is occurring. |
+| **Goal** | Ensure logging operations in [Arnaside](../../places/settlements/villages/arnaside.md) are proceeding as normal, and no over-logging is occurring. |
 | **Evidence Required** | Names of any responsible for over-logging. |
 | **Time Limit** | 14 days |
 | **Reward** | [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md): 20 gp |
@@ -31,15 +31,15 @@ In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not
 | Detail | Skill Check | Roll |
 | --- |:---:|:---:|
 | Bandit attack on the [Coastal Trail](../../places/roads/coastal-trail.md). | Persuasion | 0 |
-| [Arnaside](../../places/villages/arnaside.md) were having trouble with unknown creatures. | Persuasion | 16 |
+| [Arnaside](../../places/settlements/villages/arnaside.md) were having trouble with unknown creatures. | Persuasion | 16 |
 | The creatures were kobolds. | Persuasion | 16 |
 | The squad ambushed some kobolds during the day, capturing one. | Persuasion | 16 |
 | They met a dragonborn named [Sharakas](../../characters/sharakas.md) who spoke draconic. | Persuasion | 8 |
-| Ahsha and [Sharakas](../../characters/sharakas.md) went into the [Blue Kobold Cave](../../places/caves/blue-kobold-cave.md) and negotiated a peace treaty for [Arnaside](../../places/villages/arnaside.md). | Persuasion | 16 |
+| Ahsha and [Sharakas](../../characters/sharakas.md) went into the [Blue Kobold Cave](../../places/topography/caves/blue-kobold-cave.md) and negotiated a peace treaty for [Arnaside](../../places/settlements/villages/arnaside.md). | Persuasion | 16 |
 | Account of [Ikra](../../characters/ikra.md), their leader: distrustful, aggressive, ready for violence. | Persuasion | 17 |
 | [Nenra Zossa](../../characters/nenra-zossa.md) agreed to the peace treaty that was negotiated for them. | Persuasion | 16 |
-| The [Astorrel](../../organisations/government/astorrel/astorrel.md) should help [Arnaside](../../places/villages/arnaside.md) to log responsibly. | Persuasion | 11 |
-| [Arnaside](../../places/villages/arnaside.md) is built around the worship of [Malnesh](../../gods/deities/malnesh.md). | Persuasion | 7 |
+| The [Astorrel](../../organisations/government/astorrel/astorrel.md) should help [Arnaside](../../places/settlements/villages/arnaside.md) to log responsibly. | Persuasion | 11 |
+| [Arnaside](../../places/settlements/villages/arnaside.md) is built around the worship of [Malnesh](../../gods/deities/malnesh.md). | Persuasion | 7 |
 
 ### Squad Performance
 
@@ -54,25 +54,25 @@ In reality, the people of [Arnaside](../../places/villages/arnaside.md) have not
 
 ### [AA02](../../sessions/AA02.md)
 
-[Bryce Morton](../../characters/bryce-morton.md) gives both of his squads their missions at the same time, in each other's presence. [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) is tasked with heading to [Arnaside](../../places/villages/arnaside.md) and checking on the new logging operation that has started up there, making sure it is proceeding without issue, but not overdoing it. [Ahsha Sallas](../../characters/ahsha-sallas.md) is made acting [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md) for this mission due to her receiving the Exceptional Trainee Bonus.
+[Bryce Morton](../../characters/bryce-morton.md) gives both of his squads their missions at the same time, in each other's presence. [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) is tasked with heading to [Arnaside](../../places/settlements/villages/arnaside.md) and checking on the new logging operation that has started up there, making sure it is proceeding without issue, but not overdoing it. [Ahsha Sallas](../../characters/ahsha-sallas.md) is made acting [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md) for this mission due to her receiving the Exceptional Trainee Bonus.
 
-The party heads off under Ahsha's leadership, deciding to head to [Arnaside](../../places/villages/arnaside.md) via the [Coastal Trail](../../places/roads/coastal-trail.md). They make their way out of the [Sunset District](../../places/districts/sunset-district.md), through the south east gate on the [Northhaven Wall](../../places/structures/northhaven-wall.md), and find a stable. After initially looking at buying their own horses which proves too expensive, they decide to hire a coach.
+The party heads off under Ahsha's leadership, deciding to head to [Arnaside](../../places/settlements/villages/arnaside.md) via the [Coastal Trail](../../places/roads/coastal-trail.md). They make their way out of the [Sunset District](../../places/settlements/districts/sunset-district.md), through the south east gate on the [Northhaven Wall](../../places/structures/northhaven-wall.md), and find a stable. After initially looking at buying their own horses which proves too expensive, they decide to hire a coach.
 
-They hire the services of [Clay Mullen](../../characters/clay-mullen.md), a coach driver, who after haggling with Ahsha agrees to take them to [Arnaside](../../places/villages/arnaside.md) for 5 gp, and will offer the same price for the return journey if they wish.
+They hire the services of [Clay Mullen](../../characters/clay-mullen.md), a coach driver, who after haggling with Ahsha agrees to take them to [Arnaside](../../places/settlements/villages/arnaside.md) for 5 gp, and will offer the same price for the return journey if they wish.
 
-Setting off, they spend 2 days making their way to [Humouth](../../places/villages/humouth.md). During the second day the coach is ambushed by bandits after a dead horse is left on the road, blocking the path, forcing the party to move it. The bandits are dispatched without much issue.
+Setting off, they spend 2 days making their way to [Humouth](../../places/settlements/villages/humouth.md). During the second day the coach is ambushed by bandits after a dead horse is left on the road, blocking the path, forcing the party to move it. The bandits are dispatched without much issue.
 
 During the fight, Clay is hit by a bandit, rendering him unconscious. For the remainder of the day he rests in the back of the coach while [Ephaine Seren](../../characters/ephaine-seren.md) drives and [Ahsha Sallas](../../characters/ahsha-sallas.md) navigates.
 
-Upon arrival at [Humouth](../../places/villages/humouth.md), the party rents rooms at [The Keeper's Reprise](../../places/buildings/inns-taverns/the-keepers-reprise.md) for the night, stabling the horse and coach, and ensuring that Clay is put to bed where he can rest.
+Upon arrival at [Humouth](../../places/settlements/villages/humouth.md), the party rents rooms at [The Keeper's Reprise](../../places/buildings/inns-taverns/the-keepers-reprise.md) for the night, stabling the horse and coach, and ensuring that Clay is put to bed where he can rest.
 
 ### [AA03](../../sessions/AA03.md)
 
-The following morning, Clay expresses a desire to return to [Northhaven](../../places/cities/northhaven.md) and recover from his injuries. The party convinces him to keep going, paying him extra for the trouble.
+The following morning, Clay expresses a desire to return to [Northhaven](../../places/settlements/cities/northhaven.md) and recover from his injuries. The party convinces him to keep going, paying him extra for the trouble.
 
-They return to the road, Clay riding all day to [Allonby](../../places/villages/allonby.md). Here the party speak to the [Astornox guards](../../organisations/government/astornox/ranks/astornox-guard.md) present, particularly [Roygol Mortisen](../../characters/roygol-mortisen.md), who informs them that they don't patrol as far as [Arnaside](../../places/villages/arnaside.md) as the locals refuse their help. The [Astornox](../../organisations/government/astornox/astornox.md) are happy to hear that the party dealt with the bandits, but don't find their presence along the [Coastal Trail](../../places/roads/coastal-trail.md) too surprising.
+They return to the road, Clay riding all day to [Allonby](../../places/settlements/villages/allonby.md). Here the party speak to the [Astornox guards](../../organisations/government/astornox/ranks/astornox-guard.md) present, particularly [Roygol Mortisen](../../characters/roygol-mortisen.md), who informs them that they don't patrol as far as [Arnaside](../../places/settlements/villages/arnaside.md) as the locals refuse their help. The [Astornox](../../organisations/government/astornox/astornox.md) are happy to hear that the party dealt with the bandits, but don't find their presence along the [Coastal Trail](../../places/roads/coastal-trail.md) too surprising.
 
-After another night's sleep, once again the party rides until mid afternoon when they reach [Arnaside](../../places/villages/arnaside.md). They begin by visiting [the Malneshitas](../../places/buildings/temples/the-malneshitas.md), the only remarkable building visible.
+After another night's sleep, once again the party rides until mid afternoon when they reach [Arnaside](../../places/settlements/villages/arnaside.md). They begin by visiting [the Malneshitas](../../places/buildings/temples/the-malneshitas.md), the only remarkable building visible.
 
 Here they meet [Nenra Zossa](../../characters/nenra-zossa.md) who has no concept of the [Astorrel](../../organisations/government/astorrel/astorrel.md). Despite a clear bias against the [Astornox](../../organisations/government/astornox/astornox.md) and a want of self reliance, she reluctantly accepts the party due to the issues they've been having with creatures attacking the [Arnaside Logging Camp](../../places/structures/arnaside-logging-camp.md) and the village itself. They come from the forest and have injured several of the loggers. She suggests the group speak to [Kulegar Bronhor](../../characters/kulegar-bronhor.md) at the logging camp.
 
@@ -96,7 +96,7 @@ At the mouth of the cave, the party sends [Redwyn Humpledopper](../../characters
 
 As she runs from the cave, the rest of the party moves in defensively while trying to diffuse the situation. Ahsha disarms one of their spear and breaks it. Ephaine drags the captive kobold into the cave and unties it with Ahsha's help. It darts into the cave before they can stop it. Ephaine mends the spear with Mending and hands it back. The encounter ends without further bloodshed.
 
-The party heads back to [Arnaside](../../places/villages/arnaside.md) to tell [Nenra Zossa](../../characters/nenra-zossa.md) of their findings. They speak with [Kulegar Bronhor](../../characters/kulegar-bronhor.md), advising him to suspend logging operations for now. They meet [Sharakas](../../characters/sharakas.md) who is a dragonborn that speaks draconic. They struggle to convince him to help, but after learning a few key draconic words from him, he agrees to join them, in part because of his infatuation with [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md).
+The party heads back to [Arnaside](../../places/settlements/villages/arnaside.md) to tell [Nenra Zossa](../../characters/nenra-zossa.md) of their findings. They speak with [Kulegar Bronhor](../../characters/kulegar-bronhor.md), advising him to suspend logging operations for now. They meet [Sharakas](../../characters/sharakas.md) who is a dragonborn that speaks draconic. They struggle to convince him to help, but after learning a few key draconic words from him, he agrees to join them, in part because of his infatuation with [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md).
 
 In the morning the party returns to the mouth of the cave with [Sharakas](../../characters/sharakas.md). Here he manages to communicate them through the cave mouth. They agree to come out and meet with them. Six kobold dragonshields emerge, insisting that [Sharakas](../../characters/sharakas.md) and one other go with them into the cave to meet their leader. [Ahsha Sallas](../../characters/ahsha-sallas.md) agrees after negotiating that two dragonshields will remain behind as collateral.
 
@@ -104,7 +104,7 @@ Ahsha and [Sharakas](../../characters/sharakas.md) are blindfolded with grain sa
 
 ### [AA05](../../sessions/AA05.md)
 
-[Ahsha Sallas](../../characters/ahsha-sallas.md) and [Sharakas](../../characters/sharakas.md) are lead into the cave, coming face to face with the [blue kobold](../../lineages/blue-kobold.md) leader, [Ikra](../../characters/ikra.md). When it becomes apparent that he speaks common, Ahsha is able to negotiate herself. She explains that she is here to help protect the forest and wishes to negotiate a peace treaty between the kobolds and the village of [Arnaside](../../places/villages/arnaside.md).
+[Ahsha Sallas](../../characters/ahsha-sallas.md) and [Sharakas](../../characters/sharakas.md) are lead into the cave, coming face to face with the [blue kobold](../../lineages/blue-kobold.md) leader, [Ikra](../../characters/ikra.md). When it becomes apparent that he speaks common, Ahsha is able to negotiate herself. She explains that she is here to help protect the forest and wishes to negotiate a peace treaty between the kobolds and the village of [Arnaside](../../places/settlements/villages/arnaside.md).
 
 She struggles to explain currency and even trade to [Ikra](../../characters/ikra.md), but pushes through the frustration and manages. [Ikra](../../characters/ikra.md) offers first their large polished turquoise gemstone and then their [Blue Dragon Scale Necklace](../../items/magic/blue-dragon-scale-necklace.md) as payment to be left alone indefinitely, but Ahsha refuses, instead asking [Ikra](../../characters/ikra.md) what the kobolds need. They need food and leather to survive.
 
@@ -114,9 +114,9 @@ Meanwhile outside the cave the rest of the party fight a pack of boars including
 
 When Ahsha and [Sharakas](../../characters/sharakas.md) return, they inform the party of the deal. They all make their way back to the logging line where the kobolds show of their territory's boundary. Ahsha gets them to mark the trees to make it clearer, and the cage is installed.
 
-The party head back into [Arnaside](../../places/villages/arnaside.md) and tell [Nenra Zossa](../../characters/nenra-zossa.md) and [Kulegar Bronhor](../../characters/kulegar-bronhor.md) of the deal they've made on their behalf. Nenra is wary, but believes it may work, and is willing to give it a try for the sake of the village. In appreciation of their efforts, the village hold a feast that night for the party.
+The party head back into [Arnaside](../../places/settlements/villages/arnaside.md) and tell [Nenra Zossa](../../characters/nenra-zossa.md) and [Kulegar Bronhor](../../characters/kulegar-bronhor.md) of the deal they've made on their behalf. Nenra is wary, but believes it may work, and is willing to give it a try for the sake of the village. In appreciation of their efforts, the village hold a feast that night for the party.
 
-By morning the party heads off for [Northhaven](../../places/cities/northhaven.md), [Clay Mullen](../../characters/clay-mullen.md) driving the coach they hired once again. It takes them 3 days to return to the city. On their return they spend the night in [The Rose Buckler](../../places/buildings/inns-taverns/the-rose-buckler.md) before they report to [Bryce Morton](../../characters/bryce-morton.md) in the morning. Ahsha works with Bryce to write her mission report before Bryce hands her the squad's earnings for her to pass out.
+By morning the party heads off for [Northhaven](../../places/settlements/cities/northhaven.md), [Clay Mullen](../../characters/clay-mullen.md) driving the coach they hired once again. It takes them 3 days to return to the city. On their return they spend the night in [The Rose Buckler](../../places/buildings/inns-taverns/the-rose-buckler.md) before they report to [Bryce Morton](../../characters/bryce-morton.md) in the morning. Ahsha works with Bryce to write her mission report before Bryce hands her the squad's earnings for her to pass out.
 
 ### [AA06](../../sessions/AA06.md)
 

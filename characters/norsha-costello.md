@@ -9,12 +9,12 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
+| **Places** | [Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md) |
 | | |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Lieutenant](../organisations/government/astorrel/ranks/astorrel-lieutenant.md) |
-| **Role** | Cities / [Northhaven](../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../places/settlements/cities/northhaven.md) |
 | **Commanding Officer** | [Mergin Thorgus](mergin-thorgus.md) |
 | **Subordinates** | [Carras Southroot](carras-southroot.md) |
 |||

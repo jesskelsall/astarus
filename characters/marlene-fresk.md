@@ -18,13 +18,13 @@
 
 ## Summary
 
-Marlene Fresk is a stern and calculating medic assigned to [Blittergate](../places/towns/blittergate.md) as the town medic. She works out of both the [Blittergate Astornox Stronghold](../places/strongholds/blittergate-astornox-stronghold.md), and [Fresk House](../places/buildings/houses/fresk-house.md) where she holds surgery.
+Marlene Fresk is a stern and calculating medic assigned to [Blittergate](../places/settlements/towns/blittergate.md) as the town medic. She works out of both the [Blittergate Astornox Stronghold](../places/settlements/strongholds/blittergate-astornox-stronghold.md), and [Fresk House](../places/buildings/houses/fresk-house.md) where she holds surgery.
 
 ## Military Record
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) | Settlements / [Blittergate](../places/towns/blittergate.md) | [Godrick Becker](godrick-becker.md) ||
+|| [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) | Settlements / [Blittergate](../places/settlements/towns/blittergate.md) | [Godrick Becker](godrick-becker.md) ||
 
 ## Characteristics
 

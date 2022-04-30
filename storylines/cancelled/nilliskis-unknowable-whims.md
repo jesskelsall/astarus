@@ -29,7 +29,7 @@ Noon doesn't pick up the meaning, instead opting to leave the shop for now.
 
 ### [AA12](../../sessions/AA12.md)
 
-When [Canary squad](../../organisations/government/astorrel/squads/canary-squad.md) and [Yialdred Korina](../../characters/yialdred-korina.md) emerge from the [Eskrigg](../../places/cities/eskrigg.md) sewers and leave the custody of [Gwenhwyfar Carew](../../characters/gwenhwyfar-carew.md) via a second Arcane Gate, they take a collective moment to decompress and consider what to do next.
+When [Canary squad](../../organisations/government/astorrel/squads/canary-squad.md) and [Yialdred Korina](../../characters/yialdred-korina.md) emerge from the [Eskrigg](../../places/settlements/cities/eskrigg.md) sewers and leave the custody of [Gwenhwyfar Carew](../../characters/gwenhwyfar-carew.md) via a second Arcane Gate, they take a collective moment to decompress and consider what to do next.
 
 While [Noon Schiller](../../characters/noon-schiller.md) is pacing, [Nills](../../characters/nills.md) appears, leaning against the wall. She is initially silent until Noon uses Awakened Mind to converse with her.
 
@@ -56,7 +56,7 @@ Later, after [Noon Schiller](../../characters/noon-schiller.md) returns to [Schi
 
 ### [AA13](../../sessions/AA13.md)
 
-When [Ephaine Seren](../../characters/ephaine-seren.md) recants her backstory and mentions not knowing what will await her in [Filisur](../../places/villages/filisur.md), [Nills](../../characters/nills.md) chimes in with a cryptic note for [Noon Schiller](../../characters/noon-schiller.md), suggesting she knows what will be found there:
+When [Ephaine Seren](../../characters/ephaine-seren.md) recants her backstory and mentions not knowing what will await her in [Filisur](../../places/settlements/villages/filisur.md), [Nills](../../characters/nills.md) chimes in with a cryptic note for [Noon Schiller](../../characters/noon-schiller.md), suggesting she knows what will be found there:
 
 *[Ephaine Seren](../../characters/ephaine-seren.md):*
 > ...so I'm not sure what's going to be waiting for me there.
@@ -73,7 +73,7 @@ During the night while Ephaine takes watch with Noon, [Nills](../../characters/n
 *[Noon Schiller](../../characters/noon-schiller.md):*
 > We shall see, dear sister.
 
-While riding into the bottom of the [Tresenda Pass](../../places/roads/tresenda-pass.md) valley, [Nills](../../characters/nills.md) appears on the draft horse in front of Noon, speaking of destiny, alluding to [Nills](../../characters/nills.md)' knowledge of what awaits the party in [Filisur](../../places/villages/filisur.md):
+While riding into the bottom of the [Tresenda Pass](../../places/roads/tresenda-pass.md) valley, [Nills](../../characters/nills.md) appears on the draft horse in front of Noon, speaking of destiny, alluding to [Nills](../../characters/nills.md)' knowledge of what awaits the party in [Filisur](../../places/settlements/villages/filisur.md):
 
 *[Nills](../../characters/nills.md):*
 > [Brother light](../../characters/noon-schiller.md), do you believe in destiny?
@@ -101,7 +101,7 @@ While riding into the bottom of the [Tresenda Pass](../../places/roads/tresenda-
 
 ### [AA16](../../sessions/AA16.md)
 
-When [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) arrives in the [Albulain Valley](../../places/plains-valleys/albulain-valley.md) in search of [Kiln Squad](../../organisations/government/astorrel/squads/kiln-squad.md), [Ephaine Seren](../../characters/ephaine-seren.md) leads them towards the Schaef Farmstead, using her knowledge of her home village to guide them. [Nills](../../characters/nills.md) can be seen to [Noon Schiller](../../characters/noon-schiller.md), walking alongside Ephaine for around an hour, exploring the area with her.
+When [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) arrives in the [Albulain Valley](../../places/topography/valleys/albulain-valley.md) in search of [Kiln Squad](../../organisations/government/astorrel/squads/kiln-squad.md), [Ephaine Seren](../../characters/ephaine-seren.md) leads them towards the Schaef Farmstead, using her knowledge of her home village to guide them. [Nills](../../characters/nills.md) can be seen to [Noon Schiller](../../characters/noon-schiller.md), walking alongside Ephaine for around an hour, exploring the area with her.
 
 That evening the party head up to the Shine to the Stars, led once again by Ephaine, at the suggestion of [Schaef Seren](../../characters/schaef-seren.md). Once there they look upon the ancient standing stones, curiously trying to figure out their nature while Ephaine rediscovers this place of power that she was once familiar with.
 
@@ -125,7 +125,7 @@ When Ephaine activates Starry Form: Archer to activate the shrine, [Nills](../..
 
 ### [AA17](../../sessions/AA17.md)
 
-While [Canary squad](../../organisations/government/astorrel/squads/canary-squad.md) rests in [Devdaha Crypt](../../places/dungeons/devdaha-crypt.md) outside of the door to the chalice trial, [Noon Schiller](../../characters/noon-schiller.md) is on watch while everyone else sleeps. [Nills](../../characters/nills.md) appears to him, intentionally positioning himself between Noon and the doorway.
+While [Canary squad](../../organisations/government/astorrel/squads/canary-squad.md) rests in [Devdaha Crypt](../../places/structures/dungeons/devdaha-crypt.md) outside of the door to the chalice trial, [Noon Schiller](../../characters/noon-schiller.md) is on watch while everyone else sleeps. [Nills](../../characters/nills.md) appears to him, intentionally positioning himself between Noon and the doorway.
 
 *[Nills](../../characters/nills.md):*
 > So [Brother Light](../../characters/noon-schiller.md), what do you make of all of this?
@@ -145,6 +145,6 @@ Noon shrugs, dismissive of the question, suggesting it is his usual nature to un
 
 ## Planning
 
-[Nilliski](../../characters/nilliski.md) was pushing Noon towards helping [Ephaine Seren](../../characters/ephaine-seren.md) discover and battle through [Devdaha Crypt](../../places/dungeons/devdaha-crypt.md), already knowing that its end would see Ephaine transported backwards through time, returning with a magical staff. [Nilliski](../../characters/nilliski.md) through [Nills](../../characters/nills.md) would then get Noon to take it for himself in order to unleash [Nills](../../characters/nills.md)' full power.
+[Nilliski](../../characters/nilliski.md) was pushing Noon towards helping [Ephaine Seren](../../characters/ephaine-seren.md) discover and battle through [Devdaha Crypt](../../places/structures/dungeons/devdaha-crypt.md), already knowing that its end would see Ephaine transported backwards through time, returning with a magical staff. [Nilliski](../../characters/nilliski.md) through [Nills](../../characters/nills.md) would then get Noon to take it for himself in order to unleash [Nills](../../characters/nills.md)' full power.
 
 The plans for this storyline were heavily reliant on 

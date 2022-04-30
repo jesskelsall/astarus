@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | The Corner House | place.4
 | **Type** | Inn |
-| **Location** | [Dünnesland](../../towns/dunnesland.md) |
+| **Location** | [Dünnesland](../../settlements/towns/dunnesland.md) |
 | **Nearby Places** | [The Brew's Lair](the-brews-lair.md)<br>[Ziegenturm](ziegenturm.md) |
 | **People** | [Updraft](../../../characters/updraft.md) (patron)<br>[Fritzi](../../../characters/fritzi.md) (roaming dog) |
 
 ## Summary
 
-The Corner House is an upmarket inn in the centre of [Dünnesland](../../towns/dunnesland.md). It prides itself on having the only tavern in the *Bierstadt* to serve both [Dragonbrew](../../../organisations/business/dragonbrew.md) and [Ziegenkrone](../../../organisations/business/ziegenkrone.md) ale.
+The Corner House is an upmarket inn in the centre of [Dünnesland](../../settlements/towns/dunnesland.md). It prides itself on having the only tavern in the *Bierstadt* to serve both [Dragonbrew](../../../organisations/business/dragonbrew.md) and [Ziegenkrone](../../../organisations/business/ziegenkrone.md) ale.
 
 ## Etymology
 

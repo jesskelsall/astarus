@@ -7,13 +7,13 @@
 
 ## Summary
 
-Finding [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) in possession of the party in [Côtedouce](../places/towns/cotedouce.md), the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) work to recover an artifact of the Elves of Chausain that they consider to be their heritage and property.
+Finding [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) in possession of the party in [Côtedouce](../places/settlements/towns/cotedouce.md), the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) work to recover an artifact of the Elves of Chausain that they consider to be their heritage and property.
 
 ## History
 
 ### [MC03](../sessions/MC03.md)
 
-When the party stroll into [Côtedouce](../places/towns/cotedouce.md), they are stopped at a [Republic Guard](../organisations/guards/republic-guard.md) checkpoint and their possessions are searched. This is a routine stop that they are allowed to do due to the agreement between [Reimatelau](../civilisations/nilsavnic-alliance/states/reimatelau.md) and the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) over guard duties in the town.
+When the party stroll into [Côtedouce](../places/settlements/towns/cotedouce.md), they are stopped at a [Republic Guard](../organisations/guards/republic-guard.md) checkpoint and their possessions are searched. This is a routine stop that they are allowed to do due to the agreement between [Reimatelau](../civilisations/nilsavnic-alliance/states/reimatelau.md) and the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) over guard duties in the town.
 
 One of the guards discovers [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) on [Vētrall Astérr](../characters/vetrall-asterr.md), hidden in a lead lined box. The alarm is raised and before they know it, they are all under arrest for smuggling and possessing an ancient artifact. The statement shocks the entire party, most not even knowing that Vētrall possessed the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md).
 
@@ -25,7 +25,7 @@ After escaping, [Grouper](../characters/grouper.md) pulls the party into a build
 
 ### Between Sessions
 
-[Republic Guards](../organisations/guards/republic-guard.md) relay the existence of a [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md) to their superiors in the republic via the Sending spell. They also provide descriptions of all four members of the party. An effort by the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) begins to locate the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md). Elements of the Veritacris spring into action, beginning their journey to [Côtedouce](../places/towns/cotedouce.md).
+[Republic Guards](../organisations/guards/republic-guard.md) relay the existence of a [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md) to their superiors in the republic via the Sending spell. They also provide descriptions of all four members of the party. An effort by the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) begins to locate the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md). Elements of the Veritacris spring into action, beginning their journey to [Côtedouce](../places/settlements/towns/cotedouce.md).
 
 ### [MC04](../sessions/MC04.md)
 

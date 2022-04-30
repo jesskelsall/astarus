@@ -22,7 +22,7 @@
 
 Clay Mullen is a coach driver available for hire.
 
-He typically works between the cities of [Northhaven](../places/cities/northhaven.md) and [Eskrigg](../places/cities/eskrigg.md), but finds the work dull and is happy to be hired to different places providing he knows the roads well enough.
+He typically works between the cities of [Northhaven](../places/settlements/cities/northhaven.md) and [Eskrigg](../places/settlements/cities/eskrigg.md), but finds the work dull and is happy to be hired to different places providing he knows the roads well enough.
 
 His horse is called Secret.
 

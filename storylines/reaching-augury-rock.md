@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Allisa Balsatra](../characters/allisa-balsatra.md)'s deva [Minsas](../characters/minsas.md) wants her to bring [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) to [Augury Rock](../places/structures/augury-rock.md). Allisa suspects that this will allow the pair to speak directly to their devas, much like she once did.
+[Allisa Balsatra](../characters/allisa-balsatra.md)'s deva [Minsas](../characters/minsas.md) wants her to bring [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) and [Thanea Morlay](../characters/thanea-morlay.md) to [Augury Rock](../places/topography/landmarks/augury-rock.md). Allisa suspects that this will allow the pair to speak directly to their devas, much like she once did.
 
 ## History
 
@@ -19,7 +19,7 @@
 
 Following [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) meeting with [Allisa Balsatra](../characters/allisa-balsatra.md) in combat, the three [aasimar](../lineages/aasimar.md) are able to talk together for the first time.
 
-While recanting her story and experiences of her deva, [Minsas](../characters/minsas.md), Allisa explains that they lead her to [Augury Rock](../places/structures/augury-rock.md) using deva dreams. Once here she was able to speak to them for the first time. Here they implored her to find the other [aasimar](../lineages/aasimar.md) and bring them back to this place. Allisa isn't sure why exactly, but their recent dream together ([Shared Deva Dream 1](../dreams/deva-shared-1.md)) suggests it involves all three of them. Allisa wonders if they'll be able to speak to [Minsas](../characters/minsas.md) themselves once there.
+While recanting her story and experiences of her deva, [Minsas](../characters/minsas.md), Allisa explains that they lead her to [Augury Rock](../places/topography/landmarks/augury-rock.md) using deva dreams. Once here she was able to speak to them for the first time. Here they implored her to find the other [aasimar](../lineages/aasimar.md) and bring them back to this place. Allisa isn't sure why exactly, but their recent dream together ([Shared Deva Dream 1](../dreams/deva-shared-1.md)) suggests it involves all three of them. Allisa wonders if they'll be able to speak to [Minsas](../characters/minsas.md) themselves once there.
 
 Allisa is under no illusions that getting [Thanea Morlay](../characters/thanea-morlay.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) to the middle of the Kas'ran Desert is a near impossible feat due to them being part of the [Astorrel](../organisations/government/astorrel/astorrel.md). Saoirse suggests that [Elysia Vanderboss](../characters/elysia-vanderboss.md) could make them spies, but Allisa rubbishes this idea, revealing that the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md)'s spies are called the [Astornos](../organisations/government/astornos.md), and that even knowing about them puts them at great risk.
 
@@ -27,7 +27,7 @@ Thanea expresses a desire to accompany Saoirse there, suggesting they may be abl
 
 ### [PR46](../sessions/PR46.md)
 
-While ascending the hill to [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), [Allisa Balsatra](../characters/allisa-balsatra.md) tells [Torbra Tauff](../characters/torbra-tauff.md) that she would like to take [Thanea Morlay](../characters/thanea-morlay.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) to [Augury Rock](../places/structures/augury-rock.md) at some point in the future. Noting that Torbra is the [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md), Allisa asks if that would be okay, offering to get in touch with her when the time is right. Torbra gives her approval providing Torbra agrees and it does not disrupt their [Astorrel](../organisations/government/astorrel/astorrel.md) missions.
+While ascending the hill to [Upper Tresenda](../places/topography/valleys/upper-tresenda.md), [Allisa Balsatra](../characters/allisa-balsatra.md) tells [Torbra Tauff](../characters/torbra-tauff.md) that she would like to take [Thanea Morlay](../characters/thanea-morlay.md) and [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) to [Augury Rock](../places/topography/landmarks/augury-rock.md) at some point in the future. Noting that Torbra is the [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md), Allisa asks if that would be okay, offering to get in touch with her when the time is right. Torbra gives her approval providing Torbra agrees and it does not disrupt their [Astorrel](../organisations/government/astorrel/astorrel.md) missions.
 
 Just before this, Allisa speaks with [Lucia Velpione](../characters/lucia-velpione.md), asking what she could do for her in exchange for her keeping the two [aasimar](../lineages/aasimar.md) safe. [Luna](../characters/lucia-velpione.md) asks for a magically enhanced rapier, knowing that such things exist. Allisa accepts, telling [Luna](../characters/lucia-velpione.md) that she could acquire such a thing with her Veritacris connections, and will provide her with it if the pair are kept safe and she doesn't cause them any trouble. [Luna](../characters/lucia-velpione.md) is dismissive of the notion of causing them trouble.
 
@@ -35,6 +35,6 @@ Allisa also strikes a deal with [Torbra Tauff](../characters/torbra-tauff.md), o
 
 ## Planning
 
-[Allisa Balsatra](../characters/allisa-balsatra.md) will try and get the party to [Augury Rock](../places/structures/augury-rock.md). She could take them directly across the Kas'ran Desert, or teleport them there via a colleague, providing they are able to find or construct a teleportation circle to receive them from.
+[Allisa Balsatra](../characters/allisa-balsatra.md) will try and get the party to [Augury Rock](../places/topography/landmarks/augury-rock.md). She could take them directly across the Kas'ran Desert, or teleport them there via a colleague, providing they are able to find or construct a teleportation circle to receive them from.
 
 Once there, both Saoirse and Thanea will see and speak to their devas, asking them whatever they wish. They will both ask the three [aasimar](../lineages/aasimar.md) to restore radiance to Saoirse.

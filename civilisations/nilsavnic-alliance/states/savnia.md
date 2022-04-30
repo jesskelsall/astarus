@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Capital City** | [Arrepont](../../../places/cities/arrepont.md) | civilisation.2
+| **Capital City** | [Arrepont](../../../places/settlements/cities/arrepont.md) | civilisation.2
 | **Official Languages** | |
 | **Ethnic Groups** | |
 | **Religion** | |
@@ -22,7 +22,7 @@
 
 ## Summary
 
-One of the two founding states of the [Nil'Savnic alliance](../nilsavnic-alliance.md). Savnia was created by force when following [The Third Coming](../../../history/events/the-third-coming.md), the arriving races sought territory to the south of [Arrepont](../../../places/cities/arrepont.md), displacing the elves who had called these lands home for thousands of years.
+One of the two founding states of the [Nil'Savnic alliance](../nilsavnic-alliance.md). Savnia was created by force when following [The Third Coming](../../../history/events/the-third-coming.md), the arriving races sought territory to the south of [Arrepont](../../../places/settlements/cities/arrepont.md), displacing the elves who had called these lands home for thousands of years.
 
 Following the founding of the alliance and the inclusion of [Reimatelau](reimatelau.md), Savnia is now known as the administrative capital of the alliance.
 
@@ -30,7 +30,7 @@ Following the founding of the alliance and the inclusion of [Reimatelau](reimate
 
 | Type | Savnia |
 | --- | --- |
-| City | [Arrepont](../../../places/cities/arrepont.md) (capital) |
+| City | [Arrepont](../../../places/settlements/cities/arrepont.md) (capital) |
 | Town | |
 | Village | |
 | Fort | |
@@ -38,4 +38,4 @@ Following the founding of the alliance and the inclusion of [Reimatelau](reimate
 | Forest | |
 | Rivers & Lakes | |
 | Mountains | |
-| Seas & Oceans | [Gulf of Tanelle](../../../places/seas-oceans/gulf-of-tanelle.md) |
+| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-oceans/gulf-of-tanelle.md) |

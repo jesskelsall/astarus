@@ -33,7 +33,7 @@ Later on [the Maiden's Accompaniment](../places/ships/the-maidens-accompaniment.
 
 ### [PR37](../sessions/PR37.md)
 
-With her downtime in [Northhaven](../places/cities/northhaven.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) convinces [Tydrus Tinshield](../characters/tydrus-tinshield.md) to let her run a riddle game in [the Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md). He allows her to place an advert outside on a chalkboard, advertising an 8 gp prize for anyone who can guess her riddle.
+With her downtime in [Northhaven](../places/settlements/cities/northhaven.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) convinces [Tydrus Tinshield](../characters/tydrus-tinshield.md) to let her run a riddle game in [the Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md). He allows her to place an advert outside on a chalkboard, advertising an 8 gp prize for anyone who can guess her riddle.
 
 Initially this drums up little interest, but by afternoon Saoirse sees a steady stream of guessers. None of the guesses fully satisfy her, so she never gives the prize out. At the end of the day Tydrus asks her if the whole thing was a scam, but Saoirse tells him that nobody guessed correctly. Tydrus keeps Saoirse's 4 gp and his own 4 gp which he contributed.
 

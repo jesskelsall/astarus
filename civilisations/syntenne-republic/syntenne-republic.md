@@ -11,7 +11,7 @@
 | **Demonyms** | Syntenni |
 | **Government** | Republic |
 | **Leader** | |
-| **Territories** | South [Kardan](../../places/continents/kardan.md) |
+| **Territories** | South [Kardan](../../places/topography/continents-islands/kardan.md) |
 | **Founded** | |
 | **Neighbours** | [Kavallos Fleet](../kavallos-fleet/kavallos-fleet.md) (north west)<br>[Kingdom of Astor](../kingdom-of-astor/kingdom-of-astor.md) (north east)<br>[Nil'Savnic Alliance](../nilsavnic-alliance/nilsavnic-alliance.md) (north) |
 | **Alliances** | |
@@ -22,6 +22,6 @@
 
 ## Summary
 
-The Syntenne Republic is a republic comprised predominantly of elves, located in South [Kardan](../../places/continents/kardan.md).
+The Syntenne Republic is a republic comprised predominantly of elves, located in South [Kardan](../../places/topography/continents-islands/kardan.md).
 
 They worship [Malnesh](../../gods/deities/malnesh.md).

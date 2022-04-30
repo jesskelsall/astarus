@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Squad Name** | Pillar Squad | squad.2
-| **Role** | Cities / [Northhaven](../../../../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../../../../places/settlements/cities/northhaven.md) |
 | **Commanding Officer** | |
 | **Squad Lead** | |
 | **Squad Hands** | |

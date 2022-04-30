@@ -13,7 +13,7 @@
 | **Background** | Criminal / Spy |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | |
-| **Places** | [Northhaven](../places/cities/northhaven.md) (birthplace) |
+| **Places** | [Northhaven](../places/settlements/cities/northhaven.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -27,7 +27,7 @@ Penance Zahiri is an excitable and social tiefling with a dark past, now part of
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -65,7 +65,7 @@ Penance Zahiri is an excitable and social tiefling with a dark past, now part of
 
 ## History
 
-Penance grew up on the streets of [Northhaven](../places/cities/northhaven.md), stealing and starting fights. Eventually their reputation allowed them to take a position as a smuggler moving contraband in and out of the city - most notably [magicborn](../civilisations/kingdom-of-astor/magicborn.md) children. Penance claims that one night they were visited by [Bhygar](../gods/deities/bhygar.md) who gave them their powers and instructed them to live their life more fully, and inspire others to do the same. They changed their name and applied to the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme at age 19, honing their paladin powers as they trained.
+Penance grew up on the streets of [Northhaven](../places/settlements/cities/northhaven.md), stealing and starting fights. Eventually their reputation allowed them to take a position as a smuggler moving contraband in and out of the city - most notably [magicborn](../civilisations/kingdom-of-astor/magicborn.md) children. Penance claims that one night they were visited by [Bhygar](../gods/deities/bhygar.md) who gave them their powers and instructed them to live their life more fully, and inspire others to do the same. They changed their name and applied to the [Astorrel](../organisations/government/astorrel/astorrel.md) recruitment programme at age 19, honing their paladin powers as they trained.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 

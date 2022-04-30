@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Fresk House | place.4
 | **Type** | House |
-| **Location** | [Blittergate](../../towns/blittergate.md) |
-| **Nearby Places** | [Blittergate Astornox Stronghold](../../strongholds/blittergate-astornox-stronghold.md)<br>[Gate to the West](../inns-taverns/gate-to-the-west.md)<br>[The Courteous Cow](../inns-taverns/the-courteous-cow.md) |
+| **Location** | [Blittergate](../../settlements/towns/blittergate.md) |
+| **Nearby Places** | [Blittergate Astornox Stronghold](../../settlements/strongholds/blittergate-astornox-stronghold.md)<br>[Gate to the West](../inns-taverns/gate-to-the-west.md)<br>[The Courteous Cow](../inns-taverns/the-courteous-cow.md) |
 | **People** | [Marlene Fresk](../../../characters/marlene-fresk.md) (owner) |
 
 ## Summary
 
-Fresk House is the home of [Marlene Fresk](../../../characters/marlene-fresk.md) and the de-facto doctor's surgery in [Blittergate](../../towns/blittergate.md).
+Fresk House is the home of [Marlene Fresk](../../../characters/marlene-fresk.md) and the de-facto doctor's surgery in [Blittergate](../../settlements/towns/blittergate.md).
 
 ### Interior
 

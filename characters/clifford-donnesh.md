@@ -41,4 +41,4 @@ Clifford Donnesh is a stable hand at [Northhaven Stables North](../places/buildi
 
 ## History
 
-Clifford injured his leg when he was thrown from his horse in a cart collision in [Northhaven](../places/cities/northhaven.md). His horse had to be put down due to its wounds.
+Clifford injured his leg when he was thrown from his horse in a cart collision in [Northhaven](../places/settlements/cities/northhaven.md). His horse had to be put down due to its wounds.

@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Friend of the Magicborn |
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../streets/crafters-course.md)<br>[Sunset District](../../districts/sunset-district.md)<br>[Northhaven](../../cities/northhaven.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
 | **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
 | **People** | [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md) |
 
 ## Summary
 
-Friend of the Magicborn is a magical item shop on [Crafters Course](../../streets/crafters-course.md) in the [Sunset District](../../districts/sunset-district.md) of [Northhaven](../../cities/northhaven.md). It is owned by [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md).
+Friend of the Magicborn is a magical item shop on [Crafters Course](../../settlements/streets/crafters-course.md) in the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md). It is owned by [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md).
 
 A wooden storefront facade, intricately carved to provide reliefs of trees either side of the windows. Vines grow up the woodwork from planters below, White and pink flowers adorn the vines.
 

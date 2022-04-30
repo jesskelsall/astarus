@@ -12,4 +12,4 @@
 
 Temple of the Sailor is [the Order of the Diamond](../../../organisations/the-order-of-the-diamond.md) temple in Port Soderick.
 
-It represents the various sailors that work diligently to include [Kardanis](../../regions/kardanis.md) in the administration and culture of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
+It represents the various sailors that work diligently to include [Kardanis](../../topography/continents-islands/kardanis.md) in the administration and culture of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md).

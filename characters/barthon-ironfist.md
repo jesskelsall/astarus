@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Eskrigg](../places/cities/eskrigg.md) |
+| **Places** | [Eskrigg](../places/settlements/cities/eskrigg.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Barthon Ironfist is a dwarf involved in the pit fighting scene in [Eskrigg](../places/cities/eskrigg.md). Previously a pit fighter himself, he retired to find and train the next generation of fighters to make his fortune.
+Barthon Ironfist is a dwarf involved in the pit fighting scene in [Eskrigg](../places/settlements/cities/eskrigg.md). Previously a pit fighter himself, he retired to find and train the next generation of fighters to make his fortune.
 
 ## Characteristics
 
@@ -41,7 +41,7 @@ Barthon Ironfist is a dwarf involved in the pit fighting scene in [Eskrigg](../p
 
 ## History
 
-He found [Ahsha Sallas](ahsha-sallas.md) in [Mockerkin](../places/towns/mockerkin.md), fighting (and winning) against anyone who got in her way, and offered to take her to [Eskrigg](../places/cities/eskrigg.md) where she would become a pit fighter.
+He found [Ahsha Sallas](ahsha-sallas.md) in [Mockerkin](../places/settlements/towns/mockerkin.md), fighting (and winning) against anyone who got in her way, and offered to take her to [Eskrigg](../places/settlements/cities/eskrigg.md) where she would become a pit fighter.
 
 Barthon spent several years training Ahsha in the ways of pit fighting, particularly fist fighting, his specialty.
 

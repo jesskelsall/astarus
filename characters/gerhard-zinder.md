@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Fritzi](fritzi.md) (companion dog) |
-| **Places** | [Dünnesland](../places/towns/dunnesland.md) |
+| **Places** | [Dünnesland](../places/settlements/towns/dunnesland.md) |
 | **Citizenship** | [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Organisation(s)** | |
 |||
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Gerhard Zinder is the Lord of [Dünnesland](../places/towns/dunnesland.md), a recluse that spends more time on his hobbies than tending to his town.
+Gerhard Zinder is the Lord of [Dünnesland](../places/settlements/towns/dunnesland.md), a recluse that spends more time on his hobbies than tending to his town.
 
 ## Characteristics
 

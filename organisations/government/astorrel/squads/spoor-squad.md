@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Spoor Squad | squad.2
-| **Role** | Urban Expansion / [Ulburn](../../../../places/villages/ulburn.md) |
+| **Role** | Urban Expansion / [Ulburn](../../../../places/settlements/villages/ulburn.md) |
 | **Commanding Officer** | [Linton Harkness](../../../../characters/linton-harkness.md) |
 | **Squad Lead** | [Trynelle Mildrabbit](../../../../characters/trynelle-mildrabbit.md) |
 | **Squad Hands** | |
@@ -14,9 +14,9 @@
 
 ## Summary
 
-Spoor Squad is based in [Ulburn](../../../../places/villages/ulburn.md) at the [Ulburn Astorrel House](../../../../places/buildings/ulburn-astorrel-house.md), working alongside [Goshawk Squad](goshawk-squad.md) for [Kasston Tosslefront](../../../../characters/kasston-tosslefront.md), the Major of Urban Expansion.
+Spoor Squad is based in [Ulburn](../../../../places/settlements/villages/ulburn.md) at the [Ulburn Astorrel House](../../../../places/buildings/government/ulburn-astorrel-house.md), working alongside [Goshawk Squad](goshawk-squad.md) for [Kasston Tosslefront](../../../../characters/kasston-tosslefront.md), the Major of Urban Expansion.
 
-They are ensuring that the recent growth of [Ulburn](../../../../places/villages/ulburn.md) isn't having too great an effect on the surrounding ecology.
+They are ensuring that the recent growth of [Ulburn](../../../../places/settlements/villages/ulburn.md) isn't having too great an effect on the surrounding ecology.
 
 ## Changes
 

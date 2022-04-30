@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | The Quail's Nest | place.4
 | **Type** | Inn |
-| **Location** | [Kulevi](../../towns/kulevi.md)<br>[Bay of Splendour](../../../civilisations/nilsavnic-alliance/states/bay-of-splendour.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Location** | [Kulevi](../../settlements/towns/kulevi.md)<br>[Bay of Splendour](../../../civilisations/nilsavnic-alliance/states/bay-of-splendour.md)<br>[Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Nearby Places** | |
 | **People** | |
 
 ## Summary
 
-The Quail's Nest is an inn in [Kulevi](../../towns/kulevi.md).
+The Quail's Nest is an inn in [Kulevi](../../settlements/towns/kulevi.md).
 
 ### Interior
 

@@ -11,7 +11,7 @@
 | **Class** | Druid (Circle of the Stars) |
 | **Worship** | [Pajaru](../gods/deities/kaldoon.md) |
 | **Relations** | |
-| **Places** | [Devdaha](../places/villages/devdaha.md) |
+| **Places** | [Devdaha](../places/settlements/villages/devdaha.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

@@ -26,8 +26,8 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Dolphin Squad](../organisations/government/astorrel/squads/dolphin-squad.md) | [Emdar Silverstrike](emdar-silverstrike.md) ||
-| [AA07](../sessions/AA07.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
+|| [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Dolphin Squad](../organisations/government/astorrel/squads/dolphin-squad.md) | [Emdar Silverstrike](emdar-silverstrike.md) ||
+| [AA07](../sessions/AA07.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -50,19 +50,19 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 ## History
 
-Noon was born in Ballabeg (publicly: Baldrine) into the [Schiller family](../organisations/schiller-family.md), a wealthy and powerful family on [Kardanis](../places/regions/kardanis.md). As the family heir, Noon was infused with [Nills](nills.md) (an aspect of [Nilliski](nilliski.md)) prior to his birth in a blood ritual conducted by his family, honouring the pact that the Schillers made with [Nilliski](nilliski.md) generations ago.
+Noon was born in Ballabeg (publicly: Baldrine) into the [Schiller family](../organisations/schiller-family.md), a wealthy and powerful family on [Kardanis](../places/topography/continents-islands/kardanis.md). As the family heir, Noon was infused with [Nills](nills.md) (an aspect of [Nilliski](nilliski.md)) prior to his birth in a blood ritual conducted by his family, honouring the pact that the Schillers made with [Nilliski](nilliski.md) generations ago.
 
 From a young age [Nills](nills.md), who calls Noon *Brother Light*, helped Noon master her magic that flows within him, manifesting as magical powers. The pair grew closer, [Nills](nills.md) helping Noon navigate early life choices and proving trustworthy. Noon came to understand that [Nills](nills.md) was worth listening to, eventually seeing her orders and suggestions as his own.
 
 Once old enough, [Nills](nills.md) instructed Noon to leave home and join the [Astornox](../organisations/government/astornox/astornox.md). Noon presented this decision publicly as a desire to forge his own path and get out from under his family's shadow. While Noon claims to agree with the goals of the [Astorrel](../organisations/government/astorrel/astorrel.md), he is actually indifferent to [Kirrel](../gods/deities/kirrel.md)'s teachings and finds the military organisation beneath him.
 
-Noon convinced the [Astorrel](../organisations/government/astorrel/astorrel.md) to hire him by demonstrating his magic. He demonstrated his magic on a brick wall outside the [Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md), destroying it with the help of extra magical energy contributed by [Nills](nills.md). This was enough to convince the [Astorrel](../organisations/government/astorrel/astorrel.md) to train him.
+Noon convinced the [Astorrel](../organisations/government/astorrel/astorrel.md) to hire him by demonstrating his magic. He demonstrated his magic on a brick wall outside the [Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md), destroying it with the help of extra magical energy contributed by [Nills](nills.md). This was enough to convince the [Astorrel](../organisations/government/astorrel/astorrel.md) to train him.
 
-While training in and around [Dunmore](../places/cities/dunmore.md), Noon showed excellent academic knowledge, needing little training in that regard. Instead Noon spent his 2 years of training outdoors with his mentor, learning about nature and how to protect it first-hand. Noon found this incredibly dull but persevered at [Nills](nills.md)' request.
+While training in and around [Dunmore](../places/settlements/cities/dunmore.md), Noon showed excellent academic knowledge, needing little training in that regard. Instead Noon spent his 2 years of training outdoors with his mentor, learning about nature and how to protect it first-hand. Noon found this incredibly dull but persevered at [Nills](nills.md)' request.
 
 ### Prior to Introduction
 
-During [Dolphin Squad](../organisations/government/astorrel/squads/dolphin-squad.md)'s first mission (Survey Fish in [Picdale Water](../places/rivers-lakes/picdale-water.md)), Noon antagonised [Dust of Chalk](dust-of-chalk.md) over their metalworking rivalries: Noon is part of the [Schiller Family](../organisations/schiller-family.md) who operate out of Baldrine and extract high quality metal from mines at Ballabeg, while [Dust of Chalk](dust-of-chalk.md) is from Mossband, a small mining village. The quality of the [Schiller Family](../organisations/schiller-family.md)'s metal has made trade difficult for the Mossband villagers, making their lives harder.
+During [Dolphin Squad](../organisations/government/astorrel/squads/dolphin-squad.md)'s first mission (Survey Fish in [Picdale Water](../places/topography/rivers-lakes/picdale-water.md)), Noon antagonised [Dust of Chalk](dust-of-chalk.md) over their metalworking rivalries: Noon is part of the [Schiller Family](../organisations/schiller-family.md) who operate out of Baldrine and extract high quality metal from mines at Ballabeg, while [Dust of Chalk](dust-of-chalk.md) is from Mossband, a small mining village. The quality of the [Schiller Family](../organisations/schiller-family.md)'s metal has made trade difficult for the Mossband villagers, making their lives harder.
 
 [Dust of Chalk](dust-of-chalk.md) took this personally, and Noon inflamed tensions by making occasional cryptic snide remarks. Eventually Dust had enough and lashed out at Noon. Noon played the victim and spun the events to his favour.
 

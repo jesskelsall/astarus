@@ -3,7 +3,7 @@
 | []() | |
 | --- | --- |
 | **Squad Name** | Canary Squad | squad.2
-| **Role** | Cities / [Northhaven](../../../../places/cities/northhaven.md) |
+| **Role** | Cities / [Northhaven](../../../../places/settlements/cities/northhaven.md) |
 | **Commanding Officer** | [Bryce Morton](../../../../characters/bryce-morton.md) |
 | **Squad Lead** | TBD |
 | **Squad Hands** | [Ahsha Sallas](../../../../characters/ahsha-sallas.md)<br>[Ephaine Seren](../../../../characters/ephaine-seren.md)<br>[Noon Schiller](../../../../characters/noon-schiller.md)<br>[Yialdred Korina](../../../../characters/yialdred-korina.md) |

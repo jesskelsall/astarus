@@ -11,12 +11,12 @@
 | **Class** | Bard |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) |
 | **Relations** | |
-| **Places** | [Ulburn Astorrel House](../places/buildings/ulburn-astorrel-house.md) |
+| **Places** | [Ulburn Astorrel House](../places/buildings/government/ulburn-astorrel-house.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) |
-| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) |
+| **Role** | Urban Expansion / [Ulburn](../places/settlements/villages/ulburn.md) / [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md) |
 | **Commanding Officer** | [Linton Harkness](linton-harkness.md) |
 | **Subordinates** | |
 |||

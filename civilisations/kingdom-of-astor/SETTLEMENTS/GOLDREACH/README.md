@@ -7,7 +7,7 @@
 | **Population** | |
 | **Civilisation** | [Kingdom of Astor](../../kingdom-of-astor.md) |
 | **Administrative Region** | [Northern Astor](../../../../places/regions/northern-astor.md) |
-| **Region** | [South East Kardan](../../../../places/regions/south-east-kardan.md) |
+| **Region** | Southeastern Kardan |
 | **Continent** | [Kardan](../../../../places/continents/kardan.md) |
 | **Travel Connections** | [Northern Road](../../../../places/roads/northern-road.md)<br>Hawksway<br>[Grasthwaite Bend](../../../../places/roads/grasthwaite-bend.md) |
 | **Neighbouring Settlements** | [Beckermet](../../../../places/towns/beckermet.md)<br>Hawksglass<br>Langtock |

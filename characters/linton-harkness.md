@@ -11,12 +11,12 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Auric Rise](../places/buildings/auric-rise.md)<br>[Northhaven Astorrel Stronghold](../places/strongholds/northhaven-astorrel-stronghold.md) |
+| **Places** | [Auric Rise](../places/buildings/government/auric-rise.md)<br>[Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 | **Rank** | [Astorrel Squad Sergeant](../organisations/government/astorrel/ranks/astorrel-squad-sergeant.md) |
-| **Role** | Urban Expansion / [Ulburn](../places/villages/ulburn.md) |
+| **Role** | Urban Expansion / [Ulburn](../places/settlements/villages/ulburn.md) |
 | **Commanding Officer** | [Kasston Tosslefront](kasston-tosslefront.md) |
 | **Subordinates** | [Goshawk Squad](../organisations/government/astorrel/squads/goshawk-squad.md)<br>[Spoor Squad](../organisations/government/astorrel/squads/spoor-squad.md) |
 |||

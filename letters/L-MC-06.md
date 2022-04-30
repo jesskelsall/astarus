@@ -30,7 +30,7 @@
 >
 > In truth I have no idea what it is or does.
 >
-> When I was still a young adventurer I was asked to investigate a murder while in [Arrepont](../places/cities/arrepont.md). A noble elf called [Guillaume Ashshard](../characters/guillaume-ashshard.md) had been murdered in his home. I was able to track down the killer, a returner.  
+> When I was still a young adventurer I was asked to investigate a murder while in [Arrepont](../places/settlements/cities/arrepont.md). A noble elf called [Guillaume Ashshard](../characters/guillaume-ashshard.md) had been murdered in his home. I was able to track down the killer, a returner.  
 > He refused to back down when I confronted him.  
 > He left me no choice but to end his days.  
 > I still regret what I did.

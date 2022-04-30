@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Nacnar Morwesyrr](nacnar-morwesyrr.md) (friend) |
-| **Places** | [Hochwald](../places/cities/hochwald.md) |
+| **Places** | [Hochwald](../places/settlements/cities/hochwald.md) |
 | **Citizenship** | [Valburg](../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Organisation(s)** | |
 |||
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Disanz Brickbrow is a jovial dwarf who enjoys her drinking, gaining her a reputation amongst inns and taverns in [Hochwald](../places/cities/hochwald.md). She is friends with [Nacnar Morwesyrr](nacnar-morwesyrr.md).
+Disanz Brickbrow is a jovial dwarf who enjoys her drinking, gaining her a reputation amongst inns and taverns in [Hochwald](../places/settlements/cities/hochwald.md). She is friends with [Nacnar Morwesyrr](nacnar-morwesyrr.md).
 
 ## Characteristics
 

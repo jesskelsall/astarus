@@ -8,13 +8,13 @@
 | **Civilisation** | [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Leader** | |
 | **Patron(s)** | |
-| **Location(s)** | [Murkwallow](../../places/cities/murkwallow.md) (home city)<br>[Tabaxi's Folly](../../places/buildings/tabaxis-folly.md) (headquarters) |
+| **Location(s)** | [Murkwallow](../../places/settlements/cities/murkwallow.md) (home city)<br>[Tabaxi's Folly](../../places/buildings/tabaxis-folly.md) (headquarters) |
 |||
 | **Image ID** | `a8d1966f55290623` |
 
 ## Summary
 
-The Marsh Skimmers are a criminal syndicate that helped found the city of [Murkwallow](../../places/cities/murkwallow.md) in the [Scintil Delta](../../places/rivers-lakes/scintil-delta.md). They have grown into a large organisation that spans the entire [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), following profit wherever they can find it.
+The Marsh Skimmers are a criminal syndicate that helped found the city of [Murkwallow](../../places/settlements/cities/murkwallow.md) in the [Scintil Delta](../../places/topography/rivers-lakes/scintil-delta.md). They have grown into a large organisation that spans the entire [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), following profit wherever they can find it.
 
 ## Imagery
 
@@ -70,6 +70,6 @@ Due to the rise of songbirds within the Marsh Skimmers, some guard forces (notab
 
 ### Contacts
 
-- [Creek](../../characters/creek.md) ([Murkwallow](../../places/cities/murkwallow.md))
-- [Crucible](../../characters/crucible.md) ([Starnov](../../places/cities/starnov.md))
-- [Grouper](../../characters/grouper.md) ([Côtedouce](../../places/towns/cotedouce.md))
+- [Creek](../../characters/creek.md) ([Murkwallow](../../places/settlements/cities/murkwallow.md))
+- [Crucible](../../characters/crucible.md) ([Starnov](../../places/settlements/cities/starnov.md))
+- [Grouper](../../characters/grouper.md) ([Côtedouce](../../places/settlements/towns/cotedouce.md))

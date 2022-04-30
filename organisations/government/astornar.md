@@ -8,7 +8,7 @@
 | **Civilisation** | [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Leader** | [Corville Thornox](../../characters/corville-thornox.md) |
 | **Patron(s)** | [Bhygar](../../gods/deities/bhygar.md) |
-| **Location(s)** | [Northhaven Astornar Stronghold](../../places/strongholds/northhaven-astornar-stronghold.md) (headquarters) |
+| **Location(s)** | [Northhaven Astornar Stronghold](../../places/settlements/strongholds/northhaven-astornar-stronghold.md) (headquarters) |
 |||
 | **Image ID** | `eddb4bcb29ce3928` |
 

@@ -11,7 +11,7 @@
 
 ## Teleported Somewhere Unfamiliar
 
-[Thanea Morlay](../characters/thanea-morlay.md) appears inside of [Supreme Hall](../places/buildings/supreme-hall.md) near the doors after having teleported by using the letter ([L-PR-06](../letters/L-PR-06.md)) she possesses. A brief smell of ozone indicates that magic was just at work. As she arrives it crumbles into ashes in her hands, falling between them.
+[Thanea Morlay](../characters/thanea-morlay.md) appears inside of [Supreme Hall](../places/buildings/government/supreme-hall.md) near the doors after having teleported by using the letter ([L-PR-06](../letters/L-PR-06.md)) she possesses. A brief smell of ozone indicates that magic was just at work. As she arrives it crumbles into ashes in her hands, falling between them.
 
 Startled, she drinks in her surroundings, noticing [Corville Thornox](../characters/corville-thornox.md) sat on his throne. Next to him stands [Patricia Wilbenotel](../characters/patricia-wilbenotel.md) who is engaging in quiet conversation with him. Noticing Thanea's arrival, the pair stop talking and stare towards her. Thanea recognises their armour as [Astornar](../organisations/government/astornar.md) and Patricia as one of the generals that judged the [Astornar](../organisations/government/astornar.md) trial for [the firbolg controversy](../storylines/ended/the-firbolg-controversy.md).
 
@@ -41,9 +41,9 @@ He asks Thanea why he has summoned her here. Thanea expects that it is because s
 *[Corville Thornox](../characters/corville-thornox.md):*
 > I think it goes without saying that we've not seen someone who possesses your abilities. That's why you're here.
 
-Thanea explains that she has no idea how rare this is or if others exist, despite her efforts at researching in [Hawk's Perch](../places/buildings/hawks-perch.md) and asking other people. She also mentions her "weird dreams" and suggests they may be related. Corville tells her that the libraries will only tell her so much. Thanea figured as much but has no idea how to learn more.
+Thanea explains that she has no idea how rare this is or if others exist, despite her efforts at researching in [Hawk's Perch](../places/buildings/government/hawks-perch.md) and asking other people. She also mentions her "weird dreams" and suggests they may be related. Corville tells her that the libraries will only tell her so much. Thanea figured as much but has no idea how to learn more.
 
-Thanea recants her [Eskrigg](../places/cities/eskrigg.md) deva dream wherein she took flight on radiant wings, a feeling that would later become familiar to her. When Corville asks if her dream has "come to pass", Thanea explains that she has had other dreams before that have come true, though the dream specifics and the final play of events don't match exactly. She believes that her [Eskrigg](../places/cities/eskrigg.md) dream represented her time in [Nature's Battle 28](../storylines/ended/natures-battle-28.md), particularly her first use of Radiant Soul. She alludes to [Seraphina](../characters/seraphina.md) being present in many of her dreams, and it was her who gave her the power to manifest her wings.
+Thanea recants her [Eskrigg](../places/settlements/cities/eskrigg.md) deva dream wherein she took flight on radiant wings, a feeling that would later become familiar to her. When Corville asks if her dream has "come to pass", Thanea explains that she has had other dreams before that have come true, though the dream specifics and the final play of events don't match exactly. She believes that her [Eskrigg](../places/settlements/cities/eskrigg.md) dream represented her time in [Nature's Battle 28](../storylines/ended/natures-battle-28.md), particularly her first use of Radiant Soul. She alludes to [Seraphina](../characters/seraphina.md) being present in many of her dreams, and it was her who gave her the power to manifest her wings.
 
 She then talks of her first deva dream of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) and its influence on her choice to leave her forest home to pursue it. Corville makes Thanea aware that he knows of the meteoric work that the [Astorrel](../organisations/government/astorrel/astorrel.md) are currently doing. When Corville asks her if the [meteorites](../items/meteoric/meteorite.md) are related to her powers she tells him that she isn't sure, concealing her feelings that there may be a connection. Corville hopes that they are not linked.
 
@@ -91,7 +91,7 @@ Thanea shakes her head, her bewilderment clear. She apologies for never having h
 > So you have no dealings with the Republic?
 
 *[Thanea Morlay](../characters/thanea-morlay.md):*
-> No, I've never been there. I've lived my whole life on the road and in the forest, just visiting towns. I'd never been to [Northhaven](../places/cities/northhaven.md) before and have never left the kingdom.
+> No, I've never been there. I've lived my whole life on the road and in the forest, just visiting towns. I'd never been to [Northhaven](../places/settlements/cities/northhaven.md) before and have never left the kingdom.
 
 Corville smirks before shaking his head slightly.
 
@@ -132,4 +132,4 @@ Corville ends the anti-magic field around them, Thanea picking up on a slight sm
 
 Corville raises his hand, palm open, a blinding blue flash of light emanating from it. As it subsides, Thanea finds herself back in the place she was in before responding to the letter ([L-PR-06](../letters/L-PR-06.md)).
 
-Thanea curses to herself, calling herself an idiot, still beating herself up from appearing in [Supreme Hall](../places/buildings/supreme-hall.md) at the wrong time.
+Thanea curses to herself, calling herself an idiot, still beating herself up from appearing in [Supreme Hall](../places/buildings/government/supreme-hall.md) at the wrong time.

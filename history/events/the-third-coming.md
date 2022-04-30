@@ -18,7 +18,7 @@ Seeing a possibility to repeat [Malnesh](../../gods/deities/malnesh.md)'s feat o
 
 As [Bhygar](../../gods/deities/bhygar.md) started to consider which of his followers could benefit most from a new start on another world, he brought three more [gods](../../gods/gods.md) ([Valnos](../../gods/deities/valnos.md), [Kirrel](../../gods/deities/kirrel.md), and [Gormox](../../gods/deities/gormox.md)) into his plan, offering to do the same for their followers. Eventually the four made their choices on which of their followers to move, focusing on the disadvantaged, downtrodden, and discriminated against.
 
-Combining their powers, the four were able to use [Malnesh](../../gods/deities/malnesh.md)'s bridge to move everyone to [Astarus](../../celestial-objects/astarus.md). They all arrived in an instant in the centre of [Naissance](../../places/cities/arrepont.md), causing immediate confusion and chaos to the surprised elves.
+Combining their powers, the four were able to use [Malnesh](../../gods/deities/malnesh.md)'s bridge to move everyone to [Astarus](../../celestial-objects/astarus.md). They all arrived in an instant in the centre of [Naissance](../../places/settlements/cities/arrepont.md), causing immediate confusion and chaos to the surprised elves.
 
 It was immediately clear to the insider [gods](../../gods/gods.md) that while they were able to move people to [Astarus](../../celestial-objects/astarus.md), their powers there did not translate, mostly cutting them off from their followers, effectively abandoning them on a planet outside of their influence. They would have to start their lives anew alone.
 

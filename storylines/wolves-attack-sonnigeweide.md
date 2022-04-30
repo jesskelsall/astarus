@@ -7,31 +7,31 @@
 
 ## Summary
 
-Adventurers are needed to clear out wolves that have been attacking the people of [Sonnigeweide](../places/villages/sonnigeweide.md) from the Schulterwood.
+Adventurers are needed to clear out wolves that have been attacking the people of [Sonnigeweide](../places/settlements/villages/sonnigeweide.md) from the Schulterwood.
 
 ## History
 
 ### Pre-session
 
-A pack of wolves, lead by a dire wolf, moves into the edge of the Schulterwood near to [Sonnigeweide](../places/villages/sonnigeweide.md). After they establish themselves in a crevasse in the forest, they begin to roam outside of the forest's edge by night, eating cows where possible.
+A pack of wolves, lead by a dire wolf, moves into the edge of the Schulterwood near to [Sonnigeweide](../places/settlements/villages/sonnigeweide.md). After they establish themselves in a crevasse in the forest, they begin to roam outside of the forest's edge by night, eating cows where possible.
 
 After a farmhand is savaged one night, the [Waldwächter](../organisations/guards/waldwachter.md) arrive to patrol the area at night, but are unwilling to seek the source of the wolves themselves, instead opting to seek adventurers who can do it for them.
 
 ### [MC06](../sessions/MC06.md)
 
-When the party arrives in [Golfmaul](../places/towns/golfmaul.md) by ship, they are questioned by two [Waldwächters](../organisations/guards/waldwachter.md) about the nature of their visit to the town. It becomes clear that [Vētrall Astérr](../characters/vetrall-asterr.md) is a member of [Familia Vulpes](../organisations/familia-vulpes.md). The guard is glad to hear it, pointing the party to the notice board on the street above where they will find information about a job in [Sonnigeweide](../places/villages/sonnigeweide.md) to deal with a pest problem.
+When the party arrives in [Golfmaul](../places/settlements/towns/golfmaul.md) by ship, they are questioned by two [Waldwächters](../organisations/guards/waldwachter.md) about the nature of their visit to the town. It becomes clear that [Vētrall Astérr](../characters/vetrall-asterr.md) is a member of [Familia Vulpes](../organisations/familia-vulpes.md). The guard is glad to hear it, pointing the party to the notice board on the street above where they will find information about a job in [Sonnigeweide](../places/settlements/villages/sonnigeweide.md) to deal with a pest problem.
 
 Making their way to the notice board, [Vētrall Astérr](../characters/vetrall-asterr.md) reads one of the three copies of the notice plastered there:
 
 > ADVENTURERS WANTED
 >
 > Wolves attack Sonnigeweide from the Schulterwood.  
-> 40 gp bounty for their defeat, offered by the Knight of [Golfmaul](../places/towns/golfmaul.md), [Lorena Bynelor](../characters/lorena-bynelor.md).  
-> More details in [Sonnigeweide](../places/villages/sonnigeweide.md).
+> 40 gp bounty for their defeat, offered by the Knight of [Golfmaul](../places/settlements/towns/golfmaul.md), [Lorena Bynelor](../characters/lorena-bynelor.md).  
+> More details in [Sonnigeweide](../places/settlements/villages/sonnigeweide.md).
 
-The party decide whether to answer the call. Consulting their map they notice that [Sonnigeweide](../places/villages/sonnigeweide.md) isn't much of a detour, so the idea of making some easy coin is appealing. They agree to head there immediately.
+The party decide whether to answer the call. Consulting their map they notice that [Sonnigeweide](../places/settlements/villages/sonnigeweide.md) isn't much of a detour, so the idea of making some easy coin is appealing. They agree to head there immediately.
 
-After an afternoon of heavy rain and an overnight attack by owlbears, the party arrive in [Sonnigeweide](../places/villages/sonnigeweide.md). They enter [the Nasty Huntress](../places/buildings/inns-taverns/the-nasty-huntress.md) and talk to [Askad Greybelt](../characters/askad-greybelt.md) who informs them that [Lorena Bynelor](../characters/lorena-bynelor.md) is out on patrol but is due back here for her evening meal. They opt to wait for her.
+After an afternoon of heavy rain and an overnight attack by owlbears, the party arrive in [Sonnigeweide](../places/settlements/villages/sonnigeweide.md). They enter [the Nasty Huntress](../places/buildings/inns-taverns/the-nasty-huntress.md) and talk to [Askad Greybelt](../characters/askad-greybelt.md) who informs them that [Lorena Bynelor](../characters/lorena-bynelor.md) is out on patrol but is due back here for her evening meal. They opt to wait for her.
 
 By late afternoon Lorena arrives. Askad directs her to the party before Lorena introduces herself formally. When the party confirm that they're here to help, she agrees to tell them what she knows after sitting down.
 
@@ -41,7 +41,7 @@ The party head northwest to the Schulterwood. [Marik Kaligavone](../characters/m
 
 Combat erupts as the wolves pre-emptively attack. The party is able to defeat them, though [Nainarv Hardhelm](../characters/nainarv-hardhelm.md) takes a heavy bite after being knocked prone.
 
-Afterwards Marik cuts off their tails, wrapping five wolf tails with rope, slinging them over her back as proof of their kills. The party finds more tracks through the grass heading deeper into the woods. Despite Nainarv finding one trail that seems travelled more frequently, [Keranios](../characters/keranios.md) loses the trail as it goes deeper into the forest. With night soon falling, the party returns to [Sonnigeweide](../places/villages/sonnigeweide.md).
+Afterwards Marik cuts off their tails, wrapping five wolf tails with rope, slinging them over her back as proof of their kills. The party finds more tracks through the grass heading deeper into the woods. Despite Nainarv finding one trail that seems travelled more frequently, [Keranios](../characters/keranios.md) loses the trail as it goes deeper into the forest. With night soon falling, the party returns to [Sonnigeweide](../places/settlements/villages/sonnigeweide.md).
 
 Returning to [the Nasty Huntress](../places/buildings/inns-taverns/the-nasty-huntress.md), the party speak to [Lorena Bynelor](../characters/lorena-bynelor.md) about their exploits, Marik providing her with the wolf tails as proof, which horrifies her. It is unclear to both the party and to Lorena if they have killed all of the wolves, prompting the party to offer to sleep out near the forest for a night to see if any more show themselves.
 

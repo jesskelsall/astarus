@@ -24,18 +24,18 @@
 
 Revenossa is a militaristic state founded by goliaths and orcs. They provide most of the [Nil'Savnic Alliance](../nilsavnic-alliance.md)'s standing army, helping defend its borders from any incursions.
 
-They are in dispute with the [Bay of Splendour](bay-of-splendour.md) over who owns the [Scintil Delta](../../../places/rivers-lakes/scintil-delta.md).
+They are in dispute with the [Bay of Splendour](bay-of-splendour.md) over who owns the [Scintil Delta](../../../places/topography/rivers-lakes/scintil-delta.md).
 
 ## Places
 
-| Type | Revenossa | [Scintil Delta](../../../places/rivers-lakes/scintil-delta.md) |
+| Type | Revenossa | [Scintil Delta](../../../places/topography/rivers-lakes/scintil-delta.md) |
 | --- | --- | --- |
-| City | | [Murkwallow](../../../places/cities/murkwallow.md) |
+| City | | [Murkwallow](../../../places/settlements/cities/murkwallow.md) |
 | Town | | |
 | Village | | |
 | Fort | | |
 | Road | | |
 | Forest | | |
-| Rivers & Lakes | [River Alassau](../../../places/rivers-lakes/river-alassau.md)<br>[River Scintil](../../../places/rivers-lakes/river-scintil.md) | [River Scintil](../../../places/rivers-lakes/river-scintil.md)<br>[Scintil Delta](../../../places/rivers-lakes/scintil-delta.md) |
+| Rivers & Lakes | [River Alassau](../../../places/topography/rivers-lakes/river-alassau.md)<br>[River Scintil](../../../places/topography/rivers-lakes/river-scintil.md) | [River Scintil](../../../places/topography/rivers-lakes/river-scintil.md)<br>[Scintil Delta](../../../places/topography/rivers-lakes/scintil-delta.md) |
 | Mountains | | |
-| Seas & Oceans | [Bay of Knives](../../../places/seas-oceans/bay-of-knives.md)<br>[Griffon's Throat](../../../places/seas-oceans/griffons-throat.md)<br>[The Twilight Expanse](../../../places/seas-oceans/the-twilight-expanse.md) | [Splendour Bay](../../../places/seas-oceans/splendour-bay.md) |
+| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-oceans/bay-of-knives.md)<br>[Griffon's Throat](../../../places/topography/seas-oceans/griffons-throat.md)<br>[The Twilight Expanse](../../../places/topography/seas-oceans/the-twilight-expanse.md) | [Splendour Bay](../../../places/topography/seas-oceans/splendour-bay.md) |

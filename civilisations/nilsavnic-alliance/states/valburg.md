@@ -4,7 +4,7 @@
 
 |||
 | --- | --- |
-| **Capital City** | [Hochwald](../../../places/cities/hochwald.md) | civilisation.2
+| **Capital City** | [Hochwald](../../../places/settlements/cities/hochwald.md) | civilisation.2
 | **Official Languages** | |
 | **Ethnic Groups** | |
 | **Religion** | |
@@ -22,7 +22,7 @@
 
 ## Summary
 
-Valburg is known for its rolling fields, views of [Lake Gondra](../../../places/rivers-lakes/lake-gondra.md),
+Valburg is known for its rolling fields, views of [Lake Gondra](../../../places/topography/rivers-lakes/lake-gondra.md),
 and its powerhouse agriculture. The wealth that flows into the state
 has led to an architectural renaissance that rivals the elven cities of [Reimatelau](reimatelau.md) and the [Syntenne Republic](../../syntenne-republic/syntenne-republic.md). 
 
@@ -30,15 +30,15 @@ has led to an architectural renaissance that rivals the elven cities of [Reimate
 
 | Type | Valburg |
 | --- | --- |
-| City | [Hochwald](../../../places/cities/hochwald.md) (capital) |
-| Town | [Dünnesland](../../../places/towns/dunnesland.md)<br>[Golfmaul](../../../places/towns/golfmaul.md) |
-| Village | [Sonnigeweide](../../../places/villages/sonnigeweide.md) |
+| City | [Hochwald](../../../places/settlements/cities/hochwald.md) (capital) |
+| Town | [Dünnesland](../../../places/settlements/towns/dunnesland.md)<br>[Golfmaul](../../../places/settlements/towns/golfmaul.md) |
+| Village | [Sonnigeweide](../../../places/settlements/villages/sonnigeweide.md) |
 | Fort | |
 | Road | |
 | Forest | Schulterwood |
-| Rivers & Lakes | [Lake Gondra](../../../places/rivers-lakes/lake-gondra.md) |
-| Mountains | [Vourpain Peaks](../../../places/mountains/vourpain-peaks.md) |
-| Seas & Oceans | [Gulf of Tanelle](../../../places/seas-oceans/gulf-of-tanelle.md) |
+| Rivers & Lakes | [Lake Gondra](../../../places/topography/rivers-lakes/lake-gondra.md) |
+| Mountains | [Vourpain Peaks](../../../places/topography/mountains/vourpain-peaks.md) |
+| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-oceans/gulf-of-tanelle.md) |
 
 ## TODO
 

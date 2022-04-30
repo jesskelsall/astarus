@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Deorvys](deorvys.md) (parent) |
-| **Places** | [Devdaha Crypt](../places/dungeons/devdaha-crypt.md) |
+| **Places** | [Devdaha Crypt](../places/structures/dungeons/devdaha-crypt.md) |
 | **Citizenship** | |
 | **Organisation(s)** | |
 |||
@@ -20,4 +20,4 @@
 
 ## Summary
 
-Fraevuth is the crystal dragon child of [Deorvys](deorvys.md). They assist them with protecting the [Devdaha Crypt](../places/dungeons/devdaha-crypt.md), and represent the next generation that will be charged with this duty.
+Fraevuth is the crystal dragon child of [Deorvys](deorvys.md). They assist them with protecting the [Devdaha Crypt](../places/structures/dungeons/devdaha-crypt.md), and represent the next generation that will be charged with this duty.

@@ -26,7 +26,7 @@ Tabari Se is a new Squad Hand in the [Astorrel](../organisations/government/asto
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
+| [AA01](../sessions/AA01.md) | [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) | Cities / [Northhaven](../places/settlements/cities/northhaven.md) / [Ruby Squad](../organisations/government/astorrel/squads/ruby-squad.md) | [Bryce Morton](bryce-morton.md) ||
 
 ## Character Rolls
 
@@ -64,7 +64,7 @@ Tabari Se is a new Squad Hand in the [Astorrel](../organisations/government/asto
 
 ## History
 
-Hailing from Selos, a city in the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), Tabari emigrated to Astor in search of new challenges and opponents to fight. After a year wandering [south east Kardan](../places/regions/south-east-kardan.md), he applied to join the [Astorrel](../organisations/government/astorrel/astorrel.md) so that he could see more of what the area has to offer. He is particularly interested in the prospect of encountering unknown threats. If he is not sufficiently challenged, he'll gladly leave the [Astorrel](../organisations/government/astorrel/astorrel.md) when his service is up.
+Hailing from Selos, a city in the [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md), Tabari emigrated to Astor in search of new challenges and opponents to fight. After a year wandering [Southeastern Kardan](../places/regions/southeastern-kardan.md), he applied to join the [Astorrel](../organisations/government/astorrel/astorrel.md) so that he could see more of what the area has to offer. He is particularly interested in the prospect of encountering unknown threats. If he is not sufficiently challenged, he'll gladly leave the [Astorrel](../organisations/government/astorrel/astorrel.md) when his service is up.
 
 Tabari has been mute from a young age. Fortunately he's not big on communication. When he needs to get his point across and fighting won't do, he's able to communicate using the Message cantrip. He only uses this as a last resort though.
 

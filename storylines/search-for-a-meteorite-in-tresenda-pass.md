@@ -36,21 +36,21 @@ She tells the party that the mission will officially start in the morning.
 
 ### [PR39](../sessions/PR39.md)
 
-[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) set off towards [Tresenda Pass](../places/roads/tresenda-pass.md) on the morning of the first day of their mission. With [Lucia Velpione](../characters/lucia-velpione.md)'s help they secure transport to [Hyceodd](../places/towns/hyceodd.md) by transporting goods by horse and cart (pears). [Luna](../characters/lucia-velpione.md) has to put gold down to take the shipment, but she expects to break even once in [Hyceodd](../places/towns/hyceodd.md).
+[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) set off towards [Tresenda Pass](../places/roads/tresenda-pass.md) on the morning of the first day of their mission. With [Lucia Velpione](../characters/lucia-velpione.md)'s help they secure transport to [Hyceodd](../places/settlements/towns/hyceodd.md) by transporting goods by horse and cart (pears). [Luna](../characters/lucia-velpione.md) has to put gold down to take the shipment, but she expects to break even once in [Hyceodd](../places/settlements/towns/hyceodd.md).
 
 With [Torbra Tauff](../characters/torbra-tauff.md) at the reins and [Thanea Morlay](../characters/thanea-morlay.md) navigating, the party reach the junction of the [Great Astor Road](../places/roads/great-astor-road.md) and [Humar Cut](../places/roads/humar-cut.md) by nightfall, camping for the night in [Luna](../characters/lucia-velpione.md)'s Tiny Hut, a first for the party.
 
-By morning they continue their journey, crossing the bridge over the [River Carn](../places/rivers-lakes/river-carn.md) during the day.
+By morning they continue their journey, crossing the bridge over the [River Carn](../places/topography/rivers-lakes/river-carn.md) during the day.
 
 *[End of session: day 2]*
 
 ### [PR40](../sessions/PR40.md)
 
-[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) continue towards [Hyceodd](../places/towns/hyceodd.md) along the [Great Astor Road](../places/roads/great-astor-road.md). Rain sets in as a thunderstorm rolls across the area, whipping up strong winds that blow a tree over on the road ahead.
+[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) continue towards [Hyceodd](../places/settlements/towns/hyceodd.md) along the [Great Astor Road](../places/roads/great-astor-road.md). Rain sets in as a thunderstorm rolls across the area, whipping up strong winds that blow a tree over on the road ahead.
 
 While the party stop their cart and check for danger, three ogres charge down a side path towards them, engaging them in combat. A fourth is soon revealed. The party decisively kills the ogres in the middle of the rain and wind.
 
-[Torbra Tauff](../characters/torbra-tauff.md) heaves the tree from the road, allowing the party to continue along the road. The rain lets up that evening and by morning the weather is clear. By the afternoon of the next day they reach [Hyceodd](../places/towns/hyceodd.md).
+[Torbra Tauff](../characters/torbra-tauff.md) heaves the tree from the road, allowing the party to continue along the road. The rain lets up that evening and by morning the weather is clear. By the afternoon of the next day they reach [Hyceodd](../places/settlements/towns/hyceodd.md).
 
 The party drop off the cart of pears at the [Hyceodd Trade Post](../places/buildings/stables/hyceodd-trade-post.md) where [Upton McAran](../characters/upton-mcaran.md) pays [Lucia Velpione](../characters/lucia-velpione.md) 45 gp for the cargo.
 
@@ -58,21 +58,21 @@ The party drop off the cart of pears at the [Hyceodd Trade Post](../places/build
 
 ### [PR41](../sessions/PR41.md)
 
-[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) spend the afternoon in [Hyceodd](../places/towns/hyceodd.md), resting up before continuing their journey to the [Tresenda Pass](../places/roads/tresenda-pass.md). Here they again discuss the merits of proceeding directly to the pass or going via [Blittergate](../places/towns/blittergate.md) to collect more information about it.
+[Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) spend the afternoon in [Hyceodd](../places/settlements/towns/hyceodd.md), resting up before continuing their journey to the [Tresenda Pass](../places/roads/tresenda-pass.md). Here they again discuss the merits of proceeding directly to the pass or going via [Blittergate](../places/settlements/towns/blittergate.md) to collect more information about it.
 
-[Jonwen Cryss](../characters/jonwen-cryss.md) provides them a brief description of [Blittergate](../places/towns/blittergate.md) as a quiet farming community, though is unable to provide them anything of use on the [Tresenda Pass](../places/roads/tresenda-pass.md) itself. The party remains undecided about their approach.
+[Jonwen Cryss](../characters/jonwen-cryss.md) provides them a brief description of [Blittergate](../places/settlements/towns/blittergate.md) as a quiet farming community, though is unable to provide them anything of use on the [Tresenda Pass](../places/roads/tresenda-pass.md) itself. The party remains undecided about their approach.
 
 *[End of session: day 3]*
 
 ### [PR42](../sessions/PR42.md)
 
-[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) departs [Hyceodd](../places/towns/hyceodd.md) by coach for [Blittergate](../places/towns/blittergate.md), taking [Elysia Vanderboss](../characters/elysia-vanderboss.md)' advise to search for information about the [Tresenda Pass](../places/roads/tresenda-pass.md) before traversing it. The following morning they arrive.
+[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) departs [Hyceodd](../places/settlements/towns/hyceodd.md) by coach for [Blittergate](../places/settlements/towns/blittergate.md), taking [Elysia Vanderboss](../characters/elysia-vanderboss.md)' advise to search for information about the [Tresenda Pass](../places/roads/tresenda-pass.md) before traversing it. The following morning they arrive.
 
 Their first order of business is to find [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md). Once inside they speak with [Reed Dovenby](../characters/reed-dovenby.md), an [Astorrel Squad Hand](../organisations/government/astorrel/ranks/astorrel-squad-hand.md) with no practical experience of the pass. When [Weldira Cobblecase](../characters/weldira-cobblecase.md) and [Bluefoot](../characters/bluefoot.md) come over to talk to the party they share some information about the pass. Weldira describes it as a valley with a stream running through of it, full of wolves at this time of year. She suggests killing them when Saoirse asks for a way to ward them off.
 
 After Weldira and [Bluefoot](../characters/bluefoot.md) leave, the party remain at [Gate to the West](../places/buildings/inns-taverns/gate-to-the-west.md) overnight, enjoying free drinks after Weldira overpaid. By morning they buy winter clothing from the market and size up the transport options. Finding nobody willing to take them through the pass by cart, they opt to travel by foot.
 
-By the evening they reach the junction leading back to [Hyceodd](../places/towns/hyceodd.md) to the east, marking the southern entrance of the [Tresenda Pass](../places/roads/tresenda-pass.md). They make camp for the night, failing to hear wolves deeper into the pass howling as the sun sets.
+By the evening they reach the junction leading back to [Hyceodd](../places/settlements/towns/hyceodd.md) to the east, marking the southern entrance of the [Tresenda Pass](../places/roads/tresenda-pass.md). They make camp for the night, failing to hear wolves deeper into the pass howling as the sun sets.
 
 *[End of session: day 6]*
 
@@ -84,7 +84,7 @@ After an otherwise uneventful day of travel, the party camps for the night under
 
 As the sun rises Torbra notices the 14 wolves and quietly wakes the group. They frantically prepare and plan for what to do next as the magical dome is due to end any second. [Luna](../characters/lucia-velpione.md) shouts at the wolves in an attempt to scare them, instead provoking them as they move to encircle the dome. When Tiny Hut ends, the wolves dive into combat, but they are no match for the party. All of the wolves are killed.
 
-After taking a short rest, the party continues north. [Thanea Morlay](../characters/thanea-morlay.md) relates the [Foss Peaks](../places/mountains/foss-peaks.md) to the northeast to her dream ([Shared Deva Dream 1](../dreams/deva-shared-1.md)), telling the party that they appear to be heading in the right direction. As the trail moves to the eastern edge of the valley and then back west, Thanea suggests leaving the trail and searching the hills to the northeast, feeling confident that this is where her dream took place.
+After taking a short rest, the party continues north. [Thanea Morlay](../characters/thanea-morlay.md) relates the [Foss Peaks](../places/topography/mountains/foss-peaks.md) to the northeast to her dream ([Shared Deva Dream 1](../dreams/deva-shared-1.md)), telling the party that they appear to be heading in the right direction. As the trail moves to the eastern edge of the valley and then back west, Thanea suggests leaving the trail and searching the hills to the northeast, feeling confident that this is where her dream took place.
 
 The party prepares to camp for the night before continuing further.
 
@@ -112,7 +112,7 @@ The ensuing battle sees heavy hits endured by the party with little damage to co
 
 Following their battle with three [Meteoric Hunters](../creatures/meteoric-hunter.md), [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) discuss various topics with [Allisa Balsatra](../characters/allisa-balsatra.md), including [the meteorics](../lineages/the-meteorics.md). It is clear that she doesn't know anything about them, at first wondering if they are merely native creatures to this land.
 
-As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), one of its northern cliff faces that connects it to the [Foss Peaks](../places/mountains/foss-peaks.md) collapses. The [Meteoric Mind](../creatures/meteoric-mind.md)'s efforts to consume all natural matter in the area and turn it into [meteoric dust](../items/meteoric/meteoric-dust.md) causes part of the cliff face to give way, no longer strengthened by roots and dirt. This happens due to the loss of the [Meteoric Hunters](../creatures/meteoric-hunter.md), the [Meteoric Mind](../creatures/meteoric-mind.md) feeling it necessary to expand the area it has consumed to replenish its stock of [meteoric dust](../items/meteoric/meteoric-dust.md) for combat to come.
+As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/topography/valleys/upper-tresenda.md), one of its northern cliff faces that connects it to the [Foss Peaks](../places/topography/mountains/foss-peaks.md) collapses. The [Meteoric Mind](../creatures/meteoric-mind.md)'s efforts to consume all natural matter in the area and turn it into [meteoric dust](../items/meteoric/meteoric-dust.md) causes part of the cliff face to give way, no longer strengthened by roots and dirt. This happens due to the loss of the [Meteoric Hunters](../creatures/meteoric-hunter.md), the [Meteoric Mind](../creatures/meteoric-mind.md) feeling it necessary to expand the area it has consumed to replenish its stock of [meteoric dust](../items/meteoric/meteoric-dust.md) for combat to come.
 
 *[End of session: day 9]*
 
@@ -120,9 +120,9 @@ As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/plain
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) offers to scout ahead for signs of the crashing noise that [Torbra Tauff](../characters/torbra-tauff.md) heard to their north east, explaining that she could transport herself and one other up to the top of the nearest hilltop. She picks [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) when no volunteer is forthcoming, casting Dimension Door.
 
-From the top the pair see [Upper Tresenda](../places/plains-valleys/upper-tresenda.md), noting the brown grass where the slope from the [Tresenda Pass](../places/roads/tresenda-pass.md) valley floor crests at the edge of the bowl valley. Neither are able to tell that this is in fact a lack of grass, ripped away by the [Meteoric Mind](../creatures/meteoric-mind.md) to convert into more [meteoric dust](../items/meteoric/meteoric-dust.md) for its needs.
+From the top the pair see [Upper Tresenda](../places/topography/valleys/upper-tresenda.md), noting the brown grass where the slope from the [Tresenda Pass](../places/roads/tresenda-pass.md) valley floor crests at the edge of the bowl valley. Neither are able to tell that this is in fact a lack of grass, ripped away by the [Meteoric Mind](../creatures/meteoric-mind.md) to convert into more [meteoric dust](../items/meteoric/meteoric-dust.md) for its needs.
 
-Back with the party, the pair convince the rest of [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) that they should head into [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) and investigate. [Torbra Tauff](../characters/torbra-tauff.md) leads them up the hill, reaching its crest, a view of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) before them.
+Back with the party, the pair convince the rest of [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) that they should head into [Upper Tresenda](../places/topography/valleys/upper-tresenda.md) and investigate. [Torbra Tauff](../characters/torbra-tauff.md) leads them up the hill, reaching its crest, a view of [Upper Tresenda](../places/topography/valleys/upper-tresenda.md) before them.
 
 Here the party begin to notice the lack of wildlife or vegetation in the valley, Torbra noticing that the grass on the boundary appears to have been cut where [meteoric dust](../items/meteoric/meteoric-dust.md) has ripped across it at speed to rip and consume it. The remains of trees and the lack of wildlife sound is unnerving.
 
@@ -134,7 +134,7 @@ Torbra spots what appears to be the [Tresenda Meteorite](../items/meteoric/meteo
 
 ### [PR47](../sessions/PR47.md)
 
-[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) shout at [Torbra Tauff](../characters/torbra-tauff.md) to return to them, fearing danger from the [meteorite](../items/meteoric/meteorite.md) crater seen in the bottom of the bowl shaped valley of [Upper Tresenda](../places/plains-valleys/upper-tresenda.md). After Torbra glances at the party she loses sight of the prowling [Meteoric Watcher](../creatures/meteoric-watcher.md) which teleports away into a hiding spot when it spotted an opening. Torbra runs back to the group, the party agreeing to retreat, rest, and formulate a strategy before returning.
+[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) shout at [Torbra Tauff](../characters/torbra-tauff.md) to return to them, fearing danger from the [meteorite](../items/meteoric/meteorite.md) crater seen in the bottom of the bowl shaped valley of [Upper Tresenda](../places/topography/valleys/upper-tresenda.md). After Torbra glances at the party she loses sight of the prowling [Meteoric Watcher](../creatures/meteoric-watcher.md) which teleports away into a hiding spot when it spotted an opening. Torbra runs back to the group, the party agreeing to retreat, rest, and formulate a strategy before returning.
 
 At the crest of the hill they come across a large wolf ([Elrick Loweswater](../characters/elrick-loweswater.md) in Wild Shape) which they initially fight, but [Luna](../characters/lucia-velpione.md) recognises it isn't hostile, appeasing it with food. The party find the wolf strange, following it when it takes a ration and leaves with it. It leads them to [Scratch on Stone](../characters/scratch-on-stone.md) who is on his deathbed, succumbing to his wounds.
 
@@ -148,7 +148,7 @@ The party begins to set up camp where they found Scratch, intent on sleeping the
 
 [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) camps overnight with [Scratch on Stone](../characters/scratch-on-stone.md) and the dire wolf ([Elrick Loweswater](../characters/elrick-loweswater.md)), resting after their battle that morning with the [Meteoric Hunters](../creatures/meteoric-hunter.md).
 
-By morning they resolve to return to [Upper Tresenda](../places/plains-valleys/upper-tresenda.md) to retrieve the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) and fight [the meteorics](../lineages/the-meteorics.md) that may be guarding it. They discuss how best to use their weapons and spells as well any perceived weaknesses of the [Meteoric Hunters](../creatures/meteoric-hunter.md).
+By morning they resolve to return to [Upper Tresenda](../places/topography/valleys/upper-tresenda.md) to retrieve the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) and fight [the meteorics](../lineages/the-meteorics.md) that may be guarding it. They discuss how best to use their weapons and spells as well any perceived weaknesses of the [Meteoric Hunters](../creatures/meteoric-hunter.md).
 
 Arriving in the valley, nobody notices anything different. [Torbra Tauff](../characters/torbra-tauff.md) leads the party back down into the valley to the crater, where a [meteorite](../items/meteoric/meteorite.md) (the [Meteoric Mind](../creatures/meteoric-mind.md) presenting what it believes the party will find enticing) and a pristine [meteorite](../items/meteoric/meteorite.md) crater floor made of [meteoric dust](../items/meteoric/meteoric-dust.md). No creatures are seen.
 
@@ -162,7 +162,7 @@ The party slowly discover the anti-magic bubble present around the [Meteoric Min
 
 ## [PR49](../sessions/PR49.md)
 
-The battle against the [Meteoric Mind](../creatures/meteoric-mind.md) continues to rage in [Upper Tresenda](../places/plains-valleys/upper-tresenda.md).
+The battle against the [Meteoric Mind](../creatures/meteoric-mind.md) continues to rage in [Upper Tresenda](../places/topography/valleys/upper-tresenda.md).
 
 [The meteorics](../lineages/the-meteorics.md) initially have the upper hand until one of the [Meteoric Hunters](../creatures/meteoric-hunter.md) is whittled down. The [Meteoric Mind](../creatures/meteoric-mind.md) disassembles it and forms two more [Meteoric Watchers](../creatures/meteoric-watcher.md) in its place. This allows [Thanea Morlay](../characters/thanea-morlay.md) to score a calculated Fireball on all three, dealing an important blow to the mind's capabilities.
 

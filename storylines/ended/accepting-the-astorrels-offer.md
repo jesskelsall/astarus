@@ -21,13 +21,13 @@ The party thanks them for their offer but declines to accept until they'd had ti
 
 ### [PR21](../../sessions/PR21.md)
 
-The party chooses to accept [Levelle Tristwix](../../characters/levelle-tristwix.md)'s offer of joining the [Astorrel](../../organisations/government/astorrel/astorrel.md), meeting her in the [Northhaven Astorrel Stronghold](../../places/strongholds/northhaven-astorrel-stronghold.md).
+The party chooses to accept [Levelle Tristwix](../../characters/levelle-tristwix.md)'s offer of joining the [Astorrel](../../organisations/government/astorrel/astorrel.md), meeting her in the [Northhaven Astorrel Stronghold](../../places/settlements/strongholds/northhaven-astorrel-stronghold.md).
 
 They begin a three week intensive training course led by [Ludolf Hornwallis](../../characters/ludolf-hornwallis.md). This is mostly academic study, cramming as much information about how to be an effective [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md) into them as possible in such a short amount of time.
 
 Following this the party begin their graduation.
 
-They pledge themselves to insider [gods](../../gods/gods.md) in [Diamond Prime](../../places/buildings/temples/diamond-prime.md) before Ludolf takes them under the stronghold to the [Northhaven Astorrel Arena](../../places/buildings/northhaven-astorrel-arena.md). Joined here by [Levelle Tristwix](../../characters/levelle-tristwix.md), [Mergin Thorgus](../../characters/mergin-thorgus.md) and [Elysia Vanderboss](../../characters/elysia-vanderboss.md), the party are told that they must demonstrate their combat capabilities against a pre-arranged challenge.
+They pledge themselves to insider [gods](../../gods/gods.md) in [Diamond Prime](../../places/buildings/temples/diamond-prime.md) before Ludolf takes them under the stronghold to the [Northhaven Astorrel Arena](../../places/buildings/government/northhaven-astorrel-arena.md). Joined here by [Levelle Tristwix](../../characters/levelle-tristwix.md), [Mergin Thorgus](../../characters/mergin-thorgus.md) and [Elysia Vanderboss](../../characters/elysia-vanderboss.md), the party are told that they must demonstrate their combat capabilities against a pre-arranged challenge.
 
 The party engages in combat with two tigers, a giant spider, and a giant scorpion. As they begin to fall it becomes apparent that they are polymorphed boulders controlled by the robed [Astorrel](../../organisations/government/astorrel/astorrel.md) also present in the room. During the fight two of the boulders are transformed back into a tiger and a giant spider, prolonging the fight. Ultimately the party makes short work of them, impressing the officers present.
 

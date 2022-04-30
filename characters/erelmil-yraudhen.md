@@ -20,7 +20,7 @@
 
 ## Summary
 
-Erelmil Yraudhen is the owner and shopkeeper of the [Arm of the Coast](../places/buildings/shops/arm-of-the-coast.md) in [Starnov](../places/cities/starnov.md).
+Erelmil Yraudhen is the owner and shopkeeper of the [Arm of the Coast](../places/buildings/shops/arm-of-the-coast.md) in [Starnov](../places/settlements/cities/starnov.md).
 
 ## Characteristics
 

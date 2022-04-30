@@ -20,7 +20,7 @@
 
 ## Summary
 
-Vorkazal the Knife was the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) captain of the operation to infiltrate [Côtedouce](../places/towns/cotedouce.md) ahead of a larger attempt to take the town.
+Vorkazal the Knife was the [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) captain of the operation to infiltrate [Côtedouce](../places/settlements/towns/cotedouce.md) ahead of a larger attempt to take the town.
 
 He was killed by the [Memories of Chausain](../campaigns/C3-memories-of-chausain.md) party during his planned attack on the [Côtedouce Coastal Artillery](../places/structures/cotedouce-coastal-artillery.md).
 

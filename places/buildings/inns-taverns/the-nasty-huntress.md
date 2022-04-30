@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | The Nasty Huntress | place.4
 | **Type** | Inn |
-| **Location** | [Sonnigeweide](../../villages/sonnigeweide.md) |
+| **Location** | [Sonnigeweide](../../settlements/villages/sonnigeweide.md) |
 | **Nearby Places** | |
 | **People** | [Askad Greybelt](../../../characters/askad-greybelt.md) (innkeeper) |
 
 ## Summary
 
-The Nasty Huntress is the main inn in [Sonnigeweide](../../villages/sonnigeweide.md). It is a converted house, barely big enough to make a serviceable inn.
+The Nasty Huntress is the main inn in [Sonnigeweide](../../settlements/villages/sonnigeweide.md). It is a converted house, barely big enough to make a serviceable inn.
 
 ## Description
 

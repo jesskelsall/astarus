@@ -5,7 +5,7 @@
 | **Lineage** | Blue Kobold | lineage.1
 | **Race(s)** | Kobold |
 | **Demonym** | |
-| **Homeland** | [Blue Kobold Cave](../places/caves/blue-kobold-cave.md) |
+| **Homeland** | [Blue Kobold Cave](../places/topography/caves/blue-kobold-cave.md) |
 
 | Blue Kobold | Blue Kobold Inventor | Blue Kobold Dragonshield | Blue Kobold Scale Sorcerer |
 |:---:|:---:|:---:|:---:|

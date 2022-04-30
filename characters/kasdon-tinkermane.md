@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Candle in the Dark](candle-in-the-dark.md) ([Astornox Magicborn Hunter](../organisations/government/astornox/ranks/astornox-magicborn-hunter.md) colleague) |
-| **Places** | [Northhaven](../places/cities/northhaven.md) |
+| **Places** | [Northhaven](../places/settlements/cities/northhaven.md) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
