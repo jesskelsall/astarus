@@ -33,7 +33,7 @@ The party is reluctant to accept help from a stranger, particularly one that kno
 
 The party travels along the eastern bank of the river, the boat now too big for all of them to use.
 
-At nightfall they make camp between the river and some cliffs. During the night while Sarleen and [Thanea](../../../astarus/people/thanea.md) are on watch, gnolls attack from the cliffs above. The rest of the party is woken up, and together they dispatch the gnolls before returning to sleep for the remainder of the night.
+At nightfall they make camp between the river and some cliffs. During the night while Sarleen and Thanea are on watch, gnolls attack from the cliffs above. The rest of the party is woken up, and together they dispatch the gnolls before returning to sleep for the remainder of the night.
 
 ### [PR15](../../sessions/PR15.md)
 

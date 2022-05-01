@@ -15,7 +15,7 @@
 
 When the party met their new superior officer, [Bryce Morton](../../characters/bryce-morton.md) placed them in a squad together which they eventually named [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md). He placed his other four subordinates in a squad which they eventually named [Ruby Squad](../../organisations/government/astorrel/squads/ruby-squad.md).
 
-Through inference, the [players](../../../players/logan.md) likely realise that they are not only competing amongst themselves to stand out, but also against their sister squad.
+Through inference, the players likely realise that they are not only competing amongst themselves to stand out, but also against their sister squad.
 
 ### [AA02](../../sessions/AA02.md)
 

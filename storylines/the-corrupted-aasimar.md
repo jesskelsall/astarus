@@ -25,7 +25,7 @@ At a young age, [Effie Silttooth](../characters/effie-silttooth.md), a hag, offe
 
 [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is distant at various times, contemplating the dream the night before. At one point when they need to keep moving, [Torbra Tauff](../characters/torbra-tauff.md) attempts to lift her up so she can be placed back into the cart, but resists, snapping back to her senses. She chastises Torbra for trying something so drastic.
 
-Later, [Thanea](../../../astarus/people/thanea.md) reads Saoirse's thoughts using the Detect Thoughts spell. She hears Saoirse lamenting her dream.
+Later, Thanea reads Saoirse's thoughts using the Detect Thoughts spell. She hears Saoirse lamenting her dream.
 
 ### [PR18](../sessions/PR18.md)
 

@@ -7,7 +7,7 @@
 | **Name** | Jonala Shirent | character.4
 | **Lineage** | Elf (Dark) |
 | **Pronouns** | she/her |
-| **Age** | Dead<br>*558 ([Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md))* |
+| **Age** | Dead<br>*558 ([Mémoire de Cimetière](../items/echneshment/memory-spheres/memoire-de-cimetiere.md))* |
 | **Class** | Sorcerer (Storm Sorcery) |
 | **Background** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
@@ -22,7 +22,7 @@
 
 Jonala Shirent was a stern and driven member of the [Copper Eye](../organisations/copper-eye.md) who strived to put the organisation's plans into motion, no matter the cost.
 
-In the [Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md) she was working with [Petjor Yordua](petjor-yordua.md) to relieve the crypt of its magical items.
+In [Mémoire de Cimetière](../items/echneshment/memory-spheres/memoire-de-cimetiere.md) she was working with [Petjor Yordua](petjor-yordua.md) to relieve the crypt of its magical items.
 
 ## Characteristics
 

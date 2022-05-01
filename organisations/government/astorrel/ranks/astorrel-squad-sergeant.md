@@ -25,7 +25,7 @@ Each Squad Sergeant is provided multiples of four Squad Hands that they organise
 
 Squad Sergeants can promote Squad Hands to Squad Leads, providing there is only one Squad Lead per squad. Making these promotions usually fixes the composition of their squads as a result.
 
-They are provided missions by their commanding [Astorrel Squad Lieutenant](5-lieutenant.md). It is up to them how they distribute the missions amongst their squads.
+They are provided missions by their commanding [Astorrel Lieutenant](astorrel-lieutenant.md). It is up to them how they distribute the missions amongst their squads.
 
 # Pay
 

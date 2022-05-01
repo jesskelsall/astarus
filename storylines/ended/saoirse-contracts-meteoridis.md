@@ -7,31 +7,31 @@
 
 ## Summary
 
-While fighting the [Meteoric Watchers](../../creatures/meteoric-watcher.md) in [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), [Saoirse](../../../astarus/people/saoirse.md) touches the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), infecting her mind and body with [Meteoridis](../../mechanics/roleplay/meteoridis.md). Compulsions and changes begin to stir within her.
+While fighting the [Meteoric Watchers](../../creatures/meteoric-watcher.md) in [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), Saoirse touches the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), infecting her mind and body with [Meteoridis](../../mechanics/roleplay/meteoridis.md). Compulsions and changes begin to stir within her.
 
 ## History
 
 ### [PR07](../../sessions/PR07.md)
 
-During the fight with the [Meteoric Watchers](../../creatures/meteoric-watcher.md) in [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), [Saoirse](../../../astarus/people/saoirse.md) throws her entire body on top of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) in an attempt to hide the purple glow which she believed may have been benefitting the watchers in the cave.
+During the fight with the [Meteoric Watchers](../../creatures/meteoric-watcher.md) in [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), Saoirse throws her entire body on top of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) in an attempt to hide the purple glow which she believed may have been benefitting the watchers in the cave.
 
 She immediately passed out on top of the [meteorite](../../items/meteoric/meteorite.md). While unconscious, she dreamed of a evening's sky filled with stars, all beginning to move in tandem, shifting from white to purple as they accelerated. It felt good, and she wished to be back in the cave, close to the [meteorite](../../items/meteoric/meteorite.md) and the watchers. Here [Meteoridis](../../mechanics/roleplay/meteoridis.md) compulsions began.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) becomes cursed with [Meteoridis](../../mechanics/roleplay/meteoridis.md)]*
+*[[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) becomes cursed with [Meteoridis](../../mechanics/roleplay/meteoridis.md)]*
 
-When [Wizira](../../characters/wizira.md) wild shaped into a horse kicked the [meteorite](../../items/meteoric/meteorite.md), [Saoirse](../../../astarus/people/saoirse.md) immediately woke up. She was able to rejoin the fight, but was compelled to grab the [meteorite](../../items/meteoric/meteorite.md) as she went.
+When [Wizira](../../characters/wizira.md) wild shaped into a horse kicked the [meteorite](../../items/meteoric/meteorite.md), Saoirse immediately woke up. She was able to rejoin the fight, but was compelled to grab the [meteorite](../../items/meteoric/meteorite.md) as she went.
 
 ### [PR08](../../sessions/PR08.md)
 
-[Saoirse](../../../astarus/people/saoirse.md) allows [Thanea](../../../astarus/people/thanea.md) to look at the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) briefly. She keeps hold of it for the party, wrapping it in a cloth and attaching it to the side of her belt.
+Saoirse allows Thanea to look at the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) briefly. She keeps hold of it for the party, wrapping it in a cloth and attaching it to the side of her belt.
 
 ### [PR11](../../sessions/PR11.md)
 
-[Saoirse](../../../astarus/people/saoirse.md) gives [Wrenn Piznarck](../../characters/wrenn-piznarck.md) the pouch of [Meteoric Dust](../../items/meteoric/meteoric-dust.md) that she collected. When [Wizira](../../characters/wizira.md) points out that [Saoirse](../../../astarus/people/saoirse.md) also has the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) in her possession, he insists on seeing it. She holds it out in the palm of her hand, but is reluctant to hand it over to Wrenn.
+Saoirse gives [Wrenn Piznarck](../../characters/wrenn-piznarck.md) the pouch of [Meteoric Dust](../../items/meteoric/meteoric-dust.md) that she collected. When [Wizira](../../characters/wizira.md) points out that Saoirse also has the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) in her possession, he insists on seeing it. She holds it out in the palm of her hand, but is reluctant to hand it over to Wrenn.
 
 She insists that Wrenn gives her the pouch of dust back in exchange for the [meteorite](../../items/meteoric/meteorite.md), which he agrees to, but still she won't let it go easily. She demands a pinkie promise from Wrenn in order to part with it, and only if he will return it to her once he's done looking.
 
-He complies. After looking at the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor, he hands it back to [Saoirse](../../../astarus/people/saoirse.md) for safe keeping.
+He complies. After looking at the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor, he hands it back to Saoirse for safe keeping.
 
 This is a clear manifestation of her compulsion to stay near to [Meteoric Dust](../../items/meteoric/meteoric-dust.md).
 
@@ -49,13 +49,13 @@ When [Elysia Vanderboss](../../characters/elysia-vanderboss.md) visits a second 
 
 [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md), now out of the anti-magic field of [The Sanctum](../../places/buildings/government/the-sanctum.md), decides to experiment with the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) and the [meteoric dust](../../items/meteoric/meteoric-dust.md) she has collected. She finds that ingesting some of the dust will enhance her magical abilities, but it also has psychedelic effects.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) learns how to ingest [meteoric dust](../../items/meteoric/meteoric-dust.md) to induce the [meteoric dust effect](../../items/meteoric/meteoric-dust-effect.md)]*
+*[[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) learns how to ingest [meteoric dust](../../items/meteoric/meteoric-dust.md) to induce the [meteoric dust effect](../../items/meteoric/meteoric-dust-effect.md)]*
 
 ### [PR25](../../sessions/PR25.md)
 
 Hours before the [Nature's Battle 28](natures-battle-28.md) final, [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) ingests a portion of [meteoric dust](../../items/meteoric/meteoric-dust.md). She does so because she feels useless in the arena, so she may as well fight while high.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is now under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md)]*
+*[[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) is now under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md)]*
 
 ### [PR26](../../sessions/PR26.md)
 
@@ -71,7 +71,7 @@ When the rest of the party catch up to Saoirse, she instinctively casts Meteoric
 
 After a good night's sleep, the effects of the [meteoric dust](../../items/meteoric/meteoric-dust.md) wear off.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md)]*
+*[[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) is no longer under the effect of the [meteoric dust](../../items/meteoric/meteoric-dust.md)]*
 
 ### [PR28](../../sessions/PR28.md)
 
@@ -103,4 +103,4 @@ On their return Mergin speaks to Saoirse about how she feels, finding it unlikel
 
 When she wakes up 5 minutes later all of her compulsions are gone and she feels refreshed and energised. She and Elysia thank Mergin for his help, the favour cashed in.
 
-*[[Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) is no longer cursed with [Meteoridis](../../mechanics/roleplay/meteoridis.md)]*
+*[[Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) is no longer cursed with [Meteoridis](../../mechanics/roleplay/meteoridis.md)]*

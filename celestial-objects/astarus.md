@@ -17,9 +17,9 @@ It is a small planet with a single moon, [Celanor](celanor.md). Originally popul
 
 ## Land
 
-Astarus is dominated by [Kardan](../places/continents/kardan.md), the single continent that accounts for most of its land. It occupies roughly half of the planet's surface.
+Astarus is dominated by [Kardan](../places/topography/continents-islands/kardan.md), the single continent that accounts for most of its land. It occupies roughly half of the planet's surface.
 
-Due to a small axial tilt, Astarus has four distinct seasons. The winter cycle is particularly strongly felt in the northern reaches of [Kardan](../places/continents/kardan.md).
+Due to a small axial tilt, Astarus has four distinct seasons. The winter cycle is particularly strongly felt in the northern reaches of [Kardan](../places/topography/continents-islands/kardan.md).
 
 ## Sky
 
@@ -39,15 +39,15 @@ The races of Astarus arrived or were created at different points in the planet's
 | [The Second Coming](../history/events/the-second-coming.md) | [Malnesh](../gods/deities/malnesh.md) | Elf |
 | [The Third Coming](../history/events/the-third-coming.md) | [Bhygar](../gods/deities/bhygar.md)<br>[Valnos](../gods/deities/valnos.md)<br>[Kirrel](../gods/deities/kirrel.md)<br>[Gormox](../gods/deities/gormox.md) | Dragonborn<br>Gnome<br>Goliath<br>Halfling<br>Human<br>Orc<br>Tabaxi<br>Tiefling<br>*(not exhaustive)* |
 
-Following [the Second Coming](../history/events/the-second-coming.md) and [the Third Coming](../history/events/the-third-coming.md), various civilisations have emerged, each occupying their own portion of [Kardan](../places/continents/kardan.md) and the Kavallos Isles:
+Following [the Second Coming](../history/events/the-second-coming.md) and [the Third Coming](../history/events/the-third-coming.md), various civilisations have emerged, each occupying their own portion of [Kardan](../places/topography/continents-islands/kardan.md) and the Kavallos Isles:
 
-| Civilisation | Territory |
+| Civilisation | Region |
 | --- | --- |
-| [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md) | North [Kardan](../places/continents/kardan.md) |
+| [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md) | Northern [Kardan](../places/topography/continents-islands/kardan.md) |
 | [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) | Kavallos Isles |
-| [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) | Southeast [Kardan](../places/continents/kardan.md) |
-| [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) | Northeast [Kardan](../places/continents/kardan.md) |
-| [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) | South [Kardan](../places/continents/kardan.md) |
+| [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) | [Southeastern Kardan](../places/regions/southeastern-kardan.md) |
+| [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) | Western [Kardan](../places/topography/continents-islands/kardan.md) |
+| [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) | Southern [Kardan](../places/topography/continents-islands/kardan.md) |
 
 ## [Gods](../gods/gods.md)
 
@@ -82,7 +82,7 @@ As a result, each sentient creature born on Astarus has a 5% chance of possessin
 | [The First Coming](../history/events/the-first-coming.md) | [Kaldoon](../gods/deities/kaldoon.md) creates plants, animals, and the first sentient races. |
 | The Age of Dragons | Dragons ensure the balance of life and nurture the other races. |
 | [The Second Coming](../history/events/the-second-coming.md) | [Malnesh](../gods/deities/malnesh.md) brings the Elves of Chausain to Astarus. |
-| The Age of Elves | New elven societies form around [Naissance](../places/cities/arrepont.md) and in South [Kardan](../places/continents/kardan.md). |
+| The Age of Elves | New elven societies form around [Naissance](../places/settlements/cities/arrepont.md) and in South [Kardan](../places/topography/continents-islands/kardan.md). |
 | [The Third Coming](../history/events/the-third-coming.md) | [Bhygar](../gods/deities/bhygar.md) leads other [gods](../gods/gods.md) in bringing other sentient races to Astarus. |
 | The Age of Chaos | War erupts as the new races spread into elven territory in search of their own. |
-| The Age of All | Various civilisations form, dividing [Kardan](../places/continents/kardan.md). Optimistic peace. |
+| The Age of All | Various civilisations form, dividing [Kardan](../places/topography/continents-islands/kardan.md). Optimistic peace. |

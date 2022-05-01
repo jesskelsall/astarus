@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Thanea](../../../astarus/people/thanea.md) is an [aasimar](../../lineages/aasimar.md), but she doesn't know it yet. Often unwelcome prophetic dreams have been present throughout her life, and she has a sense that something about herself doesn't add up. She will learn the truth within herself.
+Thanea is an [aasimar](../../lineages/aasimar.md), but she doesn't know it yet. Often unwelcome prophetic dreams have been present throughout her life, and she has a sense that something about herself doesn't add up. She will learn the truth within herself.
 
 ## History
 
@@ -21,28 +21,28 @@
 
 ### [PR07](../../sessions/PR07.md)
 
-[Thanea](../../../astarus/people/thanea.md)'s dream and her conviction that it is prophetic leads the party to find [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), where they find a [meteorite](../../items/meteoric/meteorite.md) crater containing the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor. When the party observes, its glow changes from bright white to purple, much like the flames of the forest did in her dream.
+Thanea's dream and her conviction that it is prophetic leads the party to find [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), where they find a [meteorite](../../items/meteoric/meteorite.md) crater containing the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor. When the party observes, its glow changes from bright white to purple, much like the flames of the forest did in her dream.
 
 ### [PR10](../../sessions/PR10.md)
 
-After leaving [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) by horse and cart, [Thanea](../../../astarus/people/thanea.md) laments at how her prophetic dreams always end with her in trouble.
+After leaving [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) by horse and cart, Thanea laments at how her prophetic dreams always end with her in trouble.
 
 ### [PR11](../../sessions/PR11.md)
 
-[Saoirse](../../../astarus/people/saoirse.md) remarks that [Thanea](../../../astarus/people/thanea.md) is supposed to be "the crazy one" due to her dreams.
+Saoirse remarks that Thanea is supposed to be "the crazy one" due to her dreams.
 
-[Thanea](../../../astarus/people/thanea.md) tells [Wrenn Piznarck](../../characters/wrenn-piznarck.md) that her prophetic dream of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) helped lead the party to its location in [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). She asks Wrenn if he is aware of anyone else that has such dreams, but he is not.
+Thanea tells [Wrenn Piznarck](../../characters/wrenn-piznarck.md) that her prophetic dream of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) helped lead the party to its location in [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). She asks Wrenn if he is aware of anyone else that has such dreams, but he is not.
 
-He tells [Thanea](../../../astarus/people/thanea.md) that once the trouble they are in has passed, he would like to introduce her to someone that has visions of the future, though they have them while awake. He references an old word for the phenomenon: seer.
+He tells Thanea that once the trouble they are in has passed, he would like to introduce her to someone that has visions of the future, though they have them while awake. He references an old word for the phenomenon: seer.
 
 ### [PR14](../../sessions/PR14.md)
 
 *See: [Thanea Deva Dream 3](../../dreams/deva-thanea-3.md)*  
-*[Thanea Morlay unlocks her Protector [Aasimar](../lineages/aasimar.md) abilities]*
+*[[Thanea Morlay](../../characters/thanea-morlay.md) unlocks her Protector [Aasimar](../../lineages/aasimar.md) abilities]*
 
 ### [PR15](../../sessions/PR15.md)
 
-In private [Thanea](../../../astarus/people/thanea.md) asks [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md) if they know anything about dreams that become reality. They don't, but mention that Wrenn's squad, [Astral Squad](../../organisations/government/astorrel/squads/astral-squad.md), contains someone with similar sounding experiences.
+In private Thanea asks [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md) if they know anything about dreams that become reality. They don't, but mention that Wrenn's squad, [Astral Squad](../../organisations/government/astorrel/squads/astral-squad.md), contains someone with similar sounding experiences.
 
 ### [PR22](../../sessions/PR22.md)
 

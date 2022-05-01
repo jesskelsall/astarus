@@ -14,7 +14,7 @@
 ### [PR14](../sessions/PR14.md)
 
 *See: [Thanea Deva Dream 3](../dreams/deva-thanea-3.md)*  
-*[Thanea Morlay unlocks her Protector [Aasimar](../lineages/aasimar.md) abilities]*
+*[[Thanea Morlay](../characters/thanea-morlay.md) unlocks her Protector [Aasimar](../lineages/aasimar.md) abilities]*
 
 ### [AA08](../sessions/AA08.md)
 

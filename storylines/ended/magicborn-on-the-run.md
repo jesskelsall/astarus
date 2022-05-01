@@ -77,7 +77,7 @@ Torbra took the horse and cart off road in the direction of [Frizthwaite](../../
 
 Torbra finally got a chance to sleep while [Wizira](../../characters/wizira.md) rode the horse and cart. This meant that everyone has had a long rest since leaving [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md).
 
-With [Frizthwaite](../../places/settlements/villages/frizthwaite.md) in view on the horizon, 3 horses each with 2 riders approached from behind. Neither [Thanea](../../../astarus/people/thanea.md) who spotted them or [Wrenn Piznarck](../../characters/wrenn-piznarck.md) who used his crow familiar to observe them could tell if they are [Astornox](../../organisations/government/astornox/astornox.md) or not.
+With [Frizthwaite](../../places/settlements/villages/frizthwaite.md) in view on the horizon, 3 horses each with 2 riders approached from behind. Neither Thanea who spotted them or [Wrenn Piznarck](../../characters/wrenn-piznarck.md) who used his crow familiar to observe them could tell if they are [Astornox](../../organisations/government/astornox/astornox.md) or not.
 
 ### [PR12](../../sessions/PR12.md)
 
@@ -89,9 +89,9 @@ A mounted battle breaks out, with several of the bandits trying to capture [Wren
 
 Eventually the battle culminates with:
 
-- [Saoirse](../../../astarus/people/saoirse.md) getting knocked unconscious, barely clinging onto life, having been clubbed by two thugs.
+- Saoirse getting knocked unconscious, barely clinging onto life, having been clubbed by two thugs.
 - [Wizira](../../characters/wizira.md) overwhelmed by a battle on two fronts, attempting to save Wrenn from the bandits.
-- [Thanea](../../../astarus/people/thanea.md) fleeing from [Morog Whiteknuckle](../../characters/morog-whiteknuckle.md) who has been slashing at her repeatedly, heavily injuring her.
+- Thanea fleeing from [Morog Whiteknuckle](../../characters/morog-whiteknuckle.md) who has been slashing at her repeatedly, heavily injuring her.
 - [Torbra Tauff](../../characters/torbra-tauff.md) falling off her horse, unable to respond to the threats around her before surrender is the party's only option.
 
 Morog orders the party to surrender, which they reluctantly do. He reveals himself to be part of [The Crimson Blades](../../organisations/criminals/the-crimson-blades.md), and that Wrenn owes them money. He makes the point that they're here for him only, which is why they're lucky to be alive.
@@ -116,19 +116,19 @@ Inquiring at the docks, they find they can either buy a boat for 50 gp or rent o
 
 When the party enters [The Greedy Trout](../../places/buildings/inns-taverns/the-greedy-trout.md) for a drink before deciding what to do, they come across 2 [Astornox guards](../../organisations/government/astornox/ranks/astornox-guard.md) who are at the bar conversing with the innkeeper. [Wizira](../../characters/wizira.md) heads down the street, leaving the village outskirts as a means of putting distance between herself and the guards. As she goes she attracts the attention of people on the street who have already seen the [Astornox](../../organisations/government/astornox/astornox.md) who are looking for her.
 
-At the bar [Saoirse](../../../astarus/people/saoirse.md) learns from the innkeeper that the [Astornox](../../organisations/government/astornox/astornox.md) are looking for someone "tall and blue" ([Wizira](../../characters/wizira.md)), and someone with "grey skin" (Torbra). She joins [Thanea](../../../astarus/people/thanea.md) and Torbra at their table where she tells them of the former. The group agrees that they'd best leave [Frizthwaite](../../places/settlements/villages/frizthwaite.md) quickly.
+At the bar Saoirse learns from the innkeeper that the [Astornox](../../organisations/government/astornox/astornox.md) are looking for someone "tall and blue" ([Wizira](../../characters/wizira.md)), and someone with "grey skin" (Torbra). She joins Thanea and Torbra at their table where she tells them of the former. The group agrees that they'd best leave [Frizthwaite](../../places/settlements/villages/frizthwaite.md) quickly.
 
 A villager who saw [Wizira](../../characters/wizira.md) bursts into the inn, shouting that she's seen her. The [Astornox](../../organisations/government/astornox/astornox.md) rush downstairs to meet her, insisting she shows them where she saw her. They leave in a hurry.
 
-A race to find [Wizira](../../characters/wizira.md) before the [Astornox](../../organisations/government/astornox/astornox.md) do develops. The party fans out before [Thanea](../../../astarus/people/thanea.md) finds [Wizira](../../characters/wizira.md) making a flower crown. She disguises herself as an old man and the party reconvenes.
+A race to find [Wizira](../../characters/wizira.md) before the [Astornox](../../organisations/government/astornox/astornox.md) do develops. The party fans out before Thanea finds [Wizira](../../characters/wizira.md) making a flower crown. She disguises herself as an old man and the party reconvenes.
 
-The party convinces Torbra to head downstream now, so as to avoid being seen. The rest of the party head back to the docks where [Saoirse](../../../astarus/people/saoirse.md) buys the boat. Picking Torbra up on the way, they make their way down the [River Humar](../../places/topography/rivers-lakes/river-humar.md) towards [Northhaven](../../places/settlements/cities/northhaven.md), successfully dodging the [Astornox](../../organisations/government/astornox/astornox.md) in [Frizthwaite](../../places/settlements/villages/frizthwaite.md).
+The party convinces Torbra to head downstream now, so as to avoid being seen. The rest of the party head back to the docks where Saoirse buys the boat. Picking Torbra up on the way, they make their way down the [River Humar](../../places/topography/rivers-lakes/river-humar.md) towards [Northhaven](../../places/settlements/cities/northhaven.md), successfully dodging the [Astornox](../../organisations/government/astornox/astornox.md) in [Frizthwaite](../../places/settlements/villages/frizthwaite.md).
 
 ### [PR14](../../sessions/PR14.md)
 
 Continuing downstream, the party comes across the town of [Beckermet](../../places/settlements/towns/beckermet.md), seeing where the edge of the town meets the river's edge. With guard towers along the edge of town, they seek to hide themselves as they row past. They are able to hide themselves under their hooded robes enough that they aren't spotted.
 
-Arriving next at [Humouth](../../places/settlements/villages/humouth.md), the party decides to camp under the giant wooden bridge just outside of the village. When [Thanea](../../../astarus/people/thanea.md) and [Saoirse](../../../astarus/people/saoirse.md) decide to check in town, they find a heavy [Astornox](../../organisations/government/astornox/astornox.md) presence. While [Thanea](../../../astarus/people/thanea.md) returns to warn [Torbra Tauff](../../characters/torbra-tauff.md) and [Wizira](../../characters/wizira.md), [Saoirse](../../../astarus/people/saoirse.md) stays, learning from the inn that they are hunting [magicborn](../../civilisations/kingdom-of-astor/magicborn.md). With that the party endeavours to continue 15 minutes downstream before setting up camp for the night.
+Arriving next at [Humouth](../../places/settlements/villages/humouth.md), the party decides to camp under the giant wooden bridge just outside of the village. When Thanea and Saoirse decide to check in town, they find a heavy [Astornox](../../organisations/government/astornox/astornox.md) presence. While Thanea returns to warn [Torbra Tauff](../../characters/torbra-tauff.md) and [Wizira](../../characters/wizira.md), Saoirse stays, learning from the inn that they are hunting [magicborn](../../civilisations/kingdom-of-astor/magicborn.md). With that the party endeavours to continue 15 minutes downstream before setting up camp for the night.
 
 In the morning, [Sarleen Truestriker](../../characters/sarleen-truestriker.md) finds the party along the bank of the [River Humar](../../places/topography/rivers-lakes/river-humar.md). Seeing a blue firbolg and grey human, she recognises that she has found the party that she is looking for. Explaining that she is an [Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md) from [Goshawk Squad](../../organisations/government/astorrel/squads/goshawk-squad.md) with orders to find them and bring them back to her [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md), [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md), she is met with distrust.
 
@@ -144,7 +144,7 @@ First thing in the morning they set off again. Sarleen escorts the party into [U
 
 Here Sarleen introduces them to [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md), the [Goshawk Squad](../../organisations/government/astorrel/squads/goshawk-squad.md) lead. Sarleen helps to cut through some of the party's attempted lies about who they are or what they've been through.
 
-Hidaar attempts to understand why [Wrenn Piznarck](../../characters/wrenn-piznarck.md) felt the party was so important, particularly why he thought the party was important to the fate of Astor. They aren't sure themselves, but they allude to the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), which [Saoirse](../../../astarus/people/saoirse.md) chooses to keep to herself.
+Hidaar attempts to understand why [Wrenn Piznarck](../../characters/wrenn-piznarck.md) felt the party was so important, particularly why he thought the party was important to the fate of Astor. They aren't sure themselves, but they allude to the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), which Saoirse chooses to keep to herself.
 
 When [Wizira](../../characters/wizira.md) drops her disguise and reveals herself to be the blue firbolg that Wrenn mentioned, Hidaar suspects the story of what happened to [Wizira's father](../../characters/wiziras-father.md) has important implications for [the firbolg controversy](the-firbolg-controversy.md), and offers to help them in any way that they can. When another member of [Goshawk Squad](../../organisations/government/astorrel/squads/goshawk-squad.md) returns, they'll order them to escort the party to the relative safety of the [Northhaven Astorrel Stronghold](../../places/settlements/strongholds/northhaven-astorrel-stronghold.md).
 
@@ -160,7 +160,7 @@ Departing that night after dark, they make their way carefully out of [Ulburn](.
 
 As he runs back, a guard on the wall above stops, hearing the sound of the lock being broken. Unable to see anything, they resume their patrol. The whole party makes their way over to the grate. Still under the cloud's effects, [Wizira](../../characters/wizira.md) and Torbra jump into the sewer below, Torbra landing with a loud enough splash that the guards on the wall above hear it. The rest descend by rope.
 
-Exploring the sewer below, the party hears guards investigating their entrance. As they begin escalating the search, the party goes down a sewer branch to their left in an attempt to give the guards the slip. When the guards enter the sewer and one spots the party, running towards them, [Saoirse](../../../astarus/people/saoirse.md) casts Eldritch Blast to knock them backwards, accidentally killing them in the process. The party isn't aware of their fate as their torch plunges into the sewage and goes out.
+Exploring the sewer below, the party hears guards investigating their entrance. As they begin escalating the search, the party goes down a sewer branch to their left in an attempt to give the guards the slip. When the guards enter the sewer and one spots the party, running towards them, Saoirse casts Eldritch Blast to knock them backwards, accidentally killing them in the process. The party isn't aware of their fate as their torch plunges into the sewage and goes out.
 
 Now in a hurry to leave, the party hurriedly tries to get the next sewer grate along on the inside of the wall open. With the help of [Wizira](../../characters/wizira.md) and Torbra, Sparrow gets on a rope and files the padlock holding it shut, breaking the lock. Unable to push the grate open with his wasps (Mage Hand), Torbra holds up [Wizira](../../characters/wizira.md) to push it open. They eventually succeed.
 
@@ -174,21 +174,21 @@ As the 6 [Astornox guards](../../organisations/government/astornox/ranks/astorno
 
 [Wizira](../../characters/wizira.md) managed to give 2 guards who tried to grab her the slip by casting Hidden Step right before they grab her. She tries to hide after becoming visible again but fails, opting to run and hide a second time in an alley. She gives them the slip before turning into a cat with Wild Shape, running along the rooftops, and reconvening with the party.
 
-On the edge of [Astor Square](../../places/structures/astor-square.md), Sparrow suggests they don't cross the square itself as there may be guards present. Instead they proceed through a series of alleys that cross other streets. While doing this 2 guards notice them, giving chase. One peels off to get backup. [Saoirse](../../../astarus/people/saoirse.md) casts Eldritch Blast at the remaining guard, knocking him backwards to the floor, ending his pursuit.
+On the edge of [Astor Square](../../places/structures/astor-square.md), Sparrow suggests they don't cross the square itself as there may be guards present. Instead they proceed through a series of alleys that cross other streets. While doing this 2 guards notice them, giving chase. One peels off to get backup. Saoirse casts Eldritch Blast at the remaining guard, knocking him backwards to the floor, ending his pursuit.
 
 On the other edge of [Astor Square](../../places/structures/astor-square.md), the party emerges into the street proceeding [Kirrel](../../gods/deities/kirrel.md) Street. 4 guards in [Astor Square](../../places/structures/astor-square.md) notice them and give pursuit. The party runs towards a crossroad, Sparrow indicating that the [Northhaven Astorrel Stronghold](../../places/settlements/strongholds/northhaven-astorrel-stronghold.md) is down the street to the left.
 
 As they round the corner, the street is a dead end, with a building blocking the street. Sparrow, familiar with [Kirrel](../../gods/deities/kirrel.md) Street, knows it to be a trick and informs the party. [Vilnia Kovas](../../characters/vilnia-kovas.md) and [Kur Merkys](../../characters/kur-merkys.md) step out of the side of the building's brickwork, springing their ambush on the party. Sparrow urges the party to run ahead while he draws their attention.
 
-Fighting erupts. Sparrow hits Vilnia with an arrow, enraging Kur who casts Lightning Bolt at Sparrow from a rooftop, knocking him unconscious. [Wizira](../../characters/wizira.md) and [Thanea](../../../astarus/people/thanea.md) climb onto a building on the opposite side of the street while [Saoirse](../../../astarus/people/saoirse.md) and Torbra wrestle with the guards catching up from behind.
+Fighting erupts. Sparrow hits Vilnia with an arrow, enraging Kur who casts Lightning Bolt at Sparrow from a rooftop, knocking him unconscious. [Wizira](../../characters/wizira.md) and Thanea climb onto a building on the opposite side of the street while Saoirse and Torbra wrestle with the guards catching up from behind.
 
-Vilnia attempts to compel [Thanea](../../../astarus/people/thanea.md) to surrender by casting Suggestion on her, but she manages to resist.
+Vilnia attempts to compel Thanea to surrender by casting Suggestion on her, but she manages to resist.
 
-Torbra attacks the guards surrounding her, cutting one down and wounding several others. [Thanea](../../../astarus/people/thanea.md) follows Sparrow's lead and casts Magic Missile multiple times at Vilnia, knocking her unconscious. After Kur attacks multiple times with Scorching Ray, [Wizira](../../characters/wizira.md) knocks him unconscious with a particularly potent Ice Knife.
+Torbra attacks the guards surrounding her, cutting one down and wounding several others. Thanea follows Sparrow's lead and casts Magic Missile multiple times at Vilnia, knocking her unconscious. After Kur attacks multiple times with Scorching Ray, [Wizira](../../characters/wizira.md) knocks him unconscious with a particularly potent Ice Knife.
 
-As more guards spill into the street, Torbra is surrounded and has no choice but to disengage and flee down the street. [Thanea](../../../astarus/people/thanea.md) casts Sleep on the crowd, sending 3 of them to sleep, while [Wizira](../../characters/wizira.md) casts Entangle to restrain them and make the street harder to move through.
+As more guards spill into the street, Torbra is surrounded and has no choice but to disengage and flee down the street. Thanea casts Sleep on the crowd, sending 3 of them to sleep, while [Wizira](../../characters/wizira.md) casts Entangle to restrain them and make the street harder to move through.
 
-[Saoirse](../../../astarus/people/saoirse.md) takes out her frustration on Kur, firstly by kicking him while he is unconscious, and then when he is brought to consciousness by another guard, by casting Eldritch Blast to knock him unconscious again.
+Saoirse takes out her frustration on Kur, firstly by kicking him while he is unconscious, and then when he is brought to consciousness by another guard, by casting Eldritch Blast to knock him unconscious again.
 
 The party make their way along the street, Torbra trying her best to dodge incoming attacks from her pursuers. Eventually they all make their way to the [Northhaven Astorrel Stronghold](../../places/settlements/strongholds/northhaven-astorrel-stronghold.md) gatehouse, at which point the 2 guards still pursuing them give up their chase, knowing they can't intervene inside the stronghold's walls.
 

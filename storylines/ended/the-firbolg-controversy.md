@@ -33,7 +33,7 @@ As a fervent supporter of protecting firbolg as part of nature, Hidaar offers to
 
 ### [PR18](../../sessions/PR18.md)
 
-[Saoirse](../../../astarus/people/saoirse.md) mentions [Wizira's Father](../../characters/wiziras-father.md)'s capture to [Garrick Rose](../../characters/garrick-rose.md) while they are preparing to go into [sanctuary](../../organisations/government/astorrel/sanctuary.md). He assures the party that if the [Astorrel Commandant](../../organisations/government/astorrel/ranks/astorrel-commandant.md) can't help them, he will ensure that someone looks into the matter for them.
+Saoirse mentions [Wizira's Father](../../characters/wiziras-father.md)'s capture to [Garrick Rose](../../characters/garrick-rose.md) while they are preparing to go into [sanctuary](../../organisations/government/astorrel/sanctuary.md). He assures the party that if the [Astorrel Commandant](../../organisations/government/astorrel/ranks/astorrel-commandant.md) can't help them, he will ensure that someone looks into the matter for them.
 
 [Levelle Tristwix](../../characters/levelle-tristwix.md) visits the party in [The Sanctum](../../places/buildings/government/the-sanctum.md) on the morning of their first full day in [sanctuary](../../organisations/government/astorrel/sanctuary.md). They speak with [Wizira](../../characters/wizira.md) about her father, talking about how his capture fits into the firbolg controversy as a whole. Levelle finds [Wizira](../../characters/wizira.md) well informed and explains that there are conflicts in other places such as the [Mocker Swamp](../../places/topography/forests/mocker-swamp.md).
 

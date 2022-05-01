@@ -53,15 +53,15 @@ In the cave's largest chamber the party came face to face with a [Meteoric Watch
 
 In [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), the party fought two of the three [Meteoric Watchers](../../creatures/meteoric-watcher.md) present, while the third stayed hidden on the ceiling, watching them.
 
-During the fight, [Saoirse](../../../astarus/people/saoirse.md) jumped onto the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) to cover its purple glow. She was rendered unconscious, while the [meteorite](../../items/meteoric/meteorite.md) immediately stopped glowing, fading to a dull grey.
+During the fight, Saoirse jumped onto the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md) to cover its purple glow. She was rendered unconscious, while the [meteorite](../../items/meteoric/meteorite.md) immediately stopped glowing, fading to a dull grey.
 
-The watchers tried a variety of strategies against the party, seeing how they would react to their blink ability, one person ([Thanea](../../../astarus/people/thanea.md)) being focused, blink-in ambushes, and ranged combat in rough terrain.
+The watchers tried a variety of strategies against the party, seeing how they would react to their blink ability, one person (Thanea) being focused, blink-in ambushes, and ranged combat in rough terrain.
 
-Ultimately the party destroyed both watchers while the third silently fled the chamber through the hole in the roof. [Saoirse](../../../astarus/people/saoirse.md) inspects the [meteorite](../../items/meteoric/meteorite.md), seeing it is cracked, and pockets some of the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) contained within.
+Ultimately the party destroyed both watchers while the third silently fled the chamber through the hole in the roof. Saoirse inspects the [meteorite](../../items/meteoric/meteorite.md), seeing it is cracked, and pockets some of the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) contained within.
 
 ### [PR08](../../sessions/PR08.md)
 
-[Thanea](../../../astarus/people/thanea.md) clumsily scoops up some of the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) mixed in with the meteor crater gravel. [Saoirse](../../../astarus/people/saoirse.md) keeps hold of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), wrapping it in a cloth and attaching it to the side of her belt.
+Thanea clumsily scoops up some of the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) mixed in with the meteor crater gravel. Saoirse keeps hold of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), wrapping it in a cloth and attaching it to the side of her belt.
 
 The party begins to make their way out of [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md) and back towards [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with the intention of reporting back to [Wrenn Piznarck](../../characters/wrenn-piznarck.md) with their findings.
 
@@ -69,7 +69,7 @@ The party begins to make their way out of [Hawkswood Wolf Cave](../../civilisati
 
 After finding [Wrenn Piznarck](../../characters/wrenn-piznarck.md) in the [Heather & Horticulture](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/heather-and-horticulture.md) secret garden, there is a brief moment amongst the panic where Wrenn asks what the party found out about the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor.
 
-[Saoirse](../../../astarus/people/saoirse.md) shows Wrenn the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) that she collected. Wrenn is excited to see it and attempts to taste a small amount of it, but [Saoirse](../../../astarus/people/saoirse.md) stops him, explaining that it had previously been glowing purple.
+Saoirse shows Wrenn the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) that she collected. Wrenn is excited to see it and attempts to taste a small amount of it, but Saoirse stops him, explaining that it had previously been glowing purple.
 
 [Torbra Tauff](../../characters/torbra-tauff.md) and [Wizira](../../characters/wizira.md) talk briefly of a grey dog-like creature with blade arms that they defeated, to which Wrenn congratulates them, but while also trying to hide the colour draining wave of shock that overtakes him.
 
@@ -80,14 +80,14 @@ While on the run from [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMEN
 - [Meteorite](../../items/meteoric/meteorite.md)
   - Found in a crater inside a cave.
   - Glowed white until they saw it directly, then purple.
-  - [Saoirse](../../../astarus/people/saoirse.md) passed out and it stopped glowing when she threw herself on top of it.
-  - Cracked, with [Meteoric Dust](../../items/meteoric/meteoric-dust.md) inside, which [Saoirse](../../../astarus/people/saoirse.md) collected.
+  - Saoirse passed out and it stopped glowing when she threw herself on top of it.
+  - Cracked, with [Meteoric Dust](../../items/meteoric/meteoric-dust.md) inside, which Saoirse collected.
 - [Meteoric Watchers](../../creatures/meteoric-watcher.md)
   - Grey, dog-like creatures with blade arms.
   - Could teleport.
   - Likely that they fought 2.
   - Collapsed into [Meteoric Dust](../../items/meteoric/meteoric-dust.md) when killed.
-    - [Saoirse](../../../astarus/people/saoirse.md)'s Eldritch Blast.
+    - Saoirse's Eldritch Blast.
     - [Torbra Tauff](../../characters/torbra-tauff.md)'s halberd swing. Scraping sound, dulled the blade.
 
-[Saoirse](../../../astarus/people/saoirse.md) shows Wrenn the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md). He declares it an excellent specimen, the finest he's seen, and commends them for their work. He tries to take it from [Saoirse](../../../astarus/people/saoirse.md) but she is reluctant to give it up. Wrenn tells her that he'll give it back to her once he's examined it first hand, and does.
+Saoirse shows Wrenn the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md). He declares it an excellent specimen, the finest he's seen, and commends them for their work. He tries to take it from Saoirse but she is reluctant to give it up. Wrenn tells her that he'll give it back to her once he's examined it first hand, and does.

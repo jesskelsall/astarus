@@ -27,17 +27,17 @@ As the party rounds the corner, they step forward, ready to engage them. They in
 
 While the pair prepare to make their first moves, [Sparrow on the Autumn Pine](../characters/sparrow-on-the-autumn-pine.md) shoots an arrow at Vilnia, enraging Kur. He retaliates by shooting a Lightning Bolt at Sparrow, knocking him unconscious.
 
-As Vilnia's Suggestion spell fails to take hold on [Thanea](../../../astarus/people/thanea.md), and Kur's Scorching Ray doesn't hit as many times as would be ideal, they collectively fail to subdue the party. The [Astornox guards](../organisations/government/astornox/ranks/astornox-guard.md) who are still catching up aren't able to arrive in time to help them directly.
+As Vilnia's Suggestion spell fails to take hold on Thanea, and Kur's Scorching Ray doesn't hit as many times as would be ideal, they collectively fail to subdue the party. The [Astornox guards](../organisations/government/astornox/ranks/astornox-guard.md) who are still catching up aren't able to arrive in time to help them directly.
 
-[Thanea](../../../astarus/people/thanea.md) follows Sparrow's lead and knocks Vilnia unconscious with Magic Missile. When she comes to consciousness soon thereafter, [Thanea](../../../astarus/people/thanea.md) puts her down a second time.
+Thanea follows Sparrow's lead and knocks Vilnia unconscious with Magic Missile. When she comes to consciousness soon thereafter, Thanea puts her down a second time.
 
-Kur falls victim to a combination of [Thanea](../../../astarus/people/thanea.md)'s Magic Missile and [Wizira](../characters/wizira.md)'s Ice Knife, both sniping at him from the rooftop opposite, as he had done to Sparrow moments before. He falls unconscious.
+Kur falls victim to a combination of Thanea's Magic Missile and [Wizira](../characters/wizira.md)'s Ice Knife, both sniping at him from the rooftop opposite, as he had done to Sparrow moments before. He falls unconscious.
 
-As he is being brought to consciousness by an [Astornox Guard Corporal](../organisations/government/astornox/ranks/astornox-guard-corporal.md), [Vilnia Kovas](../characters/vilnia-kovas.md) succumbs to her wounds and dies in the street. [Saoirse](../../../astarus/people/saoirse.md) fires an Eldritch Blast at Kur, knocking him unconscious again. He is once again brought to consciousness.
+As he is being brought to consciousness by an [Astornox Guard Corporal](../organisations/government/astornox/ranks/astornox-guard-corporal.md), [Vilnia Kovas](../characters/vilnia-kovas.md) succumbs to her wounds and dies in the street. Saoirse fires an Eldritch Blast at Kur, knocking him unconscious again. He is once again brought to consciousness.
 
 ### Between Sessions
 
-In the immediate aftermath of the fight, Kur does not remember waking up the first time. He does however remember seeing Vilnia go down at the hands of [Thanea](../../../astarus/people/thanea.md). Finding her dead, his emotions quickly shift from shock and sorrow to blind rage. He swears to himself that he will kill [Thanea](../../../astarus/people/thanea.md) as revenge for taking his partner's life, no matter what it takes.
+In the immediate aftermath of the fight, Kur does not remember waking up the first time. He does however remember seeing Vilnia go down at the hands of Thanea. Finding her dead, his emotions quickly shift from shock and sorrow to blind rage. He swears to himself that he will kill Thanea as revenge for taking his partner's life, no matter what it takes.
 
 ### [PR18](../sessions/PR18.md)
 

@@ -7,7 +7,7 @@
 | **Name** | Petjor Yordua | character.4
 | **Lineage** | Human / Elf (High) |
 | **Pronouns** | he/him |
-| **Age** | Dead<br>*534 ([Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md))* |
+| **Age** | Dead<br>*534 ([Mémoire de Cimetière](../items/echneshment/memory-spheres/memoire-de-cimetiere.md))* |
 | **Class** | |
 | **Background** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
@@ -22,7 +22,7 @@
 
 Petjor Yordua is a distrusting and cocky elf who has the key to the [Dulsenn Graveyard](../places/structures/dulsenn-graveyard.md) mausoleum. He is a new member of the [Copper Eye](../organisations/copper-eye.md) with little time for their unique customs.
 
-In the [Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md) he was working with [Jonala Shirent](jonala-shirent.md) to relieve the crypt of its magical items.
+In [Mémoire de Cimetière](../items/echneshment/memory-spheres/memoire-de-cimetiere.md) he was working with [Jonala Shirent](jonala-shirent.md) to relieve the crypt of its magical items.
 
 ## Characteristics
 

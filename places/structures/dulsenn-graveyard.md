@@ -15,7 +15,7 @@ The Dulsenn Graveyard was a burial complex used for preserving and honouring the
 
 [Vivien Bouxelles](../../characters/vivien-bouxelles.md) was one of the notable dead in the crypt. Her ghost haunted it, helping to animate the other dead to protect her blade, [Mémoire de Unevaire](../../items/echneshment/weapons/memoire-de-unevaire.md).
 
-The graveyard is the subject of the [Dulsenn Graveyard Memory Sphere](../../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md).
+The graveyard is the subject of [Mémoire de Cimetière](../../items/echneshment/memory-spheres/memoire-de-cimetiere.md).
 
 ### Exterior
 

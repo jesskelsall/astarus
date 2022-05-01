@@ -7,7 +7,7 @@
 | **Name** | Vivien Bouxelles | character.4
 | **Lineage** | Elf (High) |
 | **Pronouns** | she/her |
-| **Age** | Dead<br>*670, ghost ([Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md))* |
+| **Age** | Dead<br>*670, ghost ([Mémoire de Cimetière](../items/echneshment/memory-spheres/memoire-de-cimetiere.md))* |
 | **Class** | |
 | **Background** | |
 | **Worship** | |
@@ -22,7 +22,7 @@
 
 Vivien Bouxelles was the original owner of [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md). She was buried with the longsword in [Dulsenn Graveyard](../places/structures/dulsenn-graveyard.md) alongside unknown dead elves.
 
-In the [Dulsenn Graveyard Memory Sphere](../items/artifacts-of-oonar/memory-spheres/dulsenn-graveyard-memory-sphere.md), her ghost haunts the crypt, attempting to kill those who would take [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md) from her body.
+In [Mémoire de Cimetière](../items/echneshment/memory-spheres/memoire-de-cimetiere.md), her ghost haunts the crypt, attempting to kill those who would take [Mémoire de Unevaire](../items/echneshment/weapons/memoire-de-unevaire.md) from her body.
 
 ## Characteristics
 

@@ -37,7 +37,7 @@ The appearance of these voices cause her to look around for their source, but sh
 
 Not long after, while trying to climb into the back of the cart so the party can resume their journey, the voices start again. She freezes in place, both hands and one foot on the back of the cart. She attempts to rub the side of her head to make them stop, but they grow louder.
 
-[Saoirse](../../../astarus/people/saoirse.md) notices that she has just frozen, and helps her up into the cart. Torbra sits down and stares off into space, holding her head on both sides and whispering to herself, muttering "stop it" repeatedly. When [Thanea](../../../astarus/people/thanea.md) asks her if she's alright, she openly admits that she is hearing voices.
+Saoirse notices that she has just frozen, and helps her up into the cart. Torbra sits down and stares off into space, holding her head on both sides and whispering to herself, muttering "stop it" repeatedly. When Thanea asks her if she's alright, she openly admits that she is hearing voices.
 
 As soon as the cart pulls away, the voices leave Torbra's head.
 
@@ -45,7 +45,7 @@ As soon as the cart pulls away, the voices leave Torbra's head.
 
 ### [PR14](../sessions/PR14.md)
 
-While sleeping on the bank of the [River Humar](../places/topography/rivers-lakes/river-humar.md), Torbra wakes during the night, once again hearing the voices. [Saoirse](../../../astarus/people/saoirse.md) is on watch and follows her as she wanders off, confused at what is going on, unable to see and hear what Torbra is following.
+While sleeping on the bank of the [River Humar](../places/topography/rivers-lakes/river-humar.md), Torbra wakes during the night, once again hearing the voices. Saoirse is on watch and follows her as she wanders off, confused at what is going on, unable to see and hear what Torbra is following.
 
 Torbra sees a glow from over the next hill, and as she approaches the voices grow stronger. She finds 4 collapsed standing stones. As she touches them in the order she finds them, the voices cryptically tell her to seek our her giant lineage, and grow her runic power (Rune Knight).
 
@@ -56,7 +56,7 @@ Torbra sees a glow from over the next hill, and as she approaches the voices gro
 | Collapsed onto ground. | Stone Rune | Touches it. | Grey brown glow emanates as a crack shifts into a runic shape. Light surrounds her. | *Practice. Apply. Grow.* (repeating)
 | Collapsed onto ground. | Frost Rune | Touches it. | Same as above, but sky blue glow. | *Embrace who you have always been. Go forth and seek.* (once, voices stop)
 
-After the voices stop and the glowing auras subside, [Saoirse](../../../astarus/people/saoirse.md) angrily asks what is going on, but Torbra isn't sure herself. She likens it to [Saoirse](../../../astarus/people/saoirse.md) collapsing unconscious after touching the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md).
+After the voices stop and the glowing auras subside, Saoirse angrily asks what is going on, but Torbra isn't sure herself. She likens it to Saoirse collapsing unconscious after touching the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md).
 
 ### [PR19](../sessions/PR19.md)
 

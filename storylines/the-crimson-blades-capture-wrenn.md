@@ -21,9 +21,9 @@ When the party fled [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GO
 
 [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) and his entourage caught up to the party and Wrenn not far from [Frizthwaite](../places/settlements/villages/frizthwaite.md). Using their faster horses, they were able to close the gap to the group quickly, who sensed an impending battle.
 
-Despite seeing the attack coming, the party were quickly overwhelmed despite trying to hide behind their overturned cart. Initially evading capture, Wrenn was put to sleep by [Thanea](../../../astarus/people/thanea.md) who was trying to prevent bandits from tying him up.
+Despite seeing the attack coming, the party were quickly overwhelmed despite trying to hide behind their overturned cart. Initially evading capture, Wrenn was put to sleep by Thanea who was trying to prevent bandits from tying him up.
 
-As the party sustained heavy injuries and [Saoirse](../../../astarus/people/saoirse.md) fell unconscious from her injuries, the party realised it would be prudent to surrender.
+As the party sustained heavy injuries and Saoirse fell unconscious from her injuries, the party realised it would be prudent to surrender.
 
 Morog, only here for Wrenn specifically, allowed the party to live, making it clear that his mercy saved their lives.
 
@@ -43,7 +43,7 @@ Shortly thereafter Morog notices that Wrenn is muttering to himself and confisca
 
 ### [PR13](../sessions/PR13.md)
 
-Without Wrenn, the party reflects on what to do next. [Thanea](../../../astarus/people/thanea.md) points out that she read his mind and knows the names of the people he wanted to take them too, suggesting that they don't need him any more.
+Without Wrenn, the party reflects on what to do next. Thanea points out that she read his mind and knows the names of the people he wanted to take them too, suggesting that they don't need him any more.
 
 The group decides to press on to [Northhaven](../places/settlements/cities/northhaven.md) without him.
 

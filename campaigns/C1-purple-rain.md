@@ -24,7 +24,6 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 ## Links
 
 - [Purple Rain at D&D Beyond](https://www.dndbeyond.com/campaigns/1397675)
-- [Purple Rain Items](../items/ITEMS.md)
 
 ## Former Player Characters & Guests
 

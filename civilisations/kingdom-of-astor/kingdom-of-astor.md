@@ -22,7 +22,7 @@
 
 The Kingdom of Astor (shortened: *Astor*) is a militocracy located in [Southeastern Kardan](../../places/regions/southeastern-kardan.md). It borders the [Syntenne Republic](../syntenne-republic/syntenne-republic.md) to its south and the [Dardenn Kingdom](../dardenn-kingdom/dardenn-kingdom.md) to its north.
 
-It is the primary setting for [campaigns](../../../campaigns/README.md) set in [Astarus](../../celestial-objects/astarus.md).
+It is the primary setting for campaigns set in [Astarus](../../celestial-objects/astarus.md).
 
 ## Imagery
 

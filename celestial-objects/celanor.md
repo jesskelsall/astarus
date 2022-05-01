@@ -13,3 +13,5 @@
 Celanor is the only moon orbiting [Astarus](astarus.md). It is tidally locked to the planet, meaning the same side of the moon always points towards it.
 
 White and small in comparison to [Astarus](astarus.md), Celanor orbits at a distance that makes it look small in the sky. A lunar phase cycle lasting just over a month can be observed, and a solar eclipse is possible.
+
+The orbital period of Celanor (lunar cycle) dictated the new [Naissance Calendar](../history/calendars/naissance-calendar.md) created following [the Second Coming](../history/events/the-second-coming.md).
