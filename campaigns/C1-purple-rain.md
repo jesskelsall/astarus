@@ -94,8 +94,9 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR49](../sessions/PR49.md) | 2022-02-09 | *The [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md)* |
 | [PR50](../sessions/PR50.md) | 2022-02-16 | *Urgently Seeking Aid* |
 | [PR51](../sessions/PR51.md) | 2022-04-20 | *Not on My Watch* |
-||
 | [PR52](../sessions/PR52.md) | 2022-04-27 ||
+||
+| [PR53](../sessions/PR53.md) | 2022-05-04 | |
 
 ## Storylines
 
