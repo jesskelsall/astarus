@@ -1,6 +1,6 @@
 # Elysia Vanderboss
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/81d3db8d3e3009cd.png" height="500" />
+<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/ffd6eddc5e884c5c.png" height="500" />
 
 |||
 | --- | --- |
@@ -15,11 +15,13 @@
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
-| **Image ID** | `81d3db8d3e3009cd` |
+| **Image ID** | `ffd6eddc5e884c5c` ([Astorrel officer's uniform](../organisations/government/astorrel/uniforms/astorrel-officers-uniform.md))<br> `81d3db8d3e3009cd` (Adventurer's clothes) |
 
 ## Summary
 
-She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of her normal [Astorrel](../organisations/government/astorrel/astorrel.md) duties she is leading a private effort by the squad to investigating the meteoric threat.
+Elysia Vanderboss is a no-nonsense, driven tiefling with high demands on her [Astorrel](../organisations/government/astorrel/astorrel.md) squads. Her guarded and stern demeanour both protects herself from her superiors and allows her to encourage her squads to bend the rules in pursuit of her goals.
+
+As the original investigator into [meteorites](../items/meteoric/meteorite.md), Elysia is at the heart of the [Astorrel](../organisations/government/astorrel/astorrel.md)'s efforts to learn more about the meteoric threat.
 
 ## Military Record
 
@@ -41,7 +43,7 @@ She is a no-nonsense driven tiefling that expects a lot of her squad. Outside of
 | **Voice** | Low female register. Talks very intentionally, overly enunciated. |
 | **Mannerisms** | No unnecessary movements. Everything carefully considered, guarded. |
 | | |
-| **Quirks** | Treats her squad like a black box. Willing to bend and break the rules for a higher purpose. |
+| **Quirks** | Treats her command like a black box. Willing to bend and break the rules for a higher purpose. |
 | **Knowledge** | The meteoric threat. |
 | **Values** | Honesty, loyalty, full commitment to the cause. |
 | **Ambitions** | To protect those who can't help themselves. |
