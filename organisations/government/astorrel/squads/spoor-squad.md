@@ -6,11 +6,11 @@
 | **Role** | Urban Expansion / [Ulburn](../../../../places/settlements/villages/ulburn.md) |
 | **Commanding Officer** | [Linton Harkness](../../../../characters/linton-harkness.md) |
 | **Squad Lead** | [Trynelle Mildrabbit](../../../../characters/trynelle-mildrabbit.md) |
-| **Squad Hands** | |
+| **Squad Hands** | [Gaspard Hostaneth](../../../../characters/gaspard-hostaneth.md)<br>[Hortense Bainbridge](../../../../characters/hortense-bainbridge.md)<br>[Pebble Drop](../../../../characters/pebble-drop.md) |
 
-| [Trynelle Mildrabbit](../../../../characters/trynelle-mildrabbit.md) | Name | Name | Name |
+| [Trynelle Mildrabbit](../../../../characters/trynelle-mildrabbit.md) |  [Gaspard Hostaneth](../../../../characters/gaspard-hostaneth.md) | [Hortense Bainbridge](../../../../characters/hortense-bainbridge.md) | [Pebble Drop](../../../../characters/pebble-drop.md) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="400" /> |
+| <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/54c432c2e34d9e29.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/0cfcbee100ac0ee0.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/22f41e59f86af318.png" height="400" /> | <img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/d475e52681012884.png" height="400" /> |
 
 ## Summary
 

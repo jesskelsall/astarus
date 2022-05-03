@@ -8,7 +8,7 @@
 | **Lineage** | Tiefling |
 | **Pronouns** | she/her |
 | **Age** | 37 |
-| **Class** | Rogue |
+| **Class** | Rogue (Scout) |
 | **Worship** | |
 | **Relations** | |
 | **Places** | [Tenterfell House](../places/buildings/government/tenterfell-house.md) |
