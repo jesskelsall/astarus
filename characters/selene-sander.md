@@ -20,7 +20,7 @@
 
 ## Summary
 
-Selene Sander is a commoner married to [Ulfric Sander](ulfric-sander.md). Their son has recently joined the [Astornox](../organisations/government/astornox/astornox.md) and is stationed in Eaglesfield.
+Selene Sander is a commoner married to [Ulfric Sander](ulfric-sander.md). Their son has recently joined the [Astornox](../organisations/government/astornox/astornox.md) and is stationed in [Eaglesfield](../places/settlements/towns/eaglesfield.md).
 
 ## Characteristics
 

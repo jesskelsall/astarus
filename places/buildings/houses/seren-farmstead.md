@@ -10,7 +10,7 @@
 
 ## Summary
 
-The Seren Farmstead is home to the Seren family, [Ephaine Seren](../../../characters/ephaine-seren.md)'s parents and siblings. It is a humble rural farmstead in the traditional [cepine](../../../lineages/cepine.md) style, allowing for their seasonal shepherding lifestyle. It can be found in the northeast of the [Albulain valley](../../topography/valleys/albulain-valley.md).
+The Seren Farmstead is home to the Seren family, [Ephaine Seren](../../../characters/ephaine-seren.md)'s parents and siblings. It is a humble rural farmstead in the traditional [cepine](../../../lineages/cepine.md) style, allowing for their seasonal shepherding lifestyle. It can be found in the northeast of the [Albulain valley](../../topography/valleys-plains-deserts/albulain-valley.md).
 
 ### Exterior
 

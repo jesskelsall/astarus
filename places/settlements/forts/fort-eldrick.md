@@ -5,14 +5,16 @@
 | **Name** | Fort Eldrick | place.4
 | **Type** | Fort |
 | **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
-| **Nearby Places** | [Duskmere](../../topography/rivers-lakes/duskmere.md)<br>[Humar Cut](../../roads/humar-cut.md)<br>Humar Estuary<br>[River Carn](../../topography/rivers-lakes/river-carn.md) |
-| **People** | [Bevan Lancaster](../../../characters/bevan-lancaster.md) ([Astornox Captain](../../../organisations/government/astornox/ranks/astornox-captain.md) of Fort Eldrick) |
+| **Nearby Places** | [Duskmere](../../topography/rivers-lakes/duskmere.md)<br>[Humar Cut](../../roads/humar-cut.md)<br>[Humar Estuary](../../topography/swamps-deltas/humar-estuary.md)<br>[River Carn](../../topography/rivers-lakes/river-carn.md) |
+| **People** | [Bevan Lancaster](../../../characters/bevan-lancaster.md) ([Astornox Captain](../../../organisations/government/astornox/ranks/astornox-captain.md)) |
 
 ## Summary
 
-Fort Eldrick is a [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) fortification that protects [Southeastern Kardan](../../regions/southeastern-kardan.md) from attacks via the Humar Estuary. It is one of the last lines of defence before [Northhaven](../cities/northhaven.md).
+Fort Eldrick is a [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) fortification that protects [Southeastern Kardan](../../regions/southeastern-kardan.md) from attacks via the [Humar Estuary](../../topography/swamps-deltas/humar-estuary.md). It is one of the last lines of defence before [Northhaven](../cities/northhaven.md).
 
 It is a long wall that stretches from the [River Carn](../../topography/rivers-lakes/river-carn.md) to [Duskmere](../../topography/rivers-lakes/duskmere.md), shore to shore. Half way along is a conjoined fort on the northern side, rectangular in design.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

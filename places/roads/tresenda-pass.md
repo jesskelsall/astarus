@@ -4,15 +4,17 @@
 | --- | --- |
 | **Name** | Tresenda Pass | place.4
 | **Type** | Road |
-| **Location** | [Southeastern Kardan](../regions/southeastern-kardan.md) |
-| **Nearby Places** | [Blittergate](../settlements/towns/blittergate.md)<br>[Filisur](../settlements/villages/filisur.md)<br>Fort Maloja<br>[Great Astor Road](great-astor-road.md)<br>[Hyceodd](../settlements/towns/hyceodd.md)<br>Neum Flats<br>Picdale<br>[Picdale Water](../topography/rivers-lakes/picdale-water.md)<br>[Upper Tresenda](../topography/valleys/upper-tresenda.md) |
+| **Location** | [Albulain Valley](../topography/valleys-plains-deserts/albulain-valley.md)<br>[Southeastern Kardan](../regions/southeastern-kardan.md) |
+| **Nearby Places** | [Filisur](../settlements/villages/filisur.md)<br>[Fort Maloja](../settlements/forts/fort-maloja.md)<br>[Foss Peaks](../topography/mountains/foss-peaks.md)<br>[Upper Tresenda](../topography/valleys-plains-deserts/upper-tresenda.md)<br>[Western Reach](western-reach.md) |
 | **People** | |
 
 ## Summary
 
-Tresenda Pass is a mountain pass that stretches from Fort Maloja in the north to [Blittergate](../settlements/towns/blittergate.md) in the south, notorious for its wolves and impassibility during the winter months.
+Tresenda Pass is a prominent valley stretching from the [Albulain Valley](../topography/valleys-plains-deserts/albulain-valley.md) in the north to [the Western Way](the-western-way.md) in the south. The bulk of the trail known by the same name passes through this valley.
 
-The name "Tresenda Pass" can be used to both refer to the road and the valley that the road passes through along its middle. The mountain pass itself is 60 miles in length.
+The pass is noteworthy for providing access to the [northern road](northern-road.md) across the [Neum Flats](../topography/valleys-plains-deserts/neum-flats.md) and [Fort Maloja](../settlements/forts/fort-maloja.md) that protects the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md) from [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) incursions. During the winter months heavy northerly snowfall makes the 60 mile long valley impassable.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

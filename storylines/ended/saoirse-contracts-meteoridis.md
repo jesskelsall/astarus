@@ -31,13 +31,13 @@ Saoirse gives [Wrenn Piznarck](../../characters/wrenn-piznarck.md) the pouch of 
 
 She insists that Wrenn gives her the pouch of dust back in exchange for the [meteorite](../../items/meteoric/meteorite.md), which he agrees to, but still she won't let it go easily. She demands a pinkie promise from Wrenn in order to part with it, and only if he will return it to her once he's done looking.
 
-He complies. After looking at the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor, he hands it back to Saoirse for safe keeping.
+He complies. After looking at the [Goldreach](../../places/settlements/towns/goldreach.md) Meteor, he hands it back to Saoirse for safe keeping.
 
 This is a clear manifestation of her compulsion to stay near to [Meteoric Dust](../../items/meteoric/meteoric-dust.md).
 
 ### [PR19](../../sessions/PR19.md)
 
-While in [sanctuary](../../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/government/the-sanctum.md), Torbra questions Saoirse directly about why she carries the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor around everywhere she goes. She explains that she wants to protect it and probably likes it more than the rest of the party. Thanea defends her, noting that [Elysia Vanderboss](../../characters/elysia-vanderboss.md) considers the [meteorite](../../items/meteoric/meteorite.md) and pouch of [meteoric dust](../../items/meteoric/meteoric-dust.md) to be important.
+While in [sanctuary](../../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/government/the-sanctum.md), Torbra questions Saoirse directly about why she carries the [Goldreach](../../places/settlements/towns/goldreach.md) Meteor around everywhere she goes. She explains that she wants to protect it and probably likes it more than the rest of the party. Thanea defends her, noting that [Elysia Vanderboss](../../characters/elysia-vanderboss.md) considers the [meteorite](../../items/meteoric/meteorite.md) and pouch of [meteoric dust](../../items/meteoric/meteoric-dust.md) to be important.
 
 When [Elysia Vanderboss](../../characters/elysia-vanderboss.md) visits a second time she sees Saoirse in the bathroom clutching the [meteorite](../../items/meteoric/meteorite.md), refusing to leave. When Elysia leaves she gives Saoirse a perplexed look.
 

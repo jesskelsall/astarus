@@ -38,7 +38,7 @@ has led to an architectural renaissance that rivals the elven cities of [Reimate
 | Forest | Schulterwood |
 | Rivers & Lakes | [Lake Gondra](../../../places/topography/rivers-lakes/lake-gondra.md) |
 | Mountains | [Vourpain Peaks](../../../places/topography/mountains/vourpain-peaks.md) |
-| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-oceans/gulf-of-tanelle.md) |
+| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-bays/gulf-of-tanelle.md) |
 
 ## TODO
 

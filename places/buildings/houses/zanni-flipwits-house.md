@@ -1,11 +1,11 @@
 # Zanni Flipwit's House
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Zanni Flipwit's House |
+| **Name** | Zanni Flipwit's House | place.4
 | **Type** | House |
 | **Location** | [Arnaside](../../settlements/villages/arnaside.md) |
-| **Nearby Places** | [Head & Haft](../inns-taverns/head-and-haft.md)<br>[The Malneshitas](../temples/the-malneshitas.md) |
+| **Nearby Places** | [Head and Haft](../inns-taverns/head-and-haft.md)<br>[The Malneshitas](../temples/the-malneshitas.md) |
 | **People** | [Zanni Flipwit](../../../characters/zanni-flipwit.md) |
 
 ## Summary

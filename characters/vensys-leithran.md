@@ -24,7 +24,7 @@ Vensys Leithran was the mother of [Esme Leithran](esme-leithran.md). She was kil
 
 ## History
 
-Vensys and [Montel Leithran](montel-leithran.md) fled the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) due to an escalating rivalry between their family and another. They managed to sneak into the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) via the Kas'ran Desert to Mossband, then on to [Hyceodd](../places/settlements/towns/hyceodd.md), bypassing [Blittergate](../places/settlements/towns/blittergate.md).
+Vensys and [Montel Leithran](montel-leithran.md) fled the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) due to an escalating rivalry between their family and another. They managed to sneak into the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) via the [Kas'ran Desert](../places/topography/valleys-plains-deserts/kasran-desert.md) to [Mossband](../places/settlements/villages/mossband.md), then on to [Hyceodd](../places/settlements/towns/hyceodd.md), bypassing [Blittergate](../places/settlements/towns/blittergate.md).
 
 Here in [Hyceodd](../places/settlements/towns/hyceodd.md) they attempted to settle down, finding enough other immigrants in the city to feel safer. During this time she gave birth to [Esme Leithran](esme-leithran.md), who exhibited signs of being special, having greyer than normal skin.
 

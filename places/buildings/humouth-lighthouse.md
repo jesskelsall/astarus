@@ -1,16 +1,18 @@
 # Humouth Lighthouse
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Humouth Lighthouse |
+| **Name** | Humouth Lighthouse | place.4
 | **Type** | Building |
 | **Location** | [Humouth](../settlements/villages/humouth.md) |
-| **Nearby Places** | |
+| **Nearby Places** | [The Keeper's Reprise](inns-taverns/the-keepers-reprise.md) |
 | **People** | |
 
 ## Summary
 
-Humouth Lighthouse is a lighthouse that helps ships navigate their way between the [Sea of Songs](../topography/seas-oceans/sea-of-songs.md) and the [River Humar](../topography/rivers-lakes/river-humar.md), around the Humar Estuary.
+Humouth Lighthouse is a lighthouse that helps ships navigate their way between the [Sea of Songs](../topography/seas-bays/sea-of-songs.md) and the [River Humar](../topography/rivers-lakes/river-humar.md), around the [Humar Estuary](../topography/swamps-deltas/humar-estuary.md).
+
+## Description
 
 It is a typical lighthouse design in plain white. A slightly tapered cylinder of cobbled stone, painted white but stripped on its east side due to the wind. The lamp deck is enclosed, with a magical light source on the inside acting as a beacon during the night hours.
 

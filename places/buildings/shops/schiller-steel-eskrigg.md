@@ -2,7 +2,7 @@
 
 |||
 | --- | --- |
-| **Name** | Schiller Steel Eskrigg |
+| **Name** | Schiller Steel Eskrigg | place.4
 | **Type** | Shop |
 | **Location** | [Eskrigg](../../settlements/cities/eskrigg.md) |
 | **Nearby Places** | |
@@ -11,6 +11,8 @@
 ## Summary
 
 A high-end weapon shop that exclusively sells [Schiller steel](../../../items/schiller-steel.md). It is owned by the [Schiller family](../../../organisations/schiller-family.md) and ran by a shopkeeper that they trust.
+
+## Description
 
 ### Exterior
 

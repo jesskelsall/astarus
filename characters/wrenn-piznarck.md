@@ -66,12 +66,12 @@ TODO
 
 ## History
 
-At a young age Wrenn Piznarck enlisted in the [Astornox](../organisations/government/astornox/astornox.md), joining the army during the [Astor-Syntenne War](../history/events/astor-syntenne-war.md). At one point he was stationed in Kilflynn where he met and became close friends with [Alistair Hawthorn](alistair-hawthorn.md).
+At a young age Wrenn Piznarck enlisted in the [Astornox](../organisations/government/astornox/astornox.md), joining the army during the [Astor-Syntenne War](../history/events/astor-syntenne-war.md). At one point he was stationed in [Kilflynn](../places/settlements/towns/kilflynn.md) where he met and became close friends with [Alistair Hawthorn](alistair-hawthorn.md).
 
 After the war Wrenn was given his citizenship and chose to retired. Not long after he was approached by the [Astorrel](../organisations/government/astorrel/astorrel.md) who looked to recruit him due to the reputation of his magical abilities as a [magicborn](../civilisations/kingdom-of-astor/magicborn.md) with military training. He accepted. The [Astornar](../organisations/government/astornar.md) got involved in his hiring, setting him up in a scheme whereby he retained his [Astornox Lieutenant](../organisations/government/astornox/ranks/astornox-lieutenant.md) rank as a means of checking in on [Astornox](../organisations/government/astornox/astornox.md) operations in other towns and cities on their behalf. Between his [Astorrel](../organisations/government/astorrel/astorrel.md) missions he would travel around the kingdom completing assessments in secret.
 
 Later Wrenn joined [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) under [Elysia Vanderboss](elysia-vanderboss.md)' command where he helped her investigate the meteoric threat alongside his [Astorrel](../organisations/government/astorrel/astorrel.md) and [Astornar](../organisations/government/astornar.md) duties.
 
-After travelling to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in search of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), anticipated by [Tyburn Dalvos](tyburn-dalvos.md), Wrenn made contact with the [Purple Rain](../campaigns/C1-purple-rain.md) party, enlisting their help in finding the [meteorite](../items/meteoric/meteorite.md).
+After travelling to [Goldreach](../places/settlements/towns/goldreach.md) in search of the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md), anticipated by [Tyburn Dalvos](tyburn-dalvos.md), Wrenn made contact with the [Purple Rain](../campaigns/C1-purple-rain.md) party, enlisting their help in finding the [meteorite](../items/meteoric/meteorite.md).
 
 *See: [The Crimson Blades Capture Wrenn](../storylines/the-crimson-blades-capture-wrenn.md)*

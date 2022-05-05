@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | |
 | **Relations** | [Einra Craggbeard](einra-craggbeard.md) (daughter) |
-| **Places** | Iredale |
+| **Places** | [Iredale](../places/settlements/towns/iredale.md) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) |
 |||
@@ -24,4 +24,4 @@ Hjalmann Craggbeard is TODO.
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / Iredale | [Overon Nightingale](overon-nightingale.md) ||
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Iredale](../places/settlements/towns/iredale.md) | [Overon Nightingale](overon-nightingale.md) ||

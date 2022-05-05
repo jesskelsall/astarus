@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Leithran Shack | place.4
 | **Type** | Building |
-| **Location** | Humar Estuary |
+| **Location** | [Humar Estuary](../topography/swamps-deltas/humar-estuary.md) |
 | **Nearby Places** | |
 | **People** | [Montel Leithran](../../characters/montel-leithran.md)<br>[Esme Leithran](../../characters/esme-leithran.md) |
 
 ## Summary
 
-The Leithran Shack is a wooden shack and dock on the Humar Estuary, occupying a particularly waterlogged spot that supports travel by boat. It has long been abandoned except for use as a temporary shelter for passers by.
+The Leithran Shack is a wooden shack and dock on the [Humar Estuary](../topography/swamps-deltas/humar-estuary.md), occupying a particularly waterlogged spot that supports travel by boat. It has long been abandoned except for use as a temporary shelter for passers by.
 
 ### Exterior
 

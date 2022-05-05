@@ -1,9 +1,13 @@
 # Winster Forest
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Winster Forest |
+| **Name** | Winster Forest | place.4
 | **Type** | Forest |
 | **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
-| **Nearby Places** | [Eskside Byway](../../roads/eskside-byway.md)<br>Grasthwaite<br>[Grasthwaite Bend](../../roads/grasthwaite-bend.md)<br>[Knock Peaks](../mountains/knock-peaks.md)<br>Langtock<br>[Mocker Swamp](mocker-swamp.md)<br>[Mockerkin](../../settlements/towns/mockerkin.md)<br>[River Esk](../rivers-lakes/river-esk.md) |
+| **Nearby Places** | [Grasthwaite](../../settlements/villages/grasthwaite.md)<br>[Langtock](../../settlements/villages/langtock.md)<br>[Knock Peaks](../mountains/knock-peaks.md)<br>[Mockerkin](../../settlements/towns/mockerkin.md)<br>[Mocker Swamp](../swamps-deltas/mocker-swamp.md)<br>[River Esk](../rivers-lakes/river-esk.md) |
 | **People** | |
+
+## Summary
+
+## Description

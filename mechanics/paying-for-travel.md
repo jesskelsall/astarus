@@ -56,11 +56,11 @@ Journey value can be thought of as the base cost of the distance and route type.
 | --- | ---:| ---:|
 | ***West***
 | [Blittergate](../places/settlements/towns/blittergate.md) | 114 mi | 129 |
-| Carnmere | 84 mi | 105 |
+| [Carnmere](../places/settlements/towns/carnmere.md) | 84 mi | 105 |
 | [Fort Eldrick](../places/settlements/forts/fort-eldrick.md) | 30 mi | 45 |
-| Hartsgarth | 66 mi | 78 |
+| [Hartsgarth](../places/settlements/villages/hartsgarth.md) | 66 mi | 78 |
 | [Hyceodd](../places/settlements/towns/hyceodd.md) | 72 mi | 75 |
-| Silethwaite | 162 mi | 177 |
+| [Silethwaite](../places/settlements/villages/silethwaite.md) | 162 mi | 177 |
 | [Ulburn](../places/settlements/villages/ulburn.md) | 18 mi | 36 |
 | [Yeatscale](../places/settlements/cities/yeatscale.md) | 186 mi | 189 |
 | ***South***

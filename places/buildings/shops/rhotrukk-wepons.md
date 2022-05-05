@@ -1,12 +1,12 @@
 # Rhotrukk Wepons
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Rhotrukk Wepons |
+| **Name** | Rhotrukk Wepons | place.4
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Rhotrukk Bone Bleeder](../../../characters/rhotrukk-bone-bleeder.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md) |
+| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Glug by Gwinthel](glug-by-gwinthel.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[S.Q. Wirral & Son](sq-wirral-and-son.md) |
+| **People** | [Rhotrukk Bone Bleeder](../../../characters/rhotrukk-bone-bleeder.md) (owner) |
 
 ## Summary
 
@@ -16,7 +16,9 @@ It is ran by [Rhotrukk Bone Bleeder](../../../characters/rhotrukk-bone-bleeder.m
 
 On the outside, the sign is a large and long plank of wood that has been crudely painted with red paint and is misspelled. Nobody comments on it. There are small windows with iron bars on them.
 
-Inside there is a blacksmith's forge where Rhotrukk can be found working. The rest of the shop is metal racks against the walls and in the middle, filled with weapons haphazardly and with no logical order. 
+Inside there is a blacksmith's forge where Rhotrukk can be found working. The rest of the shop is metal racks against the walls and in the middle, filled with weapons haphazardly and with no logical order.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |
@@ -28,7 +30,7 @@ Inside there is a blacksmith's forge where Rhotrukk can be found working. The re
 
 ## Vendor
 
-- Armor (PHB p149).
+- Armour (PHB p149).
 
 [Players](../../../../players/logan.md) must roll to see if they can find the weapon(s) they want:
 
@@ -42,9 +44,3 @@ Inside there is a blacksmith's forge where Rhotrukk can be found working. The re
 Alternatively Rhotrukk can be convinced to stop working to help search through his madness on a DC 12 persuasion check.
 
 Rhotrukk can also be requested to make a standard weapon on a DC 15 persuasion check. It will be ready the following morning.
-
-## Planning
-
-### [Astorrel Agents](../../../campaigns/C2-astorrel-agents.md)
-
-Rhotrukk is working away at his forge as usual, unaware or unbothered by the increasing interest in his wares today.

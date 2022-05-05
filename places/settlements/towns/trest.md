@@ -7,7 +7,7 @@
 | **Location** | [Nilus Coast](../../../civilisations/nilsavnic-alliance/states/nilus-coast.md) |
 | **Civilisation** | [Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Population** | 1,400 |
-| **Nearby Places** | [Gulf of Tanelle](../../topography/seas-oceans/gulf-of-tanelle.md)<br>[Nilus Peaks](../../topography/mountains/nilus-peaks.md)<br>[Trubska](../villages/trubska.md) |
+| **Nearby Places** | [Gulf of Tanelle](../../topography/seas-bays/gulf-of-tanelle.md)<br>[Nilus Peaks](../../topography/mountains/nilus-peaks.md)<br>[Trubska](../villages/trubska.md) |
 | **People** | |
 
 ## Summary
@@ -18,7 +18,7 @@ The second settlement along the [Nilus Coast](../../../civilisations/nilsavnic-a
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Town on a consistently sloping hill. Multi-storey buildings with maze-like narrow cobbled streets between. Drainage channels cut down every street to help the water flow during rainy days. Bunting in turquoise and gold criss-crosses many streets. Large main road cuts town in half east to west. Views of the [Nilus Peaks](../../topography/mountains/nilus-peaks.md) to the north, [Gulf of Tanelle](../../topography/seas-oceans/gulf-of-tanelle.md) to the south. |
+| Sights | Town on a consistently sloping hill. Multi-storey buildings with maze-like narrow cobbled streets between. Drainage channels cut down every street to help the water flow during rainy days. Bunting in turquoise and gold criss-crosses many streets. Large main road cuts town in half east to west. Views of the [Nilus Peaks](../../topography/mountains/nilus-peaks.md) to the north, [Gulf of Tanelle](../../topography/seas-bays/gulf-of-tanelle.md) to the south. |
 | Sounds | Hustle bustle of daily life. Horses and carts. Merchants trading. Pigeons. Children playing in [the alleys](../../buildings/shops/the-alley.md). |
 | Smells | Salt air, mossy cobble, fresh bread, bird poop. |
 | People | Lower to middle class citizens, merchants, [Coastguard](../../../organisations/guards/coastguard.md). |

@@ -7,7 +7,7 @@
 
 ## Summary
 
-[The Morning Chasers](../../organisations/the-morning-chasers.md) were contracted by [Astral squad](../../organisations/government/astorrel/squads/astral-squad.md) to search for signs of a [meteorite](../../items/meteoric/meteorite.md) impact in Silethwaite. They turned up little information. With [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s experience with the [Goldreach meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), [Elysia Vanderboss](../../characters/elysia-vanderboss.md) wants the organisation questioned again.
+[The Morning Chasers](../../organisations/the-morning-chasers.md) were contracted by [Astral squad](../../organisations/government/astorrel/squads/astral-squad.md) to search for signs of a [meteorite](../../items/meteoric/meteorite.md) impact in [Silethwaite](../../places/settlements/villages/silethwaite.md). They turned up little information. With [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s experience with the [Goldreach meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), [Elysia Vanderboss](../../characters/elysia-vanderboss.md) wants the organisation questioned again.
 
 ## Mission
 
@@ -15,7 +15,7 @@
 | --- | --- |
 | **Given To** | [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) |
 | **Given By** | [Elysia Vanderboss](../../characters/elysia-vanderboss.md) |
-| **Goal** | Find and question [the Morning Chasers](../../organisations/the-morning-chasers.md), particularly their leader [Janneke Borflast](../../characters/janneke-borflast.md). See if anything more can be learned of their journey to Silethwaite. |
+| **Goal** | Find and question [the Morning Chasers](../../organisations/the-morning-chasers.md), particularly their leader [Janneke Borflast](../../characters/janneke-borflast.md). See if anything more can be learned of their journey to [Silethwaite](../../places/settlements/villages/silethwaite.md). |
 | **Evidence Required** | None. |
 | **Time Limit** | 1 day |
 | **Reward** | [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md): 25 gp<br>[Astorrel Squad Hand](../../organisations/government/astorrel/ranks/astorrel-squad-hand.md): 20 gp |
@@ -53,7 +53,7 @@
 
 Following the meteoric threat briefing in [Tenterfell House](../../places/buildings/government/tenterfell-house.md), [Elysia Vanderboss](../../characters/elysia-vanderboss.md) gives [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) their first [Astorrel](../../organisations/government/astorrel/astorrel.md) mission. She notes that this is a small mission to give them a feel for the process of completing missions, particularly for [Torbra Tauff](../../characters/torbra-tauff.md) who has just been promoted to [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md).
 
-The party are told to speak with [the Morning Chasers](../../organisations/the-morning-chasers.md), lead by [Janneke Borflast](../../characters/janneke-borflast.md). They may be able to learn more information about their trip to Silethwaite due to their experience with the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md). Elysia directs them to the [Sunrise District](../../places/settlements/districts/sunrise-district.md) in [Eskrigg](../../places/settlements/cities/eskrigg.md).
+The party are told to speak with [the Morning Chasers](../../organisations/the-morning-chasers.md), lead by [Janneke Borflast](../../characters/janneke-borflast.md). They may be able to learn more information about their trip to [Silethwaite](../../places/settlements/villages/silethwaite.md) due to their experience with the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md). Elysia directs them to the [Sunrise District](../../places/settlements/districts/sunrise-district.md) in [Eskrigg](../../places/settlements/cities/eskrigg.md).
 
 With only the rest of the day to complete the mission in, the party leave [Tenterfell House](../../places/buildings/government/tenterfell-house.md) in search of [the Morning Chasers](../../organisations/the-morning-chasers.md).
 
@@ -69,7 +69,7 @@ Janneke attempts to hide the presence of [Kieran Bennington](../../characters/ki
 
 [Wizira](../../characters/wizira.md) and Saoirse discover the pair's presence upstairs, finding Slaine very ill in bed. Kieran initially won't let [Wizira](../../characters/wizira.md) near Slaine, who is not lucid. When he does show moments of clarity he is panicked, worrying about the [Silethwaite Meteorite](../../items/meteoric/meteorites/silethwaite-meteorite.md) he possesses.
 
-The party learn that on their trip to Silethwaite they found the [Silethwaite Meteorite](../../items/meteoric/meteorites/silethwaite-meteorite.md) in a clearing on the edge of the [Great Sile Woods](../../places/topography/forests/great-sile-woods.md). The clearing looked man-made. There was also a sense that something had lived there, but nothing recent. Slaine found and took the [meteorite](../../items/meteoric/meteorite.md). As the adventurers didn't know what it was, Janneke let him keep it, assuming he would sell it once home. Instead he became increasingly obsessed with it, eventually turning violent when people tries to take it from him.
+The party learn that on their trip to [Silethwaite](../../places/settlements/villages/silethwaite.md) they found the [Silethwaite Meteorite](../../items/meteoric/meteorites/silethwaite-meteorite.md) in a clearing on the edge of the [Great Sile Woods](../../places/topography/forests/great-sile-woods.md). The clearing looked man-made. There was also a sense that something had lived there, but nothing recent. Slaine found and took the [meteorite](../../items/meteoric/meteorite.md). As the adventurers didn't know what it was, Janneke let him keep it, assuming he would sell it once home. Instead he became increasingly obsessed with it, eventually turning violent when people tries to take it from him.
 
 [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) manage to convince [the Morning Chasers](../../organisations/the-morning-chasers.md) to let them help. They earn their trust by talking of their experiences of dealing with [meteoric watchers](../../creatures/meteoric-watcher.md) and the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), as well as being [magicborn on the run](magicborn-on-the-run.md) from the [Astorrel](../../organisations/government/astorrel/astorrel.md), which comes up when Kieran confides in them that he is a [magicborn](../../civilisations/kingdom-of-astor/magicborn.md).
 

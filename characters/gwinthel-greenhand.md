@@ -1,43 +1,41 @@
 # Gwinthel Greenhand
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Gwinthel Greenhand |
+| **Name** | Gwinthel Greenhand | character.4
 | **Lineage** | Dwarf |
-| **Gender** | Non-binary |
-| **Age** | 74|
+| **Pronouns** | they/them |
+| **Age** | 74 |
 | **Class** | |
-| **Alignment** | |
-| **Affiliation** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
+| **Background** | |
 | **Worship** | |
 | **Relations** | |
-| **Acquaintances** | |
-| **From** | |
-| **Places** | |
+| **Places** | [Glug by Gwinthel](../places/buildings/shops/glug-by-gwinthel.md) (owner) |
+| **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
+| **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
+|||
+| **Image ID** | |
 
 ## Summary
 
-Gwinthel Greenhand is a potion brewer who is about to open their own shop on Crafter Course: "Glug by Gwinthel". They are running [Gwinthel's Potion Tombola](../mechanics/roleplay/games/gwinthels-potion-tombola.md) to advertise their soon to open business.
+Gwinthel Greenhand is a potion brewer who recently opened their own shop on [Crafters Course](../places/settlements/streets/crafters-course.md), following its successful promotion using a tombola.
+
+*See: [Gwinthel's Potion Tombola](../mechanics/roleplay/games/gwinthels-potion-tombola.md)*
 
 ## Characteristics
 
-| Appearance | Description |
+|||
 | --- | --- |
-| Face | Flat face with narrow nose. Squinted eyes. Lump on their right cheek. |
-| Hair | Mousy brown shoulder length bob. Beard stubble. |
-| Body | Slightly taller and thinner than most dwarves. |
-| Clothes | Long velvet alpine green robe, made of the same material as the tablecloth. Golden necklaces. Leather belt with several pouches. |
-| Mannerisms | Theatrically over the top. Lots of waving hands in the air, shouting. |
+| **Face** | Flat face with narrow nose. Squinted eyes. Lump on their right cheek. | characteristics.2
+| **Hair** | Mousy brown shoulder length bob. Beard stubble. |
+| **Body** | Slightly taller and thinner than most dwarves. |
+| **Clothes** | Long velvet alpine green robe, made of the same material as the tablecloth. Golden necklaces. Leather belt with several pouches. |
+| **Voice** | Grandiose and loud. |
+| **Mannerisms** | Theatrically over the top. Lots of waving hands in the air, shouting. |
+|||
+| **Quirks** | Showman at heart. |
+| **Knowledge** | Potions. |
+| **Values** | Those who trust others. Risk takers. |
+| **Ambitions** | Run a successful potion shop. |
+| **Dislikes** | Rules, the unimaginative. |
 
-| Personality | Description |
-| --- | --- |
-| Voice | Grandiose and loud. |
-| Quirks | Showman at heart. |
-| Knowledge | Potions. |
-| Values | Those who trust others. Risk takers. |
-| Ambitions | Run a successful potion shop. |
-| Dislikes | Rules, the unimaginative. |
-
-## History
-
-Gwinthel Greenhand has bought a store on [Crafters Course](../places/settlements/streets/crafters-course.md) after the previous owner died. She is planning on opening an alchemical shop there, "Glug by Gwinthel".

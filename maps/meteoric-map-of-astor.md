@@ -27,10 +27,10 @@ These mistakes are down to my iteration on [Southeastern Kardan](../places/regio
 | Meteoric Map of Astor | [Astorrel Map of Southeastern Kardan](astorrel-map-of-southeastern-kardan.md) |
 | --- | --- |
 | Almsthwaite | [Mockerkin](../places/settlements/towns/mockerkin.md) |
-| Bootle (west) | Hartsgarth |
+| [Bootle](../places/settlements/villages/bootle.md) (west) | [Hartsgarth](../places/settlements/villages/hartsgarth.md) |
 | Dunriven | 
 | Eskside | *Removed.*
-| Fossgarth | Carnmere |
+| Fossgarth | [Carnmere](../places/settlements/towns/carnmere.md) |
 | Grachside | [Yeatscale](../places/settlements/cities/yeatscale.md) |
 | Leece | [Ulburn](../places/settlements/villages/ulburn.md) |
 

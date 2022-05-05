@@ -66,7 +66,7 @@ The ruling arch-mages and the [Unicorn Cavalry](../../../organisations/guards/un
 
 In the wake of [the Third Coming](../../../history/events/the-third-coming.md), many elves living in modern day [Savnia](savnia.md) were displaced from [Naissance](../../../places/settlements/cities/arrepont.md) and its surrounding territory by the sudden influx of new people. Forced south by the new coalition of races that would eventually codify as [Savnia](savnia.md), the elves fled beyond the Vie Marshland and made their stand in the Reime Jungle.
 
-Faced with a new sudden and harsh reality that the elves were no longer the dominant race in western [Kardan](../../../places/topography/continents-islands/kardan.md), many fled even further south to join the [Syntenne Republic](../../syntenne-republic/syntenne-republic.md), embracing their isolationist and historical ways. Those that were left united under a common unicorn banner - Reimatelau.
+Faced with a new sudden and harsh reality that the elves were no longer the dominant race in [western Kardan](../../../places/regions/western-kardan.md), many fled even further south to join the [Syntenne Republic](../../syntenne-republic/syntenne-republic.md), embracing their isolationist and historical ways. Those that were left united under a common unicorn banner - Reimatelau.
 
 For decades there were on and off wars on the edge of the jungle and up as far as Vouvant as Reimatelau tried to regain control of the now renamed city of [Arrepont](../../../places/settlements/cities/arrepont.md) from [Savnia](savnia.md).
 

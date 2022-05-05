@@ -1,13 +1,13 @@
 # Frizthwaite
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Frizthwaite |
+| **Name** | Frizthwaite | place.4
 | **Type** | Village |
 | **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 800 |
-| **Nearby Places** | [Beckermet](../towns/beckermet.md)<br>[Hawkswood](../../topography/forests/hawkswood.md)<br>[Howbridge](howbridge.md)<br>[River Humar](../../topography/rivers-lakes/river-humar.md) |
+| **Nearby Places** | [River Humar](../../topography/rivers-lakes/river-humar.md) |
 | **People** | [Oleg Purley](../../../characters/oleg-purley.md) |
 
 ## Summary
@@ -19,6 +19,8 @@ It is situated on the north bank of the river and is not easily accessible by ro
 The waters here are slow and lend themselves to river fishing, the village's main export. Many of the villagers are experts in fishing and using boats in the river's currents, making them adept at moving goods up and down the river, as far south as [Northhaven](../cities/northhaven.md).
 
 The village itself is tightly packed against the river's edge, with many piers and boats roped to them. The main dirt street runs along the riverside. Here the market stalls sell fresh fish from the river, as well as other wares imported from down river.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |
@@ -32,16 +34,3 @@ The village itself is tightly packed against the river's edge, with many piers a
 
 - [The Greedy Trout](../../buildings/inns-taverns/the-greedy-trout.md) (inn)
 - Frizthwaite General (general store)
-
-## Planning
-
-### [Purple Rain](../../../campaigns/C1-purple-rain.md)
-
-The village is going about their usual business, blissfully unaware of the party on the run from the [Astornox](../../../organisations/government/astornox/astornox.md). [Astornox](../../../organisations/government/astornox/astornox.md) visit the town every few days from [Beckermet](../towns/beckermet.md). Today they're not here, having visited yesterday.
-
-[Oleg Purley](../../../characters/oleg-purley.md) is standing around by the riverside and is able to help the party procure a boat.
-
-| Item | Price |
-| --- | ---:|
-| Rowboat (rent, per day) | 1 gp |
-| Rowboat (buy) | 50 gp |

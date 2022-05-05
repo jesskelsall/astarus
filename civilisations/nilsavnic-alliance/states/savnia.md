@@ -38,4 +38,4 @@ Following the founding of the alliance and the inclusion of [Reimatelau](reimate
 | Forest | |
 | Rivers & Lakes | |
 | Mountains | |
-| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-oceans/gulf-of-tanelle.md) |
+| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-bays/gulf-of-tanelle.md) |

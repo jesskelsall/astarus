@@ -101,7 +101,7 @@ While riding into the bottom of the [Tresenda Pass](../../places/roads/tresenda-
 
 ### [AA16](../../sessions/AA16.md)
 
-When [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) arrives in the [Albulain Valley](../../places/topography/valleys/albulain-valley.md) in search of [Kiln Squad](../../organisations/government/astorrel/squads/kiln-squad.md), [Ephaine Seren](../../characters/ephaine-seren.md) leads them towards the Schaef Farmstead, using her knowledge of her home village to guide them. [Nills](../../characters/nills.md) can be seen to [Noon Schiller](../../characters/noon-schiller.md), walking alongside Ephaine for around an hour, exploring the area with her.
+When [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) arrives in the [Albulain Valley](../../places/topography/valleys-plains-deserts/albulain-valley.md) in search of [Kiln Squad](../../organisations/government/astorrel/squads/kiln-squad.md), [Ephaine Seren](../../characters/ephaine-seren.md) leads them towards the Schaef Farmstead, using her knowledge of her home village to guide them. [Nills](../../characters/nills.md) can be seen to [Noon Schiller](../../characters/noon-schiller.md), walking alongside Ephaine for around an hour, exploring the area with her.
 
 That evening the party head up to the Shine to the Stars, led once again by Ephaine, at the suggestion of [Schaef Seren](../../characters/schaef-seren.md). Once there they look upon the ancient standing stones, curiously trying to figure out their nature while Ephaine rediscovers this place of power that she was once familiar with.
 

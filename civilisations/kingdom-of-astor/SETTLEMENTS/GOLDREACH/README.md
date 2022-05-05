@@ -1,4 +1,4 @@
-# Goldreach
+# Goldreach - Old
 
 | []() | |
 | --- | --- |
@@ -15,8 +15,6 @@
 ## Summary
 
 Goldreach is a town in northern Astor. It is the northernmost settlement along the Northern Road, and the last before entering the Dardenn Kingdom.
-
-The quaint rural town is set amongst expansive grassy plains, penned in by the Hawkswood to the west and the Winster Forest to the east, with views of the mountains to the north providing a dramatic backdrop.
 
 Built on a natural spring in the plains, Goldreach is not walled and rarely in any danger due to the amicable relationship with the Dardenn Kingdom to the north. It is built around a Marketplace and features an Order of the Diamond temple, an Astornox stronghold with an outer wall, lively shops and a few notable inns.
 

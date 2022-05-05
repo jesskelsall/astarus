@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | [Bhygar](../gods/deities/bhygar.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Bernard Horace Schiller](bernard-horace-schiller.md) (father)<br>[Schiller Family](../organisations/schiller-family.md) (family)<br>[Nills](nills.md) (Warlock patron) |
-| **Places** | Ballabeg (birthplace) |
+| **Places** | [Ballabeg](../places/settlements/villages/ballabeg.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -50,7 +50,7 @@ Noon Schiller is a player character in the [Astorrel Agents](../campaigns/C2-ast
 
 ## History
 
-Noon was born in Ballabeg (publicly: Baldrine) into the [Schiller family](../organisations/schiller-family.md), a wealthy and powerful family on [Kardanis](../places/topography/continents-islands/kardanis.md). As the family heir, Noon was infused with [Nills](nills.md) (an aspect of [Nilliski](nilliski.md)) prior to his birth in a blood ritual conducted by his family, honouring the pact that the Schillers made with [Nilliski](nilliski.md) generations ago.
+Noon was born in [Ballabeg](../places/settlements/villages/ballabeg.md) (publicly: [Baldrine](../places/settlements/towns/baldrine.md)) into the [Schiller family](../organisations/schiller-family.md), a wealthy and powerful family on [Kardanis](../places/topography/continents-islands/kardanis.md). As the family heir, Noon was infused with [Nills](nills.md) (an aspect of [Nilliski](nilliski.md)) prior to his birth in a blood ritual conducted by his family, honouring the pact that the Schillers made with [Nilliski](nilliski.md) generations ago.
 
 From a young age [Nills](nills.md), who calls Noon *Brother Light*, helped Noon master her magic that flows within him, manifesting as magical powers. The pair grew closer, [Nills](nills.md) helping Noon navigate early life choices and proving trustworthy. Noon came to understand that [Nills](nills.md) was worth listening to, eventually seeing her orders and suggestions as his own.
 
@@ -62,7 +62,7 @@ While training in and around [Dunmore](../places/settlements/cities/dunmore.md),
 
 ### Prior to Introduction
 
-During [Dolphin Squad](../organisations/government/astorrel/squads/dolphin-squad.md)'s first mission (Survey Fish in [Picdale Water](../places/topography/rivers-lakes/picdale-water.md)), Noon antagonised [Dust of Chalk](dust-of-chalk.md) over their metalworking rivalries: Noon is part of the [Schiller Family](../organisations/schiller-family.md) who operate out of Baldrine and extract high quality metal from mines at Ballabeg, while [Dust of Chalk](dust-of-chalk.md) is from Mossband, a small mining village. The quality of the [Schiller Family](../organisations/schiller-family.md)'s metal has made trade difficult for the Mossband villagers, making their lives harder.
+During [Dolphin Squad](../organisations/government/astorrel/squads/dolphin-squad.md)'s first mission (Survey Fish in [Picdale Water](../places/topography/rivers-lakes/picdale-water.md)), Noon antagonised [Dust of Chalk](dust-of-chalk.md) over their metalworking rivalries: Noon is part of the [Schiller Family](../organisations/schiller-family.md) who operate out of [Baldrine](../places/settlements/towns/baldrine.md) and extract high quality metal from mines at [Ballabeg](../places/settlements/villages/ballabeg.md), while [Dust of Chalk](dust-of-chalk.md) is from [Mossband](../places/settlements/villages/mossband.md), a small mining village. The quality of the [Schiller Family](../organisations/schiller-family.md)'s metal has made trade difficult for the [Mossband](../places/settlements/villages/mossband.md) villagers, making their lives harder.
 
 [Dust of Chalk](dust-of-chalk.md) took this personally, and Noon inflamed tensions by making occasional cryptic snide remarks. Eventually Dust had enough and lashed out at Noon. Noon played the victim and spun the events to his favour.
 

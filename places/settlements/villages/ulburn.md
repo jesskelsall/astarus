@@ -7,7 +7,7 @@
 | **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 1,100 |
-| **Nearby Places** | [Great Astor Road](../../roads/great-astor-road.md)<br>[Northhaven](../cities/northhaven.md)<br>[River Humar](../../topography/rivers-lakes/river-humar.md) |
+| **Nearby Places** | [River Humar](../../topography/rivers-lakes/river-humar.md) |
 | **People** | |
 
 ## Summary
@@ -28,6 +28,6 @@ The village is tightly packed, using all of the available space in the river's b
 
 ## Places
 
-- Humar's Knee (inn)
+- [Humar's Knee](../../buildings/inns-taverns/humars-knee.md) (inn)
 - [Ulburn Astorrel House](../../buildings/government/ulburn-astorrel-house.md)
 - [Ulburn Training Camp](../../topography/landmarks/ulburn-training-camp.md)

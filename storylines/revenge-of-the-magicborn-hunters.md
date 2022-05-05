@@ -13,7 +13,7 @@
 
 ### Between Sessions
 
-[Vilnia Kovas](../characters/vilnia-kovas.md) and [Kur Merkys](../characters/kur-merkys.md) become aware of the party as words spreads from [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to Eaglesfield and then on to [Northhaven](../places/settlements/cities/northhaven.md) that a party of 4 potential [magicborn](../civilisations/kingdom-of-astor/magicborn.md) are on the run heading south.
+[Vilnia Kovas](../characters/vilnia-kovas.md) and [Kur Merkys](../characters/kur-merkys.md) become aware of the party as words spreads from [Goldreach](../places/settlements/towns/goldreach.md) to [Eaglesfield](../places/settlements/towns/eaglesfield.md) and then on to [Northhaven](../places/settlements/cities/northhaven.md) that a party of 4 potential [magicborn](../civilisations/kingdom-of-astor/magicborn.md) are on the run heading south.
 
 They opt to stay in [Northhaven](../places/settlements/cities/northhaven.md) for the time being and potentially confront them if they are sighted closer to the city.
 

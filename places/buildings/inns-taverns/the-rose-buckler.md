@@ -1,12 +1,12 @@
 # The Rose Buckler
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | The Rose Buckler |
+| **Name** | The Rose Buckler | place.4
 | **Type** | Inn |
-| **Location** | [Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Northhaven Astornox Stronghold](../../settlements/strongholds/northhaven-astornox-stronghold.md) |
-| **People** | [Tydrus Tinshield](../../../characters/tydrus-tinshield.md) (owner, innkeeper)<br>[Jaxon Ultari](../../../characters/jaxon-ultari.md) (patron, gambler) |
+| **Location** | [Sunset District](../../settlements/districts/sunset-district.md) |
+| **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Astpost Northhaven](../shops/astpost-northhaven.md)<br>[Northhaven Astornox Stronghold](../../settlements/strongholds/northhaven-astornox-stronghold.md) |
+| **People** | [Tydrus Tinshield](../../../characters/tydrus-tinshield.md) (owner)<br>[Jaxon Ultari](../../../characters/jaxon-ultari.md) (patron, gambler) |
 
 ## Summary
 
@@ -15,6 +15,8 @@ The Rose Buckler is an inn in the [Sunset District](../../settlements/districts/
 It styles itself as a traditional run-of-the-mill inn. Despite a predominantly stone exterior with many segmented windows, its swinging sign and interior resembles a standard cobble stone and wooden tavern. Despite the rustic aesthetic, the building quality is noticeably higher than most taverns, giving it the appearance of a strange knock-off.
 
 Due to its proximity to the [Northhaven Astornox Stronghold](../../settlements/strongholds/northhaven-astornox-stronghold.md), it is popular with [Astornox](../../../organisations/government/astornox/astornox.md), both active and retired. As a result it has a reputation for hard drinkers and unruly, if not friendly, behaviour by its patrons. It has one of the finest selection of ales in [Northhaven](../../settlements/cities/northhaven.md), and lodging is cheap and cheerful.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

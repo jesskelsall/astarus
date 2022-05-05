@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Augury Rock | place.4
 | **Type** | Landmark |
-| **Location** | Kas'ran Desert |
+| **Location** | [Kas'ran Desert](../valleys-plains-deserts/kasran-desert.md) |
 | **Nearby Places** | |
 | **People** | [Minsas](../../../characters/minsas.md)<br>[Mykiel](../../../characters/mykiel.md)<br>[Seraphina](../../../characters/seraphina.md) |
 
 ## Summary
 
-Augury Rock is a medium sized rock, deep in the middle of the Kas'ran Desert. It has divine significance to the [aasimar](../../../lineages/aasimar.md) of [Astarus](../../../celestial-objects/astarus.md).
+Augury Rock is a medium sized rock, deep in the middle of the [Kas'ran Desert](../valleys-plains-deserts/kasran-desert.md). It has divine significance to the [aasimar](../../../lineages/aasimar.md) of [Astarus](../../../celestial-objects/astarus.md).
 
 ## Description
 

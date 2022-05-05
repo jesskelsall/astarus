@@ -8,11 +8,11 @@
 
 ## Summary
 
-[Thanea Morlay](../characters/thanea-morlay.md) is given her first deva dream by [Seraphina](../characters/seraphina.md), pointing to the nearby town of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to investigate the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) that just landed there.
+[Thanea Morlay](../characters/thanea-morlay.md) is given her first deva dream by [Seraphina](../characters/seraphina.md), pointing to the nearby town of [Goldreach](../places/settlements/towns/goldreach.md) to investigate the [Goldreach Meteorite](../items/meteoric/meteorites/goldreach-meteorite.md) that just landed there.
 
 ## Details
 
-Standing in a field south east of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) at night, Thanea can see the geographical surroundings of the town - forest to the east and west, mountains to the far north, and grassy plains in between.
+Standing in a field south east of [Goldreach](../places/settlements/towns/goldreach.md) at night, Thanea can see the geographical surroundings of the town - forest to the east and west, mountains to the far north, and grassy plains in between.
 
 She notices a meteor streaking across the sky, travelling down and left, leaving a white streak as it goes, continuing to accelerate.
 

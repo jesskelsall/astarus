@@ -18,7 +18,7 @@
 
 ## Summary
 
-Romy Levat is an adventurous but lonely [cepine](../lineages/cepine.md) boy who lives in [Filisur](../places/settlements/villages/filisur.md) with his grandfather, [Arnel Levat](arnel-levat.md). He can often be found exploring the [Albulain Valley](../places/topography/valleys/albulain-valley.md).
+Romy Levat is an adventurous but lonely [cepine](../lineages/cepine.md) boy who lives in [Filisur](../places/settlements/villages/filisur.md) with his grandfather, [Arnel Levat](arnel-levat.md). He can often be found exploring the [Albulain Valley](../places/topography/valleys-plains-deserts/albulain-valley.md).
 
 ## Characteristics
 
@@ -34,5 +34,5 @@ Romy Levat is an adventurous but lonely [cepine](../lineages/cepine.md) boy who 
 | **Quirks** | Good at keeping secrets. Not forthcoming with pertinent information. |
 | **Knowledge** | Gardening, plants and flowers. Hiking. |
 | **Values** | Natural beauty, animals, plants. Peace and quiet alone. |
-| **Ambitions** | Explore the world beyond the [Albulain valley](../places/topography/valleys/albulain-valley.md). |
+| **Ambitions** | Explore the world beyond the [Albulain valley](../places/topography/valleys-plains-deserts/albulain-valley.md). |
 | **Dislikes** | Societal expectations. |

@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Trest Marketplace | place.4
 | **Type** | Structure |
-| **Location** | [Trest](../settlements/towns/trest.md)<br>[Nilus Coast](../../civilisations/nilsavnic-alliance/states/nilus-coast.md)<br>[Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
+| **Location** | [Trest](../settlements/towns/trest.md) |
 | **Nearby Places** | [Nomad's Stop](../buildings/inns-taverns/nomads-stop.md) |
 | **People** | |
 
 ## Summary
 
-Trest Marketplace lies in the middle of [Trest](../settlements/towns/trest.md), providing a commerce hub for over land trade across [the Western Way](../roads/the-western-way.md), and sea trade from the [Gulf of Tanelle](../topography/seas-oceans/gulf-of-tanelle.md).
+Trest Marketplace lies in the middle of [Trest](../settlements/towns/trest.md), providing a commerce hub for over land trade across [the Western Way](../roads/the-western-way.md), and sea trade from the [Gulf of Tanelle](../topography/seas-bays/gulf-of-tanelle.md).
 
 It is a series of large stone steps, offsetting the notable slope that [Trest](../settlements/towns/trest.md) was built upon. The middle slope is occupied by [the Western Way](../roads/the-western-way.md) as well as loading and unloading of goods from carts and coaches.
 

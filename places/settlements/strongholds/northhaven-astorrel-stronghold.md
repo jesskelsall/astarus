@@ -1,10 +1,10 @@
 # Northhaven Astorrel Stronghold
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Northhaven Astorrel Stronghold |
+| **Name** | Northhaven Astorrel Stronghold | place.4
 | **Type** | Stronghold |
-| **Location** | [Sunset District](../districts/sunset-district.md)<br>[Northhaven](../cities/northhaven.md) |
+| **Location** | [Sunset District](../districts/sunset-district.md) |
 | **Nearby Places** | [Astor Square](../../structures/astor-square.md)<br>[Valley Under the Stars](../../buildings/inns-taverns/valley-under-the-stars.md) |
 | **People** | |
 
@@ -13,6 +13,8 @@
 The Northhaven Astorrel Stronghold is the home of the [Astorrel](../../../organisations/government/astorrel/astorrel.md) in [Northhaven](../cities/northhaven.md). Aside from its normal duties as a home for the [Astorrel](../../../organisations/government/astorrel/astorrel.md) in this region, and from which they operate out into central and western Astor, [Levelle Tristwix](../../../characters/levelle-tristwix.md), the [Astorrel Commandant](../../../organisations/government/astorrel/ranks/astorrel-commandant.md), resides here.
 
 This is the biggest [Astorrel](../../../organisations/government/astorrel/astorrel.md) stronghold in the kingdom, and by far the richest. Like much of the [Sunset District](../districts/sunset-district.md) surrounding it, it is constructed of the finest marble and stone available, and the [Astorrel members](../../../organisations/government/astorrel/ranks/astorrel-member.md) that call it home are amongst some of the most privileged people in all of the land.
+
+## Description
 
 ### Surrounding Wall
 
@@ -49,8 +51,10 @@ A main street, [Kirrel](../../../gods/deities/kirrel.md) Way, leads through the 
 ## Places
 
 - [Auric Rise](../../buildings/government/auric-rise.md) (officer homes and offices)
-- [Kirrel Hall](../../buildings/government/kirrel-hall.md) (meeting and banquet hall)
-- [Tenterfell House](../../buildings/government/tenterfell-house.md) (Phenomena work space)
-- [The Mission's End](../../buildings/inns-taverns/the-missions-end.md) (tavern / hostel)
-- [The Sanctum](../../buildings/government/the-sanctum.md) (sanctuaries building)
+- [Hawk's Perch](../../buildings/government/hawks-perch.md) (library)
+- [Kirrel Hall](../../buildings/government/kirrel-hall.md)
+- [Northhaven Astorrel Arena](../../buildings/government/northhaven-astorrel-arena.md) (underground training space)
+- [Tenterfell House](../../buildings/government/tenterfell-house.md) (Major of Phenomena)
+- [The Mission's End](../../buildings/inns-taverns/the-missions-end.md) (inn)
+- [The Sanctum](../../buildings/government/the-sanctum.md) ([sanctuary](../../../organisations/government/astorrel/sanctuary.md) building)
 - [Zenith Spire](../../buildings/government/zenith-spire.md) (administrative)

@@ -1,12 +1,12 @@
 # Ulburn Astorrel House
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Ulburn Astorrel House |
+| **Name** | Ulburn Astorrel House | place.4
 | **Type** | Building |
 | **Location** | [Ulburn](../../settlements/villages/ulburn.md) |
-| **Nearby Places** | Humar's Knee |
-| **People** | |
+| **Nearby Places** | [Humar's Knee](../inns-taverns/humars-knee.md) |
+| **People** | [Linton Harkness](../../../characters/linton-harkness.md)<br>[Louise Perkins](../../../characters/louise-perkins.md) |
 
 ## Summary
 

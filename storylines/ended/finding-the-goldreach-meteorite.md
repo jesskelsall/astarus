@@ -7,15 +7,15 @@
 
 ## Summary
 
-The [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), which crash landed near the town of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), hasn't been found by anyone in two days and counting. [Wrenn Piznarck](../../characters/wrenn-piznarck.md) tasks the [Purple Rain](../../campaigns/C1-purple-rain.md) party with finding it for him.
+The [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), which crash landed near the town of [Goldreach](../../places/settlements/towns/goldreach.md), hasn't been found by anyone in two days and counting. [Wrenn Piznarck](../../characters/wrenn-piznarck.md) tasks the [Purple Rain](../../campaigns/C1-purple-rain.md) party with finding it for him.
 
 ## History
 
 ### Pre-campaign
 
-Two days before the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign begins, a meteor falls from the sky and impacts north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), on the edge of the [Hawkswood](../../places/topography/forests/hawkswood.md) ([Hawkswood North East](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-north-east.md)), punching a hole through a cave ([Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md)) where it came to rest.
+Two days before the [Purple Rain](../../campaigns/C1-purple-rain.md) campaign begins, a meteor falls from the sky and impacts north west of [Goldreach](../../places/settlements/towns/goldreach.md), on the edge of the [Hawkswood](../../places/topography/forests/hawkswood.md) ([Hawkswood North East](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-north-east.md)), punching a hole through a cave ([Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md)) where it came to rest.
 
-Since then, many people have came to [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to find it, including [Wrenn Piznarck](../../characters/wrenn-piznarck.md), who arrived from [Northhaven](../../places/settlements/cities/northhaven.md) in search of the [meteorite](../../items/meteoric/meteorite.md). Nobody has managed to find it yet.
+Since then, many people have came to [Goldreach](../../places/settlements/towns/goldreach.md) to find it, including [Wrenn Piznarck](../../characters/wrenn-piznarck.md), who arrived from [Northhaven](../../places/settlements/cities/northhaven.md) in search of the [meteorite](../../items/meteoric/meteorite.md). Nobody has managed to find it yet.
 
 ### [PR01](../../sessions/PR01.md)
 
@@ -31,7 +31,7 @@ He tells them what he has found out so far - that it appeared to come down to th
 
 ### [PR04](../../sessions/PR04.md)
 
-The party begins searching the plains and farmland north west of [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) ([Goldreach North West Plains](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/goldreach-north-west-plains.md)) in search of the meteor.
+The party begins searching the plains and farmland north west of [Goldreach](../../places/settlements/towns/goldreach.md) ([Goldreach North West Plains](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/goldreach-north-west-plains.md)) in search of the meteor.
 
 At [Nightcrest Farm](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/nightcrest-farm.md), Arneg Tanagark recounts being woken up in the night by the thud of the meteor hitting the ground, but he has no idea from which direction the sound came.
 
@@ -63,11 +63,11 @@ Ultimately the party destroyed both watchers while the third silently fled the c
 
 Thanea clumsily scoops up some of the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) mixed in with the meteor crater gravel. Saoirse keeps hold of the [Goldreach Meteorite](../../items/meteoric/meteorites/goldreach-meteorite.md), wrapping it in a cloth and attaching it to the side of her belt.
 
-The party begins to make their way out of [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md) and back towards [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) with the intention of reporting back to [Wrenn Piznarck](../../characters/wrenn-piznarck.md) with their findings.
+The party begins to make their way out of [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md) and back towards [Goldreach](../../places/settlements/towns/goldreach.md) with the intention of reporting back to [Wrenn Piznarck](../../characters/wrenn-piznarck.md) with their findings.
 
 ### [PR09](../../sessions/PR09.md)
 
-After finding [Wrenn Piznarck](../../characters/wrenn-piznarck.md) in the [Heather & Horticulture](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/heather-and-horticulture.md) secret garden, there is a brief moment amongst the panic where Wrenn asks what the party found out about the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor.
+After finding [Wrenn Piznarck](../../characters/wrenn-piznarck.md) in the [Heather & Horticulture](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/heather-and-horticulture.md) secret garden, there is a brief moment amongst the panic where Wrenn asks what the party found out about the [Goldreach](../../places/settlements/towns/goldreach.md) Meteor.
 
 Saoirse shows Wrenn the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) that she collected. Wrenn is excited to see it and attempts to taste a small amount of it, but Saoirse stops him, explaining that it had previously been glowing purple.
 
@@ -75,7 +75,7 @@ Saoirse shows Wrenn the [Meteoric Dust](../../items/meteoric/meteoric-dust.md) t
 
 ### [PR11](../../sessions/PR11.md)
 
-While on the run from [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), the party gets a chance to tell [Wrenn Piznarck](../../characters/wrenn-piznarck.md) of the ordeals they faced in the [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). They tell him more or less everything:
+While on the run from [Goldreach](../../places/settlements/towns/goldreach.md), the party gets a chance to tell [Wrenn Piznarck](../../characters/wrenn-piznarck.md) of the ordeals they faced in the [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md). They tell him more or less everything:
 
 - [Meteorite](../../items/meteoric/meteorite.md)
   - Found in a crater inside a cave.

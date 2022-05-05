@@ -12,7 +12,7 @@
 
 ## Details
 
-[Thanea Morlay](../characters/thanea-morlay.md) is on the outskirts of [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), near to where she arrived in town. It is night, with a clear star-filled sky. She can see the stable, buildings and streets not far ahead, but it is eerily silent and devoid of life.
+[Thanea Morlay](../characters/thanea-morlay.md) is on the outskirts of [Goldreach](../places/settlements/towns/goldreach.md), near to where she arrived in town. It is night, with a clear star-filled sky. She can see the stable, buildings and streets not far ahead, but it is eerily silent and devoid of life.
 
 Looking up she sees a familiar sight - a meteor streaking across the sky, from the top right to bottom left, getting closer and leaving a white trail behind it.
 

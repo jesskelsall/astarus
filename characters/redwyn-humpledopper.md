@@ -11,7 +11,7 @@
 | **Class** | Bard |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | (father, dead)<br>(mother, dead)<br>(brother) |
-| **Places** | Carnmere |
+| **Places** | [Carnmere](../places/settlements/towns/carnmere.md) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||
@@ -47,13 +47,13 @@ Redwyn Humpledopper is a former player character in the [Astorrel Agents](../cam
 
 ## History
 
-Redwyn Humpledopper was born in the town of Carnmere. They have a brother.
+Redwyn Humpledopper was born in the town of [Carnmere](../places/settlements/towns/carnmere.md). They have a brother.
 
-Their parents owned a tavern in Carnmere. Their family had a feud with the Waterstride family (halflings) who own The Rusty Spigot, a competing tavern.
+Their parents owned a tavern in [Carnmere](../places/settlements/towns/carnmere.md). Their family had a feud with the Waterstride family (halflings) who own The Rusty Spigot, a competing tavern.
 
 One day Redwyn returned from foraging to find their family's tavern ransacked and their parents slain. There was no sign or trace of her brother. Due to the feud and these events, Redwyn has a distaste and distrust of halflings.
 
-With little tying them to Carnmere anymore, Redwyn ventured out to attempt to join the [Astorrel](../organisations/government/astorrel/astorrel.md) so that she could explore unseen lands and hopefully find a new purpose protecting her corner of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) from those who would do it harm.
+With little tying them to [Carnmere](../places/settlements/towns/carnmere.md) anymore, Redwyn ventured out to attempt to join the [Astorrel](../organisations/government/astorrel/astorrel.md) so that she could explore unseen lands and hopefully find a new purpose protecting her corner of the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) from those who would do it harm.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 

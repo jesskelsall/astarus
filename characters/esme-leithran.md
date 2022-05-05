@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | [Montel Leithran](montel-leithran.md) (father)<br>[Vensys Leithran](vensys-leithran.md) (mother, dead) |
-| **Places** | Humar Estuary Water Shack<br>[Hyceodd](../places/settlements/towns/hyceodd.md) (birthplace) |
+| **Places** | [Humar Estuary](../places/topography/swamps-deltas/humar-estuary.md) Water Shack<br>[Hyceodd](../places/settlements/towns/hyceodd.md) (birthplace) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

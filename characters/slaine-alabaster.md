@@ -45,7 +45,7 @@ Slaine died when [Wizira](wizira.md) cast Dispel Magic on the [Silethwaite Meteo
 
 ## History
 
-While in Silethwaite with [the Morning Chasers](../organisations/the-morning-chasers.md) who were contracted to [Astral squad](../organisations/government/astorrel/squads/astral-squad.md), the party found a mysterious clearing in the forest that appeared to have been logged. In it Slaine Alabaster found the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md).
+While in [Silethwaite](../places/settlements/villages/silethwaite.md) with [the Morning Chasers](../organisations/the-morning-chasers.md) who were contracted to [Astral squad](../organisations/government/astorrel/squads/astral-squad.md), the party found a mysterious clearing in the forest that appeared to have been logged. In it Slaine Alabaster found the [Silethwaite Meteorite](../items/meteoric/meteorites/silethwaite-meteorite.md).
 
 Not feeling it was related to the site, [Janneke Borflast](janneke-borflast.md) allowed Slaine to keep it. When the group returned to [Astral squad](../organisations/government/astorrel/squads/astral-squad.md), they made no mention of the [meteorite](../items/meteoric/meteorite.md), feeling it was an unrelated treasure which they were entitled to keep.
 

@@ -35,7 +35,7 @@ The battle progresses until the outer wall is breached through the main gate, po
 
 Eventually only [Valan Shadowgaze](../characters/valan-shadowgaze.md) remains. As he is surrounded and skewered by guards he observes a potent spell being cast from the Tower of Chausain, projecting magical symbols in a steadily growing horizontal plane focused on the top level of the tower, which begins emanating purple light from within. Valan falls unconscious and is ejected.
 
-The party are teleported to the middle of the Kas'ran Desert by the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md), now mechanically broken and inert ([MC02-I-3](../cards/MC02-I-3.md)). At this point Vētrall hasn't opened the chest at all.
+The party are teleported to the middle of the [Kas'ran Desert](../places/topography/valleys-plains-deserts/kasran-desert.md) by the [memory sphere](../items/echneshment/memory-spheres/memory-sphere.md), now mechanically broken and inert ([MC02-I-3](../cards/MC02-I-3.md)). At this point Vētrall hasn't opened the chest at all.
 
 When the party wake up in [Dune's House](../places/buildings/houses/dunes-house.md) in [Kuv'narash](../places/settlements/villages/kuvnarash.md), Vētrall excuses themself to open the box in the privacy of a nearby outhouse. They find [Mémoire de Défaite](../items/echneshment/memory-spheres/memoire-de-defaite.md) and a letter from [Vulpes Geen](../characters/vulpes-geen.md) ([L-MC-06](../letters/L-MC-06.md)) explaining his storied relationship with the sphere.
 

@@ -14,6 +14,8 @@ Temple of the Resistance is [the Order of the Diamond](../../../organisations/th
 
 It represents the [Hyceodd](../../settlements/towns/hyceodd.md) residents that resisted [Syntenne Republic](../../../civilisations/syntenne-republic/syntenne-republic.md) occupation during the [Astor-Syntenne War](../../../history/events/astor-syntenne-war.md) until the town was recaptured by the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md).
 
+## Description
+
 ### Interior
 
 | Sensation | Description |

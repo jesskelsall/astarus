@@ -5,7 +5,7 @@
 | **Lineage** | Strigid | lineage.1
 | **Race(s)** | Owlfolk |
 | **Demonym** | Strigid |
-| **Homeland** | [Albulain Valley](../places/topography/valleys/albulain-valley.md) |
+| **Homeland** | [Albulain Valley](../places/topography/valleys-plains-deserts/albulain-valley.md) |
 
 ## Summary
 

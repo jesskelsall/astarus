@@ -26,7 +26,7 @@ Example:
 
 > [Alistair Hawthorn](../../characters/alistair-hawthorn.md)  
 > 12 [Flute Street](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/flute-street.md)  
-> [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md)
+> [Goldreach](../../places/settlements/towns/goldreach.md)
 
 ## Process
 

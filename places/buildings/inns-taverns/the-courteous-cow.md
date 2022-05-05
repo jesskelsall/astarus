@@ -11,3 +11,5 @@
 ## Summary
 
 The Courteous Cow is the main inn in [Blittergate](../../settlements/towns/blittergate.md).
+
+## Description

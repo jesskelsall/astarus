@@ -11,7 +11,7 @@
 | **Class** | Barbarian (Path of the Ancestral Guardian) |
 | **Worship** | |
 | **Relations** | [Dune under Sunset](dune-under-sunset.md) (friend) |
-| **Places** | [Kuv'narash](../places/settlements/villages/kuvnarash.md)<br>Kas'ran Desert |
+| **Places** | [Kuv'narash](../places/settlements/villages/kuvnarash.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Zolné Windclaw is an outlander leonin that wanders the Kas'ran Desert in search of intrigue and glory. She excels out amongst the dunes, traversing the desert as if it is no challenge for her.
+Zolné Windclaw is an outlander leonin that wanders the [Kas'ran Desert](../places/topography/valleys-plains-deserts/kasran-desert.md) in search of intrigue and glory. She excels out amongst the dunes, traversing the desert as if it is no challenge for her.
 
 Typically she hides her face and tail under layers of fabric to hide her leonin lineage, instead passing herself off as a tabaxi.
 
@@ -54,7 +54,7 @@ Typically she hides her face and tail under layers of fabric to hide her leonin 
 | **Mannerisms** | Moves purposefully. Waits for no one. |
 | | |
 | **Quirks** | Stand-offish and competitive in a playful manner. Eager to prove herself. |
-| **Knowledge** | Kas'ran Desert. |
+| **Knowledge** | [Kas'ran Desert](../places/topography/valleys-plains-deserts/kasran-desert.md). |
 | **Values** | Speaks highly of her ancestors. Honours them through combat. |
 | **Ambitions** | Roaming the desert looking for true purpose. |
 | **Dislikes** | Those who talk but cannot act. |

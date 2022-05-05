@@ -73,7 +73,7 @@ Gwenhwyfar tidies up loose ends by executing Xavier by casting Disintegrate befo
 
 ### [PR34](../../sessions/PR34.md)
 
-After talking while walking across the Humar Estuary, [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) is able to summon for the first time her spectral wings using Necrotic Shroud. She wakes [Thanea Morlay](../../characters/thanea-morlay.md) up to show her.
+After talking while walking across the [Humar Estuary](../../places/topography/swamps-deltas/humar-estuary.md), [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md) is able to summon for the first time her spectral wings using Necrotic Shroud. She wakes [Thanea Morlay](../../characters/thanea-morlay.md) up to show her.
 
 The pair discuss how she was able to do it. Saoirse describes a radiant warmth in her chest that travels to her shoulder blades and into her skin, but as it goes it becomes a cold necrotic sensation. Thanea tells her that her own experiences of Radiant Soul feature the same warmth.
 
@@ -87,7 +87,7 @@ While on the road between [Blittergate](../../places/settlements/towns/blitterga
 
 [Thanea Morlay](../../characters/thanea-morlay.md) receives a letter ([L-PR-06](../../letters/L-PR-06.md)) inviting her to an audience with [Corville Thornox](../../characters/corville-thornox.md), General Supreme of the [Kingdom of Astor](../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It states that he wishes to discuss [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s performance in [Nature's Battle 28](natures-battle-28.md), but this is a half-truth.
 
-Thanea accidentally activates the letter, causing the magic within it to teleport her into the Tower of Ast.
+Thanea accidentally activates the letter, causing the magic within it to teleport her into the [Tower of Ast](../../places/buildings/government/tower-of-ast.md).
 
 ### [PR36T](../../sessions/PR36T.md)
 
@@ -95,7 +95,7 @@ Thanea accidentally activates the letter, causing the magic within it to telepor
 
 Having heard of Thanea's unique powers following [Nature's Battle 28](natures-battle-28.md), and learning that [Allisa Balsatra](../../characters/allisa-balsatra.md) was specifically looking to see Thanea, through information gathered by [Gwenhwyfar Carew](../../characters/gwenhwyfar-carew.md), Corville quizzes Thanea on her powers, going so far as to demand a demonstration of both her Radiant Soul wings and Healing Hands magic.
 
-Corville sternly asks Thanea if she knows of [Allisa Balsatra](../../characters/allisa-balsatra.md), [Xavier Raloven](../../characters/xavier-raloven.md), or the Veritacris. Thanea hasn't heard any of these names before and says so. Corville asks if she has any relationship with the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md), to which she explains she was found as a child near Bootle and seeking [sanctuary](../../organisations/government/astorrel/sanctuary.md) in [Northhaven](../../places/settlements/cities/northhaven.md) was her first trip to a city.
+Corville sternly asks Thanea if she knows of [Allisa Balsatra](../../characters/allisa-balsatra.md), [Xavier Raloven](../../characters/xavier-raloven.md), or the Veritacris. Thanea hasn't heard any of these names before and says so. Corville asks if she has any relationship with the [Syntenne Republic](../../civilisations/syntenne-republic/syntenne-republic.md), to which she explains she was found as a child near [Bootle](../../places/settlements/villages/bootle.md) and seeking [sanctuary](../../organisations/government/astorrel/sanctuary.md) in [Northhaven](../../places/settlements/cities/northhaven.md) was her first trip to a city.
 
 Corville believes her, finding her confusion sincere and a relief, though he doesn't show it. He alludes to not knowing what Allisa would want with Thanea, but withholds his knowledge that Allisa believes Thanea is like herself.
 
@@ -151,4 +151,4 @@ After leaving [Blittergate](../../places/settlements/towns/blittergate.md) and r
 
 ### [PR44](../../sessions/PR44.md)
 
-While fighting [Meteoric Watchers](../../creatures/meteoric-watcher.md) in [Tresenda Pass](../../places/roads/tresenda-pass.md) by morning, [Allisa Balsatra](../../characters/allisa-balsatra.md) uses Dimension Door to complete her journey to rendezvous with the party. She has travelled as quickly as she could across the hills of Tresenda and Picdale to get here, arriving out of breath and apologising for being late, finally in the presence of the [aasimar](../../lineages/aasimar.md) she seeks.
+While fighting [Meteoric Watchers](../../creatures/meteoric-watcher.md) in [Tresenda Pass](../../places/roads/tresenda-pass.md) by morning, [Allisa Balsatra](../../characters/allisa-balsatra.md) uses Dimension Door to complete her journey to rendezvous with the party. She has travelled as quickly as she could across the hills of Tresenda and [Picdale](../../places/settlements/villages/picdale.md) to get here, arriving out of breath and apologising for being late, finally in the presence of the [aasimar](../../lineages/aasimar.md) she seeks.

@@ -59,7 +59,7 @@ Yoroe Briskboots is a [Mortar Squad](../organisations/government/astorrel/squads
 
 ## History
 
-Originally from the village of Wolsty, Yoroe had a hard home life and wished to escape to somewhere less hostile. She found herself joining the [Astorrel](../organisations/government/astorrel/astorrel.md) where she learned of [Kirrel](../gods/deities/kirrel.md)'s teachings through her mentor, taking a shining to both the organisation and her mentor. They had a brief relationship before she realised that he wasn't the nicest of people. Despite this her conviction to the [Astorrel](../organisations/government/astorrel/astorrel.md) cause only grew stronger, guiding her forward.
+Originally from the village of [Wolsty](../places/settlements/villages/wolsty.md), Yoroe had a hard home life and wished to escape to somewhere less hostile. She found herself joining the [Astorrel](../organisations/government/astorrel/astorrel.md) where she learned of [Kirrel](../gods/deities/kirrel.md)'s teachings through her mentor, taking a shining to both the organisation and her mentor. They had a brief relationship before she realised that he wasn't the nicest of people. Despite this her conviction to the [Astorrel](../organisations/government/astorrel/astorrel.md) cause only grew stronger, guiding her forward.
 
 ### [Two Truths and a Lie](../mechanics/roleplay/two-truths-and-a-lie.md)
 

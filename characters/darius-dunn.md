@@ -12,7 +12,7 @@
 | **Background** | Noble |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Sengras Longfoot](sengras-longfoot.md) (pen pal) |
-| **Places** | Eaglesfield (birthplace) |
+| **Places** | [Eaglesfield](../places/settlements/towns/eaglesfield.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||

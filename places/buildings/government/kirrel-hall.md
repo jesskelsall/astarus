@@ -1,11 +1,11 @@
 # Kirrel Hall
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Kirrel Hall |
+| **Name** | Kirrel Hall | place.4
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Auric Rise](auric-rise.md)<br>[The Mission's End](../inns-taverns/the-missions-end.md)<br>[Zenith Spire](zenith-spire.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) |
+| **Nearby Places** | [Auric Rise](auric-rise.md)<br>[Hawk's Perch](hawks-perch.md)<br>[The Mission's End](../inns-taverns/the-missions-end.md)<br>[Zenith Spire](zenith-spire.md) |
 | **People** | |
 
 ## Summary
@@ -17,6 +17,8 @@ It is a general meeting place used for ceremonies, hosting distinguished guests,
 It resembles a church or cathedral in design - one long tall chamber supported by pillars on either sides, with a vaulted roof. The interior is built with white marble pillars and decorations. It has a sloped roof and stained glass windows.
 
 The entrance is on its side near the end. When entering, the room opens out to the left.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

@@ -38,4 +38,4 @@ Its interior is inspired by Japanese [Izakaya](https://en.wikipedia.org/wiki/Iza
 
 ### History
 
-While [Arnel Levat](../../../characters/arnel-levat.md) is the owner, he is not a citizen of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md), not having served in the military. He and the [Astornox](../../../organisations/government/astornox/astornox.md) stationed at Fort Maloja have an unspoken agreement that he may operate the business as if he owned it, providing he passes stories of potential unrest onto them.
+While [Arnel Levat](../../../characters/arnel-levat.md) is the owner, he is not a citizen of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md), not having served in the military. He and the [Astornox](../../../organisations/government/astornox/astornox.md) stationed at [Fort Maloja](../../settlements/forts/fort-maloja.md) have an unspoken agreement that he may operate the business as if he owned it, providing he passes stories of potential unrest onto them.

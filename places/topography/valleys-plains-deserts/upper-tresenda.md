@@ -5,7 +5,7 @@
 | **Name** | Upper Tresenda | place.4
 | **Type** | Valley |
 | **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
-| **Nearby Places** | [Albulain Valley](albulain-valley.md)<br>[Foss Peaks](../mountains/foss-peaks.md)<br>[Tresenda Pass](../../roads/tresenda-pass.md) |
+| **Nearby Places** | [Foss Peaks](../mountains/foss-peaks.md)<br>[Tresenda Pass](../../roads/tresenda-pass.md) |
 | **People** | |
 
 ## Summary

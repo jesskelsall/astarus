@@ -1,10 +1,10 @@
 # The Dog's Groke
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | The Dog's Groke |
+| **Name** | The Dog's Groke | place.4
 | **Type** | Inn |
-| **Location** | [Sunrise District](../../settlements/districts/sunrise-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
+| **Location** | [Sunrise District](../../settlements/districts/sunrise-district.md) |
 | **Nearby Places** | |
 | **People** | [The Morning Chasers](../../../organisations/the-morning-chasers.md) |
 
@@ -13,6 +13,8 @@
 The Dog's Groke is an abandoned inn which has been taken over by [the Morning Chasers](../../../organisations/the-morning-chasers.md) as their home and headquarters. Nobody has yet to challenge them on this.
 
 **Groke** is an old english word which means *"to gaze at somebody while they're eating in the hope that they'll give you some of their food."*
+
+## Description
 
 ### Exterior
 

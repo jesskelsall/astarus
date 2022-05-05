@@ -21,11 +21,11 @@ Thanea is an [aasimar](../../lineages/aasimar.md), but she doesn't know it yet. 
 
 ### [PR07](../../sessions/PR07.md)
 
-Thanea's dream and her conviction that it is prophetic leads the party to find [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), where they find a [meteorite](../../items/meteoric/meteorite.md) crater containing the [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor. When the party observes, its glow changes from bright white to purple, much like the flames of the forest did in her dream.
+Thanea's dream and her conviction that it is prophetic leads the party to find [Hawkswood Wolf Cave](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/hawkswood-wolf-cave.md), where they find a [meteorite](../../items/meteoric/meteorite.md) crater containing the [Goldreach](../../places/settlements/towns/goldreach.md) Meteor. When the party observes, its glow changes from bright white to purple, much like the flames of the forest did in her dream.
 
 ### [PR10](../../sessions/PR10.md)
 
-After leaving [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) by horse and cart, Thanea laments at how her prophetic dreams always end with her in trouble.
+After leaving [Goldreach](../../places/settlements/towns/goldreach.md) by horse and cart, Thanea laments at how her prophetic dreams always end with her in trouble.
 
 ### [PR11](../../sessions/PR11.md)
 

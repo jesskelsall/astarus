@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Flute Street |
 | **Type** | Street |
-| **Location** | [Goldreach](README.md) |
+| **Location** | [Goldreach](../../../../places/settlements/towns/goldreach.md) |
 | **Nearby Places** | [Goldreach Marketplace](goldreach-marketplace.md) |
 | **People** | |
 
 ## Summary
 
-Flute Street is where the wealthier citizens of [Goldreach](README.md) live, and is where [Alistair Hawthorn's House](alistair-hawthorns-house.md) can be found.
+Flute Street is where the wealthier citizens of [Goldreach](../../../../places/settlements/towns/goldreach.md) live, and is where [Alistair Hawthorn's House](alistair-hawthorns-house.md) can be found.
 
 | Sensation | Description |
 | ---- | --- |

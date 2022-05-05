@@ -61,7 +61,7 @@ After Thanea leaves, [Effie Silttooth](../characters/effie-silttooth.md) turns o
 
 ### [PR34](../sessions/PR34.md)
 
-While travelling across the Humar Estuary, [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) speaks privately with [Thanea Morlay](../characters/thanea-morlay.md) about her latest dream. The pair discuss their respective dream experiences to date. Saoirse once again tells Thanea that she wishes to have radiant wings just like her and that she looks up to her.
+While travelling across the [Humar Estuary](../places/topography/swamps-deltas/humar-estuary.md), [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) speaks privately with [Thanea Morlay](../characters/thanea-morlay.md) about her latest dream. The pair discuss their respective dream experiences to date. Saoirse once again tells Thanea that she wishes to have radiant wings just like her and that she looks up to her.
 
 Saoirse wants to do anything she can to work toward getting her own radiant wings but feels helpless and lost. Thanea agrees to help her. Saoirse is disparaging about her Necrotic Shroud wings, comparing them unfavourably to Thanea's.
 

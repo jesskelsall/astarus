@@ -1,9 +1,9 @@
 # Kas'ran Run
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Kas'ran Run |
+| **Name** | Kas'ran Run | place.4
 | **Type** | Road |
-| **Location** | [Southeastern Kardan](../regions/southeastern-kardan.md) |
-| **Nearby Places** | Kas'ran Desert<br>[River Kasnar](../topography/rivers-lakes/river-kasnar.md)<br>[Yeatscale](../settlements/cities/yeatscale.md) |
+| **Location** | [Kas'ran Desert](../topography/valleys-plains-deserts/kasran-desert.md) |
+| **Nearby Places** | [River Kasnar](../topography/rivers-lakes/river-kasnar.md)<br>[Yeatscale](../settlements/cities/yeatscale.md) |
 | **People** | |

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Dulsenn Graveyard | place.4
 | **Type** | Structure |
-| **Location** | Elves of Chausain<br>[Oonar](../../celestial-objects/oonar.md) |
+| **Location** | Elves of Chausain |
 | **Period** | Pre Second Coming |
 | **Nearby Places** | |
 | **People** | [Vivien Bouxelles](../../characters/vivien-bouxelles.md) (buried, ghost) |

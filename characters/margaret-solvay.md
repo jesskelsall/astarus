@@ -1,7 +1,5 @@
 # Margaret Solvay
 
-<img src="https://raw.githubusercontent.com/jesskelsall/astarus-images/main/characters/portraits/imageid.png" height="500" />
-
 |||
 | --- | --- |
 | **Name** | Margaret Solvay | character.3

@@ -4,10 +4,10 @@
 | --- | --- |
 | **Name** | Eskrigg | place.4
 | **Type** | City |
-| **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
+| **Location** | [Mocker Swamp](../../topography/swamps-deltas/mocker-swamp.md) |
 | **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 12,000 |
-| **Nearby Places** | [Eskside Byway](../../roads/eskside-byway.md)<br>[Grasthwaite Bend](../../roads/grasthwaite-bend.md)<br>[Great Astor Road](../../roads/great-astor-road.md) |
+| **Nearby Places** | [Esk Delta](../../topography/swamps-deltas/esk-delta.md)<br>[Eskside Byway](../../roads/eskside-byway.md)<br>[Grasthwaite Bend](../../roads/grasthwaite-bend.md)<br>[Great Astor Road](../../roads/great-astor-road.md)<br>[River Esk](../../topography/rivers-lakes/river-esk.md) |
 | **People** | [Legacy Aranius](../../../characters/legacy-aranius.md) ([Astornox Captain](../../../organisations/government/astornox/ranks/astornox-captain.md))<br>[Ronvyn Bafflegift](../../../characters/ronvyn-bafflegift.md) ([Astorrel Captain](../../../organisations/government/astorrel/ranks/astorrel-captain.md)) |
 
 ## Summary
@@ -23,4 +23,6 @@ The city is affectionately referred to as *the city where everyone looks up*, th
 ## Places
 
 - [Eskrigg Astorrel Stronghold](../strongholds/eskrigg-astorrel-stronghold.md)
-- [Geor's Door](../../buildings/inns-taverns/geors-door.md)
+- [Geor's Door](../../buildings/inns-taverns/geors-door.md) (inn)
+- [Schiller Steel Eskrigg](../../buildings/shops/schiller-steel-eskrigg.md) (weapons)
+- [Vorrinel's Stand](../../buildings/government/vorrinels-stand.md) (arena)

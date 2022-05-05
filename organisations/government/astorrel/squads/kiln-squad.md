@@ -16,7 +16,7 @@
 
 *See: [Rescue Kiln Squad](../../../../storylines/rescue-kiln-squad.md)*
 
-Kiln Squad went missing while on a mission to investigate wildlife on the Neum Flats.
+Kiln Squad went missing while on a mission to investigate wildlife on the [Neum Flats](../../../../places/topography/valleys-plains-deserts/neum-flats.md).
 
 ## Changes
 

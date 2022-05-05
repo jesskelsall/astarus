@@ -15,7 +15,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) |
+| **Places** | [Friend of the Magicborn](../places/buildings/shops/friend-of-the-magicborn.md) (owner) |
 
 ## Summary
 

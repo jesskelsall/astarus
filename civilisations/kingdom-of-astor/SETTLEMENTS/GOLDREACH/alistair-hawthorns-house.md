@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Alistair Hawthorn's House |
 | **Type** | Building |
-| **Location** | [Flute Street](flute-street.md)<br>[Goldreach](README.md) |
+| **Location** | [Flute Street](flute-street.md)<br>[Goldreach](../../../../places/settlements/towns/goldreach.md) |
 | **Nearby Places** | |
 | **People** | [Alistair Hawthorn](../../../../characters/alistair-hawthorn.md) (owner)<br>Patsy Tilbert (maid) |
 
@@ -18,4 +18,4 @@ Alistair Hawthorn's house is at 12 [Flute Street](flute-street.md), in the middl
 | Sounds | Crackling of the fire in the living room and the kitchen. |
 | Smells | Flowers, meaty and oat stew cooking in the kitchen. |
 | People | |
-| Intrigue | Possibly the nicest living conditions in all of [Goldreach](README.md). |
+| Intrigue | Possibly the nicest living conditions in all of [Goldreach](../../../../places/settlements/towns/goldreach.md). |

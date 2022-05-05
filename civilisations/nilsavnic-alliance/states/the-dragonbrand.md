@@ -36,4 +36,4 @@ The most northern state of the [Nil'Savnic alliance](../nilsavnic-alliance.md). 
 | Forest | |
 | Rivers & Lakes | [Lake Alassau](../../../places/topography/rivers-lakes/lake-alassau.md)<br>[River Alassau](../../../places/topography/rivers-lakes/river-alassau.md)<br>[River Scintil](../../../places/topography/rivers-lakes/river-scintil.md) |
 | Mountains | [Ciel Mountains](../../../places/topography/mountains/ciel-mountains.md) |
-| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-oceans/bay-of-knives.md) |
+| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-bays/bay-of-knives.md) |

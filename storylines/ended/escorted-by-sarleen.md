@@ -39,7 +39,7 @@ At nightfall they make camp between the river and some cliffs. During the night 
 
 The following day [Sarleen Truestriker](../../characters/sarleen-truestriker.md) continues to lead the party towards [Ulburn](../../places/settlements/villages/ulburn.md). Several hours from [Ulburn](../../places/settlements/villages/ulburn.md) the party, having walked for 8 hours, decides to camp for the night along the riverside rather than push on and risk exhaustion.
 
-First thing in the morning they set off again. Sarleen escorts the party into [Ulburn](../../places/settlements/villages/ulburn.md), leading them through a side street to avoid [Astornox](../../organisations/government/astornox/astornox.md) outside of Humar's Knee on the main street. They emerge further down the street on the other side of the [Ulburn Astorrel House](../../places/buildings/government/ulburn-astorrel-house.md) and make their way inside.
+First thing in the morning they set off again. Sarleen escorts the party into [Ulburn](../../places/settlements/villages/ulburn.md), leading them through a side street to avoid [Astornox](../../organisations/government/astornox/astornox.md) outside of [Humar's Knee](../../places/buildings/inns-taverns/humars-knee.md) on the main street. They emerge further down the street on the other side of the [Ulburn Astorrel House](../../places/buildings/government/ulburn-astorrel-house.md) and make their way inside.
 
 Here Sarleen introduces them to [Darjonkaargeac Hidaar](../../characters/darjonkaargeac-hidaar.md), the [Goshawk Squad](../../organisations/government/astorrel/squads/goshawk-squad.md) lead. Sarleen helps to cut through some of the party's attempted lies about who they are or what they've been through.
 

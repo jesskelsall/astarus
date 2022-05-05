@@ -1,12 +1,12 @@
 # Grizgrep Reagents & Magical Curios
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Grizgrep Reagents & Magical Curios |
+| **Name** | Grizgrep Reagents & Magical Curios | place.4
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Ormila Grizgrep](../../../characters/ormila-grizgrep.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md) |
+| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Glug by Gwinthel](glug-by-gwinthel.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Son](sq-wirral-and-son.md) |
+| **People** | [Ormila Grizgrep](../../../characters/ormila-grizgrep.md) (owner) |
 
 ## Summary
 
@@ -22,6 +22,8 @@ A delicately decorated sign hangs above the shop, taking up its entire length. T
 
 Inside are large barrels of components, each containing ladles for measuring quantities. At the back is a counter with several sets of scales. The room is garishly decorated in paneling painted in clashing colours.
 
+## Description
+
 | Sensation | Description |
 | ---- | --- |
 | Sights | Clashing coloured stripes on the walls and floor. Large wooden barrels filled with reagents. A bench on the right side of the room containing smaller vessels of components. A wooden counter at the back for weighing and sales. Several intricate scales of varying sizes and tolerances. |
@@ -33,11 +35,3 @@ Inside are large barrels of components, each containing ladles for measuring qua
 ## Vendor
 
 - Adventuring Gear (PHB p150).
-
-## Planning
-
-### [Astorrel Agents](../../../campaigns/C2-astorrel-agents.md)
-
-On graduation day, [Ormila Grizgrep](../../../characters/ormila-grizgrep.md) is stood outside of her shop, enticing people into her shop with her voice.
-
-> Are you [magicborn](../../../civilisations/kingdom-of-astor/magicborn.md)? Handy with a few spells? Well step right up, I've got what you need here! Grizgrep Reagents & Magical Curios! Everything you could need to summon fire, curry divine favour, defy gravity, and find what was lost! Come on in today!

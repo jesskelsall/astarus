@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) |
+| **Places** | [The Rose Buckler](../places/buildings/inns-taverns/the-rose-buckler.md) (owner) |
 
 ## Summary
 

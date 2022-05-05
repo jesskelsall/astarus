@@ -36,4 +36,4 @@ The City of Respite is a small city state in the [Nil'Savnic Alliance](../nilsav
 | Forest | |
 | Rivers & Lakes | [Lake Alassau](../../../places/topography/rivers-lakes/lake-alassau.md)<br>[River Alassau](../../../places/topography/rivers-lakes/river-alassau.md) |
 | Mountains | |
-| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-oceans/bay-of-knives.md) |
+| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-bays/bay-of-knives.md) |

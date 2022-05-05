@@ -1,16 +1,18 @@
 # The Sanctum
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | The Sanctum |
+| **Name** | The Sanctum | place.4
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | |
+| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) |
+| **Nearby Places** | [Auric Rise](auric-rise.md)<br>[Hawk's Perch](hawks-perch.md)<br>[Tenterfell House](tenterfell-house.md)<br>[The Mission's End](../inns-taverns/the-missions-end.md)<br>The Sanctum |
 | **People** | |
 
 ## Summary
 
 The Sanctum is the building in the [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) in which the stronghold's sanctuaries are located. [Astorrel Guard Sergeants](../../../organisations/government/astorrel/ranks/astorrel-guard-sergeant.md) that offer [sanctuary](../../../organisations/government/astorrel/sanctuary.md) look after those offered [sanctuary](../../../organisations/government/astorrel/sanctuary.md) here.
+
+## Description
 
 ### Exterior
 

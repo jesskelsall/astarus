@@ -18,6 +18,6 @@ The Republic Guard is the guard force of the [Syntenne Republic](../../civilisat
 
 They are no-nonsense and uncompromising, upholding the republic's laws unflinchingly. Feared for their swift punishment and harsh jails and prisons, Republic Guards aren't afraid to inflict great pain on their prisoners.
 
-Republic Guards wear thin leather duster coats that keep the Kas'ran Desert sands out, adorned with decorative purple swirls and patterns. Their shoulders sport distinctive copper panels. Their helmets and some of their weapons are made of the same metal.
+Republic Guards wear thin leather duster coats that keep the [Kas'ran Desert](../../places/topography/valleys-plains-deserts/kasran-desert.md) sands out, adorned with decorative purple swirls and patterns. Their shoulders sport distinctive copper panels. Their helmets and some of their weapons are made of the same metal.
 
 In [Côtedouce](../../places/settlements/towns/cotedouce.md) they operate checkpoints that search travellers, ensuring that contraband doesn't make its way into their lands.

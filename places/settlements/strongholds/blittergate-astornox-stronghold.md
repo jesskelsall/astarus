@@ -12,7 +12,9 @@
 
 The Blittergate Astornox Stronghold is the home of the [Astornox](../../../organisations/government/astornox/astornox.md) presence in [Blittergate](../towns/blittergate.md). It is a large stone tower near the centre of the town, clearly visible from miles around.
 
-It is located 
+It is located north of the town centre junction, on the left side when facing north, opposite [the Courteous Cow](../../buildings/inns-taverns/the-courteous-cow.md).
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

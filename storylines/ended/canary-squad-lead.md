@@ -31,7 +31,7 @@ Until he has made his decision, Bryce will be making one squad member per missio
 
 | Squad | Acting Lead | Mission | Bounty | Time Limit |
 | --- | --- | --- | ---:| --- |
-| [Ruby Squad](../../organisations/government/astorrel/squads/ruby-squad.md) | [Darius Dunn](../../characters/darius-dunn.md) | Investigate Bear Attacks in Hartsgarth | 30 gp | 10 days |
+| [Ruby Squad](../../organisations/government/astorrel/squads/ruby-squad.md) | [Darius Dunn](../../characters/darius-dunn.md) | Investigate Bear Attacks in [Hartsgarth](../../places/settlements/villages/hartsgarth.md) | 30 gp | 10 days |
 | [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) | [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Check Logging in Arnaside](check-logging-in-arnaside.md) | 20 gp | 14 days |
 
 The party begins their journey to [Arnaside](../../places/settlements/villages/arnaside.md) so that they can complete their mission in good time and return as soon as possible. Ahsha takes charge of deciding how the group will get there (hired coach), and converses with [Clay Mullen](../../characters/clay-mullen.md) to hire his services to this end.

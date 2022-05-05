@@ -61,7 +61,7 @@ Her name is pronounced: *ash-ling kav-an-ah*.
 
 ## History
 
-Aisling was born into a wealthy family, her father [Eoghan Kavanagh](eoghan-kavanagh.md) being an [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md). The Kavanagh family is well respected throughout the kingdom, and own a lucrative hot spring in the town of Eaglesfield where they live.
+Aisling was born into a wealthy family, her father [Eoghan Kavanagh](eoghan-kavanagh.md) being an [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md). The Kavanagh family is well respected throughout the kingdom, and own a lucrative hot spring in the town of [Eaglesfield](../places/settlements/towns/eaglesfield.md) where they live.
 
 She was her father's favourite of his two twin children. Naturally gifted in fighting, she took a shining to martial arts from a young age and began honing her skills.
 

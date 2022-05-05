@@ -18,7 +18,7 @@
 ## Transcript
 
 > From the office of the General of Culture  
-> Tower of Ast  
+> [Tower of Ast](../places/buildings/government/tower-of-ast.md)  
 > [Northhaven Astornar Stronghold](../places/settlements/strongholds/northhaven-astornar-stronghold.md)  
 > [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md)
 >

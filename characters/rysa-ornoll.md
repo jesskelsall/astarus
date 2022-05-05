@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | [Bill Sprig](bill-sprig.md) (employee, hostler) |
 | **From** | [Humouth](../places/settlements/villages/humouth.md) |
-| **Places** | [The Keeper's Reprise](../places/buildings/inns-taverns/the-keepers-reprise.md) (owner, innkeeper) |
+| **Places** | [The Keeper's Reprise](../places/buildings/inns-taverns/the-keepers-reprise.md) (owner) |
 
 ## Summary
 

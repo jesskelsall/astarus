@@ -22,7 +22,7 @@ While inside the [Mémoire de Défaite](../items/echneshment/memory-spheres/memo
 
 #### Valan [Malnesh](../gods/deities/malnesh.md) Dream 1
 
-During his sleep after returning to [the Fox Hole](../places/buildings/the-fox-hole.md) in [Trest](../places/settlements/towns/trest.md), Valan begins to dream. He finds himself standing on a grassy hill overlooking the [Gulf of Tanelle](../places/topography/seas-oceans/gulf-of-tanelle.md) from where [Arrepont](../places/settlements/cities/arrepont.md) would be. It is dark but illuminated by the moon to the west, the reflection of which can be seen illuminating the gulf and its river branches to the north and south. The grass surrounding him is long and blows gently in the night breeze, moving like the surface of the water.
+During his sleep after returning to [the Fox Hole](../places/buildings/the-fox-hole.md) in [Trest](../places/settlements/towns/trest.md), Valan begins to dream. He finds himself standing on a grassy hill overlooking the [Gulf of Tanelle](../places/topography/seas-bays/gulf-of-tanelle.md) from where [Arrepont](../places/settlements/cities/arrepont.md) would be. It is dark but illuminated by the moon to the west, the reflection of which can be seen illuminating the gulf and its river branches to the north and south. The grass surrounding him is long and blows gently in the night breeze, moving like the surface of the water.
 
 Valan observes the moon which begins to turn pink and finally magenta, glowing so bright that all surface details fade into a single uniform magenta disc. A female voice echoes around the space as it talks to Valan:
 

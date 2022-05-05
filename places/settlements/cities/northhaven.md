@@ -7,7 +7,7 @@
 | **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 19,000 |
-| **Nearby Places** | [Coastal Trail](../../roads/coastal-trail.md)<br>[Great Astor Road](../../roads/great-astor-road.md)<br>[Humar Cut](../../roads/humar-cut.md)<br>[Ulburn](../villages/ulburn.md) |
+| **Nearby Places** | [Coastal Trail](../../roads/coastal-trail.md)<br>[Duskmere](../../topography/rivers-lakes/duskmere.md)<br>[Great Astor Road](../../roads/great-astor-road.md)<br>[River Carn](../../topography/rivers-lakes/river-carn.md) |
 | **People** | [Mergin Thorgus](../../../characters/mergin-thorgus.md) ([Astorrel Captain](../../../organisations/government/astorrel/ranks/astorrel-captain.md)) |
 
 ## Summary

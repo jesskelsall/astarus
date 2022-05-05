@@ -12,6 +12,8 @@
 
 Fresk House is the home of [Marlene Fresk](../../../characters/marlene-fresk.md) and the de-facto doctor's surgery in [Blittergate](../../settlements/towns/blittergate.md).
 
+## Description
+
 ### Interior
 
 | Sensation | Description |

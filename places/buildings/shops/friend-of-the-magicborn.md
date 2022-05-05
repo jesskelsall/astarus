@@ -1,20 +1,22 @@
 # Friend of the Magicborn
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Friend of the Magicborn |
+| **Name** | Friend of the Magicborn | place.4
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md) |
+| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Everything Else](everything-else.md)<br>[Glug by Gwinthel](glug-by-gwinthel.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Son](sq-wirral-and-son.md) |
+| **People** | [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md) (owner) |
 
 ## Summary
 
 Friend of the Magicborn is a magical item shop on [Crafters Course](../../settlements/streets/crafters-course.md) in the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md). It is owned by [Moss Under the Crumbling Cliffs](../../../characters/moss-under-the-crumbling-cliffs.md).
 
-A wooden storefront facade, intricately carved to provide reliefs of trees either side of the windows. Vines grow up the woodwork from planters below, White and pink flowers adorn the vines.
+A wooden store front facade, intricately carved to provide reliefs of trees either side of the windows. Vines grow up the woodwork from planters below, White and pink flowers adorn the vines.
 
-Inside the nature theme continues. A small area before a long natural looking wooden counter is decorated with living thick trunked trees. Their branches spread across the entire ceiling, producing cherry blossoms that hang over the room. There are no fallen blossoms however. Similar trees flank the doorway behind the counter, with a navy blue velvet curtain on a rail hiding what lays behind.
+Inside the nature theme continues. A small area before a long natural looking wooden counter is decorated with living thick trunk trees. Their branches spread across the entire ceiling, producing cherry blossoms that hang over the room. There are no fallen blossoms however. Similar trees flank the doorway behind the counter, with a navy blue velvet curtain on a rail hiding what lays behind.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

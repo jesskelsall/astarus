@@ -1,16 +1,18 @@
 # Adventures for Adventurers
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Adventures for Adventurers |
+| **Name** | Adventures for Adventurers | place.4
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
-| **People** | [Tarsha Nulas](../../../characters/tarsha-nulas.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md) |
+| **Nearby Places** | [Everything Else](everything-else.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Glug by Gwinthel](glug-by-gwinthel.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Son](sq-wirral-and-son.md) |
+| **People** | [Tarsha Nulas](../../../characters/tarsha-nulas.md) (owner) |
 
 ## Summary
 
 Adventures for Adventurers is a book store on [Crafters Course](../../settlements/streets/crafters-course.md) in [Northhaven](../../settlements/cities/northhaven.md).
+
+## Description
 
 ### Exterior
 
@@ -36,6 +38,6 @@ Adventures for Adventurers is a book store on [Crafters Course](../../settlement
 
 | Item | Price | Sensation |
 | --- | ---:| --- |
-| A Kas'ran Sunset | 3 gp | Short romance novel about two Tabaxi (Ash from the Smouldering Fire, Petal on the First Day of Summer) who fall in love while making their way across the Kas'ran Desert. |
+| A Kas'ran Sunset | 3 gp | Short romance novel about two Tabaxi (Ash from the Smouldering Fire, Petal on the First Day of Summer) who fall in love while making their way across the [Kas'ran Desert](../../topography/valleys-plains-deserts/kasran-desert.md). |
 | Dorian's [Astor-Syntenne War](../../../history/events/astor-syntenne-war.md) | 5 gp | First hand war stories about the [Astor-Syntenne War](../../../history/events/astor-syntenne-war.md). Heavily one sided in favour of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). |
 | History of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) | 4 gp | Children's book telling an abridged history of how the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) came to be. Popular with learned parents. |

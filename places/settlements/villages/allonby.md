@@ -1,13 +1,13 @@
 # Allonby
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Allonby |
+| **Name** | Allonby | place.4
 | **Type** | Village |
 | **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 320 |
-| **Nearby Places** | [Coastal Trail](../../roads/coastal-trail.md)<br>[Sea of Songs](../../topography/seas-oceans/sea-of-songs.md) |
+| **Nearby Places** | [Coastal Trail](../../roads/coastal-trail.md)<br>[Sea of Songs](../../topography/seas-bays/sea-of-songs.md) |
 | **People** | |
 
 ## Summary
@@ -22,6 +22,8 @@ Amongst the safety of the cliffs, cattle is able to shelter from the elements wh
 
 Above the cliffs, cattle graze on the grass when the weather allows it. Farmers grow root vegetables in large quantities to sustain the village, and for export.
 
+## Description
+
 | Sensation | Description |
 | ---- | --- |
 | Sights | Stone gulleys and a large open area, buildings carved into the cliff faces. Stone stairs to access the 3 levels. 100ft wide common area inside the village center, surrounded by cliffs. Cobbled stone buildings on cliff tops, covered in grass. Cattle grazing above or sheltering from wind below. Children playing. |
@@ -29,3 +31,5 @@ Above the cliffs, cattle graze on the grass when the weather allows it. Farmers 
 | Smells | Animal smell, human sweat and excrement. |
 | People | Content and playful drigg. |
 | Intrigue | A hardy village built into natural cliff formations has allowed life here to thrive despite the winds. |
+
+## Places

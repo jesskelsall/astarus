@@ -12,7 +12,7 @@
 | **Background** | |
 | **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | [Seraphina](seraphina.md) (deva) |
-| **Places** | Bootle (birthplace) |
+| **Places** | [Bootle](../places/settlements/villages/bootle.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||

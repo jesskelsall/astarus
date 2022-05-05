@@ -11,8 +11,8 @@
 | **Class** | Fighter (Rune Knight) |
 | **Background** | Folk Hero |
 | **Worship** | [Valnos](../gods/deities/valnos.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
-| **Relations** | [Emelina Tauff](emelina-tauff.md) (adoptive mother)<br>[Ealo Tauff](ealo-tauff.md) (adoptive father)<br>[Einra Craggbeard](einra-craggbeard.md) (childhood friend)<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md): Iredale)<br>[Teresa Resk](teresa-resk.md) (Hjalmann's wife) |
-| **Places** | Iredale |
+| **Relations** | [Emelina Tauff](emelina-tauff.md) (adoptive mother)<br>[Ealo Tauff](ealo-tauff.md) (adoptive father)<br>[Einra Craggbeard](einra-craggbeard.md) (childhood friend)<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md): [Iredale](../places/settlements/towns/iredale.md))<br>[Teresa Resk](teresa-resk.md) (Hjalmann's wife) |
+| **Places** | [Iredale](../places/settlements/towns/iredale.md) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||

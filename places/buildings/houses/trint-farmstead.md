@@ -10,7 +10,7 @@
 
 ## Summary
 
-The Trint Farmstead is home to the Trint family. It is a humble rural farmstead in the traditional [cepine](../../../lineages/cepine.md) style, allowing for their seasonal shepherding lifestyle. It can be found in the east of the [Albulain valley](../../topography/valleys/albulain-valley.md).
+The Trint Farmstead is home to the Trint family. It is a humble rural farmstead in the traditional [cepine](../../../lineages/cepine.md) style, allowing for their seasonal shepherding lifestyle. It can be found in the east of the [Albulain valley](../../topography/valleys-plains-deserts/albulain-valley.md).
 
 ## Description
 

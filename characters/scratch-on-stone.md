@@ -20,7 +20,7 @@
 
 ## Summary
 
-Scratch on Stone is the confident and knowledgeable [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) for [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md). He lost his left arm and eye in [Upper Tresenda](../places/topography/valleys/upper-tresenda.md) at the hands of a [Meteoric Mind](../creatures/meteoric-mind.md).
+Scratch on Stone is the confident and knowledgeable [Astorrel Squad Lead](../organisations/government/astorrel/ranks/astorrel-squad-lead.md) for [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md). He lost his left arm and eye in [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md) at the hands of a [Meteoric Mind](../creatures/meteoric-mind.md).
 
 Scratch wields [Verlust](../items/magic/verlust.md), a [Dragonsbreath Weapon](../items/magic/enchantments/dragonsbreath-weapon.md).
 
@@ -68,6 +68,6 @@ Scratch wields [Verlust](../items/magic/verlust.md), a [Dragonsbreath Weapon](..
 
 ## History
 
-Scratch on Stone lost his left arm, eye, and ear after collapsing in the [Upper Tresenda](../places/topography/valleys/upper-tresenda.md) [meteorite](../items/meteoric/meteorite.md) crater formed by the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md). The [meteoric dust](../items/meteoric/meteoric-dust.md) in the crater whipped over his left side while hey lay in it, ripping at him as the [Meteoric Mind](../creatures/meteoric-mind.md) commanded it to.
+Scratch on Stone lost his left arm, eye, and ear after collapsing in the [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md) [meteorite](../items/meteoric/meteorite.md) crater formed by the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md). The [meteoric dust](../items/meteoric/meteoric-dust.md) in the crater whipped over his left side while hey lay in it, ripping at him as the [Meteoric Mind](../creatures/meteoric-mind.md) commanded it to.
 
 Moments before he would be overtaken and consumed, [Elrick Loweswater](elrick-loweswater.md) in dire wolf (Wild Shape) form pulled him out by his neck, rushing him away from the area and to relative safety. Elrick, unable to end his Wild Shape, would care for him as best he could while searching for help.

@@ -17,7 +17,7 @@
 
 ## Summary
 
-Sammal Guntos is the innkeeper of [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). He works for the owner of the inn, with [Viv Dalnick](viv-dalnick.md) the barmaid, and lives in one of the rooms.
+Sammal Guntos is the innkeeper of [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) in [Goldreach](../places/settlements/towns/goldreach.md). He works for the owner of the inn, with [Viv Dalnick](viv-dalnick.md) the barmaid, and lives in one of the rooms.
 
 ## Characteristics
 

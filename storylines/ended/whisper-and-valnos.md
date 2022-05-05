@@ -44,7 +44,7 @@ Praying once again at the shrine to [Valnos](../../gods/deities/valnos.md), she 
 
 #### Whisper [Valnos](../../gods/deities/valnos.md) Chat 3
 
-While staying in [Arnaside](../../places/settlements/villages/arnaside.md) overnight in the [Head & Haft](../../places/buildings/inns-taverns/head-and-haft.md), [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) wakes up. They see their party sleeping inside the tavern, but a light outside distracts them. They make their way to the door quietly and step outside.
+While staying in [Arnaside](../../places/settlements/villages/arnaside.md) overnight in the [Head and Haft](../../places/buildings/inns-taverns/head-and-haft.md), [Whisper on the Breeze](../../characters/whisper-on-the-breeze.md) wakes up. They see their party sleeping inside the tavern, but a light outside distracts them. They make their way to the door quietly and step outside.
 
 It is quiet out and the wind is notably absent. Looking around they see a hawk on the edge of the next building over's roof, resembling the shrine to [Valnos](../../gods/deities/valnos.md) in [Diamond Prime](../../places/buildings/temples/diamond-prime.md) - golden and shining through its many gemstones. It is casting light around it.
 

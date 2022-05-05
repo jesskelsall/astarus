@@ -1,14 +1,16 @@
 # The Malneshitas
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | The Malneshitas |
+| **Name** | The Malneshitas | place.4
 | **Type** | Temple |
 | **Location** | [Arnaside](../../settlements/villages/arnaside.md) |
-| **Nearby Places** | [Head & Haft](../inns-taverns/head-and-haft.md) |
+| **Nearby Places** | [Head and Haft](../inns-taverns/head-and-haft.md)<br>[Zanni Flipwit's House](../houses/zanni-flipwits-house.md) |
 | **People** | [Nenra Zossa](../../../characters/nenra-zossa.md) |
 
 ## Summary
+
+## Description
 
 ### Exterior
 
@@ -39,8 +41,6 @@ A staircase to the back right leads down to the crypt.
 | Smells | Burning wood, flowers, candle wax. |
 | People | Malneshi sat cross legged, meditating. |
 | Intrigue | A humble and unfamiliar temple. |
-
-## History
 
 ## Planning
 

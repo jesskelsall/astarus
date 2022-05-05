@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | |
-| **Places** | [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md)<br>[Arnaside](../places/settlements/villages/arnaside.md) |
+| **Places** | [Head and Haft](../places/buildings/inns-taverns/head-and-haft.md) (barkeep) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-Sharakas is the innkeeper of the [Head & Haft](../places/buildings/inns-taverns/head-and-haft.md) in [Arnaside](../places/settlements/villages/arnaside.md). He is a *Malneshi*.
+Sharakas is the innkeeper of the [Head and Haft](../places/buildings/inns-taverns/head-and-haft.md) in [Arnaside](../places/settlements/villages/arnaside.md). He is a *Malneshi*.
 
 He is a bit of a coward, having previously chosen to run from his problems, renouncing his clan in the process of doing so. As a result he is conflicted about his choices, but hopes he can do [Malnesh](../gods/deities/malnesh.md) proud.
 

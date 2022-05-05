@@ -2,22 +2,12 @@
 
 |||
 | --- | --- |
-| **Name** | Lionel's Rest |
+| **Name** | Lionel's Rest | place.4
 | **Type** | Inn |
-| **Location** | [Sunrise District](../../settlements/districts/sunrise-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Northhaven Wall](../../structures/northhaven-wall.md) |
+| **Location** | [Sunrise District](../../settlements/districts/sunrise-district.md) |
+| **Nearby Places** | |
 | **People** | |
 
 ## Summary
 
-### Exterior
-
-### Interior
-
-| Sensation | Description |
-| ---- | --- |
-| Sights | |
-| Sounds | |
-| Smells | |
-| People | |
-| Intrigue | |
+## Description

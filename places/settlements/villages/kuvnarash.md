@@ -4,15 +4,15 @@
 | --- | --- |
 | **Name** | Kuv'narash | place.4
 | **Type** | Village |
-| **Location** | Kas'ran Desert |
+| **Location** | [Kas'ran Desert](../../topography/valleys-plains-deserts/kasran-desert.md) |
 | **Civilisation** | |
 | **Population** | 600 |
-| **Nearby Places** | Kas'ran Desert<br>River Ume |
+| **Nearby Places** | [Kas'ran Desert](../../topography/valleys-plains-deserts/kasran-desert.md)<br>River Ume |
 | **People** | [Dune Under Sunset](../../../characters/dune-under-sunset.md)<br>[Zolné Windclaw](../../../characters/zolne-windclaw.md) |
 
 ## Summary
 
-Kuv'narash is a small settlement along the fertile banks of the River Ume, home to a number of tabaxi clans as well as some dragonborn and elves. It is isolated from other settlements by the surrounding Kas'ran Desert.
+Kuv'narash is a small settlement along the fertile banks of the River Ume, home to a number of tabaxi clans as well as some dragonborn and elves. It is isolated from other settlements by the surrounding [Kas'ran Desert](../../topography/valleys-plains-deserts/kasran-desert.md).
 
 [Côtedouce](../towns/cotedouce.md) is the closest settlement to the west.
 

@@ -12,7 +12,7 @@
 | **Background** | Charlatan |
 | **Worship** | |
 | **Relations** | |
-| **Places** | Glengariff (birthplace) |
+| **Places** | [Glengariff](../places/settlements/villages/glengariff.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||

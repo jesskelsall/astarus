@@ -1,11 +1,11 @@
-# Head & Haft
+# Head and Haft
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Head & Haft |
+| **Name** | Head and Haft | place.4
 | **Type** | Tavern |
 | **Location** | [Arnaside](../../settlements/villages/arnaside.md) |
-| **Nearby Places** | [The Malneshitas](../temples/the-malneshitas.md) |
+| **Nearby Places** | [The Malneshitas](../temples/the-malneshitas.md)<br>[Zanni Flipwit's House](../houses/zanni-flipwits-house.md) |
 | **People** | [Sharakas](../../../characters/sharakas.md) (barkeep) |
 
 ## Summary

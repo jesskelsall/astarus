@@ -5,7 +5,7 @@
 | **Name** | Shrine to the Stars | place.4
 | **Type** | Landmark |
 | **Location** | [Foss Peaks](../mountains/foss-peaks.md) |
-| **Nearby Places** | [Filisur](../../settlements/villages/filisur.md) |
+| **Nearby Places** | [Albulain Valley](../valleys-plains-deserts/albulain-valley.md) |
 | **People** | |
 
 ## Summary

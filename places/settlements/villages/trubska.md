@@ -12,11 +12,11 @@
 
 ## Summary
 
-Trubska is a small mining town nestled between the hills south of the [Nilus Peaks](../../topography/mountains/nilus-peaks.md). It is located north of [Trest](../towns/trest.md), relying on the town's connections to [the Western Way](../../roads/the-western-way.md) and the [Gulf of Tanelle](../../topography/seas-oceans/gulf-of-tanelle.md) to sell its produce. It sits on a natural spring which provides both drinking and bathing water for the local bath house.
+Trubska is a small mining town nestled between the hills south of the [Nilus Peaks](../../topography/mountains/nilus-peaks.md). It is located north of [Trest](../towns/trest.md), relying on the town's connections to [the Western Way](../../roads/the-western-way.md) and the [Gulf of Tanelle](../../topography/seas-bays/gulf-of-tanelle.md) to sell its produce. It sits on a natural spring which provides both drinking and bathing water for the local bath house.
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Small clustered village of buildings made out of mining off-cuts. Houses look like shattered stone. Small marketplace with rough fountain made of similarly rough stone. Nestled in a series of hills, obscuring the view of the [Gulf of Tanelle](../../topography/seas-oceans/gulf-of-tanelle.md). Overshadowed by the [Nilus Peaks](../../topography/mountains/nilus-peaks.md). |
+| Sights | Small clustered village of buildings made out of mining off-cuts. Houses look like shattered stone. Small marketplace with rough fountain made of similarly rough stone. Nestled in a series of hills, obscuring the view of the [Gulf of Tanelle](../../topography/seas-bays/gulf-of-tanelle.md). Overshadowed by the [Nilus Peaks](../../topography/mountains/nilus-peaks.md). |
 | Sounds | Horses and carts, brief chatter. |
 | Smells | Stone dust, excrement. |
 | People | Manual labourers, mostly dragonborn and goliath. |

@@ -7,13 +7,13 @@
 
 ## Summary
 
-The [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party find themselves suddenly in the Kas'ran Desert under unknown circumstances. A lengthy journey west back to civilisation lies before them.
+The [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party find themselves suddenly in the [Kas'ran Desert](../../places/topography/valleys-plains-deserts/kasran-desert.md) under unknown circumstances. A lengthy journey west back to civilisation lies before them.
 
 ## History
 
 ### [MC02](../../sessions/MC02.md)
 
-[Mémoire de Défaite](../../items/echneshment/memory-spheres/memoire-de-defaite.md) malfunctions, spitting the [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party out into the middle of the Kas'ran Desert after they are ejected from its pocket dimension due to falling unconscious.
+[Mémoire de Défaite](../../items/echneshment/memory-spheres/memoire-de-defaite.md) malfunctions, spitting the [Memories of Chausain](../../campaigns/C3-memories-of-chausain.md) party out into the middle of the [Kas'ran Desert](../../places/topography/valleys-plains-deserts/kasran-desert.md) after they are ejected from its pocket dimension due to falling unconscious.
 
 They find themselves waking up face down in the sand in the middle of a sunny day, sweltering in the heat. Looking around they find no signs of anything but dunes as far as the eye can see.
 
@@ -31,7 +31,7 @@ The party continue their journey west.
 
 ### [MC03](../../sessions/MC03.md)
 
-The party continue to follow [Zolné Windclaw](../../characters/zolne-windclaw.md) through the Kas'ran Desert, west towards [Côtedouce](../../places/settlements/towns/cotedouce.md).
+The party continue to follow [Zolné Windclaw](../../characters/zolne-windclaw.md) through the [Kas'ran Desert](../../places/topography/valleys-plains-deserts/kasran-desert.md), west towards [Côtedouce](../../places/settlements/towns/cotedouce.md).
 
 That evening they realise they are being tailed by hyenas, including two giant hyenas. Zolné persuades the party to wait until sundown to attack them, when it is not so hot. When the time is right, Zolné turns around and begins combat.
 
@@ -65,4 +65,4 @@ On return to [Oriel Elsandoral](../../characters/oriel-elsandoral.md), the arch-
 
 The party decides they wish to learn more about [Mémoire de Défaite](../../items/echneshment/memory-spheres/memoire-de-defaite.md). Oriel's investigation of the [memory sphere](../../items/echneshment/memory-spheres/memory-sphere.md) coupled with the party's descriptions of its contents convinces her of its immense importance, causing her to offer to be their patron, an offer they accept. Oriel offers to teleport them to a [Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) capital city of their choosing. She reveals that she knows of [Familia Vulpes](../../organisations/familia-vulpes.md), offering to teleport them instead to [Trest](../../places/settlements/towns/trest.md) on [Vētrall Astérr](../../characters/vetrall-asterr.md)'s request.
 
-The party wishes to leave immediately and rest in [Trest](../../places/settlements/towns/trest.md). [Oriel Elsandoral](../../characters/oriel-elsandoral.md) teleporting them to the [Trest Marketplace](../../places/structures/trest-marketplace.md) ends their stint in the Kas'ran Desert.
+The party wishes to leave immediately and rest in [Trest](../../places/settlements/towns/trest.md). [Oriel Elsandoral](../../characters/oriel-elsandoral.md) teleporting them to the [Trest Marketplace](../../places/structures/trest-marketplace.md) ends their stint in the [Kas'ran Desert](../../places/topography/valleys-plains-deserts/kasran-desert.md).

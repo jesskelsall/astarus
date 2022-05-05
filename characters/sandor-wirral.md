@@ -16,7 +16,7 @@ Human male
 | **Relations** | [Clyde Wirral](clyde-wirral.md) (son) |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md) |
+| **Places** | [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md) (owner) |
 
 ## Summary
 

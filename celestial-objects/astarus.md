@@ -39,15 +39,15 @@ The races of Astarus arrived or were created at different points in the planet's
 | [The Second Coming](../history/events/the-second-coming.md) | [Malnesh](../gods/deities/malnesh.md) | Elf |
 | [The Third Coming](../history/events/the-third-coming.md) | [Bhygar](../gods/deities/bhygar.md)<br>[Valnos](../gods/deities/valnos.md)<br>[Kirrel](../gods/deities/kirrel.md)<br>[Gormox](../gods/deities/gormox.md) | Dragonborn<br>Gnome<br>Goliath<br>Halfling<br>Human<br>Orc<br>Tabaxi<br>Tiefling<br>*(not exhaustive)* |
 
-Following [the Second Coming](../history/events/the-second-coming.md) and [the Third Coming](../history/events/the-third-coming.md), various civilisations have emerged, each occupying their own portion of [Kardan](../places/topography/continents-islands/kardan.md) and the Kavallos Isles:
+Following [the Second Coming](../history/events/the-second-coming.md) and [the Third Coming](../history/events/the-third-coming.md), various civilisations have emerged, each occupying their own portion of [Kardan](../places/topography/continents-islands/kardan.md) and the [Kavallos Isles](../places/regions/kavallos-isles.md):
 
 | Civilisation | Region |
 | --- | --- |
-| [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md) | Northern [Kardan](../places/topography/continents-islands/kardan.md) |
-| [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) | Kavallos Isles |
+| [Dardenn Kingdom](../civilisations/dardenn-kingdom/dardenn-kingdom.md) | [Northern Kardan](../places/regions/northern-kardan.md) |
+| [Kavallos Fleet](../civilisations/kavallos-fleet/kavallos-fleet.md) | [Kavallos Isles](../places/regions/kavallos-isles.md) |
 | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) | [Southeastern Kardan](../places/regions/southeastern-kardan.md) |
-| [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) | Western [Kardan](../places/topography/continents-islands/kardan.md) |
-| [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) | Southern [Kardan](../places/topography/continents-islands/kardan.md) |
+| [Nil'Savnic Alliance](../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) | [Western Kardan](../places/regions/western-kardan.md) |
+| [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md) | [Southern Kardan](../places/regions/southern-kardan.md) |
 
 ## [Gods](../gods/gods.md)
 

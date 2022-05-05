@@ -18,22 +18,22 @@
 ## Transcript
 
 > Capt. [Hjalmann Craggbeard](../characters/hjalmann-craggbeard.md)  
-> Iredale [Astornox](../organisations/government/astornox/astornox.md) Stronghold  
-> Iredale  
+> [Iredale](../places/settlements/towns/iredale.md) [Astornox](../organisations/government/astornox/astornox.md) Stronghold  
+> [Iredale](../places/settlements/towns/iredale.md)  
 > Northern Astor
 >
 > Mishdag, 23rd of Shavdor, 312 [PA](../history/calendars/astorian-calendar.md)
 >
 > Dear Torbra,
 >
-> I'm writing to let you know that Montel and [Esme Leithran](../characters/esme-leithran.md) have made it to Iredale safely.  
+> I'm writing to let you know that Montel and [Esme Leithran](../characters/esme-leithran.md) have made it to [Iredale](../places/settlements/towns/iredale.md) safely.  
 > I'd imagine this news comes as a relief.
 >
 > The pair arrived yesterday by cart, looking for somewhere to stay. When they asked for me and mentioned your name, I was thrilled to learn that since leaving home you've been doing much good.
 >
 > Your parents were reassured when I visited to tell them of your exploits, your mother cried to know you were safe. I had to explain to them what it meant that you are now [Astorrel](../organisations/government/astorrel/astorrel.md), and how rare an honour that is. I can scarcely believe that you are already part of their ranks - I'm sure that'll make for a fine story next we meet!
 >
-> I've done what I can to help the Leithrans to settle, as Montel is keen to make a home here. As Captain of Iredale it is difficult for me to grant favours to elves without raising suspicion, but I've already silenced a few concerned voices within my guard. They are welcome here.
+> I've done what I can to help the Leithrans to settle, as Montel is keen to make a home here. As Captain of [Iredale](../places/settlements/towns/iredale.md) it is difficult for me to grant favours to elves without raising suspicion, but I've already silenced a few concerned voices within my guard. They are welcome here.
 >
 > Your parents agreed to take the Leithrans in.  
 > Emelina was particularly keen - she says Esme reminds her of you when you were younger. Ealo has work for Montel which will get him established here.

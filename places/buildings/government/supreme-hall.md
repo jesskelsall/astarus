@@ -4,13 +4,15 @@
 | --- | --- |
 | **Name** | Supreme Hall | place.4
 | **Type** | Building |
-| **Location** | Tower of Ast<br>[Northhaven Astornar Stronghold](../../settlements/strongholds/northhaven-astornar-stronghold.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md)<br>[Southeastern Kardan](../../regions/southeastern-kardan.md) |
+| **Location** | [Tower of Ast](tower-of-ast.md) |
 | **Nearby Places** | |
 | **People** | [Corville Thornox](../../../characters/corville-thornox.md) |
 
 ## Summary
 
-Supreme Hall is the "throne room" for the General Supreme of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is accessed via double doors from the ground floor of the Tower of Ast.
+Supreme Hall is the "throne room" for the General Supreme of the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is accessed via double doors from the ground floor of the [Tower of Ast](tower-of-ast.md).
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

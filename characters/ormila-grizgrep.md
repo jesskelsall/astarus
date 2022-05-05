@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Grizgrep Reagents & Magical Curios](../places/buildings/shops/grizgrep-reagents-and-magical-curios.md) |
+| **Places** | [Grizgrep Reagents & Magical Curios](../places/buildings/shops/grizgrep-reagents-and-magical-curios.md) (owner) |
 
 ## Summary
 

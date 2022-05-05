@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | The Slippery Weasel |
 | **Type** | Inn |
-| **Location** | [Goldreach](README.md) |
-| **Nearby Places** | [Goldreach Marketplace](goldreach-marketplace.md)<br>[Goldreach](README.md) Temple<br>[Goldreach Astornox Stronghold](goldreach-astornox-stronghold.md) |
+| **Location** | [Goldreach](../../../../places/settlements/towns/goldreach.md) |
+| **Nearby Places** | [Goldreach Marketplace](goldreach-marketplace.md)<br>[Goldreach](../../../../places/settlements/towns/goldreach.md) Temple<br>[Goldreach Astornox Stronghold](goldreach-astornox-stronghold.md) |
 | **People** | [Sammal Guntos](../../../../characters/sammal-guntos.md) (innkeeper)<br>[Viv Dalnick](../../../../characters/viv-dalnick.md) (barmaid) |
 
 ## Summary
 
-The Slippery Weasel is the main inn in [Goldreach](README.md), situated on the north side of the [Goldreach Marketplace](goldreach-marketplace.md). It is easy to find and is often busy with local drinkers and guests alike.
+The Slippery Weasel is the main inn in [Goldreach](../../../../places/settlements/towns/goldreach.md), situated on the north side of the [Goldreach Marketplace](goldreach-marketplace.md). It is easy to find and is often busy with local drinkers and guests alike.
 
 | Sensation | Description |
 | ---- | --- |

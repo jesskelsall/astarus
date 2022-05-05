@@ -1,11 +1,11 @@
 # Everything Else
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Everything Else |
+| **Name** | Everything Else | place.4
 | **Type** | Shop |
-| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Sons](sq-wirral-and-son.md) |
+| **Location** | [Crafters Course](../../settlements/streets/crafters-course.md) |
+| **Nearby Places** | [Adventures for Adventurers](adventures-for-adventurers.md)<br>[Friend of the Magicborn](friend-of-the-magicborn.md)<br>[Glug by Gwinthel](glug-by-gwinthel.md)<br>[Grizgrep Reagents & Magical Curios](grizgrep-reagents-and-magical-curios.md)<br>[Rhotrukk Wepons](rhotrukk-wepons.md)<br>[S.Q. Wirral & Son](sq-wirral-and-son.md) |
 | **People** | [Nilus Cray](../../../characters/nilus-cray.md) |
 
 ## Summary
@@ -17,6 +17,8 @@ It caters to those who need standard survival equipment and provisions. If you c
 The store has a standard appearance with a simple swinging sign outside and two large windows either side of the door. The store is laid out with shelves, barrels and buckets of products, neatly stacked and sensibly arranged.
 
 By the entrance is a counter area from which [Nilus Cray](../../../characters/nilus-cray.md) watches people enter and leave, as well as people watch through the window.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

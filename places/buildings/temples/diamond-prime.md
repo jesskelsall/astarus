@@ -1,22 +1,22 @@
 # Diamond Prime
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Diamond Prime |
+| **Name** | Diamond Prime | place.4
 | **Type** | Temple |
-| **Location** | [Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Astor Square](../../structures/astor-square.md) |
+| **Location** | [Astor Square](../../structures/astor-square.md) |
+| **Nearby Places** | [Sunset Delivery Astor Square](../shops/sunset-delivery-astor-square.md)<br>[The Alley](../shops/the-alley.md) |
 | **People** | |
 
 ## Summary
-
-*See: [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md)*
 
 Diamond Prime is the main temple of [The Order of the Diamond](../../../organisations/the-order-of-the-diamond.md) in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). It is located within the [Sunset District](../../settlements/districts/sunset-district.md) of [Northhaven](../../settlements/cities/northhaven.md), and is the most prominent building bordering the [Astor Square](../../structures/astor-square.md).
 
 It is by far the biggest temple in the kingdom, a shining beacon to the power of the [gods](../../../gods/gods.md) and their subjects devotion to them. It is the tallest building in the surrounding area.
 
 The building is far taller than it needs to be at about 3 storeys tall. It towers over the nearby buildings which aren't allowed to be taller than it. Shining white polished marble decorates the entire building, which has very little decoration, instead using the power of the marble to dazzle, and the building's geometry and brutalism leaves a lasting impression.
+
+## Description
 
 ### Exterior
 

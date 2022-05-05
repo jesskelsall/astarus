@@ -12,7 +12,7 @@
 
 ## Summary
 
-Kulevi is a growing sheep town along both Kulo Lake and the Key to the North road. It sits at a junction for over-land travel toward the [Bay of Splendour](../../../civilisations/nilsavnic-alliance/states/bay-of-splendour.md) settlements along the [Splendour Bay](../../topography/seas-oceans/splendour-bay.md) coast. It is surrounded by rolling green fields, ideal for sheep farming.
+Kulevi is a growing sheep town along both Kulo Lake and the Key to the North road. It sits at a junction for over-land travel toward the [Bay of Splendour](../../../civilisations/nilsavnic-alliance/states/bay-of-splendour.md) settlements along the [Splendour Bay](../../topography/seas-bays/splendour-bay.md) coast. It is surrounded by rolling green fields, ideal for sheep farming.
 
 The Key to the North road skirts around the town itself, leaving the town centre peaceful and devoid of through traffic. Travellers hitch up their horses and come into town to stay the night.
 

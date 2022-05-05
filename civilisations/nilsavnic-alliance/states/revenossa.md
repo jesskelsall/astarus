@@ -38,4 +38,4 @@ They are in dispute with the [Bay of Splendour](bay-of-splendour.md) over who ow
 | Forest | | |
 | Rivers & Lakes | [River Alassau](../../../places/topography/rivers-lakes/river-alassau.md)<br>[River Scintil](../../../places/topography/rivers-lakes/river-scintil.md) | [River Scintil](../../../places/topography/rivers-lakes/river-scintil.md)<br>[Scintil Delta](../../../places/topography/rivers-lakes/scintil-delta.md) |
 | Mountains | | |
-| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-oceans/bay-of-knives.md)<br>[Griffon's Throat](../../../places/topography/seas-oceans/griffons-throat.md)<br>[The Twilight Expanse](../../../places/topography/seas-oceans/the-twilight-expanse.md) | [Splendour Bay](../../../places/topography/seas-oceans/splendour-bay.md) |
+| Seas & Oceans | [Bay of Knives](../../../places/topography/seas-bays/bay-of-knives.md)<br>[Griffon's Throat](../../../places/topography/seas-bays/griffons-throat.md)<br>[The Twilight Expanse](../../../places/topography/seas-bays/the-twilight-expanse.md) | [Splendour Bay](../../../places/topography/seas-bays/splendour-bay.md) |

@@ -14,6 +14,8 @@ Gate to the West is a military inn in [Blittergate](../../settlements/towns/blit
 
 It is a popular spot for roaming military members such as [Astorrel](../../../organisations/government/astorrel/astorrel.md) squads and [Astornox magicborn hunters](../../../organisations/government/astornox/ranks/astornox-magicborn-hunter.md).
 
+## Description
+
 ### Exterior
 
 | Sensation | Description |

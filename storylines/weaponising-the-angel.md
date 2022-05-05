@@ -33,7 +33,7 @@ Elysia promises results as soon as her squads return from their missions. She ne
 
 *See: [Astral Squad Return to Goldreach](astral-squad-return-to-goldreach.md)*
 
-When [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) return from [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) gives his mission report to Elysia, it is clear that the death of one [Meteoric Watcher](../creatures/meteoric-watcher.md) won't be enough to appease Quinn. Elysia confides in Hidaar that if [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) don't return with revelations, her entire operation could collapse.
+When [Astral Squad](../organisations/government/astorrel/squads/astral-squad.md) return from [Goldreach](../places/settlements/towns/goldreach.md) and [Darjonkaargeac Hidaar](../characters/darjonkaargeac-hidaar.md) gives his mission report to Elysia, it is clear that the death of one [Meteoric Watcher](../creatures/meteoric-watcher.md) won't be enough to appease Quinn. Elysia confides in Hidaar that if [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) don't return with revelations, her entire operation could collapse.
 
 ## Planning
 

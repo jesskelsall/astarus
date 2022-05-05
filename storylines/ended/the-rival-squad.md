@@ -25,14 +25,14 @@ Both squads begin their first missions:
 
 | Squad | Acting Lead | Mission | Bounty | Time Limit |
 | --- | --- | --- | ---:| --- |
-| [Ruby Squad](../../organisations/government/astorrel/squads/ruby-squad.md) | [Darius Dunn](../../characters/darius-dunn.md) | Investigate Bear Attacks in Hartsgarth | 30 gp | 10 days |
+| [Ruby Squad](../../organisations/government/astorrel/squads/ruby-squad.md) | [Darius Dunn](../../characters/darius-dunn.md) | Investigate Bear Attacks in [Hartsgarth](../../places/settlements/villages/hartsgarth.md) | 30 gp | 10 days |
 | [Canary Squad](../../organisations/government/astorrel/squads/canary-squad.md) | [Ahsha Sallas](../../characters/ahsha-sallas.md) | [Check Logging in Arnaside](check-logging-in-arnaside.md) | 20 gp | 14 days |
 
 ### [AA06](../../sessions/AA06.md)
 
 When [Canary squad](../../organisations/government/astorrel/squads/canary-squad.md) return to [Bryce Morton](../../characters/bryce-morton.md) for their second mission, Bryce hands them their invite letter to [Nature's Battle 28](natures-battle-28.md) ([L-AA-01](../../letters/L-AA-01.md)). He tells them that the same invite to the tournament has been extended to [Ruby squad](../../organisations/government/astorrel/squads/ruby-squad.md), a point of pride for him. Knowing that they are competing factors into [Canary squad](../../organisations/government/astorrel/squads/canary-squad.md)'s decision to compete.
 
-On their way out of [Auric Rise](../../places/buildings/government/auric-rise.md), [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) spots [Darius Dunn](../../characters/darius-dunn.md) entering [the Mission's End](../../places/buildings/inns-taverns/the-missions-end.md). Wanting to spend more time with him, she splits from the party and follows him inside. Here she finds the rest of [Ruby squad](../../organisations/government/astorrel/squads/ruby-squad.md), who tell her of their successful mission to Hartsgarth where they killed several brown bears in a den near the village. They also briefly discuss their invite to the tournament, which they are excited to accept.
+On their way out of [Auric Rise](../../places/buildings/government/auric-rise.md), [Redwyn Humpledopper](../../characters/redwyn-humpledopper.md) spots [Darius Dunn](../../characters/darius-dunn.md) entering [the Mission's End](../../places/buildings/inns-taverns/the-missions-end.md). Wanting to spend more time with him, she splits from the party and follows him inside. Here she finds the rest of [Ruby squad](../../organisations/government/astorrel/squads/ruby-squad.md), who tell her of their successful mission to [Hartsgarth](../../places/settlements/villages/hartsgarth.md) where they killed several brown bears in a den near the village. They also briefly discuss their invite to the tournament, which they are excited to accept.
 
 ### [AA07](../../sessions/AA07.md)
 

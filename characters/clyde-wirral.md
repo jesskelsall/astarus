@@ -13,7 +13,7 @@
 | **Relations** | [Sandor Wirral](sandor-wirral.md) (father) |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md) |
+| **Places** | [S.Q. Wirral & Son](../places/buildings/shops/sq-wirral-and-son.md) (apprentice) |
 
 ## Summary
 

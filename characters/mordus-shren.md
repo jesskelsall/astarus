@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [The Greedy Trout](../places/buildings/inns-taverns/the-greedy-trout.md) |
+| **Places** | [The Greedy Trout](../places/buildings/inns-taverns/the-greedy-trout.md) (owner) |
 
 ## Summary
 

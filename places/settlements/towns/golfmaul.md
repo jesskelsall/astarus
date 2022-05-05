@@ -7,12 +7,12 @@
 | **Location** | [Valburg](../../../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Civilisation** | [Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Population** | 1,900 |
-| **Nearby Places** | [Dünnesland](dunnesland.md)<br>[Gulf of Tanelle](../../topography/seas-oceans/gulf-of-tanelle.md)<br>[Lilaweg](../../roads/lilaweg.md)<br>[Sonnigeweide](../villages/sonnigeweide.md) |
+| **Nearby Places** | [Dünnesland](dunnesland.md)<br>[Gulf of Tanelle](../../topography/seas-bays/gulf-of-tanelle.md)<br>[Lilaweg](../../roads/lilaweg.md)<br>[Sonnigeweide](../villages/sonnigeweide.md) |
 | **People** | [Lorena Bynelor](../../../characters/lorena-bynelor.md) (Knight of Golfmaul) |
 
 ## Summary
 
-Golfmaul is the southern most settlement of [Valburg](../../../civilisations/nilsavnic-alliance/states/valburg.md), a port town with access to the [Gulf of Tanelle](../../topography/seas-oceans/gulf-of-tanelle.md), the [River Trogen](../../topography/rivers-lakes/river-trogen.md), and easy access to [Starnov](../cities/starnov.md). It is known for its steep winding streets, pastel coloured houses, and berries.
+Golfmaul is the southern most settlement of [Valburg](../../../civilisations/nilsavnic-alliance/states/valburg.md), a port town with access to the [Gulf of Tanelle](../../topography/seas-bays/gulf-of-tanelle.md), the [River Trogen](../../topography/rivers-lakes/river-trogen.md), and easy access to [Starnov](../cities/starnov.md). It is known for its steep winding streets, pastel coloured houses, and berries.
 
 Golfmaul is loosely inspired by [Whitby](https://en.wikipedia.org/wiki/Whitby).
 

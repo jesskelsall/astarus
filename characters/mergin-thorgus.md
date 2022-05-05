@@ -11,7 +11,7 @@
 | **Class** | Wizard |
 | **Worship** | [Kirrel](../gods/deities/kirrel.md) |
 | **Relations** | |
-| **Places** | [Zenith Spire](../places/buildings/government/zenith-spire.md)<br>[Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md) |
+| **Places** | [Zenith Spire](../places/buildings/government/zenith-spire.md) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |

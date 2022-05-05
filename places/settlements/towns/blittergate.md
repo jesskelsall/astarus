@@ -7,12 +7,14 @@
 | **Location** | [Southeastern Kardan](../../regions/southeastern-kardan.md) |
 | **Civilisation** | [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Population** | 2,500 |
-| **Nearby Places** | [Blittergate Lake](../../topography/rivers-lakes/blittergate-lake.md)<br>[Tresenda Pass](../../roads/tresenda-pass.md)<br>[Western Reach](../../roads/western-reach.md) |
+| **Nearby Places** | [Blittergate Lake](../../topography/rivers-lakes/blittergate-lake.md)<br>[Western Reach](../../roads/western-reach.md) |
 | **People** | |
 
 ## Summary
 
-Blittergate is the western-most town in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). Sitting between two lakes, it is known for its freshwater fish and local farming produce. It is often the last civilised stop for travellers heading toward the Neum Flats.
+Blittergate is the western-most town in the [Kingdom of Astor](../../../civilisations/kingdom-of-astor/kingdom-of-astor.md). Sitting between two lakes, it is known for its freshwater fish and local farming produce. It is often the last civilised stop for travellers heading toward the [Neum Flats](../../topography/valleys-plains-deserts/neum-flats.md).
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |
@@ -25,7 +27,7 @@ Blittergate is the western-most town in the [Kingdom of Astor](../../../civilisa
 ## Places
 
 - [Blittergate Astornox Stronghold](../strongholds/blittergate-astornox-stronghold.md)
-- [The Courteous Cow](../../buildings/inns-taverns/the-courteous-cow.md) (inn)
-- [Gate to the West](../../buildings/inns-taverns/gate-to-the-west.md) (military inn)
 - [Fresk House](../../buildings/houses/fresk-house.md) (doctor)
-- Temple to the Lakes
+- [Gate to the West](../../buildings/inns-taverns/gate-to-the-west.md) (military inn)
+- [The Courteous Cow](../../buildings/inns-taverns/the-courteous-cow.md) (inn)
+- [Temple of the Lakes](../../buildings/temples/temple-of-the-lakes.md)

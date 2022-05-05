@@ -7,7 +7,7 @@
 
 ## Summary
 
-[Astral squad](../../organisations/government/astorrel/squads/astral-squad.md) found a mysterious crater on the Humar Estuary, along with several shards of the [Humar Meteorite](../../items/meteoric/meteorites/humar-meteorite.md). What happened to the rest of it?
+[Astral squad](../../organisations/government/astorrel/squads/astral-squad.md) found a mysterious crater on the [Humar Estuary](../../places/topography/swamps-deltas/humar-estuary.md), along with several shards of the [Humar Meteorite](../../items/meteoric/meteorites/humar-meteorite.md). What happened to the rest of it?
 
 ## Mission
 
@@ -24,17 +24,17 @@
 
 ### [PR30](../../sessions/PR30.md)
 
-Following the completion of [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s first mission ([Talk to the Morning Chasers](talk-to-the-morning-chasers.md)), [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) debate which of the four offered missions to take next. [Torbra Tauff](../../characters/torbra-tauff.md) as [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md) makes the decision to head to the Humar Estuary. This is partially motivated by its quick mission deadline and relatively high ratio pay.
+Following the completion of [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md)'s first mission ([Talk to the Morning Chasers](talk-to-the-morning-chasers.md)), [Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) debate which of the four offered missions to take next. [Torbra Tauff](../../characters/torbra-tauff.md) as [Astorrel Squad Lead](../../organisations/government/astorrel/ranks/astorrel-squad-lead.md) makes the decision to head to the [Humar Estuary](../../places/topography/swamps-deltas/humar-estuary.md). This is partially motivated by its quick mission deadline and relatively high ratio pay.
 
 ### [PR31](../../sessions/PR31.md)
 
 #### Day 1
 
-[Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) gear up for their mission to the Humar Estuary. [Torbra Tauff](../../characters/torbra-tauff.md) considers how they might get there, first considering hiring a horse and cart before deciding to try and buy a rowing boat.
+[Starfall squad](../../organisations/government/astorrel/squads/starfall-squad.md) gear up for their mission to the [Humar Estuary](../../places/topography/swamps-deltas/humar-estuary.md). [Torbra Tauff](../../characters/torbra-tauff.md) considers how they might get there, first considering hiring a horse and cart before deciding to try and buy a rowing boat.
 
 The party head to the west of the [Sunset District](../../places/settlements/districts/sunset-district.md), down to the docks lined with ships of all sizes conducting commerce. She finds several businesses that will sell her a boat for 50 gp. As an alternative she looks for a ship that might be willing to drop them off along their route.
 
-Torbra finds [Dinua Costello](../../characters/dinua-costello.md), captain of [the Maiden's Accompaniment](../../places/ships/the-maidens-accompaniment.md), who is willing to transport them for 1 gp each (4 gp total). The party agree to the arrangement which will include them sleeping on the deck and jumping overboard once the ship is close to the Humar Estuary.
+Torbra finds [Dinua Costello](../../characters/dinua-costello.md), captain of [the Maiden's Accompaniment](../../places/ships/the-maidens-accompaniment.md), who is willing to transport them for 1 gp each (4 gp total). The party agree to the arrangement which will include them sleeping on the deck and jumping overboard once the ship is close to the [Humar Estuary](../../places/topography/swamps-deltas/humar-estuary.md).
 
 #### Day 2
 
@@ -64,9 +64,9 @@ During this time [Thanea Morlay](../../characters/thanea-morlay.md) asks them if
 
 [Starfall Squad](../../organisations/government/astorrel/squads/starfall-squad.md) leave [Leithran Shack](../../places/buildings/leithran-shack.md) in the morning with [Montel Leithran](../../characters/montel-leithran.md) and [Esme Leithran](../../characters/esme-leithran.md), who will accompany them while they complete their mission.
 
-[Wizira](../../characters/wizira.md) finds a forked stick for use with her Locate Object spell but is unable to detect a [meteorite](../../items/meteoric/meteorite.md) within its area of effect. [Thanea Morlay](../../characters/thanea-morlay.md) uses Radiant Soul to fly high into the clear sky, getting the party's bearings two thirds of the way down the Humar Estuary peninsula. [Torbra Tauff](../../characters/torbra-tauff.md) decides that they should proceed south west.
+[Wizira](../../characters/wizira.md) finds a forked stick for use with her Locate Object spell but is unable to detect a [meteorite](../../items/meteoric/meteorite.md) within its area of effect. [Thanea Morlay](../../characters/thanea-morlay.md) uses Radiant Soul to fly high into the clear sky, getting the party's bearings two thirds of the way down the [Humar Estuary](../../places/topography/swamps-deltas/humar-estuary.md) peninsula. [Torbra Tauff](../../characters/torbra-tauff.md) decides that they should proceed south west.
 
-After several fruitless hours the party reach the end of dry land, arriving near the [Carneid Inlet](../../places/topography/seas-oceans/carneid-inlet.md). [Wizira](../../characters/wizira.md) uses [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md)'s suggestion of casting Locate Object with [meteoric dust](../../items/meteoric/meteoric-dust.md) in mind, noticing that her divining rod points north. Torbra trusts [Wizira](../../characters/wizira.md), so the party turn back north, travelling for the rest of the day.
+After several fruitless hours the party reach the end of dry land, arriving near the [Carneid Inlet](../../places/topography/seas-bays/carneid-inlet.md). [Wizira](../../characters/wizira.md) uses [Saoirse ó Dochartaigh](../../characters/saoirse-o-dochartaigh.md)'s suggestion of casting Locate Object with [meteoric dust](../../items/meteoric/meteoric-dust.md) in mind, noticing that her divining rod points north. Torbra trusts [Wizira](../../characters/wizira.md), so the party turn back north, travelling for the rest of the day.
 
 The party camp on drier northern terrain away from the swampier areas in the south of the peninsula.
 

@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | [Rysa Ornoll](rysa-ornoll.md) (employer) |
 | **From** | |
-| **Places** | [The Keeper's Reprise](../places/buildings/inns-taverns/the-keepers-reprise.md) |
+| **Places** | [The Keeper's Reprise](../places/buildings/inns-taverns/the-keepers-reprise.md) (hostler) |
 
 ## Summary
 

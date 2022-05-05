@@ -20,14 +20,14 @@
 > Dear [Wizira](../characters/wizira.md),
 > 
 > I'm so relieved to have heard from you!  
-> It's been so incredibly stressful lately trying to piece together what happened to you and your friends since you all left [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) that night.
+> It's been so incredibly stressful lately trying to piece together what happened to you and your friends since you all left [Goldreach](../places/settlements/towns/goldreach.md) that night.
 > 
 > I heard that you'd made it to [Northhaven](../places/settlements/cities/northhaven.md) after news of a blue firbolg in [sanctuary](../organisations/government/astorrel/sanctuary.md) reached us here. It just had to be you, I knew it!
 > 
 > Then news of the trial and word that the [Astornox](../organisations/government/astornox/astornox.md) won. My heart sank, I feared the worst for you. Surely you had been conscripted and I'd never hear from you again.
 > 
 > So imagine my surprise when your letter arrived!  
-> The [Astorrel](../organisations/government/astorrel/astorrel.md) sounds like the perfect fit for you. I do hope you'll be careful though, there is much danger to be found in the military. Maybe you'll have cause to return to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) and visit me soon?
+> The [Astorrel](../organisations/government/astorrel/astorrel.md) sounds like the perfect fit for you. I do hope you'll be careful though, there is much danger to be found in the military. Maybe you'll have cause to return to [Goldreach](../places/settlements/towns/goldreach.md) and visit me soon?
 > 
 > The consequences of what happened here are still being felt.  
 > I am so sorry about what happened to your father.  

@@ -1,8 +1,8 @@
 # Sunset District
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Sunset District |
+| **Name** | Sunset District | place.4
 | **Type** | District |
 | **Location** | [Northhaven](../cities/northhaven.md) |
 | **Nearby Places** | [Northhaven Wall](../../structures/northhaven-wall.md)<br>[Sunrise District](sunrise-district.md) |
@@ -23,27 +23,11 @@ The district is focused around [Diamond Prime](../../buildings/temples/diamond-p
 ## Places
 
 - [Astor Square](../../structures/astor-square.md)
-  - [Diamond Prime](../../buildings/temples/diamond-prime.md)
-  - [Sunset Delivery Astor Square](../../buildings/shops/sunset-delivery-astor-square.md)
-  - [The Alley](../../buildings/shops/the-alley.md)
-- [Astpost Northhaven](../../buildings/shops/astpost-northhaven.md)
+- [Astpost Northhaven](../../buildings/shops/astpost-northhaven.md) (mail)
 - [Crafters Course](../streets/crafters-course.md)
-  - [Adventures for Adventurers](../../buildings/shops/adventures-for-adventurers.md)
-  - [Everything Else](../../buildings/shops/everything-else.md)
-  - [Friend of the Magicborn](../../buildings/shops/friend-of-the-magicborn.md)
-  - [Grizgrep Reagents & Magical Curios](../../buildings/shops/grizgrep-reagents-and-magical-curios.md)
-  - [Rhotrukk Wepons](../../buildings/shops/rhotrukk-wepons.md)
-  - [S.Q. Wirral & Son](../../buildings/shops/sq-wirral-and-son.md)
-- [Margaret's Fineries](../../buildings/shops/margarets-fineries.md)
-- [The Rose Buckler](../../buildings/inns-taverns/the-rose-buckler.md)
+- [Margaret's Fineries](../../buildings/shops/margarets-fineries.md) (clothes)
 - [Northhaven Astornar Stronghold](../strongholds/northhaven-astornar-stronghold.md)
-- [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)
-  - [Auric Rise](../../buildings/government/auric-rise.md)
-  - [Hawk's Perch](../../buildings/government/hawks-perch.md)
-  - [Kirrel Hall](../../buildings/government/kirrel-hall.md)
-  - [Tenterfell House](../../buildings/government/tenterfell-house.md)
-  - [The Mission's End](../../buildings/inns-taverns/the-missions-end.md)
-  - [The Sanctum](../../buildings/government/the-sanctum.md)
-  - [Zenith Spire](../../buildings/government/zenith-spire.md)
 - [Northhaven Astornox Stronghold](../strongholds/northhaven-astornox-stronghold.md)
-- [Valley Under the Stars](../../buildings/inns-taverns/valley-under-the-stars.md)
+- [Northhaven Astorrel Stronghold](../strongholds/northhaven-astorrel-stronghold.md)
+- [The Rose Buckler](../../buildings/inns-taverns/the-rose-buckler.md) (inn)
+- [Valley Under the Stars](../../buildings/inns-taverns/valley-under-the-stars.md) (inn)

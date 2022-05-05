@@ -15,7 +15,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | |
+| **Places** | [Ulburn Astorrel House](../places/buildings/government/ulburn-astorrel-house.md) |
 
 ## Summary
 

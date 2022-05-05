@@ -1,11 +1,11 @@
 # Northhaven Wall
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Northhaven Wall |
+| **Name** | Northhaven Wall | place.4
 | **Type** | Structure |
 | **Location** | [Northhaven](../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Sunrise District](../settlements/districts/sunrise-district.md)<br>[Sunset District](../settlements/districts/sunset-district.md) |
+| **Nearby Places** | [Ethel's Wares](../buildings/shops/ethels-wares.md)<br>[Northhaven Stables North](../buildings/stables/northhaven-stables-north.md)<br>[Sunrise District](../settlements/districts/sunrise-district.md)<br>[Sunset District](../settlements/districts/sunset-district.md) |
 | **People** | |
 
 ## Summary
@@ -13,6 +13,8 @@
 The city wall was built during the [Astor-Syntenne War](../../history/events/astor-syntenne-war.md) to prevent a land-based invasion of the city. It is 10ft thick, on average 35ft tall, and made of stone from the slopes of [Walna Pike](../topography/mountains/walna-pike.md) nearby.
 
 These days it demarcates the inner [Sunset District](../settlements/districts/sunset-district.md), which is for military members only, from the outer [Sunrise District](../settlements/districts/sunrise-district.md), which is for everyone else.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |

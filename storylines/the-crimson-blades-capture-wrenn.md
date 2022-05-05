@@ -13,9 +13,9 @@ While the [Purple Rain](../campaigns/C1-purple-rain.md) party are on the run fro
 
 ### Pre-campaign
 
-Prior to [PR12](../sessions/PR12.md), [Stalker](../characters/stalker.md) sends [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../characters/wrenn-piznarck.md). They trailed him to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../organisations/government/astornox/astornox.md) while staying at [Alistair Hawthorn's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md).
+Prior to [PR12](../sessions/PR12.md), [Stalker](../characters/stalker.md) sends [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) to capture [Wrenn Piznarck](../characters/wrenn-piznarck.md). They trailed him to [Goldreach](../places/settlements/towns/goldreach.md), where they lay in wait, knowing that he'd be protected by the [Astornox](../organisations/government/astornox/astornox.md) while staying at [Alistair Hawthorn's House](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/alistair-hawthorns-house.md).
 
-When the party fled [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) to seek [sanctuary](../organisations/government/astorrel/sanctuary.md) at the [Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md), Morog sensed an opportunity and went in pursuit of Wrenn.
+When the party fled [Goldreach](../places/settlements/towns/goldreach.md) to seek [sanctuary](../organisations/government/astorrel/sanctuary.md) at the [Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md), Morog sensed an opportunity and went in pursuit of Wrenn.
 
 ### [PR12](../sessions/PR12.md)
 
@@ -63,7 +63,7 @@ While in [sanctuary](../organisations/government/astorrel/sanctuary.md), the par
 
 [Carras Southroot](../characters/carras-southroot.md) and [Norsha Costello](../characters/norsha-costello.md) visit the party in [sanctuary](../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../places/buildings/government/the-sanctum.md). They ask about the circumstances of [Wrenn Piznarck](../characters/wrenn-piznarck.md)'s disappearance. The party tell them that he was taken by [Morog Whiteknuckle](../characters/morog-whiteknuckle.md) of [the Crimson Blades](../organisations/criminals/the-crimson-blades.md) east of [Frizthwaite](../places/settlements/villages/frizthwaite.md).
 
-Carras and Norsha confer to each other, Carras noting that [the Crimson Blades](../organisations/criminals/the-crimson-blades.md) are known to operate around Carnmere.
+Carras and Norsha confer to each other, Carras noting that [the Crimson Blades](../organisations/criminals/the-crimson-blades.md) are known to operate around [Carnmere](../places/settlements/towns/carnmere.md).
 
 ### [PR27](../sessions/PR27.md)
 
@@ -77,12 +77,12 @@ Quinn, unhappy with the cryptic information provided, leaves to relay what he le
 
 ### [AA13](../sessions/AA13.md)
 
-While in [Hyceodd](../places/settlements/towns/hyceodd.md) searching for the missing [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md), [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) ask the [Hyceodd](../places/settlements/towns/hyceodd.md) [Astorrel](../organisations/government/astorrel/astorrel.md) what they know. They speak of [Kiln squad](../organisations/government/astorrel/squads/kiln-squad.md) helping them with local gang issues, suggesting that the gang could be or have ties to [the Crimson Blades](../organisations/criminals/the-crimson-blades.md), a notorious criminal organisation based out of Carnmere.
+While in [Hyceodd](../places/settlements/towns/hyceodd.md) searching for the missing [Kiln Squad](../organisations/government/astorrel/squads/kiln-squad.md), [Canary Squad](../organisations/government/astorrel/squads/canary-squad.md) ask the [Hyceodd](../places/settlements/towns/hyceodd.md) [Astorrel](../organisations/government/astorrel/astorrel.md) what they know. They speak of [Kiln squad](../organisations/government/astorrel/squads/kiln-squad.md) helping them with local gang issues, suggesting that the gang could be or have ties to [the Crimson Blades](../organisations/criminals/the-crimson-blades.md), a notorious criminal organisation based out of [Carnmere](../places/settlements/towns/carnmere.md).
 
 The [Astornox Guard Sergeant](../organisations/government/astornox/ranks/astornox-guard-sergeant.md) that [Ahsha Sallas](../characters/ahsha-sallas.md) and [Yialdred Korina](../characters/yialdred-korina.md) are talking to tell them about a bulletin the [Hyceodd](../places/settlements/towns/hyceodd.md) [Astornox](../organisations/government/astornox/astornox.md) received a while ago about a captured [Astorrel](../organisations/government/astorrel/astorrel.md) ([Wrenn Piznarck](../characters/wrenn-piznarck.md)) that has likely been taken by [the Crimson Blades](../organisations/criminals/the-crimson-blades.md). Word went out looking for a basement that they could be chained up in, hoping that the [Astornox](../organisations/government/astornox/astornox.md) may know of such a place and ultimately find him. 
 
 ## Planning
 
-[Morog Whiteknuckle](../characters/morog-whiteknuckle.md) and his entourage take [Wrenn Piznarck](../characters/wrenn-piznarck.md) back to Carnmere as instructed by [Stalker](../characters/stalker.md), their leader.
+[Morog Whiteknuckle](../characters/morog-whiteknuckle.md) and his entourage take [Wrenn Piznarck](../characters/wrenn-piznarck.md) back to [Carnmere](../places/settlements/towns/carnmere.md) as instructed by [Stalker](../characters/stalker.md), their leader.
 
 They intend to get him to pay his debt to them, either directly, or by extorting him.

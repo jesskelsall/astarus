@@ -12,7 +12,7 @@
 | **Background** | Outlander |
 | **Worship** | [Valnos](../gods/deities/valnos.md) |
 | **Relations** | [Wrenn Piznarck](wrenn-piznarck.md) (friend) |
-| **Places** | [Tenterfell House](../places/buildings/government/tenterfell-house.md)<br>Holmrook (birthplace) |
+| **Places** | [Tenterfell House](../places/buildings/government/tenterfell-house.md)<br>[Holmrook](../places/settlements/towns/holmrook.md) (birthplace) |
 | **Citizenship** | |
 | **Organisation(s)** | [Astorrel](../organisations/government/astorrel/astorrel.md) |
 |||

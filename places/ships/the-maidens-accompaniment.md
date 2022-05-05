@@ -6,7 +6,7 @@
 | **Type** | Ship |
 | **Affiliation** | Private |
 | **Business** | Trade |
-| **Location** | [Southeastern Kardan](../regions/southeastern-kardan.md) |
+| **Location** | [Northhaven](../settlements/cities/northhaven.md)<br>[Yeatscale](../settlements/cities/yeatscale.md) |
 | **People** | [Dinua Costello](../../characters/dinua-costello.md) (captain) |
 
 ## Summary

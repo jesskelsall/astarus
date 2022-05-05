@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | |
-| **Places** | [Hawk's Perch](../places/buildings/government/hawks-perch.md) |
+| **Places** | [Hawk's Perch](../places/buildings/government/hawks-perch.md) (librarian) |
 |||
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation** | [Astorrel](../organisations/government/astorrel/astorrel.md) |

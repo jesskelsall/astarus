@@ -1,11 +1,11 @@
 # Auric Rise
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Auric Rise |
+| **Name** | Auric Rise | place.4
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Kirrel Hall](kirrel-hall.md)<br>[The Mission's End](../inns-taverns/the-missions-end.md)<br>[Zenith Spire](zenith-spire.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) |
+| **Nearby Places** | [Hawk's Perch](hawks-perch.md)<br>[Kirrel Hall](kirrel-hall.md)<br>[Tenterfell House](tenterfell-house.md)<br>[The Mission's End](../inns-taverns/the-missions-end.md)<br>[The Sanctum](the-sanctum.md)<br>[Zenith Spire](zenith-spire.md) |
 | **People** | [Bryce Morton](../../../characters/bryce-morton.md)<br>[Samantha Ilis](../../../characters/samantha-ilis.md) |
 
 ## Summary
@@ -15,6 +15,8 @@ Auric Rise is a dual purpose accommodation and office building for [Astorrel](..
 It provides the officers who live there easy access to the amenities of the stronghold, adjacency to their superiors, an office from which to conduct their work, and a clear place for their subordinates to meet them.
 
 The building is laid out like a hotel, with a lobby on the ground floor that is staffed by [Astorrel Members](../../../organisations/government/astorrel/ranks/astorrel-member.md). They ensure that those entering Auric Rise have an invitation, and verify it with those they are visiting before granting them access.
+
+## Description
 
 ### Exterior
 

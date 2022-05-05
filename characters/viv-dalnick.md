@@ -17,7 +17,7 @@
 
 ## Summary
 
-Viv Dalnick is a barmaid at [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). She works for the owner of the inn, and with [Sammal Guntos](sammal-guntos.md) the innkeeper. She lives with her parents.
+Viv Dalnick is a barmaid at [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) in [Goldreach](../places/settlements/towns/goldreach.md). She works for the owner of the inn, and with [Sammal Guntos](sammal-guntos.md) the innkeeper. She lives with her parents.
 
 ## Characteristics
 

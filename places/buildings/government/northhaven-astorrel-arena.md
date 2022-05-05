@@ -1,16 +1,18 @@
 # Northhaven Astorrel Arena
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Northhaven Astorrel Arena |
+| **Name** | Northhaven Astorrel Arena | place.4
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) |
 | **Nearby Places** | [Zenith Spire](zenith-spire.md) |
 | **People** | |
 
 ## Summary
 
 The Northhaven Astorrel Arena is a large chamber in the tunnels underneath the [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md). It is used for combat practice and exercises.
+
+## Description
 
 ### Exterior
 

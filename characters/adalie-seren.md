@@ -34,14 +34,14 @@ Adalie Seren is [Ephaine Seren](ephaine-seren.md)'s mother. She raises her young
 | **Mannerisms** | Keeps her hands clasped when not busy. Eye contact is judgemental or absent. Stares at strangers. |
 | | |
 | **Quirks** | An untrusting person with a strong eye for danger and trouble. |
-| **Knowledge** | The [Filisur](../places/settlements/villages/filisur.md) valley, seasonal conditions and weather, the edge of the Neum Flats. Some basic knowledge of [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md). |
+| **Knowledge** | The [Filisur](../places/settlements/villages/filisur.md) valley, seasonal conditions and weather, the edge of the [Neum Flats](../places/topography/valleys-plains-deserts/neum-flats.md). Some basic knowledge of [Savnia](../civilisations/nilsavnic-alliance/states/savnia.md). |
 | **Values** | Looking after her own, protecting the [Cepine](../lineages/cepine.md) way of life. Staying on the lookout for danger. Conviction and good deeds done. |
 | **Ambitions** | Wants Besar and Irla to have a better upbringing than Ephaine and Tamman. |
 | **Dislikes** | Strangers. [Astornox](../organisations/government/astornox/astornox.md). |
 
 ## History
 
-During [Ephaine Seren](ephaine-seren.md)'s childhood Adalie Seren was forced to aid the [Astornox](../organisations/government/astornox/astornox.md) at Fort Maloja on various errands, typically helping them with the lay of the land and keeping watch out over the Neum Flats. This built within her a bitter resentment of the [Astornox](../organisations/government/astornox/astornox.md) and by extension the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md), who she sees as occupiers in [Cepine](../lineages/cepine.md) territory.
+During [Ephaine Seren](ephaine-seren.md)'s childhood Adalie Seren was forced to aid the [Astornox](../organisations/government/astornox/astornox.md) at [Fort Maloja](../places/settlements/forts/fort-maloja.md) on various errands, typically helping them with the lay of the land and keeping watch out over the [Neum Flats](../places/topography/valleys-plains-deserts/neum-flats.md). This built within her a bitter resentment of the [Astornox](../organisations/government/astornox/astornox.md) and by extension the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md), who she sees as occupiers in [Cepine](../lineages/cepine.md) territory.
 
 Her early relationship with Ephaine was one of pragmatism and tough love. She taught Ephaine her survival skills, helping her understand the valley and its changeable seasonal conditions. She expected a lot from her daughter, knowing that the [Astornox](../organisations/government/astornox/astornox.md) presence would likely only grow throughout their lives.
 

@@ -112,7 +112,7 @@ The ensuing battle sees heavy hits endured by the party with little damage to co
 
 Following their battle with three [Meteoric Hunters](../creatures/meteoric-hunter.md), [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) discuss various topics with [Allisa Balsatra](../characters/allisa-balsatra.md), including [the meteorics](../lineages/the-meteorics.md). It is clear that she doesn't know anything about them, at first wondering if they are merely native creatures to this land.
 
-As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/topography/valleys/upper-tresenda.md), one of its northern cliff faces that connects it to the [Foss Peaks](../places/topography/mountains/foss-peaks.md) collapses. The [Meteoric Mind](../creatures/meteoric-mind.md)'s efforts to consume all natural matter in the area and turn it into [meteoric dust](../items/meteoric/meteoric-dust.md) causes part of the cliff face to give way, no longer strengthened by roots and dirt. This happens due to the loss of the [Meteoric Hunters](../creatures/meteoric-hunter.md), the [Meteoric Mind](../creatures/meteoric-mind.md) feeling it necessary to expand the area it has consumed to replenish its stock of [meteoric dust](../items/meteoric/meteoric-dust.md) for combat to come.
+As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md), one of its northern cliff faces that connects it to the [Foss Peaks](../places/topography/mountains/foss-peaks.md) collapses. The [Meteoric Mind](../creatures/meteoric-mind.md)'s efforts to consume all natural matter in the area and turn it into [meteoric dust](../items/meteoric/meteoric-dust.md) causes part of the cliff face to give way, no longer strengthened by roots and dirt. This happens due to the loss of the [Meteoric Hunters](../creatures/meteoric-hunter.md), the [Meteoric Mind](../creatures/meteoric-mind.md) feeling it necessary to expand the area it has consumed to replenish its stock of [meteoric dust](../items/meteoric/meteoric-dust.md) for combat to come.
 
 *[End of session: day 9]*
 
@@ -120,9 +120,9 @@ As the party chat, in the nearby bowl valley of [Upper Tresenda](../places/topog
 
 [Allisa Balsatra](../characters/allisa-balsatra.md) offers to scout ahead for signs of the crashing noise that [Torbra Tauff](../characters/torbra-tauff.md) heard to their north east, explaining that she could transport herself and one other up to the top of the nearest hilltop. She picks [Saoirse ó Dochartaigh](../characters/saoirse-o-dochartaigh.md) when no volunteer is forthcoming, casting Dimension Door.
 
-From the top the pair see [Upper Tresenda](../places/topography/valleys/upper-tresenda.md), noting the brown grass where the slope from the [Tresenda Pass](../places/roads/tresenda-pass.md) valley floor crests at the edge of the bowl valley. Neither are able to tell that this is in fact a lack of grass, ripped away by the [Meteoric Mind](../creatures/meteoric-mind.md) to convert into more [meteoric dust](../items/meteoric/meteoric-dust.md) for its needs.
+From the top the pair see [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md), noting the brown grass where the slope from the [Tresenda Pass](../places/roads/tresenda-pass.md) valley floor crests at the edge of the bowl valley. Neither are able to tell that this is in fact a lack of grass, ripped away by the [Meteoric Mind](../creatures/meteoric-mind.md) to convert into more [meteoric dust](../items/meteoric/meteoric-dust.md) for its needs.
 
-Back with the party, the pair convince the rest of [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) that they should head into [Upper Tresenda](../places/topography/valleys/upper-tresenda.md) and investigate. [Torbra Tauff](../characters/torbra-tauff.md) leads them up the hill, reaching its crest, a view of [Upper Tresenda](../places/topography/valleys/upper-tresenda.md) before them.
+Back with the party, the pair convince the rest of [Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) that they should head into [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md) and investigate. [Torbra Tauff](../characters/torbra-tauff.md) leads them up the hill, reaching its crest, a view of [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md) before them.
 
 Here the party begin to notice the lack of wildlife or vegetation in the valley, Torbra noticing that the grass on the boundary appears to have been cut where [meteoric dust](../items/meteoric/meteoric-dust.md) has ripped across it at speed to rip and consume it. The remains of trees and the lack of wildlife sound is unnerving.
 
@@ -134,7 +134,7 @@ Torbra spots what appears to be the [Tresenda Meteorite](../items/meteoric/meteo
 
 ### [PR47](../sessions/PR47.md)
 
-[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) shout at [Torbra Tauff](../characters/torbra-tauff.md) to return to them, fearing danger from the [meteorite](../items/meteoric/meteorite.md) crater seen in the bottom of the bowl shaped valley of [Upper Tresenda](../places/topography/valleys/upper-tresenda.md). After Torbra glances at the party she loses sight of the prowling [Meteoric Watcher](../creatures/meteoric-watcher.md) which teleports away into a hiding spot when it spotted an opening. Torbra runs back to the group, the party agreeing to retreat, rest, and formulate a strategy before returning.
+[Starfall squad](../organisations/government/astorrel/squads/starfall-squad.md) and [Allisa Balsatra](../characters/allisa-balsatra.md) shout at [Torbra Tauff](../characters/torbra-tauff.md) to return to them, fearing danger from the [meteorite](../items/meteoric/meteorite.md) crater seen in the bottom of the bowl shaped valley of [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md). After Torbra glances at the party she loses sight of the prowling [Meteoric Watcher](../creatures/meteoric-watcher.md) which teleports away into a hiding spot when it spotted an opening. Torbra runs back to the group, the party agreeing to retreat, rest, and formulate a strategy before returning.
 
 At the crest of the hill they come across a large wolf ([Elrick Loweswater](../characters/elrick-loweswater.md) in Wild Shape) which they initially fight, but [Luna](../characters/lucia-velpione.md) recognises it isn't hostile, appeasing it with food. The party find the wolf strange, following it when it takes a ration and leaves with it. It leads them to [Scratch on Stone](../characters/scratch-on-stone.md) who is on his deathbed, succumbing to his wounds.
 
@@ -148,7 +148,7 @@ The party begins to set up camp where they found Scratch, intent on sleeping the
 
 [Starfall Squad](../organisations/government/astorrel/squads/starfall-squad.md) camps overnight with [Scratch on Stone](../characters/scratch-on-stone.md) and the dire wolf ([Elrick Loweswater](../characters/elrick-loweswater.md)), resting after their battle that morning with the [Meteoric Hunters](../creatures/meteoric-hunter.md).
 
-By morning they resolve to return to [Upper Tresenda](../places/topography/valleys/upper-tresenda.md) to retrieve the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) and fight [the meteorics](../lineages/the-meteorics.md) that may be guarding it. They discuss how best to use their weapons and spells as well any perceived weaknesses of the [Meteoric Hunters](../creatures/meteoric-hunter.md).
+By morning they resolve to return to [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md) to retrieve the [Tresenda Meteorite](../items/meteoric/meteorites/tresenda-meteorite.md) and fight [the meteorics](../lineages/the-meteorics.md) that may be guarding it. They discuss how best to use their weapons and spells as well any perceived weaknesses of the [Meteoric Hunters](../creatures/meteoric-hunter.md).
 
 Arriving in the valley, nobody notices anything different. [Torbra Tauff](../characters/torbra-tauff.md) leads the party back down into the valley to the crater, where a [meteorite](../items/meteoric/meteorite.md) (the [Meteoric Mind](../creatures/meteoric-mind.md) presenting what it believes the party will find enticing) and a pristine [meteorite](../items/meteoric/meteorite.md) crater floor made of [meteoric dust](../items/meteoric/meteoric-dust.md). No creatures are seen.
 
@@ -162,7 +162,7 @@ The party slowly discover the anti-magic bubble present around the [Meteoric Min
 
 ## [PR49](../sessions/PR49.md)
 
-The battle against the [Meteoric Mind](../creatures/meteoric-mind.md) continues to rage in [Upper Tresenda](../places/topography/valleys/upper-tresenda.md).
+The battle against the [Meteoric Mind](../creatures/meteoric-mind.md) continues to rage in [Upper Tresenda](../places/topography/valleys-plains-deserts/upper-tresenda.md).
 
 [The meteorics](../lineages/the-meteorics.md) initially have the upper hand until one of the [Meteoric Hunters](../creatures/meteoric-hunter.md) is whittled down. The [Meteoric Mind](../creatures/meteoric-mind.md) disassembles it and forms two more [Meteoric Watchers](../creatures/meteoric-watcher.md) in its place. This allows [Thanea Morlay](../characters/thanea-morlay.md) to score a calculated Fireball on all three, dealing an important blow to the mind's capabilities.
 

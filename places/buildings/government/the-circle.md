@@ -1,16 +1,18 @@
 # The Circle
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | The Circle |
+| **Name** | The Circle | place.4
 | **Type** | Building |
-| **Location** | [Northhaven Astornar Stronghold](../../settlements/strongholds/northhaven-astornar-stronghold.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | |
+| **Location** | [Northhaven Astornar Stronghold](../../settlements/strongholds/northhaven-astornar-stronghold.md) |
+| **Nearby Places** | [Tower of Ast](tower-of-ast.md) |
 | **People** | |
 
 ## Summary
 
 The Circle is the chamber in which [Astornar](../../../organisations/government/astornar.md) trials take place. It is located somewhere inside the [Northhaven Astornar Stronghold](../../settlements/strongholds/northhaven-astornar-stronghold.md), seemingly only accessible by teleportation.
+
+## Description
 
 ### Interior
 

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Name** | Ulburn Training Camp | place.4
 | **Type** | Landmark |
-| **Location** | [Ulburn](../../settlements/villages/ulburn.md)<br>[Southeastern Kardan](../../regions/southeastern-kardan.md) |
+| **Location** | [Ulburn](../../settlements/villages/ulburn.md) |
 | **Nearby Places** | [River Humar](../rivers-lakes/river-humar.md) |
 | **People** | |
 

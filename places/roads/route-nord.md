@@ -5,7 +5,7 @@
 | **Name** | Route Nord | place.4
 | **Type** | Road |
 | **Location** | [Savnia](../../civilisations/nilsavnic-alliance/states/savnia.md)<br>[Nil'Savnic Alliance](../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
-| **Nearby Places** | [Arrepont](../settlements/cities/arrepont.md)<br>[Gulf of Tanelle](../topography/seas-oceans/gulf-of-tanelle.md)<br>Lacanau<br>[River Trogen](../topography/rivers-lakes/river-trogen.md)<br>[Trogenwald](../topography/forests/trogenwald.md) |
+| **Nearby Places** | [Arrepont](../settlements/cities/arrepont.md)<br>[Gulf of Tanelle](../topography/seas-bays/gulf-of-tanelle.md)<br>Lacanau<br>[River Trogen](../topography/rivers-lakes/river-trogen.md)<br>[Trogenwald](../topography/forests/trogenwald.md) |
 | **People** | |
 
 ## Summary

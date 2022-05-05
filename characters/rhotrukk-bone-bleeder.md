@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Rhotrukk Wepons](../places/buildings/shops/rhotrukk-wepons.md) |
+| **Places** | [Rhotrukk Wepons](../places/buildings/shops/rhotrukk-wepons.md) (owner) |
 
 ## Summary
 

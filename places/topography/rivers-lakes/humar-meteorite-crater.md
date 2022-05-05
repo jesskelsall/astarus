@@ -4,13 +4,13 @@
 | --- | --- |
 | **Name** | Humar Meteorite Crater | place.4
 | **Type** | Lake |
-| **Location** | Humar Estuary<br>[Southeastern Kardan](../../regions/southeastern-kardan.md) |
+| **Location** | [Humar Estuary](../swamps-deltas/humar-estuary.md)<br>[Southeastern Kardan](../../regions/southeastern-kardan.md) |
 | **Nearby Places** | [River Humar](river-humar.md)<br>[Scintil Delta](scintil-delta.md) |
 | **People** | |
 
 ## Summary
 
-The Humar Meteorite Crater is a small lake on the Humar Estuary, created when the [Humar Meteorite](../../../items/meteoric/meteorites/humar-meteorite.md) landed. The crater has since filled with water, creating an unnatural lake.
+The Humar Meteorite Crater is a small lake on the [Humar Estuary](../swamps-deltas/humar-estuary.md), created when the [Humar Meteorite](../../../items/meteoric/meteorites/humar-meteorite.md) landed. The crater has since filled with water, creating an unnatural lake.
 
 | Sensation | Description |
 | ---- | --- |

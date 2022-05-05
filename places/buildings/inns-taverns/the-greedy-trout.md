@@ -1,16 +1,18 @@
 # The Greedy Trout
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | The Greedy Trout |
+| **Name** | The Greedy Trout | place.4
 | **Type** | Inn |
 | **Location** | [Frizthwaite](../../settlements/villages/frizthwaite.md) |
 | **Nearby Places** | |
-| **People** | [Mordus Shren](../../../characters/mordus-shren.md) (owner, innkeeper) |
+| **People** | [Mordus Shren](../../../characters/mordus-shren.md) (owner) |
 
 ## Summary
 
 The Greedy Trout is the only inn in [Frizthwaite](../../settlements/villages/frizthwaite.md). It is owned and ran by [Mordus Shren](../../../characters/mordus-shren.md).
+
+## Description
 
 ### Exterior
 
@@ -31,11 +33,3 @@ Further along the corridor are the rooms for rent.
 | Smells | Ale, wet wood, human sweat, fish. |
 | People | Drigg taking it easy after a hard day's work on the river. |
 | Intrigue | Curious layout featuring a mezzanine. |
-
-## Planning
-
-### [Purple Rain](../../../campaigns/C1-purple-rain.md)
-
-If the party decides to stay here overnight following their battle with [The Crimson Blades](../../../organisations/criminals/the-crimson-blades.md), they will encounter no notoriety.
-
-However, in the morning the [Astornox](../../../organisations/government/astornox/astornox.md) from [Beckermet](../../settlements/towns/beckermet.md) will arrive and insist on searching the inn for them.

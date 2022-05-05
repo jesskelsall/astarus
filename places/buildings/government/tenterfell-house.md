@@ -1,16 +1,18 @@
 # Tenterfell House
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Tenterfell House |
+| **Name** | Tenterfell House | place.4
 | **Type** | Building |
-| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [The Mission's End](../inns-taverns/the-missions-end.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) |
+| **Nearby Places** | [Auric Rise](auric-rise.md)<br>[Hawk's Perch](hawks-perch.md)<br>Tenterfell House<br>[The Mission's End](../inns-taverns/the-missions-end.md)<br>[The Sanctum](the-sanctum.md) |
 | **People** | *Ground floor:*<br>[Amarin Hutchinson](../../../characters/amarin-hutchinson.md) (receptionist)<br>[Taza Finetrick](../../../characters/taza-finetrick.md) ([Kiln Squad](../../../organisations/government/astorrel/squads/kiln-squad.md))<br><br>*Third floor:*<br>[Elysia Vanderboss](../../../characters/elysia-vanderboss.md) ([Starfall Squad](../../../organisations/government/astorrel/squads/starfall-squad.md), [Astral Squad](../../../organisations/government/astorrel/squads/astral-squad.md)) |
 
 ## Summary
 
 Tenterfell House is a small building inside the [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) used for the Major of Phenomena's work on investigating the meteoric threat.
+
+## Description
 
 ### Exterior
 

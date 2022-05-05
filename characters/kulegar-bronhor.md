@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | [Malnesh](../gods/deities/malnesh.md) |
 | **Relations** | [Nenra Zossa](nenra-zossa.md) (friend) |
-| **Places** | Eaglesfield (birthplace)<br>[Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md)<br>[Arnaside](../places/settlements/villages/arnaside.md) |
+| **Places** | [Eaglesfield](../places/settlements/towns/eaglesfield.md) (birthplace)<br>[Arnaside Logging Camp](../places/structures/arnaside-logging-camp.md)<br>[Arnaside](../places/settlements/villages/arnaside.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |
@@ -41,7 +41,7 @@ Kulegar Bronhor is the logger that runs the [Arnaside Logging Camp](../places/st
 
 ## History
 
-Kulegar is originally from Eaglesfield. He became friends with [Nenra Zossa](nenra-zossa.md) and her late husband Grice while they were practising Malneshi there. He agreed to help form [Arnaside](../places/settlements/villages/arnaside.md) when Grice suggested it.
+Kulegar is originally from [Eaglesfield](../places/settlements/towns/eaglesfield.md). He became friends with [Nenra Zossa](nenra-zossa.md) and her late husband Grice while they were practising Malneshi there. He agreed to help form [Arnaside](../places/settlements/villages/arnaside.md) when Grice suggested it.
 
 Since moving to [Arnaside](../places/settlements/villages/arnaside.md), Kulegar has been working to leverage logging as a material that the village can trade with the outside world for supplies they can't make or grow themselves.
 

@@ -15,13 +15,13 @@
 
 #### Pre-campaign
 
-Torbra was abandoned as a baby in the Irewood on the opposite side of the [River Humar](../places/topography/rivers-lakes/river-humar.md) from Iredale. Here she was found and adopted by her adoptive parents. Her real parents are unknown.
+Torbra was abandoned as a baby in the Irewood on the opposite side of the [River Humar](../places/topography/rivers-lakes/river-humar.md) from [Iredale](../places/settlements/towns/iredale.md). Here she was found and adopted by her adoptive parents. Her real parents are unknown.
 
 At the age of five her skin started to turn more grey, and rocky protrusions started to grow on her back. With nobody to help her understand these changes, she has set out into the world to learn more about who and what she is.
 
 #### [PR01](../sessions/PR01.md)
 
-In [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) inn, Torbra tells [Alistair Hawthorn](../characters/alistair-hawthorn.md) that she is passing through town on her way to meet a wise sage. When [Wrenn Piznarck](../characters/wrenn-piznarck.md) offers the [Purple Rain](../campaigns/C1-purple-rain.md) party work finding the [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) Meteor for him, she asks for knowledge as payment - Wrenn will gain her access to a library in [Northhaven](../places/settlements/cities/northhaven.md) where she might research her skin pigmentation and rocky back.
+In [The Slippery Weasel](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/the-slippery-weasel.md) inn, Torbra tells [Alistair Hawthorn](../characters/alistair-hawthorn.md) that she is passing through town on her way to meet a wise sage. When [Wrenn Piznarck](../characters/wrenn-piznarck.md) offers the [Purple Rain](../campaigns/C1-purple-rain.md) party work finding the [Goldreach](../places/settlements/towns/goldreach.md) Meteor for him, she asks for knowledge as payment - Wrenn will gain her access to a library in [Northhaven](../places/settlements/cities/northhaven.md) where she might research her skin pigmentation and rocky back.
 
 #### [PR10](../sessions/PR10.md)
 
@@ -118,7 +118,7 @@ At the end of Torbra's night watch she returns to the shack and overhears Esme m
 *[Esme Leithran](../characters/esme-leithran.md):*
 > Practice. Apply. Grow.
 
-Torbra doesn't immediately recognise the significance of the words she heard when she found the standing stones near the [River Humar](../places/topography/rivers-lakes/river-humar.md) on the party's way to [Northhaven](../places/settlements/cities/northhaven.md) from [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md). Nonetheless it plays on her mind all night, causing her to get no sleep.
+Torbra doesn't immediately recognise the significance of the words she heard when she found the standing stones near the [River Humar](../places/topography/rivers-lakes/river-humar.md) on the party's way to [Northhaven](../places/settlements/cities/northhaven.md) from [Goldreach](../places/settlements/towns/goldreach.md). Nonetheless it plays on her mind all night, causing her to get no sleep.
 
 In the clear morning light Torbra notices the colour of Esme's skin, doing an arm comparison. This catches the eye of Montel who comes to the same conclusion - that they are one in the same, causing Montel to get emotional. He has never seen nor heard of another earth genasi before.
 
@@ -126,9 +126,9 @@ He provides Torbra with the word "genasi", one that the [Syntenne Republic](../c
 
 Montel also explains that his wife and Esme's mother is of elven descent like him, drawing attention to Esme's elven ears. Torbra points out her human rounded ears, concluding that her and Esme are the same despite their other differences of lineage.
 
-Torbra expressed her wish to see them relocated somewhere safe so that Esme could have a childhood. She offers Iredale, her home town, to Montel who appears to like Torbra's description of the place, it's people, and their tolerance for her during her upbringing there.
+Torbra expressed her wish to see them relocated somewhere safe so that Esme could have a childhood. She offers [Iredale](../places/settlements/towns/iredale.md), her home town, to Montel who appears to like Torbra's description of the place, it's people, and their tolerance for her during her upbringing there.
 
-The party agrees to bring Montel and Esme with them while they complete their [Astorrel](../organisations/government/astorrel/astorrel.md) mission. They will help guide them out of the Humar Estuary.
+The party agrees to bring Montel and Esme with them while they complete their [Astorrel](../organisations/government/astorrel/astorrel.md) mission. They will help guide them out of the [Humar Estuary](../places/topography/swamps-deltas/humar-estuary.md).
 
 ### [PR36](../sessions/PR36.md)
 

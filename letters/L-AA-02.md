@@ -18,7 +18,7 @@
 ## Transcript
 
 > Schiller Manor  
-> Baldrine
+> [Baldrine](../places/settlements/towns/baldrine.md)
 >
 > Gordag, 28th of Taledus, 312 [PA](../history/calendars/astorian-calendar.md)
 >
@@ -43,7 +43,7 @@
 > [Bernard Horace Schiller](../characters/bernard-horace-schiller.md)
 
 > Schiller Manor  
-> Baldrine
+> [Baldrine](../places/settlements/towns/baldrine.md)
 >
 > Gordag, 28th of Taledus, 312 [PA](../history/calendars/astorian-calendar.md)
 >

@@ -31,7 +31,7 @@ When Torbra begins to speak of what she learned about genasi from [Montel Leithr
 
 Darius makes it clear that he has conducted his own research on genasi but finds the library lacking, noting a desire by the [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) to control information on the subject. He is thankful to learn more from Torbra, particularly the word "genasi" and the positive connotations within the [Syntenne Republic](../civilisations/syntenne-republic/syntenne-republic.md).
 
-Torbra tells Darius about [Esme Leithran](../characters/esme-leithran.md) and her journey to Iredale with her father. Darius expresses a wish to visit her, but regrets that his next [Astorrel](../organisations/government/astorrel/astorrel.md) mission only takes him to Eaglesfield, so it will have to wait.
+Torbra tells Darius about [Esme Leithran](../characters/esme-leithran.md) and her journey to [Iredale](../places/settlements/towns/iredale.md) with her father. Darius expresses a wish to visit her, but regrets that his next [Astorrel](../organisations/government/astorrel/astorrel.md) mission only takes him to [Eaglesfield](../places/settlements/towns/eaglesfield.md), so it will have to wait.
 
 The pair resolve to stay in touch, Darius demonstrating the Sending spell as a method of reaching Torbra while they head in opposite directions of the kingdom.
 

@@ -1,11 +1,11 @@
 # Astor Square
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Astor Square |
+| **Name** | Astor Square | place.4
 | **Type** | Structure |
-| **Location** | [Sunset District](../settlements/districts/sunset-district.md)<br>[Northhaven](../settlements/cities/northhaven.md) |
-| **Nearby Places** | Crafter's Course<br>[Northhaven Astornar Stronghold](../settlements/strongholds/northhaven-astornar-stronghold.md)<br>[Northhaven Astornox Stronghold](../settlements/strongholds/northhaven-astornox-stronghold.md)<br>[Northhaven Astorrel Stronghold](../settlements/strongholds/northhaven-astorrel-stronghold.md) |
+| **Location** | [Sunset District](../settlements/districts/sunset-district.md) |
+| **Nearby Places** | [Crafters Course](../settlements/streets/crafters-course.md)<br>[Northhaven Astornar Stronghold](../settlements/strongholds/northhaven-astornar-stronghold.md)<br>[Margaret's Fineries](../buildings/shops/margarets-fineries.md)<br>[Northhaven Astornox Stronghold](../settlements/strongholds/northhaven-astornox-stronghold.md)<br>[Northhaven Astorrel Stronghold](../settlements/strongholds/northhaven-astorrel-stronghold.md)<br>[The Rose Buckler](../buildings/inns-taverns/the-rose-buckler.md)<br>[Valley Under the Stars](../buildings/inns-taverns/valley-under-the-stars.md) |
 | **People** | |
 
 ## Summary
@@ -13,6 +13,8 @@
 Astor Square is the main square in the [Sunset District](../settlements/districts/sunset-district.md) of [Northhaven](../settlements/cities/northhaven.md). It is a place where people meet and congregate, as well as where many of the year's celebrations take place, or rallies and parades happen.
 
 It is a square made mostly of stone, with some iron and wood benches for seating. There are a few statues, an intricately sculpted fountain, and flowers in potters. Lamps with perpetual magic light illuminate the area after dark.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |
@@ -24,16 +26,6 @@ It is a square made mostly of stone, with some iron and wood benches for seating
 
 ## Places
 
-- [Diamond Prime](../buildings/temples/diamond-prime.md)
+- [Diamond Prime](../buildings/temples/diamond-prime.md) (temple)
 - [Sunset Delivery Astor Square](../buildings/shops/sunset-delivery-astor-square.md)
-- [The Alley](../buildings/shops/the-alley.md)
-
-## Planning
-
-### [Astorrel Agents](../../campaigns/C2-astorrel-agents.md)
-
-- [Gwinthel's Potion Tombola](../../mechanics/roleplay/games/gwinthels-potion-tombola.md)
-
-### Town Crier
-
-> A new potion store is opening soon on [Crafters Course](../settlements/streets/crafters-course.md)! Glug by Gwinthel will be making available only the finest in alchemical imbibements, and at a generous price! Look out for Glug by Gwinthel, and [Gwinthel Greenhand](../../characters/gwinthel-greenhand.md), coming to a store near you!
+- [The Alley](../buildings/shops/the-alley.md) (tea house)

@@ -5,7 +5,7 @@
 | **Name** | Sea of Songs |
 | **Type** | Sea |
 | **Location** | [Astarus](../../../celestial-objects/astarus.md) |
-| **Nearby Places** | [Kardan](../continents-islands/kardan.md)<br>[Kardanis](../continents-islands/kardanis.md) |
+| **Nearby Places** | [Carneid Inlet](carneid-inlet.md)<br>[Esk Delta](../swamps-deltas/esk-delta.md)<br>[Kardanis](../continents-islands/kardanis.md)<br>[Southeastern Kardan](../../regions/southeastern-kardan.md) |
 | **People** | |
 
 ## Summary

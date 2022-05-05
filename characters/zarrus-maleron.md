@@ -13,7 +13,7 @@
 | **Relations** | |
 | **Acquaintances** | [Cara Treffen](cara-treffen.md) (employer) |
 | **From** | |
-| **Places** | [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) |
+| **Places** | [Valley Under the Stars](../places/buildings/inns-taverns/valley-under-the-stars.md) (innkeeper) |
 
 ## Summary
 

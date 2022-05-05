@@ -65,7 +65,7 @@ Corville continues to express how impressed he is, noting that for someone who o
 
 ## Being Interrogated
 
-As Thanea continues to talk, Corville cuts in without tact, asking Thanea where she was born. She tells him that she doesn't know but tells him she was found in the forest as a child and raised an orphan in Bootle. She starts to shy away from the specifics of her upbringing so as not to touch on her troubled past.
+As Thanea continues to talk, Corville cuts in without tact, asking Thanea where she was born. She tells him that she doesn't know but tells him she was found in the forest as a child and raised an orphan in [Bootle](../places/settlements/villages/bootle.md). She starts to shy away from the specifics of her upbringing so as not to touch on her troubled past.
 
 *[Corville Thornox](../characters/corville-thornox.md):*
 > That's okay, we know a few things about you. We know about the barn you burned down and the fate your parents met.
@@ -78,7 +78,7 @@ Thanea freezes in shock, a look that Corville does not miss.
 Thanea nods, not quite understanding his meaning. Corville squints, his line of questioning growing more serious by the second.
 
 *[Corville Thornox](../characters/corville-thornox.md):*
-> So, [Thanea Morlay](../characters/thanea-morlay.md) from Bootle, what do you know of [Allisa Balsatra](../characters/allisa-balsatra.md)?
+> So, [Thanea Morlay](../characters/thanea-morlay.md) from [Bootle](../places/settlements/villages/bootle.md), what do you know of [Allisa Balsatra](../characters/allisa-balsatra.md)?
 
 Thanea doesn't recognise the name and says as much.
 

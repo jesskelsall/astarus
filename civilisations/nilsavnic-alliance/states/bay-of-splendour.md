@@ -22,7 +22,7 @@
 
 ## Summary
 
-The Bay of Splendour is a naval power that is predominantly focused around [Splendour Bay](../../../places/topography/seas-oceans/splendour-bay.md) itself.
+The Bay of Splendour is a naval power that is predominantly focused around [Splendour Bay](../../../places/topography/seas-bays/splendour-bay.md) itself.
 
 They are in dispute with [Revenossa](revenossa.md) over who owns the [Scintil Delta](../../../places/topography/rivers-lakes/scintil-delta.md).
 
@@ -38,4 +38,4 @@ They are in dispute with [Revenossa](revenossa.md) over who owns the [Scintil De
 | Forest | | |
 | Rivers & Lakes | [River Scintil](../../../places/topography/rivers-lakes/river-scintil.md) | [River Scintil](../../../places/topography/rivers-lakes/river-scintil.md)<br>[Scintil Delta](../../../places/topography/rivers-lakes/scintil-delta.md) |
 | Mountains | [Nilus Peaks](../../../places/topography/mountains/nilus-peaks.md) | |
-| Seas & Oceans | [Griffon's Throat](../../../places/topography/seas-oceans/griffons-throat.md)<br>[Splendour Bay](../../../places/topography/seas-oceans/splendour-bay.md)<br>[The Twilight Expanse](../../../places/topography/seas-oceans/the-twilight-expanse.md) | [Splendour Bay](../../../places/topography/seas-oceans/splendour-bay.md) |
+| Seas & Oceans | [Griffon's Throat](../../../places/topography/seas-bays/griffons-throat.md)<br>[Splendour Bay](../../../places/topography/seas-bays/splendour-bay.md)<br>[The Twilight Expanse](../../../places/topography/seas-bays/the-twilight-expanse.md) | [Splendour Bay](../../../places/topography/seas-bays/splendour-bay.md) |

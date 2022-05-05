@@ -22,7 +22,7 @@
 
 ## Summary
 
-One of the two founding states of the [Nil'Savnic Alliance](../nilsavnic-alliance.md), the entire state runs between the [Nilus Peaks](../../../places/topography/mountains/nilus-peaks.md) to its north and the [Gulf of Tanelle](../../../places/topography/seas-oceans/gulf-of-tanelle.md) to its south. Easy access to the seas provides prosperity through seafaring trade, though at the cost of being the first land targeted by [Kavallos Fleet](../../kavallos-fleet/kavallos-fleet.md) raids.
+One of the two founding states of the [Nil'Savnic Alliance](../nilsavnic-alliance.md), the entire state runs between the [Nilus Peaks](../../../places/topography/mountains/nilus-peaks.md) to its north and the [Gulf of Tanelle](../../../places/topography/seas-bays/gulf-of-tanelle.md) to its south. Easy access to the seas provides prosperity through seafaring trade, though at the cost of being the first land targeted by [Kavallos Fleet](../../kavallos-fleet/kavallos-fleet.md) raids.
 
 ## Places
 
@@ -36,4 +36,4 @@ One of the two founding states of the [Nil'Savnic Alliance](../nilsavnic-allianc
 | Forest | |
 | Rivers & Lakes | River Bav |
 | Mountains | [Nilus Peaks](../../../places/topography/mountains/nilus-peaks.md) |
-| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-oceans/gulf-of-tanelle.md)<br>[The Twilight Expanse](../../../places/topography/seas-oceans/the-twilight-expanse.md) |
+| Seas & Oceans | [Gulf of Tanelle](../../../places/topography/seas-bays/gulf-of-tanelle.md)<br>[The Twilight Expanse](../../../places/topography/seas-bays/the-twilight-expanse.md) |

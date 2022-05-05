@@ -35,7 +35,7 @@
 >
 > I'm sorry we didn't see that before.
 >
-> If you're near Bootle,  
+> If you're near [Bootle](../places/settlements/villages/bootle.md),  
 > you know where to find me.  
 > Let's talk.
 >

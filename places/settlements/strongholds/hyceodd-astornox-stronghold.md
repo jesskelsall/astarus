@@ -5,12 +5,14 @@
 | **Name** | Hyceodd Astornox Stronghold | place.4
 | **Type** | Stronghold |
 | **Location** | [Hyceodd](../towns/hyceodd.md) |
-| **Nearby Places** | [Temple of the Resistance](../../buildings/temples/temple-of-the-resistance.md) |
+| **Nearby Places** | [Temple of the Resistance](../../buildings/temples/temple-of-the-resistance.md)<br>[Two Anchors House](../../buildings/inns-taverns/two-anchors-house.md) |
 | **People** | |
 
 ## Summary
 
 The Hyceodd Astornox Stronghold is home to the [Astornox](../../../organisations/government/astornox/astornox.md) in [Hyceodd](../towns/hyceodd.md). It is located on the southeastern edge of the marketplace.
+
+## Description
 
 ### Exterior
 

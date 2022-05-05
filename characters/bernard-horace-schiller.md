@@ -10,7 +10,7 @@
 | **Background** | |
 | **Worship** | [Nilliski](nilliski.md) |
 | **Relations** | [Noon Schiller](noon-schiller.md) (son)<br>[Schiller family](../organisations/schiller-family.md) (family) |
-| **Places** | Baldrine<br>Ballabeg (birthplace) |
+| **Places** | [Baldrine](../places/settlements/towns/baldrine.md)<br>[Ballabeg](../places/settlements/villages/ballabeg.md) (birthplace) |
 | **Citizenship** | [Kingdom of Astor](../civilisations/kingdom-of-astor/kingdom-of-astor.md) |
 | **Organisation(s)** | [Astornox](../organisations/government/astornox/astornox.md) (retired) |
 |||
@@ -24,5 +24,5 @@ Bernard Horace Schiller is the current head of the [Schiller family](../organisa
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / Baldrine |||
+|| [Astornox Captain](../organisations/government/astornox/ranks/astornox-captain.md) | Settlements / [Baldrine](../places/settlements/towns/baldrine.md) |||
 || *Retired* ||||

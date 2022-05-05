@@ -4,7 +4,7 @@
 
 ## Premise
 
-The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) following the crash landing of a meteor nearby several days ago. On investigation, the meteor is more than they bargained for...
+The player characters meet in [Goldreach](../places/settlements/towns/goldreach.md) following the crash landing of a meteor nearby several days ago. On investigation, the meteor is more than they bargained for...
 
 ## Party Members
 
@@ -48,7 +48,7 @@ The player characters meet in [Goldreach](../civilisations/kingdom-of-astor/SETT
 | [PR05](../sessions/PR05.md) | 2020-11-04 | *A Lake, A Farm* |
 | [PR06](../sessions/PR06.md) | 2020-11-11 | *What Lies Beneath the Forest* |
 | [PR07](../sessions/PR07.md) | 2020-11-16 | *Creatures in the Crater* |
-| [PR08](../sessions/PR08.md) | 2020-11-18 | *Returning to [Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md)* |
+| [PR08](../sessions/PR08.md) | 2020-11-18 | *Returning to [Goldreach](../places/settlements/towns/goldreach.md)* |
 | [PR09](../sessions/PR09.md) | 2020-12-02 | *Not [Astornox](../organisations/government/astornox/astornox.md), [Astorrel](../organisations/government/astorrel/astorrel.md)* |
 | [PR10](../sessions/PR10.md) | 2020-12-09 | *[Magicborn on the Run](../storylines/ended/magicborn-on-the-run.md)* |
 | [PR11](../sessions/PR11.md) | 2020-12-16 | *Hills, Voices, and Mind Reading* |

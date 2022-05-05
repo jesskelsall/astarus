@@ -29,7 +29,7 @@ In the morning after breakfast the party is visited by [Levelle Tristwix](../../
 
 The party remains in [sanctuary](../../organisations/government/astorrel/sanctuary.md) in [The Sanctum](../../places/buildings/government/the-sanctum.md).
 
-They are visited by [Carras Southroot](../../characters/carras-southroot.md) and [Norsha Costello](../../characters/norsha-costello.md) who question them about [Wrenn Piznarck](../../characters/wrenn-piznarck.md)'s last known whereabouts as well as what he was doing in [Goldreach](../../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md) in the first place. They are honest in their answers.
+They are visited by [Carras Southroot](../../characters/carras-southroot.md) and [Norsha Costello](../../characters/norsha-costello.md) who question them about [Wrenn Piznarck](../../characters/wrenn-piznarck.md)'s last known whereabouts as well as what he was doing in [Goldreach](../../places/settlements/towns/goldreach.md) in the first place. They are honest in their answers.
 
 [Mergin Thorgus](../../characters/mergin-thorgus.md) visits, providing the party with some writing supplies and [Twenties](../../mechanics/roleplay/games/twenties.md) dice, as well as a copy of the day's town crier script ([L-PR-01](../../letters/L-PR-01.md)) which shows how the [Astornox](../../organisations/government/astornox/astornox.md) are demanding the release of the party from [sanctuary](../../organisations/government/astorrel/sanctuary.md).
 

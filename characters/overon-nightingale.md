@@ -26,7 +26,7 @@ Overon Nightingale is the [Astornox Major](../organisations/government/astornox/
 
 | Session | Rank | Role | Commanding Officer | Subordinates |
 |:---:| --- | --- | --- | --- |
-|| [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md) | Settlements | [Itharmund Steeleye](itharmund-steeleye.md) | *Captains:*<br>[Alistair Hawthorn](alistair-hawthorn.md) ([Goldreach](../civilisations/kingdom-of-astor/SETTLEMENTS/GOLDREACH/README.md))<br>[Aodhan ó Dochartaigh](aodhan-o-dochartaigh.md) ([Dunmore](../places/settlements/cities/dunmore.md))<br>[Eoghan Kavanagh](eoghan-kavanagh.md) (Eaglesfield)<br>[Godrick Becker](godrick-becker.md) ([Blittergate](../places/settlements/towns/blittergate.md))<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) (Iredale)<br>[Legacy Aranius](legacy-aranius.md) ([Eskrigg](../places/settlements/cities/eskrigg.md)) |
+|| [Astornox Major](../organisations/government/astornox/ranks/astornox-major.md) | Settlements | [Itharmund Steeleye](itharmund-steeleye.md) | *Captains:*<br>[Alistair Hawthorn](alistair-hawthorn.md) ([Goldreach](../places/settlements/towns/goldreach.md))<br>[Aodhan ó Dochartaigh](aodhan-o-dochartaigh.md) ([Dunmore](../places/settlements/cities/dunmore.md))<br>[Eoghan Kavanagh](eoghan-kavanagh.md) ([Eaglesfield](../places/settlements/towns/eaglesfield.md))<br>[Godrick Becker](godrick-becker.md) ([Blittergate](../places/settlements/towns/blittergate.md))<br>[Hjalmann Craggbeard](hjalmann-craggbeard.md) ([Iredale](../places/settlements/towns/iredale.md))<br>[Legacy Aranius](legacy-aranius.md) ([Eskrigg](../places/settlements/cities/eskrigg.md)) |
 
 ## Characteristics
 

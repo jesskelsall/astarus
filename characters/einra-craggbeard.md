@@ -11,7 +11,7 @@
 | **Class** | |
 | **Worship** | |
 | **Relations** | [Hjalmann Craggbeard](hjalmann-craggbeard.md) (father)<br>[Torbra Tauff](torbra-tauff.md) (childhood friend) |
-| **Places** | Iredale |
+| **Places** | [Iredale](../places/settlements/towns/iredale.md) |
 |||
 | **Citizenship** | |
 | **Organisation** | |

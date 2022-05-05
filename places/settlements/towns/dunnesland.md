@@ -7,7 +7,7 @@
 | **Location** | [Valburg](../../../civilisations/nilsavnic-alliance/states/valburg.md) |
 | **Civilisation** | [Nil'Savnic Alliance](../../../civilisations/nilsavnic-alliance/nilsavnic-alliance.md) |
 | **Population** | 3,100 |
-| **Nearby Places** | [Gulf of Tanelle](../../topography/seas-oceans/gulf-of-tanelle.md)<br>[Lilaweg](../../roads/lilaweg.md)<br>[Niere Lake](../../topography/rivers-lakes/niere-lake.md)<br>[River Trogen](../../topography/rivers-lakes/river-trogen.md)<br>[Route Nord](../../roads/route-nord.md)<br>[Sonnigeweide](../villages/sonnigeweide.md)<br>[Trogenwald](../../topography/forests/trogenwald.md) |
+| **Nearby Places** | [Gulf of Tanelle](../../topography/seas-bays/gulf-of-tanelle.md)<br>[Lilaweg](../../roads/lilaweg.md)<br>[Niere Lake](../../topography/rivers-lakes/niere-lake.md)<br>[River Trogen](../../topography/rivers-lakes/river-trogen.md)<br>[Route Nord](../../roads/route-nord.md)<br>[Sonnigeweide](../villages/sonnigeweide.md)<br>[Trogenwald](../../topography/forests/trogenwald.md) |
 | **People** | [Gerhard Zinder](../../../characters/gerhard-zinder.md) (Lord of Dünnesland)<br>[Updraft](../../../characters/updraft.md) (Hand of [Lady Crane](../../../organisations/lady-crane.md)) |
 
 ## Summary

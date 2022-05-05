@@ -1,18 +1,18 @@
 # Vorrinel's Stand
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | Vorrinel's Stand |
+| **Name** | Vorrinel's Stand | place.4
 | **Type** | Building |
 | **Location** | [Eskrigg](../../settlements/cities/eskrigg.md) |
-| **Nearby Places** | [Eskrigg Astorrel Stronghold](../../settlements/strongholds/eskrigg-astorrel-stronghold.md) |
+| **Nearby Places** | [Eskrigg Astorrel Stronghold](../../settlements/strongholds/eskrigg-astorrel-stronghold.md)<br>[Geor's Door](../inns-taverns/geors-door.md) |
 | **People** | |
 
 ## Summary
 
 Vorrinel's Stand is the large arena in the center of [Eskrigg](../../settlements/cities/eskrigg.md). It is named for the surname of a famous hero of the [Astor-Syntenne War](../../../history/events/astor-syntenne-war.md) and his heroic stand against the Republic.
 
-### Exterior
+## Description
 
 ### Interior
 

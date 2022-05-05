@@ -20,7 +20,7 @@
 
 Arnel Levat is the charismatic gossiping innkeeper of [The Kissing Stones](../places/buildings/inns-taverns/the-kissing-stones.md) in [Filisur](../places/settlements/villages/filisur.md).
 
-He is secretly a spy for the [Astornox](../organisations/government/astornox/astornox.md), passing on any stories of unhappiness or unrest to the [Astornox](../organisations/government/astornox/astornox.md) in Fort Maloja in exchange for being allowed to operate a the inn as a non-citizen (drigg).
+He is secretly a spy for the [Astornox](../organisations/government/astornox/astornox.md), passing on any stories of unhappiness or unrest to the [Astornox](../organisations/government/astornox/astornox.md) in [Fort Maloja](../places/settlements/forts/fort-maloja.md) in exchange for being allowed to operate a the inn as a non-citizen (drigg).
 
 ## Characteristics
 

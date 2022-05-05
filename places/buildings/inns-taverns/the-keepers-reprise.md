@@ -1,16 +1,18 @@
 # The Keeper's Reprise
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | The Keeper's Reprise |
+| **Name** | The Keeper's Reprise | place.4
 | **Type** | Inn |
 | **Location** | [Humouth](../../settlements/villages/humouth.md) |
-| **Nearby Places** | |
-| **People** | [Rysa Ornoll](../../../characters/rysa-ornoll.md) (owner, innkeeper)<br>[Bill Sprig](../../../characters/bill-sprig.md) (hostler) |
+| **Nearby Places** | [Humouth Lighthouse](../humouth-lighthouse.md) |
+| **People** | [Rysa Ornoll](../../../characters/rysa-ornoll.md) (owner)<br>[Bill Sprig](../../../characters/bill-sprig.md) (hostler) |
 
 ## Summary
 
 The Keeper's Reprise is an inn in the village of [Humouth](../../settlements/villages/humouth.md). It is owned and ran by [Rysa Ornoll](../../../characters/rysa-ornoll.md), with the help of [Bill Sprig](../../../characters/bill-sprig.md), the inn's hostler.
+
+## Description
 
 ### Exterior
 

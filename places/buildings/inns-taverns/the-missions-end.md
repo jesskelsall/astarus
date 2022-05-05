@@ -1,11 +1,11 @@
 # The Mission's End
 
-| []() | |
+|||
 | --- | --- |
-| **Name** | The Mission's End |
+| **Name** | The Mission's End | place.4
 | **Type** | Inn |
-| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md)<br>[Sunset District](../../settlements/districts/sunset-district.md)<br>[Northhaven](../../settlements/cities/northhaven.md) |
-| **Nearby Places** | [Auric Rise](../government/auric-rise.md)<br>[Kirrel Hall](../government/kirrel-hall.md)<br>[Tenterfell House](../government/tenterfell-house.md)<br>[Zenith Spire](../government/zenith-spire.md) |
+| **Location** | [Northhaven Astorrel Stronghold](../../settlements/strongholds/northhaven-astorrel-stronghold.md) |
+| **Nearby Places** | [Auric Rise](../government/auric-rise.md)<br>[Hawk's Perch](../government/hawks-perch.md)<br>[Kirrel Hall](../government/kirrel-hall.md)<br>[Tenterfell House](../government/tenterfell-house.md)<br>[The Sanctum](../government/the-sanctum.md)<br>[Zenith Spire](../government/zenith-spire.md) |
 | **People** | |
 
 ## Summary
@@ -18,11 +18,13 @@ From the outside it resembles many of the other buildings in [Northhaven](../../
 
 Inside the entryway is a large canteen-like room that takes up half of the ground floor. There is a kitchen hatch where meals are served at all hours, and rows of benches & tables to sit at.
 
-Payment is taken at the doorway and a room key is given. This is then presented to reenter the building without having to pay again. Each room has four identical keys, one for each person staying in it.
+Payment is taken at the doorway and a room key is given. This is then presented to re-enter the building without having to pay again. Each room has four identical keys, one for each person staying in it.
+
+## Description
 
 | Sensation | Description |
 | ---- | --- |
-| Sights | Large three storey stone square donut shaped building. Marble columns border it, holding up the sloped roof. Square center courtyard bordered by corridors. Canteen room inside of entrance. Contains food hatch, benches and tables. Payment counter at entrance. |
+| Sights | Large three storey stone square doughnut shaped building. Marble columns border it, holding up the sloped roof. Square center courtyard bordered by corridors. Canteen room inside of entrance. Contains food hatch, benches and tables. Payment counter at entrance. |
 | Sounds | Chatter, eating, clang and clink of plates, cutlery & mugs. |
 | Smells | Roasted meat, other food, ale, sweat. |
 | People | [Astorrel](../../../organisations/government/astorrel/astorrel.md), more capable looking. |
@@ -34,11 +36,3 @@ Payment is taken at the doorway and a room key is given. This is then presented 
 | --- | ---:| --- |
 | All inclusive, 1 day, 1 person | 1 gp 2 sp | Ale<br>Meals (comfortable)<br>Inn stay (poor), shared room (2 bunk beds) |
 | All inclusive, 1 day, 1 squad<br>(4 people) | 4 gp |
-
-## History
-
-## Planning
-
-### [Astorrel Agents](../../../campaigns/C2-astorrel-agents.md)
-
-Prior to session 1, the party has (individually) been staying in The Mission's End since arriving in [Northhaven](../../settlements/cities/northhaven.md) 1-4 days ago. They have not been allowed to leave the building until the graduation ceremonies began.

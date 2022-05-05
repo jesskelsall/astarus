@@ -3,8 +3,8 @@
 |||
 | --- | --- |
 | **Landing Date** | 312-2-18 | meteor.1
-| **Landing Location** | [Upper Tresenda](../../../places/topography/valleys/upper-tresenda.md) |
-| **Closest Settlement** | Picdale |
+| **Landing Location** | [Upper Tresenda](../../../places/topography/valleys-plains-deserts/upper-tresenda.md) |
+| **Closest Settlement** | [Picdale](../../../places/settlements/villages/picdale.md) |
 | **Produced** | *Unknown.* |
 | **[Meteoridis](../../../mechanics/roleplay/meteoridis.md)** | *Unknown.* |
 | **Found By** | *Unknown.* |
@@ -12,7 +12,7 @@
 
 ## Summary
 
-The Tresenda Meteorite fell in [Upper Tresenda](../../../places/topography/valleys/upper-tresenda.md), part of [Tresenda Pass](../../../places/roads/tresenda-pass.md). It was the first [meteorite](../meteorite.md) that [Tyburn Dalvos](../../../characters/tyburn-dalvos.md) predicted with Divination.
+The Tresenda Meteorite fell in [Upper Tresenda](../../../places/topography/valleys-plains-deserts/upper-tresenda.md), part of [Tresenda Pass](../../../places/roads/tresenda-pass.md). It was the first [meteorite](../meteorite.md) that [Tyburn Dalvos](../../../characters/tyburn-dalvos.md) predicted with Divination.
 
 ## History
 

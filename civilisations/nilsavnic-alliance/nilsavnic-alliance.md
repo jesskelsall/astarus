@@ -11,7 +11,7 @@
 | **Demonyms** | |
 | **Government** | Confederacy |
 | **Leader** | |
-| **Territories** | Western [Kardan](../../places/topography/continents-islands/kardan.md) |
+| **Territories** | [Western Kardan](../../places/regions/western-kardan.md) |
 | **Founded** | |
 | **Neighbours** | [Kingdom of Astor](../kingdom-of-astor/kingdom-of-astor.md) (east)<br>[Syntenne Republic](../syntenne-republic/syntenne-republic.md) (south east) |
 | **Alliances** | |
@@ -20,7 +20,7 @@
 
 ## Summary
 
-The Nil'Savnic Alliance is a collection of states in Western [Kardan](../../places/topography/continents-islands/kardan.md) that have formed a rough alliance in response to the existence of their neighbouring kingdoms.
+The Nil'Savnic Alliance is a collection of states in [Western Kardan](../../places/regions/western-kardan.md) that have formed a rough alliance in response to the existence of their neighbouring kingdoms.
 
 This is where many of the lesser races of [Kardan](../../places/topography/continents-islands/kardan.md) originate from.
 

@@ -15,7 +15,7 @@
 | **Relations** | |
 | **Acquaintances** | |
 | **From** | |
-| **Places** | [Northhaven Astorrel Stronghold](../places/settlements/strongholds/northhaven-astorrel-stronghold.md) |
+| **Places** | [Auric Rise](../places/buildings/government/auric-rise.md) |
 
 ## Summary
 
