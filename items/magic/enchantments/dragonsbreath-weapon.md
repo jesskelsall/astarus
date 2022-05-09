@@ -3,7 +3,7 @@
 |||
 | --- | --- |
 | **Name** | Dragonsbreath Weapon | item.2
-| **Weight** | _Varies_ |
+| **Weight** | *Varies* |
 | **Notes** | |
 
 ## Description

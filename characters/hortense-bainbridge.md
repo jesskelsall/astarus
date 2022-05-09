@@ -9,8 +9,8 @@
 | **Pronouns** | she/her |
 | **Age** | 33 |
 | **Class** | Fighter (Samurai) |
-| **Background** | |
-| **Worship** | |
+| **Background** | Soldier |
+| **Worship** | [Gormox](../gods/deities/gormox.md) ([Astorrel](../organisations/government/astorrel/astorrel.md) pledge) |
 | **Relations** | |
 | **Places** | [Ulburn Astorrel House](../places/buildings/government/ulburn-astorrel-house.md) |
 | **Citizenship** | |
@@ -19,6 +19,8 @@
 | **Image ID** | `22f41e59f86af318` |
 
 ## Summary
+
+Hortense Bainbridge is an aspiring archer with the strength and dexterity to wield her [Quelborwood Bow](../items/magic/enchantments/quelborwood-bow.md), [Thistle](../items/magic/thistle.md). Her diligence and competitiveness makes her dangerous to cross.
 
 ## Military Record
 
@@ -49,17 +51,15 @@
 
 |||
 | --- | --- |
-| **Face** | | characteristics.2
-| **Hair** | |
-| **Body** | |
-| **Clothes** | |
-| **Voice** | |
-| **Mannerisms** | |
+| **Face** | Dark skin, brown eyes. Prominent cheekbones. Thin eyebrows. | characteristics.2
+| **Hair** | Ash brown, short and braided on sides, tied back with a peg of wood. Extremely well trimmed. |
+| **Body** | 6'2" / 188cm. Muscular build. |
+| **Clothes** | Red chaps and jerkin. Dark grey pants. Rich brown asymmetric studded leather chest piece. Metal wrist guards, metal armoured over knee boots.<br>[Thistle](../items/magic/thistle.md), quiver attached to belt. |
+| **Voice** | Female register, playful with inflections. |
+| **Mannerisms** | Relaxed and loose. Stretches a lot. |
 |||
-| **Quirks** | |
-| **Knowledge** | |
-| **Values** | |
-| **Ambitions** | |
-| **Dislikes** | |
-
-## History
+| **Quirks** | Very competitive - won't back down from a challenge and doesn't deal with insults well. |
+| **Knowledge** | Archery, game hunting, [Gormox](../gods/deities/gormox.md). |
+| **Values** | Diligence, routine, competition. |
+| **Ambitions** | Improving her athleticism and being the best archer possible. |
+| **Dislikes** | Cowardice, unpreparedness. |
