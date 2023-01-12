@@ -44,7 +44,7 @@
 | [MC06](../sessions/MC06.md) | 2021-12-12 | *[Crucible](../characters/crucible.md)'s Ultimatum* |
 | [MC07](../sessions/MC07.md) | 2022-01-16 | *Wolves of the Schulterwood* |
 ||
-| [MC08](../sessions/MC08.md) | 2022-02-06 | |
+| [MC08](../sessions/MC08.md) | 2022-05-22 | |
 
 ## Storylines
 
