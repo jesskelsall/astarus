@@ -26,24 +26,46 @@
 >
 > In the heat of battle, the Meteoric Mind instructs its carpet of [meteoric dust](../items/meteoric/meteoric-dust.md) to move, creating terrain that is hard to traverse, and cutting those who fall into it.
 
----
-
-Initially residing in the crater caused when its [meteorite](../items/meteoric/meteorite.md) crash landed, a Meteoric Mind can move its lair by moving its surplus of [meteoric dust](../items/meteoric/meteoric-dust.md) across the land, collecting it wherever it needs to be to further its goals.
-
-Easily disguised as a simple dark grey sandy patch, the lair can be still without little indication that danger is present. The best sign is if the surrounding landscape has been stripped of its biomass, an ominous sign to those that venture near.
-
-In the heat of battle, the Meteoric Mind instructs its carpet of [meteoric dust](../items/meteoric/meteoric-dust.md) to move, creating terrain that is hard to traverse, and cutting those who fall into it.
-Lair Actions
+## Lair Actions
 
 On initiative count 20 (losing initiative ties), the Meteoric Mind takes a lair action to cause one of the following effects:
 
-    Reconfigure: The Meteoric Mind can create and/or destroy as many meteoric creatures as it wishes that are touching its [meteoric dust](../items/meteoric/meteoric-dust.md). Creating a creature subtracts its starting hit points from those of the Meteoric Mind. Destroying a creature adds the creature's current hit points to that of the Meteoric Mind. The Meteoric Mind cannot reduce itself to 0 hit points using this lair action.
-    Dust Surge: The [Meteoric Hunter](meteoric-hunter.md) orders all of its [meteoric dust](../items/meteoric/meteoric-dust.md) to surge in a direction of its choosing, centered on its position: towards, away, clockwise, counter-clockwise. Any non-meteoric creature that is [condition]prone[/condition] takes 7 (2d6) slashing damage. All other non-meteoric creatures standing in the dust must succeed on a DC 15 Strength saving throw or be knocked [condition]prone[/condition].
+- **Reconfigure:** The Meteoric Mind can create and/or destroy as many meteoric creatures as it wishes that are touching its meteoric dust. Creating a creature subtracts its starting hit points from those of the Meteoric Mind. Destroying a creature adds the creature's current hit points to that of the Meteoric Mind. The Meteoric Mind cannot reduce itself to 0 hit points using this lair action.
+- **Dust Surge:** The Meteoric Hunter orders all of its meteoric dust to surge in a direction of its choosing, centred on its position: towards, away, clockwise, counter-clockwise. Any non-meteoric creature that is prone takes 7 (2d6) slashing damage. All other non-meteoric creatures standing in the dust must succeed on a DC 15 Strength saving throw or be knocked prone.
 
----
+## Stat Block
 
-Multiattack. The Meteoric Mind attacks twice, once with each of its blade arms.
+|||
+| --- | --- |
+| **Size & Type** | Medium Construct |
+| **Alignment** | Chaotic Evil |
+| **Armour Class** | 13 Natural |
+| **Hit Points** | 18 (3d8 + 4) |
+| **Speed** | 20 ft. |
+|||
+| **STR** | 10 (+0) |
+| **DEX** | 10 (+0) |
+| **CON** | 8 (-1) |
+| **INT** | 18 (+4) |
+| **WIS** | 12 (+1) |
+| **CHA** | 12 (+1) |
+|||
+| **Saving Throws** | INT +6 |
+| **Skills** | |
+| **Damage Vulnerabilities** | Acid, Psychic |
+| **Damage Resistances** | |
+| **Damage Immunities** | Piercing, Slashing |
+| **Condition Immunities** | Grappled, Restrained |
+| **Senses** | Passive Perception 11 |
+| **Languages** | Common, Dwarvish, Elvish |
+|||
+| **Challenge** | 1 (200 XP) |
+| **Proficiency Bonus** | +2 |
 
-Blade Arm. Melee Weapon Attack: +3 to hit, range 5ft, one target. Hit: 4 (1d6) slashing damage.
+### Actions
 
-Mindfield (Recharge: 6). The Meteoric Mind protects a 10 foot bubble sphere of anti-magic focused on it . Any magic that attempts to pass through the bubble is nullified, though the inside of the bubble is not anti-magic. If the Meteoric Mind moves or is moved after the bubble appears, it dissipates instantly. This ability does not recharge while active.
+***Multiattack.*** The Meteoric Mind attacks twice, once with each of its blade arms.
+
+***Blade Arm.*** *Melee Weapon Attack:* +3 to hit, range 5ft, one target.<br>*Hit:* 4 (1d6) slashing damage.
+
+***Mindfield (Recharge: 6).*** The Meteoric Mind protects a 10 foot bubble sphere of anti-magic focused on it . Any magic that attempts to pass through the bubble is nullified, though the inside of the bubble is not anti-magic. If the Meteoric Mind moves or is moved after the bubble appears, it dissipates instantly. This ability does not recharge while active.
