@@ -135,3 +135,17 @@ The player characters meet in [Goldreach](../places/settlements/towns/goldreach.
 | [Reaching Augury Rock](../storylines/reaching-augury-rock.md) | [PR37](../sessions/PR37.md) | |
 | [Ephaine's Missing Brother](../storylines/cancelled/ephaines-missing-brother.md) | [PR42](../sessions/PR42.md) | [PR42](../sessions/PR42.md) |
 | [Rescue Kiln Squad](../storylines/rescue-kiln-squad.md) | [PR47](../sessions/PR47.md) | |
+
+## Paper Notes
+
+### Concept
+
+<img src="../images/paper-notes/purple-rain-concept-1.jpg" height="500" />
+<img src="../images/paper-notes/purple-rain-concept-2.jpg" height="500" />
+<img src="../images/paper-notes/purple-rain-concept-3.jpg" height="500" />
+<img src="../images/paper-notes/purple-rain-concept-4.jpg" height="500" />
+
+### Characters
+
+<img src="../images/paper-notes/purple-rain-character-notes-1.jpg" height="350" />
+<img src="../images/paper-notes/purple-rain-character-notes-2.jpg" height="500" />

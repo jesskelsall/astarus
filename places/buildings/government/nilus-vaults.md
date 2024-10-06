@@ -47,4 +47,4 @@ On each floor are lock boxes. Each floor contains different sizes, many of which
 
 On the upper floors railings surround the skylight. Guards are positioned behind these railings, with 2 or 3 guards per floor. Looking across the gap at each other, each guard can see roughly half of their floor, and can look down at the floor(s) below.
 
-<img src="../../../images/sketches/nilus-vaults.jpg" width="800px" />
+<img src="../../../images/paper-notes/nilus-vaults.jpg" width="800px" />

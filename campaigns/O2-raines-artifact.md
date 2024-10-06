@@ -87,3 +87,12 @@
 - Combat:
   - Ghost x1
   - Skeleton x6
+
+## Paper Notes
+
+### Concept
+
+|||
+|:---:|:---:|
+| <img src="../images/paper-notes/raines-artifact-concept-1.jpg" height="500" /> | <img src="../images/paper-notes/raines-artifact-concept-2.jpg" height="500" /> |
+| <img src="../images/paper-notes/raines-artifact-concept-3.jpg" height="500" /> | <img src="../images/paper-notes/raines-artifact-concept-4.jpg" height="500" /> |

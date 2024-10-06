@@ -26,3 +26,5 @@ Formed immediately after [The Third Coming](../../../history/events/the-third-co
 
 - [Lady Crane](../../../organisations/lady-crane.md)'s Château ([Lady Crane](../../../organisations/lady-crane.md) HQ)
 - [Raphael's Armaments](../../buildings/shops/raphaels-armaments.md) (weapons)
+
+<img src="../../../images/paper-notes/hochwald-ideas.jpg" width="500px" />
